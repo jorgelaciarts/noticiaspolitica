@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Boletín Político — Chile</title>
-<meta name="description" content="Resumen automático de noticias sobre partidos, candidatos, presidente, senadores, diputados, gobernadores regionales, concejales, alcaldes y consejeros regionales.">
+<title>Clipping de Prensa Política — Chile</title>
+<meta name="description" content="Clipping automático de prensa sobre partidos, candidatos, presidente, senadores, diputados, gobernadores regionales, concejales, alcaldes y consejeros regionales.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,500&family=IBM+Plex+Mono:wght@400;500;600&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet">
@@ -14,10 +14,10 @@
 
 <header class="masthead">
   <div class="masthead__inner">
-    <div class="masthead__mark">☙</div>
+    <div class="masthead__mark">✂</div>
     <div class="masthead__titles">
-      <p class="masthead__eyebrow">Servicio de monitoreo automático · Chile</p>
-      <h1 class="masthead__title">Boletín Político</h1>
+      <p class="masthead__eyebrow">Clipping de prensa · Política nacional, Chile</p>
+      <h1 class="masthead__title">Clipping Político</h1>
     </div>
     <div class="masthead__status" id="status">
       <span class="masthead__dot" id="statusDot"></span>
@@ -26,20 +26,25 @@
   </div>
 </header>
 
-<div class="toolbar">
+<div class="toolbar no-print">
   <div class="toolbar__inner">
-    <input id="search" class="search" type="search" placeholder="Buscar por nombre, partido, comuna…" autocomplete="off">
+    <div class="toolbar__row">
+      <input id="search" class="search" type="search" placeholder="Buscar por nombre, partido, comuna…" autocomplete="off">
+      <button id="printBtn" class="print-btn" type="button">Exportar / Imprimir</button>
+    </div>
     <div class="chips" id="chips" role="group" aria-label="Filtrar por categoría"></div>
   </div>
 </div>
+
+<p class="print-title">Clipping de prensa política — generado el <span id="printDate"></span></p>
 
 <main class="feed" id="feed" aria-live="polite">
   <p class="feed__empty" id="empty">Cargando noticias…</p>
 </main>
 
-<footer class="colophon">
-  <p>Este boletín se genera automáticamente a partir de feeds RSS de medios chilenos y se actualiza cada
-  30&nbsp;minutos. No reemplaza el trabajo editorial de la prensa: cada titular enlaza a la nota original.</p>
+<footer class="colophon no-print">
+  <p>Este clipping se genera automáticamente a partir de feeds RSS de medios chilenos y se actualiza cada
+  30&nbsp;minutos. No reemplaza el trabajo editorial de la prensa: cada recorte enlaza a la nota original.</p>
 </footer>
 
 <script src="app.js"></script>

@@ -1,11 +1,13 @@
 const DATA_URL = "data/news.json";
 const POLL_MS = 3 * 60 * 1000; // revisa si hay novedades cada 3 minutos
-const LAST_VISIT_KEY = "boletin-politico:last-visit";
+const LAST_VISIT_KEY = "clipping-politico:last-visit";
 
 const feedEl = document.getElementById("feed");
 const emptyEl = document.getElementById("empty");
 const chipsEl = document.getElementById("chips");
 const searchEl = document.getElementById("search");
+const printBtn = document.getElementById("printBtn");
+const printDateEl = document.getElementById("printDate");
 const statusDot = document.getElementById("statusDot");
 const statusText = document.getElementById("statusText");
 
@@ -27,6 +29,22 @@ function relativeTime(iso) {
 function formatClock(iso) {
   const d = new Date(iso);
   return d.toLocaleString("es-CL", { day: "2-digit", month: "short", hour: "2-digit", minute: "2-digit" });
+}
+
+function formatHour(iso) {
+  const d = new Date(iso);
+  return d.toLocaleTimeString("es-CL", { hour: "2-digit", minute: "2-digit" });
+}
+
+function dayKey(iso) {
+  const d = new Date(iso);
+  return d.toISOString().slice(0, 10); // YYYY-MM-DD, agrupa por día calendario UTC
+}
+
+function formatDayLabel(iso) {
+  const d = new Date(iso);
+  const label = d.toLocaleDateString("es-CL", { weekday: "long", day: "numeric", month: "long", year: "numeric" });
+  return label.charAt(0).toUpperCase() + label.slice(1);
 }
 
 function buildChips(categorias) {
@@ -76,24 +94,37 @@ function render() {
     return;
   }
 
-  const frag = document.createDocumentFragment();
+  // agrupar por día calendario, manteniendo el orden (más reciente primero)
+  const grupos = new Map();
   filtrados.forEach((item) => {
-    const li = document.createElement("article");
-    li.className = "item" + (new Date(item.fecha).getTime() > lastVisit ? " is-new" : "");
-
-    li.innerHTML = `
-      <div class="item__meta">
-        <span class="item__time" title="${formatClock(item.fecha)}">${relativeTime(item.fecha)}</span>
-        <span class="item__source">${item.fuente}</span>
-      </div>
-      <div class="item__body">
-        <h2 class="item__headline"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></h2>
-        ${item.resumen ? `<p class="item__summary">${item.resumen}</p>` : ""}
-        <div class="item__tags">${item.categorias.map((c) => `<span class="stamp">${c}</span>`).join("")}</div>
-      </div>
-    `;
-    frag.appendChild(li);
+    const key = dayKey(item.fecha);
+    if (!grupos.has(key)) grupos.set(key, []);
+    grupos.get(key).push(item);
   });
+
+  const frag = document.createDocumentFragment();
+  for (const [, items] of grupos) {
+    const daySection = document.createElement("section");
+    daySection.className = "day";
+    daySection.innerHTML = `<h2 class="day__label">${formatDayLabel(items[0].fecha)}</h2>`;
+
+    items.forEach((item) => {
+      const clip = document.createElement("article");
+      clip.className = "clip" + (new Date(item.fecha).getTime() > lastVisit ? " is-new" : "");
+      clip.innerHTML = `
+        <div class="clip__masthead">
+          <span class="clip__source">${item.fuente}</span>
+          <span class="clip__time" title="${formatClock(item.fecha)}">${formatHour(item.fecha)} · ${relativeTime(item.fecha)}</span>
+        </div>
+        <h3 class="clip__headline"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></h3>
+        ${item.resumen ? `<p class="clip__summary">${item.resumen}</p>` : ""}
+        <div class="clip__tags">${item.categorias.map((c) => `<span class="stamp">${c}</span>`).join("")}</div>
+      `;
+      daySection.appendChild(clip);
+    });
+
+    frag.appendChild(daySection);
+  }
   feedEl.appendChild(frag);
 }
 
@@ -121,6 +152,13 @@ async function load({ silent = false } = {}) {
 }
 
 searchEl.addEventListener("input", render);
+
+printBtn.addEventListener("click", () => {
+  printDateEl.textContent = new Date().toLocaleString("es-CL", {
+    day: "2-digit", month: "long", year: "numeric", hour: "2-digit", minute: "2-digit",
+  });
+  window.print();
+});
 
 load().then(() => {
   localStorage.setItem(LAST_VISIT_KEY, String(Date.now()));
