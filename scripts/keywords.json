@@ -10,7 +10,8 @@
     "Concejales": ["concejal", "concejala", "concejo municipal"],
     "Alcaldes": ["alcalde", "alcaldesa", "municipalidad de"],
     "Consejeros regionales": ["consejero regional", "consejera regional", "core"],
-    "Elecciones": ["elecciones 2025", "elecciones 2026", "servel", "segunda vuelta", "eleccion presidencial", "eleccion parlamentaria", "eleccion municipal", "eleccion de gobernadores"]
+    "Elecciones": ["elecciones 2025", "elecciones 2026", "servel", "segunda vuelta", "eleccion presidencial", "eleccion parlamentaria", "eleccion municipal", "eleccion de gobernadores"],
+    "Servicio Electoral": ["servel", "servicio electoral", "servicio electoral de chile", "tricel", "tribunal calificador de elecciones", "tribunal electoral regional", "tribunales electorales regionales", "teer"]
   },
   "exclusiones": [
     "futbol", "gol de", "goles", "partido de futbol", "campeonato nacional",
