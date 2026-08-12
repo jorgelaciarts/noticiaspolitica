@@ -1,11 +1,11 @@
 :root{
-  --ink: #1B2430;
-  --paper: #F5F2EA;
-  --paper-dim: #EAE5D8;
-  --line: #D8D2C0;
-  --stamp: #A63A2E;
-  --gold: #C99A3D;
-  --green: #4B6B4F;
+  --ink: #0B2E4F;
+  --paper: #F4F6F8;
+  --paper-dim: #E3E9EE;
+  --line: #C7D1DA;
+  --stamp: #C8102E;
+  --gold: #B5772A;
+  --green: #1E7A4C;
   --display: "Newsreader", Georgia, serif;
   --body: "Source Sans 3", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
@@ -73,15 +73,15 @@ a{ color: inherit; }
 .masthead__dot{
   width: 8px; height: 8px; border-radius: 50%;
   background: var(--green);
-  box-shadow: 0 0 0 3px rgba(75,107,79,0.15);
+  box-shadow: 0 0 0 3px rgba(30,122,76,0.15);
 }
-.masthead__dot.stale{ background: var(--gold); box-shadow: 0 0 0 3px rgba(201,154,61,0.18); }
-.masthead__dot.error{ background: var(--stamp); box-shadow: 0 0 0 3px rgba(166,58,46,0.18); }
+.masthead__dot.stale{ background: var(--gold); box-shadow: 0 0 0 3px rgba(181,119,42,0.18); }
+.masthead__dot.error{ background: var(--stamp); box-shadow: 0 0 0 3px rgba(200,16,46,0.18); }
 
 /* ---------- toolbar ---------- */
 .toolbar{
   position: sticky; top: 0; z-index: 10;
-  background: rgba(245,242,234,0.92);
+  background: rgba(244,246,248,0.92);
   backdrop-filter: blur(6px);
   border-bottom: 1px solid var(--line);
 }
