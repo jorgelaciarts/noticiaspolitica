@@ -1,0 +1,15 @@
+{
+  "_comentario": "Cada categoría tiene una lista de palabras/frases (sin tildes o con tildes, se normalizan automáticamente). Una noticia se etiqueta con TODAS las categorías cuyas palabras encuentre.",
+  "categorias": {
+    "Presidente": ["presidente de la republica", "presidente boric", "la moneda", "gobierno de chile", "vocero de gobierno", "ministro del interior"],
+    "Partidos políticos": ["partido republicano", "partido comunista", "partido socialista", "renovacion nacional", "union democrata independiente", "udi", "rn", "evopoli", "partido de la gente", "frente amplio", "revolucion democratica", "democratas", "partido radical", "partido liberal", "amarillos por chile", "convergencia social", "accion humanista", "partido pais", "chile vamos", "unidad por chile", "primarias presidenciales"],
+    "Candidatos": ["candidato presidencial", "candidata presidencial", "candidatura", "candidato a diputado", "candidato a senador", "candidato a alcalde", "primaria", "papeleta"],
+    "Senadores": ["senador", "senadora", "senado de chile"],
+    "Diputados": ["diputado", "diputada", "camara de diputados"],
+    "Gobernadores regionales": ["gobernador regional", "gobernadora regional", "gore"],
+    "Concejales": ["concejal", "concejala", "concejo municipal"],
+    "Alcaldes": ["alcalde", "alcaldesa", "municipalidad de"],
+    "Consejeros regionales": ["consejero regional", "consejera regional", "core "],
+    "Elecciones": ["elecciones 2025", "elecciones 2026", "servel", "segunda vuelta", "eleccion presidencial", "eleccion parlamentaria", "eleccion municipal", "eleccion de gobernadores"]
+  }
+}
