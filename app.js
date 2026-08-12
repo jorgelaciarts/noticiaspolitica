@@ -5,7 +5,7 @@ const LAST_VISIT_KEY = "clipping-politico:last-visit";
 const feedEl = document.getElementById("feed");
 const emptyEl = document.getElementById("empty");
 const chipsEl = document.getElementById("chips");
-const regionChipsEl = document.getElementById("regionChips");
+const regionSelectEl = document.getElementById("regionSelect");
 const searchEl = document.getElementById("search");
 const printBtn = document.getElementById("printBtn");
 const printDateEl = document.getElementById("printDate");
@@ -68,25 +68,6 @@ function buildChips(categorias) {
   });
 }
 
-function buildRegionChips(regiones) {
-  regionChipsEl.innerHTML = "";
-  const todas = document.createElement("button");
-  todas.className = "chip";
-  todas.textContent = "Todas";
-  todas.setAttribute("aria-pressed", String(activeRegion === null));
-  todas.addEventListener("click", () => setActiveRegion(null));
-  regionChipsEl.appendChild(todas);
-
-  regiones.forEach((region) => {
-    const btn = document.createElement("button");
-    btn.className = "chip";
-    btn.textContent = region;
-    btn.setAttribute("aria-pressed", String(activeRegion === region));
-    btn.addEventListener("click", () => setActiveRegion(region));
-    regionChipsEl.appendChild(btn);
-  });
-}
-
 function setActiveCategoria(cat) {
   activeCategoria = cat;
   [...chipsEl.children].forEach((btn) => {
@@ -97,9 +78,6 @@ function setActiveCategoria(cat) {
 
 function setActiveRegion(region) {
   activeRegion = region;
-  [...regionChipsEl.children].forEach((btn) => {
-    btn.setAttribute("aria-pressed", String(btn.textContent === (region ?? "Todas")));
-  });
   render();
 }
 
@@ -171,11 +149,7 @@ async function load({ silent = false } = {}) {
     allItems = data.items || [];
 
     const categorias = [...new Set(allItems.flatMap((i) => i.categorias))].sort();
-    const regiones = [...new Set(allItems.map((i) => i.region || "Nacional"))].sort();
-    if (!silent) {
-      buildChips(categorias);
-      buildRegionChips(regiones);
-    }
+    if (!silent) buildChips(categorias);
 
     render();
     setStatus("ok", `actualizado ${relativeTime(data.actualizado)} · ${data.total} noticias`);
@@ -186,6 +160,10 @@ async function load({ silent = false } = {}) {
 }
 
 searchEl.addEventListener("input", render);
+
+regionSelectEl.addEventListener("change", () => {
+  setActiveRegion(regionSelectEl.value || null);
+});
 
 printBtn.addEventListener("click", () => {
   printDateEl.textContent = new Date().toLocaleString("es-CL", {
