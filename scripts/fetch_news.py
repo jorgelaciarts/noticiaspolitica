@@ -68,10 +68,27 @@ def match_categories(title: str, summary: str, categorias: dict) -> list:
     matched = []
     for categoria, palabras in categorias.items():
         for palabra in palabras:
-            if normalize(palabra).strip() and normalize(palabra) in haystack:
+            palabra_norm = normalize(palabra).strip()
+            if not palabra_norm:
+                continue
+            # \b = límite de palabra: evita que "udi" matchee dentro de "estudio", por ejemplo
+            patron = r"\b" + re.escape(palabra_norm) + r"\b"
+            if re.search(patron, haystack):
                 matched.append(categoria)
                 break
     return matched
+
+
+def contains_exclusion(title: str, summary: str, exclusiones: list) -> bool:
+    haystack = normalize(f"{title} {summary}")
+    for palabra in exclusiones:
+        palabra_norm = normalize(palabra).strip()
+        if not palabra_norm:
+            continue
+        patron = r"\b" + re.escape(palabra_norm) + r"\b"
+        if re.search(patron, haystack):
+            return True
+    return False
 
 
 def fetch_feed(nombre: str, url: str):
@@ -89,7 +106,9 @@ def fetch_feed(nombre: str, url: str):
 
 def main():
     feeds = load_json(FEEDS_FILE, {"feeds": []})["feeds"]
-    categorias = load_json(KEYWORDS_FILE, {"categorias": {}})["categorias"]
+    keywords_data = load_json(KEYWORDS_FILE, {"categorias": {}, "exclusiones": []})
+    categorias = keywords_data.get("categorias", {})
+    exclusiones = keywords_data.get("exclusiones", [])
     existentes = load_json(OUTPUT_FILE, {"items": []}).get("items", [])
     vistos = {item["link"] for item in existentes if item.get("link")}
 
@@ -104,6 +123,8 @@ def main():
                 continue
             title = entry.get("title", "").strip()
             summary = re.sub("<[^<]+?>", "", entry.get("summary", entry.get("description", ""))).strip()
+            if contains_exclusion(title, summary, exclusiones):
+                continue  # ej: noticias deportivas que colaron por coincidencia de texto
             categorias_encontradas = match_categories(title, summary, categorias)
             if not categorias_encontradas:
                 continue  # no habla de política/candidatos/autoridades: se descarta
