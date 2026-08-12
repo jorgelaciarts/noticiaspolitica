@@ -12,7 +12,10 @@
     { "nombre": "Cambio21", "url": "https://www.cambio21.cl/rss", "region": "Nacional" },
     { "nombre": "El Ciudadano", "url": "https://www.elciudadano.com/feed/", "region": "Nacional" },
 
-    { "nombre": "Servicio Electoral (Servel)", "url": "https://www.servel.cl/category/noticias-electorales/feed/", "region": "Nacional" },
+    { "nombre": "CIPER Chile", "url": "https://www.ciperchile.cl/feed/", "region": "Nacional" },
+    { "nombre": "CIPER Chile - Radar", "url": "https://www.ciperchile.cl/radar-2/feed/", "region": "Nacional" },
+
+    { "nombre": "Servicio Electoral (Servel, vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aservel.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
 
     { "nombre": "El Día (La Serena)", "url": "https://www.diarioeldia.cl/feed", "region": "Coquimbo" },
     { "nombre": "El Observatodo (La Serena)", "url": "https://www.elobservatodo.cl/feed", "region": "Coquimbo" },
