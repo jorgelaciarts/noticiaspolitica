@@ -2,6 +2,13 @@ const DATA_URL = "data/news.json";
 const POLL_MS = 3 * 60 * 1000; // revisa si hay novedades cada 3 minutos
 const LAST_VISIT_KEY = "clipping-politico:last-visit";
 
+// lista fija, así los chips siempre se ven aunque todavía no haya noticias de esa categoría
+const CATEGORIAS_FIJAS = [
+  "Presidente", "Partidos políticos", "Candidatos", "Senadores", "Diputados",
+  "Gobernadores regionales", "Concejales", "Alcaldes", "Consejeros regionales",
+  "Elecciones", "Servicio Electoral",
+];
+
 const feedEl = document.getElementById("feed");
 const emptyEl = document.getElementById("empty");
 const chipsEl = document.getElementById("chips");
@@ -148,9 +155,6 @@ async function load({ silent = false } = {}) {
     const data = await res.json();
     allItems = data.items || [];
 
-    const categorias = [...new Set(allItems.flatMap((i) => i.categorias))].sort();
-    if (!silent) buildChips(categorias);
-
     render();
     setStatus("ok", `actualizado ${relativeTime(data.actualizado)} · ${data.total} noticias`);
   } catch (err) {
@@ -160,6 +164,8 @@ async function load({ silent = false } = {}) {
 }
 
 searchEl.addEventListener("input", render);
+
+buildChips(CATEGORIAS_FIJAS);
 
 regionSelectEl.addEventListener("change", () => {
   setActiveRegion(regionSelectEl.value || null);
