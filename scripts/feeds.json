@@ -33,6 +33,12 @@
     { "nombre": "T13 (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3At13.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
     { "nombre": "24Horas (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3A24horas.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
     { "nombre": "ADN Radio (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aadnradio.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "Tiempo21 (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Atiempo21.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "Radio Universidad de Chile (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aradio.uchile.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "Crónica Digital (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Acronicadigital.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "CNN Chile (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Acnnchile.com%20pais&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "El País - Chile (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aelpais.com%2Fchile&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "Infobae - América/Chile (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Ainfobae.com%20chile&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
 
     { "nombre": "Meganoticias (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Ameganoticias.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
     { "nombre": "Radio Agricultura (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aradioagricultura.cl%20politica&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
