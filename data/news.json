@@ -1,6 +1,6 @@
 {
-  "actualizado": "2026-08-12T16:37:52.696908+00:00",
-  "total": 70,
+  "actualizado": "2026-08-12T17:05:32.020243+00:00",
+  "total": 75,
   "items": [
     {
       "titulo": "Presidente Kast promulgó “Escuelas Protegidas”",
@@ -119,6 +119,31 @@
       "fecha": "2026-08-12T14:22:31+00:00"
     },
     {
+      "titulo": "El costo del espectáculo político",
+      "link": "https://ladiscusion.cl/el-costo-del-espectaculo-politico/",
+      "fuente": "La Discusión (Chillán)",
+      "resumen": "&#160; Señor Director: Durante los últimos días, las chilenas y chilenos hemos sido testigos de una seguidilla de enfrentamientos entre autoridades de distintos niveles del Estado. Alcaldes, delegados presidenciales, gobernadores regionales, diputados, senadores y concejales parecen más preocupados de instalar polémicas que de responder a las necesidades de la ciudadanía. El debate democrático exi",
+      "categorias": [
+        "Senadores",
+        "Diputados",
+        "Gobernadores regionales",
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-12T14:22:04+00:00"
+    },
+    {
+      "titulo": "Cuando informar sin rostro daña",
+      "link": "https://ladiscusion.cl/cuando-informar-sin-rostro-dana/",
+      "fuente": "La Discusión (Chillán)",
+      "resumen": "Señor Director: Como Presidente Regional de Renovación Nacional y alcalde de El Carmen, alzo la voz frente a un fenómeno dañino para nuestra democracia regional: la proliferación de supuestas páginas informativas en redes sociales. Son perfiles que se hacen llamar “noticias”, sin nombre real, rostro visible ni responsable legal, que se dedican a tergiversar situaciones [&#8230;]",
+      "categorias": [
+        "Partidos políticos",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-12T14:19:01+00:00"
+    },
+    {
       "titulo": "Kast promulgó Ley \"Escuelas Protegidas\" y destacó que colegios puedan revisar mochilas",
       "link": "https://www.cooperativa.cl/noticias/pais/educacion/colegios/kast-promulgo-ley-escuelas-protegidas-y-destaco-que-colegios-puedan/2026-08-12/101726.html",
       "fuente": "Cooperativa - País",
@@ -167,6 +192,37 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-12T11:52:28+00:00"
+    },
+    {
+      "titulo": "Exseremi Marco Uribe encabeza lista única del Frente Amplio en Magallanes y apuesta por recuperar presencia territorial",
+      "link": "https://laprensaaustral.cl/2026/08/12/exseremi-marco-uribe-encabeza-lista-unica-del-frente-amplio-en-magallanes-y-apuesta-por-recuperar-presencia-territorial/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "resumen": "El próximo sábado 15 y domingo 16 de agosto, los más de mil militantes inscritos en el Frente Amplio en Magallanes están convocados a las urnas para votar quién regirá los destinos del partido, tanto a nivel nacional como regional. Son varios los cargos que se renuevan: aparte de las directivas, también los encargados comunales...",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-12T11:44:06+00:00"
+    },
+    {
+      "titulo": "Mayorga acusa “daño a la fe pública” por descoordinación  de Vialidad y Obras Hidráulicas en Huertos Familiares",
+      "link": "https://laprensaaustral.cl/2026/08/12/mayorga-acusa-dano-a-la-fe-publica-por-descoordinacion-de-vialidad-y-obras-hidraulicas-en-huertos-familiares/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "resumen": "Según el informe de Contraloróa, mientras Vialidad ejecutaba la conservación de unos 17 kilómetros de caminos en el sector, la DOH excavaba zanjas en las mismas vías ya pavimentadas para instalar la red de agua potable rural. &#160; La alcaldesa de Natales, Ana Mayorga, respondió en el Concejo Municipal al informe de Contraloría que ordenó...",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-12T11:41:16+00:00"
+    },
+    {
+      "titulo": "Alcaldesa de Torres del Paine llevó al Congreso prioridades  comunales: gas natural, electrificación y un museo paleontológico",
+      "link": "https://laprensaaustral.cl/2026/08/12/alcaldesa-de-torres-del-paine-llevo-al-congreso-prioridades-comunales-gas-natural-electrificacion-y-un-museo-paleontologico/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "resumen": "Uno de los puntos que Anahí Cárdenas subrayó con mayor preocupación fue la demora en el traspaso del Parque Nacional Torres del Paine al nuevo Servicio de Biodiversidad y Areas Protegidas. &#160; La alcaldesa de Torres del Paine, Anahí Cárdenas Rodríguez, expuso ante la Comisión de Zonas Extremas y Antártica Chilena de la Cámara de...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-12T11:35:27+00:00"
     },
     {
       "titulo": "Parlamentarios de derecha chilenos bloquean test de drogas a militares",
