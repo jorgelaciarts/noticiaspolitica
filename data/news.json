@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-12T16:27:43.299887+00:00",
-  "total": 50,
+  "actualizado": "2026-08-12T16:37:52.696908+00:00",
+  "total": 70,
   "items": [
+    {
+      "titulo": "Presidente Kast promulgó “Escuelas Protegidas”",
+      "link": "https://www.lanacion.cl/presidente-kast-promulgo-escuelas-protegidas/",
+      "fuente": "La Nación",
+      "resumen": "El&#160;Presidente José Antonio Kast&#160;encabezó este miércoles la promulgación de la&#160;Ley de “Escuelas Protegidas”. Esta normativa busca entregar a las comunidades educativas nuevas herramientas para prevenir la violencia. Y resguardar la seguridad al interior de los establecimientos educacionales. Según consignó T13, la actividad se realizó en la Escuela Nueva Zelandia, en la comuna de Ind",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-12T16:25:59+00:00"
+    },
     {
       "titulo": "Trump, Milei y las elecciones de Brasil 2026",
       "link": "https://www.elciudadano.com/columnas/trump-milei-y-las-elecciones-de-brasil-2026/08/12/",
@@ -21,6 +32,41 @@
         "Senadores"
       ],
       "fecha": "2026-08-12T16:15:09+00:00"
+    },
+    {
+      "titulo": "(VIDEO) El Presidente Kast está apostando a la polarización: Entrevista con Álvaro Ortiz sobre política y finanzas",
+      "link": "https://www.elciudadano.com/reels/video-el-presidente-kast-esta-apostando-a-la-polarizacion-entrevista-con-alvaro-ortiz-sobre-politica-y-finanzas/08/12/",
+      "fuente": "El Ciudadano",
+      "resumen": "El Ciudadano\nÁlvaro Ortiz, presidente de la Democracia Cristiana, analiza la estrategia de polarización política del Presidente Kast y las implicaciones del levantamiento del secreto bancario. Discusión sobre el impacto de estas acciones en el escenario político actual y sus efectos sobre figuras como Matthei posicionada en el centro derecha.\nLa entrada (VIDEO) El Presidente Kast está apostando a ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-12T16:00:13+00:00"
+    },
+    {
+      "titulo": "Krauss y Pardo rechazan \"agresiva\" idea republicana de lanzar indultos el 11 de septiembre",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/krauss-y-pardo-rechazan-agresiva-idea-republicana-de-lanzar-indultos/2026-08-12/115302.html",
+      "fuente": "Cooperativa - País",
+      "resumen": "La secretaria nacional de la Democracia Cristiana, Alejandra Krauss, y el diputado RN Luis Pardo rechazaron en El Primer Café la propuesta surgida del Partido Republicano para que José Antonio Kast indulte a uniformados condenados por violaciones a los derechos humanos en coincidencia con la conmemoración de los 53 años del golpe de Estado.\n\"Sería una señal espectacular que el 11 de septiembre el ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-08-12T15:53:02+00:00"
+    },
+    {
+      "titulo": "Alegatos por la megarreforma: Cordero defendió a la industria salmonera en el TC",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/constitucion/alegatos-por-la-megarreforma-cordero-defendio-a-la-industria-salmonera/2026-08-12/114347.html",
+      "fuente": "Cooperativa - País",
+      "resumen": "El Tribunal Constitucional (TC) lleva a cabo este miércoles una extensa audiencia pública para escuchar las intervenciones de 56 representantes de organismos e instituciones en el marco de los requerimientos de inconstitucionalidad presentados por la oposición -y recientemente por el Ejecutivo- a la megarreforma impulsada por el Gobierno.\nDurante la sesión destacó la participación del exministro d",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-12T15:43:47+00:00"
     },
     {
       "titulo": "Municipalidad de Curicó abrió sumario contra su equipo de informática por filtración de imágenes íntimas",
@@ -71,6 +117,16 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-12T14:22:31+00:00"
+    },
+    {
+      "titulo": "Kast promulgó Ley \"Escuelas Protegidas\" y destacó que colegios puedan revisar mochilas",
+      "link": "https://www.cooperativa.cl/noticias/pais/educacion/colegios/kast-promulgo-ley-escuelas-protegidas-y-destaco-que-colegios-puedan/2026-08-12/101726.html",
+      "fuente": "Cooperativa - País",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-12T14:17:26+00:00"
     },
     {
       "titulo": "Desbordes se lanza contra Vodanovic por la megarreforma: “Los alcaldes de izquierda pusieron este debate sobre la mesa faltando a la verdad”",
@@ -211,6 +267,16 @@
       "fecha": "2026-08-11T18:30:15+00:00"
     },
     {
+      "titulo": "Agustín Romero: Por su carga histórica, Codelco no es una empresa privatizable",
+      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/agustin-romero-por-su-carga-historica-codelco-no-es-una-empresa/2026-08-11/122817.html",
+      "fuente": "Cooperativa - Política",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-11T16:28:17+00:00"
+    },
+    {
       "titulo": "Senado: Fracasó votación de informe financiero de Sala Cuna Universal por falta de quórum",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/senado-fracaso-votacion-de-informe-financiero-de-sala-cuna-universal/2026-08-11/122225.html",
       "fuente": "Cooperativa - Política",
@@ -243,6 +309,16 @@
       "fecha": "2026-08-11T15:44:54+00:00"
     },
     {
+      "titulo": "Kast nombra a seis nuevos embajadores en Rusia, Suiza, Jamaica, Japón, Kenia y Nueva Zelanda. Conózca los nombres",
+      "link": "https://cambio21.cl/politica/kast-nombra-a-seis-nuevos-embajadores-en-rusia-suiza-jamaica-japon-kenia-y-nueva-zelanda-conozca-los-nombres-6a7b3c45d0e146482e71b134",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-11T15:19:02+00:00"
+    },
+    {
       "titulo": "PS y PPD atentos a posible \"gato por liebre\" o \"caballo de Troya\" en seguridad",
       "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/ps-y-ppd-atentos-a-posible-gato-por-liebre-o-caballo-de-troya-en/2026-08-11/105858.html",
       "fuente": "Cooperativa - Política",
@@ -265,6 +341,16 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-11T14:32:31+00:00"
+    },
+    {
+      "titulo": "Van 31. Otra Seremi despedida del Gobierno de Kast: Alta funcionaria de Los Lagos fue removida por querellas y nueve denuncias de la Ley Karin",
+      "link": "https://cambio21.cl/pais/van-31-otra-seremi-despedida-del-gobierno-de-kast-alta-funcionaria-de-los-lagos-fue-removida-por-querellas-y-nueve-denuncias-de-la-ley-karin-6a7b29ae6dac1b15a86aeab3",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-11T14:00:27+00:00"
     },
     {
       "titulo": "Senadora Kaiser insistirá en el proyecto \"Escucha su corazón\" tras el portazo del Presidente Kast",
@@ -297,6 +383,16 @@
         "Diputados"
       ],
       "fecha": "2026-08-11T01:34:40+00:00"
+    },
+    {
+      "titulo": "Durisíma reacción de exministros de Boric, Elizalde, Tohá y Grau en contra de Kast por poner en duda cifras de la pobreza: \"Nunca un presidente hizo algo así\", “ignorancia e irresponsabilidad” y “es una mirada de una dictadura”",
+      "link": "https://cambio21.cl/politica/durisima-reaccion-de-exministros-de-boric-elizalde-toha-y-grau-en-contra-de-kast-por-poner-en-duda-cifras-de-la-pobreza-nunca-un-presidente-hizo-algo-asi-ignorancia-e-irresponsabilidad-y-es-una-mirada-de-una-dictadura-6a7a68c9e21ca5302c6ad813",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-11T00:29:24+00:00"
     },
     {
       "titulo": "Megarreforma: Cámara de Diputados aprobó vetos presidenciales y avanzan al Senado",
@@ -340,6 +436,16 @@
       "fecha": "2026-08-10T16:36:21+00:00"
     },
     {
+      "titulo": "Kast cuestionó datos de Casen por reducción de pobreza: Exministra de Desarrollo Social Javiera Toro y exministro Giorgio Jackson la califican como \"gravísima e irresponsable\"",
+      "link": "https://cambio21.cl/politica/kast-cuestiono-datos-de-casen-por-reduccion-de-pobreza-exministra-de-desarrollo-social-javiera-toro-y-exministro-giorgio-jackson-la-califican-como-gravisima-e-irresponsable-6a79ef08cf12a2771a343d13",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-10T15:39:24+00:00"
+    },
+    {
       "titulo": "La respuesta del diputado Daniel Manouchehri (PS) a Magdalena Piñera, hija del exmandatario: \"Les molesta que toquemos a quienes se creían intocables\"",
       "link": "https://cambio21.cl/politica/la-respuesta-del-diputado-daniel-manouchehri-ps-a-magdalena-pinera-hija-del-exmandatario-les-molesta-que-toquemos-a-quienes-se-creian-intocables-6a794a241b7b853b1367ff35",
       "fuente": "Cambio21",
@@ -348,6 +454,16 @@
         "Diputados"
       ],
       "fecha": "2026-08-10T03:54:34+00:00"
+    },
+    {
+      "titulo": "El Partido Nacional Libertario como partido polarizador. Por Eduardo Saffirio, Abogado",
+      "link": "https://cambio21.cl/pais/el-partido-nacional-libertario-como-partido-polarizador-por-eduardo-saffirio-abogado-6a793b65a35f7526c906c643",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-10T02:56:53+00:00"
     },
     {
       "titulo": "Luego de menospreciar y de tratar de \"señora de feria y cuma\" a senadora Campillai, RN lleva al Tribunal Supremo a la senadora Camila Flores",
@@ -359,6 +475,67 @@
         "Senadores"
       ],
       "fecha": "2026-08-09T20:00:29+00:00"
+    },
+    {
+      "titulo": "Presidente PPD asegura que “si reforma de Kast y Quiroz fuera plebiscitada hoy, perdería, la mayoría está en contra”. Y si el \"TC resuelve a favor de la oposición, sería una victoria de la ciudadanía”",
+      "link": "https://cambio21.cl/politica/presidente-ppd-asegura-que-si-reforma-de-kast-y-quiroz-fuera-plebiscitada-hoy-perderia-la-mayoria-esta-en-contra-y-si-el-tc-resuelve-a-favor-de-la-oposicion-seria-una-victoria-de-la-ciudadania-6a7801e38c1fd05ba36ac26c",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-09T05:25:51+00:00"
+    },
+    {
+      "titulo": "Denuncian a Kast ante la Contraloría por entregar cifras falsas sobre los delitos en la cadena nacional",
+      "link": "https://cambio21.cl/politica/denuncian-a-kast-ante-la-contraloria-por-entregar-cifras-falsas-sobre-los-delitos-en-la-cadena-nacional-6a7808807b77854d12101117",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-09T05:04:31+00:00"
+    },
+    {
+      "titulo": "Poduje celebró megarreforma: Por fin tendremos los 465 mil millones para reconstrucción",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/poduje-celebro-megarreforma-por-fin-tendremos-los-465-mil-millones-para/2026-08-08/184351.html",
+      "fuente": "Cooperativa - Regiones",
+      "resumen": "El ministro de Vivienda, Iván Poduje, anunció la hoja de ruta y desafíos del Gobierno del Presidente José Antonio Kast en materia de política habitacional y urbana, en el marco de la aprobación de la megarreforma.\nEl secretario de Estado realizó una cuenta pública en el Gimnasio Municipal de Penco, Región del Biobío, en la que expuso los enfoques de su gestión, centrados en liderar un ministerio e",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-08T22:43:51+00:00"
+    },
+    {
+      "titulo": "Presidenta y vicepresidente del Senado rechazan propuesta de diputados Libertarios para suspender Ley Karin por cinco años: \"Constituye un camino equivocado\"",
+      "link": "https://cambio21.cl/politica/presidenta-y-vicepresidente-del-senado-rechazan-propuesta-de-diputados-libertarios-para-suspender-ley-karin-por-cinco-anos-constituye-un-camino-equivocado-6a774a583cadff57b5368fb6",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-08T15:33:13+00:00"
+    },
+    {
+      "titulo": "Expresidente Gabriel Boric entra al ruedo y cuestiona cifra de Kast sobre robos violentos. Gobierno le respondió",
+      "link": "https://cambio21.cl/politica/expresidente-gabriel-boric-entra-al-ruedo-y-cuestiona-cifra-de-kast-sobre-robos-violentos-gobierno-le-respondio-6a764e52bd4d0e35712dd293",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-07T22:13:00+00:00"
+    },
+    {
+      "titulo": "Kast ante solicitudes de partidos del oficialismo sobre indulto a uniformados que están presos: \"Se van a analizar en su mérito\"",
+      "link": "https://cambio21.cl/politica/kast-ante-solicitudes-de-partidos-del-oficialismo-sobre-indulto-a-uniformados-que-estan-presos-se-van-a-analizar-en-su-merito-6a76130adddbaa4b2b18c7c3",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-07T17:18:44+00:00"
     },
     {
       "titulo": "Comediante Lucho Miranda por dichos de Camila Flores contra senadora Campillai: \"Pensar que todo se consigue por pena es una forma de quitar dignidad\"",
@@ -391,6 +568,16 @@
       "fecha": "2026-08-07T04:26:35+00:00"
     },
     {
+      "titulo": "Kast está en Colombia para participar en la asunción del nuevo presidente de extrema derecha Abelardo de la Espriella",
+      "link": "https://cambio21.cl/tendencias/kast-esta-en-colombia-para-participar-en-la-asuncion-del-nuevo-presidente-de-extrema-derecha-abelardo-de-la-espriella-6a7557e68aad3e2b8d1e1fd4",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-07T04:16:34+00:00"
+    },
+    {
       "titulo": "Ferias Libres rechazan epítetos y frases despectivas de senadora Camila Flores (RN) para maltratar a senadora Campillai",
       "link": "https://cambio21.cl/politica/ferias-libres-rechazan-epitetos-y-frases-despectivas-de-senadora-camila-flores-rn-para-maltratar-a-senadora-campillai-6a74fc90f2c54b47af284873",
       "fuente": "Cambio21",
@@ -402,6 +589,16 @@
       "fecha": "2026-08-06T21:31:17+00:00"
     },
     {
+      "titulo": "Exseremi deja el cargo y se despide con polémico mensaje: “Último día en esta tortura llamada ser seremi de Kast”",
+      "link": "https://cambio21.cl/pais/exseremi-deja-el-cargo-y-se-despide-con-polemico-mensaje-ultimo-dia-en-esta-tortura-llamada-ser-seremi-de-kast-6a74e47f0db610085a4c78d3",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-06T19:50:56+00:00"
+    },
+    {
       "titulo": "Senador Espinoza ante investigación por presunto caso de violencia intrafamiliar: \"No existe denuncia en mi contra\". PS entregó antecedentes a Tribunal Supremo",
       "link": "https://cambio21.cl/politica/senador-espinoza-ante-investigacion-por-presunto-caso-de-violencia-intrafamiliar-no-existe-denuncia-en-mi-contra-ps-entrego-antecedentes-a-tribunal-supremo-6a74cfa60b85e076382a9853",
       "fuente": "Cambio21",
@@ -410,6 +607,16 @@
         "Senadores"
       ],
       "fecha": "2026-08-06T18:23:01+00:00"
+    },
+    {
+      "titulo": "Mega reforma de Kast y Quiroz: Tribunal Constitucional declara admisible los tres requerimientos de la oposición",
+      "link": "https://cambio21.cl/politica/mega-reforma-de-kast-y-quiroz-tribunal-constitucional-declara-admisible-los-tres-requerimientos-de-la-oposicion-6a74b3517b7de7764f6f58e3",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-06T16:18:39+00:00"
     },
     {
       "titulo": "Expresidente Boric alista nuevos viajes a Uruguay y Alemania",
