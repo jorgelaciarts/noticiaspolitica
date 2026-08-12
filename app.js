@@ -5,6 +5,7 @@ const LAST_VISIT_KEY = "clipping-politico:last-visit";
 const feedEl = document.getElementById("feed");
 const emptyEl = document.getElementById("empty");
 const chipsEl = document.getElementById("chips");
+const regionChipsEl = document.getElementById("regionChips");
 const searchEl = document.getElementById("search");
 const printBtn = document.getElementById("printBtn");
 const printDateEl = document.getElementById("printDate");
@@ -13,6 +14,7 @@ const statusText = document.getElementById("statusText");
 
 let allItems = [];
 let activeCategoria = null;
+let activeRegion = null;
 let lastVisit = Number(localStorage.getItem(LAST_VISIT_KEY) || 0);
 
 function relativeTime(iso) {
@@ -66,10 +68,37 @@ function buildChips(categorias) {
   });
 }
 
+function buildRegionChips(regiones) {
+  regionChipsEl.innerHTML = "";
+  const todas = document.createElement("button");
+  todas.className = "chip";
+  todas.textContent = "Todas";
+  todas.setAttribute("aria-pressed", String(activeRegion === null));
+  todas.addEventListener("click", () => setActiveRegion(null));
+  regionChipsEl.appendChild(todas);
+
+  regiones.forEach((region) => {
+    const btn = document.createElement("button");
+    btn.className = "chip";
+    btn.textContent = region;
+    btn.setAttribute("aria-pressed", String(activeRegion === region));
+    btn.addEventListener("click", () => setActiveRegion(region));
+    regionChipsEl.appendChild(btn);
+  });
+}
+
 function setActiveCategoria(cat) {
   activeCategoria = cat;
   [...chipsEl.children].forEach((btn) => {
     btn.setAttribute("aria-pressed", String(btn.textContent === (cat ?? "Todas")));
+  });
+  render();
+}
+
+function setActiveRegion(region) {
+  activeRegion = region;
+  [...regionChipsEl.children].forEach((btn) => {
+    btn.setAttribute("aria-pressed", String(btn.textContent === (region ?? "Todas")));
   });
   render();
 }
@@ -79,6 +108,7 @@ function render() {
 
   const filtrados = allItems.filter((item) => {
     if (activeCategoria && !item.categorias.includes(activeCategoria)) return false;
+    if (activeRegion && (item.region || "Nacional") !== activeRegion) return false;
     if (!query) return true;
     const haystack = `${item.titulo} ${item.resumen} ${item.fuente}`.toLowerCase();
     return haystack.includes(query);
@@ -113,7 +143,7 @@ function render() {
       clip.className = "clip" + (new Date(item.fecha).getTime() > lastVisit ? " is-new" : "");
       clip.innerHTML = `
         <div class="clip__masthead">
-          <span class="clip__source">${item.fuente}</span>
+          <span class="clip__source">${item.fuente}${item.region ? ` · ${item.region}` : ""}</span>
           <span class="clip__time" title="${formatClock(item.fecha)}">${formatHour(item.fecha)} · ${relativeTime(item.fecha)}</span>
         </div>
         <h3 class="clip__headline"><a href="${item.link}" target="_blank" rel="noopener">${item.titulo}</a></h3>
@@ -141,7 +171,11 @@ async function load({ silent = false } = {}) {
     allItems = data.items || [];
 
     const categorias = [...new Set(allItems.flatMap((i) => i.categorias))].sort();
-    if (!silent) buildChips(categorias);
+    const regiones = [...new Set(allItems.map((i) => i.region || "Nacional"))].sort();
+    if (!silent) {
+      buildChips(categorias);
+      buildRegionChips(regiones);
+    }
 
     render();
     setStatus("ok", `actualizado ${relativeTime(data.actualizado)} · ${data.total} noticias`);

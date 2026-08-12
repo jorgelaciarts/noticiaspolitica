@@ -120,6 +120,16 @@ a{ color: inherit; }
 .print-title{ display: none; }
 
 .chips{ display: flex; flex-wrap: wrap; gap: 8px; }
+.filter-group{ display: flex; flex-wrap: wrap; align-items: center; gap: 10px; }
+.filter-group__label{
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #6b6455;
+  flex-shrink: 0;
+  min-width: 62px;
+}
 .chip{
   font-family: var(--mono);
   font-size: 0.72rem;
