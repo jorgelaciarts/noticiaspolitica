@@ -1,0 +1,15 @@
+{
+  "_comentario": "Lista de fuentes RSS. Puedes agregar, quitar o comentar (borrar) líneas. 'nombre' es como se mostrará en la página.",
+  "feeds": [
+    { "nombre": "Cooperativa - País", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3___1.xml" },
+    { "nombre": "Cooperativa - Política", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_156__1.xml" },
+    { "nombre": "Cooperativa - Presidente Boric", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_313__1.xml" },
+    { "nombre": "Cooperativa - Regiones", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_310__1.xml" },
+    { "nombre": "El Mostrador", "url": "https://www.elmostrador.cl/feed/" },
+    { "nombre": "El Desconcierto", "url": "https://www.eldesconcierto.cl/feed/" },
+    { "nombre": "The Clinic", "url": "https://www.theclinic.cl/feed/" },
+    { "nombre": "La Nación", "url": "https://www.lanacion.cl/feed" },
+    { "nombre": "Cambio21", "url": "https://www.cambio21.cl/rss" },
+    { "nombre": "El Ciudadano", "url": "https://www.elciudadano.com/feed/" }
+  ]
+}
