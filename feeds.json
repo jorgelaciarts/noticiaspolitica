@@ -1,0 +1,32 @@
+{
+  "_comentario": "Lista de fuentes RSS. Cada fuente tiene 'nombre' (como se muestra en la página), 'url' (dirección del feed) y 'region' (una de las 16 regiones de Chile, o 'Nacional' para medios que cubren todo el país). Puedes agregar, quitar o editar líneas libremente.",
+  "feeds": [
+    { "nombre": "Cooperativa - País", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3___1.xml", "region": "Nacional" },
+    { "nombre": "Cooperativa - Política", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_156__1.xml", "region": "Nacional" },
+    { "nombre": "Cooperativa - Presidente Boric", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_313__1.xml", "region": "Nacional" },
+    { "nombre": "Cooperativa - Regiones", "url": "https://www.cooperativa.cl/noticias/site/tax/port/all/rss_3_310__1.xml", "region": "Nacional" },
+    { "nombre": "El Mostrador", "url": "https://www.elmostrador.cl/feed/", "region": "Nacional" },
+    { "nombre": "El Desconcierto", "url": "https://www.eldesconcierto.cl/feed/", "region": "Nacional" },
+    { "nombre": "The Clinic", "url": "https://www.theclinic.cl/feed/", "region": "Nacional" },
+    { "nombre": "La Nación", "url": "https://www.lanacion.cl/feed", "region": "Nacional" },
+    { "nombre": "Cambio21", "url": "https://www.cambio21.cl/rss", "region": "Nacional" },
+    { "nombre": "El Ciudadano", "url": "https://www.elciudadano.com/feed/", "region": "Nacional" },
+
+    { "nombre": "Servicio Electoral (Servel, vía Google News)", "url": "https://news.google.com/rss/search?q=site:servel.cl&hl=es-419&gl=CL&ceid=CL:es", "region": "Nacional" },
+
+    { "nombre": "El Día (La Serena)", "url": "https://www.diarioeldia.cl/feed", "region": "Coquimbo" },
+    { "nombre": "El Observatodo (La Serena)", "url": "https://www.elobservatodo.cl/feed", "region": "Coquimbo" },
+
+    { "nombre": "El Rancagüino", "url": "https://www.elrancaguino.cl/feed", "region": "O'Higgins" },
+
+    { "nombre": "La Discusión (Chillán)", "url": "https://www.ladiscusion.cl/feed", "region": "Ñuble" },
+
+    { "nombre": "Diario Concepción", "url": "https://www.diarioconcepcion.cl/feed", "region": "Biobío" },
+    { "nombre": "El Sur (Concepción)", "url": "https://www.elsur.cl/feed", "region": "Biobío" },
+    { "nombre": "La Tribuna (Los Ángeles)", "url": "https://www.latribuna.cl/feed", "region": "Biobío" },
+
+    { "nombre": "El Divisadero (Coyhaique)", "url": "https://www.eldivisadero.cl/feed", "region": "Aysén" },
+
+    { "nombre": "La Prensa Austral (Punta Arenas)", "url": "https://www.laprensaaustral.cl/feed", "region": "Magallanes" }
+  ]
+}
