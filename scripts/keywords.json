@@ -20,11 +20,6 @@
       "directora del servel",
       "director nacional del servel",
       "consejo directivo del servel",
-      "tricel",
-      "tribunal calificador de elecciones",
-      "tribunal electoral regional",
-      "tribunales electorales regionales",
-      "teer",
       "padron electoral",
       "padron electoral definitivo",
       "acto electoral",
@@ -59,6 +54,19 @@
       "cedulas electorales",
       "conteo de votos",
       "cuenta publica electoral"
+    ],
+    "TRICEL": [
+      "tricel",
+      "tribunal calificador de elecciones",
+      "tribunal electoral regional",
+      "tribunales electorales regionales",
+      "teer",
+      "ministro del tricel",
+      "ministra del tricel",
+      "presidente del tricel",
+      "presidenta del tricel",
+      "fallo del tricel",
+      "resolucion del tricel"
     ],
     "Partidos políticos": [
       "partidos politicos",

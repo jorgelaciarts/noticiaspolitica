@@ -22,6 +22,7 @@
     { "nombre": "Timeline.cl (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Atimeline.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
     { "nombre": "Pauta.cl (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Apauta.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
     { "nombre": "Servicio Electoral (Servel, vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aservel.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
+    { "nombre": "TRICEL (vía Google News)", "url": "https://news.google.com/rss/search?q=%22Tribunal%20Calificador%20de%20Elecciones%22%20OR%20%22tribunal%20electoral%20regional%22%20OR%20TRICEL%20Chile&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
 
     { "nombre": "El Dínamo", "url": "https://www.eldinamo.cl/feed/", "region": "Nacional" },
     { "nombre": "El Líbero (vía Google News)", "url": "https://news.google.com/rss/search?q=site%3Aellibero.cl&hl=es-419&gl=CL&ceid=CL:es-419", "region": "Nacional" },
