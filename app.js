@@ -4,7 +4,7 @@ const LAST_VISIT_KEY = "clipping-politico:last-visit";
 
 // lista fija, así los chips siempre se ven aunque todavía no haya noticias de esa categoría
 const CATEGORIAS_FIJAS = [
-  "Presidente", "Servicio Electoral", "Partidos políticos", "Candidatos", "Senadores", "Diputados",
+  "Presidente", "Servicio Electoral", "TRICEL", "Partidos políticos", "Candidatos", "Senadores", "Diputados",
   "Gobernadores regionales", "Concejales", "Alcaldes", "Consejeros regionales",
   "Elecciones",
 ];
