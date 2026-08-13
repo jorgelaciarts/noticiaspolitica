@@ -1,7 +1,38 @@
 {
-  "actualizado": "2026-08-13T03:07:55.041734+00:00",
+  "actualizado": "2026-08-13T05:17:27.358498+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El PDG y el espejismo de la bisagra - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS3VXZjEwTFJlVTZ1LVZzblQ4cmV5WU9jTlVyOW15WWw0c2FCSnk4aURFWjMwZlEtcEU0WlVPazVPSUNMOERHR3U4c05zOWJ2amtyM2pJM21Db3dHMFNERTFPakhrZFF3dGhNQm5Uczcyb3liMzVaa1lfZVhORnFJMVpUX1pQN08td3QyaUs1dDNDUDBwODJGbmhiVTlSV3hielE?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "resumen": "El PDG y el espejismo de la bisagra&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-13T05:04:31+00:00"
+    },
+    {
+      "titulo": "Expresidente Frei aboga por un \"gran acuerdo\" en materia de seguridad",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/eduardo-frei/expresidente-frei-aboga-por-un-gran-acuerdo-en-materia-de-seguridad/2026-08-12/234321.html",
+      "fuente": "Cooperativa - País",
+      "resumen": "El expresidente Eduardo Frei Ruiz-Tagle llamó este miércoles a alcanzar un \"gran acuerdo\" en torno a la Agenda Contra el Crimen Organizado y el Terrorismo (ACOT) que impulsa el Gobierno de José Antonio Kast.\n\"Como país, necesitamos un gran acuerdo. Si no somos capaces de resolver el problema de la seguridad en Chile, no van a llegar inversiones, no vamos a disminuir el desempleo, y vamos a seguir ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-13T03:43:21+00:00"
+    },
+    {
+      "titulo": "Muere el alcalde de O'Higgins, en la región de Aysén, José Fica. Militante DC ejercía actualmente el cargo tras haber sido elegido por votación popular en distintos períodos",
+      "link": "https://cambio21.cl/tendencias/muere-el-alcalde-de-o-higgins-en-la-region-de-aysen-jose-fica-militante-dc-ejercia-actualmente-el-cargo-tras-haber-sido-elegido-por-votacion-popular-en-distintos-periodos-6a7d39e810e62c3ab3192644",
+      "fuente": "Cambio21",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-13T03:32:03+00:00"
+    },
     {
       "titulo": "Senado aprobó los vetos del Gobierno y megarreforma salió del Congreso",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/senado-aprobo-los-vetos-del-gobierno-y-megarreforma-salio-del-congreso/2026-08-12/222013.html",
@@ -5071,37 +5102,6 @@
         "Senadores"
       ],
       "fecha": "2026-07-27T07:00:00+00:00"
-    },
-    {
-      "titulo": "Rubilar responsabiliza a José Antonio Kast por el manejo de la vocería de Gobierno - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjRWMGNYd3cwUXVOMUVoLWhUdHdRWEVXSTJYSU1SSkl1TTBvb3FjdWtlTGFYWEQxYjNxSThDUHBxTGdTZDhxRnFsYVVlRnFPLVVGZm5mRlNYMWlOS3JpTDJnbUt5Q01teHJ3MGxmODRkZGJPZ2VXSFpwcVR2aGFGd19KWFlJMTZ6bWlkZXhxWjBXRU0tU0NySmNVM3NiaFZyWnVEZEs1YkZNc1hHN3RFcXloSjl1dlAtN2RRcVRzcWlBQmNHZzBHeXR2Q1QxUVpI0gHWAUFVX3lxTFBVajF2OHhlVW9vakhmamsyYUI3ME1WUFFHQ0Vha0tIa2pJSWVFeDdEZW9obTVZSERySEU2ZExfTGF1ZUpHajFLdUZtMjJWYUtiamNOcjRBZzR0N2hEcVFMbGlITkxQT0lSQkg5WmJTSE16Y25Eajl6WmFkbzJsV2ZQdDR2VDd3Y1pTUjFwMjUwRVFoRm1EbTFSUm5QYlVJTk9xS1BnMlpMYU5GVGloZ1I2SElJZWpnMk8xcFYyUjZGbkVaSGRtSFphSFUtUmgtbTZXWUt3clE?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "resumen": "Rubilar responsabiliza a José Antonio Kast por el manejo de la vocería de Gobierno&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-07-25T07:00:00+00:00"
-    },
-    {
-      "titulo": "PDG: ¿Por qué el partido de Franco Parisi será denunciado a la Fiscalía? - elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2d1ZkRIMDlnMVJPSWh1MWRob05wcm13Uy0ySE05WVBqRVJrLTVCSFVuUE1CN1hyWXd4TG5LeXhBZ0h6aDNrZVBMWlc5R3BZTjhyQmYtSXdrU09HVnRza3ZRWF84SnhjeWVLWnJUeTU5OHZJYVJ2cmNaS3NOUnIyNHZnZ2xKazN5YXlHNklRSUVJMkJBTEJOamk4blhzdEpIa3hIMGlFeGViTnEwQ0E?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "resumen": "PDG: ¿Por qué el partido de Franco Parisi será denunciado a la Fiscalía?&nbsp;&nbsp;elnortero.cl",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-07-24T07:00:00+00:00"
-    },
-    {
-      "titulo": "Servel y Biblioteca del Congreso Nacional avanzan en una agenda de colaboración técnica - Servicio Electoral",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaDh2djZqdEFrUzJTTGs5bFQ2ZWVodFFsTFJaSjlRaTRGMzAwRmNlS0NzYW9Lc3pCQk5kQXQzSDZpUUYwNnhqVjRHcDhnb2gzQnRaZHFoZ2lmQXF1UzBvTF8wOXJIN1hJNTR1b1B4WXpvd3pQQ1pMYWxRRUw3dHNVYU1hSmQyOXJSZlJpVVB1RTM4NVJ2YzRoV1pVRjdJSjN4ZHRoT2diRDNEOThUV0h4TWtjdE1IZTQ0Vl9Gdkd3?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "resumen": "Servel y Biblioteca del Congreso Nacional avanzan en una agenda de colaboración técnica&nbsp;&nbsp;Servicio Electoral",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-07-23T23:11:15+00:00"
     }
   ]
 }
