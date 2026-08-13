@@ -1,7 +1,28 @@
 {
-  "actualizado": "2026-08-13T19:22:46.221007+00:00",
+  "actualizado": "2026-08-13T20:05:27.753867+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) La senadora Beatriz Sánchez se refiere a las contribuciones y el Fondo Común Municipal",
+      "link": "https://www.elciudadano.com/reels/video-la-senadora-beatriz-sanchez-se-refiere-a-las-contribuciones-y-el-fondo-comun-municipal/08/13/",
+      "fuente": "El Ciudadano",
+      "resumen": "El Ciudadano\nLa senadora Beatriz Sánchez aborda el impacto y las implicaciones del sistema de contribuciones y del Fondo Común Municipal en la gestión local. Discute cómo estos elementos influyen en la distribución equitativa de recursos y la financiación de proyectos comunitarios. Reflexiones sobre la importancia de una administración justa y eficiente que beneficie a todas las [&#8230;]\nLa entra",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-13T20:00:11+00:00"
+    },
+    {
+      "titulo": "Debaten eventual espacio para ambulantes en Fiesta de la Longaniza pese a rechazo del alcalde",
+      "link": "https://ladiscusion.cl/debaten-eventual-espacio-para-ambulantes-en-fiesta-de-la-longaniza-pese-a-rechazo-del-alcalde/",
+      "fuente": "La Discusión (Chillán)",
+      "resumen": "Un intenso debate se generó durante la sesión del Concejo Municipal de Chillán a raíz de la situación que enfrentarán los comerciantes ambulantes durante la próxima Fiesta de la Longaniza, luego de que el municipio anunciara que se aplicará tolerancia cero al comercio informal en el perímetro del evento. El concejal Yerson Soto, presidente de [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-13T19:53:31+00:00"
+    },
     {
       "titulo": "Frente Amplio se pone la vara de convocar a 12 mil militantes para sus elecciones internas bajo la sombra de su historial de baja participación",
       "link": "https://www.theclinic.cl/2026/08/13/frente-amplio-se-pone-la-vara-de-convocar-a-12-mil-militantes-para-sus-elecciones-internas-bajo-la-sombra-de-su-historial-de-baja-participacion/",
@@ -53,6 +74,16 @@
         "Presidente"
       ],
       "fecha": "2026-08-13T18:43:58+00:00"
+    },
+    {
+      "titulo": "Kast por \"descoordinaciones\" entre Alvarado y Quiroz por requerimiento ante el TC: \"Está todo absolutamente aclarado\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX1NrSGNzR1FoZjRtbmhKWXFsYUM5YVFKc29tTmxqbGxzUXdKTEpZRG5QNkJTNVdvQTNOa3Q1VDZnX0lQWWRjdGIwc2NtNjJuZFZDOFM5VmlfeXdTaV84UEJKN0NHbVhUN3JhOFdjRXNnTU10NGREaV80QUFpZFVac1dZZGlUMlQ1MGhVcUtjSy1kOW9fTHkxeV81dWtrbklHUW9ZbFNiT2hLcXlzcGlvRkgtQUhsT0kwdGc?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "resumen": "Kast por \"descoordinaciones\" entre Alvarado y Quiroz por requerimiento ante el TC: \"Está todo absolutamente aclarado\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-13T18:40:00+00:00"
     },
     {
       "titulo": "Right-Wing Lawmakers Push to Eliminate Worker Representation on Codelco’s Board of Directors",
@@ -5097,37 +5128,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-07T03:56:00+00:00"
-    },
-    {
-      "titulo": "Cheque, contratos y gastos sin respaldo: las observaciones del Servel que ponen bajo la lupa al exadministrador de fondos del PDG - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeHZZU0JpRVZTUkhRMkQ4NUJTYl93alVVS3pSY1ZhVE5yekNwbi1HVkE4eFhPNmZGT3ZSWkhtLXdNVkhQQVlNUmowTGxmam9VYlNyamUwZ2xEdVQ3bVhMdENNdEhzVzNZbmhyNW9RTkVoQVdISzBBNW5FLTJfQWJ4WEVzazFuR3dDRTdfSE5FaXpEZkJybU03czBKOGhtY0FkNUphem9XTHN1YlloYkx5cGU5ckM?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "resumen": "Cheque, contratos y gastos sin respaldo: las observaciones del Servel que ponen bajo la lupa al exadministrador de fondos del PDG&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Servicio Electoral",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-07T03:56:00+00:00"
-    },
-    {
-      "titulo": "Presidente Kast llega a Colombia para participar en cambio de mando de Abelardo de la Espriella - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQlI2OUJnRk4taFl4X2pzREJlQzdRQUNuQVdwZ2xPS1N4WVY5UXFrYm9LaVhxR3ZhTVBOY0o4MFhfOUdaMlBubjV4ZEVlZlp2dmQ4b1pndnhwTFVrblNCaFlZT2FHV0w4QUZkc01BNTdkTFlpRGhvWnM4eWFpMXRtd01DTEtDUmVCVUczWUVHNFVDNllROXgtZjNCNHRxSnEyaUlOeExZdXNQMTZaS0dFc3BHdWVuME45R3lGWl82a0dRRlMtczRjc0V0bTBWWFNTSEY1RV8xaU96TFNNVktTeXhvN2otX0x5Ry1EYlFYb0tSUQ?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "resumen": "Presidente Kast llega a Colombia para participar en cambio de mando de Abelardo de la Espriella&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-07T03:15:24+00:00"
-    },
-    {
-      "titulo": "Presidenta de Servel participó de ceremonia por el 93° aniversario de la PDI - Servicio Electoral",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjZJMU9SeDJ0RnVSY3JnbVdFcEY1S0hjVjFuUVpQMVJmRXJDb0lYaERUdThmWTBpd3F5SWZkMThkR3hlWm5QMWVEVzdlYjdad0NYbjcwV3ZSVXVuX1dCeVF4Z1lrU1NFNEdUWFNHb1dGNDBPSHdRa25BRmpCSmNkZzA5OUd1RWE3cEpXa1BWUzVtdWdwRVBBYkJQRXVfckROdXFRaFhlUF9JWHFaRUNLN1hnNDg?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "resumen": "Presidenta de Servel participó de ceremonia por el 93° aniversario de la PDI&nbsp;&nbsp;Servicio Electoral",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-08-07T02:44:10+00:00"
     }
   ]
 }
