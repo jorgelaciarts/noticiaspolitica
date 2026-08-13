@@ -2,8 +2,8 @@ name: Actualizar noticias políticas
 
 on:
   schedule:
-    # corre cada 30 minutos (hora UTC). Ajusta según necesites.
-    - cron: "*/30 * * * *"
+    # corre cada 15 minutos (hora UTC). Ajusta según necesites.
+    - cron: "*/15 * * * *"
   workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña "Actions"
   push:
     branches: [main]
@@ -27,7 +27,7 @@ jobs:
           python-version: "3.12"
 
       - name: Instalar dependencias
-        run: pip install feedparser requests
+        run: pip install feedparser requests langdetect
 
       - name: Ejecutar scraper
         run: python3 scripts/fetch_news.py
@@ -41,5 +41,14 @@ jobs:
             echo "Sin novedades."
           else
             git commit -m "Actualizar noticias ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
+            # si alguien subió cambios justo antes, nos actualizamos primero
+            # (reintenta hasta 5 veces por si hay más de un choque seguido)
+            for intento in 1 2 3 4 5; do
+              if git push; then
+                break
+              fi
+              echo "Choque con otro cambio, reintentando ($intento)..."
+              git pull --rebase --autostash origin main
+              sleep 3
+            done
           fi
