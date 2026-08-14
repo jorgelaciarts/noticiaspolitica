@@ -18,6 +18,10 @@ from pathlib import Path
 
 import feedparser
 import requests
+from langdetect import detect, DetectorFactory, LangDetectException
+
+DetectorFactory.seed = 0  # resultados deterministas (sin esto, langdetect puede
+                           # dar respuestas distintas para el mismo texto)
 
 ROOT = Path(__file__).resolve().parent.parent
 FEEDS_FILE = ROOT / "scripts" / "feeds.json"
@@ -91,6 +95,28 @@ def contains_exclusion(title: str, summary: str, exclusiones: list) -> bool:
     return False
 
 
+def es_espanol(title: str, summary: str) -> bool:
+    """Descarta artículos que no estén en español (ej: traducciones automáticas
+    que algunos medios publican en otros idiomas junto a la nota original)."""
+    # el título solo: suele ser homogéneo en un único idioma, así que es la
+    # señal más confiable (a diferencia del resumen, que a veces mezcla
+    # idiomas y puede confundir al detector)
+    if len(title.strip()) >= 15:
+        try:
+            if detect(title.strip()) != "es":
+                return False
+        except LangDetectException:
+            pass
+
+    texto = f"{title} {summary}".strip()
+    if len(texto) < 15:
+        return True  # muy corto para detectar con confianza, se deja pasar
+    try:
+        return detect(texto) == "es"
+    except LangDetectException:
+        return True  # si no se puede determinar, no se descarta por las dudas
+
+
 def fetch_feed(nombre: str, url: str):
     try:
         resp = requests.get(url, timeout=REQUEST_TIMEOUT, headers={"User-Agent": USER_AGENT})
@@ -116,6 +142,7 @@ def main():
     for feed in feeds:
         nombre = feed.get("nombre", feed.get("url", "fuente"))
         url = feed["url"]
+        region = feed.get("region", "Nacional")
         entries = fetch_feed(nombre, url)
         for entry in entries:
             link = entry.get("link")
@@ -123,6 +150,8 @@ def main():
                 continue
             title = entry.get("title", "").strip()
             summary = re.sub("<[^<]+?>", "", entry.get("summary", entry.get("description", ""))).strip()
+            if not es_espanol(title, summary):
+                continue  # descarta traducciones automáticas en otros idiomas
             if contains_exclusion(title, summary, exclusiones):
                 continue  # ej: noticias deportivas que colaron por coincidencia de texto
             categorias_encontradas = match_categories(title, summary, categorias)
@@ -132,6 +161,7 @@ def main():
                 "titulo": title,
                 "link": link,
                 "fuente": nombre,
+                "region": region,
                 "resumen": summary[:400],
                 "categorias": categorias_encontradas,
                 "fecha": parse_date(entry),
