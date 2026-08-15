@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-15T17:22:28.684409+00:00",
+  "actualizado": "2026-08-15T17:47:27.612486+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Inician elecciones en el FA: Candidatas instan a participar y comparten llamado de Boric a autocrítica en la izquierda - Emol",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWk5KcjdINms1OGJsZDNQSGdoSVRHZUFFazI1bjI1TzhySFM0QWlIeW5FYmcyVTJUNmhtdDA3ZUlKVTJpcWVmLTJLOEtYUUxiTjNmWjBFRG55UWg0NEpHenFINFFWLS1MZUFRLS01d3pKWVpud092cXBVRVQweXEwak1xMHVIRU5oRndzd2NUbDBvbFd2M0FCV1VpOA?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Inician elecciones en el FA: Candidatas instan a participar y comparten llamado de Boric a autocrítica en la izquierda&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-15T17:40:00+00:00"
+    },
     {
       "titulo": "Senador Walker es duro con presidente de Republicanos y ministro Arrau por reforma de seguridad: \"No cuenten con mi voto, hagánle caso a ministra Chomalí y están a tiempo de detener esta locura\"",
       "link": "https://cambio21.cl/politica/senador-walker-es-duro-con-presidente-de-republicanos-y-ministro-arrau-por-reforma-de-seguridad-no-cuenten-con-mi-voto-haganle-caso-a-ministra-chomali-y-estan-a-tiempo-de-detener-esta-locura-6a8096f706448c607b60ae93",
@@ -238,6 +249,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-15T12:01:00+00:00"
+    },
+    {
+      "titulo": "Con actividades en Coyhaique y Cerro Castillo Presidente Kast visita la región de Aysén - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPenV6ajNTMEhwZWlLZGFrZmlPQ2dtbkJGVXZfOG5wWTFHSC1tR2FYTlBISFpRbmV6b082YkJnS2lNX3F0em9KWFdxNG42ZEN4MnA3ZFpSWlpDclM0aDU4Q2M4ZGJIclhhekNQWFRpS0stU1MyVVN2dGRQTUFDNTVWcjdkR2ZYZS1MMnhwbHFZa0FRbFExYkRQbEtKMXF1V2d6dUJiaFphUWJULW95akh5Q21uenVfWkt4aVgzMzN0TkFhLVdSLVhTR1ZZZHVzSF9XaVA5U0wzUWdUSUU?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Con actividades en Coyhaique y Cerro Castillo Presidente Kast visita la región de Aysén&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-15T11:41:31+00:00"
     },
     {
       "titulo": "Alejandro Eder, el alcalde de Cali que ha debido enfrentar la emergencia del terremoto y la ira de algunos vecinos - Emol",
@@ -5567,28 +5589,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-10T03:54:34+00:00"
-    },
-    {
-      "titulo": "El Partido Nacional Libertario como partido polarizador. Por Eduardo Saffirio, Abogado",
-      "link": "https://cambio21.cl/pais/el-partido-nacional-libertario-como-partido-polarizador-por-eduardo-saffirio-abogado-6a793b65a35f7526c906c643",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-10T02:56:53+00:00"
-    },
-    {
-      "titulo": "Leonardo DiCaprio pide salvar a la rana pehuenche: el urgente llamado al Gobierno de Chile - elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGkxcWxMb1BydWZKSnhPNEloWHNVZDBaM0V6VmFraHRSaUFGVGJXSjc0WmJXUUJjbHVEaGFLN3JOM19RVFhTQmY3REs4MllrVEZfWkYtNWF4TVA1RG1tTkFzVUw0VHREWWhhRFc0VzdaV21kZWdOdHJpRmc3em91dHJ5U1pEclp5cGNJa2lOTm94aV83eWpoOXpSLWdJZEhuLXIyVEdJZGdNSzM5clJGN2lJOWdEa25ZOU1HQ1QxWllzb3M?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Leonardo DiCaprio pide salvar a la rana pehuenche: el urgente llamado al Gobierno de Chile&nbsp;&nbsp;elnortero.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-10T02:09:49+00:00"
     }
   ]
 }
