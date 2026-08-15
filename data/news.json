@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-15T05:27:10.591487+00:00",
+  "actualizado": "2026-08-15T05:53:52.182690+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gabriel Boric llama a la izquierda a reflexionar tras derrotas electorales: “Es esencial si queremos volver a ser mayoría”",
+      "link": "https://cambio21.cl/politica/gabriel-boric-llama-a-la-izquierda-a-reflexionar-tras-derrotas-electorales-es-esencial-si-queremos-volver-a-ser-mayoria-6a7ff7aac368626931699bd6",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-15T05:25:38+00:00"
+    },
     {
       "titulo": "La Araucanía: Más de 3.700 agricultores reportan graves daños tras sistema frontal",
       "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/la-araucania-mas-de-3-700-agricultores-reportan-graves-danos-tras/2026-08-15/004550.html",
@@ -34,6 +45,17 @@
         "Senadores"
       ],
       "fecha": "2026-08-15T04:01:31+00:00"
+    },
+    {
+      "titulo": "Antonio Rivas, diputado de Biobío por corredores de transporte: “El Estado podría enfrentar demandas” - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcjRlR0ZpYVRtUk5kRldrR2xyR1JZSklCaWE2Q3F5X2lwZjFOb1MtY1VOai1GV0pLRnIzU0liT2VnV0dTanlGMVdjV2JfaEtpNHI0X0ZkZkJDWmRNOElwbDd2ZGllN1Y5cjN0SnVOdG5sbnRsRGpvRURsMVJPZTUzTmZLZndMZlU2U21qSXJiSktMWFptS0M5VjFJMTZGYzlsM3hpZDhtQ0hoREREZlVFT09kSGR0Zw?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Antonio Rivas, diputado de Biobío por corredores de transporte: “El Estado podría enfrentar demandas”&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-15T02:19:00+00:00"
     },
     {
       "titulo": "Partido Cristiano instala debate por proyectos para crear el Día de la Biblia y la Oración",
@@ -5568,30 +5590,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-06T01:17:10+00:00"
-    },
-    {
-      "titulo": "Servel fortaleció la formación ciudadana con apoyo a elecciones de centros de estudiantes en la Región Metropolitana - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeWR3a3hhZm1FQUZuM0NaN3JRa0RsMzBVTFg3LUhsYnRIUE1IeHVZN01XWlNPSzRiZXRMZmtlVWtZZWlOalBuZldCR1BhOGNiWlJxZXZEcjhRc3kwYkhYTlM2ZEk5VmRNRC1QN2hiYVo1RkkzQllNbWdXNmpTYl9NbFZRQWt1Q3N2djNhUHNIRzBjdGZmVXA3MTlyc1hwNWpQZUJKSFFmTF8xRERqSUdIOHNxT3drOUd4aWt6Y3RlNUlkbTBKMFhtSzI0WXJaMHJ1Z000OGFxMUJ3Y1JVd1pzdVVqOW1aQjQtRDhj?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel fortaleció la formación ciudadana con apoyo a elecciones de centros de estudiantes en la Región Metropolitana&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-08-05T21:23:05+00:00"
-    },
-    {
-      "titulo": "Expresidente Boric alista nuevos viajes a Uruguay y Alemania",
-      "link": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/viajes-al-exterior/expresidente-boric-alista-nuevos-viajes-a-uruguay-y-alemania/2026-08-05/120358.html",
-      "fuente": "Cooperativa - Presidente Boric",
-      "region": "Nacional",
-      "resumen": "La Cámara de Diputadas y Diputados autorizó este miércoles al expresidente Gabriel Boric a realizar dos viajes al extranjero, específicamente a Uruguay y Alemania, para participar de dos eventos a fines de agosto.\nEn calidad de invitado especial, el exmandatario asistirá a la tercera versión del Congreso Panamericano, que se realizará en Montevideo entre el 20 y el 23 agosto, y reunirá a más de 10",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-08-05T16:03:58+00:00"
     }
   ]
 }
