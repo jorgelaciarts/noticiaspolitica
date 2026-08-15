@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-15T04:48:48.744089+00:00",
+  "actualizado": "2026-08-15T05:27:10.591487+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La Araucanía: Más de 3.700 agricultores reportan graves daños tras sistema frontal",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/la-araucania-mas-de-3-700-agricultores-reportan-graves-danos-tras/2026-08-15/004550.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un total de 3.749 agricultores de la Región de La Araucanía sufrieron la destrucción de su infraestructura productiva -incluyendo invernaderos, galpones, gallineros y bodegas- debido a las intensas lluvias y vientos del último sistema frontal, según el catastro levantado por los municipios locales.\nLa emergencia afecta mayoritariamente a 3.228 usuarios registrados en el Instituto de Desarrollo Agr",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-15T04:45:50+00:00"
+    },
     {
       "titulo": "Senador Walker refuta a Arrau tras asegurar que reforma constitucional “no tiene que ver con salud” - La Tercera",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWVZGckV0MzFQN01HRnpQOGZNX1c1dXVGSkZ6UzBMSWNtQ1BzMF9uYWJNNG9xcmpkb2U1OFkwamhIdDBBelZmOVhhMVFGRHJwTHFzQkhKTlo1NURXUTdIZGlYUFRuZXJDLU14cDRkWlpOX0JSMlBzMXlvWk9kTGY5bnhoR0tFYW42emJlaEs3dWZudGFMVm5vM0ViM0JzQkRlNExidHdKQkdtR2E5YnFtcDlGWHRsVjFiajJTZzlCalZJdURuRl9xZDZHMVJFeWZoV1B6T1ZoSjc?oc=5",
@@ -5581,17 +5592,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-05T16:03:58+00:00"
-    },
-    {
-      "titulo": "Tras aprobar su megarreforma económica, Kast inaugura una nueva etapa enfocada en la seguridad - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWFVPR0VlcnpSZ2xxdm1OSHkyRnNucGlfREQ1d3gxVVNVM2FNSG1ETXBtYXpDQjUyb1dpVk95ZTVnRUlkSWt6cUllWjJwRnhscVZBT1RKWlczLXZ0d3dxdko0OTQ2cXA0cjd4X0hfYVN3SWxleG5oS2prOTJYbzRZc3VGZVFJcE1XWi03dElIVnk2cTlpdVdoMW5PZk1kZVBKMk1TRzZsdE1MNkRDUW1XaE5CZDliNkxydVk4SmJ3QXU3Z2ZUd1RmSXc5U0ZpUVnSAeMBQVVfeXFMTkR2N2xTMU5WWkNmSDdyOW5LYXJxa09pRXlCeV9pYXVWSFFyUk5BSm5ZQVhQQUlTdGRId3E0bjlMb2puNGljaVBNTmFtcGNtY2syZkFkMlEtdF9PWG15S3MwV0VBQzdFdzNpVmtZQ2JiSUV6dTFKQVNnT0gtazdqMlNLanNURTBQOWlRLVZsdzctekdFRmM5N0NJRERhUkZpNmhaZ3NCdEJzdml3Y3ludHZ6TEVCRmxYc0VSOVU1YW81bUp3SnptbUU1RVVCbEd6VUlZOGFZQ2dDb19lcGN0OFA3YTA?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras aprobar su megarreforma económica, Kast inaugura una nueva etapa enfocada en la seguridad&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-05T07:00:00+00:00"
     }
   ]
 }
