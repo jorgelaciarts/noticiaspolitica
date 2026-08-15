@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-15T14:25:22.378686+00:00",
+  "actualizado": "2026-08-15T14:50:38.640245+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Los adolescentes ya no le temen al VIH",
+      "link": "https://ladiscusion.cl/los-adolescentes-ya-no-le-temen-al-vih/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Señor Director: Cada agosto conmemoramos el Día Internacional de las Juventudes, ocasión para revisar sus desafíos. Entre ellos hay uno que parece haber desaparecido de la conversación pública, aunque sigue vigente: el VIH. Quienes crecimos en los ochenta y noventa recordamos campañas construidas desde el miedo, cuando el diagnóstico se asociaba casi siempre a una [&#8230;]",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-08-15T14:25:51+00:00"
+    },
     {
       "titulo": "Otra vez el comercio ambulante",
       "link": "https://ladiscusion.cl/otra-vez-el-comercio-ambulante/",
@@ -5577,17 +5588,6 @@
         "Senadores"
       ],
       "fecha": "2026-08-09T17:34:00+00:00"
-    },
-    {
-      "titulo": "Criteria: Aprobación del Presidente Kast sube un punto y alcanza el 35% - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ3B2MDl4bUQ2Wl9UT0tWRVRWYVhWM1VGa2lKSVhqalkxSkw4Yk4yMUNqUVRYOWFKbFJudGRIek5qN1FXbHZqR0R5OXI3RXFWVThtMzE4cWJ0cjl2LVM5UWRmZFlQbGZxRDFnSGlPNHlKdHFkOG1mcU5hYzRqQmhRUm1UYTI4WS1tS3BvaDNLRlUxRkxwbFM4WlF3?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: Aprobación del Presidente Kast sube un punto y alcanza el 35%&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-09T17:05:00+00:00"
     }
   ]
 }
