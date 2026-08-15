@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-15T01:19:47.321270+00:00",
+  "actualizado": "2026-08-15T02:35:31.440357+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido Cristiano instala debate por proyectos para crear el Día de la Biblia y la Oración",
+      "link": "https://ladiscusion.cl/partido-cristiano-instala-debate-por-proyectos-para-crear-el-dia-de-la-biblia-y-la-oracion/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La propuesta del Partido Cristiano para instaurar el Día Nacional de la Biblia y el Día Nacional de la Oración terminó instalando una controversia que superó el ámbito parlamentario y se trasladó con fuerza a las redes sociales. La iniciativa, liderada por la diputada por Ñuble y presidenta de la colectividad, Sara Concha, recibió una [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-15T01:49:36+00:00"
+    },
+    {
+      "titulo": "Senador Flores (DC) advierte riesgos en reformas constitucionales del gobierno: “Pueden venir dardos envenenados y se podría crear un monstruito constitucional”",
+      "link": "https://cambio21.cl/politica/senador-flores-dc-advierte-riesgos-en-reformas-constitucionales-del-gobierno-pueden-venir-dardos-envenenados-y-se-podria-crear-un-monstruito-constitucional-6a7fc27114653536071990f3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-15T01:39:03+00:00"
+    },
     {
       "titulo": "Formalizan a mujer por amenazas al Presidente Kast: Quedó con arraigo nacional y firma mensual - Emol",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSXNfS2hJcXZlS0haZDIwZlNOSUg1Rk9BMnBZVlNKUDNEMDFBSWh3OG52d2xQbHIxU1MtQ0lFYk54UG5URlNzaFpkdkRNelNHdnozU2hPYkdyMi1mNElqQ08yeGFoVFJlZ2hDUVhaaXY3dG85WmdGVk5lTkhVWTd6dVl5cWkwQmVua0h6b1pjU1hSZHJpVmQzN1ZqZHpVY1h2bTBXbEZCdw?oc=5",
@@ -2057,6 +2079,17 @@
         "Senadores"
       ],
       "fecha": "2026-08-13T12:44:00+00:00"
+    },
+    {
+      "titulo": "Al estilo Bukele: Kast participa del operativo de traslado de casi 200 reos a nueva cárcel de Talca - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNkpydWlnV2NzaFNuYjZVT0pYaXFPZW56RnJCbEdjRWNvUVVSWVhnRTljenp4RmlidGU2VlVIc2ZZSU0zSWVJZU0xN2VsTGRoUm1peWtnOVMtNkgxTVZKanl3eGRkZW5FcWFRUjk4Zk94bmp0d0NXZGp1X2tpVDZuaW5kellBVEwzbTRld0J2V3gwOHVyVkhRT1NNekZ5SWVVM1Y1S2VpdHdlT0p0ZGIydGdXU3pkMHlMZkFhRG5qNkNPQkp1emRVT3l1cnlTdw?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Al estilo Bukele: Kast participa del operativo de traslado de casi 200 reos a nueva cárcel de Talca&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-13T12:25:35+00:00"
     },
     {
       "titulo": "Tribunal Supremo del PS suspende militancia de senador Fidel Espinoza tras escándalo por presunta VIF - BioBioChile",
@@ -5562,39 +5595,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-07-31T22:50:06+00:00"
-    },
-    {
-      "titulo": "Metodología de monitoreo y análisis - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BTWFNdVF3N2hiWkFGMUNvcXZMQ2lYdmh5ZFJfc1lnLU5XajNZRVB3OG0wQTQwZXFrb21XcnBKSzF4ZC1XUDlzZS13WGZqSFVTcEZRV1ZEN1Vhbm81UmxFWV9qRndsbDZaSTVB?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Metodología de monitoreo y análisis&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-07-31T18:49:37+00:00"
-    },
-    {
-      "titulo": "Prensa Observatorio - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mT2ZKWHRYVXM1VEFwYXJ0SHZ6c0hYU2NZcTZrZHpoY1FfQXl5YkEwZFZjYUwyUm5kYXliV3JqV3BCUmU0a2ZRaWk0QjIyMlc0SmdWTnY1cTVXNnFtYzEwRFppSzI3Zw?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Prensa Observatorio&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-07-31T18:49:36+00:00"
-    },
-    {
-      "titulo": "RecursosObservatorio - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wRUVIeVZBNF9jalNSdl9VRzZVU0tzZTNId3BQYU90cTlUWHVaRk12TWZmbkpiUXNGd0NRMGxEQlF1LU94ME5iLVhKMlpweEp1RExjVVlwdlRyRFluR3pRT3E2c1lCcEk?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "RecursosObservatorio&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-07-31T18:49:36+00:00"
     }
   ]
 }
