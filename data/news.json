@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-16T11:01:34.471631+00:00",
+  "actualizado": "2026-08-16T11:35:32.933060+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cuando la probidad llega tarde",
+      "link": "https://laprensaaustral.cl/2026/08/16/cuando-la-probidad-llega-tarde/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La renuncia de Natalia Ducó al Ministerio del Deporte, aceptada inmediatamente por el Presidente Kast, requiere una lectura que va más allá del uso inapropiado de un vehículo fiscal y su participación, junto a su equipo, en una fiesta y karaoke. Es, sobre todo, un problema de probidad. El artículo 8 de la Constitución establece...",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-16T11:29:48+00:00"
+    },
+    {
+      "titulo": "El verdadero plan de seguridad de Kast - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDBpcjdsVXI2S1lQX2ZtUGFIUzdzYXZNMWs1ODB1Y0lJVVhGcHFSUG9MbGFmNDR3Q2loczhXZTdxb3A2aklXYXFDVUdqVWlPeUF0TXp1MS1rT0wzeHBFdlNBWHZpS2IxNFY3MG1nbmpoTnFjUFNiaEFlNEZjdVBBeA?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El verdadero plan de seguridad de Kast&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-16T11:00:00+00:00"
+    },
     {
       "titulo": "PwC Chile presenta: Giorgio Jackson ante la posible pérdida de fuerza en el FA / Gonzalo Cordeo: “Boric fracasó en desmontar el sistema democrático” - El Líbero",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOWczdlRCak9pMC1HdDhpTmkyQzdRRW5hR2FxYWIwTnh6Q3ZYNHdHTU5WYnlUUi1fN2tOR1ZfX05XX05RTi05NmtHT1RQZHBQLWx6U2YwLVRfNE9yRGN2U3Nvbi1rX1ExdVM4OTloRkJnQWx4MW9Oc0swY19rVlQ3RXYtZFJxekZnaXRSRFRaZXJMbVdXSHdjMnZnSkJkeVpOUTNCRjR6aWpMTm5hbmpvT3h5WWFOWDgySjV4MFRxcWVvaExMb2tlY1d2M0dkUmdoTF83aVdCOExFRW9qS0ZaNFFnZklBY3E5Uk5lbEllNFVtS0stQkJLaWJIdHlldkJFMXhoNA?oc=5",
@@ -5578,28 +5600,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-10T17:30:00+00:00"
-    },
-    {
-      "titulo": "Oposición crea comisión y delinea estrategia por paquete de seguridad de Kast - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW9WQ3RLRzZ4QVlyQThWNDhsY21uSEFpR3lZc3ZiOXBtTTJPTm5KSXpfYi1uX0g0YVBubWI5aUVoUFlzS25tYVIyZDNreFRNRkJiTDBkVm9IWWp1NWRoN3p1UEQtRUo2X3N5YmRBTGdadm1EMkNsRHpSVXhEYjduU1lCNGhUMktzN2xTLUowUW1pc1l3ZkJXT2ZMUU80WFF2SmVTWm1fT1daYjRrNkxHQjdqcjdTVUJTY2Q0eHFB0gHfAUFVX3lxTE5ta0tZTTFzUkxMMGRGeF9GLWkwajNYZF9LYkhRZGxOd1VrWi1Nb3NhcDR2WE54TjlmY1ZCS2Z1Skd1dGwtRGUweVNiSkRnWE1iay1mOHFtWkJaRHlva0F0eThFekZBRXRRdm53SU5ObnhDZFVyanlSWlpZN1lZLTdNUTFRTF94alp0dlFqTUxLd09scUlZaEJrekJOSUYtZ0JwSVBvN0k1M3RhY3RoZE9GSUhuVVFLNEE2NzdFT0N0Tm5qM0d5YUhLRWRBWVJhdklwRHFYSVJDb2l0NGxhMXM?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oposición crea comisión y delinea estrategia por paquete de seguridad de Kast&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-10T17:30:00+00:00"
-    },
-    {
-      "titulo": "Presidente Kast firma proyecto de Reforma Constitucional Pro Seguridad: conoce sus ejes - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZjBvOWN3Q3VmTUxlUXI4eUhTOEt0Ti1lTVFNUjRlTTVmdmM3azFpSV9xMTNVU2JudU1kMHlib1BYX3BkTUd3RXNDVDBvalc1U2RsNlZtRWxHeW9aWklSTnpQYmU4Y3VwSU1MLUoxZ1NaTkgtazk2eUc1al82VDlDS001cnJFdlBtWEZoWnBBbU42cUdqMmV2WWViblppeUk?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Presidente Kast firma proyecto de Reforma Constitucional Pro Seguridad: conoce sus ejes&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-10T17:18:27+00:00"
     }
   ]
 }
