@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-17T09:11:09.722565+00:00",
+  "actualizado": "2026-08-17T09:59:32.567549+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Reforma de seguridad enfrenta a La Moneda con partidos oficialistas / Organización de ultraizquierda llama a la rebelión en liceos - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR1dHN1ljVUU3eXlpS3dTN2tpWmV4SzFFZDdPQ0FNcm9obDNxMlEyUWFtaFBkdktEUXFwWDdrMm40R2QxZlhMMmVVejE4SHpTS055akNLdGVwR0ExeU1hWEVIT3NEeWFXRmlqRzhWX0wyU282bmY5QUJ5YmVwcmpvRFczOENqYVY3YkVwT1JmeC1Fd2ZxdlA3QlhmaHRSaUx0Z04yQS1kSEl6V2VaSU1nY1FVdHp4X2c4MmFHbldNajdMVGdOSXpRbkhNZ3RYZWthRE83WGxJRmFCSkhUSzJINURJN3ZmWWRNeU11cWhCTG5sY01kUzdIVUFhcXU2emtfcXVlMmV0T3d6cFU?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Reforma de seguridad enfrenta a La Moneda con partidos oficialistas / Organización de ultraizquierda llama a la rebelión en liceos&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-17T09:54:17+00:00"
+    },
     {
       "titulo": "Kast y Quiroz: ¿Quién manda a quién? - El Mostrador",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ3pMdy1Vek1yWldKbjJBTTYtcmJ5NlNhbXdCUk12Y1g4Umd6WE9rbVdqYXNEWk1NZnk5SUMyT29DLWVuWS1HSVh5ZTF5bWdnQ1Z5MnpkM3Q1Vnk3Z0l3ajl5aHl0YWtIeXpZLWtRZlVUX185b0RWT3dfcEtqaFAyVkQwMXF0a0c5dVAwTzdWSC1rNVptYzlwR0dHczhwS0U?oc=5",
@@ -218,6 +229,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-17T01:19:26+00:00"
+    },
+    {
+      "titulo": "Encuesta Cadem: Aprobación del Presidente Kast sube a 41% (+2pts) y 93% está de acuerdo con el \"Plan Cancerbero\" - Emol",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTTlvTFJtRWZlLWZFZ0hDZFZ5b2V4VTY1ZWplTURRQzhyRjRscE9NeThabF81VU55dXZ4T29heXhZazFidzRmdXh6T2djdzNtcWMwZkZqU2RBbVgyYkpRajgwRVl0X0ZrQ202bEtRdFEyWDRNYnpkY2hwT2FIR3c2ZFUxUG42ay1OM016dkZ6VDVWWmszUlVQSDdMcjBteGM5MWc?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Encuesta Cadem: Aprobación del Presidente Kast sube a 41% (+2pts) y 93% está de acuerdo con el \"Plan Cancerbero\"&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-17T01:00:37+00:00"
     },
     {
       "titulo": "Cadem: Aprobación de Kast sube a 41% y un 93% está de acuerdo con el “Plan Cancerbero” - CNN Chile",
@@ -5612,28 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-12T12:57:00+00:00"
-    },
-    {
-      "titulo": "Primer gabinete, Convención, AC y megarreforma: Las doce frases que dejó Boric en profunda reflexión - Emol",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYWVBV0xQT1QxSWdpN0V4c1J6aGZpbW91SXpvTE5NV0ZYUmVDMl9Cakd2aWJpMlM3Vmh3aWlOaV90UjlXb01vR2xZWmxQT2QtYUN3c0pVaEZpVlJtRldkckhvT3pLUkt2Wlk4S0VIR0pnWnlVNE4xX2t1V2J5LTdSZE9hZ0pmZTEzYTRvbmhDV1p3UQ?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Primer gabinete, Convención, AC y megarreforma: Las doce frases que dejó Boric en profunda reflexión&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T12:46:00+00:00"
-    },
-    {
-      "titulo": "Boric hace autocrítica de su Gobierno y llama a ser una oposición \"dura\" pero con \"coherencia\" - t13.cl",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdE9JZEplUkhaVVRwVzdkUXBmSDNGRjI5bTR3RGhGaV9reE0yd0VHcXNESmhjN2xYa0FLMDlWZVh1TDZucHlqT25Da21vdWp1Vk83dDctaXV0MzBWaUpzVnVyTlhXNWhnblBrZHo3cmpGZHV2cmgxb2ZJOWRmY0w2TTM5RTI1MmpUVkh5aVI2UVFnTWlKV3hXNHd2aWl5enBxU1NCbDhjSWFsZWJJZ21wWXBiNmR0cDhnVFBsWmF0LTRlRkJOdkdEedIByAFBVV95cUxPdE9JZEplUkhaVVRwVzdkUXBmSDNGRjI5bTR3RGhGaV9reE0yd0VHcXNESmhjN2xYa0FLMDlWZVh1TDZucHlqT25Da21vdWp1Vk83dDctaXV0MzBWaUpzVnVyTlhXNWhnblBrZHo3cmpGZHV2cmgxb2ZJOWRmY0w2TTM5RTI1MmpUVkh5aVI2UVFnTWlKV3hXNHd2aWl5enBxU1NCbDhjSWFsZWJJZ21wWXBiNmR0cDhnVFBsWmF0LTRlRkJOdkdEeQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric hace autocrítica de su Gobierno y llama a ser una oposición \"dura\" pero con \"coherencia\"&nbsp;&nbsp;t13.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T12:16:00+00:00"
     }
   ]
 }
