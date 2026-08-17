@@ -1,7 +1,157 @@
 {
-  "actualizado": "2026-08-17T13:07:56.902573+00:00",
+  "actualizado": "2026-08-17T13:54:48.152247+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cadem: aprobación de Kast sube al 41% y 90% respalda salida de Natalia Duco",
+      "link": "https://www.lanacion.cl/cadem-aprobacion-de-kast-sube-al-41-y-90-respalda-salida-de-natalia-duco/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La última encuesta Cadem, cuyos resultados se dieron a conocer este domingo, mostró que la aprobación del Presidente José Antonio Kast registró un avance en la última semana y llegó al 41%. De acuerdo con el sondeo, el respaldo al Mandatario aumentó dos puntos porcentuales respecto de la medición anterior. La encuesta también midió la [&#8230;]\nThe post Cadem: aprobación de Kast sube al 41% y 90% ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-17T13:51:32+00:00"
+    },
+    {
+      "titulo": "Senador Macaya respalda agenda de seguridad del Gobierno: “Proteger a la gente es un deber del Estado y no una opción” - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTWlhMjI4TzBKbm90TDNOb2VqTnI3VWh3MFVVeUJETzdwX05sWFk4OXdEYzhnd2ZjOWtPcHdydElMSU5jUU8tQkZFNnF0UGd0LV9OUHNWY2QyVWNHc1oxNF9PUHJXSUtJNklpQXF4bmczZDYyLVBtTlBXS0RfU0dyZEs4eEJMQmY3YkN1NHh3WE9qNzJOYXJXbjJGWHdENjF3dGJodTNQblZQdTByRklVQWJRR1ptelg4XzNtRGN6RW5zcFlyMXREeWJXZUZqN21fcnc5WEZhMGxqUktDb2JnMWRKRF9scVNIMTN0UEE0alNtdUtGWi10dXRDVXU4eDdLMDY2NURR?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Macaya respalda agenda de seguridad del Gobierno: “Proteger a la gente es un deber del Estado y no una opción”&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-17T13:47:35+00:00"
+    },
+    {
+      "titulo": "Kast y dichos de Ramírez sobre votos de la UDI a reforma constitucional de seguridad: \"Vean el mérito de lo que tenemos redactado\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWtnZ2QzbS04bWx1cy1YRVhmMjhSNlNiQXl3d2ZmbnhkYlRaR3AyQmFXYzY1NmhKdzFwdWxuRjJVajJ5N190cVpheFViNzhObTVQZk95cnlUNHpfWUo4bGNINHdyRlc3Q1hNNHltekhjQ2RPbUcyV2I0Rnh3cEZEdXhKa3R3bmxqWTd3dzl4TEVHYy14Y0E?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast y dichos de Ramírez sobre votos de la UDI a reforma constitucional de seguridad: \"Vean el mérito de lo que tenemos redactado\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T13:45:00+00:00"
+    },
+    {
+      "titulo": "Kast hace mea culpa por falta de coordinación entre Quiroz y Alvarado: \"Es responsabilidad mía\" - biobiochile.cl",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTHpicE5VTXo4YXVlYWR1Mm9nQXhiWkIyTk9kZnJZaFhabDNqRVdZV0dXY0ZsODM0NHU3TlZ6Q3N4a3lObE5yZEJodnFibU1lQnM4ZVpwMnc4STRvZzB0RmNIQ2gxV08zSlRQOEdTdEJmZzFRaGpvY1hhWC1JYlFPRnVQblhDWUFaSHZxV2RNQjRhaGFKeXlmbzZnNHE1NnRpaTVQeERYeHNTVzZ3R0VEOU9jNkNObk9FTUd6ZE1qajh4MjJVclJtSkRGM0kzOW1RbzNIZEpkb29lZWxud3pyV0NUbWtpT1BZOFBlZTFzUW5kZw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast hace mea culpa por falta de coordinación entre Quiroz y Alvarado: \"Es responsabilidad mía\"&nbsp;&nbsp;biobiochile.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-17T13:35:51+00:00"
+    },
+    {
+      "titulo": "Presidente Kast toma distancia del proyecto “Escucha su corazón”: “No vamos a tensionar a quienes nos apoyan” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdFpXRmZDdkltSVpPSWZIWTU1ZldLNzJ2cWt6dkpzTlFBWGdocnZvQ3ItOFpzWG8ybXNST1lhNk1XUFRfR0ViZHIwT0o0N2pYN2tJdGJzcG85WkN3R3JWZ0ZnYzU3RXBDR0xLVTY5T0ZBdlRFaUtybVhOYzdYSEZVYjVtQndrOXYyNU16bVduTVpwaGJyLWd3S2R0VlNFdlZILXBIRUFXWVNUNEI2bW1GQlZEd0xWY2ptNWgybl9EcWlNOUI4djlEbXdTS2RXaG4xd09FdUFMTdIB6wFBVV95cUxOMWZpVG1aN3VFUG9pdU04VEVCQ0F1ajdKTC0wU1J2bFN4WUdNRDQ3dVNkSnkxVlJVTjUyNEVOMEJUdzRpeGYzYzFpTmVidTdxa2NPTnMxdk9RMG1WX1M1NDBnbVR1MExnN2FVSEpwTERJcU04bW1NNzdzaER0UVdHVk9RSlYwelVtcG5YQl9WVnhZaXFNOHY4X1R1Tk91Nk15TE1vNWdDYXRjX3dTblNvdVYtNmtjMGNTbk5ndENXOXoyZkFuNVRhTTZFeV9KYTFHWHdlUDdxRkJxbnYwRWt3LXV0VXVncWlGaGIw?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast toma distancia del proyecto “Escucha su corazón”: “No vamos a tensionar a quienes nos apoyan”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-17T13:31:33+00:00"
+    },
+    {
+      "titulo": "Senador Walker por modificaciones de reforma: “Es una pésima idea (…) Todavía están a tiempo de detener esta locura” - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU1hWNm9rZlk5MHZMcmR2TjMtN0hjYjdTNmxXWGJoNGs5RDF4RDZVam82dExrXzJ0UWh4QUw1ZUg3elFvbkh1WHQ5aHJDTzBFck1WRHB4NHZhODctUVJ2eWxQQmVOSGRxbkNzOU5jX0dmWlpsQXNpbUhRUUVMRDRKM0VEWjBwRnBHMUhTLTJFdUJPOE40NjVlR1c5Wm9HNlZ5ME40c295X0x6b09EU2lIQklsN0dLLXF2bk04Q1BIcUQtSVRfN3RPLUxhbVBFX2JSOG9GY3QxeUM5eWpuNVhYRHY3YmRaeWM5VnVjM2ZSQTdUd2h0V1BNTklHWFo2Zw?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Walker por modificaciones de reforma: “Es una pésima idea (…) Todavía están a tiempo de detener esta locura”&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-17T13:31:28+00:00"
+    },
+    {
+      "titulo": "Senadora Gatica (RN): La pugna en seguridad será hasta dónde recortar derechos a condenados",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/senadora-gatica-rn-la-pugna-en-seguridad-sera-hasta-donde-recortar/2026-08-17/092805.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La senadora María José Gatica (RN) planteó en Cooperativa que la mayor pugna en materia de seguridad será buscar un límite en materia de derechos sociales y se manifestó optimista ante la posibilidad de tramitar la reforma antes de que termine el año.\nEn conversación con El Diario de Cooperativa, la parlamentaria recalcó que \"Renovación Nacional está a la espera de un documento formal, más allá de",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-08-17T13:28:05+00:00"
+    },
+    {
+      "titulo": "Kast responde a reparos de Ramírez (UDI) por reforma de seguridad: “Es una cuestión muy apresurada decir que no cuenta con los votos” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNNUtBTlh5bkxUR005Yk1oeUtGSWNXVDkwblkzLS0zdjlIM2JkNURxa2pOaXZLWXVDVktHcUNYNXp4UGVjcGRJekNKM0JQaVVIM1NCNnF0S3BpMk14N0FEbHJYQWZfc0lBcHlJMG5RbnY3S3hXMERPUXBvVFRPMktHM1k1X1hEXzFmOTRfVWFxa1FUckRLdmNKNGhmTl9jWjQtYm1CUWZYTFRWb2lhSkJfZ0Rpc2w5NkdxR3hJRVZMNnVGMTBuRGMzaVNfS3FmOUN1Q0dKU2VjR2VYMHRKTHVqbXQ5dm41TTlRN25iQ0lVQkZPMXBGUjFMYkxGRXctMHgwNXfSAaMCQVVfeXFMTUVxQW5XeF9hT3ZsQWw5VmhSdFE3SWNXc2xlcmFuUG1aZV9HOEVlRHB6UTMtbERDSDFzU2pOOW9mY2tGcUc2ZXlabVFEVHdyUUthSGU4a2NVbHJpSDJHQXl3UHppRWZJcW0tbmowSEFtbjh5NXVOX19DVWZXdUk4MktPeW1jTndVbHg2bGdQdXBPTWc0eDRWTzNFUDItNGNEdjM5bDNPWG9CaHMwckFpS1NTbDM5eVFnWlJoUnk4S21hN012VXJKWFl2RzlpS01MOThTR0RIRlJOMTctVDA1OVdHOEZoeklVRVlBZURUSWkwSXNvOTVLWVdSWl9jNDI2bUVWdXNOT19xQ3BTLWFscGNyLWtIczVjNWt0blRFX0tiUGxF?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast responde a reparos de Ramírez (UDI) por reforma de seguridad: “Es una cuestión muy apresurada decir que no cuenta con los votos”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T13:24:33+00:00"
+    },
+    {
+      "titulo": "Presidenta de RN se suma a la UDI en cuestionamientos a reforma constitucional - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0NnLVJ4cVN1Z0FwMFhtX2QtNHBxdmgxNWJ3NDl6QllOdkNnSWphOHJSZ0FLeVZVRzkzbFF5TVRSZ2htM0hDODh4NGVSOS03Nm5tLUoyNHdreWlHcFBXMXdkVGNuN2RrUFVYbmJoRUEwMS1EenZJNHpDMW0wVlRxa1ZvTUhHTjFuR3hOYXNGVW1ycktNdmJoR2dSRFNnemM3eUZHVkoyVEh6VFJ2cHpyV3ZSenE?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenta de RN se suma a la UDI en cuestionamientos a reforma constitucional&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T13:14:15+00:00"
+    },
+    {
+      "titulo": "Gael Yeomans, nueva presidenta del Frente Amplio, apuesta por unir a la oposición: “Tenemos que ir un paso más allá” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdGFWUDc2alZVeDV3UjNnSDlaVjR6aWR0V1UwWlk2N2dBejhLeTk0NWJzLVYzaXFWX1haeWtNWFdxVGJMWWVqRWlPYjdzUkpWaHZpblZaeWdkSFc3Tmo5TVpkUy1uN2oxQVNNaFVtZHFfdDljZEJyZXdlcWQxcnZuWUJFb3NuYVZ5dHVXZGU4M1BFNE43d2l5emp5VGtEalNpYVVDeVQ4YW05VEtvVjNFWTNDR09SdjZmNFZPUk51bjJiS0lrTkxTZUZqUFJ5NzQ0U2JtdDZtaGNnZ2lpOFo5LdIB9AFBVV95cUxPalE1UmpHQ0Y2RFRxRzJSbVhfekxsdUoxYVpfVFAzTEQ3Q0lIdjBsRUZKUlBtS0dlanVkUWJ6Rlh6NWtDLWJCWGFaX1FrR3lsX1QtN0Nrd3lhYWpISkZQRFYxVUx2YWpzZmZ6TkZXN2dxYkxZOERiRlN2Nmk4VHhqZXlNdndybnZJRHdiZXFJWjgzZjRpWnVIRkhfSmltS2pHcTI1b2xkVk43MEVFeHBpMkxUU1lJR1JETzFtLUt6Mklid3kxc05GLWRHcVUwNk1zR2RIS0JnSFNwQTNrRG1iaU5DWE9Vd2Z0Rl9JS2FCUVhEbE9U?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gael Yeomans, nueva presidenta del Frente Amplio, apuesta por unir a la oposición: “Tenemos que ir un paso más allá”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-17T13:12:12+00:00"
+    },
+    {
+      "titulo": "Consejero regional critica proyecto que permitiría “pesca de arrastre” de la jibia",
+      "link": "https://ladiscusion.cl/consejero-regional-critica-proyecto-que-permitiria-pesca-de-arrastre-de-la-jibia/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El consejero regional por la Provincia de Itata, Íter Stuardo Malverde, manifestó su rechazo al proyecto que modifica la “Ley de la Jibia” y que busca permitir una excepción para que la flota pesquera industrial pueda capturar este recurso mediante redes de arrastre o de media agua en las regiones de Ñuble y Biobío, luego [&#8230;]",
+      "categorias": [
+        "Consejeros regionales"
+      ],
+      "fecha": "2026-08-17T13:12:11+00:00"
+    },
+    {
+      "titulo": "Kast por polémica reforma constitucional de seguridad: “Me llama la atención que se generen grandes debates en torno a borradores”",
+      "link": "https://www.theclinic.cl/2026/08/17/kast-por-polemica-reforma-constitucional-de-seguridad-me-llama-la-atencion-que-se-generen-grandes-debates-en-torno-a-borradores/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast defendió el contenido de la iniciativa y pidió esperar a que el texto sea ingresado al Senado antes de abrir un debate, luego de las críticas surgidas desde la UDI. El mandatario, además, relativizó el impacto de una eventual falta de apoyo al proyecto y marcó diferencias con las dimensiones de la llamada “megareforma” económica.\nThe post Kast por polémica reforma c",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-17T13:09:10+00:00"
+    },
+    {
+      "titulo": "Kast enfatiza que hasta el momento no ha visto ningún indulto por el estallido social: “Yo no los tengo en mi escritorio” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVUNuamtwTUZjQWpNMDVRU0xwRlFUdy1HTWZFeXo5ckc3ODRFMU9ZRHJ1eUU0clVqMTItbmJsOEtjZG83T2EwNlVMWGJqVGdxWFJzM3F0cDRuMk90SXo1ZVlSYnI3bEF6Z21Yak5JcFZDaTU5VW9iamhUd1NPb1ViMDJoTVBWcTl4c3g2ZHgtYzJ3SVFXWndlYUNLYXJGQ2NvcDZzcXlmclVEQU5tVl9IOUYwT3pMcnd1OTJoM0dpcEE2REg5MDZiZFRjRGFtTldZY3lhX1NvSmpBeFlvNE1GWUgxUDI1TkFWOXNDSUFielBMcWd6?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast enfatiza que hasta el momento no ha visto ningún indulto por el estallido social: “Yo no los tengo en mi escritorio”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-17T13:01:44+00:00"
+    },
     {
       "titulo": "Reforma constitucional de seguridad tensiona a la UDI",
       "link": "https://ladiscusion.cl/reforma-constitucional-de-seguridad-tensiona-a-la-udi/",
@@ -12,6 +162,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-17T13:01:44+00:00"
+    },
+    {
+      "titulo": "Verónica López-Videla es electa presidenta regional del Frente Amplio en La Araucanía - tiempo21.cl",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTU1yaHluVTJXN2NhSDMzdEdaUFp3TWJvb1B1dzF3Rm9CWVF5aUpTdnpKZV9YMlpOVlZhZFVReEZZbTB0cF9Tc0VsVVZlN1lRNDRHenlnRmVYMllTcXkzYmZna1Y3UGU3cDRnQlh5LUp6am93Q3paeG53UFBDSU1kQU51cmVXaVlRQU9KTG1PU0d1QWtSUko1aEdsd1FFUU1EM3dURkl1X0lyZU9YZHlV?oc=5",
+      "fuente": "Tiempo21 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Verónica López-Videla es electa presidenta regional del Frente Amplio en La Araucanía&nbsp;&nbsp;tiempo21.cl",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T13:00:00+00:00"
     },
     {
       "titulo": "La paradoja de Kast: seguridad lidera las preocupaciones, pero 54% evalúa peor de lo esperado su gestión en esa materia",
@@ -5483,161 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-12T17:03:27+00:00"
-    },
-    {
-      "titulo": "\"No fuimos creíbles\": expresidente Boric llama al progresismo a asumir la seguridad como \"bandera\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3N0TUstbndidUFBWi1HYTdYZkpXSHlmbkJwYk9saGRNUEpwM0gxd19LNG1OVHlUdDhIU3d0cF9OLUdGRS1GLTI5SktXOUE4TjVYT0FTUGl0ZWVFUUNmakFhbnlKRE1CazRnVGZGMENiS19xX0VsRzQxeXY0c3pYNXN6Y2J3T2ZETlpfOUREeWFhQllITGdmRS1GaTM3SlNmUEhjbUVzSWF5bEdPcHFSQ25FdGxObXZoNTkzMERkOHA3Y3VPU3VxYw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"No fuimos creíbles\": expresidente Boric llama al progresismo a asumir la seguridad como \"bandera\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T16:52:27+00:00"
-    },
-    {
-      "titulo": "Diputada Pizarro ingresa reforma constitucional para garantizar el derecho a la vivienda en la Carta Fundamental - cronicadigital.cl",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN2l5blhCbENVc0NxYm43cnBwTUhRQUpmUWhKbVFIQ0FCdFdRYWdhMUIzYWZmTzNKWjNWeUY0aWtURm1JWnpxT1A0TzlqMTlma1VhdjY1ckVqOG1BVVFlaTViZ042bUZSM2Rtcm9rVnFvVnQwZU5aOUdSUXBZbmNwZXRKRDE0eTJuUWgxOHBtcmUyVl92RF9UcW1LSUZiOWNDeGUxa2o3TjdZeFhoLW00b2RxMmkxckhUT3BtNVVkTk1XTE9QVE5GMWxQT3BIWC1HaGJFSm5R?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Pizarro ingresa reforma constitucional para garantizar el derecho a la vivienda en la Carta Fundamental&nbsp;&nbsp;cronicadigital.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T16:45:29+00:00"
-    },
-    {
-      "titulo": "Ahora en DF | Exministro Cordero representará a salmoneras para defender artículos de la ley miscelánea de Kast en el Tribunal Constitucional - df.cl",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdlBHc3o5aFFDYUNBZTVzTWQ2LWZHdm10QjBMaUFjTE9TRTVtcllldEExc2hkalZNZFdpXzQ5RE93bkxWSzV4SHNsOXByQlEzWExIZ2Z0TmNYblBfNXpkcHhCSmswYmhNdDZUbUltZmlublVlQnk4c0dydXRkQ1pqRGFyUFF6NWZTeGhsSzF0ZUNWdEkzRGlkOEVSRmZySlVrbVlYLXBld08?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ahora en DF | Exministro Cordero representará a salmoneras para defender artículos de la ley miscelánea de Kast en el Tribunal Constitucional&nbsp;&nbsp;df.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T16:45:00+00:00"
-    },
-    {
-      "titulo": "UDI y venta de casa de Allende: \"Evidencia que siempre hubo interés económico y que museo era excusa\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdmh2UmI5QjMyVENrUVFTd0JPZ0RiY2Z5VHQyTzcwcEwtZjZ5dVBiMzY0S0ZHV3RNcG5OWVBtbDlMVHd0VEFSUXl2akRhZk00LXdDM1A0ejFLLVR5MnhrVW9wd294bHltblhnRWpDb3VBMEFaalM4ZjU3VDZZYmlUX1R4WVR2WGhsM05PbHRScXZVY1E4NnF1dmFJT0d3bTB0akp2LVlTYVRhbkRtWHg2YnpQZXBad1U5Z1F5ZnVQdFh6MnZNeDhjQm1FZlVtd1pEU0hFbWhnNGtQWVVhWWlnZUpheElieEMza1BnNktzdU5DWG5GVzdQVVJR?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "UDI y venta de casa de Allende: \"Evidencia que siempre hubo interés económico y que museo era excusa\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-12T16:35:37+00:00"
-    },
-    {
-      "titulo": "Kast promulga Ley Escuelas Protegidas: colegios podrán revisar mochilas bajo nuevos protocolos - latribuna.cl",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRHg2d2wxSEhUZ2dEWHJQaGNmRXNReGFYU2JsTHp5YVNvUmxJd1dfWDRtMkM3bVFnOWpQOWk0bkhIb1M0aFVrckEzdlgyb0lrTnZoZzZEVWYyc0lYaXZjU0dRVXJ0SjcyU0hzci0zNlBDLTdadFBVVC12Y1NXLXN0VTdUYWJURUVzTFF0bVFXLTNjX1V1MGw1N1J6dlpFNi1fcmxWNGx1ZGY1SWtRamNGX0hxQzlwZDVKZ3otdXNhUVJyMTI5S3RuSDlkMzRqTjhxN0lyX3NXZ0M3UFXSAeMBQVVfeXFMUFhSZE5NS1NDV3EtMWlTT3ZDOHJCczc1T29aMGxsSzRLNndLSHR2bTFMUjJLcTV4d0d1S3pib3BaajVqQlk1MmlBZy1URU9JME9fZnBOSm1IaVBXR1FDQzhFdjRRelFaWEQ5ZHNwSVJfNGY1NC1Vc1ZpS2xGbU5oZXNHU3YxN3NwRm1TMVJQc2d5SnpuYUZpUkM0c05DelNzbV9QYjRSM0VqeDV3N3M3QURFQ1RONmdVT3lIREZTOXlQamlYOW96ZWF3Q3hWcjdLT0R0NlpoNmdoZ2VFbkVtSVRLUzg?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Kast promulga Ley Escuelas Protegidas: colegios podrán revisar mochilas bajo nuevos protocolos&nbsp;&nbsp;latribuna.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T16:30:00+00:00"
-    },
-    {
-      "titulo": "Expresidente Boric confiesa lo que hubiera hecho distinto al comienzo de su gobierno: “Con la perspectiva de la experiencia..” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS0dIRmRGc1FMY25VRFlXWF9BZXFpNjdzVVg1X29wSXJrZy1URWZZTGl1azJjTHdBYlJtcjdZMUlKbk1CWnJ1dUxLNnVNVXNGb0dub1d6NHFPZ2wyZFNQV3N2WV9mTFNHZWZWWEZTaE5XeXkzWTJENGx0N0s5TDdkWDQ2WEJodlJidk9rd0RPaTFlSEZESmR3MEFRSEJlVm1od2VxLXBCMkhXd2tpTjFya2ktNGpmM3JEMXZ3Wl84ZXY2Ty15RmdRSzhPakM5T3JnMGpGMFJRcjNFTUVmc1BTVEZLZXVVUmdWMWZ5ay130gGCAkFVX3lxTFA2aWxJN2c3b19MR0xkbTg1UENEMUkxSlR0U0FjM1JIQWxUZDU2T29BQVpPS2liSFBadXlFX01HQXhwSV9RdkI4YmpGUTBtNVVacmFTV3BEcXZNeWtVcTJiSEJvbWxOdnc1SjBPRVRXMUk2T3g0U0s1dEg3YklUSEpYajAtR3pJcklUUlFVTjgySkRVUVVhd05FcFVFS1JpZWVmODNDclJrWkd0ZXMzVHpQWmRZNWhFV24xTzZ5MW5yMTQ1ZTNNX2k3c1pqSE5LVjhmdTFKVkUwVGhGRVZKSzlzaVJSVngzZVUtZzN1Q0JiY1I4bzFhMENIZkk4T25VNTYzZw?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Expresidente Boric confiesa lo que hubiera hecho distinto al comienzo de su gobierno: “Con la perspectiva de la experiencia..”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T16:11:28+00:00"
-    },
-    {
-      "titulo": "Conducción del FA, Piñera, fuga de militantes y oposición a Kast: los cruces de Martínez y Yeomans en debate de La Tercera - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdDNfYlh1ZjB1VWVwWVMydU03bktVMnZBMzBCUXVKdFFHWnk3c3VzX3IzamdWT1R6QUx4bGhtUE91c3VYTDR5MTd5OV9JZEstX285cFpLdzV5Q3ZvM3d4bEVJWlJDRzF6UTA3ZHJRTU1SVDVRdlFQQ3RZODg3N2ROWDNzZG1fbHBXeDl5NVZPd1k0X1RwazVmX2VxZnR5Q01MQWlOaVZwVzRmbFlBYkZTMndZVk9XMTRuS3c1WE1ELVY3MHAxNjRxblVZMkxZOFdEUnZLQ0xJMHpHUFp6eWRQWHFxV0JaajhFMDdSejlKYWJVYVg0cmfSAZcCQVVfeXFMTmdVV2M4dElzczBxY2pGWTdXb1B2ZjctTW9fLVFrOVVWUW1pOFJIakN2VHJEb2V6MXBkUEstNHcxc2ZPUnR5ekEta2k3TnlXaWZ0dVVONWdBQVZEdS1BemxSVmc4ZktOU21UMW56R2x6NW8wU1JMdHhWdmdWeFNPWk1Sejgxc09QS1N4OU1EcTVmLUxRckxFS2pkSjZ0T1NRRks5MXpHVWxHYzZDbnhFQ0VtTjYwakdtWmMwakN3S0pOUWlIRnFnX05TTGNEckIxNkEtcTFVTV9KTDI2MVlLZTB2LWxrM1ppSDRDY1VXVzdkTmMyXzNKSUgxd29yckFwdWliSi1ZbEkzeEV0eHVXQnhtR3hSZ1VF?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Conducción del FA, Piñera, fuga de militantes y oposición a Kast: los cruces de Martínez y Yeomans en debate de La Tercera&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T16:08:48+00:00"
-    },
-    {
-      "titulo": "“Siempre existió un interés económico”: UDI critica venta de la casa de Allende - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEVWLUpxMUxiWmcxOEQwa1Q0R1VUNTN0R09PdE9hcmxGZjZKUjZPLXQ3ZmM2T2hCLXNSdWduSGxLUkZQekJad2V3SFY2MXZuaUE0WlNYQTVwZmJWbldpak9MNmdwVU1IQTVoU3RKRi1UeG1tRnQxMF95UkJzVjZndk9NeVVSR29TWTNuV1JMamJ1RkxTVWZrZDV6QlUyZGo1aUlvX3hUWnl1Zl84eUJDMjZaVkdBaUlnSmJPaF9kVncxcThuTzhMVXI1N0ZBVkVUTXc?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Siempre existió un interés económico”: UDI critica venta de la casa de Allende&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-12T15:49:00+00:00"
-    },
-    {
-      "titulo": "Audio: ¿Se desmadró el oficialismo? 40 bajas en el gobierno, la autocrítica de Boric y el debate por los feriados - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5DRVRLQWNIRGt2RHlHNFdicl83a2RUWV80Z19MMm5NcmFUNWtab2x1X041cVo3MWdxbWxDN0pPWGRGMlRpOFFrQVBrelhxZFJOdmtWa2N2OWR6QkE0Wnd1SlZ5TGR2QVpmclBnd3pUZGtxRmRES0E?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Audio: ¿Se desmadró el oficialismo? 40 bajas en el gobierno, la autocrítica de Boric y el debate por los feriados&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T15:36:00+00:00"
-    },
-    {
-      "titulo": "Presidente José Antonio Kast encabeza publicación de la Ley “Escuelas Protegidas”: ¿en qué consiste? - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQREpwMFFZMjVWN2xYWFNNQk8xRTE5bjhrUVU1R3BwNF9qRjB5eVE3Nkh4cUF2YUJLdjF5Z0RCX3VsLUVwOFNYZjBVTjFCUzZVOHcxWlZyWVl1aVViUXNQUl9EUXhPNnhHQ05fRkpWaURpRmU1TmFta05LLVBoY1BvdTNteU04ZzQ4cDRzU0o1cHhBamloME12SjlYUVpRa2Z0c3Viek1QVkdkTDQxMXlsRHI3WFN0d3V2QTc5ZlJpZE02Mkd5b19zQzlOWnJLdlFBd1NOR1B2LWdRMTZoMVdOYWZISHdSbkxFYVBv?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente José Antonio Kast encabeza publicación de la Ley “Escuelas Protegidas”: ¿en qué consiste?&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T15:31:03+00:00"
-    },
-    {
-      "titulo": "Ramírez (UDI) dice haber sido informado por impugnación en el TC y reconoce \"problema de coordinación\" en el gobierno - Emol",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU9mazg5RllfSk9UME03eDhyeUkzLVRMQ09hWXBwZVU5Ui10dzFLcTgzOExEeFZtemV5NWFXeG82eE1KeHZpc2JtLWxsdXFpajE2cVVIWlBZY0ZGOXdCb1NrWnFzSTBTWndzWHM5SnZ0TjhRTFY3VTQ0ZHpyOWppdjNON2pOUFh0WS1wLXo2cWFsLXZnN3B2UURQRUF2V0xUTWpfcXFZci04OFZ4MDdn?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ramírez (UDI) dice haber sido informado por impugnación en el TC y reconoce \"problema de coordinación\" en el gobierno&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-12T15:06:00+00:00"
-    },
-    {
-      "titulo": "Boric admite errores de su Gobierno: “No fuimos creíbles” en seguridad - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWhZU1o1d3k0VlpXMnltYXpucEM2dVM3b0NKNFB1V1ZOWnpSbWFaU2s0XzRDODdzZnFkQUw5YzRhUndoY2lNd0FjSGVCNE9hUnhMNUJ6YmNwRmxhdGlxc01USmEwcUhFbXZVUm9YZ1YyRi1sVmd4WDlTQVV6emF1VkpJZTF3LW9UZTdSYm9jNXdTNmJfRXNFMg?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric admite errores de su Gobierno: “No fuimos creíbles” en seguridad&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-12T14:56:35+00:00"
-    },
-    {
-      "titulo": "La UDI por venta de casa del exPresidente Allende: “Deja en evidencia que siempre hubo un interés económico y que el museo era una excusa”",
-      "link": "https://cambio21.cl/politica/la-udi-por-venta-de-casa-del-expresidente-allende-deja-en-evidencia-que-siempre-hubo-un-interes-economico-y-que-el-museo-era-una-excusa-6a7c84ea8776c9795a52e713",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-12T14:39:26+00:00"
-    },
-    {
-      "titulo": "Ahora en DF | Quiroz zanja que \"el 17 de septiembre será día de trabajo\" y descarta posibilidad de feriado XL de diputada Parisi - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMWJDSFFFSElZU05pQ1hUeUppc0hCS3dzOVkzZHl2Z3dMaUVOcmlkSUNUSlBVb1pFOFN5TDlGWDlfX1BTQmJFRmJsNVBxdzF2c0FTZElldVQ5SGRnRTYwQUFCbHJOamgzWC13Y09sWnp1TWRsYVNfd0VhMkEwMWFrTzFwSktFMkkyWU1WcE1lbDhJWUl3ODNBNmxaNWtleUZJM0x2S3dBVUw?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ahora en DF | Quiroz zanja que \"el 17 de septiembre será día de trabajo\" y descarta posibilidad de feriado XL de diputada Parisi&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T14:32:00+00:00"
     }
   ]
 }
