@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-08-17T15:32:14.780482+00:00",
+  "actualizado": "2026-08-17T16:01:10.725632+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) 🔴 Gael Yeomans se impone en las elecciones internas del Frente Amplio",
+      "link": "https://www.elciudadano.com/reels/video-%f0%9f%94%b4-gael-yeomans-se-impone-en-las-elecciones-internas-del-frente-amplio/08/17/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nGael Yeomans lidera la lista vencedora en las elecciones internas del Frente Amplio, obteniendo un significativo 54,71% del apoyo. Se destaca el resultado como un evento clave en el escenario político del partido, reflejando el respaldo al liderazgo de Yeomans por parte de los votantes. Mantente informado de este y otros temas políticos en las [&#8230;]\nLa entrada (VIDEO) 🔴 Gael Yeoma",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-17T15:45:10+00:00"
+    },
+    {
+      "titulo": "Timonel del PPD acusa “germen autoritario” en reforma constitucional de Kast",
+      "link": "https://www.lanacion.cl/timonel-del-ppd-acusa-germen-autoritario-en-reforma-constitucional-de-kast/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El presidente del Partido por la Democracia (PPD), diputado Raúl Soto, dijo que -por lo que ha se visto en borradores- la propuesta de reforma constitucional que propone el Gobierno tienen un germen “de gobierno iliberal, autócrata o autoritario”. Y “ponen en riesgo” la democracia. “No solamente por considerar que es innecesaria. Sino que incluso [&#8230;]\nThe post Timonel del PPD acusa “germen au",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-17T15:38:13+00:00"
+    },
     {
       "titulo": "Tras salida de los No Alineados: Chile evaluaría restarse de negociación de cooperación fiscal entre países de la ONU",
       "link": "https://www.theclinic.cl/2026/08/17/tras-salida-de-los-no-alineados-chile-evaluaria-restarse-de-negociacion-de-cooperacion-fiscal-entre-paises-de-la-onu/",
@@ -63,6 +88,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-17T15:17:38+00:00"
+    },
+    {
+      "titulo": "Arrau intenta bajar la tensión por reforma de seguridad y llama \"a la calma\" tras crítica desde la UDI - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQT3Jha0VicGw5NUM1U29rV2NDdE5qSmpvc0VMLVEyUS1xV2J2Qi1zeU5yS05UUWd5MFgwM1ZFT1dyUnZ2MEN1cmFuUzd5bWFlN1RtZDc2WU82ZkRqVXhqeFVkSVVYNUdFMFpjVzhIZy1WRDFFb3VXdWVFZktqbUpObVhwMS1meVliMjI0R3U1d0M2RFh1b0prZE1sRXk5ZDFkT3VOZ0tCOHRPMXNHb0JPajZQeFMyRVR4ZThwSTVtbF9tWThTdGd3bGQ3S212UG9qREotaG5JTklaZkhjOWphTGQtNS1FRjc2OUhJNlFlWUdiUXFGaERLNXdsdFk?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Arrau intenta bajar la tensión por reforma de seguridad y llama \"a la calma\" tras crítica desde la UDI&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T15:12:54+00:00"
     },
     {
       "titulo": "\"Es culpa mía\": Kast asume responsabilidad por descoordinación entre ministros Alvarado y Quiroz - Universidad de Chile",
@@ -305,6 +341,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-17T13:24:33+00:00"
+    },
+    {
+      "titulo": "Senador Juan Luis Castro cuestiona reforma constitucional de seguridad del Gobierno - Radio Pauta 100.5",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNbFNtVU8zbDJ0M2t5SVNxb2Y5dnRaM0k4T191c1NkQm04YS02NWdjeloyUXhMTExWYlBTQWwweklrY0NybnE2M21IOE1xdHFlT1NjWElnOUhDWE94M0dsUFZOQUpXVVJPQ0QzWVJwNFphbzZFUjVFVThLNEt3cDgxbTREWkJrNGhSNnlMQ2N6MEwzM0o3OHhmYWg3VzkzVWhsemhFZXloT3FEOHVpWTY3OXRDZVJES2ZibnhJdEJFS09FT3ZtSTRmVTU4ZDFsWFRLUElMNlotb2Mzcm50Y01DN21oNEpxSjZfTWZHU3BoYXA1VURBUUUwc205aVc1ZnkxQ0hobGNqY3gza1E?oc=5",
+      "fuente": "Pauta.cl (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Juan Luis Castro cuestiona reforma constitucional de seguridad del Gobierno&nbsp;&nbsp;Radio Pauta 100.5",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-17T13:24:12+00:00"
     },
     {
       "titulo": "Presidenta de RN se suma a la UDI en cuestionamientos a reforma constitucional - Universidad de Chile",
@@ -5611,50 +5658,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-12T20:46:00+00:00"
-    },
-    {
-      "titulo": "Municipio de O’Higgins confirma fallecimiento del alcalde José Claudio Fica - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa2lDS3ZGUS1WZVpUdmlvRTNwWmpibEppQ1NvUFUyT1F1RFdBLXhxcUlKdEZJNHZyczhsYzJyUjJIMjFjZUJrNlIyRm1iNmtycFpKUEx2SGNucnBhQjJuWndEWFNtM1hvdWlxVEw4OWxBT1J1dE9yQXFNV2lfTkppU3VRSUwyN1ExVVBvM3pGdEVSV0tPOHcza2pvNFZwcF9lcVlWSnlXNl8?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Municipio de O’Higgins confirma fallecimiento del alcalde José Claudio Fica&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-12T20:38:49+00:00"
-    },
-    {
-      "titulo": "Diputados presentan proyectos para instaurar el Día Nacional de la Oración y otro de la Biblia - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTFRxbkF1QUxJUTY3M2F6VjZPS1FqemJsQjJhVlpOMnpuZUVRWU9BU1gyTTNUVDhoWjQzMmJaVFFHRGVpR3h4Wi1saWNxZUFOQm9XaFJMdkRGbktIVjRJeThaR2FVc1RNNTliV1Z1OWd4YU9IZi1pOTRiYmlseTk4bHFpeG9kVndES1MzYXdkV2hxdHJLdEpMUXBxMjR2VFFZMVJxdW43Qm5CMEc5VUc1YUwzWTVEM1lTSVlaR0kwX01FWkRpREVEdm9R0gHeAUFVX3lxTE5JSWxXUGYwSE00eVF5eHVuamhTUUNYa01XMWRXdEJxa3pZRjcwQXRnSzZ3TkV6b2ZtX01ONWN1TXJDdDVUd0xsQ2ZNZVZ3aEF0cU44TW0wYkhROXUxaHdkZnhqSnpxaUNBai1sdllhNS1SRFZMQi10R1VWNE1uTXU0NlJmVWNZU3BGRnJ3bWp2SHFheWY0VEtFNWdSSWlkTUFQMXVuMDluV1ZhOUl0U3otWnNtWnhVYTk2eDZ0NU9rY0VtWjZFNUZZUlh1eVlxekwwN0xDdFVzaGtQZkYwUQ?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados presentan proyectos para instaurar el Día Nacional de la Oración y otro de la Biblia&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T20:09:03+00:00"
-    },
-    {
-      "titulo": "Benjamín Moreno (PRep): “Si no controlas el crimen organizado, los derechos fundamentales no sirven de nada” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRVVvcG9sVUxzc0VIbzR6ZWsxS09oUEJOX2JsazNucmVrWUZFVkd0SHNxRUR5SllnLTJXelE4MnRYaW9jMFlZOEVFMzVwdHFtejBHUXplWXN0cHE0UXdJRkdaZlZPMGtzTXEyYURyaTlTR3FjTl90cmd6OF9iLWxSWE5oTFVJS18xbHp2aHhwQkp5YUprckRwZnFUQWNpcEZxbFNoNFFlV3BMc1lQeUdqcmpoNXptTTB5M2VKcXQ0NTQ2WEFyQ2w4anQxN1JYWG51UkNxeQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Benjamín Moreno (PRep): “Si no controlas el crimen organizado, los derechos fundamentales no sirven de nada”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T20:07:51+00:00"
-    },
-    {
-      "titulo": "Diputados PC insisten con feriado del 17 de septiembre pese al rechazo del Gobierno - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbElYcjBpbDRoMkxqdnNJVjZwbnc5R2ZIekpFWF9acEZwV2RSZDV3RVRsX3FSTWlBZ2hUb051UkdxMG1hOUZ4a05jR3BqZnlZZjdTZ2J2V3Y1eEE1T0NlRHprOVFVS3FDN2J4N0xKeFFmRlZkNUMtX3N4ZkRLRjBNd2ZYWWhNLXVkLU9jQkR6RWwxaF9sMHdmeExXVHFmX2JnbzN3ZE9MUGZOTmlqOWc?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Diputados PC insisten con feriado del 17 de septiembre pese al rechazo del Gobierno&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-12T20:02:07+00:00"
     }
   ]
 }
