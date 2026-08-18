@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-18T02:44:35.539143+00:00",
+  "actualizado": "2026-08-18T03:31:30.823454+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Seremi del Biobío fue denunciada en Contraloría por mal uso de vehículo fiscal",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/seremi-del-biobio-fue-denunciada-en-contraloria-por-mal-uso-de-vehiculo/2026-08-17/230223.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La seremi del Trabajo del Biobío, Camila Álvarez, fue denunciada en Contraloría por presunto mal uso de vehículo fiscal.\nUna exfuncionaria la acusó de utilizar el móvil para ir a comprar café a una sucursal de Starbucks ubicada en pleno centro de Concepción y para asistir a citas médicas personales.\nLa denuncia también apunta a un uso indebido de las redes sociales institucionales: se indica que s",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-18T03:02:23+00:00"
+    },
     {
       "titulo": "Cámara de Diputadas y Diputados aprueba nueva prórroga del estado de excepción en la Macrozona Sur - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTEUxX3daa2NtV1pVQkFSVUtjdEZxZnAzVEJJQ0phQjR5NVhIeGxtRlUwd2pNaWludFNSaUNxNS0wSER0S2lHd2thNi1ZaU9Qa1NXTmM0cWhfbnpJV3RMbHBNNWUzaTlVVWNiaXlRZXgwMmUwNzhuRTNzbHlEenpvOVUxMC1UNjVEaDQ4MkNrQ090TjBBUm5JZGR5am1jZ1BDX25OZmdQTV91ZUJrdWdITzZrQTVfNjJkSWJ1NA?oc=5",
@@ -274,6 +285,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-17T23:00:00+00:00"
+    },
+    {
+      "titulo": "Franco Parisi: el triunvirato que controla el PDG - ex-ante.cl",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yeEp4Tl9jR2wyem5WV1ZzdnA1cXVMUUE4TFJtVExLcnhMeHlDX0VTbDEyNUljMkN6b3FuWEFGRU1Jd1Q4cTNWc0ZLcDZUajZ3eDZqazdid0JtT2xvcFVsejNEcVFfOUlDZzBITlhYN2RSd1MyY2ltZ0R3?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Franco Parisi: el triunvirato que controla el PDG&nbsp;&nbsp;ex-ante.cl",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-17T22:59:18+00:00"
     },
     {
       "titulo": "Franco Parisi: el círculo de poder que controla el PDG - Ex-ante",
@@ -982,6 +1004,18 @@
         "Diputados"
       ],
       "fecha": "2026-08-17T16:39:34+00:00"
+    },
+    {
+      "titulo": "Senadora Vanessa Kaiser (PNL) no afloja, desafía a Kast y le exige coraje para indultar a uniformados - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZDR1cnRMNXI5M3VoUUNvU20wQWxTeTZ1VlRUZXZ5TWZxMm0ybUdfSFNqZWlWaEdzOS1sUjlUVXZEd24yQjU5T0p3X3kzY29nMVZFOVBYMktkX2FvV1ZTUkpmVGdpQW9LdE13dDhucUJib1M3TjV4Qy1zSjlMY0JQLXFudDBQVXNIWXZ3akk4V0lZeS1ZdXZFWnlxcXk3TVc1WVdhbU4zRzRjbDNOQjk5V21fdWxraExTWWY5cktWQ0hsRTlmUG9Dek14UVhYVXh0Q18tXy1JaXFjb1BIbV9WZQ?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senadora Vanessa Kaiser (PNL) no afloja, desafía a Kast y le exige coraje para indultar a uniformados&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-08-17T16:27:53+00:00"
     },
     {
       "titulo": "Alvarado y Quiroz se reunieron por “descoordinación”: Kast asumió responsabilidad",
@@ -5659,39 +5693,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-13T22:38:06+00:00"
-    },
-    {
-      "titulo": "La Moneda cita a Duco en medio de malestar por su respuesta a la Contraloría ante denuncia de mal uso de auto fiscal - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQmg4QTd1aFdDbmZ2YjlybWJqTFNocWotLUhZeWNwZkhyM3JEMV9mV0RyWFdiWElZbVl1b29XUk40TVhRMHRtd1h2Z0VsRWxiUTBLZGNyUlhfSnl1Nnd0bUlWb2hHRGpqQzZybkVMRk1XVTcxcHMxVU9SbE53MEd4MjJBMWZTU0RuTW1FdWhKaDk3UjNsNFRoMXBReVU0cm9Qb1pQQWZxcTI5Y0hiVGdiTUNVRnJWTE1YQ09qXy1ZWXJ1eTctRG83T2lPY191TDZYY2VnTnBwRW9TUmYzeEVhem9KQ0hrSmRSeVE5MWNrX214ZWJ6OTVSbDRZd9IBnAJBVV95cUxONjVONWJ0NzU3Zm1hUUNXejJEdjdhVHZfV0RYTU9NTTk5MW81UnNIelZyNGp1RmZUak9kVzdSMFJ3Tnh3Wk1XTVJhRmpQeE1HUmtQVXlGYUVXNndfdVN3bkVoQ1ppZUxHWEdfWE5QZm5zSWI2N3hMRnZpNThLSUc2bnpRRE5MRUR1dEdMdjEwLUZENTh3OTBPbk5IdHZTdVBzWGtqd19LU3ZhbGhZSDZKUXNmQmpsUWg5VGtlOXR5YVZucmctYjhPUWh0TmNOV20wcXpueU43dmdXanRUZjJKVVVIbFZ0d21MY0lvTGhXc19kY29iSGdWM3pJbF8tajIxZnlGVENJcHNaMTNJR2RLcDJnR3hkYU81UXd5Ug?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda cita a Duco en medio de malestar por su respuesta a la Contraloría ante denuncia de mal uso de auto fiscal&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-13T22:32:46+00:00"
-    },
-    {
-      "titulo": "Fin al misterio: Presidente Kast designa al ingeniero Carlos Barría como nuevo secretario ejecutivo de la CNE - df.cl",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd2xtaXJkTldwMG05TUIySnRNVHlrOHdjOXVUVllKWVhLVmlQczlIbkRYcFdXcmRPaldld2tzb3Bpa3VKYWdWLWdJS0pnaHN1TDFiemo1SXhOY0J1djVJazJDRVZHVE4zUDNuVDBMaDZTTnpwUnd4ZTEzUjdpR3hob0kxdFB1eVFGWVdaUWNrWDk5VlY3bnl4MHNNUjhvS1c5M1YzU3RSM2pGUQ?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Fin al misterio: Presidente Kast designa al ingeniero Carlos Barría como nuevo secretario ejecutivo de la CNE&nbsp;&nbsp;df.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-13T22:31:00+00:00"
-    },
-    {
-      "titulo": "“La Moneda al día” en “Me enteré por la prensa”: Tensión Quiroz-Alvarado y el rol presidencial - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenplNnV2OWVLZGVfRDFMQXdEOFZBMzJSQzdpbC0tVTZ3YTVPb2U2S05LTEs5T0pPdFl3ZElzbVA0SXIza3NDSmNER3c1dVZ3cFYxYjhrbi1SQkg0Y1cxaFRkWk0yQ1RLRGh5SDFtTGtfOVZ3MTZlTkhhVHRnR3pRUk14MjUxYmRXbnlPdTZKajgzZmdURGxyQ0l4WUdwdUZlbW42RU56akpkTlMxWHNDLVhJb0U4SDlSWDJLY1RjTko?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“La Moneda al día” en “Me enteré por la prensa”: Tensión Quiroz-Alvarado y el rol presidencial&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-13T22:29:00+00:00"
     }
   ]
 }
