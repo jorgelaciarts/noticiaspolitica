@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-08-18T11:28:01.344619+00:00",
+  "actualizado": "2026-08-18T11:54:01.959503+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Exministro Mario Marcel presenta hoy su libro  “La Montaña Rusa”, junto al expresidente Boric",
+      "link": "https://laprensaaustral.cl/2026/08/18/exministro-mario-marcel-presenta-hoy-su-libro-la-montana-rusa-junto-al-expresidente-boric/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El economista Mario Marcel Cullell, exministro de Hacienda del gobierno de Gabriel Boric, presentará este martes 18 de agosto en la Universidad de Magallanes (Umag) su libro “La Montaña Rusa: Crónica de una crisis y cómo se superó (2019-2024)”, una obra que revisa uno de los períodos más desafiantes de la historia económica reciente del...",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-18T11:31:52+00:00"
+    },
+    {
+      "titulo": "Contraloría frena la compra del terreno para viviendas  en Porvenir y cuestiona tasación por sobre $3 mil millones",
+      "link": "https://laprensaaustral.cl/2026/08/18/contraloria-frena-la-compra-del-terreno-para-viviendas-en-porvenir-y-cuestiona-tasacion-por-sobre-3-mil-millones/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La Contraloría Regional de Magallanes representó la Resolución N°61 de 2026 del Gobierno Regional (Gore), que aprobaba el contrato de compraventa de un terreno en Porvenir destinado al proyecto “Adquisición terrenos desarrollo habitacional urbano”. Mediante un oficio del 13 de agosto y firmado por el contralor regional Jorge Beamin Rosas, el organismo resolvió no dar...",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-08-18T11:28:31+00:00"
+    },
     {
       "titulo": "Ampliación de Planta de Aguas Magallanes  crecerá a parcelas, afirmó alcalde Parada",
       "link": "https://laprensaaustral.cl/2026/08/18/ampliacion-de-planta-de-aguas-magallanes-crecera-a-parcelas-afirmo-alcalde-parada/",
@@ -57,6 +79,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-18T09:10:41+00:00"
+    },
+    {
+      "titulo": "Pepe Auth: «Al ex Presidente Boric le conviene el triunfo de Gael Yeomans» - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQmtWekMtbVl4bnFYaGUyZUU5Yzc1TUJBdXZTNURVMmNhTmpfdFN5NnJTajhUeWhLaHFvWjQ5YlF1blNsS0ZFR2xCVEs1R205V2dDRkFTU3RhT1JqNjQydjRZMjdOb1NqMGhoVDVjSkgxNXBEeHE2b0YwcUNueFpZVGNkdktubGJiMDhPSGI5bFNJOV9neVk5Sk4zbTQ5TjdZT3hQaVRR?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Pepe Auth: «Al ex Presidente Boric le conviene el triunfo de Gael Yeomans»&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-18T09:00:00+00:00"
     },
     {
       "titulo": "Senadores Walker y Flores la tienen clara con reforma de Seguridad del Gobierno: \"No cuenten con mi voto. Configura una suerte de estado de sitio que vulnera las libertades\". Y \"es una chambonada constitucional\"",
@@ -124,6 +158,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-18T03:02:23+00:00"
+    },
+    {
+      "titulo": "Barrio Meiggs: Robos por sorpresa cayeron 77% tras primer año de plan de recuperación",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/barrio-meiggs-robos-por-sorpresa-cayeron-77-tras-primer-ano-de-plan-de/2026-08-17/223956.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Santiago reportó una caída de 77% en los robos por sorpresa y un 71% en los hurtos simples en el Barrio Meiggs tras cumplirse el primer año de su plan de recuperación.\nLa intervención, que ha logrado erradicar 5.000 toldos azules y despejar 181mil metros cuadrados de superficie peatonal, entrará ahora en una nueva fase de expansión con la contratación de 180 guardias adicionale",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-18T02:39:56+00:00"
     },
     {
       "titulo": "Barrio Meiggs: Robos por sorpresa cayeron un 77% tras primer año de plan de recuperación",
@@ -5651,50 +5696,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-14T01:08:32+00:00"
-    },
-    {
-      "titulo": "Kast intenta desdramatizar descoordinaciones entre Alvarado y Quiroz y asegura que “lo importante son los resultados” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT3lDeXVSa3Y3VXpSRWVUR3FCYmJCWFhYZFlyYlB1VWZLM1l3bGhVWlJTdjVTb21aMjdaZTFXdm5uT3Rydm9tTGdvRlJFeWdIV0dsOUdMd2Nvc0VNMkd4bHRobUdzZmgwZnN5Rm1wSUotQTJXXzhqUmpFWFQxeUxVZnJKWmR2Z2xlTzFQRVAxbnRFZG5ob29zNEZqbU9SaFl5alhxcGxmR0JuZkNzWjhqR0FTV3hTMEFqR2RHLTVFUG1zS0wzZXh4MmNGYVJOU25CaE40Tm8xbkQxUEJsXzA2cXRFc044TDRUYll0TW52T3rSAZICQVVfeXFMTm1fa1ZoWTRXUHllYjcwaTY2OVVKZ3dvbjZIRlc5c2RFdnBURDhrb1N4T1hMVW1CYkRTMk5UUWRaRVViQ0ZtRjJ4MEplaVVxQkVObk95NHVMNi1MX2NuZ0plTGc1c21QenB0VlV2UlZnbVI2UzFRcTlEX1JnUWhqbldYcEdzZ0VHbVU0UFdITmtNWEpmMWVrRnpiVTQ1Yk5QN0ptQ0FlQmlYNXFLalkyYnRvd2NLQUNxNVdTdHdlZkduVEdMV3cxUVVEOE9uU3c5d0NnYXhKQUM2UGxIQzczckJPdkN1X1JfVXVKOWQ1cl9zM2dNUkhCcVgySWJFekJtMjRJM0dIYzVRQkUxODk0SGM3Zw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast intenta desdramatizar descoordinaciones entre Alvarado y Quiroz y asegura que “lo importante son los resultados”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-14T01:07:50+00:00"
-    },
-    {
-      "titulo": "Dirigentes UDI transmiten malestar a Alessandri por declaraciones de Longueira y su veto contra Hoffmann - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYVE1V2d5RWN3dHhpSFVKSFZOVWxLZjlLNGY3QktoRncyOWctYWd3OThhZ00xTXE5OXhsRjRSZElCOGhuVXJYcmtndHFselgweWVLeDVHeWNBVzl4LUsxbkpMeWxkRV96MGNTajB2eUVud0VXeHFkVGE0OHhPMlF6TVJhQWZnSktjSmlMeTBpR2lOVngwVEdYOG9MS3NYcWlsaG5UbDREdGNfWGYydEZwTGVhZ3pHRUw2ZW1UMWUteHBzYi1wUk5INUJkTGRVV1BzQWRWaWd2TXRrbnA5NEpBMnp30gGDAkFVX3lxTE9kTVdTbUFhMXphTGVZbGE3V201dDVJa1E3TzdydDlpbmRBZTRteUtFd2VzTGhqTVV2Q2hwcVU5Yl95ZmpkMG1ZZ1lFZ1c2NEd5RjNRR2c3RndFXzhKVGU3UFhiU013THdiUTFwOTBJVDhEQ3NNY1NNWk1tRDVmNk9hSHJzNXlfZlBMcThIZzd0aERmMUtOSTRkZmRTX2pXR2NjUjMzeHlYTjk0elN3Ui1fS01WeEdqTFJjeFpUV3E5OWpHTWZQYUlfYTYxdTF6djM4RFg1c204NS1OWnFZNnBDUjlsZk4xWjFYRE5TNGp0ZjNVV2dnVE5yYkN4NW1XU3k4c00?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Dirigentes UDI transmiten malestar a Alessandri por declaraciones de Longueira y su veto contra Hoffmann&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-14T00:53:25+00:00"
-    },
-    {
-      "titulo": "Fiesta de La Pampilla se realizará en septiembre: Alcalde de Coquimbo confirma evento tras suspensión por temporal - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTnFqSEFhX0stT1VnWHZXYXI4OFhzNzZwbGFnU01zaEQ5RWlrLThLZlBlX1FSVi1LNXl5LU5SMkpiQ0J5d1VvVzBwd0lrQXE0N19JVTZQQmthbzV0Y1J1Y21IbmJYTGRxYmtZWU5qX0lzVUFCMEpGRjFzVENmNFBGRW5lR1B4TEljcUU0d2RWQ2xXeXcwaXk5V0oyR1FnNmV6cjFGUEU3eVA0cUthbHN5ZlNycGNycXhJTzl0X2xzeEdrVEZia0NFWkg5bzhRWlI0YzdhWlZuSVZvQW1J?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Fiesta de La Pampilla se realizará en septiembre: Alcalde de Coquimbo confirma evento tras suspensión por temporal&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-14T00:42:40+00:00"
-    },
-    {
-      "titulo": "Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas",
-      "link": "https://www.ciperchile.cl/2026/08/13/radar-13-08-2026/?utm_source=rss&utm_medium=rss&utm_campaign=radar-13-08-2026",
-      "fuente": "CIPER Chile",
-      "region": "Nacional",
-      "resumen": "La entrada Gendarmería traslada a 191 internos peligrosos a nueva cárcel de Talca; PS suspende militancia de senador Fidel Espinoza por presunta VIF, y detienen a 72 personas en megaoperativo antidrogas se publicó primero en CIPER Chile.",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-08-14T00:27:30+00:00"
     }
   ]
 }
