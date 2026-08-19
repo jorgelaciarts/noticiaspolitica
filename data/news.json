@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-19T10:31:31.103429+00:00",
+  "actualizado": "2026-08-19T10:58:57.822574+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast viaja a Antofagasta y Tocopilla para monitorear la emergencia - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDdaLVQtcGFVeTdHYklxUkdodDZ0OTZ2cHE2TlZoVDR6YTJaR3ZPTkI1QmhTaUZ2MXNEeGk3ZEM4WDQtYXdBdmo3R2JLS3BkdWduYVpROUxoUkJBb0ZvTk1oVUZMem9zeE1LbjZUc0dnMVlqTjFWMmhyV0p2YjVuLTNsUkUzMXMxRzBVZU1tZUlUbWF0ZzdBNDhGZWd5czktMG5kTU1tWjlUOW1ra1NDYzFZTQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast viaja a Antofagasta y Tocopilla para monitorear la emergencia&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-19T10:54:43+00:00"
+    },
     {
       "titulo": "Consejeros regionales rechazan modificación por  $4 mil millones y cuestionan plan de empleo de Kast",
       "link": "https://laprensaaustral.cl/2026/08/19/consejeros-regionales-rechazan-modificacion-por-4-mil-millones-y-cuestionan-plan-de-empleo-de-kast/",
@@ -25,6 +36,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-19T10:00:00+00:00"
+    },
+    {
+      "titulo": "gael fa eleccion directiva boric - La Segunda - lasegunda.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzBkMk5kaWVmdHYyVHNxdlFQRE5teDFyM2Y0TXdFenFWUnBKT1IyUldEU29STnBtQWF5V1IyZWh0b25sR2RMT01HWURyQ3pHX2ZlMVcyNHdVUTFYWXo0bm5WODF6UHI4MjVjTmx0WVRlRTFTX1g1d1RHbllhUllPREkyMUF6eDRPc2daS0xfR2pic1lIQmdB?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "gael fa eleccion directiva boric - La Segunda&nbsp;&nbsp;lasegunda.com",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-19T06:06:27+00:00"
     },
     {
       "titulo": "Inédito: Hasta Kaiser cuestiona nuevo Estado de Excepción propuesto en reforma de seguridad de Kast: “Habrá que ponerle cotos a esto o rechazarlo”",
@@ -5680,28 +5702,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-15T11:41:31+00:00"
-    },
-    {
-      "titulo": "Alejandro Eder, el alcalde de Cali que ha debido enfrentar la emergencia del terremoto y la ira de algunos vecinos - Emol",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnhQX3Z2cHh0ZmlzaXZsUHNPdzh5SkxMZkpaSHVkSUZrQkx2MUk4cVhRb2dheGtDVko4eTlPVGg5TDRublF3NHljZzdXNHQ3Sm9HY1Q0Sy01WFNSWU94Z1FBMUQxUURoRkphdnZCaDBxeEFCVUhDT1JaOVk5YXpYQUZsdGlfWUFFVDlyU1RYd0IwcGFJc3VzMUhBaE0xYk9IOXNxbw?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alejandro Eder, el alcalde de Cali que ha debido enfrentar la emergencia del terremoto y la ira de algunos vecinos&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-15T11:21:00+00:00"
-    },
-    {
-      "titulo": "Bid asesorará al Gobierno Regional para incorporar  una Zona Franca de Servicios en próxima licitación",
-      "link": "https://laprensaaustral.cl/2026/08/15/bid-asesorara-al-gobierno-regional-para-incorporar-una-zona-franca-de-servicios-en-proxima-licitacion/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "La máxima autoridad regional se reunirá con los distintos sectores relacionados con el recinto franco, tanto públicos como privados, a principios de septiembre del presente año para informarles sobre el trabajo en curso con el Ministerio de Hacienda. De cara a la próxima licitación de la concesión de Zona Franca, el gobernador regional Jorge Flies...",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-08-15T11:10:26+00:00"
     }
   ]
 }
