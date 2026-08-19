@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-19T22:43:26.538277+00:00",
+  "actualizado": "2026-08-19T23:04:03.764106+00:00",
   "total": 500,
   "items": [
     {
@@ -1726,6 +1726,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-19T00:41:00+00:00"
+    },
+    {
+      "titulo": "Elecciones parlamentarias - La Segunda - lasegunda.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkQ0MmxMdjNidFJyT191b1NXZGtqLTFoVjNFTFZ1TG83Xzd3R3ZWUGlORUJnRVN6RVJmR3pPekU4MmZURmFscEIwUW5LUVpITWd1Z2NsM0Z3MzROYWFaVDJiWFhONC1RYXdFT0VNaGZIRWZTS3Nrc2hiV0VaMGZsVEZZVlFJTmRYRlpSOE13V3FXV0Z2WjFjbEVGVkZNRUZCR3ZBTnVLUTlscTl6TlVSQnZwMUVjZw?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Elecciones parlamentarias - La Segunda&nbsp;&nbsp;lasegunda.com",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-08-19T00:31:17+00:00"
     },
     {
       "titulo": "Caso WOM: Contraloría apunta a Subtel de Boric y envía a CDE - Ex-ante",
@@ -5689,18 +5700,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-16T23:19:13+00:00"
-    },
-    {
-      "titulo": "Gael Yeomans gana la elección interna del Frente Amplio y asumirá la presidencia del partido - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1p4RVZ3aW5OcXRVY3RaVi0zRFdRU05zWEZMWDZpVkpyVElUN1R1RVlKNzhGSmxEVUQ3SXdrT21YMmdJWkJwWVRGRkQyVTlxSElrTjU3STlHcXpGTGRra1ZVWnVIT1EtRmJsYjN4eXNZb05td3Z3VmxIeDZpX1ZGbHp4OGhtRnF6U2NkdFFneDF6NGI5bkRpempweFVQSHZXS00tTlg5Yl9DTlhEUE9DdG55eG9jdw?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gael Yeomans gana la elección interna del Frente Amplio y asumirá la presidencia del partido&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-08-16T23:14:00+00:00"
     }
   ]
 }
