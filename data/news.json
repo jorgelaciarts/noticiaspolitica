@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-22T06:47:44.730826+00:00",
+  "actualizado": "2026-08-22T07:33:40.473746+00:00",
   "total": 500,
   "items": [
     {
@@ -497,6 +497,17 @@
       "fecha": "2026-08-21T18:04:22+00:00"
     },
     {
+      "titulo": "Diputado Javier Olivares sufre hurto de especies desde su vehículo en Viña del Mar - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUlhkNHI3OWgtSktNamh6RWMyNGZmNkJCbzJXemVRSXVxMUw1ZnV5NG9pbWlIN3F0RG1kcmkwV1FaRF8wbzNScGVYcGM0WEpEdDZwNjh3MnpNYURLa3A4UTU2REpTNEpDXzRhckdQeFExNU0xWkZBeTZjM19LSDhfejJEYW83Ri0yWHVFWUtzLWswUEpJU0R0Vk1FalhWdHFIb3FjZnZmWUJfbVY1aFRJTzdxSHUxQzF2SmJiS0VuYzBhcFpQVVNOMVE1OUNvRmhW?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Javier Olivares sufre hurto de especies desde su vehículo en Viña del Mar&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-08-21T17:58:58+00:00"
+    },
+    {
       "titulo": "Nueva votación informal de la ONU: Bachelet quedó séptima entre ocho candidatos",
       "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/nueva-votacion-informal-de-la-onu-bachelet-quedo-septima-entre-ocho/2026-08-21/135716.html",
       "fuente": "Cooperativa - País",
@@ -762,6 +773,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-21T16:07:48+00:00"
+    },
+    {
+      "titulo": "Alberto Mayol y el giro “iliberal” de Kast: “Se están cumpliendo los elementos que lo configuran” - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeFBqU0VsUFl4YVRTVUF3U3AzczRidHZsdnFLRXl2OWc1UkxETHlvTWRZNHZwT3RxdjgtaHoxamoyREVPNFBuY3otcFFfVWFlb2hPUFliaktIai1SY2NnQld6UnAwbjBNRnpfeW8zajdBWkd5UjM2d095U2lRTGRJcVVUdjI5ZUZZSy1QdThnWk5NMTlpY0ZIUlBQTk1nbk04U1B4SEgxak5Cd05jcFdpcGlmNUxEQTlzTjd3WTJSV3JRcnlQcklmUVE0UEtUNEF6X21HRHYxYmt2dzNaUEE?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alberto Mayol y el giro “iliberal” de Kast: “Se están cumpliendo los elementos que lo configuran”&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-21T15:59:08+00:00"
     },
     {
       "titulo": "Kast defiende reforma constitucional de seguridad: “Dicen que faltó trabajo prelegislativo, yo vería el vaso medio lleno” - Teletrece",
@@ -5632,28 +5654,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-19T00:16:43+00:00"
-    },
-    {
-      "titulo": "Alcalde de Coihueco fue formalizado por abuso sexual: insiste en su inocencia",
-      "link": "https://ladiscusion.cl/alcalde-de-coihueco-fue-formalizado-por-abuso-sexual-insiste-en-su-inocencia/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El Juzgado de Garantía de Chillán acogió solo una de las cuatros medidas cautelares solicitadas por el Ministerio Público y la parte querellante, en contra de Wilson Palma Jelves, alcalde de Coihueco, a quien se le investiga por dos delitos de abuso sexual por sorpresa y cuatro delitos de solicitud de persona y dos de [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-19T00:07:24+00:00"
-    },
-    {
-      "titulo": "Kast decreta estado de catástrofe en Tocopilla tras aluvión y Senapred declara Alerta Roja en cuatro comunas de la Región de Antofagasta - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWg2Z3Z0MHJZV3pzN0cyd0pWVGptWmxfTHB6RkZxQW51MUFqR1l0ZV9paDFVZzJwUllDc2ZUVzAxeWp2MXo2VnpwcDRvRlUtR0w1X0RwX2pjWi1zWlFOSUV2U3VzM1RjbkRHeEJwdzZyZC1TQjBoUTAxTVF6YUtQLXVJWDQxNDBhc2pJTXNoVUhiT1hfQ0p0RHhLX3VyWjkyallkZ2RXVQ?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast decreta estado de catástrofe en Tocopilla tras aluvión y Senapred declara Alerta Roja en cuatro comunas de la Región de Antofagasta&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T00:00:00+00:00"
     }
   ]
 }
