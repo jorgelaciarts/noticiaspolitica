@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-08-22T11:47:48.963692+00:00",
+  "actualizado": "2026-08-22T12:42:25.058046+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Juan Pablo Luna, sociólogo, sobre la propuesta del gobierno de Kast en seguridad: “A mí me parece confirmatoria de un fanatismo ideológico”",
+      "link": "https://www.theclinic.cl/2026/08/22/juan-pablo-luna-sociologo-sobre-la-propuesta-del-gobierno-de-kast-en-seguridad-a-mi-me-parece-confirmatoria-de-un-fanatismo-ideologico/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Seguridad y “iliberalidad” han sido las palabras que han marcado el debate político de esta semana. En ese contexto, el sociólogo Juan Pablo Luna aborda con The Clinic la creciente desconexión entre ciudadanía y política, la “bukelización” de las respuestas frente al crimen y las señales de una radicalización del gobierno de Kast. “Hoy no es una democracia iliberal. Creo que el proyecto del gobier",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-22T12:05:00+00:00"
+    },
+    {
+      "titulo": "Columna de Marco Moreno: Cuando la política llega después",
+      "link": "https://www.theclinic.cl/2026/08/22/cuando-la-politica-llega-despues/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "\"Republicanos, libertarios y Chile Vamos pueden compartir la prioridad de combatir el crimen organizado y discrepar sobre estados de excepción, interceptaciones o controles institucionales. La Moneda parece haber confundido por momentos el acuerdo sobre el problema con un acuerdo sobre las soluciones. Esa es una forma de ceguera situacional particularmente costosa cuando los votos propios no alcan",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-08-22T12:00:00+00:00"
+    },
+    {
+      "titulo": "Newsletter Poder: La maldición del plan de seguridad",
+      "link": "https://www.theclinic.cl/2026/08/22/newsletter-poder-la-maldicion-del-plan-de-seguridad/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El periodista Juan Diego Montalva escribe una nueva edición del Newsletter Poder, centrada en la ola de críticas que generó la reforma constitucional que propuso el Gobierno del Presidente José Antonio Kast.\nThe post Newsletter Poder: La maldición del plan de seguridad appeared first on The Clinic.",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-22T12:00:00+00:00"
+    },
     {
       "titulo": "Personas mayores celebrarán sus tradiciones en primer Encuentro Folclórico “Raíces de Oro”",
       "link": "https://laprensaaustral.cl/2026/08/22/personas-mayores-celebraran-sus-tradiciones-en-primer-encuentro-folclorico-raices-de-oro/",
@@ -5621,40 +5656,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-19T01:00:00+00:00"
-    },
-    {
-      "titulo": "Kast se sacude la etiqueta de “gobierno iliberal” y enfrenta críticas a proyecto de seguridad - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcUNXX1FkWVlTdmFLenVNSW1ick5vYzlZS0l3ZzZ1LUtOQXZBU19XQnhXYk43M1lpMnU2RmY2VWpQM2k2R2pMUTVXckRrd3ZjWGl2T0Z3M1RlaTVMQ2RienZNNllpaG9vTE1SaEVDRE11Q3Z3ZDdMUW9NYUUwU2o3RjJKZTFwbzlqM05XTXgwRUE1X3lfa0FPb3hTX1NBTk1fMkxlV21kY1BlclRrQy0xdzNCMmF4UFBkc0gzYks5UmU5ZElNNGVkMHZpZmRncWh20gHyAUFVX3lxTFBMZDhrX3FmZk1jQkU5R3VERTBwcUgxRFFhVHAzMVNYMVJLLXY5Q1Z1RFhiVDBfbFhiVnJuUHJ4OGFNZmFZbFZxa0xPaXZZcFEwSDFhc0tVSGlsUTVlTDJObG0yTWU1RG16ZFhnekVTZTVMelZpMlEydkgwdFBudkRBWVpybGl3X00zZWhlMUxNRDhaOHhrUTA5cTcyZG9YSlFXcjZqdy1zcHhhd0p3V01hR0ZFVjBvd2plUmV0ZmxDemdCQ1h3Sjk3aXBJdGdFUmdFc3FEYWRJQmJmdUF3aXBMVDRacnRON3l6N2hMQklMaHln?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast se sacude la etiqueta de “gobierno iliberal” y enfrenta críticas a proyecto de seguridad&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T00:53:46+00:00"
-    },
-    {
-      "titulo": "PDG golpe Servel nueva directiva - La Segunda - lasegunda.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLV9IaHptWG1fdU1keGlpMlg3eGlUTUlFSWdWbmF1UExnUjdzX01TNTdDbWJ4ZmpLaFVVUWFKczkwNWtVajVpbUhUejVlZUVpU0xXRWE2VVdkVzRhNVllUldwNXpJTkNQYkFtMHZXeVI0eGRVUDNnTG1JMHFYc2dBVm9jbEFvdTF1M1hOMkpCN01OdDhjX29V?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "PDG golpe Servel nueva directiva - La Segunda&nbsp;&nbsp;lasegunda.com",
-      "categorias": [
-        "Servicio Electoral",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-19T00:47:11+00:00"
-    },
-    {
-      "titulo": "\"Una limitación de libertades inédita en la democracia chilena\": Boric critica la reforma constitucional de seguridad de Kast - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlpWX05TUzVDQXpiQ1Ryc0JlWXFweUZXRTVoak1EbnRxT0R2Zm5fN2F4NzJWV1h3YkV5M1JnLWNCOERJVlV5YjdaQzBfWS1VcVdkcjFybUUyUXg0d1d1TUpGYlRHWV9lRGljWkRBS1JkckVVeEJrTE1iYU5FbGpLaXZGa0FiSW1NS3VBR0ZyQVQyM1FCbUVSdGpHUXp1cGZOX0lxaFN0aExLMllvNkVhVkRIenl0bTU5bUs5RHJyeEJLUmM?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Una limitación de libertades inédita en la democracia chilena\": Boric critica la reforma constitucional de seguridad de Kast&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T00:41:00+00:00"
     }
   ]
 }
