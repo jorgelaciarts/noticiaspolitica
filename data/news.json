@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-08-22T14:50:20.562344+00:00",
+  "actualizado": "2026-08-22T15:23:42.751295+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Comisión de Salud de la Cámara Baja pide extender la alerta sanitaria por listas de espera oncológicas",
+      "link": "https://www.cooperativa.cl/noticias/pais/salud/alertas-sanitarias/comision-de-salud-de-la-camara-baja-pide-extender-la-alerta-sanitaria/2026-08-22/104546.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado Andrés Celis (RN), presidente de la Comisión de Salud de la Cámara Baja, presentó un proyecto de acuerdo para extender la alerta sanitaria y mantener las medidas extraordinarias destinadas a acelerar la atención de pacientes en listas de espera oncológicas NO GES y con garantías GES retrasadas.\nLa solicitud del parlamentario busca prolongar la medida por otros seis meses, a partir del ",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-22T14:45:46+00:00"
+    },
     {
       "titulo": "Venegas (PS) critica a Kast y Republicanos por Bachelet: \"Prefirieron traicionar a una compatriota\" - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUEQ3cHpZNUQxcnYzUnE2VTlDeXlKSHJlZ0RzYld6dkl1RDBXV2JIbmtXVlZjd3BQUWhCcVIxRXUxMkFhSEVtNlBWbUkyNUZmOFd4V0NwSTBiZ0xEWXl5ejVieUJWc1JMNTRFTXVuRFJTQWJBMl9xTzQ1UDZuazlQM01PVGFyUEN3Z19QOGZKS2d5UmRIOE9VRTJ2c2p3RV93aUV4dHFjYmhaS0o1WGhKUk1IOFFjVkZhMXltQkIzb0J6cmZ4QnpMclFMODBHRzJwMEdwUy1fSFZXVFVqSVItdHdiaGlPQUx6NC1DZUk5cWJibTNB?oc=5",
@@ -58,6 +70,18 @@
         "Diputados"
       ],
       "fecha": "2026-08-22T13:40:31+00:00"
+    },
+    {
+      "titulo": "Analista: El Gobierno tiene un patrón de \"dejar el tejo pasado\" en las discusiones legislativas",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/analista-el-gobierno-tiene-un-patron-de-dejar-el-tejo-pasado-en-las/2026-08-22/091943.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El analista político Marco Moreno señaló en El Diario de Cooperativa que en el Gobierno de Kast hay una tendencia a \"dejar el tejo pasado\" en las discusiones legislativas.\n\"Hay un patrón que empieza a reconocerse (en el Ejecutivo)\", donde \"la política llega (a conversar) después\" de la presentación y el ingreso de proyectos de ley, comenzó diciendo.\n\"A cinco días de que se ingresó la reforma const",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-22T13:19:43+00:00"
     },
     {
       "titulo": "¿Gobierno iliberal?: Expertos analizan el debate que instaló la reforma constitucional de Kast - Universidad de Chile",
@@ -5636,29 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-19T02:22:52+00:00"
-    },
-    {
-      "titulo": "Cámara aprueba prohibir carreras de galgos por 80 votos a favor y 41 en contra",
-      "link": "https://www.elciudadano.com/animal/camara-aprueba-prohibir-carreras-de-galgos-por-80-votos-a-favor-y-41-en-contra/08/18/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPor 80 votos a favor y 41 en contra, la Cámara de Diputadas y Diputados aprobó en general el proyecto que prohíbe las carreras de perros galgos en el país. La iniciativa ahora debe volver a la Comisión de Medioambiente, por haber recibido indicaciones. Tras la votación, el diputado del Frente Amplio, Gonzalo Winter, destacó [&#8230;]\nLa entrada Cámara aprueba prohibir carreras de galg",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-08-19T02:08:58+00:00"
-    },
-    {
-      "titulo": "Senapred actualiza balance por temporal en el norte y Gobierno anuncia visita de Kast a Tocopilla este miércoles - emol.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ1lTZmZpWGcxZGQ2aS03ZVgwaVhtc2tDbWcwOFhvRllLWF9MLVJ5UG5EOWdBZG5KeWJydUViTEh4TkNFcnhwSzRVMF85cEpTU29GRjRlcXl0V2oxQ3dFdmNuWkIxRkJod2JWVWcxUklXc0JVUHVUSVJsRDU5bjBEY1cxUHozQ3NUUjRZZHRMY3RkR0VQTjZaTHl2UkpQd0pFdTYzOGJR?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senapred actualiza balance por temporal en el norte y Gobierno anuncia visita de Kast a Tocopilla este miércoles&nbsp;&nbsp;emol.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T01:56:56+00:00"
     }
   ]
 }
