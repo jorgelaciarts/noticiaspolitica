@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-23T23:48:03.268142+00:00",
+  "actualizado": "2026-08-24T01:23:58.342002+00:00",
   "total": 500,
   "items": [
     {
@@ -36,6 +36,18 @@
       "fecha": "2026-08-23T22:21:56+00:00"
     },
     {
+      "titulo": "Criteria: 62% está de acuerdo con realizar cambios a la Constitución para reforzar seguridad",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/encuestas/criteria-62-esta-de-acuerdo-con-realizar-cambios-a-la-constitucion/2026-08-23/181055.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Seis de cada 10 ciudadanos está de acuerdo con la controvertida propuesta del Gobierno de realizar cambios a la Constitución para reforzar la seguridad, según la última encuesta Criteria publicada este domingo.\nEl sondeo abordó la reforma constitucional recientemente presentada por el Ejecutivo, en la que un 89% indicó que ha escuchado la iniciativa, y un 62% aprobó realizar cambios a la Constituc",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-23T22:10:55+00:00"
+    },
+    {
       "titulo": "Chile República Bananera",
       "link": "https://www.elciudadano.com/chile/chile-republica-bananera/08/23/",
       "fuente": "El Ciudadano",
@@ -45,6 +57,19 @@
         "Presidente"
       ],
       "fecha": "2026-08-23T21:16:42+00:00"
+    },
+    {
+      "titulo": "Yeomans define rol del Frente Amplio ante el Gobierno: \"Vamos a oponernos a cualquier retroceso\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/frente-amplio/yeomans-define-rol-del-frente-amplio-ante-el-gobierno-vamos-a/2026-08-23/165126.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La nueva presidenta del Frente Amplio, Gael Yeomans, delineó los principales desafíos de su conducción y afirmó que la colectividad buscará asumir un rol protagónico desde la oposición.\n\"Queremos que la oposición (...) busque frenar aquellos retrocesos en los derechos de las personas\", señaló en conversación con Radio Bío Bío, y recalcó que la colectividad \"debe aportar en la propuesta, no ser una",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-23T20:51:26+00:00"
     },
     {
       "titulo": "Mara Sedini reafirma lealtad a Kast y dice que seguirá defendiendo al Gobierno desde la independencia - Teletrece",
@@ -5629,28 +5654,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-19T17:42:19+00:00"
-    },
-    {
-      "titulo": "Tras 12 años en la Universidad de Chile, CGE ficha a Simón Boric como gerente de comunicaciones - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPRjBPNTVjZUxnd0w4SERYckFEcVpubm44bENzaWM0NWw1M3JOOEx1Q0tnMzh0cXd4U1hnbVdfNkJWWHNxT1RrSDR4MXZVOV9xdEkxZm1QaENfSlNDb3hUUUVFWlpsMnEtc3FZSjFHX2hvc2x3NWFjZFhfOGxvNEU4S3diWFZ2RGVhRThjVEprWG1OM0tIWktlTWh2eTFCN3Q0OUk2YUwtWE42VWw0bjdmRU1jTUNSdFhYYVM0VTBaamVXTzhEMzd3NDdFTEFUSVNSWjdxeExQYmR0LW1jNlV3LWJXejJDdDJaVDBKeHhxUTZNY1FL?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras 12 años en la Universidad de Chile, CGE ficha a Simón Boric como gerente de comunicaciones&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T17:42:12+00:00"
-    },
-    {
-      "titulo": "Con actividades en Coyhaique y Cerro Castillo Presidente Kast visita la región de Aysén - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPenV6ajNTMEhwZWlLZGFrZmlPQ2dtbkJGVXZfOG5wWTFHSC1tR2FYTlBISFpRbmV6b082YkJnS2lNX3F0em9KWFdxNG42ZEN4MnA3ZFpSWlpDclM0aDU4Q2M4ZGJIclhhekNQWFRpS0stU1MyVVN2dGRQTUFDNTVWcjdkR2ZYZS1MMnhwbHFZa0FRbFExYkRQbEtKMXF1V2d6dUJiaFphUWJULW95akh5Q21uenVfWkt4aVgzMzN0TkFhLVdSLVhTR1ZZZHVzSF9XaVA5U0wzUWdUSUU?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "Con actividades en Coyhaique y Cerro Castillo Presidente Kast visita la región de Aysén&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-19T17:38:59+00:00"
     }
   ]
 }
