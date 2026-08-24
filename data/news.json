@@ -1,7 +1,44 @@
 {
-  "actualizado": "2026-08-24T17:59:54.457384+00:00",
+  "actualizado": "2026-08-24T18:53:42.779688+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Los consejos de Carmona a Yeomans ante su nuevo desafío en el Frente Amplio: evitar la “arrogancia” y actuar con “respeto a las partes”",
+      "link": "https://www.theclinic.cl/2026/08/24/los-consejos-de-carmona-a-yeomans-ante-su-nuevo-desafio-en-el-frente-amplio-evitar-la-arrogancia-y-actuar-con-respeto-a-las-partes/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El timonel comunista tuvo palabras para la diputada que pasará a liderar la colectividad con más militantes de la izquierda. En ese sentido, abordó el inicio de gobierno de Gabriel Boric en 2022 y señaló que \"la arrogancia que tuvimos en el origen del ejercicio de gobierno no fue una contribución, nos jugó en contra\". Por lo anterior es que puntualizó que solo con \"humildad\" y \"sentido de responsa",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-24T18:29:49+00:00"
+    },
+    {
+      "titulo": "Juan Sutil: “Boric representa con ese discurso, igual que el PC, algo que ya fracasó y que no es futuro”",
+      "link": "https://www.lanacion.cl/juan-sutil-boric-representa-con-ese-discurso-igual-que-el-pc-algo-que-ya-fracaso-y-que-no-es-futuro/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El expresidente de la Confederación de la Producción y del Comercio (CPC), Juan Sutil, cuestionó las recientes apariciones del expresidente, Gabriel Boric, en la contingencia política. Sostuvo que la izquierda representa “algo que ya fracasó”. Mientras que valoró las medidas impulsadas por el Gobierno en materia económica y de seguridad. “Yo creo que la izquierda [&#8230;]\nThe post Juan Sutil: “Bo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-24T18:29:00+00:00"
+    },
+    {
+      "titulo": "Presidentes del PS, Frente Amplio y PPD por postulación de Bachelet en la ONU: \"Si fracasa tiene nombre y apellido: José Antonio Kast\"",
+      "link": "https://cambio21.cl/politica/presidentes-del-ps-frente-amplio-y-ppd-por-postulacion-de-bachelet-en-la-onu-si-fracasa-tiene-nombre-y-apellido-jose-antonio-kast-6a8c8832305f37224e7758d6",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-24T18:20:36+00:00"
+    },
     {
       "titulo": "“Deshacerse” del Convenio 169 y la Ley Lafkenche: en qué consisten las normas que volvieron a mostrar una descoordinación del Gobierno",
       "link": "https://www.theclinic.cl/2026/08/24/deshacerse-del-convenio-169-y-la-ley-lafkenche-en-que-consisten-las-normas-que-volvieron-a-mostrar-una-descoordinacion-del-gobierno/",
@@ -134,6 +171,18 @@
         "Presidente"
       ],
       "fecha": "2026-08-24T16:47:56+00:00"
+    },
+    {
+      "titulo": "Presidente del PPD: “La responsabilidad, si la expresidenta Bachelet fracasa, tiene nombre y apellido, José Antonio Kast” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNXlsLVljVnBEbzZKTEZoaWlmMFhhemlUMVZLUlk2YXQxZC1lbkx2UXdwd2tNZFJpSHlXVUNtV2JYTWFwZDB0NzZ6bXhFaTZuSUVyMGsybU9NX2NWMUJlX2h6TndUTnlSbHV5d2pUc1NHRFZoUHlJekR1emVqY0NXSE52YVJTZV9VUmxQNG83T1Iya05SdzdIY0gzYXc4MlFUTk5MazBSSkdyckF2SFY5cTNNaUhyU0Z2bUdoT1FsSk1TVk9VaDVkQ08yT25QRG1ZdG4yS3lSbk1NakRKaU5OeU9xdHE5d3ZDYXNwbm5rdFg?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente del PPD: “La responsabilidad, si la expresidenta Bachelet fracasa, tiene nombre y apellido, José Antonio Kast”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-24T16:31:42+00:00"
     },
     {
       "titulo": "Presidente del PPD: “La responsabilidad, si la expresidenta Bachelet fracasa, tiene nombre y apellido, José Antonio Kast” - La Tercera",
@@ -3728,6 +3777,17 @@
       "fecha": "2026-08-20T23:02:49+00:00"
     },
     {
+      "titulo": "Senadora Pascual y reforma de seguridad: “Todas sus facultades nuevas tienen un claro cariz autoritario” - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQakYyNWRTT2ZzWER2a0ZlbDFIYURoRUxLeE5KMjhQT1VibkgzTDdVYW5qTllMWkc0M0JoTFhkbGZqelgtVUdPVDNrTTBhdm5kanFuY2RiR25TQ0NsbmE4TUFsQlhQZVFNMXBTUnZUbXBzTVVIWE5adjlaTmtxbnJDNnhXQU5OWGllVnB2RmtUSHJWRVFSdEtpU3hRUW94UmJic2tET1gtTGhLODhMQm1XdFc0bzZhMjJvSzdlcTc2eXhQQVpuUTZ1U0JR?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senadora Pascual y reforma de seguridad: “Todas sus facultades nuevas tienen un claro cariz autoritario”&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-20T23:00:00+00:00"
+    },
+    {
       "titulo": "Megarreforma: oposición pide al Senado pronunciarse por norma de servicios básicos que Kast busca eliminar - El Desconcierto",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjRhVGlJcVlHa1B2MjQzZWZUd3dDa2ZuZ3dnRFZ2TVYzdU54TWUySmhLcUpJRG40MzZ5ZE1feVgzUWt6ZXpEa29MU0ZSc2hzQkJkVXdpSkZkeXZlOHlfNHNvbXJJaXppTk1TcXlYTnhaQ0VtMHl5dVRNaDRvb2p2UGpEX01IdVJqZ0NpMWhhUWx1a1MwVDVGUy1KLV96TnZMR05zQkVMaUcycnBsd0RYWEJNYmZuLUpEVENoQmRpT3hIVDNkTUpXV1VtYUthTHRicHNlQ0FIRkNFd25o?oc=5",
       "fuente": "El Desconcierto (vía Google News)",
@@ -5595,61 +5655,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-20T02:48:45+00:00"
-    },
-    {
-      "titulo": "El diputado Bernardo Salinas cuestionó el proyecto aprobado en una comisión del Senado que permitiría excepcionalmente el arrastre industrial de jibia en Ñuble y Biobío | El Observatodo.cl, Noticias de La Serena y Coquimbo - elobservatodo.cl",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON203ZGJkY2M3R2xycDFycHJkVkloSTVhOWtiYWtuNlo1ME1pRWo4c0pkYklRR0pEY1lUSEp6NzJTT1JsWmdqS3htdVBzN040YXZjUkpBcHVqVVFOMVdoOTBhVGlxQldxXzlncjVDX3JxQ0lsS3RLNy1KR0xfTDhULVZwSlpCQndXV1pvdHFNanhsbHkyWDRIc1UyLUZzRkdYbU1oYi1ScXd2OExjbU83VTRGYko3N1hCV0F3ejQ3czVaaVFoWWtXNQ?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "El diputado Bernardo Salinas cuestionó el proyecto aprobado en una comisión del Senado que permitiría excepcionalmente el arrastre industrial de jibia en Ñuble y Biobío | El Observatodo.cl, Noticias de La Serena y Coquimbo&nbsp;&nbsp;elobservatodo.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-20T02:48:14+00:00"
-    },
-    {
-      "titulo": "Pesca de jibia: diputado Salinas alerta por proyecto que permitiría nuevamente el arrastre - elobservatodo.cl",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmtSQUpmUFNZemNsVDdJb3NWX3cwQmNYVVNkaXV6c0FfZ2tmd05XZV85SG1uVGo0RzI4N21WbGF5VXcwdk8ycHp2aTd6aDFrdHBPcHBjUDg5OE9taUdQYkZXaWxmTXZQQjlMWktjdFlWRGZkOWZIVGpscXVHSmx6MHI4NUg2Q29GTzc0X08zSHpyLXlteVdUeDVnbWExb1VkTm5kcklvN0VpbzJPOTBKR3RqcXlxaHZUY3l3U3VVVUlGM1l5dExINg?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Pesca de jibia: diputado Salinas alerta por proyecto que permitiría nuevamente el arrastre&nbsp;&nbsp;elobservatodo.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-20T02:22:50+00:00"
-    },
-    {
-      "titulo": "Informe impulsado por el Partido Nacional Libertario sobre el 18-O genera enfrentamientos con Chile Vamos - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmRraXF6NWdxM0RSUDRvRVpaSGt5dmJpeHJGdkdSOXV4cWw5dmdINjVaV1paREowMEJfdWE4bUllQ2lWRm4tT0l6NGtPd2w5M250NmtmaC1NeUhaS0Z4aUFOWjVuV01JU0NPQS00ejRYS3VhN1gtZ08ydGFGRXdqNHB6TnhpY21nT2tVcHhvRHZWT1JxN0FUQUZnMFdnYVZPS05ZbHc4RGhIYXdwYzFGRFpidG5valNoYXM0WUxhU1F3dw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Informe impulsado por el Partido Nacional Libertario sobre el 18-O genera enfrentamientos con Chile Vamos&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-20T02:09:00+00:00"
-    },
-    {
-      "titulo": "La dura crítica de Ximena Lincolao, ministra de Ciencias de Kast: “Chile es un país clasista y racista” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaWRwZ1ByUzZPbGRFMVhTY3R1TUxmR2E3dFpQUGtBYVlzSlFaTWF0QjE4ZDNnM1Zrb3VYS2U1OHBjVTd3anJWWjkzMGxhNnJYOVRYRkg3dl9EdzNCaUVOUldTLV9xU21wMDV5OGJEX3hQS3ZtdWFtY3pCM1QzNmpVNVl1T1dnQXpxZ1RGOGp0clgweGFhTW5SRG50TFpCb3hYN2VjNDEzUjlaZEZ5b09tOFNGMnh5WmhZaXhwLUVEbVNJMjNVUXEwTU1B?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La dura crítica de Ximena Lincolao, ministra de Ciencias de Kast: “Chile es un país clasista y racista”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-20T01:53:24+00:00"
-    },
-    {
-      "titulo": "Antofagasta suspendió clases en colegios municipales hasta el lunes tras daños por sistema frontal",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/antofagasta-suspendio-clases-en-colegios-municipales-hasta-el-lunes-tras/2026-08-19/215109.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Tras el paso del sistema frontal que dejó diversas consecuencias en la zona, Antofagasta comenzó este miércoles una etapa de limpieza y recuperación de infraestructura, tareas que impedirán que las clases se puedan retomar esta semana en la ciudad.\nEl balance oficial indica que los siete colegios habilitados para la emergencia fueron desocupados en su totalidad durante la tarde, permitiendo que la",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-20T01:51:09+00:00"
     }
   ]
 }
