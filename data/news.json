@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-08-25T20:03:20.810754+00:00",
+  "actualizado": "2026-08-25T20:51:31.585102+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "México reafirmó apoyo a Bachelet para liderar la ONU pese a quedar rezagada en votación",
+      "link": "https://www.cooperativa.cl/noticias/mundo/mexico/mexico-reafirmo-apoyo-a-bachelet-para-liderar-la-onu-pese-a-quedar/2026-08-25/162521.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta de México, Claudia Sheinbaum, reafirmó este martes su respaldo a la candidatura de la exmandataria Michelle Bachelet para liderar Naciones Unidas, tras quedar rezagada en el segundo sondeo informal del Consejo de Seguridad, y confirmó que prevé reunirse con la expresidenta durante su visita a México.\n\"Me solicitó una reunión, aún no lo tengo contemplado el día de hoy, pero pues sí es",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-25T20:25:21+00:00"
+    },
     {
       "titulo": "“Dejemos de tener vacas sagradas”: El ruido que se generó en el Frente Amplio por la carta conjunta entre Tomás Vodanovic y Jaime Bellolio",
       "link": "https://www.theclinic.cl/2026/08/25/dejemos-de-tener-vacas-sagradas-el-ruido-que-se-genero-en-el-frente-amplio-por-la-carta-conjunta-entre-tomas-vodanovic-y-jaime-bellolio/",
@@ -5654,17 +5666,6 @@
       "resumen": "Senadora Pascual y reforma de seguridad: “Todas sus facultades nuevas tienen un claro cariz autoritario”&nbsp;&nbsp;24horas",
       "categorias": [
         "Senadores"
-      ],
-      "fecha": "2026-08-20T23:00:00+00:00"
-    },
-    {
-      "titulo": "Megarreforma: oposición pide al Senado pronunciarse por norma de servicios básicos que Kast busca eliminar - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjRhVGlJcVlHa1B2MjQzZWZUd3dDa2ZuZ3dnRFZ2TVYzdU54TWUySmhLcUpJRG40MzZ5ZE1feVgzUWt6ZXpEa29MU0ZSc2hzQkJkVXdpSkZkeXZlOHlfNHNvbXJJaXppTk1TcXlYTnhaQ0VtMHl5dVRNaDRvb2p2UGpEX01IdVJqZ0NpMWhhUWx1a1MwVDVGUy1KLV96TnZMR05zQkVMaUcycnBsd0RYWEJNYmZuLUpEVENoQmRpT3hIVDNkTUpXV1VtYUthTHRicHNlQ0FIRkNFd25o?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Megarreforma: oposición pide al Senado pronunciarse por norma de servicios básicos que Kast busca eliminar&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
       ],
       "fecha": "2026-08-20T23:00:00+00:00"
     }
