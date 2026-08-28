@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-08-28T18:16:35.193206+00:00",
+  "actualizado": "2026-08-28T18:31:43.417769+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El socio chileno de Cerimedo: ¿quién es el abogado que fundó Numen, hizo campaña por el Rechazo y hoy aparece junto a Kast en La Moneda?",
+      "link": "https://www.elciudadano.com/politica/el-socio-chileno-de-cerimedo-quien-es-el-abogado-que-fundo-numen-hizo-campana-por-el-rechazo-y-hoy-aparece-junto-a-kast-en-la-moneda/08/28/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\n\"Enrique García es mi socio desde hace mucho, tenemos Numen SpA, que es la empresa de Chile\", afirmó el operador político de la ultraderecha latinoamericana, Fernando Cerimedo, al referirse al abogado que no solo fue el rostro legal de la empresa que trabajó para la campaña del Rechazo, sino que además fue nombrado árbitro del Comité Técnico de Admisibilidad del segundo proceso consti",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-28T18:27:09+00:00"
+    },
     {
       "titulo": "DataInfluye: 42% cree que medidas de seguridad de Kast no abordan problemas principales - elobservatodo.cl",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbXk4azQwa205bmp4MW15d3MwZUJ0cXFFUGFEWVBrV3RlTklXc2ludXdCd2k3dFEzRHlNRzFEYTczZER3OHBKa1BmeW44bGd3WWJycHctT0NhVnVsV2ctSlgyXzFTVGY3N0Nvc053TU1nZnpzdTUtZGx4eUtQaFAtX3lVMldzVnBvUUVWR2tGVWpFeTZUUUJiMGRGTTdQd0VZYTNkWFRpd2ZzMnR1Rjdua0szYk1UdF9fSHZJQTRuSDNVMjBiWTRMMA?oc=5",
@@ -5655,17 +5667,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-24T19:45:23+00:00"
-    },
-    {
-      "titulo": "Solicitan reponer árboles tras poda en plaza de armas de Chillán",
-      "link": "https://ladiscusion.cl/solicitan-reponer-arboles-tras-poda-por-dano-fitosanitario-en-plaza-de-armas-de-chillan/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La poda a los árboles de la plaza de armas de Chillán llamó la atención de la ciudadanía debido a la pérdida sustancial de masa vegetal. La inquietud fue discutida por concejales debido al debilitado estado en el que quedaron las especies intervenidas, cuyo forraje fue eliminado en gran parte durante la semana con antelación [&#8230;]",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-08-24T19:44:37+00:00"
     }
   ]
 }
