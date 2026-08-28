@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-28T17:01:46.267954+00:00",
+  "actualizado": "2026-08-28T17:16:43.915622+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Entre el Foro de Madrid y los bots de Cerimedo",
+      "link": "https://www.elciudadano.com/chile/entre-el-foro-de-madrid-y-los-bots-de-cerimedo/08/28/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Javier Molina Johannes[1] Las derechas chilenas hace años que se vienen diversificando; la verdad, siempre lo fueron, solamente que la figura de Jaime Guzmán y la hegemonía del Chicago-gremialismo fue tan significativa que, muchas veces, opacaron las demás corrientes ideológicas. Durante la primera vuelta de las elecciones presidenciales de 2025, o incluso desde comienzo [&#8230;]",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-08-28T17:02:10+00:00"
+    },
     {
       "titulo": "Los dos nuevos miembros del Comité Central del Frente Amplio que se desempeñan al interior del Gobierno de José Antonio Kast",
       "link": "https://www.theclinic.cl/2026/08/28/los-dos-nuevos-miembros-del-comite-central-del-frente-amplio-que-se-desempenan-al-interior-del-gobierno-de-jose-antonio-kast/",
@@ -150,6 +161,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-28T15:19:12+00:00"
+    },
+    {
+      "titulo": "Seminario de participación electoral - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YWXF5d3hiSGdRYkZhd2VWbGxpeG05TGxRQU10S3pzZlpEVnZ2NnlMTzZEY1hKU3JTMVNfbWJKbU53c3l2TFFMR05sSUJvREFLckh5dDc1VzZxNi02Y0E?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Seminario de participación electoral&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-08-28T15:18:55+00:00"
     },
     {
       "titulo": "[Confidencial] Kast incorpora a Sebastián Torrealba, su asesor experto en IA, a recta final del comité de auditoría - Ex-ante",
@@ -308,6 +330,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-28T12:35:09+00:00"
+    },
+    {
+      "titulo": "Santana llevará caso Cerimedo a Fiscalía y Kast busca bilateral con Milei - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZE1BNmQ2aVZ4a0ppR0t3X2RHckxhc1Eyc3Z6aG1fYUQ4bTR1Zi1tUjRYd0lBaFRiclB3LVdhNlJYWmoxUGdiZmhaQlQzUmtvY3cyWXRxa1JIWW9QNjBsdFlzNWtHajdQZGZmdXlnVDJyc3VtWms2Y3N1N1diVm5vd0liTlFsbkgxUnBEb2xVQml6aUFIZ0ZPalVlaHFDSXFkR2dOYzhIOVBESktIVkpLYzFzS2JDTTAtMWRLNUtUN25ITHBEM3UtWlNvUkVCQVItaHVXUlhOYw?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Santana llevará caso Cerimedo a Fiscalía y Kast busca bilateral con Milei&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-28T12:33:15+00:00"
     },
     {
       "titulo": "Los integrantes del poderoso triunvirato del Segundo Piso de La Moneda - Teletrece",
@@ -5644,39 +5677,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-24T17:31:24+00:00"
-    },
-    {
-      "titulo": "Oposición congela discusión presidencial en medio de incomodidad del Socialismo Democrático por reaparición de Boric - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUW1JQUd5UXVIaVZzdEg5NWhudkREdENOekdpdmQ3c29wVWV3XzQ3eDE0OHo0NmFib2doTzE1aEdFamIzcG9VRnliaG5GWlVKRGdPSkRwSzJFbzE3bHJPeTAxcmRZaDdtZkJSVnRKT3JGSDZXZzNiaW02QzVOMy1FVDU3ZXRnT1diX194aHJ3Q3lQSGVZRWlSaEYyMkcxOGVJbFBGck03S1hEeWlGZS1IQjgxWkNWR1hCOHpacUF3M0gzb3VwODB2SldOQXRHMDM3N2lvRjZqMjdTSlNfWEIybUJpamlkYWVUQkFXSnI0VlJiQdIBkwJBVV95cUxOa2thbTh0eUxhd1dDdzZiTEJFZEpTTm5rbzZraDgweW5BOERLbnJEcDhydUFPS19qcEg3MFlpN3ktSm5QY2psN1pJRHdVeng2NDkwN1FXRmZ6V0RENEtPQlQ1a21ENEp1NUIwZjdTb1RkSWcxSDc3bEw5SldlRmxadmxrODhfcFM5TXlqZWlVX1FUdkFCbnFQOHhqY3VqdXFmSXkyRHVyTVdfa0o3NHBTdl9QS2VwcHVscUJlSjBRTnZ6bXlsSHRGbDJDeEpXS0E4TkotWXNwMUc3MXhwLXJRQm1RUlA0cUxrdFRDaWJ3X292ZjZ4ZDhfZm1XRTZzNmR4YUF3QW42NWI1Tld2amstMEwxSQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oposición congela discusión presidencial en medio de incomodidad del Socialismo Democrático por reaparición de Boric&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-24T17:30:00+00:00"
-    },
-    {
-      "titulo": "Pese a intento de Longueira por calmar aguas: fantasma de la competencia se aparece en la UDI y desafía la lista de consenso - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPaTdoS181X1NpbHlrbGlnaGpnaW1nZzBiVVRCSHNkN1lIakpNZmxRV044S0dhWi1Na2hMQWNjZnBady12TkttR0tjT01vdlA4R0oya3ZRTlF0Ti1YaHNaZVlFZzNveFIzLXpWazF4VzhPWTlnanVJZVEyRWZCQ2JSNnUzVTNSNklteHlRTldadVpkbVlSeFpOLTNyc25sMndYSWVZSGhEWVp3V01LVTQwc2Q1Rno2YnFiMHluaG9XSDlZLVBtSS1ZRDBqYkgtc0oxT0ZuU3dXQlR0Q1ZmWXlyWkNn0gGDAkFVX3lxTE9qZXBfaTd3WTh6M3laU1Npbjd0Y18xUDZXSGxQXzl1MlpyMXFCZ1NnVEFnb05QeVlGSnN2NXdzWDZ2SERyeUtVTjc4SHY2bjY3d2k4Q1BISGFQc0FqY3FTWjJaTmNMU00tQ1h4M3BUcWhhTXQzaWNxQjhyaHN5cTRWZ3lMcGpFRXpYMXJxbXpiTy1oWWZ6S0VYX0xCTDVhbmhDVjJoRFdtTE85OEVLcXlKdlYzeEtpTjllVE11VWJQdl9LaTA0WXJidUJVdnhKbWVUOUhpOFRZMExydndXekV2TFlkNEM0WkVubkFQNjhsUHlfNU96azFuS0YwN1pmb2NUWnc?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Pese a intento de Longueira por calmar aguas: fantasma de la competencia se aparece en la UDI y desafía la lista de consenso&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-24T17:30:00+00:00"
-    },
-    {
-      "titulo": "Delegación de EE.UU. negocia en Chile eliminación o rebaja del arancel de 12,5%",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/delegacion-de-ee-uu-negocia-en-chile-eliminacion-o-rebaja-del-arancel/2026-08-24/132725.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Una delegación de la Oficina del Representante Comercial de Estados Unidos (USTR), encabezada por su vicepresidente, Jeffrey Goettmann, inició este lunes una visita de dos días a Chile con el objetivo de negociar una ampliación en la lista de productos nacionales exentos de sobretasas arancelarias.\nLa comitiva busca profundizar los acuerdos que actualmente permiten que cerca del 60% de los envíos ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-24T17:27:25+00:00"
     }
   ]
 }
