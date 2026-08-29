@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T14:01:41.315138+00:00",
+  "actualizado": "2026-08-29T14:16:37.503552+00:00",
   "total": 500,
   "items": [
     {
@@ -62,6 +62,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-29T12:30:36+00:00"
+    },
+    {
+      "titulo": "Columna de Danilo Herrera/ La granja de Kast: farmeando trampa",
+      "link": "https://www.theclinic.cl/2026/08/29/columna-de-danilo-herrera-la-granja-de-kast-farmeando-trampa/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Danilo Herrera escribe sobre la red de Fernando Cerimedo y su vínculo con la campaña del Rechazo en Chile y el gobierno de Kast. \"Es cierto que no hay prueba de que estos funcionarios hayan manejado bots ni trabajado con Cerimedo, y nadie los ha acusado de eso. Lo que hay, es una continuidad. La misma gente que hizo campaña contra el primer proceso constituyente terminó redactando el libreto de es",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-29T12:02:00+00:00"
     },
     {
       "titulo": "El entusiasmo del “rey de los trolls” por la figura de José Antonio Kast - El Mostrador",
@@ -5654,17 +5665,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-25T13:33:00+00:00"
-    },
-    {
-      "titulo": "Kast y otra piedra en el camino en reforma de seguridad: Paulina Núñez rechaza el Estado de Excepción - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWGJGcWgyU0RZYWFXQ1pjZDYxUkhRU1g1amZXazI2c2NIblJfTTFlVXNUeVI2U1FCaElET242OU1BeE05WUVualExS3dSdHM2cVlSVWUyVVB1VzRxQldpalJ2NjQxRzAxNFByVEQ3eXFJU1RrMW9YLTB4ZlF6d1hsV0NST2QyLTdiQzhmYTN3NEdHaVE3S3NTazBockNyOHZUSnRKVm81b2ZnZnExRjYyX2tuRWN1T2tKdnhWbXBqVGh2R214RVVZYUQ4MlJHN0E?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast y otra piedra en el camino en reforma de seguridad: Paulina Núñez rechaza el Estado de Excepción&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-25T13:31:00+00:00"
     }
   ]
 }
