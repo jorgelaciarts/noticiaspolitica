@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T13:31:33.315655+00:00",
+  "actualizado": "2026-08-29T13:46:34.345434+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,20 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-29T13:19:16+00:00"
+    },
+    {
+      "titulo": "Senador Becker: \"El Ejército no está en condiciones de salir a la calle a enfrentar terrorismo o vandalismo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/renovacion-nacional/senador-becker-el-ejercito-no-esta-en-condiciones-de-salir-a-la-calle/2026-08-29/091055.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador Miguel Becker (RN) abordó en Cooperativa la reforma constitucional en materia de seguridad propuesta por el Gobierno de José Antonio Kast y apuntó que \"el Ejército no está en condiciones de salir a la calle\" bajo un estado de excepción de 240 días.\nEl parlamentario por la Región de La Araucanía señaló que en la zona existe \"la experiencia de estos más de cuatro años que llevamos con el ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-08-29T13:10:55+00:00"
     },
     {
       "titulo": "Newsletter Poder/ Reforma constitucional: Fernando Atria nunca se atrevió a tanto",
@@ -5652,17 +5666,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-25T13:25:30+00:00"
-    },
-    {
-      "titulo": "Diputados Kunstmann y Mulet se abren a rebajar tarifas de TAG - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEo2X25TV0tiWTdtWVJvX1I3ejhFS1hZcmhRM2toN3FWdVN5MU5zRTRHUXFBY3hWTGhiYXNKRDAtR3cxN0hwWG14S1d2RGE5OVB4WnNQR2xDMjZVV0tvSmQ3NmZ4TGpVSkZMajlSanR2RnlpQnlDU1N3NE9wcjZPc21ZM2dhaVJJUWcwb1BvOTg0eHQySmthVVZZSlJYZw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados Kunstmann y Mulet se abren a rebajar tarifas de TAG&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-25T13:22:40+00:00"
     }
   ]
 }
