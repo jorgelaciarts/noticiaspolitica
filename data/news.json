@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T19:31:42.098741+00:00",
+  "actualizado": "2026-08-29T19:46:40.690793+00:00",
   "total": 500,
   "items": [
     {
@@ -208,6 +208,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-29T15:00:00+00:00"
+    },
+    {
+      "titulo": "Asesores argentinos en La Moneda y Cancillería abren debate tras polémica por estrecho de Magallanes - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRk5yNndKRU0zNnNrMzQzU0dNMUtIZzdFTXVNZXJ1cWNtajdQRGFXdUhTMndSRUlGX0s4cm9pRnBKMl9PNGNQWGVNbjhXYlMxeXJ0LTRGVmx6czExQ1RtaGZucFpZV2YxVDFzSm8xVDZCNXVpUXUteU9VMVpFSTV3UmRQaXNMTlBrM2RKX3BnV3ZfS0ItNHNzcEVmdG9LNDJxSG1YSG1RTXZKMXJUQUx4Zjh5TVZmOGZrWDlTdzZET2dndnJobHBiRXBjbks0bHFoTzlvZ1dNRkJsMjRsa1I4MTRvcWIzYUVZQ01v?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Asesores argentinos en La Moneda y Cancillería abren debate tras polémica por estrecho de Magallanes&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-29T14:54:55+00:00"
     },
     {
       "titulo": "Los Lagos: Comisión de uso de borde costero aprobó cinco proyectos en segunda sesión ordinaria",
@@ -5655,19 +5666,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-25T15:37:28+00:00"
-    },
-    {
-      "titulo": "\"No a la cocina\": Oficialismo rechaza retirar del Congreso la reforma constitucional",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/no-a-la-cocina-oficialismo-rechaza-retirar-del-congreso-la-reforma/2026-08-25/113259.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Los diputados Agustín Romero (Republicanos) y Ximena Ossandón (RN) defendieron que la reforma constitucional en materia de seguridad permanezca en el Congreso, pese a las críticas transversales que provocó la iniciativa y a las voces que piden al Gobierno retirarla.\nEn El Primer Café de Cooperativa, ambos parlamentarios valoraron que el Ejecutivo quitara la suma urgencia al proyecto para facilitar",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T15:32:59+00:00"
     }
   ]
 }
