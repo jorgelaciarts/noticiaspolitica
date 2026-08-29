@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T14:16:37.503552+00:00",
+  "actualizado": "2026-08-29T14:31:29.608219+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,17 @@
         "Diputados"
       ],
       "fecha": "2026-08-29T13:55:05+00:00"
+    },
+    {
+      "titulo": "PC: La reforma va contra toda la población y tiene que ver con estados autoritarios, con otros tiempos",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-comunista/pc-la-reforma-va-contra-toda-la-poblacion-y-tiene-que-ver-con-estados/2026-08-29/092907.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La senadora comunista Claudia Pascual criticó en Cooperativa la reforma constitucional de seguridad que plantea el Ejecutivo, dado que va \"en contra de la población\" al \"rápidamente pasar a la idea del control y del autoritarismo, antes de generar la gestión que se necesita\" para combatir al crimen organizado.\nLa parlamentaria, que también integra la Comisión de Constitución -instancia a la que fu",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-29T13:29:07+00:00"
     },
     {
       "titulo": "Video | \"Tu alcaldesa te tapa el hoyo\": La particular campaña de Daniela Norambuena en La Serena - elobservatodo.cl",
@@ -5654,17 +5665,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-25T13:40:28+00:00"
-    },
-    {
-      "titulo": "Kast defiende reforma de seguridad: \"No quiere decir que queramos pasar a llevar algún derecho fundamental\" - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEV3Wnl2czVjaGxWVUhfNWVQSGhGUGE3T281UkdGSy1vYUhxejRnU0h5QS1yU0g1YS1uYlJ2eFdxc2JLNDB3QzA5Vm00cGcxaEJvODFfVjdleVV5VGREanhaREVPMzlIQXUxX3JENnVNVzdxbG0zRVRQWjNYbWg3UjVmMlFGeWJqVDhCWTNZUmxhcU9HbHBXeGJ30gGfAUFVX3lxTE9sWmJGaDlBTHZ6aUw0d2RlTkVZYXVfenBPcFJxT2ljUXpyOUNQTkdkN05FSGdybVBGV2RSQmk3UW04SDhjNjFVdUxWM2tISThOMTYyZEY0T3EwRDFTdWVwN2hlUG9jOU5MUEhBTEFWLUVmTmtheG9BVHFGU1NpSWkxRUgxNENTdnpCd2dGcmlldzJfaEtsRTJDZEtza1pkdw?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast defiende reforma de seguridad: \"No quiere decir que queramos pasar a llevar algún derecho fundamental\"&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-25T13:33:00+00:00"
     }
   ]
 }
