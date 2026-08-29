@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-08-29T13:46:34.345434+00:00",
+  "actualizado": "2026-08-29T14:01:41.315138+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "En Argentina confirman viaje de Milei a Chile para participar en el Foro Madrid y sostener una reunión bilateral con Kast",
+      "link": "https://www.theclinic.cl/2026/08/29/en-argentina-confirman-viaje-de-milei-a-chile-para-participar-en-el-foro-madrid-y-sostener-una-reunion-bilateral-con-kast/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El mandatario argentino viajará a nuestro país para formar parte del encuentro que reúne a los partidos y movimientos políticos vinculados a las derechas más conservadoras y radicales de Europa y América Latina. En el marco de esa cita, que se llevará a cabo el 3 y 4 de septiembre, sostendrá una reunión bilateral con José Antonio Kast, la que estará marcada por el reciente incidente en torno al Es",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-29T13:55:05+00:00"
+    },
     {
       "titulo": "Video | \"Tu alcaldesa te tapa el hoyo\": La particular campaña de Daniela Norambuena en La Serena - elobservatodo.cl",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOajNIc2FFQTNSR1NvdHdPWlJjYjJMbnd2bHV6S0x2TFJlSXkzX3gtRmlBZGlseEtPQmJNbm1rRDBhVlNvTHNJNHUtaFZ4cUhZT09HZXNrZGZtNVNqNi1RMjZ3cTM0RkNBWUpkM3lIM19SQlV6aFNUck9VRGppRXpQSVhJNXNLWW1LVkZQQURiWkloelZhZTlnQmEwcmVDa3NVdGJHSVpyZER1cWpNVmloeXZONnh6dnMxM3ZhLUM5eWc3MnRZcnRXQQ?oc=5",
@@ -5653,19 +5665,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-25T13:31:00+00:00"
-    },
-    {
-      "titulo": "Tomás Vodanovic: “Trabajando con el gobierno de Piñera, sentía un respeto institucional hacia la alcaldía. Eso hoy no lo siento”",
-      "link": "https://www.theclinic.cl/2026/08/25/tomas-vodanovic-trabajando-con-el-gobierno-de-pinera-sentia-un-respeto-institucional-hacia-la-alcaldia-eso-hoy-no-lo-siento/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El alcalde de Maipú abordó en Tolerancia Cero su relación con la administración de José Antonio Kast y aseguró que ha sido “compleja”. Como ejemplo, mencionó una visita a las obras de la Autopista 68 a la que fueron invitados el mismo día y sostuvo que espera “un mayor sentido de colaboración y coordinación”.\nThe post Tomás Vodanovic: &#8220;Trabajando con el gobierno de Piñera, sentía un respeto ",
-      "categorias": [
-        "Presidente",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T13:25:30+00:00"
     }
   ]
 }
