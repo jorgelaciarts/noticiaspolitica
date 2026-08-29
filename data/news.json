@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T19:16:24.571771+00:00",
+  "actualizado": "2026-08-29T19:31:42.098741+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,21 @@
         "Diputados"
       ],
       "fecha": "2026-08-29T18:37:38+00:00"
+    },
+    {
+      "titulo": "Jara exige aclarar nexos del \"rey de los trolls\" con Chile: Fue impresentable lo que le hicieron a Matthei y a mí",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/jara-exige-aclarar-nexos-del-rey-de-los-trolls-con-chile-fue/2026-08-29/143534.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La excandidata presidencial Jeannette Jara (PC) exigió \"transparentar\" los eventuales vínculos del consultor político Fernando Cerimedo y sus \"granjas de bots\" con el equipo del Presidente José Antonio Kast, asegurando que tanto ella como Evelyn Matthei (UDI) fueron víctimas de un \"uso articulado de cuentas\" de redes sociales en la campaña.\nCerimedo, conocido como el \"rey de los trolls\", fue deten",
+      "categorias": [
+        "Presidente",
+        "Servicio Electoral",
+        "Partidos políticos",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-08-29T18:35:34+00:00"
     },
     {
       "titulo": "Jara apunta al equipo de Kast por el uso de bots tras detención de Cerimedo: “Lo que le hicieron a Matthei es impresentable y lo que hicieron con mi candidatura también”",
@@ -5653,17 +5668,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-25T15:32:59+00:00"
-    },
-    {
-      "titulo": "Calle Larraín Alcalde permanecerá cerrada por obras frente al Hospital de La Serena - diarioeldia.cl",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzJzbmhTMDRDQng0SVF6NTExMjhLcS1MTlBQN1NyQ1VjcGlEUUMxSHc5czdIcTNfMmRJaEczdk43OHhURmhEbU5SdnV1Z1hHNFdHUDNDeVBfb2lwWnJwbGVoQmF0RG5qbkwyTTBLclBLeEtSWFdoakh0Y0NTdXU3RGRER0NyVkNXbVZqRC1WanN6czZsbG1JQV9NWVFNWUtraF82cGk1aWxWeHpuaThFU2gtZlhJWmttTl9JY0dKTVBWbUgtZzUzZjZoWTJhNFRVdXVj?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Calle Larraín Alcalde permanecerá cerrada por obras frente al Hospital de La Serena&nbsp;&nbsp;diarioeldia.cl",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T15:24:00+00:00"
     }
   ]
 }
