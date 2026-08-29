@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-29T09:16:39.538387+00:00",
+  "actualizado": "2026-08-29T09:31:23.852787+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Doble derrota de Kast en encuesta: mayoría de ciudadanos y políticos desaprueba su gestión - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQWxkX2ozS1NVWklTM2VDT1RyV2hjWWdndTBUaDBfTEduTUQzbzJqbW5zb3ZUbDF0OEh4ODNsdFE0VXVXemdTb3FfX1psbEdSejI3aDk4dF9ucHI0VWRvd1huVjA5bWl3eG9ra2tNSmFQUURNR1BxSXlqZm5zZGlKak5ET19IWTlNcW5ycFBjem9UZHNKRUxvc2Z1elB0SkxqLXU2UTBzMDhTVHRQbXhmemFUX2NwNnVWN2w5NmF5UVNUU2ZXaXNMZmZsRFBENkg3a0lEQUMxcl93Zw?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Doble derrota de Kast en encuesta: mayoría de ciudadanos y políticos desaprueba su gestión&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-29T09:08:19+00:00"
+    },
     {
       "titulo": "(VIDEO) El impacto de los bots según Kast y Cerimedo en la democracia chilena",
       "link": "https://www.elciudadano.com/reels/video-el-impacto-de-los-bots-segun-kast-y-cerimedo-en-la-democracia-chilena/08/29/",
@@ -5652,17 +5663,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-25T11:14:50+00:00"
-    },
-    {
-      "titulo": "Aniversario Declaratoria de Pueblo de Cerro  Sombrero",
-      "link": "https://laprensaaustral.cl/2026/08/25/aniversario-declaratoria-de-pueblo-de-cerro-sombrero/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "En una velada conmemorativa del 61° Aniversario de Declaratoria como Pueblo de Cerro Sombrero, la Municipalidad de Primavera entregó distinciones a vecinos que han dejado una huella profunda en el desarrollo social, educativo, deportivo y cultural de esta pujante comunidad fueguina. &#160;",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T11:08:57+00:00"
     }
   ]
 }
