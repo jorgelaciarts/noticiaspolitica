@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T19:46:40.690793+00:00",
+  "actualizado": "2026-08-29T19:56:37.857710+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,20 @@
         "Presidente"
       ],
       "fecha": "2026-08-29T19:05:31+00:00"
+    },
+    {
+      "titulo": "Lautaro Carmona arremete contra Kast por el Foro Madrid: \"La campaña ya pasó\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-comunista/lautaro-carmona-arremete-contra-kast-por-el-foro-madrid-la-campana-ya/2026-08-29/150409.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El timonel del Partido Comunista (PC), Lautaro Carmona, criticó a José Antonio Kast por su anunciada asistencia al V Foro Madrid y le recordó que \"ya pasó la campaña\" presidencial. \nEl evento se celebrará el 3 y el 4 de septiembre en el centro de eventos San Carlos de Apoquindo, ubicado en Las Condes, y reunirá a líderes y figuras políticas internacionales de la derecha conservadora iberoamericana",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-08-29T19:04:09+00:00"
     },
     {
       "titulo": "Exembajador Gaspar por Foro Madrid de extrema derecha: «Kast no debe ir, se genera una distorsión institucional»",
@@ -5654,18 +5668,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-25T15:40:36+00:00"
-    },
-    {
-      "titulo": "Tras reclamo de La Moneda: Argentina reafirma soberanía chilena del Estrecho de Magallanes",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/tras-reclamo-de-la-moneda-argentina-reafirma-soberania-chilena-del/2026-08-25/113728.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El gobierno argentino reafirmó este martes la vigencia de los acuerdos bilaterales que reconocen la soberanía chilena sobre los territorios del Estrecho de Magallanes, después de que nuestro país anunciara el envío de una nota de protesta por una polémica declaración de Gustavo Javier Valverde, jefe del Estado Mayor de la Fuerza Aérea trasandina.\n\"La posición argentina respecto del Estrecho de Mag",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-08-25T15:37:28+00:00"
     }
   ]
 }
