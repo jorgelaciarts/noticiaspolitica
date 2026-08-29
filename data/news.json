@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-29T02:01:38.172712+00:00",
+  "actualizado": "2026-08-29T02:16:36.234259+00:00",
   "total": 500,
   "items": [
     {
@@ -597,6 +597,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-28T16:27:30+00:00"
+    },
+    {
+      "titulo": "Alcaldes de Bío Bío piden que centrales hidroeléctricas tributen en comunas donde están emplazadas - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM1JoTldTdmJ0NXFkbVlVRGV3bmVNZ3hkem9FN0NuLXNuMjJlcHJ4RU5ZVTk3dkFULXQ5aVV6MzU5OHVSUEQ0VVNsWjcxM1ZrWjk0R2VIYk4wVlI5dTFvWTYtNjRsbk9VTGh1Wjlvb0Z1SHhrT3AxVmN5QTFyMmVKaG5UajBnZkJrLWNLa1p0X0hKRWlWMld6TjhPZkNtTUtNNmVhWjNxQkRkU2hWWTlCUHZEZ0k2NE9fNS1xM3NZQUdna0NLaG9XUmxaLXhHRGtyYmt0WEM3eUVZRmlaVkFuX090dVBzOExlZ2hfU1AyTzFfY2xYOHpOa0FFRFNZV2k4RXNpc0JGTEdKd3M?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alcaldes de Bío Bío piden que centrales hidroeléctricas tributen en comunas donde están emplazadas&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-28T16:15:48+00:00"
     },
     {
       "titulo": "(VIDEO) Arturo Fontaine advierte sobre la participación de Kast en el Foro de Madrid por riesgos a la democracia",
@@ -5653,17 +5664,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-25T01:34:22+00:00"
-    },
-    {
-      "titulo": "Chile emitió nota de protesta a Argentina tras polémicos dichos de jefe militar sobre Magallanes",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/chile-emitio-nota-de-protesta-a-argentina-tras-polemicos-dichos-de-jefe/2026-08-24/212323.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Ministerio de Relaciones Exteriores formalizó este martes la entrega de una nota de protesta diplomática al Gobierno de Argentina, luego de las controvertidas declaraciones emitidas por el jefe del Estado Mayor General de la Fuerza Aérea de ese país, brigadier general Gustavo Javier Valverde, quien adjudicó a soberanía trasandina zonas bajo dominio chileno en el extremo austral.\nSegún confirmó ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-25T01:23:23+00:00"
     }
   ]
 }
