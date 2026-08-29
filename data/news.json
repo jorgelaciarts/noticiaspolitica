@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-29T04:16:35.957725+00:00",
+  "actualizado": "2026-08-29T04:31:43.220692+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast defiende reforma de seguridad y plantea que \"puede ser modificada\" y \"mejorada\"",
+      "link": "https://cambio21.cl/politica/kast-defiende-reforma-de-seguridad-y-plantea-que-puede-ser-modificada-y-mejorada-6a925c7f145e2c2e6057c223",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-29T04:17:49+00:00"
+    },
     {
       "titulo": "Servel analiza el nuevo mapa electoral tras histórico ciclo de 16 elecciones en Chile - tiempo21.cl",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbld1WnV0dkxZaG1xWGhnSThOSEFtdjhORVo3MDQyUWZxclBhVHRIXy1qOGNnMWlXT013NEtUU1U2eU5XUlJ5NmRFemhCcnROcjZGUnFIeUJBWG1QajFJUU9qaUI1ZzgxVUlPYnZlaUdUYUtwSnl4aTY4RE45ZXc3anFfRkZrSU1uYUJYUHNUdlp6b1BmdGx3TkNQc2hocTZudGNPT2Vnem5QTW1KcndF?oc=5",
@@ -5652,17 +5663,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-25T05:13:47+00:00"
-    },
-    {
-      "titulo": "Senador Iván Flores por propuesta de senadores Squella y Longton: “No mueve la aguja; el gobierno debiera retirar la reforma”",
-      "link": "https://cambio21.cl/politica/senador-ivan-flores-por-propuesta-de-senadores-squella-y-longton-no-mueve-la-aguja-el-gobierno-debiera-retirar-la-reforma-6a8d1beea591870e24238c63",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-08-25T04:41:40+00:00"
     }
   ]
 }
