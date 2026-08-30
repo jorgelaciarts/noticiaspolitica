@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-30T03:31:35.321727+00:00",
+  "actualizado": "2026-08-30T03:46:32.651349+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Desborde del río Llesquehue deja más de 20 damnificados en San Juan de la Costa",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/desborde-del-rio-llesquehue-deja-mas-de-20-damnificados-en-san-juan-de/2026-08-29/232824.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las intensas lluvias combinadas con el empancamiento provocado por las altas mareas originaron el desborde del río Llesquehue en la comuna de San Juan de la Costa, provincia de Osorno (Región de Los Lagos).\nLa emergencia afectó a los sectores costeros de Pucatrihue y Choroy Traiguén —especialmente en los alrededores del puente mecano antiguo—, inundando viviendas y vehículos, además de obligar a l",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-30T03:28:24+00:00"
+    },
     {
       "titulo": "PPD Metropolitano instó a Araya a evaluar militancia: \"Una cosa es conversar y otra, cruzar la vereda\"",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/ppd/ppd-metropolitano-insto-a-araya-a-evaluar-militancia-una-cosa-es/2026-08-29/225211.html",
@@ -237,6 +248,17 @@
         "Presidente"
       ],
       "fecha": "2026-08-29T20:36:41+00:00"
+    },
+    {
+      "titulo": "Elecciones parlamentarias - La Segunda - lasegunda.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkQ0MmxMdjNidFJyT191b1NXZGtqLTFoVjNFTFZ1TG83Xzd3R3ZWUGlORUJnRVN6RVJmR3pPekU4MmZURmFscEIwUW5LUVpITWd1Z2NsM0Z3MzROYWFaVDJiWFhONC1RYXdFT0VNaGZIRWZTS3Nrc2hiV0VaMGZsVEZZVlFJTmRYRlpSOE13V3FXV0Z2WjFjbEVGVkZNRUZCR3ZBTnVLUTlscTl6TlVSQnZwMUVjZw?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Elecciones parlamentarias - La Segunda&nbsp;&nbsp;lasegunda.com",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-08-29T20:14:28+00:00"
     },
     {
       "titulo": "(VIDEO) Análisis del uso de la tecnología y redes sociales por líderes políticos en Chile",
@@ -5640,31 +5662,6 @@
         "Senadores"
       ],
       "fecha": "2026-08-25T17:00:29+00:00"
-    },
-    {
-      "titulo": "La alianza transversal de alcaldes tras las reformas de Kast: la propuesta de Tomás Vodanovic con Jaime Bellolio - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSGxvMVAtTy1OTkEzOGN0Rm1YWXZ2WDI5bUtnMU5hS3FBYllZa3RHYy1FVVhCYlo3aVE4ZVJ2dGdRNG55ZmF2cEdJNUZkZ1dncjZsQTdERUlGY0psaHZzOTBZNkRJdkl0MXV2cXhBYzdvTjdaMU9IZVc2eFp5TDI1R3ZpTXdoMDloLTkteHhBUVNGU2FWZU5xSUhKYk9veUs4b1oyS2R2VF9RaXF0Z0hHVnJKYjB4UXRBUmxqeTZyUFhjU0d3WldoYXpkUDh0NFlCQ0Z2UTJR?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La alianza transversal de alcaldes tras las reformas de Kast: la propuesta de Tomás Vodanovic con Jaime Bellolio&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente",
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T16:59:00+00:00"
-    },
-    {
-      "titulo": "¿Qué relación tuvo Kast con Cerimedo?: Manouchehri oficia a La Moneda y exige transparentar vínculos, campañas y financiamiento",
-      "link": "https://www.elciudadano.com/politica/que-relacion-tuvo-kast-con-cerimedo-manouchehri-oficia-a-la-moneda-y-exige-transparentar-vinculos-campanas-y-financiamiento/08/25/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl diputado Manouchehri recordó que el operador político de la ultraderecha, vinculado a granjas de bots y campañas de desinformación, trabajó en Chile\", por lo que La Moneda debe esclarecer una serie de interrogantes: ¿Tuvo vínculos con el presidente Kast, ¿En qué campañas participó?, ¿Quién lo contrató?, ¿Quién lo financió?, ¿Hubo dirigentes republicanos involucrados? y planteó que ",
-      "categorias": [
-        "Presidente",
-        "Diputados",
-        "Elecciones"
-      ],
-      "fecha": "2026-08-25T16:58:15+00:00"
     }
   ]
 }
