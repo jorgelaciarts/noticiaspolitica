@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-08-30T03:01:45.896196+00:00",
+  "actualizado": "2026-08-30T03:16:34.976793+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "PPD Metropolitano instó a Araya a evaluar militancia: \"Una cosa es conversar y otra, cruzar la vereda\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/ppd/ppd-metropolitano-insto-a-araya-a-evaluar-militancia-una-cosa-es/2026-08-29/225211.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las tensiones internas en el Partido por la Democracia (PPD) sumaron un nuevo capítulo este sábado luego de que el Consejo Regional Metropolitano de la colectividad aprobara un voto político que insta al senador Pedro Araya a evaluar su continuidad en la tienda.\nLa determinación surge a raíz del descontento generado en sectores del PPD por los recientes acercamientos del parlamentario —miembro de ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-30T02:52:11+00:00"
+    },
     {
       "titulo": "Tras cinco años de gestión Inapi otorga Denominación de Origen a la longaniza de Chillán",
       "link": "https://ladiscusion.cl/tras-cinco-anos-de-gestion-inapi-otorga-denominacion-de-origen-a-la-longaniza-de-chillan/",
@@ -5651,18 +5665,6 @@
         "Elecciones"
       ],
       "fecha": "2026-08-25T16:58:15+00:00"
-    },
-    {
-      "titulo": "Kast valora respuesta de Argentina sobre soberanía del Estrecho de Magallanes: “Es chileno”",
-      "link": "https://www.theclinic.cl/2026/08/25/kast-valora-respuesta-de-argentina-sobre-soberania-del-estrecho-de-magallanes-es-chileno/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Este martes la Cancillería de argentina compartió un comunicado en el que ratificaron el compromiso con la relación bilateral con Chile y sus tratados, luego de la polémica surgida tras los dichos del jefe del Estado Mayor General de la Fuerza Aérea, Gustavo Valverde, sobre la soberanía en Magallanes. En ese contexto el Presidente José Antonio Kast valoró las declaraciones del país trasandino y ra",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-08-25T16:53:24+00:00"
     }
   ]
 }
