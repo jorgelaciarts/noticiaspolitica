@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-08-30T21:46:37.058486+00:00",
+  "actualizado": "2026-08-30T22:01:48.593299+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuestas: solo un tercio aprueba la gestión de Kast",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/encuestas-solo-un-tercio-aprueba-la-gestion-de-kast/2026-08-30/172944.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast registró una fuerte alza en aprobación en la encuesta Pulso Ciudadano, de Activa Research, llegando a un 33,8%, mientras que en la medición de Criteria alcanzó un 33%, pero con una caída de dos puntos respecto a la semana anterior.\nLa encuesta de Activa Research evidenció un alza de 8,2 puntos respecto al mínimo histórico registrado en julio (25,6%), representando l",
+      "categorias": [
+        "Presidente",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-08-30T21:29:44+00:00"
+    },
     {
       "titulo": "\"No tenía posibilidad\": Nuñez (RN) aborda nuevo Estado de Excepción y advierte crisis en el Senado - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSlR5QWRhWVFPZDFYcWNDM3dSR3g3eGxIVnFYZ3pNbTdyVzZtQU9YS0MxQUFKdTJPTnlIYWlkVDlZTjJNY2FfTUdaaHVNUTByN2s5VUpOTlNlWTJjLThrSjZlemhJTE42a0dwdHJGdUxoOGc3bTA1eHZQbHVvdEdvRjZDcVltSE1XS1c4NC15a0ZxYXotU3FSV0lkeTh2UDFjb3I3TjBMbDNXRWxiemhlNk5sWWFGV28wTDA1Ml9GeUVPaV9FaUd2R3ZqcTh0NlhZQVpwZENlbWN5MTVJSGxNMEpJcklHbWl1ZHZyQXhhSGVKS0k?oc=5",
@@ -294,6 +307,17 @@
         "Senadores"
       ],
       "fecha": "2026-08-30T15:48:39+00:00"
+    },
+    {
+      "titulo": "Criteria: aprobación de Presidente Kast alcanza el 33% y desaprobación llega al 55% - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRmRFWk5KYjNmUW9vS0Vra0Fyd0xVQlpNOTJMM2JhOEU5MHNmZ1kwLUR2SVM5RXNyOGVNay1UYm5PS0E2WFpHbDQzUExkS081Z1l0N0dLQmtLaElBMmM1ODNySnd4M3dWcVhXS1hnWFpyM3M3MV9vbHgtSHgxM3htTlNtOE9WTXdESmhuWUViZ18weXg3T3pGb1FTNE94ejEwUzZDMkRyUkxKUHBiT19jNzBzR0FPMzdVNFpuLWNVeFd6QdIB4wFBVV95cUxOc3VQNm9RUGd5M3NDR3U2Q01lbHRLNERxcFB3em5vNzZhTGFSODJQZ0ZHVDFmVjdrdExTMm5KRTVxWkpuQWRlWWlWV3RZSXllaGktTUFpQVo0dG8xNXdvNmp5bjRiQndXbmN0dXExS25KdFEtNEU3aDhxWlpqZkVSbTVNREVyX1ROeHdtMTYzTU51SEo4X045dVdlS0FIYlN6NkZrOHJvUkE5N2h1bUNKZlhIbjR4WXNMd1BrOUlSazdzN3U2NUYxODBWV2dibWthdlJITnMtamYwdnBwcHJHUF9TQQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Criteria: aprobación de Presidente Kast alcanza el 33% y desaprobación llega al 55%&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-30T15:46:13+00:00"
     },
     {
       "titulo": "Pulso Ciudadano: un 54,4% desaprueba la gestión de Presidente Kast - El Mostrador",
@@ -5630,28 +5654,6 @@
         "Concejales"
       ],
       "fecha": "2026-08-25T23:00:49+00:00"
-    },
-    {
-      "titulo": "“Le dijimos al ministro Quiroz que estaban cometiendo un error”: senadora Karol Cariola tras contundente fallo del TC en megarreforma - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUG5OZjFMTWdneXdhWjlmV1k4WXZXbFhXRk55QmRETlI2cWJXckxHTkwzb3I5SHNBUkN0elc4Nk44YlpOS2NnbHdGaTZCZFBtMVZzWW1ENU15anFsNVZxUkNfSzM3aUxmdjlHSzRUNzRSM0hxcEx4OTJfUHlqZWJORmhuYlpKeUE0X3RXR2FNLU9hWHh1ellZSzdTWTFjUmFGeHZCbG0zZ1BtbUNXWFdSZkxqNTZDWTNhN3NaanhUeW1XbU50bHZGN2J2Y2sxSkdtb0x6X194RERRdTR0ZVlCOXNJdmF4clF4SVdYVXdFcW1hd3FrQWt6aFZR0gGOAkFVX3lxTE9USnhEeFhBZHo4VEJQaW1qWkpBTFFNRGFRalhpT1U2X2xYSFo4Nks2WjFzQ1N5YkNMaUZzM2dWakhZQnh0NkptTDhtSzIxVndaOEpLUlVZaFUwelVDMFhLazhkTVktZjBobndYUkZ2SUhmSmVEc3RkOVczRGdhQUdVU2VVNmc3RzJMU0VqT2M3UUpkYi1US2xsVkhDbEp6MWhUVHZ2Qm9aU0Q3REl1dTlVRGxmckdCLUgxNUgwZmEzTmhSS01RekZ0YUNpS1QzbUxvNFI0SnZzSXcxUUtPVExmOTQzSDZjRnU0U1VVd3c2RGJGeENCd1liOF9tSXFwNEQzWUxVdjdyTE5rQ2FVZw?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Le dijimos al ministro Quiroz que estaban cometiendo un error”: senadora Karol Cariola tras contundente fallo del TC en megarreforma&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-08-25T22:47:17+00:00"
-    },
-    {
-      "titulo": "¿Seguridad se muda a La Moneda? Ministro Arrau confirma que el Gobierno está “evaluando” el traslado de la cartera - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPazdOWDFkbVpZOERBejREN1c5SW9DU2p6N2hZcDZBdnVxd3RIV09kdnIxdnBOalprb0I5ZnNKdWhwUGt2NjdzVTVZcEZGRk1aVF9TdEhSQTl4R1FveU52bkVjZ2RfMzlqVWJlTkxDU3d6N0ZJVlJYRHFiczVsSHA3TXlkNXQ3S2U1cDlXVFl5X2stVEtHWTZ2YlpEdWx0MzhiX0ZLN3duaHRkaXUtYzVhTA?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Seguridad se muda a La Moneda? Ministro Arrau confirma que el Gobierno está “evaluando” el traslado de la cartera&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-25T22:42:42+00:00"
     }
   ]
 }
