@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-30T01:46:41.766981+00:00",
+  "actualizado": "2026-08-30T02:01:45.264526+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Consejo del PPD llama al senador Pedro Araya a reflexionar su permanencia en ese partido",
+      "link": "https://cambio21.cl/politica/consejo-del-ppd-llama-al-senador-pedro-araya-a-reflexionar-su-permanencia-en-ese-partido-6a938c7af2d3855bfa4abbc3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-30T01:53:21+00:00"
+    },
     {
       "titulo": "Cerimedo, Kast, las granjas de bots y la subjetividad neoliberal",
       "link": "https://www.elciudadano.com/chile/cerimedo-kast-las-granjas-de-bots-y-la-subjetividad-neoliberal/08/29/",
@@ -5653,17 +5664,6 @@
         "Senadores"
       ],
       "fecha": "2026-08-25T16:41:56+00:00"
-    },
-    {
-      "titulo": "Entregan nueva sede social en Bosques del Arrayán que beneficiará a más de mil familias",
-      "link": "https://ladiscusion.cl/entregan-nueva-sede-social-en-bosques-del-arrayan-que-beneficiara-a-mas-de-mil-familias/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El Gobierno Regional de Ñuble y la Municipalidad de Chillán entregaron en conjunto una moderna sede social para el sector “Bosques del Arrayán”, una anhelada obra que beneficiará directamente a los vecinos que viven en este barrio de reciente creación, emplazado en el sector poniente de la capital regional. La iniciativa, impulsada en conjunto por [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-25T16:37:08+00:00"
     }
   ]
 }
