@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-30T09:01:34.354848+00:00",
+  "actualizado": "2026-08-30T09:16:34.294966+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senado deshuesa proyecto insignia de La Moneda - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzV0NFFjdW1IWHE3RVFtUWxJM0RucmlsRXNkYk1rU0hRbmRfdUN5d2lXSnBwdWowbWktZlBVTmZFTHRjQjVwTUlEX01JN3A0Q2YzdlB2Q2pYRXU0OGx1UUgtd1U3VmVtelgzM0VxMUFtN2d4d2p3dFdLb1JFN0RVcWU1ZmdDbXg5SFhHVlNiVlVnSVJudkp0cl93?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senado deshuesa proyecto insignia de La Moneda&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-30T09:10:58+00:00"
+    },
     {
       "titulo": "Desborde del río Llesquehue deja más de 20 damnificados en San Juan de la Costa",
       "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/desborde-del-rio-llesquehue-deja-mas-de-20-damnificados-en-san-juan-de/2026-08-29/232824.html",
@@ -5652,17 +5663,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-25T17:01:55+00:00"
-    },
-    {
-      "titulo": "Kast valora declaración de Argentina sobre soberanía del Estrecho de Magallanes y remarca: “Es chileno”",
-      "link": "https://cambio21.cl/politica/kast-valora-declaracion-de-argentina-sobre-soberania-del-estrecho-de-magallanes-y-remarca-es-chileno-6a8dc8ff062c896f3e3b1803",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-25T17:00:34+00:00"
     }
   ]
 }
