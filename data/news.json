@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-30T02:31:28.766227+00:00",
+  "actualizado": "2026-08-30T02:46:25.022216+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Tras cinco años de gestión Inapi otorga Denominación de Origen a la longaniza de Chillán",
+      "link": "https://ladiscusion.cl/tras-cinco-anos-de-gestion-inapi-otorga-denominacion-de-origen-a-la-longaniza-de-chillan/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Instituto Nacional de Propiedad Industrial (Inapi) otorgó oficialmente la Denominación de Origen “Longaniza de Chillán”, un reconocimiento que protege uno de los productos más emblemáticos de la gastronomía chilena y que es fruto de un trabajo de más de cinco años liderado por los productores locales. Este reconocimiento, destacó el alcalde de Chillán Camilo [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-30T02:36:58+00:00"
+    },
     {
       "titulo": "Consejo del PPD llama al senador Pedro Araya a reflexionar su permanencia en ese partido",
       "link": "https://cambio21.cl/politica/consejo-del-ppd-llama-al-senador-pedro-araya-a-reflexionar-su-permanencia-en-ese-partido-6a938c7af2d3855bfa4abbc3",
@@ -5653,17 +5664,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-25T16:51:51+00:00"
-    },
-    {
-      "titulo": "\"Les incomodo\": el mensaje de Fidel Espinoza al renunciar a la bancada de senadores del PS - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVkoySXplY1JwQkY1TkVILS1lZGQyY0xMaWJrZGR2OExZVXpKU25qcDNqeGJod2dfRm9tVllUNDRTbTRKT2o3R19ZMUx5Y1BUclhmSElTc0lUdUlORzlUZ1RBcmxjZ0JSbDE4NUZmc0RlOXN2YmFmd3QySm5KVUxKb3kwc05qME1NRk0zN3lxRk85S2FndFNRdEY2V1FhWmc5WVNLR1EyakloRjJqdm9TYVV0Mkk3eWg5aE1pNURiQzhyaHFWc3RJS3lYa2ktV1JMUUZadjlzdDhhVFpfMXA2WXE4cldBMTdNYWVj?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Les incomodo\": el mensaje de Fidel Espinoza al renunciar a la bancada de senadores del PS&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-08-25T16:45:50+00:00"
     }
   ]
 }
