@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-30T14:16:41.462022+00:00",
+  "actualizado": "2026-08-30T14:31:37.014656+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Exalcalde de San Ramón, que cumple condena en libertad por fraude al fisco, pidió volver a la cárcel",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/exalcalde-de-san-ramon-que-cumple-condena-en-libertad-por-fraude-al/2026-08-30/101522.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El 15° Juzgado de Garantía de Santiago acogió la petición del exalcalde de San Ramón Miguel Ángel Aguilera, quien solicitó cumplir en prisión el saldo -de 24 días- de los cuatro años de libertad vigilada que le dieron por fraude al fisco.\nEl otrora jefe comunal fue sentenciado por los delitos de nombramientos ilegales en la municipalidad que dirigió, negociación incompatible, malversación de cauda",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-08-30T14:15:22+00:00"
+    },
     {
       "titulo": "Fijan audiencia para formalizar a alcalde de Río Bueno por millonarios traspasos ilícitos - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT3hYa1BWaFRJTUl4cllQZUkyTW04aXN3cHF5UHVSWW83YW91QkxaR2U0alNIbTluMThZbWlST25neG00aFU0a0hmcUNWU2NjYWxJcE9zTHVPYkx5R1lKZkNoa09MaENrY0JtZzFQUDFtbVp4QXkxS3NpeFhvZXVpQk9mSkpwQWdTbTZYYUEtZ1U0SkVmRjBmaFNaQTJhaXk3Rmh2UlN3a2xtNDNCQ1lmeGlfYmxvZDhReGxJOFdSQmI2cU0?oc=5",
@@ -5651,20 +5662,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-25T18:17:00+00:00"
-    },
-    {
-      "titulo": "Kast evita escalar tensión con Argentina, mientras el mundo diplomático le exige mayor firmeza",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-evita-escalar-tension-con-argentina-mientras-el-mundo-diplomatico/2026-08-25/140827.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast valoró la declaración del Gobierno de Argentina que reafirma la soberanía chilena del Estrecho de Magallanes, luego de los polémicos dichos del Jefe de Estado Mayor de la Fuerza Aérea trasandina, el brigadier general Gustavo Valverde.\nEl alto mando militar afirmó en una entrevista que Argentina debe mantener su soberanía y hacer presencia en el Estrecho de Magallane",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-08-25T18:08:27+00:00"
     }
   ]
 }
