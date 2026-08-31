@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T12:01:47.613365+00:00",
+  "actualizado": "2026-08-31T12:16:39.573127+00:00",
   "total": 500,
   "items": [
     {
@@ -45,6 +45,18 @@
         "Presidente"
       ],
       "fecha": "2026-08-31T11:30:07+00:00"
+    },
+    {
+      "titulo": "Presidente José Antonio Kast: No vamos a retirar la reforma constitucional de seguridad; el debate está recién empezando",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-jose-antonio-kast-no-vamos-a-retirar-la-reforma/2026-08-31/070722.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-31T11:07:22+00:00"
     },
     {
       "titulo": "Vínculo entre Cerimedo y Kast ha seguido activo en La Derecha Diario",
@@ -5365,6 +5377,17 @@
       "fecha": "2026-08-26T13:55:03+00:00"
     },
     {
+      "titulo": "Presidente Kast pone en marcha nuevo FOGAES: “Queremos pasar de un Chile de arrendatarios a uno de propietarios” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbHl1TFQ2VEJpN1NDTFdKOUtXOGswRUJiR1JlUEpDX0txazg5ZmsySER3dkhvSGwwWk9rQzdBMzRZaHBtRTZzNm43SDRyRE9MU2lJdlVTOHNtRHNiVUNnbVY3djRPcm9BVllqUnp3V0ZDczRkWVM5b0NldkJzTzlQRUhqMzVidEZOcjRicmtLTDNoZ0E3VlNia09vN0Y5WnNweEJkcVZucWRKLU82NXA4cTZoWGpQbGZUcS1mY0ZMQ3BacjNnWThYOFZFaWZFV2VYWWFqbFZzSzBmMU1WY2fSAfIBQVVfeXFMUFpOcS02LWtuRU1fVXlRSUpRMkFzLVNIUlZUQUhBa2hETTJDY2Yxejd2dnFxX1Y5dlF0Wk9rbnA0ZGoteFBzcTF3elRMclppZUZMLW80ajg0UzB4RlVIVjFGOUpSdHB3MDVvVEtuWEllZ0tiUHNHY1BOVnpEdmJiWHVCWXhxeHp5MDFydTY3enJNMDJDWXlMYWdNWkRBeEtOM0tVX3ZaZUs1ZDkxSi1qN0p5TzRyU2dUOUVhdEwyWXV5VXkyb1lKVkpyV2wxTUQ4SWdBTElRSmhfcTVEVXNnLUUzdTNDMC11QWR4dURIVG5CQ2c?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast pone en marcha nuevo FOGAES: “Queremos pasar de un Chile de arrendatarios a uno de propietarios”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-26T13:54:31+00:00"
+    },
+    {
       "titulo": "Hasta septiembre se podrá postular a Beca Artística y Patrimonial 2026",
       "link": "https://ladiscusion.cl/hasta-septiembre-se-podra-postular-a-beca-artistica-y-patrimonial-2026/",
       "fuente": "La Discusión (Chillán)",
@@ -5632,28 +5655,6 @@
         "Concejales"
       ],
       "fecha": "2026-08-26T11:11:06+00:00"
-    },
-    {
-      "titulo": "Aprueban plan de gestión del Centro Cultural Claudio Paredes con reparos por financiamiento y mediciones",
-      "link": "https://laprensaaustral.cl/2026/08/26/aprueban-plan-de-gestion-del-centro-cultural-claudio-paredes-con-reparos-por-financiamiento-y-mediciones/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El Concejo Municipal de Punta Arenas aprobó el nuevo plan de gestión 2026-2030 del Centro Cultural Municipal Claudio Paredes Chamorro, una hoja de ruta con una inversión de más de 140 millones de pesos, aunque varios concejales respaldaron el instrumento con reparos por la falta de claridad sobre su financiamiento y sobre cómo se medirán...",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-08-26T11:07:18+00:00"
-    },
-    {
-      "titulo": "Vodanovic y Boric: los caminos divergentes de los presidenciables FA ante el giro a la izquierda del partido - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeXg3b3Y2anFkWjVBRlJjM2I0c1R3TC0yZXZ1d1dBRHYtQ2F6VDhkTTFjT0RXeWl6cXk5WTNCZ3JjY0I5eWw2cU8yMFpLLXJPbEhwd191aEIzaElyajlObzk1Y3hwUW5kMmZCVFBvRDNveXVIY3dGTThROGlIbEVjbERaTkJlRUIwLVhDVllaSmMwTFRxa0pxSnMzMzZtQUF2U0hXempPQkY3eWloWjdNckR3V3MyeWhoSHp2UXZFTi16bFNNM19rZWhsZ1JBcEc0R0HSAdIBQVVfeXFMUHl4N292NmpxZFo1QUZSYzNiNHNUd0wtMmV2dXdXQUR2LUNhelQ4ZE0xY09EV3lpenF5OVkzQmdyY2NCOXlsNnFPMjBaSy1yT2xIcHdfdWhCM2hJcmo5Tm85NWN4cFFuZDJmQlRQb0Qzb3l1SGN3Rk04UThpSGxFY2xEWk5CZUVCMC1YQ1ZZWkpjMExUcWtKcUpzMzM2bUFBdlNIV3pqT0JGN3lpaFo3TXJEd1dzMnloaEh6dlF2RU4temxTTTNfa2VobGdSQXBHNEdB?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Vodanovic y Boric: los caminos divergentes de los presidenciables FA ante el giro a la izquierda del partido&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-26T10:53:00+00:00"
     }
   ]
 }
