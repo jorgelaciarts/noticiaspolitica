@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-08-31T03:46:25.918176+00:00",
+  "actualizado": "2026-08-31T04:01:28.241568+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,18 @@
         "Presidente"
       ],
       "fecha": "2026-08-31T02:30:00+00:00"
+    },
+    {
+      "titulo": "Cadem: Un 83% de los ciudadanos no confía en el Poder Judicial",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/cadem-un-83-de-los-ciudadanos-no-confia-en-el-poder-judicial/2026-08-30/215514.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La última encuesta Plaza Pública de Cadem reveló un aumento en la evaluación negativa hacia el Poder Judicial y sus principales instituciones, considerando a los jueces como los principales responsables de que el sistema no funcione bien. \nLa medición mostró que un 75% de los consultados tiene una opinión negativa del Poder Judicial, nueve puntos porcentuales más que en 2024.\n\n🔴 #Cadem 75% evalúa ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-31T01:55:14+00:00"
     },
     {
       "titulo": "Asistirá el Presidente Kast: Foro de Madrid divide al oficialismo - Teletrece",
@@ -5641,17 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-26T02:07:56+00:00"
-    },
-    {
-      "titulo": "«Un papelón tras otro»: Duras críticas a gobierno de Kast por contundente fallo del TC a favor de reconexión gratuita de servicios básicos en zonas de catástrofe",
-      "link": "https://www.elciudadano.com/chile/un-papelon-tras-otro-duras-criticas-a-gobierno-de-kast-por-contundente-fallo-del-tc-a-favor-de-reconexion-gratuita-de-servicios-basicos-en-zonas-de-catastrofe/08/25/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nUna de las noticias más comentadas de la jornada fue el contundente rechazo del Tribunal Constitucional al requerimiento presentado por el gobierno de José A. Kast, intentando impugnar el artículo 31 de la «megarreforma» referido a la reconexión gratuita de los servicios básicos en zonas de catástrofe. Recordemos que esta indicación fue ingresada por parlamentarios [&#8230;]\nLa entrad",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-26T01:44:02+00:00"
     }
   ]
 }
