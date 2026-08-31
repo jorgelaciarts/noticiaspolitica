@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-08-31T03:01:45.729384+00:00",
+  "actualizado": "2026-08-31T03:16:38.247714+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Dos encuestas coinciden: aprobación de Kast se mantiene en torno al 33% - tiempo21.cl",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWVE2NjUyWUJiN1dnWEVPZUFUYnNBRm96ZDJNWk9vdWtnY19idE9IYWlBdHpGblN2czNmTG1EQUkyVzhJUUVKTU1OUUR2dENsb2wxOUVHVHA3R1VYd0FUbXNkZlkwemhYTmk2bW51Tk5wQXBvUTBpa2xFWWhCWUJva2xkdGFhaERVSGJfanRPdy1KdWxoSjI2YTVn?oc=5",
+      "fuente": "Tiempo21 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Dos encuestas coinciden: aprobación de Kast se mantiene en torno al 33%&nbsp;&nbsp;tiempo21.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-08-31T03:11:42+00:00"
+    },
     {
       "titulo": "Encuesta Criteria: Aprobación del Presidente José Antonio Kast cae al 33% - 24horas",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOamt3VTJadzV2NmFOOWY5c1dsYmRGQW1qbnMyUGR5Nng5UjhZM3VDVzVsdHpuSVhCRm1yeWVzQmN5WGd4N1JNTE9sR2plUG5CR2ROY0NVWlJUM1ZuLV9Cb3RZOHVlUUwxUms5QW9jaTktXy1fbk5HRVlISVZKNGhZdjJtYTNSTmFEaVA2QW5DUkMtXzYwcS1QcWtGRHowQ0FManJhaFk0dTY2UGZqX2xFUl84cVA?oc=5",
@@ -5641,17 +5652,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-26T01:44:02+00:00"
-    },
-    {
-      "titulo": "Nueva directiva republicana debuta con la renuncia de histórico militante",
-      "link": "https://ladiscusion.cl/nueva-directiva-republicana-debuta-con-la-renuncia-de-historico-militante/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Esta semana, el Partido Republicano inició una nueva etapa en Ñuble con Cecilia Medina Meneses al frente de la directiva regional. Sin embargo, la renovación de la conducción quedó inevitablemente marcada por la partida de uno de los militantes históricos de la colectividad: Jorge Luis Sánchez. La nueva mesa, integrada además por Héctor San Martín [&#8230;]",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-26T01:37:58+00:00"
     }
   ]
 }
