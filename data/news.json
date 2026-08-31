@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-08-31T12:16:39.573127+00:00",
+  "actualizado": "2026-08-31T12:31:42.220073+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "\"No, estamos recién comenzando\": Presidente Kast descartó retirar la reforma constitucional",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/planes-antidelincuencia/no-estamos-recien-comenzando-presidente-kast-descarto-retirar-la/2026-08-31/080134.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En entrevista con El Diario de Cooperativa, el Presidente José Antonio Kast descartó este lunes retirar del Congreso el proyecto de reforma constitucional en materia de seguridad presentado hace dos semanas, en medio del incipiente debate político y los cuestionamientos provenientes de diversos sectores por la extensión y facultades propuestas en la iniciativa.\nAl ser consultado directamente sobre",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-08-31T12:01:34+00:00"
+    },
     {
       "titulo": "“Ganó la mentira”: Jara exige a Kast revelar cuánto se gastó en bots y fake news y transparentar vínculos con Cerimedo",
       "link": "https://www.elciudadano.com/politica/gano-la-mentira-jara-exige-a-kast-revelar-cuanto-se-gasto-en-bots-y-fake-news-y-transparentar-vinculos-con-cerimedo/08/31/",
@@ -45,6 +58,18 @@
         "Presidente"
       ],
       "fecha": "2026-08-31T11:30:07+00:00"
+    },
+    {
+      "titulo": "Presidente José Antonio Kast: Si las críticas son a causa de prejuicios, quienes las emiten son opinólogos",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-jose-antonio-kast-si-las-criticas-son-a-causa-de-prejuicios/2026-08-31/070722.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-08-31T11:07:22+00:00"
     },
     {
       "titulo": "Presidente José Antonio Kast: No vamos a retirar la reforma constitucional de seguridad; el debate está recién empezando",
@@ -5633,28 +5658,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-26T11:40:35+00:00"
-    },
-    {
-      "titulo": "“No podemos permitir que las calles de Punta Arenas  se transformen en dormitorios y en baños públicos”",
-      "link": "https://laprensaaustral.cl/2026/08/26/no-podemos-permitir-que-las-calles-de-punta-arenas-se-transformen-en-dormitorios-y-en-banos-publicos/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Planteó su preocupación por lo que ocurre en calles como Mejicana, Errázuriz y Bories. El concejal de Punta Arenas Germán Flores Mora pidió a las autoridades adoptar medidas frente a la permanencia de personas en situación de calle en distintos puntos del centro de la ciudad -particularmente en las calles Mejicana, Errázuriz y Bories- y...",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-08-26T11:39:40+00:00"
-    },
-    {
-      "titulo": "Locomoción colectiva de Natales comenzará  a operar el 1 de octubre con nueve buses",
-      "link": "https://laprensaaustral.cl/2026/08/26/locomocion-colectiva-de-natales-comenzara-a-operar-el-1-de-octubre-con-nueve-buses/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Pidiendo disculpas por no haber logrado poner en marcha el sistema de locomoción colectiva en la capital provincial de Ultima Esperanza durante agosto, comenzó ayer su presentación ante el Concejo Municipal el seremi de Transportes, Allan Stowhas, quien entregó una nueva fecha para la puesta en servicio del sistema de transportes en Natales. Stowhas aseguró...",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-08-26T11:11:06+00:00"
     }
   ]
 }
