@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-01T01:31:37.971232+00:00",
+  "actualizado": "2026-09-01T01:43:38.770269+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,18 @@
         "Senadores"
       ],
       "fecha": "2026-09-01T01:04:40+00:00"
+    },
+    {
+      "titulo": "Radiografía al nuevo votante chileno derriba mitos sobre su edad y nivel socioeconómico",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/elecciones/radiografia-al-nuevo-votante-chileno-derriba-mitos-sobre-su-edad-y-nivel/2026-08-31/210213.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un estudio del Servicio Electoral (Servel) determinó que el perfil del nuevo votante chileno corresponde a un adulto joven de clase media urbana que, aunque comparte rasgos con el elector tradicional, destaca por su despolitización, su ausencia de militancia partidaria y su falta de habitualidad cívica.\nLos resultados corresponden al \"Nuevo Mapa Electoral: Participación y Perfiles de Votantes en C",
+      "categorias": [
+        "Servicio Electoral",
+        "Elecciones"
+      ],
+      "fecha": "2026-09-01T01:02:13+00:00"
     },
     {
       "titulo": "“Está bueno que sea una nueva alternativa aparte del Movistar Arena”: Las positivas reacciones de los vecinos ante el anuncio del Renca Arena",
@@ -134,6 +146,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-01T00:04:18+00:00"
+    },
+    {
+      "titulo": "Senador Walker (IND) cuestiona reforma de seguridad del Gobierno: \"Voy a rechazar cualquier intento por restringir las libertades\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWk8yUEl0c1dadEtmNHlNOWlrWUQwX1V6dXpaLWZ2TEsxUUVYcVZzTzlWWU9QWkt0eG1sbkJaZ3pPbHZxRzE2N1NqVEtiTXhoaFNPQ1lJWlVvQXlDcHhmVzhDREhxdmRURmt2VjN6SGl2U3hKckpHMTZlRndZT3JTRkU5RFZVUlhxWjRnd2ZOaTlGYkROM2xMWk5mdnQta3dLRHVVVW1uQ05wcVAzWkZ3dFhGNUZwVEZpdXVwODNUQjZDWnFMOTJyeNIByAFBVV95cUxQWk8yUEl0c1dadEtmNHlNOWlrWUQwX1V6dXpaLWZ2TEsxUUVYcVZzTzlWWU9QWkt0eG1sbkJaZ3pPbHZxRzE2N1NqVEtiTXhoaFNPQ1lJWlVvQXlDcHhmVzhDREhxdmRURmt2VjN6SGl2U3hKckpHMTZlRndZT3JTRkU5RFZVUlhxWjRnd2ZOaTlGYkROM2xMWk5mdnQta3dLRHVVVW1uQ05wcVAzWkZ3dFhGNUZwVEZpdXVwODNUQjZDWnFMOTJyeA?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Walker (IND) cuestiona reforma de seguridad del Gobierno: \"Voy a rechazar cualquier intento por restringir las libertades\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-08-31T23:39:00+00:00"
     },
     {
       "titulo": "Senador Walker (IND) cuestiona reforma de seguridad del Gobierno: \"Voy a rechazar cualquier intento por restringir las libertades\" - Teletrece",
@@ -5637,31 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-27T15:30:00+00:00"
-    },
-    {
-      "titulo": "Wulf defiende presencia de Kast en el Foro Madrid: “Ha participado en muchas ocasiones, tiene todo el derecho de poder seguir haciéndolo” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMVFpZWdqS0Y4T1BGSDdOTE1wUTlOS184dHJKQTJ0VkUwN2JnNXJVNWo4eHJ0bFV1NF9wSXhVbFhEUjNJSlRINlh2RHc3WUpkWWk0QUdTTkx0dzdhMFVvWjBRdlpYblQyNS04ZG5UN0RlSHZKYzd3WlpRd3NVZDFEcmpmVnlBbHB6RXUyaDYybnJabzFMNnlqYkViUy01bmhCb29NTXlSRWF5NWNQSGdhZkNfaDBWN25VV3JDVlNmeGlVVkpIMk1vdDVxTHRxaDR6TEY0NVBNSnhCNDhMRTNVUHFQdEx0eDBWeTNRX2UzYnA0Skpmb2l3d25BUzIyY3dEVHQxZHNRMEHSAaoCQVVfeXFMT0VQeFBMUUpSSXhES1YzcmxpOVp3VEJmMGRiTzNCQ1RmaWt4TlpVdnhZMk9oRGs5a0JhLWsyT1BLMEhnWkZ3NWI3OWdNWFZ0eFViM2JpNzViQlh5VWF2TjF5azJHdmVua1RHOWFDU2ZiYVlkcUs1TXhEemlnUVVrMHFTT0dRN3lnQzV5bWZ0cUwwbTZNRVUxdGlsOXF0WVg1YUFkMm00NlpxdWx4QmxFV1A2WDljWTFTenlsRElXYWtDMUxaZkFYM01yMEdSenVabENiYzZxY0V6ekQzbHE4b2EwWms3Rkg3VlpjZmxJczZCa3hxM2U0THM3bXNWVFhOcXJIa21WZVdVVkZ1Z21BQ001YzBFaDNLeUNFVC1iS0RPRThaTDAxWXNqZw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Wulf defiende presencia de Kast en el Foro Madrid: “Ha participado en muchas ocasiones, tiene todo el derecho de poder seguir haciéndolo”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-27T15:22:27+00:00"
-    },
-    {
-      "titulo": "Vodanovic cuestiona exclusión del Frente Amplio en comisión de Kast y acusa falta de transversalidad en la reforma del Estado",
-      "link": "https://www.theclinic.cl/2026/08/27/vodanovic-cuestiona-exclusion-del-frente-amplio-en-comision-de-kast-y-acusa-falta-de-transversalidad-en-la-reforma-del-estado/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El alcalde de Maipú cuestionó que el Gobierno excluyera al Frente Amplio y al Partido Comunista de la Comisión Nueva Arquitectura del Estado, creada por el Presidente José Antonio Kast para impulsar una reforma institucional. La crítica se produjo apenas días después de la carta que firmó junto a Jaime Bellolio, donde ambos llamaron a construir acuerdos transversales para enfrentar los desafíos de",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-27T15:21:21+00:00"
     }
   ]
 }
