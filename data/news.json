@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-01T15:31:35.696667+00:00",
+  "actualizado": "2026-09-01T15:46:42.693439+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Por inasistencias de diputados, Cámara Baja rechazó crear comisión investigadora por caso Cerimedo",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/por-inasistencias-de-diputados-camara-baja-rechazo-crear-comision/2026-09-01/112632.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Por falta de quórum, la Cámara Baja rechazó establecer una comisión investigadora sobre el caso Cerimedo, a fin de esclarecer el uso de bots y una eventual manipulación de algoritmos en procesos electorales en nuestro país.\nLa propuesta tuvo 41 votos en contra -pertenecientes al oficialismo-, dos abstensiones y 60 a favor, pero el mínimo para aprobarlo es de 62. El resultado se debió a que solo as",
+      "categorias": [
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-09-01T15:26:32+00:00"
+    },
     {
       "titulo": "Situación en Facultad de Artes: Senadores universitarios llaman a “contribuir a la búsqueda de soluciones mediante el diálogo y el respeto recíproco” - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPT3phaWNuNHpmSzlJRG9tTW44YlYzQWNwcHd1LVpFNDVFaWxRZEJLcDJDOHItQkp6MHhVS3VPVVdIYV9SUE0wRVF2Y2JmLUpPNWs1a3lYMFQ1TXpOMEtpQ3UtcDFHLUZ1TXVPbFQ2MVpBcThLemVFb251eXI5VzIzb1gwa0haczIyRjNvOXJ0NlZBVGxKVUZIemRoQjRNWUJ3T3k2Y3NhZV95U0luQVVaYU1Rd1kwckY5Z19KaVVqNDRPUHU1UUV4aUNkZXR6TElIOHgtcUNoblBKcVU3X3VhR3hhczFTTkt6bENWQmNCS1BKUTJ0a3d2VzVhdG5md0FRTXNmZmFYaGVCU0Z5NEpN?oc=5",
@@ -5645,17 +5657,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-27T22:14:56+00:00"
-    },
-    {
-      "titulo": "Kast gestiona bilateral con Milei mientras Foro Madrid abre flanco interno en La Moneda - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTmR5UmNfTmZoaTBHd0dsWS1hdDBuZXdFT050NHllZXdUaUU2anl3QTlrOWpSYU52M2lBRG1ZNlhneVQ0a2NMdkE0RWN0YUw5aFVyZUg0em9VelBLODZnM2hNa3p5bTJCU0p3RFd6V3dpOTYwdzFtNXlpaFRvZ0JOMnpGMTdxTWtObkd1ejlLZk0yRUltNVJTMFRwQWR3NW96ZTNqYWxuQXdPRUEzZ1J0aWZDSzJPUk0taDIyYk9WQnZrU3hVcklwOUZzOC1TelBMQnpPOHNOdzJVRm9QTUVsRkFXVFVuN0Zl?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast gestiona bilateral con Milei mientras Foro Madrid abre flanco interno en La Moneda&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-27T22:06:18+00:00"
     }
   ]
 }
