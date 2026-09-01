@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-01T19:01:37.506027+00:00",
+  "actualizado": "2026-09-01T19:16:58.238662+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El Carmen habilita número de seguridad ciudadana con atención 24/7",
+      "link": "https://ladiscusion.cl/el-carmen-habilita-numero-de-seguridad-ciudadana-con-atencion-24-7/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "En el marco del fortalecimiento de las herramientas y recursos para mejorar la prevención y la sensación de seguridad de la comunidad carmelina, la Municipalidad de El Carmen lanzó este martes la entrada en funcionamiento de su primer número de Seguridad Ciudadana, disponible las 24 horas del día, todos los días del año, para todos [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-01T19:10:28+00:00"
+    },
     {
       "titulo": "Cámara de Diputados aprobó proyecto que aumenta sanciones por ofensas en contra de la autoridad policial: Pasa al Senado - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOczRlU0kyWEc5ZFNHVmRwdlZqVG1GTDV4UTA2WFZadGtBeXVYMDFXbXl5WWYzcTgtaTd6VHgxS2l6b3lWd0pGOFNNUHR1QUdFODdXMmxfa2RVVEktRHN4Nlg4M3oxekZIX05OeFdlLV9fRzdTcDctRklNMXJMUVBHOHJDLXNqbDFjZW16d2xxUkFQdU8yakR4Qmh5b2N0dFFrbUExRDcxZEREanB0REdQcmhIRGhsWHZfU1Y5UFQ3eUJDZ2txVUVGRjJYQ29feG9nRnJvN3B3Q2dZbFFLaHplY01RRjg?oc=5",
@@ -702,6 +713,17 @@
         "Senadores"
       ],
       "fecha": "2026-09-01T13:11:37+00:00"
+    },
+    {
+      "titulo": "Economía vuelve al rojo y aleja la meta de Kast: Imacec cae 1,5% y debilidad se extiende - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVJmV200SC1UQ09jMndGTTY3cDNDVHQ0MVV2SmlGUDlHNmVSU2hORmtVSG5XUlN2d3FBSHV2QXdBWlNqa0FYdTdISWRHTXdITUtydlFiN1pOZnRjeWZ3dzFkX3BpMU1ZWm1JSjhjZ2pZTFJlaUZlNVlwZ1EyM3NhTTBZTW5rTjJUUnJMZ0NlYTNBYm9id3Nsd1dPN1RoV1dFTTdESmRGaUIzSzBDQUpsblF1LVh5NVcwdldtQXdkZ3B6UWJBd2VLZUR3MGJQZw?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Economía vuelve al rojo y aleja la meta de Kast: Imacec cae 1,5% y debilidad se extiende&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-01T13:09:32+00:00"
     },
     {
       "titulo": "Ramírez tilda de “irresponsables” vinculaciones entre Kast y Cerimedo: “Me parece que esta discusión es un invento” - La Tercera",
@@ -5638,29 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-28T11:06:00+00:00"
-    },
-    {
-      "titulo": "Vodanovic (FA) es el alcalde que obtiene mejor nota y le siguen de cerca y en empate Bellolio (UDI) y Sichel (IND) - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1Z6X0Nvd2JRSEFfaVNQLTduVmpIeWtFQmptSzhDbDBFRXBRWTFIRXlMcFY3VXBxRENvNUNhcmF2bVFMazZwWGtQRXdldDRKWlV1eGtrR2FCN1pOQWd1SWdtM1c3aWhrTldXX21vS1NKQTVuTWtkQVZqdE1zQnlsRzNCaVhEdFZyNk9YU3Z5aDFMbjBpUWhBMWVxSXVFcUVHSHJr?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Vodanovic (FA) es el alcalde que obtiene mejor nota y le siguen de cerca y en empate Bellolio (UDI) y Sichel (IND)&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-28T11:05:00+00:00"
-    },
-    {
-      "titulo": "Kast lamenta muerte de carabinero baleado en Renca y pide avanzar en agenda de seguridad / Jadue también busca recuperar liderazgo - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPeERSNjA1N0xSbWJzbUo0ckJSeUZ2c0tlUzFreGpJb0kyMl9aTUxoMHhLOTV3ZTZPYjdjSE9fU3BHbWtnNElJT01OU3dFcmx6MV9oM18xWTBDX09zNUp2a1dXN1c5M0NaZjRPMGQtVzNDSkhVNUJWY3lhbFlITkJEMm9jUUJrLUVwODNjbE16N2pHdzFLRzh2WHhYVjFvdDBjajZwbmNtRTY4Rk9WX1U3WHlWQ3F4TU0xWFVta3lZYVp0MHQwN3VxQklWZWtIal9HMzNxMmx3aDdybHAxa25DdnA2WnpfaktZUlhjSGR6QjJpZXVub3dHRWZySTNDeFE4dlV1TG1HamZLNE0?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast lamenta muerte de carabinero baleado en Renca y pide avanzar en agenda de seguridad / Jadue también busca recuperar liderazgo&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-28T10:15:09+00:00"
     }
   ]
 }
