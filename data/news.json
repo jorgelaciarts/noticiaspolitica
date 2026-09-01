@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-01T17:46:39.085655+00:00",
+  "actualizado": "2026-09-01T18:01:47.271169+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "No soltar a Cerimedo: la apuesta de la oposición en medio de los supuestos lazos del cuestionado estratega argentino con la derecha",
+      "link": "https://www.theclinic.cl/2026/09/01/no-soltar-a-cerimedo-la-apuesta-de-la-oposicion-en-medio-de-los-supuestos-lazos-del-cuestionado-estratega-argentino-con-la-derecha/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Los presidentes y secretarios generales del bloque progresista abordaron el caso del asesor argentino durante su reunión semanal y acordaron mantener la presión sobre sus eventuales vínculos con la derecha chilena. La estrategia ya suma oficios, emplazamientos al Presidente Kast y un intento fallido por crear una comisión investigadora que el PPD pretende reponer. El Foro de Madrid de esta semana ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-01T17:58:05+00:00"
+    },
     {
       "titulo": "PS condenó la existencia “de un eventual plan para atentar contra la vida del alcalde de San Bernardo”",
       "link": "https://www.lanacion.cl/ps-condeno-la-existencia-de-un-eventual-plan-para-atentar-contra-la-vida-del-alcalde-de-san-bernardo/",
@@ -421,6 +432,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-01T14:30:29+00:00"
+    },
+    {
+      "titulo": "Ministro Barros: Milei tiene lista para firma la derogación de polémico decreto sobre el Estrecho",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/ministro-barros-milei-tiene-lista-para-firma-la-derogacion-de-polemico/2026-09-01/102908.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Defensa, Fernando Barros, reveló esta jornada que el texto para derogar el polémico decreto argentino que define al Estrecho de Magallanes y al Mar de Drake como \"espacios compartidos\" está listo para ser firmado por el mandatario trasandino, Javier Milei.\nEn entrevista con Radio Duna, el secretario de Estado señaló que, en la llamada que sostuvo una llamada con su homólogo argentin",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-01T14:29:08+00:00"
     },
     {
       "titulo": "Ministro Barros aseguró que Milei firmará derogación de polémico decreto argentino sobre el Estrecho",
@@ -5637,28 +5659,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-28T03:30:58+00:00"
-    },
-    {
-      "titulo": "Exfiscal indagado por lavado de activos defendió a empresario que ofreció aportes de ciudadanos chinos a senadora Flores",
-      "link": "https://www.ciperchile.cl/2026/08/27/exfiscal-indagado-por-lavado-de-activos-defendio-a-empresario-que-ofrecio-aportes-de-ciudadanos-chinos-a-senadora-flores/?utm_source=rss&utm_medium=rss&utm_campaign=exfiscal-indagado-por-lavado-de-activos-defendio-a-empresario-que-ofrecio-aportes-de-ciudadanos-chinos-a-senadora-flores",
-      "fuente": "CIPER Chile",
-      "region": "Nacional",
-      "resumen": "La entrada Exfiscal indagado por lavado de activos defendió a empresario que ofreció aportes de ciudadanos chinos a senadora Flores se publicó primero en CIPER Chile.",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-08-28T03:09:52+00:00"
-    },
-    {
-      "titulo": "Presidente Kast aborda caso del Clan Chen tras la Operación Cancerbero: “Trasladamos al crimen organizado y nos ponen un recurso” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2EydmpUUVBxbkRfcFVhRHJjUkdxWlVFNU0tOHhrZWhFejgtNGtHOU9pc3gxRHVfVWJQUDZPeTUwZnl5aVZ3WGZXQk9KMmF2Y0VVelE3MHpXUXlHY3cwdWlUWjFHWWdZZm93N050VGxLT3duNXR1NWVNTWI4ZWp4Xy14VlhVRGUxZU5FUi1zVmoxQkZBaG84SzlzY2poZlRuZkxXMFZVMHVxd2pJUmQxajlXUl92Y2JQaUhGVkNzUW5qcDd2TEZDdWdYdWJNelJQNzQtc3hOSTlKUm9QRTRCR3NJSV9vdUk4Nk5wXzR3?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast aborda caso del Clan Chen tras la Operación Cancerbero: “Trasladamos al crimen organizado y nos ponen un recurso”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-28T01:53:27+00:00"
     }
   ]
 }
