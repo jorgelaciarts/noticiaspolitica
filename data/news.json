@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-09-02T13:16:29.071725+00:00",
+  "actualizado": "2026-09-02T13:31:49.226854+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Nuevo operativo de desalojo de toldos azules en Meiggs: Instalarán más rejas",
+      "link": "https://www.lanacion.cl/nuevo-operativo-de-desalojo-de-toldos-azules-en-meiggs-instalaran-mas-rejas/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Santiago lleva a cabo este miércoles un nuevo operativo de desalojo de toldos azules y de despeje de calles y veredas en el Barrio Meiggs. Específicamente en el sector de calle Salvador Sanfuentes. Luego, se procederá al cierre con rejas del perímetro.Los equipos municipales con apoyo de Carabineros llegaron alrededor de las [&#8230;]\nThe post Nuevo operativo de desalojo de tol",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-02T13:24:47+00:00"
+    },
+    {
+      "titulo": "Marco Moreno advierte a Kast por reunión con Milei tras polémica por Magallanes: Rol institucional “tiene que separarse del rol de amistad” - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMFdjbnNjY3FUT1RkX0F0dzJwdjlYcm5NdURpbHhwQW9RRGFBYjB4Tms3bGhuMG5SZlo0YXVWQ3VSN0RrM0IyS3ZndGhFZ200ZExfd25GdWRoUTJJR1oyOUtqSHk2M05PQ3BNRVgwbzhXdnV1dFIya2pHcjhIVVJhck5LOU1zSWhqZVdFWlZ5ajFESE5rTjFWT0xFazFVVFQ3SUZybFdVckVXX1gxQ01udFQ2cUxGSUw1azJKRm12SVc5aFBwTDhDV0RaOGdpZXdUOHdJRzlIbFVRRG9hN1RwVmZrNHVMZHpNVVZVblowUTBnRzQ5Ty1Pb0FpVGtzQldFRmttV2RlYTJFQQ?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Marco Moreno advierte a Kast por reunión con Milei tras polémica por Magallanes: Rol institucional “tiene que separarse del rol de amistad”&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-02T13:20:27+00:00"
+    },
+    {
+      "titulo": "\"Todo el apoyo\": Kast confirma que intentará reunirse con alcalde White tras hallazgo de plan de ataque en su contra - t13.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY3FrZkpUalpOeGUxNkludVdVVVBvbGdkWGZYa0FQdy1VeUlBVDU0SUx5UUg5aEp0VWo0QTg1MDNyWTY0VHRCTkE2MDZEOG52RDgyX1UxUmpZQzBlaUlIN25FaFJ6QktUenBQanJWb29FUk5CbkFmbGZrN01JWnAzdllEaVlWNU1WaGhZUE1NVUJIOWRLREloZEUwWnFtRnRmVndIVE9lUTNoQ1lkV3lsZkVWYngtMWhh?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Todo el apoyo\": Kast confirma que intentará reunirse con alcalde White tras hallazgo de plan de ataque en su contra&nbsp;&nbsp;t13.cl",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-02T13:20:00+00:00"
+    },
+    {
+      "titulo": "Diputados de oposición critican manejo de la reforma de seguridad apuntando a improvisación y riesgos constitucionales - Timeline.cl",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNDJMVGdHR1BFY1ZqQ1BVd2VBbHBnS1h0QXdzbmx0d05QTGZmWjNiRWVsYnVKY0JYN1lmamZLdVlDYWZDRWhGcENWM0lnbUFTUHVQWVFPLTU4TVdyZGtwRFRFRG1qRzRiZDlVeUp5WjU5czRpWlpFXzBMTHJ3MFM3OHFFcjRIVWUwZVZxZlV3OTN0eGFYN0Yxa1dnM3F6SGlIOWE4bGRWb3dXVW11RXZjQUt0UHpmbFVTUHVybzAxbF90VUlnOG9SUnc1SGppY0NrRm1hajlhVmN1NVk?oc=5",
+      "fuente": "Timeline.cl (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputados de oposición critican manejo de la reforma de seguridad apuntando a improvisación y riesgos constitucionales&nbsp;&nbsp;Timeline.cl",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-02T13:19:15+00:00"
+    },
+    {
+      "titulo": "Yáñez por plan para asesinar a alcalde White: “Si esto no es el punto de inflexión, ¿qué esperamos?” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT3ZhVWFhaUxzQnA4cjJienZkdWluUzVSTzg3elcwN0ZOaEUwZlBlNEwtZUk5WVRVaW1IMTJKZnJLeXh6U2lTcVBGVmxkajZ0RHh2SFU2U0FIeV9yLWRieGphdFc4Nnp3ajYyeWFqcnZpa2xZU21hUmkyMmlUbmRQNnNOVHI3b3liU2VoTy1pem1SWEtlVXpiOFZSM3ktcGhXSFB2N0kwbGd1dFlEcENN?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Yáñez por plan para asesinar a alcalde White: “Si esto no es el punto de inflexión, ¿qué esperamos?”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-02T13:18:40+00:00"
+    },
     {
       "titulo": "Tras amenazas de muerte: Alcaldes piden que presidente Kast visite a White - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzI1cm5xOWliZU9JeTdvOXh2czc0S1F0VEVMdm1XZTVBVEZrRXlORmQ4LWZRS3RzZkNJVF9JWWhOWUNMbXRNeWg3SWNfLWJ1ZFYzVlNCRkVRbkFSSlh0c25tekl1S2N5OUxEY2p6TUdtc3JjZ2xzTF83anQzZjM5SHlTQVZwWExDdmFKWUMtdHBBZjhfakdhRVkxVlpMb2RqdnA1Vks1cw?oc=5",
@@ -1097,6 +1153,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-01T20:38:58+00:00"
+    },
+    {
+      "titulo": "“El crimen organizado no puede ganar”: alcalde Cristopher White reaparece tras salir de la clínica - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTnlFYl95Rkl1dnNWR0JlTV9Cc3MwLXdBdWt0SUE5X2s1UmtFa18tZkx3RV8xZWlWdTZXNWdZVjk1eHRNdUJkTmJaT0JBWWVFZ0VtN01hcGlnTHlrZTdKQTVEUHFMdFpOWmdYcWZWSFhEcVFjUlZvQ0VpMDBKUVY5ajg2c1JlNFlyNXRtZE54cmxEZDk1OFEzMXQ1emtFMno0MHdfMEoxdnJIZUJSMzQ4SFlBcnNoc2F1elNkYjd30gHDAUFVX3lxTE5yYS12cndZQy1LakhhNlNpTDQzbzlScXJSdXR0aG9sZEVWMG9TLUVoWWtJb3o2RTc4UnpXcXdXZnVqNlY4bWlDMHNEVlpiY0ZfSjZHdXpZa3JSLXg1bHAzQ28tN0dHN2JHNjJBb1JVT0czd2l0a2UyWmNzMG5nUWxsd2JoYVZpRzktb3NuWUhMMVRpQ0tRa3kwQTdDZlNLeEpYUGdvVTc5WlozTmJpSy1WTkFFeExNd2lkU0hJZlFOVDFCVQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“El crimen organizado no puede ganar”: alcalde Cristopher White reaparece tras salir de la clínica&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-01T20:30:00+00:00"
     },
     {
       "titulo": "“Es una vergüenza para el Estado”: Alcalde Alessandri condena plan de atentado contra Cristopher White - CNN Chile",
@@ -5603,75 +5670,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-08-29T18:05:10+00:00"
-    },
-    {
-      "titulo": "Carmona emplaza a Kast por asistencia a Foro Madrid: \"Tiene que resguardar ser y parecer como jefe de Estado\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDJremwtRG1LMkRNN1YxZklWSVVKV21VZUhKWkZBUjBoRmRBNXVtZFZXRnU5MHNsUUd6bjR0aWVGbG1HQ3dSNTFrRm5CS2ZxZFJwbHBya25oLV9CM3NlLXpRTk1DX096WUc0cUdLWnRRMzRocEtqSnN2TjNXRnNzVEZsMkxuYlc2UlI5anlkUmJKQU9CaGJnWnhITzJ1U3RibnM4?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Carmona emplaza a Kast por asistencia a Foro Madrid: \"Tiene que resguardar ser y parecer como jefe de Estado\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-29T18:01:00+00:00"
-    },
-    {
-      "titulo": "Couso reitera críticas a la reforma: Permitiría espiar a periodistas y exiliar a disidentes",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/couso-reitera-criticas-a-la-reforma-permitiria-espiar-a-periodistas-y/2026-08-29/135247.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El abogado constitucionalista Javier Couso reiteró sus críticas a la reforma de seguridad que plantea el Ejecutivo con cambios en la Carta Magna y sostuvo que, de aprobarse, podría incluso permitir a los futuros Gobiernos a \"espiar y exiliar a disidentes\" políticos.\nEl experto ha sido uno de los principales críticos a la iniciativa en diferentes medios de comunicación, y sacó ronchas sacado roncha",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-08-29T17:52:47+00:00"
-    },
-    {
-      "titulo": "Daniel Manouchehri (PS): \"La megarreforma no se hizo cargo del desempleo del país\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWjNnVWljQllRcWo4TTR2YjQwU2lCdGVwWU5fbTZLNXFQSmZGZzl4M0l1QlpGLThXc3ItRnM2Y05QMVd6RldwclRTWmgzQm1uYkNtVU5xdW5NOHJPVk5jcDgtNmFpR0hnaDdWN2owaVJ5WGtGR3d0eElUYUhTWEVwb3BtTUU4ME54NWRrMnVETkMwYXluQmhrQkFxM2pwejlibDNLbUlBcHJCXzltMGpLRDJmV3hLZGc4aUFwSHdTMEd6aUd0eUJQNUhRSlo0cTdYLXZpWjlSeGhkN2hIZ0E?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Daniel Manouchehri (PS): \"La megarreforma no se hizo cargo del desempleo del país\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-29T17:40:36+00:00"
-    },
-    {
-      "titulo": "Jara emplaza a Kast por eventual participación en foro de Madrid: “Tiene que decidir si es Presidente de todos los chilenos” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbndzbmxFYVRCNk9aZ1V0WTB5RnpVZzlSVlFfTjRvNHBJaGd0NmtpWkdwNUU0ZVh0NG1FN2pNb2FDaGFDMVhWZ0ZQUnMwa2VlS2NNWndDZUJKY0l4RGVRMndIYzNfSXp4NXNJTERwSDFLWU4tTjFJaVZnRGtuT1J4RWlJWFhRVld1bHZRZjllUjhxVjE0S1owYzVqRjVOYTA1ZFhKcW9XNGlhRTE2dnFobk5LdlJ3bGJQOFJrM3VPZDNCRE9RVFVzbzFTZFN1MzBfRmpXdG80UTJoWVN5bHUtamd2TDFXb09PS2xaREdqWU8tS050T0R0ddIBmgJBVV95cUxPRnRuYUlBWHdoSDVfN3ZzWmg0LWxsTWI2MUNla01ELWhYV3p1eHpQUTZkSUVGLVk0SksyZzNIOHd2SG11TVVDLXRpNFFtTGFyWFE3eEtsQndqVk8wSVhDM1A3UEdnb3hRQndUMVRxelJmTWVaTHZwWUtiLU1uV2ZNRDZadW9lVkpPSUZaRWZFbzc1WXFlUHpSVE9lV2prOXpaOUpDTE4ycnNXZWNzbEppOTlOZHpuR0ZkOTRFMnpjUmE3cnQ1M1l0Qy1nX2dVMXFyVTI5SmJPZWFaMEhQUXpxZHZUcGxFSG8tMUdMS0FxdU5lZnhDMnF0SUNZTUUyVkZOSVVGYTJnek5pblU4WnB3X20yR0xnX3lwUUE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Jara emplaza a Kast por eventual participación en foro de Madrid: “Tiene que decidir si es Presidente de todos los chilenos”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-29T17:29:52+00:00"
-    },
-    {
-      "titulo": "(VIDEO) “Chile merece la verdad»: Manouchehri emplaza a Kast por presuntos vínculos de su entorno con Fernando Cerimedo",
-      "link": "https://www.elciudadano.com/reels/video-chile-merece-la-verdad-manouchehri-emplaza-a-kast-por-presuntos-vinculos-de-su-entorno-con-fernando-cerimedo/08/29/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl diputado Daniel Manouchehri solicita explicaciones públicas al Presidente José Antonio Kast sobre posibles conexiones de su entorno político con Fernando Cerimedo, conocido por su participación en estrategias digitales controvertidas. Se señala a Cerimedo por su asociación con operaciones comunicacionales, incluidas cuentas falsas y redes de &#8216;trolls&#8217; relacionadas con la",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-08-29T16:30:08+00:00"
-    },
-    {
-      "titulo": "Bancada RN presenta proyecto para ampliar uso de IMSI Catcher para interceptar comunicaciones en casos excepcionales - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN3Y0eUIyQTBvdVFnOEI0NnZZTk9vYnhxTVVxWGdkVUotdUxrMUdiaUtmX083aDNaNnFUTnhvWkRocjc3c241NURDaDl3Y2g5eVlqemphSjJzaDA5R0RsQ1FNNmVNQnFzQndJNWQ0S19PUEstcDkzeml4TUtpc3hyaklRVzJhN0YyUXc3R29Dbkd6VnJFMFNlbGhEUHB5Z1dnQkVieDlCY3NRbUp4VUlGYmwzRlAzQXpHVGtfeERONnNLN0kxOG50OFlRS2FHbF9PSlFXdnYtQjhLRnZuZi1LUVhrZFpfX2RUNVJtTk05bUpwZ9IBkwJBVV95cUxPTDBfU2ZFU3hCS1dsN2RTY1M5Qy1UU0ZqdDB0aUEyUUkxdlNRclNNUzVlUGlEXzhJVm9jT0RsejdqTm1DWE9SLVlvMGV5bkJNTGdISGlBX2Q0VnY5NVh5OGtsbUN2ZG9UT1NQd2xBdmxsbUlJT0dURElCTnc5WmRUbDVJYXZGUG1VVlFCOHJfLUZrTnZXYXd2V05OaDlFbkhieGgwXzZKR2pSa0JVTjF2X1FNN0lYT21IVEktQmFudkZtbldVMFRNd0dRSnZ3c1ZxTkxiRlZ6ZVVIOHQzbUxkdklhSmpNeHVSNHg4dFBESGIzTnFkc3kwSXZ0OHdrV3lENG10blROUFh5aExZWVJpU3RxSQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bancada RN presenta proyecto para ampliar uso de IMSI Catcher para interceptar comunicaciones en casos excepcionales&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-08-29T16:09:20+00:00"
     }
   ]
 }
