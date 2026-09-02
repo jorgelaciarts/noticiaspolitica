@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T19:01:43.607402+00:00",
+  "actualizado": "2026-09-02T19:16:50.072988+00:00",
   "total": 500,
   "items": [
     {
@@ -51,6 +51,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-02T18:20:46+00:00"
+    },
+    {
+      "titulo": "Camilo Escalona está hospitalizado, fuera de riesgo vital",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/camilo-escalona-esta-hospitalizado-fuera-de-riesgo-vital/2026-09-02/142039.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Camilo Escalona, secretario general del Partido Socialista y expresidente del Senado, se mantiene bajo un intenso tratamiento en el marco de su tratamiento por el agresivo cáncer de próstata que padece, aunque está fuera de riesgo vital.\nFuentes de la colectividad confirmaron a 24 Horas que el dirigente ha sido sometido a coma inducido. Y tras visitar a Escalona este miércoles, la senadora y timon",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-02T18:20:39+00:00"
     },
     {
       "titulo": "Kast evita cruce con Jara, pero le recuerda su triunfo: \"Más de 7 millones contra 5 millones\" - BioBioChile",
@@ -5663,17 +5675,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-30T19:15:10+00:00"
-    },
-    {
-      "titulo": "Aprobación del Presidente Kast baja al 33% y desaprobación alcanza al 55% en nueva edición de la Encuesta Criteria - latribuna.cl",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRnBISHh6alVrSnZqLVM4emd0M1RYa2s1SGRhOVNyaUJmNU82TEhFWFBnSno2VFhRVmlfQThqTUUzTmlKcFJ6R2c2dXhZVXJNMDUzSzJxeXF3c0J1czdzRFhyNEU5VnJiQkRTMmx0a3diUi1taFRNdkJaN054X095cWZDSmo2OXNlQlFfYm1SdnNLRXh3SFhadHV3YlMxdVo0X2VldFR3UDRwTk1wX21xMEdKd05BYnhRNjlORGNuUUoxY20xVTFHdDlRMi1kNnJPanlLU1dHVFVOYVRpamR3ek1ZYzc3QVUzX3hJS29fTGlSSHNs0gH8AUFVX3lxTE8tUWYyUHM1cGpWaW1nMHFCZ2pBZUFGOEplREhJbW4ycHN6VnI4cWt3TFNpeWtmOUl6dzJEbXdqX0hGYjNGLVM1TjFBd1VBeVZJeGNrSEZaNHl2c0tnWmk5NEt6VmJHZHJGVVdjdEdEUkZ5WE52N1NVQzhXbnFTcEJQTE5IazdlSXplRGQyOFNsYW93N3RBXy01SmpaOEUxamNCeG1tU19vWkFYX2hyQklVVVlMNnVUSFpKZDNtaDhwSDNxdFFLMU5RamRvZmNhQTNRQUE2MDh6czNRemVIZnNNLXRkbC1JTHJmSXQwSHp4MVN0em5jSkNCU0VTZQ?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Aprobación del Presidente Kast baja al 33% y desaprobación alcanza al 55% en nueva edición de la Encuesta Criteria&nbsp;&nbsp;latribuna.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-30T19:15:00+00:00"
     }
   ]
 }
