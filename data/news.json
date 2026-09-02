@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-02T09:46:42.730328+00:00",
+  "actualizado": "2026-09-02T10:01:39.945333+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Prevén crecimiento bajo 1% tras Imacec de julio / Diputados ofician a organismos del Estado por denuncia contra miembros del GAP - ellibero.cl",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOYmM4djBwdGdlVUo2bXdVVVNxOERKNThjTGRXejhTNVNBZHRlOEtfVlpldDV1NHdfU2FqMFJEWWZlbXZnQ1NpMm5MSzNKMEhCVGo4Um4yaUdRUHdVMVd2T09RWko1V2d3b1psWWF6bmN3T3RpN2ZnSHBreDQxdXlBQzlXR1ZFZUtMSmwyQnQ0bTBEMmNBQUlmR1kwX09LZjlkYy1ESWtuQ2hXVUxwYTVPVm1OZ2g4Ul9BemFWSkdSQlVuTmdTdkY0cmZRNmRsMDBWcDcwWW1nNEtEU0ZQbkFXU0NtVjIzVmdodmdJTkY0cERORW5Yd1IteXBSamwyUG1DX19WSnYwVQ?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Prevén crecimiento bajo 1% tras Imacec de julio / Diputados ofician a organismos del Estado por denuncia contra miembros del GAP&nbsp;&nbsp;ellibero.cl",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-02T09:57:12+00:00"
+    },
+    {
+      "titulo": "Biobío: Gore reúne al ecosistema universitario para reformular modelo productivo - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdk5QdDBCNks4ZGhwN1NNTGVoM0JWT1BzTVpoSm9ZRWxOamwxcTVhN3RRMFQwdVFWQ3RzbWptVDBzVmd6eV82Q3FKNU9EMmZYR2ZndWR4eWI0eUZVTWgzcW1ZWFFhazJicWUyZno4Q0Z4WUdtSTlpMXlxdFRXTG5xRHpST0tZejBPcFZUZQ?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Biobío: Gore reúne al ecosistema universitario para reformular modelo productivo&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-09-02T09:37:25+00:00"
+    },
     {
       "titulo": "Senadores exigen firma de derogación de decreto argentino sobre Magallanes previo a bilateral - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNTV0NEw4QjlkeS1Cc3dZWlliUTE4MkZsUWJjT1gzeWhuNHF3d3hwN1BBX3FuV1hPUkhPTXgxSzRWY1NiVXIwYTVzWmExUkVsZVFCZVZBTVhSdWVUa0d2cGdNTlF0bENHTGdnNksxa09CZTZEUkVjeV9NQ2p4VTJ2TjVXMko1NXZ0R2VPeHJ6Ry1WZDhNbi13d3BrdGRHei0weGZjS004bFZUVUF0YXBpcEZWLXR0QXVhRFFQQU9RcWFKNTlhVVlGaDctUUtpYzBUZXg0MlhuUlBESVRzaFpMRXNOMTUyRGgtMW0tcnhyLWgteEE?oc=5",
@@ -5652,28 +5674,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-29T04:17:49+00:00"
-    },
-    {
-      "titulo": "Servel analiza el nuevo mapa electoral tras histórico ciclo de 16 elecciones en Chile - tiempo21.cl",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbld1WnV0dkxZaG1xWGhnSThOSEFtdjhORVo3MDQyUWZxclBhVHRIXy1qOGNnMWlXT013NEtUU1U2eU5XUlJ5NmRFemhCcnROcjZGUnFIeUJBWG1QajFJUU9qaUI1ZzgxVUlPYnZlaUdUYUtwSnl4aTY4RE45ZXc3anFfRkZrSU1uYUJYUHNUdlp6b1BmdGx3TkNQc2hocTZudGNPT2Vnem5QTW1KcndF?oc=5",
-      "fuente": "Tiempo21 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel analiza el nuevo mapa electoral tras histórico ciclo de 16 elecciones en Chile&nbsp;&nbsp;tiempo21.cl",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-08-29T02:51:47+00:00"
-    },
-    {
-      "titulo": "\"Dejen de engañar y faltar a la verdad\": Diputado exige respuestas por proyecto del Centro Oncológico de Aysén - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNY3VyNFljbXBicm5HbDAzamlETWRualJYS05BZ3lCWjdjampKUVZCMUVzZC01Tmp5TVJGYS1hYkpFRDE1ZHRfNzlaMGF3RmdCaUFqb0NvZzNKODdTRDc4UEdlQUtfRVQzNDVwd1QxdkNzb2FIQ28xZkxsRWFNUy1oN1oyamRjbE8wcnI4dmhISEQ1aTdpZ0xYektKbmlUSTgzaFNaQ3RoSThHVUpnRkY3MUJtSEhRWmphbndNclRaLUFIRWVkcmpfcU4xWHdXcElWV3dkTDBkM0NKZGN3Z2FucnlrQ0Q1Z3R5emlzdnJjcEs1dDdFRFdGd0NZMXI?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "\"Dejen de engañar y faltar a la verdad\": Diputado exige respuestas por proyecto del Centro Oncológico de Aysén&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-08-29T02:04:17+00:00"
     }
   ]
 }
