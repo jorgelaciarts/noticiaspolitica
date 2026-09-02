@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-02T11:01:47.137508+00:00",
+  "actualizado": "2026-09-02T11:16:37.005243+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast encabeza gabinete regional tras llegar caminando y sacándose fotos con vecinos",
+      "link": "https://laprensaaustral.cl/2026/09/02/kast-encabeza-gabinete-regional-tras-llegar-caminando-y-sacandose-fotos-con-vecinos/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Caminando por la Plaza Muñoz Gamero, acompañado de su asesora María Paz Fadel y el jefe de Contenido de la Presidencia, Cristián Valenzuela, llegó hasta la Delegación Presidencial Regional el Presidente José Antonio Kast Rist, quien se dio el tiempo de sacarse fotos con algunos jóvenes que lo aguardaban en una esquina de la Plaza....",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-02T11:02:59+00:00"
+    },
     {
       "titulo": "“Nos vamos con tareas y volveremos con respuestas”:  delegado Liber Lazo se ‘camisetea’ con Puerto Edén",
       "link": "https://laprensaaustral.cl/2026/09/02/nos-vamos-con-tareas-y-volveremos-con-respuestas-delegado-liber-lazo-se-camisetea-con-puerto-eden/",
@@ -79,6 +91,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T09:10:09+00:00"
+    },
+    {
+      "titulo": "Ex presidente del Consejo de Seguridad de la ONU: \"Aunque la apoyara Kast, Bachelet no tiene la imparcialidad que requieren las Naciones Unidas\" - ellibero.cl",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNLWlubUhoYkNPOEJhZFZERk45Vi03T1FhZFNFN2pJWW51ajdlWjE5NTZxM0hMaV9TQnFSczhLYWxIaGdZT1ZVRFRTOHNnVm1YZ3h0RzhRUHhjc2dpSUZ2UjhsQ2NpTWpWMkZJX1Ixc21ZaGtIeHY0cUd6OWJDZk5zRXNSaVZBMzVMbl9PQV9pQWVhbzNLbk1DakV4WUdIRTZBcW8ybVZ5RjU0LUI5b1dENE5YMWNnN3pzU1NOODBmR25CaTBUMkViMFUyQzU5NUZfYUVFbkh0R045eUs1dk5sWkI2UG56dXV3NG9pcUJxUQ?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ex presidente del Consejo de Seguridad de la ONU: \"Aunque la apoyara Kast, Bachelet no tiene la imparcialidad que requieren las Naciones Unidas\"&nbsp;&nbsp;ellibero.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-02T08:50:00+00:00"
     },
     {
       "titulo": "Más allá de la metodología: la pobreza estructural en tiempos de Kast",
@@ -5652,29 +5675,6 @@
         "Diputados"
       ],
       "fecha": "2026-08-29T11:58:45+00:00"
-    },
-    {
-      "titulo": "“La gente que hoy empieza a postular seguramente su casa  no va a estar antes de los próximos cuatro o cinco años”",
-      "link": "https://laprensaaustral.cl/2026/08/29/la-gente-que-hoy-empieza-a-postular-seguramente-su-casa-no-va-a-estar-antes-de-los-proximos-cuatro-o-cinco-anos/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Siguen las repercusiones políticas en torno a la decisión del alcalde de Punta Arenas, Claudio Radonich, de reabrir la Entidad Patrocinante Municipal para ordenar la demanda habitacional que existe en la capital regional. Uno de los que salió a apoyar la medida, pero con matices, fue el consejero regional y exalcalde de Punta Arenas, Juan...",
-      "categorias": [
-        "Alcaldes",
-        "Consejeros regionales"
-      ],
-      "fecha": "2026-08-29T11:15:57+00:00"
-    },
-    {
-      "titulo": "Amistad y rivalidades en la era del municipalismo: Los círculos de confianza de los alcaldes de la RM más allá de la ideología - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3JjclRHMVM2c2p6Vl9Xb0pkdDRaUll5T0xOMGtuWjhWNGcwTHRuMjJidEFDMTR5bFFCd3dobXFlNlpoVFBkejNWUmRtN3NlNWg4UTVyZ28ybTlqWnpfcjI0bzFfSFF0SURJTUhQV2FEY3lmMEUzZ3dfUTdBZElRS2NqR3o5V0duR2xZS2k5Vy00SXRVbnlsQTM0UW1DeE1WZGZLS0JxeXE?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Amistad y rivalidades en la era del municipalismo: Los círculos de confianza de los alcaldes de la RM más allá de la ideología&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-08-29T11:03:00+00:00"
     }
   ]
 }
