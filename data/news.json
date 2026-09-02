@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-02T17:16:42.977833+00:00",
+  "actualizado": "2026-09-02T17:31:40.070250+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El delicado estado de salud de Camilo Escalona: permanece en coma inducido, pero cercanos descartan riesgo vital",
+      "link": "https://www.theclinic.cl/2026/09/02/el-delicado-estado-de-salud-de-camilo-escalona-permanece-en-coma-inducido-pero-cercanos-descartan-riesgo-vital/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El histórico dirigente socialista, diagnosticado con cáncer de próstata en abril pasado, se encuentra internado y fue sometido a un coma inducido como parte de sus tratamientos médicos. Paulina Vodanovic aseguró que atraviesa una situación delicada y que el PS se mantiene acompañándolo, mientras desde su círculo cercano informaron que su estado de salud está mejorando y descartaron que se encuentr",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-02T17:25:21+00:00"
+    },
+    {
+      "titulo": "Kast dice que no le exigirá a Milei firmar la derogación del decreto “porque los tratados establecen la soberanía de Chile sobre Magallanes” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNaXUxdE92QVV5Y0hmZFF2Qnk2OFZrcGhyVTRzMERuNW1mMERTV0FuTkV0eWFGMk1Qel9Yc1VUYjlUbzluRUpUMUpFYXZMRTFDd3hLOFVtdDdoQkhjX2ZfaW1ab05ISExiMGhxRUpEVjA4X1lCS2VVbTNIVFhVdVlVcHpSdHhIZUhYZUFOaGhESlMtQWpRNHJxVlhtcDBYTTZtNVdKWHk0OUl2Y0lZYWhHZ000a3pnbDFraDNHbHJqdHpaaTlFVFB1b2hfWUV3LTh4SEtxRHNjcWdDYzFlazFSaWRXTm9iOFM2ZWhOMTZfQUtrd0lEQnRpZlgyTlFMMF92UlBTbGJ3aGVvZGRpS3Mw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast dice que no le exigirá a Milei firmar la derogación del decreto “porque los tratados establecen la soberanía de Chile sobre Magallanes”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-02T17:15:14+00:00"
+    },
     {
       "titulo": "Aciertos, dudas y una sospecha. La carta de los dos alcaldes",
       "link": "https://www.elciudadano.com/chile/aciertos-dudas-y-una-sospecha-la-carta-de-los-dos-alcaldes/09/02/",
@@ -1113,6 +1135,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-02T01:53:04+00:00"
+    },
+    {
+      "titulo": "Diputados oficialistas piden a Kast abordar con Milei decreto que califica al Estrecho de Magallanes como “espacio compartido” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONXhhT2hLeHBYdXpHb0pyck5HNm9SaEtrSjdPY0hXTF9saWNid1JMazdLOVNqaXNsRi1iWkhxZE9nRXpnUEdXaEQ2a0xaNHFPcEQ2UnEyMHVXUS1yRWtqdGNDRTZFVnNEYWQycDg0OFhPRHVpdjhVcVNOb1AxVWM2TGZfcndoSk96UWMta19SZjdNRnNsbUtRVjltRnNfb2ZUQ3d6S1Q0ZGdfdXVDLUtHSEcyM2U4cl9fVmJwNFNtcDVEb2Z2SldHTW1xNHFJbFdpWHdhMThsN2RUYkVlM1ZtSER3X2tpeFNQMS1BNnpCU29yWkhUS2xqaWo4bnHSAZ4CQVVfeXFMTmhaVUNRN2JsUGtFYXJKMjFqRVdoOUVxZXBseXVnaXRWOXBzMVVOZzVUWE1ZaTNiRUZHN1VjYmN1c2NUS0Q4ODVjTVVVb1BXc0VIcHVxLWcxTUlEVVVQNUNUdFVnUTMwZjFnbDJsNFc5T2tYYllkM1BXRC1NamNadS1VdHpzaFVPR2xxbFktazEtaWw3ZHRnOV9JN0dXcEhuVU5oX0luV2MtdnBJV1RWc1E3OTNmdE95bzZwS2VTbVAwcndYcmhvWEtQVkEwTTJNcmlEU3FaaEd2SWxUY2FrZUV4WUQ4aVY2TzZlRXNIRUxEVV84NWxzT0hGU2hmWHZQNnpIaXFpcXI1MGtjUGc0aHFmcFU4WDhDWmFrTHNVdw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputados oficialistas piden a Kast abordar con Milei decreto que califica al Estrecho de Magallanes como “espacio compartido”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-02T01:49:15+00:00"
     },
     {
       "titulo": "Tribunal acoge recurso de amparo de senadora Camila Flores y ordena limitar información de dispositivos incautados - cnnchile.com",
@@ -5638,39 +5672,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-30T15:14:20+00:00"
-    },
-    {
-      "titulo": "Pulso Ciudadano: un 54,4% desaprueba la gestión de Presidente Kast - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSGFQZ2VvZ0drcmFfWFJ5X050ZXVDUF9waEotMldVako1TmJIYTNzVUlKTmpvdjNNRlVZeGxhYnU3T3o0WkhJc2FmZUktMFJMTFE0SjJZejJ4aGUzWndxUmJNWTVpQnJxYnN4emdMbGhiZXFwdTAyLUlOWGRGejBRay10bWszQkNlRWd6U1hFX2k0ZzEyLTdxb2pLTnktb0hZLXNLZWhTUmlJZDRDU3BoMQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Pulso Ciudadano: un 54,4% desaprueba la gestión de Presidente Kast&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-30T15:08:15+00:00"
-    },
-    {
-      "titulo": "Criteria: Aprobación del Presidente Kast cae al 33%; desaprobación sube al 55% - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOenlGbzVkdGY2RGt2eFBXWlZBbklQUEVNaDlGa0hiVEVpR01OTDVNS2Ezb3cwaElYVENvUmNJcVhtT2x5ZmFXV3B3Q05BSmtPV1pXQ0VfMm1oMzlMc3RLb1E0TG85clZ6WWRyY2VKTzBXa1A2dFNoR3dlQnhUSEpzRHhFY0lrX3cxMmIyRG1kcktiYjBGNmNJRWE0N2xMRjVqTW94Um1MZ1l6NjNOQlQwRmc1VUVkTTh0Sy00NXM4V3FoQQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: Aprobación del Presidente Kast cae al 33%; desaprobación sube al 55%&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-30T15:00:00+00:00"
-    },
-    {
-      "titulo": "Criteria: Aprobación del Presidente Kast cae al 33%; desaprobación sube al 55% - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbjhnSmdwVXRfZ29vZmlVWnJYVG9ObXBoall6WnI3bzl0bHk3eU5BeWdwcTVqSFQwRjRXRXdTMXZvSEtHdHpmM3JFUUlVUkNTeElXalhPQTU4anZsU3RHYXRnLUdJM24wdEQyRW04cmdZTVJxZlRhUk9iT1ZwNnpsYWN4a3FmREk0R3ByVVVNeXI1TTNfRk52dndtOUJRN0NfTWdyZlBQN0hlR3VXc2pHQUJteVNkQmotYm4zYQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: Aprobación del Presidente Kast cae al 33%; desaprobación sube al 55%&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-30T15:00:00+00:00"
     }
   ]
 }
