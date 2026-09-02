@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-02T20:08:36.573317+00:00",
+  "actualizado": "2026-09-02T20:16:38.222546+00:00",
   "total": 500,
   "items": [
     {
@@ -684,6 +684,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-02T14:59:37+00:00"
+    },
+    {
+      "titulo": "Ahora sí: Cámara de Diputados aprueba creación de Comisión Investigadora de Caso Fernando Cerimedo - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNW9GN3A3YTFJNHhKYWh5R3NaWmIzZEpiX25YWThBcmU0cDVKTGtEM3Q0VkJMN29oYkVRdmFvSmpwQkV2WHZ4aWFaWmRvcjRsdS00emdTTXhpOGUzTkFSYVZueHBjd2tRbEhYMWpEQWlTYzhBTWpYOWxHbVlqT1VwWVh0VTg4cXZ5UUFuZHRFWTBJd0Q4ZnVBYUlKWUlqdVNBV3gzMWpWWi02dWdxbkd4S1Y5U1ptVWdpcy1zdTQ2ZlZjcXVtUjI2a0k0dlZNdDQ?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ahora sí: Cámara de Diputados aprueba creación de Comisión Investigadora de Caso Fernando Cerimedo&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-02T14:59:00+00:00"
     },
     {
       "titulo": "Christopher White: quién es el alcalde de San Bernardo y por qué planearon asesinarlo - elnortero.cl",
@@ -5665,17 +5676,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-08-30T21:17:24+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Lo que la TV de Chile no quiere decir de Cerimedo explicado por Bruno en Rojo",
-      "link": "https://www.elciudadano.com/reels/video-lo-que-la-tv-de-chile-no-quiere-decir-de-cerimedo-explicado-por-bruno-en-rojo/08/30/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nAnálisis detallado de la relación entre Cerimedo, la política chilena y la presencia de estrategias de bots en redes sociales, con enfoque especial en figuras como Kast. Revelaciones de temas omitidos por los principales medios, presentadas de manera accesible y crítica por el analista Bruno en Rojo.\nLa entrada (VIDEO) Lo que la TV de Chile no quiere decir de Cerimedo explicado por Br",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-30T21:15:10+00:00"
     }
   ]
 }
