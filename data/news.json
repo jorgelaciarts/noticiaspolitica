@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-03T11:16:43.074881+00:00",
+  "actualizado": "2026-09-03T11:31:49.489465+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast destaca aporte de La Prensa Austral en Magallanes al recibir suplemento por sus 85 años",
+      "link": "https://laprensaaustral.cl/2026/09/03/presidente-kast-destaca-aporte-de-la-prensa-austral-en-magallanes-al-recibir-suplemento-por-sus-85-anos/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "“Esto es hacer patria, porque sacar adelante medios locales no es fácil”, así se refirió un sorprendido Presidente José Antonio Kast al recibir de manos de un periodista de esta redacción el suplemento aniversario que circuló el pasado 25 de agosto, con motivo del aniversario 85 de La Prensa Austral. El momento ocurrió durante la...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-03T11:24:21+00:00"
+    },
     {
       "titulo": "Primer encuentro bilateral en Chile: Kast se reúne este jueves con Milei en La Moneda - 24horas",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQkl0bGQyeHlpZWQ4SmtLVFIwbDhGdkt2THd6N0ZweHhpaWpiQnJRUExySDVBbzRKZXo3QUs0cWlzc3djM0NPdWxGeHljbXBHZFZLTUZRVk5aOUtLek1jdGJLM2xpcmtEWEdBeFBjc0JlN3NkS2RQeU1jZU5aS1FkMkxaemZNMHZPMnBvLW1Na0FGNUdYMmfSAZsBQVVfeXFMT2RUYjA3YWM3Z2tnX254ZjFSOW5rMDJDbFFrOVdRbDBZWExvakprVGF6dWs0YlJYdldIMkNmRlVZRDZ4VmZ1MFRXU3lPVnJYZWhCTFc3aVA2Ylc5QVR6LThCZXJVcmF6R0ZtVzZYTnNWTEZpNzRmZndFbk5SajdEUHlZUjB2bWVNLVd0WmVHRzhBbnFCMUlxTjVBcHM?oc=5",
@@ -5654,17 +5666,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-31T15:28:00+00:00"
-    },
-    {
-      "titulo": "Kast bajo presión en seguridad: 42% acusa improvisación y 49% rechaza estado de excepción",
-      "link": "https://www.elciudadano.com/politica/kast-bajo-presion-en-seguridad-42-acusa-improvisacion-y-49-rechaza-estado-de-excepcion/08/31/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa propuesta de crear un nuevo estado de excepción constitucional, por hasta 240 días y que incluya medidas extraordinarias como restringir la libertad de desplazamiento y el derecho de reunión, interceptar o registrar comunicaciones y requisar determinados bienes, es rechazada por un 49% de los consultados por la más reciente Encuesta Criteria.\nLa entrada Kast bajo presión en segurid",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-31T15:26:19+00:00"
     }
   ]
 }
