@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-03T04:31:44.074165+00:00",
+  "actualizado": "2026-09-03T04:46:39.080305+00:00",
   "total": 500,
   "items": [
     {
@@ -24,6 +24,20 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-09-03T04:20:35+00:00"
+    },
+    {
+      "titulo": "En tono de despedida, Boric y dirigentes políticos visitan a Camilo Escalona",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/en-tono-de-despedida-boric-y-dirigentes-politicos-visitan-a-camilo/2026-09-03/000826.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El expresidente Gabriel Boric (2022-2026), junto a directivas de diversos partidos políticos —incluyendo a la mesa del Partido Socialista (PS) y de la Democracia Cristiana (DC)—, acudió este miércoles a la Clínica Indisa, centro médico del sector oriente de la capital donde permanece internado Camilo Escalona, secretario general del PS y expresidente del Senado, producto de complicaciones asociada",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-03T04:08:26+00:00"
     },
     {
       "titulo": "Alfredo Moreno, exministro de RR.EE., por participación del Presidente Kast en el Foro Madrid: “Si yo fuera el canciller, preferiría que no fuera” - CNN Chile",
@@ -5650,17 +5664,6 @@
         "Presidente"
       ],
       "fecha": "2026-08-31T14:20:00+00:00"
-    },
-    {
-      "titulo": "“No es renunciable”: Presidente Kast defiende estado de excepción de la reforma de seguridad - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUtNbkN1Wm5iZi1oTy1vbzlUdl9DalgtZERVOEFFZEUzaWFuNE5KNVFNUTVqMm90SkI2RHZPTzY5WUdFTENJTHE1VUtiWE9wRVlETXpUV3FyckNiUzcyQWhvTGthSHpHN0RvaVBHMXc5V2g1Tm9nOGI4VWhVRVZIUUhHYWJGZmZLNC1mMWp1aFl0a29UdWx1cnk5VFdSbDM4Y1Y4bGU2THNFWTM4dm5zemtkVXVTYVpWSjZVVWxIYW1JOGs?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“No es renunciable”: Presidente Kast defiende estado de excepción de la reforma de seguridad&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-08-31T14:08:40+00:00"
     }
   ]
 }
