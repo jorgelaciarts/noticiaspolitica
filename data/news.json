@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-03T20:31:45.905055+00:00",
+  "actualizado": "2026-09-03T20:40:31.608886+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presión por demora en sumarios no cede hacia municipalidad de Chillán",
+      "link": "https://ladiscusion.cl/presion-por-demora-en-sumarios-no-cede-hacia-municipalidad-de-chillan/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Un nuevo emplazamiento realizaron los concejales a la municipalidad de Chillán respecto al estado de avance los sumarios administrativos a funcionarios de los distintos departamentos, los que aún no han sido resueltos en su integridad. En el concejo municipal, persiste la critica a la lentitud en las investigaciones que se acumularían entre 2021 y 2025, [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-03T20:38:17+00:00"
+    },
+    {
+      "titulo": "Partido Socialista pide al Gobierno rechazar dichos de Milei sobre Allende: \"Existe un límite que ninguna democracia debe relativizar\" - 24horas.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlF2cFFJMjNKRWswelJTbFNPVDBWOFBNUkpoX1NLdWtZdVFSQTNSd2xJMFdTRDE0OTZWSmNjRTNkZHpfQUhITEJ3WlFMN2NzY2twN2t3b3VUTzlPM09SOGlyVnBud1JBM2szTU1PMkVRS096SHBPcWdXYW1SX0c5SnNhdHI1blozd3ZteEZ0czRJejQ1QXhrTURpTnlyRm81ME5hTkVIckJnLW4zaFV0RF9xTGdnU2lT0gG-AUFVX3lxTE9yMmNJTFBfOXpwMnZ6OUVsWWpydVNhWUhnYjFfZ1dBLW92ZHNCaTZZNTZXNGxQWVlEVHFFbHVobHg4RDM5Z29DWUZNd19qaFFObHlZdnNxbFVsb0kzd00xLVhRckhjYVZMVWdFaDZ6NWFPS0ZNdXFGd0l3UVhQTU5NZ0hMenU0bjgtMUdtcmdOeEM2eHpfWnhoRDExSDU2OHd0N0h1VXBxdHZnT1JreDYzQzdaYnMybXhDLUxycXc?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Partido Socialista pide al Gobierno rechazar dichos de Milei sobre Allende: \"Existe un límite que ninguna democracia debe relativizar\"&nbsp;&nbsp;24horas.cl",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-03T20:29:00+00:00"
+    },
     {
       "titulo": "Diputado Cristián Tapia acude a Contraloría y exige fiscalizar situación de Ruta 5 Norte entre Vallenar y La Serena tras graves accidentes",
       "link": "https://www.elciudadano.com/chile/diputado-cristian-tapia-recurre-a-contraloria-y-exige-fiscalizar-situacion-de-ruta-5-norte-entre-vallenar-y-la-serena-tras-graves-accidentes/09/03/",
@@ -5650,29 +5673,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-01T11:46:35+00:00"
-    },
-    {
-      "titulo": "Entidad Patrocinante Municipal espera definiciones  del Ministerio de Vivienda para avanzar en procesos",
-      "link": "https://laprensaaustral.cl/2026/09/01/entidad-patrocinante-municipal-espera-definiciones-del-ministerio-de-vivienda-para-avanzar-en-procesos/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "La Municipalidad de Punta Arenas retomará el funcionamiento de su Entidad Patrocinante Municipal (EPM), con el objetivo de acompañar a los grupos de vivienda que buscan avanzar en sus proyectos habitacionales y que actualmente enfrentan dificultades para concretar sus postulaciones. El tema fue abordado durante la sesión de este lunes del Concejo Municipal, donde el...",
-      "categorias": [
-        "Concejales",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-01T11:31:24+00:00"
-    },
-    {
-      "titulo": "Alertan por mal estado del Parque de los Dinosaurios  y el municipio cerrará su sector más peligroso",
-      "link": "https://laprensaaustral.cl/2026/09/01/alertan-por-mal-estado-del-parque-de-los-dinosaurios-y-el-municipio-cerrara-su-sector-mas-peligroso/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "La concejala Marcela Leichtle advirtió en la última sesión del Concejo Municipal sobre el mal estado del Parque de los Dinosaurios, en la costanera norte de Punta Arenas, y desde el municipio anunciaron que cerrarán su sector más peligroso ante el riesgo de accidentes, mientras la reposición completa del recinto continúa a la espera de...",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-09-01T11:31:06+00:00"
     }
   ]
 }
