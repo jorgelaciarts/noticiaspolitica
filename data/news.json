@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-04T11:31:46.619409+00:00",
+  "actualizado": "2026-09-04T11:46:41.106878+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast en el Foro Madrid: “Los chilenos no  me eligieron para derrotar a la izquierda”",
+      "link": "https://laprensaaustral.cl/2026/09/04/kast-en-el-foro-madrid-los-chilenos-no-me-eligieron-para-derrotar-a-la-izquierda/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Presidente José Antonio Kast encabezó la clausura de la jornada inaugural del encuentro regional del Foro de Madrid, cumbre internacional de grupos de derecha radical que ayudó a fundar celebrada en Las Condes y que contó, además, con la participación del Mandatario argentino, Javier Milei. Durante su alocución —un discurso más bien sobrio, centrado...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-04T11:41:03+00:00"
+    },
     {
       "titulo": "Ministro Poduje confirma destitución de Jacqueline Lleucún  por “faltas graves a la probidad” y profesional acusa maltrato",
       "link": "https://laprensaaustral.cl/2026/09/04/ministro-poduje-confirma-destitucion-de-jacqueline-lleucun-por-faltas-graves-a-la-probidad-y-profesional-acusa-maltrato/",
@@ -5658,18 +5670,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-01T21:12:06+00:00"
-    },
-    {
-      "titulo": "Presidente Kast visitó obras del Tren Alameda- Melipilla",
-      "link": "https://www.lanacion.cl/presidente-kast-visito-obras-del-tren-alameda-melipilla/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast visitó las obras del Tren Alameda–Melipilla, que busca fortalecer la conectividad del sector surponiente de la Región Metropolitana, beneficiando a más de 1,7 millones de personas.Durante la actividad, el Mandatario recorrió las obras y conoció en terreno el estado de avance del proyecto. Actualmente alcanza un 30% de ejecución y [&#8230;]\nThe post Presidente Kast v",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-01T21:01:34+00:00"
     }
   ]
 }
