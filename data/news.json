@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T16:01:46.624020+00:00",
+  "actualizado": "2026-09-04T16:16:43.938504+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,19 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-04T16:01:27+00:00"
+    },
+    {
+      "titulo": "Monckeberg: apoyo a Argentina por las Malvinas deja a Chile en una situación \"compleja\"",
+      "link": "https://www.cooperativa.cl/noticias/mundo/argentina/relaciones-exteriores/monckeberg-apoyo-a-argentina-por-las-malvinas-deja-a-chile-en-una/2026-09-04/114818.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El exministro Cristián Monckeberg (RN) advirtió en El Primer Café que el respaldo de Chile al reclamo argentino sobre las islas Malvinas deja al país en una situación internacional \"compleja\", pese al reconocimiento explícito de la soberanía chilena sobre el Estrecho de Magallanes.\nEl tema fue incluido en la declaración conjunta suscrita por los presidentes José Antonio Kast y Javier Milei, en la ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-04T15:48:18+00:00"
     },
     {
       "titulo": "Eyzaguirre: Milei vino a Chile a \"vendernos el lenguaje de la Guerra Fría\"",
@@ -5661,17 +5674,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-01T23:01:49+00:00"
-    },
-    {
-      "titulo": "Hassler por Kast en Foro Madrid: “Los chilenos no eligieron a una persona para que se dedique a articular a la ultraderecha a nivel mundial” - 24horas.cl",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckMzVDJKZTRVOWFwYTJ1VUJTRmsyN0J5UVJDMUdadDZHb2pEWFgxakItZkhwdGZOdm0wbTVIZVVDckE2cGxMUDM1cThMb1pVbmlWWC1HMW84Q0ZoTnJzbjVqd3JuLVMyX2dKd21zSmhBZU9IT3NqeTVFMFh5VWhCVlR6LVpSRkRuRzVxdFhRSWR6NWI5b05IaXhQS29vdEgtVDJ5TFd1TjZpRmw3TEpmV21B?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Hassler por Kast en Foro Madrid: “Los chilenos no eligieron a una persona para que se dedique a articular a la ultraderecha a nivel mundial”&nbsp;&nbsp;24horas.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-01T23:00:00+00:00"
     }
   ]
 }
