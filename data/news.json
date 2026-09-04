@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T19:31:47.438958+00:00",
+  "actualizado": "2026-09-04T19:46:47.099945+00:00",
   "total": 500,
   "items": [
     {
@@ -36,6 +36,20 @@
         "Elecciones"
       ],
       "fecha": "2026-09-04T18:57:02+00:00"
+    },
+    {
+      "titulo": "A cuatro años del Rechazo: UDI propone incluir el proceso constitucional en el currículum escolar",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/constitucion/a-cuatro-anos-del-rechazo-udi-propone-incluir-el-proceso-constitucional/2026-09-04/145519.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Al cumplirse este viernes cuatro años del plebiscito constitucional del 4 de septiembre de 2022, en que el 62% de la ciudadanía optó rechazar la nueva propuesta de Constitución elaborada por la Convención Constitucional, los partidos de derecha realizarán distintos actos conmemorativos y también presentaron una controvertida propuesta educativa.\nLa bancada de diputados de la UDI anunció la present",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-04T18:55:19+00:00"
     },
     {
       "titulo": "Incendio destruyó el 85% de la histórica Casa de la Cultura de Coronel",
@@ -5652,17 +5666,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T03:08:04+00:00"
-    },
-    {
-      "titulo": "\"No podemos estar solos en esta pelea\": Alcaldes piden mayor apoyo del Estado ante a amenazas contra White - Emol",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYzBSMlV5cF9Ib20xQkpxRkVQbU5PU284ajREbGhuanBDUS1CbThFRGl5aHFDek5FR3I1QmFHN3ZtWWlDYTRSZW1WYzRrekR3YkZvcHllaXRoYzlrX0FETGVTaXc0c29yQjVOeFJ3UjNvZ3BCNTBHdFB5X0pZVmg5WU16MHZldThRZ1VObWhGTWpaNFBOZmUxYnFXdFJhR2Ztd0ZXb2x0clhsUUxKVEE?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"No podemos estar solos en esta pelea\": Alcaldes piden mayor apoyo del Estado ante a amenazas contra White&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T02:32:39+00:00"
     }
   ]
 }
