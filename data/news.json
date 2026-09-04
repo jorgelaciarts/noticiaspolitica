@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-04T21:31:00.839456+00:00",
+  "actualizado": "2026-09-04T21:46:01.716965+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La Moneda abre sus puertas con cruce peatonal y actividades patrimoniales",
+      "link": "https://www.lanacion.cl/la-moneda-abre-sus-puertas-con-cruce-peatonal-y-actividades-patrimoniales/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Desde la tarde de este viernes, el Palacio de La Moneda volvió a abrir sus puertas al público para dar inicio a una nueva jornada de cruce peatonal, organizada por Patrimonio Presidencia. Esto permitirá a las personas recorrer parte de los patios interiores más emblemáticos de la sede de Gobierno. El acceso estará disponible durante [&#8230;]\nThe post La Moneda abre sus puertas con cruce peatonal ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-04T21:34:36+00:00"
+    },
     {
       "titulo": "“Son parte fundamental de nuestra identidad”: Recoleta cambia nombre de calle Río de Janeiro a República de Corea como homenaje a la comunidad coreana",
       "link": "https://www.theclinic.cl/2026/09/04/son-parte-fundamental-de-nuestra-identidad-recoleta-renombra-calle-rio-de-janeiro-como-republica-corea-como-homenaje-a-la-comunidad-coreana/",
@@ -5657,17 +5668,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-02T04:57:48+00:00"
-    },
-    {
-      "titulo": "Exjefe de gabinete municipal de Collipulli fue absuelto tras ser acusado de abuso sexual y violación",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/exjefe-de-gabinete-municipal-de-collipulli-fue-absuelto-tras-ser-acusado/2026-09-02/005724.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Tras cinco jornadas de juicio, el Tribunal Oral en Lo Penal de Angol decretó veredicto absolutorio unánime a favor de Daniel Valencia, exjefe de gabinete de la Municipalidad de Collipulli, acusado de abuso sexual y violación.\nLos hechos denunciados habrían ocurrido el 12 de abril del 2023 en dependencias municipales y la víctima es una mujer que se desempeñaba como guardia del municipio, por lo qu",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T04:57:24+00:00"
     }
   ]
 }
