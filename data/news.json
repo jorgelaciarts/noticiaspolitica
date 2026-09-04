@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T02:31:37.794924+00:00",
+  "actualizado": "2026-09-04T02:46:25.964580+00:00",
   "total": 500,
   "items": [
     {
@@ -80,6 +80,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T01:21:44+00:00"
+    },
+    {
+      "titulo": "Niño de 12 años fue baleado en Lo Espejo",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/nino-de-12-anos-fue-baleado-en-lo-espejo/2026-09-03/212021.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un niño de 12 años y un hombre de 50 resultaron heridos de bala este jueves en la comuna de Lo Espejo, en el marco de un presunto enfrentamiento entre bandas rivales.\nEl hecho ocurrió en la intersección de Américo Vespucio con Pedro Lira, frente a la Municipalidad: el menor recibió un disparo en una de sus piernas en momentos en que se dirigía a comprar a un almacén, mientras que el adulto se enco",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-04T01:20:21+00:00"
     },
     {
       "titulo": "Presidente Kast nombra a Alejandra Morales Aguirre como nueva delegada presidencial provincial de Chañaral - La Tercera",
@@ -5659,17 +5670,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-01T18:48:02+00:00"
-    },
-    {
-      "titulo": "Reforma de seguridad: Presidente de Republicanos Arturo Squella y exgeneral y senador Vial, también Republicano afirman que habrían votado “en contra” si la hubiera presentado Jeannette Jara",
-      "link": "https://cambio21.cl/cambio21/reforma-de-seguridad-presidente-de-republicanos-arturo-squella-y-exgeneral-y-senador-vial-tambien-republicano-afirman-que-habrian-votado-en-contra-si-la-hubiera-presentado-jeannette-jara-6a971850b2504a754a678773",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-01T18:45:44+00:00"
     }
   ]
 }
