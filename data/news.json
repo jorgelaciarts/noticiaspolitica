@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-04T17:01:51.796514+00:00",
+  "actualizado": "2026-09-04T17:16:48.423282+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Caso Cerimedo y Bernardo Fontaine: Frente Amplio presenta oficios por fundación ligada a bots y fake news - eldesconcierto.cl",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVM0UDMzWllFMXl5Y1pPTUZsYk5sSFV5X0dackJPS2FYQ2xrM1JYaEhBclRTYy1meXdKckNQdTdXcXYzTVJsZlVwc2FCdmdyTS15UzhlR0d1dTVVZ3gyVFpJejViLWVRUlRhVkNSN0FsRzNNaXBueXFvY055YjNfSG1MY3BHSGVEdms4SFVsUTg5WXlCX2N5UGFfWkZzTHZqVlItNlloaWZKb18wVU5qekp1WDVfZkNVeEhXVUVtS1ZtRHJySTNmX1hGTjRkZ2hHUTNXbERJZzVGS3N0?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Caso Cerimedo y Bernardo Fontaine: Frente Amplio presenta oficios por fundación ligada a bots y fake news&nbsp;&nbsp;eldesconcierto.cl",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-04T16:56:00+00:00"
+    },
     {
       "titulo": "“Con Kast resulta muy fácil”: Barraza exige medidas a Cancillería por dichos “injerencistas” de embajador de EE.UU.",
       "link": "https://www.elciudadano.com/politica/con-kast-resulta-muy-facil-barraza-exige-medidas-a-cancilleria-por-dichos-injerencistas-de-embajador-de-ee-uu/09/04/",
@@ -48,6 +59,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-04T16:28:03+00:00"
+    },
+    {
+      "titulo": "Ahora en DF | Así es la moneda conmemorativa con el rostro de Donald Trump que ya salió a la venta en EEUU - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ013N2VnbjU5Yi1JcTlwUEpqZzFvR09WaWwyeUIwbW9IUzZsbFhSaDFicVlxeG45R2FPYVlYLU80eVg2UjdvZWxBa3lzeU1VQk9SRHBwSE1YbWZ6WXdUTEd2M2ZCTTlac3dPQUx0LVRRSDl2bzdteGIxZnp0V18yYlVjUEgzVFVBc1BUNm43cVA1TnlvLUF0X3ptbG1acmZwWW9sS0UtTmIzUUE?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ahora en DF | Así es la moneda conmemorativa con el rostro de Donald Trump que ya salió a la venta en EEUU&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-04T16:24:00+00:00"
     },
     {
       "titulo": "Ossandón (RN) arremete contra Milei: \"No es correcto permitir que se basuree con nuestra historia\" - biobiochile.cl",
@@ -5652,29 +5674,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-02T00:09:00+00:00"
-    },
-    {
-      "titulo": "PDG pide a la SEC poner bajo la lupa a las bencineras tras denuncias por eventuales cargas irregulares - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaG52NFZ4TFVqVHRlOFBCRFNXZm5IanlFZ1hRMGhZYmxiM0pvbGVFYzRNRXBoLXJTOVRaM2hhUmdYWWtlVEJtU3ZZYUE5UmRQNHhXZWNZRHEwU1R0akNLVlU3Y080LXNtSHZ5UmNFcHhuQ2pJUGN3SUJvQUtQNW1HWWtRTmliX3o0aDR1UG1kOGRGVS1hdEd6OHpsOEhjQzRIOEZ0Q3kydkhqaUZ0dzJWNV90TnJ5R2RaNVdpajYxbGJhbDh6d253?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "PDG pide a la SEC poner bajo la lupa a las bencineras tras denuncias por eventuales cargas irregulares&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-02T00:01:49+00:00"
-    },
-    {
-      "titulo": "Hasta 5 años de cárcel: Diputado Bassa (FA) ingresa proyecto que tipifica como delito el uso de bots en campañas electorales - cnnchile.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVHJ5Wi1QSzNEQXp4VnlfNV9yLXQyMVNFU05RMkc3OG9NQlRhTmVIUE1Qd2RPWVZuUF84MEZJS2RzRGg2YnR3b2dRV2JPNm5BOWx6ZHFpRTFaMWJaMENxUFotdTVDYWRNcDFvYm1RUFF1RVBuTDk3NHg0V0tjUEZvclVSTTJjdEk4dXgwZm5jRVVYOFpOSXhPMHhmNW13X29mZ25samdFWmxtMGxwNVZuNFVNY2c5UUlPVkctWmRYVlVGM3FSTkhQMQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Hasta 5 años de cárcel: Diputado Bassa (FA) ingresa proyecto que tipifica como delito el uso de bots en campañas electorales&nbsp;&nbsp;cnnchile.com",
-      "categorias": [
-        "Diputados",
-        "Elecciones"
-      ],
-      "fecha": "2026-09-02T00:00:31+00:00"
     }
   ]
 }
