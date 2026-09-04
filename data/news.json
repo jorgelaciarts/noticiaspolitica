@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-04T19:16:41.454202+00:00",
+  "actualizado": "2026-09-04T19:31:47.438958+00:00",
   "total": 500,
   "items": [
     {
@@ -36,6 +36,17 @@
         "Elecciones"
       ],
       "fecha": "2026-09-04T18:57:02+00:00"
+    },
+    {
+      "titulo": "Incendio destruyó el 85% de la histórica Casa de la Cultura de Coronel",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/incendio-destruyo-el-85-de-la-historica-casa-de-la-cultura-de-coronel/2026-09-04/144527.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un incendio consumió cerca del 85% de las dependencias de la Casa de la Cultura de Coronel, inmueble patrimonial que albergaba el teatro, salas de cine y oficinas administrativas de la comuna en la Región del Biobío.\nLa emergencia requirió el despliegue de más de 150 voluntarios de Bomberos y dejó con daños estructurales a dos locales comerciales colindantes, paralizando el principal polo cultural",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-04T18:45:27+00:00"
     },
     {
       "titulo": "Dichos de Milei sobre el golpe de Estado tensionan al oficialismo y abren flanco al Gobierno",
@@ -5652,18 +5663,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-02T02:32:39+00:00"
-    },
-    {
-      "titulo": "Con poca fe, el Congreso sigue trabajando en el feriado del 17 de septiembre",
-      "link": "https://www.cooperativa.cl/noticias/pais/festivos/fiestas-patrias/con-poca-fe-el-congreso-sigue-trabajando-en-el-feriado-del-17-de/2026-09-01/223236.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Comisión de Gobierno Interior de la Cámara de Diputadas y Diputados aprobó este martes, en general, por nueve votos a favor y cuatro en contra, un proyecto de ley presentado por parlamentarios de izquierda para declarar feriado nacional el jueves 17 de septiembre de 2026.\nLa moción busca extender las celebraciones de Fiestas Patrias dado que los feriados irrenunciables del 18 y 19 de septiembre",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T02:32:36+00:00"
     }
   ]
 }
