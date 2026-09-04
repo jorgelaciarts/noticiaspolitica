@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-04T01:31:49.807703+00:00",
+  "actualizado": "2026-09-04T01:46:42.900734+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Mujer investigada por el delito de amenaza de atentado contra Kast queda con arraigo nacional y prohibición de acercarse al Presidente",
+      "link": "https://www.theclinic.cl/2026/09/03/mujer-investigada-por-el-delito-de-amenaza-de-atentado-contra-kast-queda-con-arraigo-nacional-y-prohibicion-de-acercarse-al-presidente/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Tras ser detenida en Lampa, una mujer de 32 años fue formalizada este jueves por el delito de amenaza de atentado contra la autoridad. La indagatoria se originó tras instrucción de la Fiscalía Regional Metropolitana Centro Norte, luego de detectar mensajes amenazantes que fueron publicados como comentarios en el perfil oficial del Presidente en Instagram. El Juzgado de Garantía de Colina fijó un p",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-04T01:31:36+00:00"
+    },
     {
       "titulo": "Senador Longton (RN) se distancia del estilo de Milei en el Foro Madrid: \"Termina polarizando más el debate\" - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQng1U19kelFEbmdvME4wSVhTem05aFlWcHBLMVFFVlRFOTlEMmVhSXRRdFVQUG5TY1FwbHliUTAwV1RFaTREUnhCM2k3Mm1EcU1RcWh1QjlaczB5Qmx4UElkTVVSb0ZINHFMRmR5dk9mX1l1R0xWTDh3TzAzVEdJVjdvUXRlUmpTR3Ztd2lTSVptSGlqSzkwNVE1YWw5VTltbEJKU3l3d3FqOGxhMTI1U1VwYlEzcjVJYS1QM050SC1zWll2aFp30gHHAUFVX3lxTE5CeDVTX2R6UURuZ28wTjBJWFN6bTloWVZwcEsxUUVWVEU5OUQyZWFJdFF0VVBQblNjUXBseWJRMDBXVEVpNERSeEIzaTcybURxTVFxaHVCOVpzMHlCbHhQSWRNVVJvRkg0cUxGZHl2T2ZfWXVHTFZMOHdPMDNUR0lWN29RdGVSalNHdm13aVNJWm1IaWpLOTA1UTVhbDlVOW1sQkpTeXd3cWo4bGExMjVTVXBiUTNyNUlhLVAzTnRILXNaWXZoWnc?oc=5",
@@ -127,6 +138,19 @@
         "Diputados"
       ],
       "fecha": "2026-09-04T00:12:33+00:00"
+    },
+    {
+      "titulo": "PS repudió tesis republicana de que Bachelet \"avaló la inmigración ilegal\" para escalar en la ONU",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/ps-repudio-tesis-republicana-de-que-bachelet-avalo-la-inmigracion/2026-09-03/200754.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Partido Socialista manifestó su rechazo a las críticas realizadas por el diputado republicano Cristián Araya en contra de la expresidenta Michelle Bachelet, en el marco de la realización del encuentro del Foro Madrid.\nEn la cita, el parlamentario se refirió a los movimientos estudiantiles y al estallido social, recalcando que \"fueron destruyendo el respeto a la autoridad, al orden, a las normas",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-04T00:07:54+00:00"
     },
     {
       "titulo": "Santiago: Estudiantes realizan balance tras represión de marcha autorizada y exigen explicaciones por actuar de Carabineros",
@@ -362,6 +386,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-03T22:43:55+00:00"
+    },
+    {
+      "titulo": "Contraloría detecta contratos por $758 millones de la Municipalidad de Curacautín con familiares de funcionarios - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmIzY1RCRUM4YmQyek9TbWVsWVRGYXc2akxpaHUyMlo1UVlCM0JERDBaVURFT0IwZm9hcmJtY29UZDdUU05GRFFTTTY5SXBTOGZMNmNHcS1QSmlFbmJya09PT1NHX01uOE1LNXdBTEVhaUFPMHpMUUJjeXBGdy1fMFdtOTl1MV9LNTN2YXpQRldWejdtS25ZZWdzTWV3bHpURGVNc0NTYklDa1QtYUdMRVVHVWUtamtxQTZGS0xLdFNuZk4yelFWT3l6MHowR1IwbDY2YVJYbG9YUQ?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Contraloría detecta contratos por $758 millones de la Municipalidad de Curacautín con familiares de funcionarios&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-03T22:41:11+00:00"
     },
     {
       "titulo": "Editorial de Mónica Pérez: Bilateral entre Kast y Milei con gusto a poco - Teletrece",
@@ -5638,40 +5673,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-01T18:12:05+00:00"
-    },
-    {
-      "titulo": "Oposición sube presión por participación de Kast en Foro Madrid y acusa que atenta contra “preocupaciones” de los chilenos - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM01xT3M4cG1KVVJWY2lnQ1BQMTJBeUgyc3NGLXdmbHpIZWpUR25WTDM0ZU4xY1pvZTNTdlN5ZzVjT3FyNXg1RVNYbjJORmd6a2NCQnlESnpRMEgzMV9GY3FXZEx6S3ZXSWp4Z3F1dm1kdDNrbncxUWgyd2Z6LTlHX1BmWnAwQlFPUXpuaXZ0TVNQd0duN0FZUzVHbGd4UHFGajFwWlhFU29oMkRUQkRQSjFUc3hKSUtJak83MUVPODhfZ3dTRk0xMEVoY21aZkhEX3RXNWE3S3VvVzZTNF9QejdmRUVMdVQ5dG4xeDdMWHdBaVlPVndR0gGYAkFVX3lxTE9vZ0hJTjRwS0hDRHhaZWN6UzZ2RUhKMWpndTJOQVU5N2hvWHllZEwzOWxPWWZEQ0dvZTZRTjFBQWMzeF9GSUxDYTJPczBhUDFQQ1FiS0swLWxPdmJfU1VCcFNHOF90NjJIaURhY2ZndVM2ZHcwMU1SZk5YbFpjQXhBdXZ3T1RVdjk1aVpEVnd5ZXlQekFndG5Kdmx6ZlltQUdzYk54OXdnSUdrRkFsMmV0QVdRaDB1MnZrczZXVW12SU1jN0tVcXZLcU1OcGpnVTNmZkgtaGRHVmY5YWVkeVlnR3p3TThBcnVXeHY0aUdCNjlSUk81YnNjbEMzcFRCMFByRHl5Y2VmeURocDNfOTBWTkJfUHpKSWU?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oposición sube presión por participación de Kast en Foro Madrid y acusa que atenta contra “preocupaciones” de los chilenos&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-01T18:02:11+00:00"
-    },
-    {
-      "titulo": "No soltar a Cerimedo: la apuesta de la oposición en medio de los supuestos lazos del cuestionado estratega argentino con la derecha",
-      "link": "https://www.theclinic.cl/2026/09/01/no-soltar-a-cerimedo-la-apuesta-de-la-oposicion-en-medio-de-los-supuestos-lazos-del-cuestionado-estratega-argentino-con-la-derecha/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Los presidentes y secretarios generales del bloque progresista abordaron el caso del asesor argentino durante su reunión semanal y acordaron mantener la presión sobre sus eventuales vínculos con la derecha chilena. La estrategia ya suma oficios, emplazamientos al Presidente Kast y un intento fallido por crear una comisión investigadora que el PPD pretende reponer. El Foro de Madrid de esta semana ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-01T17:58:05+00:00"
-    },
-    {
-      "titulo": "PS condenó la existencia “de un eventual plan para atentar contra la vida del alcalde de San Bernardo”",
-      "link": "https://www.lanacion.cl/ps-condeno-la-existencia-de-un-eventual-plan-para-atentar-contra-la-vida-del-alcalde-de-san-bernardo/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Partido Socialista de Chile (PS), en un comunicado, dio a conocer su más enérgica condena “ante los graves antecedentes conocidos respecto de un eventual plan para atentar contra la vida del alcalde de San Bernardo, Christopher White”. Lo anterior “habría sido detectado en el marco de una diligencia investigativa relacionada con un reo fugado. [&#8230;]\nThe post PS condenó la existencia “de un ",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-01T17:41:59+00:00"
     }
   ]
 }
