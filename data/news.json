@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-04T18:01:55.210428+00:00",
+  "actualizado": "2026-09-04T18:16:27.153864+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcaldesa de La Pintana Claudia Pizarro desclasifica que hay más de 20 alcaldes con protección policial: \"No podemos normalizarlo, no es fácil vivir así\"",
+      "link": "https://cambio21.cl/pais/alcaldesa-de-la-pintana-claudia-pizarro-desclasifica-que-hay-mas-de-20-alcaldes-con-proteccion-policial-no-podemos-normalizarlo-no-es-facil-vivir-asi-6a9b04c98fcf08692337f243",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-04T18:01:49+00:00"
+    },
     {
       "titulo": "“No permitiremos retrocesos”: diputadas reactivan Bancada Feminista para fiscalizar derechos de las mujeres bajo Kast",
       "link": "https://www.elciudadano.com/politica/no-permitiremos-retrocesos-diputadas-reactivan-bancada-feminista-para-fiscalizar-derechos-de-las-mujeres-bajo-kast/09/04/",
@@ -5650,18 +5661,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T01:12:39+00:00"
-    },
-    {
-      "titulo": "Caso Cerimedo golpea al círculo de Kast y tensiona la posición política de Arrau",
-      "link": "https://ladiscusion.cl/caso-cerimedo-golpea-al-circulo-de-kast-y-tensiona-la-posicion-politica-de-arrau/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La controversia en torno a las denominadas “granjas de bots” y las operaciones coordinadas en redes sociales comienza a golpear políticamente al Gobierno de José Antonio Kast. El nuevo episodio tiene como protagonista al ministro de Seguridad, Martín Arrau, exintendente de Ñuble y uno de los dirigentes que integran el círculo de mayor confianza del [&#8230;]",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T01:00:24+00:00"
     }
   ]
 }
