@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-09-04T15:46:36.817061+00:00",
+  "actualizado": "2026-09-04T16:01:46.624020+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El Carmen gestiona ante el MOP pavimentación de dos tramos rurales clave para la conectividad",
+      "link": "https://ladiscusion.cl/el-carmen-gestiona-ante-el-mop-pavimentacion-de-dos-tramos-rurales-clave-para-la-conectividad/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El reciente miércoles el alcalde Renán Cabezas llegó hasta el Ministerio de Obras Públicas en la ciudad de Santiago, para reunirse con el subsecretario de Obras Públicas, Nicolás Balmaceda, mediante una gestión realizada por el senador Gustavo Sanhueza, con la finalidad de exponer a la autoridad nacional, la necesidad de priorizar tramos de dos caminos [&#8230;]",
+      "categorias": [
+        "Senadores",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-04T16:01:27+00:00"
+    },
+    {
+      "titulo": "Eyzaguirre: Milei vino a Chile a \"vendernos el lenguaje de la Guerra Fría\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/eyzaguirre-milei-vino-a-chile-a-vendernos-el-lenguaje-de-la-guerra-fria/2026-09-04/113925.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El exministro Nicolás Eyzaguirre (PPD) afirmó en El Primer Café que el presidente argentino, Javier Milei, vino a Chile a \"volvernos a vender el lenguaje de la Guerra Fría\", luego de que el mandatario reivindicara el golpe de Estado de 1973 y la posterior dictadura cívico-militar, que se extendió por 17 años.\nDurante su participación en el Foro Madrid, Milei sostuvo que, tras el \"derrocamiento del",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-04T15:39:25+00:00"
+    },
     {
       "titulo": "Kast entrega apoyo de Chile a Argentina por Malvinas y Milei en cadena nacional anuncia sanciones contra empresas que operen en las islas",
       "link": "https://cambio21.cl/pais/kast-entrega-apoyo-de-chile-a-argentina-por-malvinas-y-milei-en-cadena-nacional-anuncia-sanciones-contra-empresas-que-operen-en-las-islas-6a9ae136876e48048b01b673",
@@ -5647,28 +5672,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-01T23:00:00+00:00"
-    },
-    {
-      "titulo": "Admisión de senador Vial sobre reforma de seguridad abre nuevo flanco en el oficialismo - elmostrador.cl",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTHFlQTFVZmY3akFjZU1kM3ZNdmdQMnI0YW9RaU5SX3I0a0NrLTNBNGFtVlNwbXRpQUxSdG4tZV8wekJXS3FjcGtRbmNlazAwY3ZidU5xTEpvOVJWNGp3aUwzTEJWY3Z1N1dBdUlWVE54M3hiOHhzRXozYVc4MGdyd3hNM29LVm9LV3VTTXNDT2V6Y0dGQ3NtNTIwa1BSVElhNDNrNndRVE5PSFpDeS1BYTFpUXlhWWxaeWZnTGNhQ3VnbTZTRE5yblhkRkFuX0pYMjJXS0ZnYw?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Admisión de senador Vial sobre reforma de seguridad abre nuevo flanco en el oficialismo&nbsp;&nbsp;elmostrador.cl",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-01T22:58:37+00:00"
-    },
-    {
-      "titulo": "“Preocupante…”: Oposición critica al senador Vial (REP) tras admitir que rechazaría reforma de seguridad si la impulsara Jeannette Jara - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTkZyc3U2eS1md1diUlNBdVNOUEJ4Z3c5ekJOUmZhTEVNSThwcktfZGo0VlZoaWJPMzJncTdUQnJhSk9UazdmWFdTZ204S1NGaTNra09IN3YtcUNGdHFpRXFWNGxyaHRXSzFwNTVDa3c2b09Zbk1jMFBQRS1aT1p0ZEpJak5LTXpZTHphTWdCV0JKY3pQY2NObnY4R1JVM0VjTlotQ0JMTnFUamZBN1BYcHE5UEdILWh4cFMzTmNqdXpkWEJqQWM4Zk9lTXdOSkdxam5GdlNrRkVRRUVnbnRpMVNoMGJmNk1pVHJpM2ZyQmZFUQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Preocupante…”: Oposición critica al senador Vial (REP) tras admitir que rechazaría reforma de seguridad si la impulsara Jeannette Jara&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-01T22:50:07+00:00"
     }
   ]
 }
