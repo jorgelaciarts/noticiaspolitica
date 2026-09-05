@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-05T01:16:38.297558+00:00",
+  "actualizado": "2026-09-05T01:31:41.635814+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "A los 71 años muere Camilo Escalona, histórico dirigente del Partido Socialista",
+      "link": "https://www.lanacion.cl/a-los-71-anos-muere-camilo-escalona-historico-dirigente-del-partido-socialista/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Camilo Escalona, secretario general del Partido Socialista (PS) y una de las figuras más influyentes de la izquierda chilena de las últimas cinco décadas, falleció este viernes en la Clínica Indisa, a los 71 años, tras una larga batalla contra un agresivo cáncer de próstata. El dirigente permanecía hospitalizado desde hace más de una semana. [&#8230;]\nThe post A los 71 años muere Camilo Escalona, ",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-05T01:27:25+00:00"
+    },
+    {
+      "titulo": "Luto en el Partido Socialista: Falleció exsenador Camilo Escalona",
+      "link": "https://www.elciudadano.com/chile/luto-en-el-partido-socialista-fallecio-exsenador-camilo-escalona/09/04/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nA los 71 años de edad, falleció este viernes 4/9 el exsenador Camilo Escalona, histórico dirigente del Partido Socialista de Chile desde los tiempos de la Unidad Popular, cuando fue presidente de la Federación de Estudiantes Secundarios de Santiago en el año 1972. Una vez que la noticia fue confirmada, gran parte del mundo político [&#8230;]\nLa entrada Luto en el Partido Socialista: F",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-05T01:17:54+00:00"
+    },
     {
       "titulo": "A proyecto de nuevo relleno sanitario de Inser se sumará ingreso de ampliación del actual recinto de Volta-Ecobío",
       "link": "https://ladiscusion.cl/a-proyecto-de-nuevo-relleno-sanitario-de-inser-se-sumara-ingreso-de-ampliacion-del-actual-recinto-de-volta-ecobio/",
@@ -13,6 +35,21 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-05T01:12:14+00:00"
+    },
+    {
+      "titulo": "Falleció Camilo Escalona, pilar histórico del socialismo chileno, a los 71 años",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/fallecio-camilo-escalona-pilar-historico-del-socialismo-chileno-a-los/2026-09-04/205826.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El secretario general del Partido Socialista (PS) y expresidente del Senado, Camilo Escalona Medina, falleció este viernes a los 71 años en la Clínica Indisa, en la comuna de Providencia, a causa de complicaciones derivadas de un cáncer de próstata diagnosticado en 2024.\nSu deceso ocurrió tras permanecer en coma inducido como parte de su tratamiento médico, y poco después de que el Presidente José",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-05T00:58:26+00:00"
     },
     {
       "titulo": "A los 71 años falleció Camilo Escalona",
@@ -3192,6 +3229,19 @@
       "fecha": "2026-09-03T14:19:44+00:00"
     },
     {
+      "titulo": "Camilo Escalona y su pensamiento político: Sus columnas en Cooperativa",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/camilo-escalona-y-su-pensamiento-politico-sus-columnas-en-cooperativa/2026-09-03/101934.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Camilo Escalona Medina, quien falleció este viernes a los 71 años, fue el más prolífico autor en la sección de Opinión de Cooperativa, donde escribió 762 columnas, la primera de ellas en noviembre de 2011, titulada \"La obstinación presidencial\" y en la que abordaba la situación del entonces ministro del Interior, Rodrigo Hinzpeter, durante el primer Gobierno de Sebastián Piñera.\n\"El gobernante en ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-03T14:19:34+00:00"
+    },
+    {
       "titulo": "Viera-Gallo cuestiona que Kast recalque soberanía sobre el Estrecho de Magallanes: “¿Por qué hay que decirlo cada dos minutos?” - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYkt5SE5fM3BjWDBOeThBeWVPdHV4aDluQ3U1ZFZMTjBVWndLODlqRmV0T1F5bHVaWkdmRjhiVHJIM2ZzZWlNcmhsRHRPeENsblF1aEF0bElibVlGMndudkpwNndpb214SGg4MF9NRG9sVzdmSnRKa254VG9NNW5rVXI0Tk5HUHV6dnc?oc=5",
       "fuente": "CNN Chile (vía Google News)",
@@ -5622,50 +5672,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T13:45:19+00:00"
-    },
-    {
-      "titulo": "Kast desde Magallanes: Dice que el estrecho \"es chileno y así lo han reconocido las distintas autoridades de ambos países\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0N0THFSZXRRMG9nRUdEeGd1aWdISVBKcXpGR2FmNDI3T3VQb0l1Y21lT0VQYU84d1hnSXpwRmF4ckdiYmtsdUl3dUJYTFluWjRXNU82S2RPS1k5bGoyX212RHdOTlpOaE5GUllmdGFaWm4tSTZQb3gtdzl1ZDVJbi1NX3JNT3Joc1VLQVhQVWFMWkhHZEszODhiSDBia2s?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast desde Magallanes: Dice que el estrecho \"es chileno y así lo han reconocido las distintas autoridades de ambos países\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T13:34:53+00:00"
-    },
-    {
-      "titulo": "Nuevo operativo de desalojo de toldos azules en Meiggs: Instalarán más rejas",
-      "link": "https://www.lanacion.cl/nuevo-operativo-de-desalojo-de-toldos-azules-en-meiggs-instalaran-mas-rejas/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Municipalidad de Santiago lleva a cabo este miércoles un nuevo operativo de desalojo de toldos azules y de despeje de calles y veredas en el Barrio Meiggs. Específicamente en el sector de calle Salvador Sanfuentes. Luego, se procederá al cierre con rejas del perímetro.Los equipos municipales con apoyo de Carabineros llegaron alrededor de las [&#8230;]\nThe post Nuevo operativo de desalojo de tol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T13:24:47+00:00"
-    },
-    {
-      "titulo": "El mensaje de Kast desde Magallanes y en antesala a cita con Milei: “Esta es una manera de hacer patria, de hacer soberanía” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWjZMRU5idmZPWTZCRzJPOU5lWE9xTUxpcTVsLWdBOE05b3JFd3UxR0ZieXd2eTdaWlU3RWtBWEtnX1diOFBQMGUyRXU2LWtkNkNucWpGQS1XZkRPeGd1c3o3MkFFNHdMQ1lIZlZqc09PWE03VDFKOERVSUhscTVqU3JoekJMMGo1bU5RbHM5Y1lNOUxYbmJIaVJ1ZzN0YTdLNnhSR2UxXzk4bjRXelozZ0VwdDRSWEtOMTZiSDRWOGNCQ2luUjFtajhVWkJEUXN2dUxqeFNRMW9NbGRLc3VTWVNBQ2E2bDlhZHpkM1Ruc3YxR2xXcFFJ0gGYAkFVX3lxTE9OWUNDa1JvaG55SWpoZHdKdkNXRHdaQWNrRVdYalAwV3pmZ2VFenhQOWRCN08yRlY0aUJJSHFseE0xNTVpbkhIOGJTWEFXY2JOOEs5M2RYR0Y1eTYzREdwOXhuTnZYQ3cwMC1aS2szQ2JwR0FORXVXb0lmdWczY0dmYWRURWs4WWw1UTNzcVpuU0sxbllBMDljWlQ1WFNIdVMzemRZVnZ4WlVPT2Y4blF4TG5PRzZBRHN6cGlXUGd1VWtvQjRZakZpUms5RzRUclJoU1JZQzJFelQ3STUxaC15eTMwNGZaTWtSdGF5dVlvNWZXMHVzOEhsWVg4ZFlDWFdTd0tiaGROZ0N2N3BlVlY0Z1doUWd0SmE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El mensaje de Kast desde Magallanes y en antesala a cita con Milei: “Esta es una manera de hacer patria, de hacer soberanía”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T13:24:21+00:00"
-    },
-    {
-      "titulo": "Marco Moreno advierte a Kast por reunión con Milei tras polémica por Magallanes: Rol institucional “tiene que separarse del rol de amistad” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNMFdjbnNjY3FUT1RkX0F0dzJwdjlYcm5NdURpbHhwQW9RRGFBYjB4Tms3bGhuMG5SZlo0YXVWQ3VSN0RrM0IyS3ZndGhFZ200ZExfd25GdWRoUTJJR1oyOUtqSHk2M05PQ3BNRVgwbzhXdnV1dFIya2pHcjhIVVJhck5LOU1zSWhqZVdFWlZ5ajFESE5rTjFWT0xFazFVVFQ3SUZybFdVckVXX1gxQ01udFQ2cUxGSUw1azJKRm12SVc5aFBwTDhDV0RaOGdpZXdUOHdJRzlIbFVRRG9hN1RwVmZrNHVMZHpNVVZVblowUTBnRzQ5Ty1Pb0FpVGtzQldFRmttV2RlYTJFQQ?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Marco Moreno advierte a Kast por reunión con Milei tras polémica por Magallanes: Rol institucional “tiene que separarse del rol de amistad”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T13:20:27+00:00"
     }
   ]
 }
