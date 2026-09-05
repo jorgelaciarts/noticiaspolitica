@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-05T11:46:39.465200+00:00",
+  "actualizado": "2026-09-05T12:01:33.805895+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Columna de Marco Moreno: Kast ante los suyos",
+      "link": "https://www.theclinic.cl/2026/09/05/kast-ante-los-suyos/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "\"Kast pudo presidencializar su discurso; todavía no sabemos si ha presidencializado a su coalición. La distancia entre algunas intervenciones de dirigentes oficialistas durante el Foro y las palabras posteriores del Presidente muestra que ambas lógicas siguen conviviendo\", comenta Marco Moreno en su columna de esta semana en la que desmenuza el discurso entregado por el Presidente Kast en el cierr",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-05T12:00:00+00:00"
+    },
     {
       "titulo": "Más de 18 mil niños magallánicos  recibirán Bono de 30 mil pesos",
       "link": "https://laprensaaustral.cl/2026/09/05/mas-de-18-mil-ninos-magallanicos-recibiran-bono-de-30-mil-pesos/",
@@ -5649,18 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T17:15:14+00:00"
-    },
-    {
-      "titulo": "Aciertos, dudas y una sospecha. La carta de los dos alcaldes",
-      "link": "https://www.elciudadano.com/chile/aciertos-dudas-y-una-sospecha-la-carta-de-los-dos-alcaldes/09/02/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPor Verónica Aravena Vega El domingo [23 de agosto], Tomás Vodanovic, alcalde de Maipú y Jaime Bellolio, de la UDI, publicaron juntos una carta en El Mercurio y al otro día fueron a Tolerancia Cero a explicarla. La titularon Chile a treinta años, una invitación desde dos veredas distintas. Conviene decirlo de entrada, porque se [&#8230;]\nLa entrada Aciertos, dudas y una sospecha. La c",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T17:12:33+00:00"
     }
   ]
 }
