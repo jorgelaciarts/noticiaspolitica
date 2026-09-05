@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-05T03:31:33.698034+00:00",
+  "actualizado": "2026-09-05T03:46:37.532789+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "PDI detuvo a hombre por publicación con presunta amenaza a ministro Quiroz",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/pdi-detuvo-a-hombre-por-publicacion-con-presunta-amenaza-a-ministro-quiroz/2026-09-04/232947.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Policía de Investigaciones detuvo este viernes en la Región de La Araucanía a un hombre de 44 años por una presunta amenaza contra el ministro de Hacienda, Jorge Quiroz a través de una publicación en redes sociales.\nDe acuerdo con los antecedentes que se conocen, el 30 de agosto una cuenta de Facebook identificada como \"Fcis Jass\" difundió en el grupo público \"Los Laureles Chile\" una imagen int",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-05T03:29:47+00:00"
+    },
+    {
+      "titulo": "Yeomans asume presidencia del FA y llama a “formar un muro de resistencia frente a la restauración conservadora” del gobierno de Kast - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNXZJdEd5Qjlqd1hOTWpDZlRvbWtpeXQwQnp3c2dua0FnRXpKMk9jUWhzR3RQQ3RjZ3JWQlY4WTAzck1OZnowYWpDVU9VWGZnOHY0OEFxN1h0Qy00OFZPNjFZc1B3OWpaWExyVkFkdVZKc2ZsY0hhcC05ZkpTajl1QkhDVDBZNlE4QVZicElZR2JWbl96cTNqdnozUkF1ZXBYTDFRZi01RFMxMjgxaWpvbVlabHlKYUREcFNNY04xVk8xTWZ2bjg2Ull3TzQyX3I3YnUzTXVaMjZWOU5Zb1Q1bVI4V1U0NTNrS2hZdWlkcU1jUXVibUZWZE5OV3RRNmF2S3RjNkVB0gGnAkFVX3lxTE1pMnYzUTU0WkpuajFFUGNZblNYUjgyM0U5MmpTeDBGc0FWd1FKX1htMXN3dUhsREtkZDI0eXA3cm5IZ3R6NWEwNnB0cEVOWGdvZmVhMlhNYmx4WExGeUxUN3BxYnBaUTVWcnlMZkxSNnR1cUxmbm5XZ2xGS3UtVUZ0ZmtHU0dPMWJxSDdhamhCeU82emFocFlmeVFOalVnS3Rmeld2ZmVFNDRKOG1hcWJGa3lDeXZPQV82b1hQa2ZMRXpiWjRldDVJUmoycWl0Z2lnR2VkUnZMN0dIY0tCMVhxU3hVajA4LTBjWEVwRGZ0RXdGWVNIVUZuaDhxZkZjUG45bkd3T0Z0OEkyYmdPV2k4M0pIU1pJMXBhMTBQWlJ4Qkt3anI3bjg?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Yeomans asume presidencia del FA y llama a “formar un muro de resistencia frente a la restauración conservadora” del gobierno de Kast&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-05T03:28:43+00:00"
+    },
     {
       "titulo": "De Lautaro Carmona a Evelyn Matthei: la política chilena despide a Camilo Escalona y destaca su rol como formador y precursor de acuerdos",
       "link": "https://www.theclinic.cl/2026/09/04/de-lautaro-carmona-a-evelyn-matthei-la-politica-chilena-despide-a-camilo-escalona-y-destaca-su-rol-como-formador-y-precursor-de-acuerdos/",
@@ -5611,6 +5634,17 @@
       "fecha": "2026-09-02T15:47:54+00:00"
     },
     {
+      "titulo": "Christopher White: quién es el alcalde de San Bernardo y por qué planearon asesinarlo - elnortero.cl",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWQza292LTltRzhrenRrUWJkWGhaXzhBRU1tdDI3X3k0SUc0SHpsWmM3dms1OTlTdjRmdEtCYXphZnc2UEJzcWotTjl5TEdsWV9JR1A4ZmRGUjV6YWpLdEs0dG1JZWRxQUY4VmhELUlnakVMWHdaS1hzVDNIZXR1d0wyeVN3bWl6cmh3NmU3T1ZPVUI4emNTYjFOczQxY1JhNWpEYnNKYnhQeGE0WUxzZUwtcVBsbmZxYWhNYlRiNUhrdmM?oc=5",
+      "fuente": "El Nortero (Antofagasta, vía Google News)",
+      "region": "Antofagasta",
+      "resumen": "Christopher White: quién es el alcalde de San Bernardo y por qué planearon asesinarlo&nbsp;&nbsp;elnortero.cl",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-02T15:47:27+00:00"
+    },
+    {
       "titulo": "Alcaldes oficialistas y de oposición visitaron a Christopher White",
       "link": "https://www.lanacion.cl/alcaldes-oficialistas-y-de-oposicion-visitaron-a-christopher-white/",
       "fuente": "La Nación",
@@ -5631,39 +5665,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T15:46:39+00:00"
-    },
-    {
-      "titulo": "“Veremos si es tan patriota”: PS interpeló al Presidente Kast sobre el Estrecho de Magallanes - elmostrador.cl",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdDN3UDY3dnhzUWk2ZWVzNkNuU0VoV0RZa1ZsTnROaW5GN0hZd1A4LTN2djJRNlRLdXlZZ3k1dlhrS1hQUVUzbDJ0cFB0NHprTFVMSkMxOVFFUlVnS1Vqd0NSUzdjcTI1UjNwcnlONzd4QmI0bUpXOTJsQjctdVZ0TFlpc1FWbFdNSkpwOVNzM2cxSU0wYzl3Wlpoa3lKcDFVekp0bFd2Y3pTaklEalQtN1pPLVVwTVhRTUFrVlpVcm5zTnpRSGl0LVNmMTgwYnZPNDlKS3RIc1k4c1U?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Veremos si es tan patriota”: PS interpeló al Presidente Kast sobre el Estrecho de Magallanes&nbsp;&nbsp;elmostrador.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T15:40:25+00:00"
-    },
-    {
-      "titulo": "¿Se pasó varios pueblos? Sigue el debate por la reforma de seguridad y el desorden en el gabinete de Kast - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lYWVvX1N4UGtqdzgzVUhoV1Z3aXpoNVlnNUYzRTJTYTR6NTB1QW5VOS1mYXdUcEdRVXpMUTU2UVdVUWZjUGNKdHpVbklURFdlSXM5UERsZElxdFp1eTBXYlNyazlOU1FfaEhwdWotQlN1TG1Ec2c?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Se pasó varios pueblos? Sigue el debate por la reforma de seguridad y el desorden en el gabinete de Kast&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T15:40:17+00:00"
-    },
-    {
-      "titulo": "Así votaron los diputados: revisa quiénes respaldaron y rechazaron la comisión por bots - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY3VILXVCOGloa09iQ3lQc0JsbWgtWllfVmxIZ1NsSUYwakQwMTd6cGNfWFJGVTZ5N3AxNlFPT3NELTFtSzVjZE93TWpieXNuQ2ZUX0xHUmdSdUotMTkyem9KVHRTR1gtWDNyOUJmMXR4ZExtNDJ5TC1OZ1gySGpwZWRJcHFQOElWZWwteGtaRTlqUXBCdUFXcHp6QXJQZWtEeEVUTTI2QnIzUngtSTRkSHFxTDRkaXk1TU5pMWV0d2xqcXEtWjZUS3pNV0xIZjZyamV1eHlWLTVjZksya19wTmNTaUVOLVBGYmc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Así votaron los diputados: revisa quiénes respaldaron y rechazaron la comisión por bots&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T15:37:21+00:00"
     }
   ]
 }
