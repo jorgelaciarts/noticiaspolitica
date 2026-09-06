@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-06T11:31:42.796678+00:00",
+  "actualizado": "2026-09-06T11:50:01.103622+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Figuritas",
+      "link": "https://laprensaaustral.cl/2026/09/06/figuritas/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Todo quien tuviera algún cargo en Magallanes estuvo presente en la postura de la primera piedra de las luminarias de la Ruta 9. Y es que no es para menos, pues será la primera obra comenzada en la administración de José Antonio Kast en Punta Arenas. En esta actividad, se consideraba que estuvieran los equipos...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-06T11:49:30+00:00"
+    },
     {
       "titulo": "“La discriminación puede ser un factor de crisis interna y eso es  algo que interesa y es competencia del Ministerio de Defensa”",
       "link": "https://laprensaaustral.cl/2026/09/06/la-discriminacion-puede-ser-un-factor-de-crisis-interna-y-eso-es-algo-que-interesa-y-es-competencia-del-ministerio-de-defensa/",
@@ -5656,17 +5668,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T23:26:04+00:00"
-    },
-    {
-      "titulo": "Alcaldesa de La Pintana: “Este Gobierno ni al primer ni al segundo mes, ni al día de hoy tiene un plan de seguridad” - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjhBdmFqbXRDSmU0YzlNWktOcTAwcjE2Z0ZiYXgwdXZRMkFNM0RBYnFCbXpWaldZYkFRN05uUWFic3pJbm5zLTRPZEtBVkUwcDlyX3A1NWhnQ25lME1ILTJJM1RZQUhpUVUxYlRJZ0FVQ090Vlh4V1R0WjZaaWFRTEpDNU9QSmVCTmVPaFczbF92YThEV1pEdWtuSUFTQQ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldesa de La Pintana: “Este Gobierno ni al primer ni al segundo mes, ni al día de hoy tiene un plan de seguridad”&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T23:26:00+00:00"
     }
   ]
 }
