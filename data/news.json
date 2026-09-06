@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-09-06T10:59:26.685976+00:00",
+  "actualizado": "2026-09-06T11:01:29.405674+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El balance de una visita",
+      "link": "https://laprensaaustral.cl/2026/09/06/el-balance-de-una-visita/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La primera visita oficial del Presidente José Antonio Kast a la Región de Magallanes y la Antártica Chilena dejó un balance marcado por un evidente contraste entre el éxito de la diplomacia de los símbolos y la preocupante sequía de compromisos materiales concretos. Desde la perspectiva de la administración regional, liderada por el gobernador Jorge...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-06T11:00:19+00:00"
+    },
+    {
+      "titulo": "Editorial: La visita y el insulto",
+      "link": "https://www.theclinic.cl/2026/09/06/editorial-la-visita-y-el-insulto/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Javier Milei llegó a Chile como Presidente de Argentina y fue recibido en La Moneda por José Antonio Kast. Esa escena pertenece a la relación entre dos Estados vecinos, con una agenda que incluye integración, seguridad y la controversia reciente sobre el Estrecho de Magallanes. Horas antes, en el Foro Madrid, Milei eligió otro registro. [&#8230;]\nThe post Editorial: La visita y el insulto appeared",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-06T11:00:00+00:00"
+    },
     {
       "titulo": "Biministro De Grange promete completar la conexión  Vicuña-Yendegaia durante el gobierno de Kast",
       "link": "https://laprensaaustral.cl/2026/09/06/biministro-de-grange-promete-completar-la-conexion-vicuna-yendegaia-durante-el-gobierno-de-kast/",
@@ -5639,28 +5663,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T23:15:00+00:00"
-    },
-    {
-      "titulo": "Con Irací Hassler, Ana María Gazmuri, Emilia Schneider y más: Diputadas de oposición reactivan Bancada Feminista Julieta Kirkwood - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVF9MVldBcW9zaUlELW9vTE92TmRUcXU5TGd6SkR5WnVJb0pGbS1BLVNLVTd2T1d1dk02MHZseklkR2JSWEVVczRwYU5nRHNBckUtSmpNUVRrOWRsWEpic3hEbkN0SUdPYmM4TjJhbkF2UFVlaU9TajhWdnJrbU9jVjlCOFAzdzI3Vm5VZnhyVnN2Zzc4cHNnMk80c01TSXlQR3VCS0RraFRja1lNZEJ6MndNNU1FRldNTzdIRWxoWE5kR2QxMzJiSUIwT0ViZHk4R3NVMFh4YjByWlRXeUxpNjlxWkozXzU5X01sNEhB?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Con Irací Hassler, Ana María Gazmuri, Emilia Schneider y más: Diputadas de oposición reactivan Bancada Feminista Julieta Kirkwood&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T23:10:33+00:00"
-    },
-    {
-      "titulo": "Rincón responde a publicación sobre ENAP: asegura que alcalde de Concón conoció hechos tras hacerse públicos - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNkd4ZW1KZ0tTdGh6bmN2LTVpNlBjNGt5bmVOZXpVRTNwdzlrVy13bnRuVHU5Mk9RR1B3cUp6OVN2TEp4dWltVUNBTEk3ZjczM0pWcVJDNHE5SjlVT3NZbmJIWGF3dk5SaTZvcmVzS3V3LWczU3dJUlJJUk5SWnI0STJPNS0zdndOZFY3aWFTTEN4aERtbm9EQm81dXZjRzRDdWw2RFlSN3VTODlYbkhDRkRpMnRUU3FpX0FMZEhIZHVCR1oyU1AzblRNMHJBWEVQU21hTmxsakZmZzM0b2NFejVNUGl2bHhDTTd0aTduQU95Q19UdW91azEwOA?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Rincón responde a publicación sobre ENAP: asegura que alcalde de Concón conoció hechos tras hacerse públicos&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T23:07:37+00:00"
     }
   ]
 }
