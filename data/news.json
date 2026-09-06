@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-06T03:46:27.736850+00:00",
+  "actualizado": "2026-09-06T04:01:39.433344+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“No hay otra región que haya progresado tan rápido como lo estamos haciendo nosotros”",
+      "link": "https://ladiscusion.cl/no-hay-otra-region-que-haya-progresado-tan-rapido-como-lo-estamos-haciendo-nosotros/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Hoy domingo 6 de septiembre, Ñuble cumple ocho años como región. El aniversario encuentra a la institucionalidad regional consolidada, pero también frente a una paradoja: mientras las autoridades reivindican avances en infraestructura, servicios y capacidad de decisión, persisten indicadores que mantienen al territorio entre los más rezagados del país. En ese escenario, el gobernador regional, [&#",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-09-06T03:49:28+00:00"
+    },
     {
       "titulo": "Alcaldes destacan avances, pero advierten profundas brechas",
       "link": "https://ladiscusion.cl/alcaldes-destacan-avances-pero-advierten-profundas-brechas/",
@@ -2444,6 +2455,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-04T02:52:10+00:00"
+    },
+    {
+      "titulo": "VIDEO. Primer reencuentro político: Presidente Kast y Gabriel Boric coinciden en aniversario de Carabineros de Chile - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YdWZ3RDBPZFNMZWNMYUlHR0EzX0JYZXBtb3phbVdjcUkzUWdUVDRoTk1rSG9BTExyTEZuY3FMaGVhaTZqUnYtcUZVazE2b3hoZHNWUEtiMA?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "VIDEO. Primer reencuentro político: Presidente Kast y Gabriel Boric coinciden en aniversario de Carabineros de Chile&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-04T02:52:07+00:00"
     },
     {
       "titulo": "Armada exhibe despliegue de flota en el Estrecho de Magallanes tras bilateral entre Kast y Milei",
@@ -5638,31 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-02T22:20:00+00:00"
-    },
-    {
-      "titulo": "La millonaria alza de sueldos de los consejeros del Banco Central: Presidente Kast reajusto sus salarios y ganarán hasta $21 millones mensuales",
-      "link": "https://www.theclinic.cl/2026/09/02/la-millonaria-alza-de-sueldos-de-los-consejeros-del-banco-central-presidente-kast-reajusto-sus-salarios-y-ganaran-hasta-21-millones-mensuales/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El decreto firmado por el Presidente José Antonio Kast y el ministro de Hacienda, Jorge Quiroz, estableció un alza de 14,4% en el sueldo base de los consejeros del Banco Central.\nThe post La millonaria alza de sueldos de los consejeros del Banco Central: Presidente Kast reajusto sus salarios y ganarán hasta $21 millones mensuales appeared first on The Clinic.",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T22:13:10+00:00"
-    },
-    {
-      "titulo": "Vallejo: Chile sabe la importancia de defender la democracia ante pretensiones autoritarias",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/planes-antidelincuencia/vallejo-chile-sabe-la-importancia-de-defender-la-democracia-ante/2026-09-02/180718.html",
-      "fuente": "Cooperativa - Política",
-      "region": "Nacional",
-      "resumen": "La exministra secretaria general de Gobierno de Gabriel Boric (2022-2026), Camila Vallejo, cuestionó con dureza este miércoles en Cooperativa la propuesta de reforma constitucional en materia de seguridad impulsada por el Presidente José Antonio Kast, asegurando que \"no sirve en lo absoluto\" para combatir la delincuencia.\nEn entrevista con Lo que Queda del Día, la militante del Partido Comunista (",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-02T22:07:18+00:00"
     }
   ]
 }
