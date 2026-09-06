@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-06T11:01:29.405674+00:00",
+  "actualizado": "2026-09-06T11:16:42.908629+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Yasna Provoste: “Nos tenemos que sentar desde la DC hasta el PC a definir en qué estamos de acuerdo y en qué no”",
+      "link": "https://www.theclinic.cl/2026/09/06/yasna-provoste-nos-tenemos-que-sentar-desde-la-dc-hasta-el-pc-a-definir-en-que-estamos-de-acuerdo-y-en-que-no/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La senadora DC respalda el llamado de la presidenta del Frente Amplio, Gael Yeomans, a avanzar en una articulación más amplia de las fuerzas progresistas, aunque evita cerrarse a la fórmula de una nueva coalición. En entrevista con The Clinic, plantea que desde la Democracia Cristiana hasta el Partido Comunista deben sentarse a definir sus “máximos comunes” y sostiene que, tras la derrota presiden",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-06T11:02:00+00:00"
+    },
     {
       "titulo": "El balance de una visita",
       "link": "https://laprensaaustral.cl/2026/09/06/el-balance-de-una-visita/",
@@ -13,6 +26,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-06T11:00:19+00:00"
+    },
+    {
+      "titulo": "Las últimas horas de Camilo Escalona y el día después de la muerte del histórico dirigente del PS",
+      "link": "https://www.theclinic.cl/2026/09/06/las-ultimas-horas-de-camilo-escalona-y-el-dia-despues-de-la-muerte-del-historico-dirigente-del-ps/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Cientos de personas acompañaron los restos de quien fuera hasta el viernes el secretario general del Partido Socialista. La asociación del día de su muerte con la asunción de Salvador Allende al poder en 1970 fue inevitable en la tienda que dirige Paulina Vodanovic (PS). Escalona fue despedido de la sede de la colectividad a través de un cortejo fúnebre del que participaron dirigentes del PC, el F",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-06T11:00:00+00:00"
     },
     {
       "titulo": "Editorial: La visita y el insulto",
@@ -148,6 +173,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-06T01:06:11+00:00"
+    },
+    {
+      "titulo": "Alcalde White y cómo vivió la semana en que supo que había un plan para asesinarlo: “Obviamente mi vida es distinta hoy” - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSElqYkp5MEQxbjQ5MFNzVHEwU0MxV21VYTM4MmlsZE5EV1ZCX1hNZlpwVWVDbUFTVFNYUXl6LU1HS3VGaWMzaTQwQllmcDF6MWZhX0RsaW04X2t2WEZIOTBEVi1SN214U2FuTWkxWlVWTGpwb1lxcEN4WnU1RVA5a21tS2xHM3JHYWd0Z2hXRDh5QmtsZ20teFdQcWFDN2tSUDRqQnl6ODAwSnBJT3daNVJjMFg?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alcalde White y cómo vivió la semana en que supo que había un plan para asesinarlo: “Obviamente mi vida es distinta hoy”&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-06T01:00:00+00:00"
     },
     {
       "titulo": "El primer “11” de la era Kast: sin GAP en La Moneda… y sin acusación a Boric - Diario Financiero",
@@ -5630,39 +5666,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-02T23:18:27+00:00"
-    },
-    {
-      "titulo": "Ministro Arrau se reunió con alcalde de San Bernardo tras amenazas de muerte y afirma: “No podemos permitir que el miedo se apodere de las autoridades”",
-      "link": "https://cambio21.cl/politica/ministro-arrau-se-reunio-con-alcalde-de-san-bernardo-tras-amenazas-de-muerte-y-afirma-no-podemos-permitir-que-el-miedo-se-apodere-de-las-autoridades-6a98ae5cc14b124c1572e21e",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-02T23:18:27+00:00"
-    },
-    {
-      "titulo": "Oposición pide al Presidente Kast evaluar la remoción del embajador de Chile en Israel, Gabriel Zaliasnik - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeUdKNE9xeTBEeXBjclpFNXpESi1Jd2dNNHZYOEJMaHNUQktBRFpGT1p0V0plOS1oMzZQNGlSZmVlNzNjNkNjaDN6S3VHQ3BsWGhXWXpGaVNfd0tKNWNWZ0VseVBKRzRNTXJoY1VxNFJwMXR1WVJ3M0Mwcnd4TGVzMHlPeTFWZFEtYVRlNVRfY1BFVExWZDBkLTFrMmptZy04d2NkZjhtdzNwTXNVclliOHlxS1RESzdBRjNDQ1pqcjVoaHZxZThzanhFWXVPM0tqcUJVVXQyONIB6wFBVV95cUxPOUNpZVJ6djcyZEx4VE53cjFKWl83N1liTFlJWUt2cmdVOGJUcmJ0TUZnQ21uZTYyakpydEJqOVJCWi14RGo5OXAya0RZRjlFWklZTUFFXzhkMkR3ZEtQSlJ1MGJ6MUlYcmowUnVZQjJIZGQwSlVaeWgyVzhFcW85eUIxTWxTRWlOZWk2Wm1QbWp6RFAwMzN2R1NmNzNTUk5zSXZjMTVvcXNpSGpkMmxvaXExTF93cEZSbTlneFZSU3VFWUc4UGJrSTg2NXAxbzFseEk4S1pQSzlON3MzNEE4Z1kySVpXYm9abkdv?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oposición pide al Presidente Kast evaluar la remoción del embajador de Chile en Israel, Gabriel Zaliasnik&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T23:18:00+00:00"
-    },
-    {
-      "titulo": "Kast endurece postura por el Estrecho de Magallanes: “Argentina no tiene ni tendrá jamás control” - latribuna.cl",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORDQwVHB3cjRXZWV0SzlWZ21tVVIya0ZQNTE4SGpfY0V6WnRXNEVWaEstWXJERWVqeXU3WG1wdVotT2lSWkJHanRkX25TdW1OenN6dFlodVVsaVlMWWdGckhRamlfb3dfaXRYTGlzbkpiWldRM05MekZFTE9XRTJ2U1JnRGJQYjNOWWhZT0ctZ1g4UDJ2a3FkWkhZTmY3SklhcC1BUmpPeGRFY0ZkcFJPZS1TSEpnaGx3WHRkV183bEQyN2J2Rl93S2pvXzM1WjVlSDFZVlZNc0Y5N3hZ0gHkAUFVX3lxTE5YdWtBQ1gwSkZkVVotNTVMV3hGUlhtM3htbVVMNG1oQXBXX09KbnZvWFRrWWx2R1pyenBnWW5zWktmMnJuSkRNNUFsblJoem1lTV9Jb2dQSTUtbnVyNWI4MlpDVFE4Qzd5cU1iT1RuN0FuOEJaTW9YZFdzajVjNE0tRFJ3dVZkUFVodUxaU2VXeVF4Zm1WLThRcjdhckJ4WFZSLXRGbnE5WWoxSWZCZ2ZOODhNMTdhVGliYXRLbWxUT1MwUzFvRlNQd1VvRUc4X2xXSWp4M24ybjRaaW5fZ3Z5dEdRZQ?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Kast endurece postura por el Estrecho de Magallanes: “Argentina no tiene ni tendrá jamás control”&nbsp;&nbsp;latribuna.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-02T23:15:00+00:00"
     }
   ]
 }
