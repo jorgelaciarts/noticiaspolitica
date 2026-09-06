@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-06T16:16:47.413451+00:00",
+  "actualizado": "2026-09-06T16:31:41.134966+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Aprobación al Presidente Kast cae al 30% y desaprobación sube al 58% según último sondeo de Encuesta Criteria - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcXhuUFJhSTB4M1V2bzdxeU42eDA1ZGhOc0ktZENvOTdkUktJX1JaRTNoUHhaUTk1UDdvTjVVc0lkYnA4bUFSMUw3dXJMd1NVMjlkU21rZGY3YktvRDVFOENaZmhIeHJzSjNSZXNPRndheWd4elN1amFZQnJNeTVYSFRXdXZ6R2ZINHNGQnAyM0szWnNFdWEtbks5NGtiOWdXZVZfYkhVU2dPTGpVdUMwclpLQTZWRlU5akRHU3lrdlFoRmktTER3cS1ULUZMdUd5NXFOaw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Aprobación al Presidente Kast cae al 30% y desaprobación sube al 58% según último sondeo de Encuesta Criteria&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-06T16:14:33+00:00"
+    },
     {
       "titulo": "Alcalde de San Bernardo, Christopher White, revela que tiene seis amenazas en su contra: \"Comenzaron cuando sacamos el comercio ambulante del centro\" - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNEh2UVY3RW1HanlVdjJSTHFYQ3hKYnNaTkVYcWE4T3F5czNGNGo0dzNFRVFHV2hVeTdzZUJSWDZCNEdWUW1iM2p3TzVCSTVlc0pPN0diM0N4d1prZjVkMWhIVjF0SngxRXJTT3dETEhVS09lOEZjNTFDU3NsU09iaVdwSWVaWWJMNXpUMTRIS0g1WkdKZHkwMXBONE82S09YMXgxY0tySFl5UlB3WTRKUHhNR3R5Tlo2WUNHX0RYTTRmUdIBwgFBVV95cUxNNEh2UVY3RW1HanlVdjJSTHFYQ3hKYnNaTkVYcWE4T3F5czNGNGo0dzNFRVFHV2hVeTdzZUJSWDZCNEdWUW1iM2p3TzVCSTVlc0pPN0diM0N4d1prZjVkMWhIVjF0SngxRXJTT3dETEhVS09lOEZjNTFDU3NsU09iaVdwSWVaWWJMNXpUMTRIS0g1WkdKZHkwMXBONE82S09YMXgxY0tySFl5UlB3WTRKUHhNR3R5Tlo2WUNHX0RYTTRmUQ?oc=5",
@@ -164,6 +175,17 @@
       "fecha": "2026-09-06T13:04:26+00:00"
     },
     {
+      "titulo": "Milei y Kast - Diario El Mercurio |",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iaEFOM1M3b0l5Q3hCemcwYlkyak5IM3RIcG9vQXZpZWtuT0FzUUEwR1NmYl9hWEp0UENNSzdFRTZxQkswdVBDOG9IZXpNb0Vkb0FVOUxpcXNNVEFadU01OWVkNWJoVEJqMTBuLTFhdHJfTzJZX2Jr?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Milei y Kast&nbsp;&nbsp;Diario El Mercurio |",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-06T12:01:47+00:00"
+    },
+    {
       "titulo": "Muñoz Riveros: el trumpismo presiona a Kast - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CWmk3c0QtRVJ5Y2pMLVdCUWplSU50bEtCandCRGdhLXhpeXpRTkthYWRTSXF2U0djRVFaamVfT01DSi1WLUl5VWdmVFE0UTBMVGRmYng2cHdqQnVJTjJJRTVBdmVScVo5OXpDY0pR?oc=5",
       "fuente": "Ex-Ante (vía Google News)",
@@ -315,6 +337,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-06T08:00:00+00:00"
+    },
+    {
+      "titulo": "Alejandro Peña Esclusa, ex candidato presidencial venezolano: “El Foro de Sao Paulo se articula para delinquir, mientras que el Foro Madrid se articula para coordinar acciones en defensa de la democracia” - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOOUFFT0gwdWNXRDlicmhBZkZHX09ITGNhaGxnYTF1MFd2Q2Z2QXdfanVXRzNKeFlvMEwzSFlyWkVlb25EZWNsdmFCbW9pbmlwWHM2d09xLW1ObW9VeGxQU2lwSTR2VjM3Z2ZIcS11WnNhd3ZJalJVN0lrUERrT0tDcVVYS2hpN2NWZHpPS0FpWGhPbXUxS3ljdGRadVRfQUhCRlRiVlBoeVZRWkZKSExUcFZvRXhKQmxQWmZPcXV1NzFmaUYxWmRiMzctYXAyUWxFVm9NSHRRVU9hcmxPMjFoNG1zRWZib05WQ0E4VDFvc3F5MHhIcjJjQ3AxQkpkUVpFVnpvNmRtZ1BtQzZWNDg0MlBFZmczYTc0RHVURTVLb1lodFM1RDhyaWw3ckVvbU9QNml5TlN4T2l5UktSQkVRN2x3?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alejandro Peña Esclusa, ex candidato presidencial venezolano: “El Foro de Sao Paulo se articula para delinquir, mientras que el Foro Madrid se articula para coordinar acciones en defensa de la democracia”&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Candidatos"
+      ],
+      "fecha": "2026-09-06T07:55:00+00:00"
     },
     {
       "titulo": "Kast Estrecho Magallanes chilenos buques - La Segunda - lasegunda.com",
@@ -5641,39 +5674,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-03T02:41:26+00:00"
-    },
-    {
-      "titulo": "Fundación de Bernardo Fontaine que hizo campaña por el Rechazo recibió más de $1.900 millones en donaciones anónimas e ingresos desde el exterior",
-      "link": "https://www.elciudadano.com/chile/fundacion-de-bernardo-fontaine-que-hizo-campana-por-el-rechazo-recibio-mas-de-1-900-millones-en-donaciones-anonimas-e-ingresos-desde-el-exterior/09/02/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nUna publicación del medio Reportea informó que la Fundación Ciudadanos en Acción (FCEA), fundada por Bernardo Fontaine -actual presidente de Codelco-, recibió más de $1.900 millones en donaciones anónimas e ingresos desde el extranjero. De acuerdo al reportaje, «los mayores aportes se registraron en 2022 y 2024, periodos en que la FCEA desplegó campañas en [&#8230;]\nLa entrada Fundaci",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-09-03T02:13:47+00:00"
-    },
-    {
-      "titulo": "Arrau tras visita a White: “Enfrentamos un enemigo que es más alevoso y amenaza con utilizar la violencia de manera totalmente descarada”",
-      "link": "https://www.theclinic.cl/2026/09/02/arrau-tras-visita-a-white-enfrentamos-un-enemigo-que-es-mas-alevoso-y-amenaza-con-utilizar-la-violencia-de-manera-totalmente-descarada/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El ministro de Seguridad tuvo un encuentro con el alcalde de San Bernardo, quien se encuentra con licencia médica luego de haber sido alertado de que una banda criminal tenía un plan para asesinarlo. “Está bien, de buen ánimo y con ganas de seguir en el trabajo, que es muy importante para él”, comentó Arrau. Asimismo, remarcó que “lo tenemos que resguardar con la suficiente fuerza para que el alca",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-03T02:10:00+00:00"
-    },
-    {
-      "titulo": "Talca reconoce la trayectoria de la rectora Jacqueline Sepúlveda con la Medalla al Mérito Académico",
-      "link": "https://ladiscusion.cl/talca-reconoce-la-trayectoria-de-la-rectora-jacqueline-sepulveda-con-la-medalla-al-merito-academico/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La trayectoria académica, científica y de gestión de la rectora de la Universidad de Concepción, Jacqueline Sepúlveda Carreño, fue reconocida en su ciudad natal con la Medalla al Mérito Académico, distinción entregada por la Municipalidad de Talca en el marco del seminario “Mujeres que lideran: trayectorias y desafíos para el desarrollo del Maule”. El encuentro, [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-03T02:09:24+00:00"
     }
   ]
 }
