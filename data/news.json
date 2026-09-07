@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-07T14:16:46.703188+00:00",
+  "actualizado": "2026-09-07T14:35:11.492629+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Peñalolén clausura medialuna “clandestina” en la previa de Fiestas Patrias: realizaban rodeos sin autorización y operaba sin patente",
+      "link": "https://www.theclinic.cl/2026/09/07/penalolen-clausura-medialuna-clandestina-en-la-previa-de-fiestas-patrias-realizaban-rodeos-sin-autorizacion-y-operaba-sin-patente/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Peñalolén clausuró una medialuna ubicada en Diagonal Las Torres por funcionar sin patente, sin permisos y con construcciones irregulares. El municipio señaló además que el recinto estaba en una zona de riesgo, y el alcalde Miguel Concha advirtió que con esto \"se acabó el rodeo en Peñalolén\". \nThe post Peñalolén clausura medialuna &#8220;clandestina&#8221; en la previa de Fiesta",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-07T14:22:27+00:00"
+    },
     {
       "titulo": "Desempleo en Chile llega a 9,5% y Kast reconoce que su Gobierno no logra resolver el problema",
       "link": "https://www.elciudadano.com/chile/desempleo-en-chile-llega-a-95-y-kast-reconoce-que-su-gobierno-no-logra-resolver-el-problema/09/07/",
@@ -90,6 +101,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T13:30:00+00:00"
+    },
+    {
+      "titulo": "Kast vincula el \"desánimo\" ciudadano con el alto desempleo",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-vincula-el-desanimo-ciudadano-con-el-alto-desempleo/2026-09-07/102635.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast reconoció que en su Gobierno \"todavía hay un tema que no se ha podido solucionar: el desempleo\", y vinculó la problemática con el \"desánimo\" percibido en la ciudadanía.\nEn entrevista con Radio ADN, el Mandatario expresó que siempre \"ve el vaso medio lleno\" y que Chile atraviesa una etapa de \"recuperación y esperanza\" económica, al destacar avances en la inversión, r",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-07T13:26:35+00:00"
     },
     {
       "titulo": "Presidente Kast defiende su gestión ante la salida de 45 autoridades: “A los gobiernos se les mide por los resultados” - ADN Radio",
@@ -5633,30 +5656,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-03T17:34:05+00:00"
-    },
-    {
-      "titulo": "Sitios de apuestas online burlan bloqueo de Subtel con \"páginas espejo\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/juegos-de-azar/sitios-de-apuestas-online-burlan-bloqueo-de-subtel-con-paginas-espejo/2026-09-03/133241.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Este jueves se cumplió el plazo fijado por la Subsecretaría de Telecomunicaciones (Subtel) para que las operadoras de internet en Chile bloqueen el acceso a 42 sitios de apuestas online, declarados ilegales por la Corte Suprema. Sin embargo, la medida ha enfrentado dificultades operativas debido a las estrategias de evasión de las plataformas.\nLos sitios de juegos de azar y apuestas burlan la medi",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-03T17:32:41+00:00"
-    },
-    {
-      "titulo": "Sitios de apuestas online burlan bloqueo de Subtel con \"páginas espejo\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/judicial/corte-suprema/sitios-de-apuestas-online-burlan-bloqueo-de-subtel-con-paginas-espejo/2026-09-03/133241.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Este jueves se cumplió el plazo fijado por la Subsecretaría de Telecomunicaciones (Subtel) para que las operadoras de internet en Chile bloqueen el acceso a 42 sitios de apuestas online, declarados ilegales por la Corte Suprema. Sin embargo, la medida ha enfrentado dificultades operativas debido a las estrategias de evasión de las plataformas.\nLos sitios de juegos de azar y apuestas burlan la medi",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-03T17:32:41+00:00"
     }
   ]
 }
