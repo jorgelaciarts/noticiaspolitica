@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-09-07T21:01:41.214930+00:00",
+  "actualizado": "2026-09-07T21:16:48.309748+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fichaje de Natalia Duco en el Segundo Piso abre flanco a La Moneda y genera reparos en el oficialismo",
+      "link": "https://www.theclinic.cl/2026/09/07/fichaje-de-natalia-duco-en-el-segundo-piso-abre-flanco-a-la-moneda-y-genera-reparos-en-el-oficialismo/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El arribo de la exministra del Deporte al equipo de asesores del Presidente generó cuestionamientos en sectores oficialistas por la señal de reincorporación a solo 24 días de su salida del gabinete y en medio de la polémica por el uso de un vehículo fiscal. A ello se sumó que aún estaba pendiente el pronunciamiento de Contraloría sobre el caso. “Estas son las cosas que la ciudadanía no entiende”, ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-07T21:09:40+00:00"
+    },
+    {
+      "titulo": "“Imputación inaceptable”: La “nota de protesta” que hizo llegar Paulina Vodanovic (PS) al timonel de los republicanos tras críticas desde su bancada a Bachelet",
+      "link": "https://www.theclinic.cl/2026/09/07/imputacion-inaceptable-la-nota-de-protesta-que-hizo-llegar-paulina-vodanovic-ps-al-timonel-de-los-republicanos-tras-criticas-desde-su-bancada-a-bachelet/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La presidenta del PS envió el jueves una carta al timonel republicano, Arturo Squella, luego de que el diputado Cristián Araya acusara a Michelle Bachelet de haber permitido la inmigración irregular para favorecer su candidatura a la Secretaría General de la ONU. En la misiva, a la que accedió The Clinic, Vodanovic califica los dichos como una “imputación inaceptable”, acusa que se excedieron los ",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-07T21:01:20+00:00"
+    },
     {
       "titulo": "(VIDEO) Estudio revela alta percepción de influencia de bots en procesos electorales",
       "link": "https://www.elciudadano.com/reels/video-estudio-revela-alta-percepcion-de-influencia-de-bots-en-procesos-electorales/09/07/",
@@ -12,6 +37,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-07T21:00:09+00:00"
+    },
+    {
+      "titulo": "﻿Oposición ingresa interpelación al canciller Pérez Mackenna",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/oposicion-ingresa-interpelacion-al-canciller-perez-mackenna/2026-09-07/175824.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado socialista Nelson Venegas confirmó este lunes el ingreso de una interpelación contra el canciller Francisco Pérez Mackenna luego de que la oposición reuniera las firmas necesarias para presentar la primera acción hacia un integrante del gabinete del Presidente José Antonio Kast.\nEl parlamentario prevé que, al ingresar la petición en esta jornada, la mesa de la Cámara Baja fije para el ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-07T20:58:24+00:00"
     },
     {
       "titulo": "Directo al «2do. piso»: Natalia Ducó vuelve al Gobierno a solo 24 días de su salida como Ministra del Deporte",
@@ -5618,39 +5655,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-03T22:48:00+00:00"
-    },
-    {
-      "titulo": "Kast en Foro Madrid: “Si no hacemos las cosas como corresponde, nos van a pasar la cuenta, y la izquierda podría volver” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc19XTmpjd25QSW81MXFiTFZPTk9mVUtJRUdrZUY0dC0xSi1INzlmQ1R4WGxHOXp1OExiQkUwMVVjUk9PNHBieC1IMWhuNzhETThFT2N2MGttb0wyTDk3WU56bTFsemI0Zk8zTVBTdlhvei1XUzRqUHZNbURqTkVhT2hxbGZpVkFKeW1BNTdIRHRxRTlrb2xibktmN0FQNVVjRzZTQk50bFNwVGtLWHpIWlNrbUlFQ25KVlBsXzdwS3lXV0VVR3h6SElUVU5Bd3VRUXN4a05VYXpMVFBrWTZscE5IbklnTTltNE5zeXJVZEM?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast en Foro Madrid: “Si no hacemos las cosas como corresponde, nos van a pasar la cuenta, y la izquierda podría volver”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-03T22:43:55+00:00"
-    },
-    {
-      "titulo": "Kast en Foro Madrid: “Si no hacemos las cosas como corresponde, nos van a pasar la cuenta, y la izquierda podría volver” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc19XTmpjd25QSW81MXFiTFZPTk9mVUtJRUdrZUY0dC0xSi1INzlmQ1R4WGxHOXp1OExiQkUwMVVjUk9PNHBieC1IMWhuNzhETThFT2N2MGttb0wyTDk3WU56bTFsemI0Zk8zTVBTdlhvei1XUzRqUHZNbURqTkVhT2hxbGZpVkFKeW1BNTdIRHRxRTlrb2xibktmN0FQNVVjRzZTQk50bFNwVGtLWHpIWlNrbUlFQ25KVlBsXzdwS3lXV0VVR3h6SElUVU5Bd3VRUXN4a05VYXpMVFBrWTZscE5IbklnTTltNE5zeXJVZEPSAZICQVVfeXFMT0FTc29RLVJTQ01WeU1UdGZtQ0pGZXprbkpQazBqOVJsbTRDZUJHWFljTnQ3bFFyNlpDTFdxNG1IYzVwUXZ6MUpkejU2QTE3d1Y2T09ucktiWUZUY2hIVGUtTmRmbEU4RS1uYng0RWkwOHBlZDhNaDJuWGppbGQ5c1pkYVJtOGxZcWkycEc4N2ljdVBHM21PSXVyU2N1dV8zaDBrZGFieVMxMVM1OC14REdjN1ZYMVA3MDh0SlpZMWJnQW1DZEhTc1MzQ0E5Ql9vZUdRVDZ2UHlZZF9GQ2RMSnFaZmFGb0UxbGJiOTFzRm05OGhqRWVfTE9tcjRqdHVHX0RJMTctSU5VMXZqVWF4VFdxUQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast en Foro Madrid: “Si no hacemos las cosas como corresponde, nos van a pasar la cuenta, y la izquierda podría volver”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-03T22:43:55+00:00"
-    },
-    {
-      "titulo": "Contraloría detecta contratos por $758 millones de la Municipalidad de Curacautín con familiares de funcionarios - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmIzY1RCRUM4YmQyek9TbWVsWVRGYXc2akxpaHUyMlo1UVlCM0JERDBaVURFT0IwZm9hcmJtY29UZDdUU05GRFFTTTY5SXBTOGZMNmNHcS1QSmlFbmJya09PT1NHX01uOE1LNXdBTEVhaUFPMHpMUUJjeXBGdy1fMFdtOTl1MV9LNTN2YXpQRldWejdtS25ZZWdzTWV3bHpURGVNc0NTYklDa1QtYUdMRVVHVWUtamtxQTZGS0xLdFNuZk4yelFWT3l6MHowR1IwbDY2YVJYbG9YUQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Contraloría detecta contratos por $758 millones de la Municipalidad de Curacautín con familiares de funcionarios&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-03T22:41:11+00:00"
     }
   ]
 }
