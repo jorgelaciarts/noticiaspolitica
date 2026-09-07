@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-07T03:46:26.550566+00:00",
+  "actualizado": "2026-09-07T04:01:57.598037+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Boric y Bachelet despidieron al histórico dirigente político Camilo Escalona en el Congreso Nacional de Santiago",
+      "link": "https://cambio21.cl/politica/boric-y-bachelet-despidieron-al-historico-dirigente-politico-camilo-escalona-en-el-congreso-nacional-de-santiago-6a9e2edf2a4a212d31713bd3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-07T03:31:09+00:00"
+    },
     {
       "titulo": "Boric y Bachelet despidieron al histórico dirigente político Camilo Escalona en el Congreso Nacional de Santiago",
       "link": "https://cambio21.cl/pais/boric-y-bachelet-despidieron-al-historico-dirigente-politico-camilo-escalona-en-el-congreso-nacional-de-santiago-6a9e2edf2a4a212d31713bd3",
@@ -5657,17 +5668,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-03T13:25:11+00:00"
-    },
-    {
-      "titulo": "Sigue en VIVO el \"Foro Madrid\": Milei inaugura cumbre en Santiago y Presidente Kast cerrará el encuentro - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR1I3YUVQV1hIT1NuZnU2UWZYbVRTMjNSV0w1c05xRUdRTGVSNXUzRzlLUDJTSThOWVJXRHRDN1k2Z0Vjc3pHdUZ2T2xjblRLeEdTVXpTNXdHc2R5cWN0OHRYS09LWlhsTEp1NTNuenZfeldOQjNFd2tuX05TR0RtN0xveVJXWDRiWE9CeVNjaGF0aTdZbGFiZ0pUM2pPbDRjajB6R0pKNHR1bXdRR1pJNU91eThHZ0s5d2VzMEFOOTlnUQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Sigue en VIVO el \"Foro Madrid\": Milei inaugura cumbre en Santiago y Presidente Kast cerrará el encuentro&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-03T13:25:00+00:00"
     }
   ]
 }
