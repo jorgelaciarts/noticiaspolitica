@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-07T17:29:08.609253+00:00",
+  "actualizado": "2026-09-07T17:31:45.360371+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Natalia Duco vuelve a La Moneda como asesora del Segundo Piso",
+      "link": "https://www.lanacion.cl/natalia-duco-vuelve-a-la-moneda-como-asesora-del-segundo-piso/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La exministra del Deporte, Natalia Duco, volverá a asumir funciones dentro del Gobierno tras haber presentado su renuncia al cargo el 14 de agosto pasado, en medio de cuestionamientos de la Contraloría por el uso irregular de un vehículo fiscal.. Según consignó&#160;The Clinic, Duco se sumará al grupo de asesores presidenciales liderado por Alejandro Irarrázaval,&#160;sellando [&#8230;]\nThe post N",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-07T17:29:42+00:00"
+    },
     {
       "titulo": "Natalia Duco vuelve a La Moneda tras polémica por uso de vehículo fiscal - diarioeldia.cl",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGtWNlY3TlMxbXp2MmNGS0hKU0pteFRTMTlhSjNSSXBwTHJPMGJnTnEzX0lKdElkeThvdzNqTnlrdTF5MVFwWVNQd29wZzYyLWZzZ19xdFp2ZEtXRXhoRllTYUhlX1ZXakprNWNEZldqRnEySzhORnBzU0RTVlRDMEJUM0labTVuLWh0TnZxZ0d3YVd6YlVkR1A5bzhsQjVXdWdlSThOU3I5X01jRVBZNHdMQTFNZG5KNlQ4LWJXZkIyZFNm?oc=5",
@@ -777,6 +788,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-07T12:26:34+00:00"
+    },
+    {
+      "titulo": "Presidente Kast por eventuales cambios en la arquitectura del Estado: '¿Necesitamos 25 ministerios?' - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUN4bXlaTHFVNHRHUjBfdENVamNYMFo3UXZsS0lPRldYamFXTk5xUE4yLWxsWV9fNGtSZ0JqQkV4eXBaWkFDY2xwRHVPckk0ZnM3SW5Sd2F0VnpmVHFick10REs4TlF1bkJaWXNpNTQ2bXBDbV9rNDhmOGFMdEd5Z212SmxMRGdfUkQ0T29VSzk3RmFhNk9BR1ZKNmRkajh5dHhfLWUwZ25lQ2xnTHNiZXpLSkdvdmZBUXpGT0hjNFNHUlnSAcgBQVVfeXFMT1NteEZucnU4WGpiQUs1cEgwOTBTZjZOcnNyMVl3YzBMY1lVc2ZKVDY4bVJPQ3BBSXNBWUFHRmY2ODBGX1o1SnNiMk1UZ0RXVnhYOTFTNDVfOEwxQzFvUk9rNFE5THdXVDIxVk51V0lGYkUyX2lPNzhKbmdMM19kTDd4TTJRM1M1SHJUdGdtNlRNRVVaSzJINy03SmtxNm40em5OVmhMeXZGZld5bzBsSHd3c0pvTEhybDFLdXRnOEduQXJKRG9qLUE?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast por eventuales cambios en la arquitectura del Estado: '¿Necesitamos 25 ministerios?'&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-07T12:25:00+00:00"
     },
     {
       "titulo": "Senador Flores (DC) y nuevo estado de excepción: “No podemos a cambio de vender humo en materia de seguridad, trastocar la democracia” - La Tercera",
@@ -5629,28 +5651,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-03T20:30:00+00:00"
-    },
-    {
-      "titulo": "Partido Socialista pide al Gobierno rechazar dichos de Milei sobre Allende: \"Existe un límite que ninguna democracia debe relativizar\" - 24horas.cl",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNlF2cFFJMjNKRWswelJTbFNPVDBWOFBNUkpoX1NLdWtZdVFSQTNSd2xJMFdTRDE0OTZWSmNjRTNkZHpfQUhITEJ3WlFMN2NzY2twN2t3b3VUTzlPM09SOGlyVnBud1JBM2szTU1PMkVRS096SHBPcWdXYW1SX0c5SnNhdHI1blozd3ZteEZ0czRJejQ1QXhrTURpTnlyRm81ME5hTkVIckJnLW4zaFV0RF9xTGdnU2lT0gG-AUFVX3lxTE9yMmNJTFBfOXpwMnZ6OUVsWWpydVNhWUhnYjFfZ1dBLW92ZHNCaTZZNTZXNGxQWVlEVHFFbHVobHg4RDM5Z29DWUZNd19qaFFObHlZdnNxbFVsb0kzd00xLVhRckhjYVZMVWdFaDZ6NWFPS0ZNdXFGd0l3UVhQTU5NZ0hMenU0bjgtMUdtcmdOeEM2eHpfWnhoRDExSDU2OHd0N0h1VXBxdHZnT1JreDYzQzdaYnMybXhDLUxycXc?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Partido Socialista pide al Gobierno rechazar dichos de Milei sobre Allende: \"Existe un límite que ninguna democracia debe relativizar\"&nbsp;&nbsp;24horas.cl",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-03T20:29:00+00:00"
-    },
-    {
-      "titulo": "Diputado Cristián Tapia acude a Contraloría y exige fiscalizar situación de Ruta 5 Norte entre Vallenar y La Serena tras graves accidentes",
-      "link": "https://www.elciudadano.com/chile/diputado-cristian-tapia-recurre-a-contraloria-y-exige-fiscalizar-situacion-de-ruta-5-norte-entre-vallenar-y-la-serena-tras-graves-accidentes/09/03/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl diputado Cristián Tapia llegó hasta la Contraloría General de la República para ingresar un oficio y solicitar una fiscalización respecto de las condiciones en que se encuentra la Ruta 5 Norte, específicamente el tramo entre Vallenar y La Serena, donde durante las últimas semanas se han registrado graves accidentes y extensas interrupciones del tránsito. [&#8230;]\nLa entrada Diputa",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-03T20:27:44+00:00"
     }
   ]
 }
