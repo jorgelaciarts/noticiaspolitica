@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-08T12:16:40.481690+00:00",
+  "actualizado": "2026-09-08T12:31:32.480005+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) La aprobación de José Kast cae al 30% y su desaprobación alcanza el 58%, marcando su peor registro según la última Agenda Criteria.",
+      "link": "https://www.elciudadano.com/reels/video-la-aprobacion-de-jose-kast-cae-al-30-y-su-desaprobacion-alcanza-el-58-marcando-su-peor-registro-segun-la-ultima-agenda-criteria/09/08/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nJosé Kast enfrenta un significativo descenso en su aprobación, alcanzando solo el 30%, mientras su desaprobación aumenta al 58%, según el reciente informe de Agenda Criteria. Junto con esto, el sentimiento de pesimismo sobre la economía nacional crece, con una mayoría creciente de personas que culpa al gobierno por los problemas actuales.\nLa entrada (VIDEO) La aprobación de José Kast ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-08T12:30:12+00:00"
+    },
     {
       "titulo": "Oposición presenta interpelación a canciller Pérez Mackenna",
       "link": "https://ladiscusion.cl/oposicion-presenta-interpelacion-a-canciller-perez-mackenna/",
@@ -5643,17 +5654,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T02:52:07+00:00"
-    },
-    {
-      "titulo": "Armada exhibe despliegue de flota en el Estrecho de Magallanes tras bilateral entre Kast y Milei",
-      "link": "https://www.theclinic.cl/2026/09/03/armada-exhibe-despliegue-de-flota-en-el-estrecho-de-magallanes-tras-bilateral-entre-kast-y-milei/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Poco después de que se diera a conocer el comunicado conjunto entre los gobiernos de Chile y Argentina, en el que se ratificó que Chile tiene la soberanía sobre la totalidad del Estrecho de Magallanes, la Armada destacó el despliegue de un total de 13 unidades en dicho paso marítimo. \nThe post Armada exhibe despliegue de flota en el Estrecho de Magallanes tras bilateral entre Kast y Milei appeared",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-04T02:45:41+00:00"
     }
   ]
 }
