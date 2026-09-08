@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-08T15:15:41.151955+00:00",
+  "actualizado": "2026-09-08T15:31:46.201184+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Carmona: \"La Moneda fue bombardeada en una guerra fantasma del fascismo contra la sociedad chilena\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/salvador-allende/carmona-la-moneda-fue-bombardeada-en-una-guerra-fantasma-del-fascismo/2026-09-08/122010.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-08T15:20:10+00:00"
+    },
     {
       "titulo": "Cámara de Diputados aprueba interpelación al canciller Pérez Mackenna: será el lunes 28 de septiembre - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1FzSU9ZNVlZSXd5X1RoaFZSRWRrcHRGZGJGWHp6cWJ4WXJabkxMdFNRMVFMLXI2SElwZElLMmZxdHZnckV5amJsQ1NhbGRZMDRCSGllbWd1ZjE3cmM2Qk9KMWI0MXNneDEyZTExZ3lEWTVMeFZJb2lYRzhEc0VyTXZlWDFOSjFRd2J6UjBVOUMtaVdEaHVXb1JhT3d3ZXllYmNsSGl0RHEtWVpfbG1GcUpVVEF1dU94cVhiRndWTVY1bDZidWR1dnBhZlNxVGdZc3c?oc=5",
@@ -101,6 +112,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T14:27:00+00:00"
+    },
+    {
+      "titulo": "\"Inspección Total\" a gestión de Boric deriva cuatro casos a Fiscalía",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/transparencia/inspeccion-total-a-gestion-de-boric-deriva-cuatro-casos-a-fiscalia/2026-09-08/111525.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno dio por concluida la fase de revisión del proceso de auditoría interna denominado \"Inspección Total\", cuya quinta sesión de trabajo se desarrolló en el Palacio de La Moneda.\nLa instancia, centrada en el análisis de transferencias de recursos públicos dirigidas a personas jurídicas sin fines de lucro -tales como fundaciones y corporaciones-, encendió alertas en nueve ministerios y deriv",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-08T14:15:25+00:00"
     },
     {
       "titulo": "Gobierno concluyó auditoría y derivó antecedentes de convenios a Contraloría, CDE y Fiscalía",
@@ -5630,28 +5652,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T14:51:59+00:00"
-    },
-    {
-      "titulo": "Clave: eileen urqueta - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1qYS1fUUNNLUZmQXRiRmNaZ1BCTHFLNTBkTkpXQnhCSXFYY3FvWDVTSzBZUE5PTTU5VEhjS0dRSUhoY2ptYjlXVnhUOUVtTm1UbUZtNUp3?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Clave: eileen urqueta&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-04T14:48:27+00:00"
-    },
-    {
-      "titulo": "De 25 a 18 ministerios: la propuesta que busca reorganizar el Estado desde La Moneda - elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQXVwS0ZYYzFYNG84RkJRYzVhd2xnYjgyVUtMOXpwUHhiNUludzBVQzdhVjNhLUI3MkF3cGVoWk8yOXNVNUpBVVhPRGlUVkVwRjRQTkVDTzFscC1iUGRVQk1rZXVkT0V1TUZzakRzTzdLMzE5MkRka1NSVldvbGpEU2FSSUoycDN5VUZ6OUtXU1kyNlg4OUZlUzF2T00ycHl3YlQwQ3N2NTVEV09BcEFpQWdBeUpqdV9TcW9zMDRNdHo?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "De 25 a 18 ministerios: la propuesta que busca reorganizar el Estado desde La Moneda&nbsp;&nbsp;elnortero.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-04T14:46:31+00:00"
     }
   ]
 }
