@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-08T18:46:41.823991+00:00",
+  "actualizado": "2026-09-08T19:01:36.221934+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Región de Valparaíso conmemora los 53 años del golpe militar con distintas actividades",
+      "link": "https://www.elciudadano.com/valapraiso/golpe/09/08/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nDistintos actos de memoria en localidades de la región honrarán a las víctimas de la dictadura este 11 de septiembre en que se recuerda un nuevo aniversario del bombardeo a La Moneda y el violento fin del gobierno de la Unidad Popular. Este viernes 11 de septiembre se cumplirán 53 años del golpe civil y [&#8230;]\nLa entrada Región de Valparaíso conmemora los 53 años del golpe militar ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-08T18:57:07+00:00"
+    },
     {
       "titulo": "(VIDEO) Kast habla de paz, unidad y prosperidad. Pero hay algo que no calza.",
       "link": "https://www.elciudadano.com/reels/video-kast-habla-de-paz-unidad-y-prosperidad-pero-hay-algo-que-no-calza/09/08/",
@@ -23,6 +34,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-08T18:43:34+00:00"
+    },
+    {
+      "titulo": "Camila Vallejo acusó \"actitud muy cobarde\" de Kast frente a Milei",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/camila-vallejo-acuso-actitud-muy-cobarde-de-kast-frente-a-milei/2026-09-08/152907.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La exvocera de Gobierno Camila Vallejo acusó al Presidente José Antonio Kast de tener una actitud \"cobarde\" en relación a su par argentino Javier Milei, en medio de la controversia por la soberanía del Estrecho de Magallanes.\nEn conversación con la uruguaya La Diaria Radio, la militante del PC cuestionó el paso del mandatario argentino por nuestro país, en donde criticó al \"comunista (Salvador) Al",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-08T18:29:07+00:00"
     },
     {
       "titulo": "Castro (PS) pide a Kast citar al Cosena para abordar tensión con Argentina por Estrecho de Magallanes - BioBioChile",
@@ -5627,31 +5650,6 @@
         "Elecciones"
       ],
       "fecha": "2026-09-04T18:57:02+00:00"
-    },
-    {
-      "titulo": "A cuatro años del Rechazo: UDI propone incluir el proceso constitucional en el currículum escolar",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/constitucion/a-cuatro-anos-del-rechazo-udi-propone-incluir-el-proceso-constitucional/2026-09-04/145519.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Al cumplirse este viernes cuatro años del plebiscito constitucional del 4 de septiembre de 2022, en que el 62% de la ciudadanía optó rechazar la nueva propuesta de Constitución elaborada por la Convención Constitucional, los partidos de derecha realizarán distintos actos conmemorativos y también presentaron una controvertida propuesta educativa.\nLa bancada de diputados de la UDI anunció la present",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-04T18:55:19+00:00"
-    },
-    {
-      "titulo": "Incendio destruyó el 85% de la histórica Casa de la Cultura de Coronel",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/incendio-destruyo-el-85-de-la-historica-casa-de-la-cultura-de-coronel/2026-09-04/144527.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un incendio consumió cerca del 85% de las dependencias de la Casa de la Cultura de Coronel, inmueble patrimonial que albergaba el teatro, salas de cine y oficinas administrativas de la comuna en la Región del Biobío.\nLa emergencia requirió el despliegue de más de 150 voluntarios de Bomberos y dejó con daños estructurales a dos locales comerciales colindantes, paralizando el principal polo cultural",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-04T18:45:27+00:00"
     }
   ]
 }
