@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-08T03:01:45.969437+00:00",
+  "actualizado": "2026-09-08T03:16:41.180154+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Justicia falló contra el Serviu Antofagasta por casas agrietadas y con filtraciones",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/justicia-fallo-contra-el-serviu-antofagasta-por-casas-agrietadas-y-con/2026-09-08/000337.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Juzgado de Letras en lo Civil de Antofagasta declaró que el Servicio de Vivienda y Urbanismo (Serviu) de la región incurrió en una falta de servicio en el caso del condominio El Salar, cuyas viviendas comenzaron a agrietarse poco después de su entrega en 2020, y fueron declaradas inhabitables un año después.\nEl tribunal también apunta a la responsabilidad de la constructora Silvio Cuevas Suárez",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-08T03:03:37+00:00"
+    },
     {
       "titulo": "Partido Republicano asegura que Kast aumentó la PGU, pero alza se estableció y concretó durante gobierno de Boric - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZ3RNX1dTanpNbkJsM3hnZDV3TnQzc1NPdXZZa1k2Wlo0dVc1N3VFUWszVVJxY0UzaWhzT0kyZFZldU14M3dIM2V1VHhvR2JmaXd0Y3hZWWx4N0Q2TnU1elRGS0lKTHpjYnVxeU9ILURFcXl6bm9tazhxNmk2ZVVLYUQ0RkJCQ0V1OW0xbDhWdFBYRzY3dTNuUEVkNENfYWZhcWY4STJHY0RYS3Zka3Vqb01jeFJ3TGJDLXJwV2FQQmFoX085QU1taUpxR2lsdXBFYWRzVjJKUnNfYkk?oc=5",
@@ -168,6 +180,17 @@
         "Senadores"
       ],
       "fecha": "2026-09-07T22:45:00+00:00"
+    },
+    {
+      "titulo": "Municipalidad de Concepción detalla calles cerradas y desvíos de transporte público por el WRC Rally Biobío 2026 - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUUozcFE5eEx5TnI4WGFLMUxmdHF6eC1VZzhMLTZPR3ZqWTNxYWtXXy1qOVJjSUhmT2tiakpYYUdHczZ3YmZWMkk3ZTFSQXRUdFBQdTJyLXZyZDhub2R0N3JKTVhlM1RQRXBnSjVMMzVrT29DOG15RmNTdGJoVWthLS1KU3YzaHlGekFWNGN5b3pfZDk2b3duTU80TjN4TEkyR3ZWa2JOQzd6Zjc2WTgzNQ?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Municipalidad de Concepción detalla calles cerradas y desvíos de transporte público por el WRC Rally Biobío 2026&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-07T22:32:06+00:00"
     },
     {
       "titulo": "Exjefa de gabinete de diputado Camaño asume como seremi de Salud de Los Lagos: cuestionan designación - BioBioChile",
@@ -5633,30 +5656,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T00:12:13+00:00"
-    },
-    {
-      "titulo": "Kast, en el foro ultra de Santiago de Chile: “Si lo seguimos haciendo bien, algún día será Managua. Algún día será La Habana” - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPdGZLYmdDNmJHVVBoTmpaV2J0dkVrWWVIcFhxVnNweDVoVHhmX2VYVEFzcUE1SDJnNXdEZENjUzZ3a2Y5bWxNZFpaQ0xpb2UyMHVaV3JkWFNUS2dDc3dQVFF2OVp1N3hRS2FhV0d6eFlJNVJNV2ZoeEkzMTNodjYwbWFqWEJOcWRscWhMeHYyRE5JUEs3M1ZuTVpjTVpJYlJ5ZTZnOFl4Mk0yb2plYnBYd0ZKc2FLM0FYeERNYWJ2Q2E0Yjdoc1NvZ0I3Ml93ekNfWFRHZEgxNDJSVW1oUDM5R2FoWE5NelNHV2UtWWNrVVhZUdIBhgJBVV95cUxPaEdfYjYyeVliTG1SWFVyaUpteVkxZXEwTjhzcTdfZFowSkxHNlBwSk5IMTV2dlh3cG1EaEh0SWRqWnRMZzJiZ2FHTTBpazVtdktHbHFWcE5lejdNa3YzX2RYWVBvUTN4S0dReG9VYVkzdXQtcy1PMzgtOWxXd0tXLTBwUzRhN21HM3lHUzVCZ05lcDNLSnFBQlY0M3JjTUNDaW5YUW95VEcyMFlYZlQ0SW1RV0VsZHZsYjhPUmVFQXBmNTRkZDZ0Q3BYNWdYTWV1eG1XYXRtRFhOSU5MaEdEZXdfeS1OQ2hJUXFnYkxCbzZlbWZabkRWejhvT0pkUzN4TU83YmlB?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast, en el foro ultra de Santiago de Chile: “Si lo seguimos haciendo bien, algún día será Managua. Algún día será La Habana”&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-04T00:12:13+00:00"
-    },
-    {
-      "titulo": "PS repudió tesis republicana de que Bachelet \"avaló la inmigración ilegal\" para escalar en la ONU",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/ps-repudio-tesis-republicana-de-que-bachelet-avalo-la-inmigracion/2026-09-03/200754.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Partido Socialista manifestó su rechazo a las críticas realizadas por el diputado republicano Cristián Araya en contra de la expresidenta Michelle Bachelet, en el marco de la realización del encuentro del Foro Madrid.\nEn la cita, el parlamentario se refirió a los movimientos estudiantiles y al estallido social, recalcando que \"fueron destruyendo el respeto a la autoridad, al orden, a las normas",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-04T00:07:54+00:00"
     }
   ]
 }
