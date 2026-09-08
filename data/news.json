@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-08T19:01:36.221934+00:00",
+  "actualizado": "2026-09-08T19:16:38.681180+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Frente Amplio convoca a su primer comité central del ciclo Yeomans - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3BiVlQwMG45ZzNfcVc5UDdkSG56WVBCYlRiX0hvalozWXNsMWY3R1Y4SWhPVFU2dUxkU290WVhZVEV5aURveUEwQVJoMlIwMnJBcGZNbEkzbWozLUVHeUJ6VDRpeFhQb0RFMFRrQ1ZST3h3bFd0emtxU3hnd0lOZko5NFVJV1Z0blhvMFk3TDdoWkc1Z1VOREthcjV5cHE5UUVYWW5FV2FzeGNKNkxv0gHQAUFVX3lxTE9YQ2N1bFBzQWliZjR4eFhiUlhITllqTXVaRlZ5dWhYZ1djSnk2X0tmY01DdDZWcmRqQzBtYXpiWndfa2luZzFkUU5feUo4VDQtR19Wc0JVUEhub1l2emJrMDN4NGFVSDg3SlNnNjFXV2Y2LTlZSXZPQy13VUpfWE1RZ0ZyOWhvMWlNQnRhVDd5a0ZYZ3ZkUXlDOG5BSG8tZlFHNXlMQXNIZzF4ZHhaa3lHZExVMmxwWi1ldzIyVDdtTjBhSjZjdVJyUTl6dFpZcTI?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Frente Amplio convoca a su primer comité central del ciclo Yeomans&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-08T18:58:47+00:00"
+    },
+    {
+      "titulo": "Ante llamado a convocar al Cosena por Argentina: Barros asegura que la decisión es de Kast pero no hay una \"situación excepcional\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLVlyMGI0eC04cWd5cEVqWHl5Y0cySi1FQjlHekpPSVBDMUkzaVN1cktRZVpOemJnMWw2N1Y3R1BLY0xYcWM0U3NqaWpGYzJ5ekRfTnFjb0lrZlNRT0d5OXJudUlmSzZVZk8tMnNJQnRLSEstS1oyQWVnNEo5UWtKMFZQZmhGMk5QUmVWV3NqQm9ScjBFOE9vVHJnZTVNYnJzZGk3TE9aaXE0NGNTdEFMblVlZThLdk5IM2xR?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ante llamado a convocar al Cosena por Argentina: Barros asegura que la decisión es de Kast pero no hay una \"situación excepcional\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-08T18:58:00+00:00"
+    },
     {
       "titulo": "Región de Valparaíso conmemora los 53 años del golpe militar con distintas actividades",
       "link": "https://www.elciudadano.com/valapraiso/golpe/09/08/",
@@ -5626,30 +5648,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T18:59:00+00:00"
-    },
-    {
-      "titulo": "Senador Castro para Cambio21 y las granjas de bots en campañas de la derecha: \"Distorsiona el uso de todas las libertades, la de decidir con la instalación de información falsa\"",
-      "link": "https://cambio21.cl/politica/senador-castro-para-cambio21-y-las-granjas-de-bots-en-campanas-de-la-derecha-distorsiona-el-uso-de-todas-las-libertades-la-de-decidir-con-la-instalacion-de-informacion-falsa-6a9b0843ee0c0c71f633e1a3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores",
-        "Elecciones"
-      ],
-      "fecha": "2026-09-04T18:57:02+00:00"
-    },
-    {
-      "titulo": "Senador Castro para Cambio21 y las granjas de bots en campañas: \"Distorsiona el uso de todas las libertades, la de decidir con la instalación de información falsa\"",
-      "link": "https://cambio21.cl/politica/senador-castro-para-cambio21-y-las-granjas-de-bots-en-campanas-distorsiona-el-uso-de-todas-las-libertades-la-de-decidir-con-la-instalacion-de-informacion-falsa-6a9b0843ee0c0c71f633e1a3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores",
-        "Elecciones"
-      ],
-      "fecha": "2026-09-04T18:57:02+00:00"
     }
   ]
 }
