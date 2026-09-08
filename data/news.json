@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T13:31:53.103778+00:00",
+  "actualizado": "2026-09-08T13:46:43.498612+00:00",
   "total": 500,
   "items": [
     {
@@ -182,6 +182,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-08T12:07:00+00:00"
+    },
+    {
+      "titulo": "Controversia por cuerpos hacinados en contenedores del SML",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/sml/controversia-por-cuerpos-hacinados-en-contenedores-del-sml/2026-09-08/090324.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Servicio Médico Legal (SML) mantiene dos contenedores congeladores en el patio de su sede principal en la comuna de Recoleta, los cuales albergan un total de 80 cuerpos no retirados.\nLa medida fue implementada originalmente en septiembre de 2024 para enfrentar el colapso y la acumulación de fallecidos en sus dependencias.\nUn tercer módulo, que contenía 12 cadáveres, ya fue desocupado tras reali",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-08T12:03:24+00:00"
     },
     {
       "titulo": "Oposición presenta interpelación a canciller Pérez Mackenna",
@@ -5644,17 +5656,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-04T13:02:02+00:00"
-    },
-    {
-      "titulo": "Diputados oficialistas respaldan frase zurdos mugrosos de Javier Milei en Chile: Representa el alma - eldesconcierto.cl",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHJaeXp2aHBycXZuaTQ4a2MtUzQxb1FBbVBuNzNyRXZXclREdTJsUjZzS0N1UkFTT1ZNcFRWQ1NwbFVXUlJFNlZpZG5SNFFZVWJXbjdCeXBJTy1HWE1VcGMxY05nOGlSWHZfNk9oZGViYUdLRHVKa084MGhMUWpLNGYzZlU1NkRrZ0ltYzdZemN6U3Q4aExMcnZJVVZlNkhLVWJkYmsyLXNvSmowYzVTRWtYZ0tHNnpRNkVkZEU5dDB1WHFVcVdrcldvTWZRREg3eFcxRg?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados oficialistas respaldan frase zurdos mugrosos de Javier Milei en Chile: Representa el alma&nbsp;&nbsp;eldesconcierto.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-04T12:58:00+00:00"
     }
   ]
 }
