@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T19:16:38.681180+00:00",
+  "actualizado": "2026-09-08T19:35:14.649210+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T18:57:07+00:00"
+    },
+    {
+      "titulo": "SII defendió cobro a apuestas online y proyectó recaudación inicial de US$100 millones",
+      "link": "https://www.cooperativa.cl/noticias/pais/juegos-de-azar/sii-defendio-cobro-a-apuestas-online-y-proyecto-recaudacion-inicial-de/2026-09-08/155153.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Servicio de Impuestos Internos (SII) defendió ante la Comisión de Economía del Senado su decisión de cobrar IVA a las plataformas de apuestas online que operan en Chile, pese a la controversia en torno a la legalidad de su actividad, y estimó una recaudación de más de 100 millones de dólares en una primera instancia.\nDe acuerdo a Emol, el director Jorge Trujillo explicó ante la instancia que la",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-08T18:51:53+00:00"
     },
     {
       "titulo": "(VIDEO) Kast habla de paz, unidad y prosperidad. Pero hay algo que no calza.",
@@ -127,6 +138,20 @@
         "Diputados"
       ],
       "fecha": "2026-09-08T17:35:37+00:00"
+    },
+    {
+      "titulo": "Magallanes: Núñez valora opción del Cosena, pero exige \"claridad y orden\" a La Moneda",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/magallanes-nunez-valora-opcion-del-cosena-pero-exige-claridad-y/2026-09-08/143303.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta del Senado, Paulina Núñez (Renovación Nacional), se mostró dispuesta a que se cite una sesión del Consejo de Seguridad Nacional (Cosena) -órgano asesor de la Presidencia de la República en materias de seguridad nacional e integridad territorial- para abordar la soberanía de Chile y el control en el Estrecho de Magallanes, tras la propuesta formulada por el senador socialista Juan Lui",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-08T17:33:03+00:00"
     },
     {
       "titulo": "Estrecho de Magallanes: Núñez se abrió a citar al Cosena, pero exigió \"claridad y orden\" a Kast",
@@ -5625,29 +5650,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T19:56:52+00:00"
-    },
-    {
-      "titulo": "Los preparativos del Partido Nacional Libertario para conmemorar un nuevo 11 de septiembre",
-      "link": "https://www.theclinic.cl/2026/09/04/los-preparativos-del-partido-nacional-libertario-para-conmemorar-un-nuevo-11-de-septiembre/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "A diferencia del Gobierno, desde donde han sostenido que no se realizarán actividades de un carácter específico por la fecha, desde la tienda que dirige Johannes Kaiser proyectan hacer un repaso histórico del año 1973, con el realce de los pronunciamientos de la Cámara de Diputados y de la Corte Suprema para explicar lo que ocurrió el día del golpe en el que se derrocó el gobierno de Salvador Alle",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-04T19:45:00+00:00"
-    },
-    {
-      "titulo": "Embajador de EEUU dice que Chile está ejerciendo la Doctrina Donroe con mayor facilidad gracias a Kast - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSVd5SzU2aWxhamc3cjVuVmFMQkVGS25LY3VTY240eGFxQXFEZGs1NFpjanpHSUN1Mmk1ZUhwTHFmUTNRYjRFbVFYd3ZzUXpMeUI3QzgyRzhmU0RNQURjVjZrV280Qk83aGY5UjhRYkJiaFctYklZYzRKcWNFdlJNRmlmU1JySld0dGRnSlVxc1ZLOURTTDAwTkQtWVNpOW5kQUVBQXJSRXdwMFBDOHk3eXN6NTl0bGI1djA1c1dOelZSY25GdXVmcWVRS2t2STRLNHliaFRn?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Embajador de EEUU dice que Chile está ejerciendo la Doctrina Donroe con mayor facilidad gracias a Kast&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-04T18:59:00+00:00"
     }
   ]
 }
