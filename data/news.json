@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-08T06:31:42.645005+00:00",
+  "actualizado": "2026-09-08T06:46:51.205083+00:00",
   "total": 500,
   "items": [
     {
@@ -880,6 +880,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-07T15:46:43+00:00"
+    },
+    {
+      "titulo": "evaluación de José Antonio Kast - elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tR3ZENnZYUXphaHN0VEU1V1BPRGFod3FpbHZWY2YzVG5GM2xCODZZX1dYU21HMWdlUXZ2MXV0YkpNeU84OG9TdVl5TG5ITjZvMVphNGFmdDg0ckt6NU5sRG9DOUpDTENhbkExNkpydUZFZTg2QmVRbjJn?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "evaluación de José Antonio Kast&nbsp;&nbsp;elobservatodo.cl",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-07T15:46:40+00:00"
     },
     {
       "titulo": "Jefe del Segundo Piso negó responsabilidad en el \"accidente\" de Steinert",
@@ -5641,17 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-04T01:00:00+00:00"
-    },
-    {
-      "titulo": "Kast y Milei apuestan por la integración y Argentina reconoce soberanía chilena en estrecho de Magallanes - df.cl",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQU95aVpmb1pLSmRKWXQwT3pIRjFDZUlkdkVLVzdyMGFNRDdOQldzLWNDbjB3TURMcWIyTjJMaGtBaHdGWFI5SXJINGV0N21SWmZvdVBhcjBGdnluZFJXTW0yeW9TSGlSaVB0NzRuLVpoUUV4RTZXb3hSVFZ3X2o0TG1HTndWSzJyV0RrYjYzakFTbmJDdml6bW1uZDYzLV9wOXBoTU1keUpNTUU0Z2NDODB6RzNrTWpZeXc?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast y Milei apuestan por la integración y Argentina reconoce soberanía chilena en estrecho de Magallanes&nbsp;&nbsp;df.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-04T00:57:00+00:00"
     }
   ]
 }
