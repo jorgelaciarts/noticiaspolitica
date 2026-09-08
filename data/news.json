@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-08T17:16:41.618559+00:00",
+  "actualizado": "2026-09-08T17:35:15.687680+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) ¿Quién representa los intereses de Chile? Cuestionamientos a Kast, el Gobierno y la política exterior tras declaraciones internacionales",
+      "link": "https://www.elciudadano.com/reels/video-quien-representa-los-intereses-de-chile-cuestionamientos-a-kast-el-gobierno-y-la-politica-exterior-tras-declaraciones-internacionales/09/08/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl diputado Gonzalo Winter y la oposición plantean dudas sobre si Kast defiende los intereses chilenos o sus alianzas ideológicas internacionales, tras las declaraciones del embajador estadounidense Brandon Judd sobre la política exterior de Chile. La situación ha llevado a la oposición a interpelar al ministro de Relaciones Exteriores, Francisco Pérez Mackenna, cuestionando la respue",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-08T17:30:11+00:00"
+    },
     {
       "titulo": "Tensión en la UDI: reactivan las gestiones para bajar a Longueira del acuerdo con Alessandri y asoma Hube en la carrera",
       "link": "https://www.theclinic.cl/2026/09/08/tension-en-la-udi-reactivan-las-gestiones-para-bajar-a-longueira-del-acuerdo-con-alessandri-y-asoma-hube-en-la-carrera/",
@@ -5638,17 +5650,6 @@
         "Elecciones"
       ],
       "fecha": "2026-09-04T17:06:24+00:00"
-    },
-    {
-      "titulo": "Caso Cerimedo y Bernardo Fontaine: Frente Amplio presenta oficios por fundación ligada a bots y fake news - eldesconcierto.cl",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTVM0UDMzWllFMXl5Y1pPTUZsYk5sSFV5X0dackJPS2FYQ2xrM1JYaEhBclRTYy1meXdKckNQdTdXcXYzTVJsZlVwc2FCdmdyTS15UzhlR0d1dTVVZ3gyVFpJejViLWVRUlRhVkNSN0FsRzNNaXBueXFvY055YjNfSG1MY3BHSGVEdms4SFVsUTg5WXlCX2N5UGFfWkZzTHZqVlItNlloaWZKb18wVU5qekp1WDVfZkNVeEhXVUVtS1ZtRHJySTNmX1hGTjRkZ2hHUTNXbERJZzVGS3N0?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Caso Cerimedo y Bernardo Fontaine: Frente Amplio presenta oficios por fundación ligada a bots y fake news&nbsp;&nbsp;eldesconcierto.cl",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-04T16:56:00+00:00"
     }
   ]
 }
