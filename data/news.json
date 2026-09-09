@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-09T16:20:02.740148+00:00",
+  "actualizado": "2026-09-09T16:31:44.429683+00:00",
   "total": 500,
   "items": [
     {
@@ -56,6 +56,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-09T16:04:44+00:00"
+    },
+    {
+      "titulo": "Embajador aclaró que su tesis sobre el 18-O fue un \"análisis de fuentes abiertas\" chilenas",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/embajador-aclaro-que-su-tesis-sobre-el-18-o-fue-un-analisis-de-fuentes/2026-09-09/125759.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El embajador de EE.UU. en Chile, Brandon Judd, aclaró esta jornada que su tesis sobre el estallido social -del que aseguró que Washington tenía información de inteligencia sobre una presunta orquestación de organizaciones de izquierda- \"fue obtenida a través de fuentes abiertas\" de políticos, policías y académicos de Chile.\nEl controvertido diplomático hizo una breve declaración en inglés este mié",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-09T15:57:59+00:00"
     },
     {
       "titulo": "Diputados de oposición denuncian ante fiscal Nacional declaraciones de embajador Brandon Judd sobre el estallido social - Teletrece",
@@ -5647,17 +5658,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-05T14:08:23+00:00"
-    },
-    {
-      "titulo": "Mundo político despide a Camilo Escalona: Desde Kast hasta Boric homenajean al dirigente socialista - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUoxOXNGYUlCVENMeG04MWpKeUxPZXFSa093VFQtcHB0NHhPbm9MU1dHVVR2ZDY5OFZjTHJyTlJoVENDSFV4WVNJMTJZaEk2R1J2Wk95RDdiX0JjYktTOUVrcHg2SkRxZ0ZHTjY2anVtSjhheHVLdmlMTEl3VEhCdE42cTQ0UEg4cHR5UWhTemRDcHhPY3hhUmdsMmxzRl9VQ0pRT3B3LXRZbnc0UkZyQVQtUmxoLUJUYUhmdTdnODB6dGFuRFVGdHdZWU5mVEE?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Mundo político despide a Camilo Escalona: Desde Kast hasta Boric homenajean al dirigente socialista&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-05T14:04:50+00:00"
     }
   ]
 }
