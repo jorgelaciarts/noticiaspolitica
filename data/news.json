@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-09T21:16:42.106975+00:00",
+  "actualizado": "2026-09-09T21:31:35.978485+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cambio al sistema de patentes mineras en Chile avanza en el Senado",
+      "link": "https://www.elciudadano.com/chile/cambio-al-sistema-de-patentes-mineras-en-chile-avanza-en-el-senado/09/09/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nHasta el 28 de septiembre tendrán plazo las y los senadores, y el Ejecutivo para presentar indicaciones al proyecto que&#160;simplifica el sistema de patentes mineras aplicable a las concesiones de exploración y explotación&#160;que cursa segundo trámite. La propuesta fue aprobada en general por la Sala, con 29 a favor 4 en contra y una abstención. [&#8230;]\nLa entrada Cambio al siste",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-09T21:22:53+00:00"
+    },
     {
       "titulo": "(VIDEO) 🔴 Diputados de oposición presentan denuncia penal por delito de Ley de inteligencia tras declaraciones del embajador de EEUU",
       "link": "https://www.elciudadano.com/reels/video-%f0%9f%94%b4-diputados-de-oposicion-presentan-denuncia-penal-por-delito-de-ley-de-inteligencia-tras-declaraciones-del-embajador-de-eeuu/09/09/",
@@ -5633,17 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-06T01:06:11+00:00"
-    },
-    {
-      "titulo": "Alcalde White y cómo vivió la semana en que supo que había un plan para asesinarlo: “Obviamente mi vida es distinta hoy” - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSElqYkp5MEQxbjQ5MFNzVHEwU0MxV21VYTM4MmlsZE5EV1ZCX1hNZlpwVWVDbUFTVFNYUXl6LU1HS3VGaWMzaTQwQllmcDF6MWZhX0RsaW04X2t2WEZIOTBEVi1SN214U2FuTWkxWlVWTGpwb1lxcEN4WnU1RVA5a21tS2xHM3JHYWd0Z2hXRDh5QmtsZ20teFdQcWFDN2tSUDRqQnl6ODAwSnBJT3daNVJjMFg?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde White y cómo vivió la semana en que supo que había un plan para asesinarlo: “Obviamente mi vida es distinta hoy”&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-06T01:00:00+00:00"
     }
   ]
 }
