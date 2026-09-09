@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-09T14:16:49.263590+00:00",
+  "actualizado": "2026-09-09T14:31:40.490705+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Quinchamalí celebra Fiestas Patrias con tradicional desfile que reunió a la comunidad y organizaciones",
+      "link": "https://ladiscusion.cl/quinchamali-celebra-fiestas-patrias-con-tradicional-desfile-que-reunio-a-la-comunidad-y-organizaciones/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "En el sector de Quinchamalí se realizó el tradicional Desfile de Fiestas Patrias, instancia que reunió a instituciones, organizaciones sociales y vecinos en torno a la conmemoración de la creación de la Primera Junta de Gobierno, hecho que antecede a la independencia nacional. La ceremonia contó con la presencia del alcalde protocolar de la Municipalidad [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-09T14:30:32+00:00"
+    },
     {
       "titulo": "Magallanes, “Doctrina Donroe”, Foro Madrid y Bachelet: canciller de Kast deberá dar explicaciones ante la Cámara por su política exterior",
       "link": "https://www.elciudadano.com/politica/magallanes-doctrina-donroe-foro-madrid-y-bachelet-canciller-de-kast-debera-dar-explicaciones-ante-la-camara-por-su-politica-exterior/09/09/",
@@ -471,6 +482,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-08T22:45:00+00:00"
+    },
+    {
+      "titulo": "Tricel derriba ofensiva contra Orrego y deja golpeados a sus impulsores UDI y Republicanos - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSV96R0JYbl9IQUVuTnkyNXpoVDNkQTZBdDFEU2FEa1h0cG1VV28yQzlYX3VWN2FhUENId29aVXVVdDZjUjdXemU3NXRJc1FQek1IYldlSnl3V1QtTW9IWWNJUXBMajVhN1dlMzhQNElRdDFjZ2FrM2dPSWlzWno0c2w3cGIteWcxUmltVHZxUnhDRjNHZm1jLUtkRVBPd3VDZ2RCNEdyUDM4cUJScEhHQnJreUxGMTdVMHppa1J0aENqUUZWdHd1OER6Tk9nc2E1TzhlNGVzRkRPdWc?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tricel derriba ofensiva contra Orrego y deja golpeados a sus impulsores UDI y Republicanos&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "TRICEL",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-08T22:42:12+00:00"
     },
     {
       "titulo": "Tricel rechaza en fallo dividido el requerimiento de la UDI y Republicanos para destituir a Claudio Orrego - CNN Chile",
@@ -5635,28 +5658,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-05T10:00:00+00:00"
-    },
-    {
-      "titulo": "Cómo será el funeral de Camilo Escalona: Responso en sede del Partido Socialista y velatorio en el Congreso de Santiago",
-      "link": "https://cambio21.cl/pais/como-sera-el-funeral-de-camilo-escalona-responso-en-sede-del-partido-socialista-y-velatorio-en-el-congreso-de-santiago-6a9ba8cb6696491d30229e55",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-05T05:33:48+00:00"
-    },
-    {
-      "titulo": "No sirvió de nada la reunión de Milei con Kast: Canciller argentino vuelve a definir a su país “bioceánico” tras declaración de ambos mandatarios",
-      "link": "https://cambio21.cl/politica/no-sirvio-de-nada-la-reunion-de-milei-con-kast-canciller-argentino-vuelve-a-definir-a-su-pais-bioceanico-tras-declaracion-de-ambos-mandatarios-6a9ba76692f96a683e2e81a4",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-05T05:26:22+00:00"
     }
   ]
 }
