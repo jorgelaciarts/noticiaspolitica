@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-09T19:46:47.285117+00:00",
+  "actualizado": "2026-09-09T20:01:53.442688+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La Florida avanza hacia una educación sin barreras y realiza III Congreso Comunal de Educación Inclusiva",
+      "link": "https://www.lanacion.cl/la-florida-avanza-hacia-una-educacion-sin-barreras-y-realiza-iii-congreso-comunal-de-educacion-inclusiva/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Con estudiantes, especialistas y representantes de comunidades educativas, la Municipalidad de La Florida realizó el III Congreso Comunal de Educación Inclusiva en dependencias del Teatro Municipal. Los presentes compartieron experiencias y escucharon exposiciones con el fin de fortalecer la identidad comunal. Y acercar a los equipos a especialistas en neurodivergencia, inclusión y Diseño Universa",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-09T19:59:10+00:00"
+    },
+    {
+      "titulo": "Alcaldes del Limarí se reúnen con ministra de Educación y confirman traspaso al SLEP para 2028 - diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbUQ3T3VYYnV4OF9zNmhaLUNBVWY4TWsxRTdCbTdGcW1UREc1V2l2V1JlaE5zOHNuQ3ppTXQwczBYUGRZOWc2aGJ1U0N0MWtRZklheHNEcHkzX0d2U1M3NXI3aHZzT3Q5V2VVczVjcVRMVjNMUU9JMUw2SzV0ZnJPb1BxWDZIdTZrVm1PWjRWSUNrNFFpYWRJV2lrcWphSWlVelVJb0R3LWZDcXk0UmpCY0dOVDExb3FuaTVKX3pEOTdfV2FxeUlEWE1nZGVMbkxiUF9HSDhIXzZrakRPV1R6cXdn?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Alcaldes del Limarí se reúnen con ministra de Educación y confirman traspaso al SLEP para 2028&nbsp;&nbsp;diarioeldia.cl",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-09T19:47:24+00:00"
+    },
     {
       "titulo": "José Montalva, diputado (ind.-PPD) por caso Cerimedo: “Hay parlamentarios que ven esto como un ataque a un sector y no a la institucionalidad”",
       "link": "https://www.theclinic.cl/2026/09/09/jose-montalva-diputado-ind-ppd-por-caso-cerimedo-hay-parlamentarios-que-ven-esto-como-un-ataque-a-un-sector-y-no-a-la-institucionalidad/",
@@ -5624,30 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-05T22:47:32+00:00"
-    },
-    {
-      "titulo": "Juventudes Comunistas conmemoran 94 años con críticas contra el gobierno de José Antonio Kast - latercera.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHpVVFdhVHFMSGhZTjdrdC14WHk5MGdDTVFRNXozZ3RfX3BkU3EwNFlBbDdEbTczRzdrUE9McktBUFdXdVZXSkItMWRnZVNpclBVRk5nekFZVVBLZG9leVVCMXdoeU5vTk8xZlJWamN0dmpWdFhZeEZhSjhNMVZyU0l5SDNrUkh4ZlVKT0JsSkVOczY2Wm9lNDVwb0YtdGFNbGIxSEJ6ZllGamJaOGdFRVJKbm4wQnpoRE5fY0pTRXN0WldDbVZhWHpiMURTS2wwWGtZ0gH0AUFVX3lxTFBxSEVYdGhaN3lKWktVUUlEbkJBbmxKNGRZM1RXdWZHbDh3dUFONjIyLWhtdUNLci14ZnNud3RRaEF4OFlqQzlHZWdMdDhEdmhWV0FiQTJVMkF3ZnVWT2NLaDBHV0lWYVlGb19HRWpIX1RtREdNQVhLUW85RGZWNlowQnF1Z3VJRnVnZjRGQzg0aVc3WUFiZkRMYlRYTlNHZTdlbFpsUV9TMnpPc3h4ekdBd2dQNVJoZGg0akptUldwcDhidFF1TG85bzdCRndya3NOWThNdWxpRGhrWWhieHJKNFA0d09XX2R0MFQ1WUJmVVY1MDA?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Juventudes Comunistas conmemoran 94 años con críticas contra el gobierno de José Antonio Kast&nbsp;&nbsp;latercera.com",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-05T22:25:47+00:00"
-    },
-    {
-      "titulo": "Juventudes Comunistas conmemoran 94 años con críticas contra el gobierno de José Antonio Kast - latercera.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTHpVVFdhVHFMSGhZTjdrdC14WHk5MGdDTVFRNXozZ3RfX3BkU3EwNFlBbDdEbTczRzdrUE9McktBUFdXdVZXSkItMWRnZVNpclBVRk5nekFZVVBLZG9leVVCMXdoeU5vTk8xZlJWamN0dmpWdFhZeEZhSjhNMVZyU0l5SDNrUkh4ZlVKT0JsSkVOczY2Wm9lNDVwb0YtdGFNbGIxSEJ6ZllGamJaOGdFRVJKbm4wQnpoRE5fY0pTRXN0WldDbVZhWHpiMURTS2wwWGtZ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Juventudes Comunistas conmemoran 94 años con críticas contra el gobierno de José Antonio Kast&nbsp;&nbsp;latercera.com",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-05T22:25:47+00:00"
     }
   ]
 }
