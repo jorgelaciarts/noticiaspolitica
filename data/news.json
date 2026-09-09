@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-09T11:46:38.007772+00:00",
+  "actualizado": "2026-09-09T11:57:46.656020+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "En Porvenir murió Juan Nesbet, querido comunicador de Radio Tierra del Fuego",
+      "link": "https://laprensaaustral.cl/2026/09/09/en-porvenir-murio-juan-nesbet-querido-comunicador-de-radio-tierra-del-fuego/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "En 2009, en el marco del Aniversario de Porvenir, fue distinguido como Vecino Ilustre de la ciudad isleña, “por su contribución en las obras en beneficio de la comunidad, que materializa en campañas sociales a través de su labor comunicacional en radio”. Producto de una larga enfermedad, ayer falleció en su ciudad de adopción el...",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-09-09T11:48:33+00:00"
+    },
+    {
+      "titulo": "Ocho meses sin congreso: por qué la reforma de seguridad de Kast debe rechazarse - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjdINHpTUjg3ZFlabEJCWEhvd0R1QWtCb0hTXzAwOEEtcTh3emVWMVMyUVlnVlFNbjQtUGg1bWRfUEFOeWQtRy05S1UyYlBVWVFxejRfcGQ4aHEta0hBdWZDcEtfVmYzcG1URXJ5VkJwUFNydlY3WExqelk1b3pTUU1xdnJldTRLTHhDRlBseDAyZVZuMXZTVkViVDlINHM4aV9BWWxTcmFONG9h?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ocho meses sin congreso: por qué la reforma de seguridad de Kast debe rechazarse&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-09T11:45:00+00:00"
+    },
     {
       "titulo": "“Trolls o bots de José Antonio Kast”: Camila Vallejo pide esclarecer redes de Cerimedo y acusa a la derecha de no querer “avanzar hasta las últimas consecuencias”",
       "link": "https://www.elciudadano.com/politica/trolls-o-bots-de-jose-antonio-kast-camila-vallejo-pide-esclarecer-redes-de-cerimedo-y-acusa-a-la-derecha-de-no-querer-avanzar-hasta-las-ultimas-consecuencias/09/09/",
@@ -14,6 +36,17 @@
         "Elecciones"
       ],
       "fecha": "2026-09-09T11:36:09+00:00"
+    },
+    {
+      "titulo": "Presidenta de RN critica declaraciones de Barros sobre Núñez: “Fueron impropias para un ministro de Estado” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNjRRRVNJZE9vRkVqYkdFZDU1ZC1ENEJ4U2FqTjctQy04NEtvUU9kTFcyWkxxSEQySWJMb2tOUmJsX1NhVXBic0dKRW5wT3FlbGlXWXFXQUZzQzgxQkNxam1LaXpsaTlVWlp6VEdGeHFmNk9mb2lJaElRN0UwTnN2cjI5Vzc4UWhvS1ctcDNzSDlVT0wybjBDc1BJQ1g4YlZDOHAyZ1pSTTE3Y1R4WmlvR1JCSXVwTXVZOEdQMDV6Tm95LWd5T3JaZ0N1TGdDcTBtcWdzU2NFdnLSAfoBQVVfeXFMT01LNndBLTVnUnVyMWptWENOTVAwYnIydU1CekR2Y28ybTJiek9rTmN4THBwWFJRU281LURBdGQ4WjdfM1ZsRzBEWGZpaHVMdndzU2NaWlZIVUtVZ1JIMzQwSFBSWmJpOFFLdklTM0tmeFFsM0dNNHo2VEdzdVdSbXFtcUpjdDRtSnlpY2NsSVRyQnZXby0tckR4OUl6cFFIUDczNTZHb2E4d3JfTXhvSENFV0hnd2NKeVJ3YlFhRFMwZFhFQzJ2OGdralFhRFVkR29paTFGT3hnVVF5TXFYSUJFLXc3cTlYS0hrUjRhX2RGU0QtSlRReG85UQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenta de RN critica declaraciones de Barros sobre Núñez: “Fueron impropias para un ministro de Estado”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-09T11:33:48+00:00"
     },
     {
       "titulo": "Senadores de RN y PS rechazan dichos de ministro Barros contra Paulina Nuñez: \"Es una falta de respeto hacia ella y el Senado\" - Teletrece",
@@ -5621,39 +5654,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-05T02:38:17+00:00"
-    },
-    {
-      "titulo": "Alcalde Héctor Muñoz: \"Si Concepción no crece en altura tendrá que expandirse al sector rural\" - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORFRUV3g4SlR6S2F4T0JOeXFSR1RKc0Z6d2NIZzdNZ2tFXy1hODkyRTRXRnl6dWh5bi1aSkdfYmtOWjd5WVFTYktPTmlOWGQ4a3BBaDdsaVROZndkOXdyaTZZdVkyQVdYUlVLY08tbE1pb05HZ2YwYjhGZjNEU05NOEJoZkpMMnBqTFhadnFkTEFRd3hwM3MxbERXU2FORmdiMzVSdEprR0FDTEZ1Tkk2WnFGaWt0UQ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde Héctor Muñoz: \"Si Concepción no crece en altura tendrá que expandirse al sector rural\"&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-05T02:25:00+00:00"
-    },
-    {
-      "titulo": "Falta a la probidad y prescindencia política el dictamen de Contraloría que complica a alcaldesa de Quilpué Carolina Corti",
-      "link": "https://cambio21.cl/tendencias/falta-a-la-probidad-y-prescindencia-politica-el-dictamen-de-contraloria-que-complica-a-alcaldesa-de-quilpue-carolina-corti-6a9b7a340b074a01fe30f454",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-05T02:14:34+00:00"
-    },
-    {
-      "titulo": "“Le prometí que las nuevas generaciones iban a saber de su lucha” y “deja una huella profunda en la historia”: Gabriel Boric y Álvaro Elizalde despiden a Camilo Escalona - cnnchile.com",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZVE5UUV0eE5VR2JudzI1ZGY1MXdNSnRlSlNFOWo3akFpY3laRFNwLUtORmkxTG82WVRxM29LbzdtRGd2UFFraFVib2ZvRk1VYmN5UHV3TkpjQVdDWmJKbWtoa2RkT0RNT2JHZ2J5VWgtRU9kY0Z4MGJ5SzVtOG1YRV9WRkFoNVE1Vml2OC10RXlTdjFWRjV2NFJzS0xlWTBEdU5BRE9USUNsbnFqWG9ORnRaTm5wSlgtdHE5d0hvOHFPelJnQlBraV9GNEhhQTdwakdINnVSQVRNazBtenowaXR4Q1Myandwbzd3TGlDQ0JKZW5BTTNlNmVnYWJ0Z3VXNmZnLU5uNUVaUGFpX1Q1UGJheGdRUUZ3VkwxT3FPTQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Le prometí que las nuevas generaciones iban a saber de su lucha” y “deja una huella profunda en la historia”: Gabriel Boric y Álvaro Elizalde despiden a Camilo Escalona&nbsp;&nbsp;cnnchile.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-05T02:13:23+00:00"
     }
   ]
 }
