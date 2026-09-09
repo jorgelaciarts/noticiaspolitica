@@ -1,7 +1,32 @@
 {
-  "actualizado": "2026-09-09T15:31:54.045648+00:00",
+  "actualizado": "2026-09-09T15:46:49.996771+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Orrego tras fallo del Tricel: “Intentaron sacarme de la política y dañarme”",
+      "link": "https://www.lanacion.cl/orrego-tras-fallo-del-tricel-intentaron-sacarme-de-la-politica-y-danarme/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Un llamado a terminar con la “judicialización de la política” y a dirimir las diferencias en las urnas realizó este miércoles el gobernador de la Región Metropolitana, Claudio Orrego. Esto luego de que el Tribunal Calificador de Elecciones (Tricel) rechazara el requerimiento que buscaba destituirlo. “Con el fallo de ayer se cierra definitivamente un ciclo [&#8230;]\nThe post Orrego tras fallo del T",
+      "categorias": [
+        "TRICEL",
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-09-09T15:33:45+00:00"
+    },
+    {
+      "titulo": "Diputado republicano: No vamos a tener una baja en el desempleo hasta el próximo año",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/diputado-republicano-no-vamos-a-tener-una-baja-en-el-desempleo-hasta-el/2026-09-09/115910.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado republicano Alejandro Riquelme pronosticó en El Primer Café que las malas cifras de empleo, con una cesantía que alcanza al 9,5 por ciento, no mejorarán en Chile antes del próximo año.\nEl ingeniero comercial comentó esta mañana en Cooperativa los datos del último Informe de Política Monetaria del Banco Central, que volvió a reducir la proyección de crecimiento del país, y la cifró en u",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-09T14:59:10+00:00"
+    },
     {
       "titulo": "Kast sobre el escenario que enfrenta el país:  “Estamos en una situación crítica, pero tenemos esperanza de que vamos a salir adelante”",
       "link": "https://www.theclinic.cl/2026/09/09/kast-sobre-el-escenario-que-enfrenta-el-pais-estamos-en-una-situacion-critica-pero-tenemos-esperanza-de-que-vamos-a-salir-adelante/",
@@ -5635,29 +5660,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-05T12:52:54+00:00"
-    },
-    {
-      "titulo": "Centroderecha moderna, rigor técnico en diseño de políticas públicas y probidad real: concejal Rendic explica su fichaje por Evópoli - Timeline.cl",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVFZSV1RoMEpldzBfQXY3ekUxUVVEQXZEYzBWT0VjUjVYNEUtdXRkTVUtMDc0d04tQUlicmJqSndzbUhxWlNoZDVWODJKM3ZDZmRKcy1aZWtxcjVGcVFqdnJoVVktd2U1bkNDbTRyd19hc08yQmNXZXVGc1Etd1VnR05zcWRvOWYtMXltQlNQdXlUT0NhU3ZNYWtDV3BLYTA1QVRpSUVOOGFLTDNqcHk4bUJiN0VaeVFVRnJ3VUExbGM0Y1FmUjJxYldaLTlLZDRVcmk3QjN2QXFMNXAzMkF3MjdMUWtiYkFXdkNn?oc=5",
-      "fuente": "Timeline.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Centroderecha moderna, rigor técnico en diseño de políticas públicas y probidad real: concejal Rendic explica su fichaje por Evópoli&nbsp;&nbsp;Timeline.cl",
-      "categorias": [
-        "Partidos políticos",
-        "Concejales"
-      ],
-      "fecha": "2026-09-05T12:15:58+00:00"
-    },
-    {
-      "titulo": "Columna de Marco Moreno: Kast ante los suyos",
-      "link": "https://www.theclinic.cl/2026/09/05/kast-ante-los-suyos/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "\"Kast pudo presidencializar su discurso; todavía no sabemos si ha presidencializado a su coalición. La distancia entre algunas intervenciones de dirigentes oficialistas durante el Foro y las palabras posteriores del Presidente muestra que ambas lógicas siguen conviviendo\", comenta Marco Moreno en su columna de esta semana en la que desmenuza el discurso entregado por el Presidente Kast en el cierr",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-05T12:00:00+00:00"
     }
   ]
 }
