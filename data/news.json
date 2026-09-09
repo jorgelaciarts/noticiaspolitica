@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-09T23:01:52.691586+00:00",
+  "actualizado": "2026-09-09T23:16:43.271499+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chile se retiró de negociaciones sobre cooperación tributaria en la ONU",
+      "link": "https://www.cooperativa.cl/noticias/economia/impuestos/chile-se-retiro-de-negociaciones-sobre-cooperacion-tributaria-en-la-onu/2026-09-09/194027.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El gobierno de José Antonio Kast decidió retirar a Chile de la Convención sobre Cooperación Fiscal Internacional para los estados miembros de Naciones Unidas, instrumento jurídico que busca crear un sistema de colaboración tributaria entre los involucrados.\nSegún publicó La Tercera, desde Cancillería indicaron que \"Chile reconoce la importancia de la cooperación tributaria internacional y ha sido ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-09T22:40:27+00:00"
+    },
     {
       "titulo": "(VIDEO) La contradicción política: análisis de cargos y experiencia en el gobierno de Chile",
       "link": "https://www.elciudadano.com/reels/video-la-contradiccion-politica-analisis-de-cargos-y-experiencia-en-el-gobierno-de-chile/09/09/",
@@ -5633,17 +5646,6 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-09-06T03:49:28+00:00"
-    },
-    {
-      "titulo": "Alcaldes destacan avances, pero advierten profundas brechas",
-      "link": "https://ladiscusion.cl/alcaldes-destacan-avances-pero-advierten-profundas-brechas/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El 6 de septiembre de 2018 Ñuble dejó de ser provincia del Biobío para convertirse oficialmente en región. Ocho años después, el balance de los alcaldes de distintas comunas del territorio revela una evaluación favorable de la decisión, aunque acompañada de una advertencia común: la tarea ahora es pasar de la instalación de la nueva [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-06T03:27:46+00:00"
     }
   ]
 }
