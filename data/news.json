@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-10T23:31:45.118006+00:00",
+  "actualizado": "2026-09-10T23:46:41.172186+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Carabineros dijo «no» al reintegro de Claudio Crespo a sus filas",
+      "link": "https://www.elciudadano.com/chile/carabineros-dijo-no-al-reintegro-de-claudio-crespo-a-sus-filas/09/10/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nUn reporte del diario La Tercera informó que Carabineros rechazó la solicitud de reingreso a sus filas del exuniformado Claudio Crespo, quien -recordemos- fue absuelto de haber disparado y cegado a Gustavo Gatica (actual diputado) gracias a una cuestionable aplicación de la «ley Naín Retamal». En ese momento, una vez conocida su absolución, el expolicía [&#8230;]\nLa entrada Carabinero",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-10T23:43:05+00:00"
+    },
+    {
+      "titulo": "Presidente Kast da largada al Mundial de Rally en Concepción entre pifias: “Aquí nos une algo que no es la política, nos une el deporte” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQZ19GNWdMZG5HUWlaYURFZWFrMnVGNm9OQXRUWG9zWjdFQUNfSGdXcV9feDBLdjNTR3pkZ2JIMzNLTm1wemdWTTgwVjdmX1N4VW9mUmt3V092a05JdHBTOEp2S2pkMnNTRDhXNDk1MVY1UFB4M2h4WWFJNEZ5bnVMTjF2ZlhjdXhHamVFSGJ6TFEzdF9XOF94NjhFQXJPYmNBRkhRMkxreFBac0k4aEdzUTZyc3BSYmFVcTFtTEhWb093WUhldFZJODk2SmNrcEt5N1FxeUxqRUlhb1gxZHIxd09hdm5ScE1KcmhJU2xIUUFvWDgyVXBpQlZSTDJOQ3A3SE1hdXV3TdIBqAJBVV95cUxOR2VYX0xpMjhzT3A4S2NwZE1VYzlOZi13aHZuVERqNE9pS05Hd1FPbEY0Ul9OMW5pYlNOOHptWHdQS2dDRTNqNVUtXy1UVEJ5SkJ0WjBnTTdQWl9HemloR2RFMGlDaldqZ0FkTmxBbHpBQ3lWa0FyejdlS2EydlJ3aHRMLUtBWkNzaWVPRFZkcTNHM3FlRC1USFB3ZXRIMnJKQ0haME9RRWwtQ3A0OThzdDVna0tJQkxGWjdLSlVYcVlzSjFkQjNCc244QVh2UGZHNnNZX1pWM0xobmhCYmd0Sk9Xa1o2N1JKaDZVRjdXQ2tubjNvcGFjZWh2OERMdG5aS0U2M2l5bkg0eUh4a3VzTU9pUm5jNzlMWjlzN1MxWW9XRjY3Q1dFeg?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast da largada al Mundial de Rally en Concepción entre pifias: “Aquí nos une algo que no es la política, nos une el deporte”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-10T23:29:27+00:00"
+    },
     {
       "titulo": "«Se acaban las carreras de perros en Maipú»: Municipio clausuró y demolió canódromo irregular ubicado en sector rural",
       "link": "https://www.elciudadano.com/animal/se-acaban-las-carreras-de-perros-en-maipu-municipio-clausuro-y-demolio-canodromo-irregular-ubicado-en-sector-rural/09/10/",
@@ -5627,29 +5649,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-07T12:29:10+00:00"
-    },
-    {
-      "titulo": "Nuevo Gobierno húngaro sigue la ruta del dinero de Orbán y llega a organización que encabezó Kast",
-      "link": "https://www.elciudadano.com/politica/nuevo-gobierno-hungaro-sigue-la-ruta-del-dinero-de-orban-y-llega-a-organizacion-que-encabezo-kast/09/07/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl nuevo Gobierno de Hungría lanzó una ofensiva para rastrear los fondos públicos y activos que, habrían terminado en manos del exprimer ministro Viktor Orbán y sus aliados y también aclarar las millonarias transferencias realizadas a la organización Political Network for Values (PNfV), que estuvo presidida por José Antonio Kast entre 2022 y 2024. La [&#8230;]\nLa entrada Nuevo Gobiern",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-07T12:26:34+00:00"
-    },
-    {
-      "titulo": "Presidente Kast por eventuales cambios en la arquitectura del Estado: '¿Necesitamos 25 ministerios?' - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbUN4bXlaTHFVNHRHUjBfdENVamNYMFo3UXZsS0lPRldYamFXTk5xUE4yLWxsWV9fNGtSZ0JqQkV4eXBaWkFDY2xwRHVPckk0ZnM3SW5Sd2F0VnpmVHFick10REs4TlF1bkJaWXNpNTQ2bXBDbV9rNDhmOGFMdEd5Z212SmxMRGdfUkQ0T29VSzk3RmFhNk9BR1ZKNmRkajh5dHhfLWUwZ25lQ2xnTHNiZXpLSkdvdmZBUXpGT0hjNFNHUlnSAcgBQVVfeXFMT1NteEZucnU4WGpiQUs1cEgwOTBTZjZOcnNyMVl3YzBMY1lVc2ZKVDY4bVJPQ3BBSXNBWUFHRmY2ODBGX1o1SnNiMk1UZ0RXVnhYOTFTNDVfOEwxQzFvUk9rNFE5THdXVDIxVk51V0lGYkUyX2lPNzhKbmdMM19kTDd4TTJRM1M1SHJUdGdtNlRNRVVaSzJINy03SmtxNm40em5OVmhMeXZGZld5bzBsSHd3c0pvTEhybDFLdXRnOEduQXJKRG9qLUE?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast por eventuales cambios en la arquitectura del Estado: '¿Necesitamos 25 ministerios?'&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T12:25:00+00:00"
     }
   ]
 }
