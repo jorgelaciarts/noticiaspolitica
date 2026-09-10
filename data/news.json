@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-10T18:47:06.025526+00:00",
+  "actualizado": "2026-09-10T19:01:38.392016+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Se acabaron las carreras de perros”: Alcalde Tomás Vodanovic demuele canódromo en Maipú",
+      "link": "https://www.theclinic.cl/2026/09/10/se-acabaron-las-carreras-de-perros-alcalde-tomas-vodanovic-demuele-canodromo-en-maipu/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Maipú clausuró y demolió este jueves un canódromo ubicado en la zona rural de la comuna. Según las palabras del alcalde Tomás Vodanovic, se trataba de una construcción irregular que servía de espacio para carreras de perros que posteriormente eran maltratados. El jefe comunal sostuvo que este hecho está dentro en el marco de la nueva ordenanza de protección animal del municipio",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-10T18:55:37+00:00"
+    },
     {
       "titulo": "Vecinos denuncian robos y microbasural en terreno eriazo del camino Las Mariposas",
       "link": "https://ladiscusion.cl/vecinos-denuncian-robos-y-microbasural-en-terreno-eriazo-del-camino-las-mariposas/",
@@ -345,6 +356,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-10T14:49:57+00:00"
+    },
+    {
+      "titulo": "El Gobierno de Kast retira a Chile de las negociaciones por el acuerdo en cooperación tributaria de la ONU - EL PAÍS",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNM0IyWVFNRkhZbTEwYWdEc1ljTXZkd2FsOTVwVEdsWWI4Y09XdUQ5cUZmYVNWNnUzTmlIN3c3MW9uWEcwZnRsa0pXY2ZlVUV6V1l3SlZqYUhud2NJaGk1NlJCRTZDNUx6bXdtV2NkZDNOWGZKelRCRFJndkY2LVFJQ25qR3l3RW83QUpVVi1pZmM1cjI3M29xZHprUnhMUE9lbFpYTGdsRERIU3BfUnREWlpvSm54cFd3bHlZT1FBN2tjTDhrd2ZFUUVEeUtjckFPOEJtd045M0N2VERmbVdscNIB9AFBVV95cUxOUkZ5V0dYNDM3ZnBWMlVaV0U4amxPMnpRWUZadWhJeUE1bXoyTi1ySlRtaFI0bHFwRWZyRzJuckVNQmhQRFZtemEzamRHNFlmYXBSak1yWVFnUm1JV1VNbU9Dc2dUMGZWbTdxbUp4VjlKUkt1VVM5RHF6Qlc4dVo0cF9tVGZXVnU3aXRHRkM2TWJwRTBiTHBPNXNxR0JXY0Jaa09tSTg1VFNycV9WbVJheGh2bHJSRWdkQl9zampELXp2cVB3MjVWM2pkcXN5ek9RN3I3cktuSWJaSGQxc1BzVC03cFd6ZTJSdXF4ZldVNVJtYjV5?oc=5",
+      "fuente": "El País - Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El Gobierno de Kast retira a Chile de las negociaciones por el acuerdo en cooperación tributaria de la ONU&nbsp;&nbsp;EL PAÍS",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-10T14:44:47+00:00"
     },
     {
       "titulo": "“Traición Institucional”: Manouchehri y Cicardini ingresan proyecto para sancionar infiltración del crimen organizado en el Estado",
@@ -5624,28 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T08:00:00+00:00"
-    },
-    {
-      "titulo": "Desaprobación de Kast alcanza el 60% y se distancia 24 puntos de su aprobación según Cadem - elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVFtOG8tbUIzcXkwcnY2dTJjN09YUVEzeEFxWGw2OG5tcWtFTE54V1lDOW5rSTZFUlR4dXh2MnJmX1lqODdRQ3hLYmZZSGk1X1hZQXNudEJXOTg2Nmx1alZ5eGdVMEFTSEdYZnZXZ1pJOVh4ZmFxOWk1MzZ5T2x3ZDIwbWJtU09wR2JPdXRwZzRVYUdOcHo0TVRHOHBqNWRHcmNGLVg3N3BCTll1Y2ppUHEyUXNYb0hWSDZGRG1lMkVMaW8?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Desaprobación de Kast alcanza el 60% y se distancia 24 puntos de su aprobación según Cadem&nbsp;&nbsp;elnortero.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T04:57:12+00:00"
-    },
-    {
-      "titulo": "Desaprobación de Kast alcanza el 60% y se distancia 24 puntos de su aprobación según Cadem - elobservatodo.cl",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONnVvSFFPU0NENlRJa2ZPNFJlaVp6ZktieUdmSFhySzR2cE1ITWJLWUo5bTJRSGd5THFsNV8zbHpONF9iajd5bVk4QWFpSjZfbWxIdlRBeVNIUGVMUGJJY2lFRkVIV1hvMGJEWDFqaHlYaFpiMi1EVGlBa3VfTEQ0cEloVjhlLXVZVFFzSE5YdElMM25qVE9uLUh0Q0ltSmNqeFE4RjlzNG5zZVR5VGNOWW9WYl9zeFFoaFBsLU1ia0kxdFlFMzJuMA?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Desaprobación de Kast alcanza el 60% y se distancia 24 puntos de su aprobación según Cadem&nbsp;&nbsp;elobservatodo.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T04:45:17+00:00"
     }
   ]
 }
