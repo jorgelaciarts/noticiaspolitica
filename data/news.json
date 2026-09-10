@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-10T18:16:19.362178+00:00",
+  "actualizado": "2026-09-10T18:31:38.108117+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Vecinos denuncian robos y microbasural en terreno eriazo del camino Las Mariposas",
+      "link": "https://ladiscusion.cl/vecinos-denuncian-robos-y-microbasural-en-terreno-eriazo-del-camino-las-mariposas/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Preocupados están los vecinos del camino Las Mariposas, a la altura del km 4.5, debido a un terreno eriazo ubicado frente al strip center Parque Urbano que permanece sin cierre perimetral y, según denuncian, se ha convertido en un foco de robos, incivilidades, acumulación de basura y escombros. El concejal de Chillán, Yerson Soto, advirtió [&#8230;]",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-09-10T18:21:43+00:00"
+    },
     {
       "titulo": "Yankee, go home: Diputados PC ofician a Canciller para que declare persona non grata a embajador de EE.UU.",
       "link": "https://www.elciudadano.com/chile/yankee-go-home-diputados-pc-ofician-a-canciller-para-que-declare-persona-non-grata-a-embajador-de-ee-uu/09/10/",
@@ -45,6 +56,19 @@
         "Diputados"
       ],
       "fecha": "2026-09-10T17:55:12+00:00"
+    },
+    {
+      "titulo": "UDI pide a ministros \"obsesión\" por el empleo y Cámara Baja ofrece fast track legislativo",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/udi-pide-a-ministros-obsesion-por-el-empleo-y-camara-baja-ofrece-fast/2026-09-10/144703.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Ante el pesimismo existente por la situación del empleo, desde la UDI pidieron a los ministros tener una \"obsesión\" con esta materia, mientras que la Cámara Baja ofrece un \"fast-track\" legislativo para proyectos laborales.\nLas últimas cifras de desempleo llegaron hasta el 9,5 por ciento, situación que según el Presidente Kast ha llevado a un \"desánimo\" de la población y a malos resultados en las e",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-10T17:47:03+00:00"
     },
     {
       "titulo": "Kast reivindicó “la justicia, la verdad y la paz”, pero CIP le exige condenar de forma inequívoca el genocidio en Gaza",
@@ -5622,28 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T04:45:17+00:00"
-    },
-    {
-      "titulo": "Boric y Bachelet despidieron al histórico dirigente del PS y expresidente del Senado Camilo Escalona en el Congreso Nacional de Santiago",
-      "link": "https://cambio21.cl/politica/boric-y-bachelet-despidieron-al-historico-dirigente-del-ps-y-expresidente-del-senado-camilo-escalona-en-el-congreso-nacional-de-santiago-6a9e2edf2a4a212d31713bd3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T03:31:09+00:00"
-    },
-    {
-      "titulo": "Boric y Bachelet despidieron al histórico dirigente político Camilo Escalona en el Congreso Nacional de Santiago",
-      "link": "https://cambio21.cl/politica/boric-y-bachelet-despidieron-al-historico-dirigente-politico-camilo-escalona-en-el-congreso-nacional-de-santiago-6a9e2edf2a4a212d31713bd3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T03:31:09+00:00"
     }
   ]
 }
