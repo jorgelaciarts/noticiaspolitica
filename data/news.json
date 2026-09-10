@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T13:01:52.059045+00:00",
+  "actualizado": "2026-09-10T13:03:56.480268+00:00",
   "total": 500,
   "items": [
     {
@@ -58,6 +58,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-10T11:53:00+00:00"
+    },
+    {
+      "titulo": "Gobierno de Kast confirma que no conmemorará el 11 de septiembre y provoca roces en el oficialismo - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaFN6dElSakxyZjR6c2tRX2dJMDg4NGZGdnVnWF9nSU1vQmlRUDBrN1hhNnljeXRMaC0tUm9MdWozNUpSa1YxT0M3SmFCSTZHMkJhbWd4S3k2SlFJVHQxbWR3dFpTY0F5c3hZS29idWdDT1QwMkJiamg4X0J1VFVUMTdKdGxMc3RCR0dDbnM2OHd2SHM3SnVLSzA2TWRYemNVektPRENtVUZqXzBLbk1EZHlvaURtVVNWRTQ0RTBfMXNYeDVMbV82UDF3Nkl1d2tz?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno de Kast confirma que no conmemorará el 11 de septiembre y provoca roces en el oficialismo&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-10T11:32:00+00:00"
     },
     {
       "titulo": "Consejeros viven en carne propia lo que significa estar aislados y quedan varados en Puerto Williams por mal tiempo",
@@ -5627,21 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-06T15:44:02+00:00"
-    },
-    {
-      "titulo": "Camilo Escalona fue homenajeado en el Salón de Honor del Congreso Nacional",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/camilo-escalona-fue-homenajeado-en-el-salon-de-honor-del-congreso/2026-09-06/122252.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El militante histórico socialista, extimonel de la colectividad y expresidente del Senado, Camilo Escalona, fue homenajeado este domingo en el Salón de Honor del Congreso Nacional, ceremonia oficiada por la exsubsecretaria Nicole Cardoch.\nLa instancia contó con discursos de la presidenta del Senado, Paulina Núñez (RN), de la bancada de senadores y diputados socialistas, alcaldes, la familia de Cam",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-06T15:22:52+00:00"
     }
   ]
 }
