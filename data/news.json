@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-10T11:16:36.572221+00:00",
+  "actualizado": "2026-09-10T11:31:48.575939+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Consejeros viven en carne propia lo que significa estar aislados y quedan varados en Puerto Williams por mal tiempo",
+      "link": "https://laprensaaustral.cl/2026/09/10/consejeros-viven-en-carne-propia-lo-que-significa-estar-aislados-y-quedan-varados-en-puerto-williams-por-mal-tiempo/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Producto del frente de mal tiempo que azota a la ciudad de Puerto Williams, el pleno del Consejo Regional de Magallanes, encabezado por el gobernador Flies y el equipo de asesores, no pudo retornar ayer a Punta Arenas, tras la suspensión de los vuelos desde y hacia la apartada localidad. Los consejeros regionales habían desarrollado...",
+      "categorias": [
+        "Consejeros regionales"
+      ],
+      "fecha": "2026-09-10T11:24:41+00:00"
+    },
     {
       "titulo": "Fondos por $89 millones entregó Gobierno Regional a instituciones deportivas",
       "link": "https://laprensaaustral.cl/2026/09/10/fondos-por-89-millones-entrego-gobierno-regional-a-instituciones-deportivas/",
@@ -5627,18 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-06T14:30:43+00:00"
-    },
-    {
-      "titulo": "Romería a 53 años del golpe: Masiva marcha en recuerdo de las víctimas de la dictadura",
-      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/romeria-a-53-anos-del-golpe-masiva-marcha-en-recuerdo-de-las-victimas/2026-09-06/112857.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Con una concurrencia de miles de asistentes, se desarrolló este domingo en las calles de Santiago la tradicional romería hacia el Cementerio General, en el marco de las actividades de conmemoración del golpe de Estado de 1973.\nLa movilización reunió a diversas organizaciones sociales y políticas en un trayecto que generó modificaciones en el flujo vehicular de la capital.\nLa convocatoria fue impul",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-06T14:28:57+00:00"
     }
   ]
 }
