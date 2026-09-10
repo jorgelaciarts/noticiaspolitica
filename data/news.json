@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-10T02:16:42.982796+00:00",
+  "actualizado": "2026-09-10T02:31:46.062806+00:00",
   "total": 500,
   "items": [
     {
@@ -92,6 +92,18 @@
         "Senadores"
       ],
       "fecha": "2026-09-09T23:16:00+00:00"
+    },
+    {
+      "titulo": "Senador Moreira (UDI) por interpelación a Canciller Pérez Mackenna: \"Ha faltado manejo político (...) tiene que haber una mejor asesoría\" - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFVaSlNmdWh2V2xTeWQ1R1ljWjJSb3BuMGFpeFhPQVZaTS1SakMzQmllVXE1ZWF6ZDNUM19QbXNoUmNuQUdKNV8tSWdvNnBsMFNOeUVOdndLcXN0Uzc3cnZ3V05zeWJpSjI1RHBFbmlLMWhBTkxmRlNpTUhtM0kwb3NHMHgwZWEtQWZiVGdNWmU2RDlMMXBiQlk3bTllc2gzQTUtbHZrWEVXRUZCVHc?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Moreira (UDI) por interpelación a Canciller Pérez Mackenna: \"Ha faltado manejo político (...) tiene que haber una mejor asesoría\"&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-09T22:49:00+00:00"
     },
     {
       "titulo": "Chile se retiró de negociaciones sobre cooperación tributaria en la ONU",
@@ -5632,19 +5644,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-06T11:28:07+00:00"
-    },
-    {
-      "titulo": "Yasna Provoste: “Nos tenemos que sentar desde la DC hasta el PC a definir en qué estamos de acuerdo y en qué no”",
-      "link": "https://www.theclinic.cl/2026/09/06/yasna-provoste-nos-tenemos-que-sentar-desde-la-dc-hasta-el-pc-a-definir-en-que-estamos-de-acuerdo-y-en-que-no/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La senadora DC respalda el llamado de la presidenta del Frente Amplio, Gael Yeomans, a avanzar en una articulación más amplia de las fuerzas progresistas, aunque evita cerrarse a la fórmula de una nueva coalición. En entrevista con The Clinic, plantea que desde la Democracia Cristiana hasta el Partido Comunista deben sentarse a definir sus “máximos comunes” y sostiene que, tras la derrota presiden",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-06T11:02:00+00:00"
     }
   ]
 }
