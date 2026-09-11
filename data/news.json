@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-11T12:01:36.851129+00:00",
+  "actualizado": "2026-09-11T12:16:38.132343+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "11 de septiembre: oposición y Fundación Allende conmemorán la fecha en Santiago",
+      "link": "https://www.lanacion.cl/11-de-septiembre-oposicion-y-fundacion-allende-conmemoran-la-fecha-en-santiago/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Este 11 de septiembre, cuando se conmemoran 53 años del golpe de Estado cívico-militar&#160;que derrocó al&#160;expresidente Salvador Allende&#160;y dio inicio a la dictadura de&#160;Augusto Pinochet, que se prolongó por 17 años, no contará con actos o ceremonias oficiales en La Moneda. Según informó Radio Cooperativa, la Fundación Salvador Allende junto a los partidos políticos de la [&#8230;]\nTh",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-11T12:07:01+00:00"
+    },
     {
       "titulo": "Trump ofrece 5.000 dólares a cada ciudadano si gana comicios",
       "link": "https://ladiscusion.cl/trump-ofrece-5-000-dolares-a-cada-ciudadano-si-gana-comicios/",
@@ -5637,17 +5649,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T14:00:53+00:00"
-    },
-    {
-      "titulo": "Fundación Jaime Guzmán: \"Camilo Escalona recuerda lo mejor de la Concertación\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/fundacion-jaime-guzman-camilo-escalona-recuerda-lo-mejor-de-la/2026-09-07/110040.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "\"Camilo Escalona recuerda lo mejor de la Concertación\", dijo este lunes en El Primer Café el director de formación de la Fundación Jaime Guzmán, Claudio Arqueros.\nEl programa de debate político de Cooperativa de esta jornada comenzó con un transversal reconocimiento al histórico líder socialista, fallecido el viernes a los 71 años de edad como consecuencia de un cáncer de próstata.\n\"Yo vivo en San",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T14:00:40+00:00"
     }
   ]
 }
