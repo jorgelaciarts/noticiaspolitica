@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T08:01:41.031021+00:00",
+  "actualizado": "2026-09-11T08:16:46.691889+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T07:00:00+00:00"
+    },
+    {
+      "titulo": "Habló el diputado chileno que generó polémica al decir que las Malvinas son británicas - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGFNOGpFRHN2UGtlWWVGOWlGS2VqeXF6aDFBekZ2UDAzaVJOVTkyNDNCbmtsOHItNjdBY2NQeGhRdGljRjkwYkxRWTU3WUFkV1RwYnZ6VmZjTGFsdzh5RG15S01GalAtWGhESV9yQWF4SXBTVGhCRHhMdE4wa3lBUUxlNnB2blZkbVBzTG1waEhSdWpTZUxhd0Z6WVctRHBQQlBXdTREQlo4ZkxqbVFSZFlKNS1PazA1TjB1dGRROEpfemJScTczTFlTYw?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Habló el diputado chileno que generó polémica al decir que las Malvinas son británicas&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-11T05:38:00+00:00"
     },
     {
       "titulo": "Habló el diputado chileno que generó polémica al decir que las Malvinas son británicas - Infobae",
@@ -5635,17 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-07T13:10:29+00:00"
-    },
-    {
-      "titulo": "Kast dice que el Gobierno ha estado a la altura en el combate de los delitos y la inseguridad: Todos los índices nos respaldan, dice",
-      "link": "https://cambio21.cl/pais/kast-dice-que-el-gobierno-ha-estado-a-la-altura-en-el-combate-de-los-delitos-y-la-inseguridad-todos-los-indices-nos-respaldan-dice-6a9eb6c78afff65ed41c2f15",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T13:09:31+00:00"
     }
   ]
 }
