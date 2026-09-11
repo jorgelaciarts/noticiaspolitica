@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T19:16:41.114839+00:00",
+  "actualizado": "2026-09-11T19:31:43.195178+00:00",
   "total": 500,
   "items": [
     {
@@ -25,6 +25,17 @@
         "Senadores"
       ],
       "fecha": "2026-09-11T19:12:26+00:00"
+    },
+    {
+      "titulo": "Meta incluyó a Chile en un plan piloto de verificación ciudadana de contenidos",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/redes-sociales/facebook/meta-incluyo-a-chile-en-un-plan-piloto-de-verificacion-ciudadana-de/2026-09-11/155705.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Meta incluyó a Chile dentro de los 16 países de América Latina seleccionadas para iniciar las pruebas de su herramienta Community Notes (Notas de la Comunidad), abriendo la puerta a un cambio estructural en el combate a la desinformación en Facebook, Instagram y Threads a nivel nacional.\nLa medida replica el esquema instaurado previamente en Estados Unidos, donde el gigante tecnológico puso fin a ",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-09-11T18:57:05+00:00"
     },
     {
       "titulo": "Kast dice que los chilenos no pueden estar \"condenados\" a la historia, sobre golpe de 1973 - Infobae",
@@ -5634,18 +5645,6 @@
         "Elecciones"
       ],
       "fecha": "2026-09-07T22:00:11+00:00"
-    },
-    {
-      "titulo": "Diputado PDG oficia Gobierno por venta de islas fiscales en Tierra del Fuego, en medio de tensiones con Argentina por soberanía del Estrecho de Magallanes - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbWo2VU1xTkpRTHhoVVNOellyalVXcmlPa0NnS0VSX1d0S0lvbVp2TmxlM3k2aXR2MkgyQUtnT0lUMWJEaERqd1l2LVFEd2dyTDkzVGZ1emd1dWNfSk5OYlo4LVc2b3dIdlVpNzZtLTliRWZHYllFTUhhRlRLMGppekh3Y21sSGxSVFByQWxJUU53ZFhfMTJyVUtubVlhc1lTQnlDNTN4anRCTU9zVUE?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado PDG oficia Gobierno por venta de islas fiscales en Tierra del Fuego, en medio de tensiones con Argentina por soberanía del Estrecho de Magallanes&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-07T22:00:00+00:00"
     }
   ]
 }
