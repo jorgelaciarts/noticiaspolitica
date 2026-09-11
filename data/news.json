@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-11T10:46:38.587479+00:00",
+  "actualizado": "2026-09-11T11:01:46.430621+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "A 53 años del golpe de Estado: Iglesia pide \"verdad sin odio\" y \"memoria sin resentimiento\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/a-53-anos-del-golpe-de-estado-iglesia-pide-verdad-sin-odio-y-memoria/2026-09-11/075229.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Comité Permanente de la Conferencia Episcopal de Chile llamó este viernes a construir una memoria basada en la verdad, la justicia y la reconciliación, en un mensaje divulgado con motivo de un nuevo aniversario del golpe de Estado del 11 de septiembre de 1973.\nEn el documento, titulado \"Para construir paz y esperanza: Verdad, justicia y reconciliación\", los obispos reconocieron que el 11 de sep",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-11T10:52:29+00:00"
+    },
     {
       "titulo": "Audio con historia: sargento de la FACH relata que él tomó las últimas fotos de Allende en La Moneda",
       "link": "https://www.ciperchile.cl/2026/09/11/audio-con-historia-sargento-de-la-fach-relata-que-el-tomo-las-ultimas-fotos-de-allende-en-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=audio-con-historia-sargento-de-la-fach-relata-que-el-tomo-las-ultimas-fotos-de-allende-en-la-moneda",
@@ -34,6 +47,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T09:00:00+00:00"
+    },
+    {
+      "titulo": "El alcalde White y el abandono del Estado - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeUVWWkdMdklGWFo3SjZxbHBGU2tVNnFHakpMTlRZZ1VZQWxydVVXc1JZVUs1Rms3bFJEVzdfQ0xKLUdLSG9Db0pVTWRVZTZJRDRWWEMzaWw1TndOSEptUjNRMU1NMlVoZDN4UWJONWx2aVY0Qm1fbGRmTlo5WVBUZ0Rjd0tIZm5JU3c?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El alcalde White y el abandono del Estado&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-11T07:30:00+00:00"
     },
     {
       "titulo": "Los preparativos de Kast para su primera intervención ante la asamblea de las Naciones Unidas - Diario Financiero",
@@ -5622,28 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T13:34:11+00:00"
-    },
-    {
-      "titulo": "Presidente Kast y dichos de embajador Judd por “Doctrina Donroe”: “Nosotros estamos aplicando la doctrina ‘Pro Chile’” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVzZieVlmX3hnWklKMk9QWWN2ZG5RR0UzV3pEdnhDcFprbmpUaUpydC11OXJ2WThJTDVvMDU1QUV1QW11WVlzYmdMakRlWDA4NjdKbnhrclgtWU1hQ0ZMak9obzdnZXgtam5OeldJenYyb2ZMNW5mZndfaEU3OElSd0RRc1pEWFg1Z1FXaTN0bVp0WXVxbXZCbnNMMXlhOWdCcFRMeGREdnh3eC16NzNRc3dLYVlGaUJjUlFUMEN2LTFSb0pOQ1VnSERpWjFXOEphcDhhU1JWNm5ScXFKejlqYdIB9AFBVV95cUxORGZBRHhSdkF0TzlwSUNTQW1ZLU5SWEs5R0tkRHpYdVhDVTBmUWZzMzRYeGJ6RWNJZTVLLXV0Z1Mtam94WEU4LW9WclMyOHM5RnlzdGRxYWpkXzBRTEhPdHNWSERaay1JdzZ5NWdPSkp0QzRuVVY2ZnlmaUdVcjE3TmRoTjlqQTZmYzBTLVp1WFdZWHRYZmtuOHVnQjM0V3pIZXh2bjc4b1ZLOC1NdU1EZ0VfVlRGMV9pMW4wb2ZmWk5zemlVdWZkMTdnbzdEWUJPeFVYQXh5V2F1VWR0SUpURklxcEhZNVdXNk83YmdTVWFCUGJ6?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast y dichos de embajador Judd por “Doctrina Donroe”: “Nosotros estamos aplicando la doctrina ‘Pro Chile’”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T13:33:41+00:00"
-    },
-    {
-      "titulo": "Presidente Kast aborda revés del Gobierno ante el TC por reconexión de servicios: “Nosotros lo aceptamos” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZWtXeHFPa2ZIY2FCNlNiY19EU2w4cVA2NWdheXNXdG5LbkFBMVdkVEUzUGtXb29adFZkQ1pkM2JCV0JpdEtRTUJKZTBHeGxOLVQzQTVCbi1YRktwaXV0M1NxQ2pzSjE3OHV3cXg2ektoSGR5YmhlWDl0Y0lnS3JodUJFSG9DMEo4OWxEU0NrZjRGUVpqcUM3bGctOHBHb0ZnME8ycmxzUjdtNlNtV0VfVDBxako3bHJiclR5Q0VwNDBVZkZvakpNeS13MkZFNTJINGM2RNIB6AFBVV95cUxNdjJvWG1oX3h1cGpSbjQzamc0SUx4Q1VhRUp1YTltamtaRG1RQ3JmRnVpTEROYlVEWEwwYnpvRWU4VENiM1NXbWhSdG5DNWxWcVBESEduNTV6Wk9sMkkweWp3dUwtaTVXQlB3QVk3a3RjOERWdG5jQWZyVExkdmhISnQxQU5NWEo0TlVvNnFnTmhfdWhZRExSZHZsU2R6RmFfOEFLb2hiUFJlVUFJWkx3S083c0dkS25XTERTUWdvdm5SaERWSjBGVUJTcTBYbEJYNkxwNWFHOXowZk1JTi1fakxlVURPVVNH?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast aborda revés del Gobierno ante el TC por reconexión de servicios: “Nosotros lo aceptamos”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T13:30:00+00:00"
     }
   ]
 }
