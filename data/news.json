@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-10T23:52:00.488080+00:00",
+  "actualizado": "2026-09-11T00:01:41.079464+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast inicia gira por Biobío y Los Ríos - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbldDdFppa3lLMU1FRFpKeWhKRVRNUG1aUV9yby1kVWRHbFFlU1RnQ3RMNWozNjVrekdIOFhxRTFoSmNEaHVkckhDM295eHNHVHZ0TUZ3N0lmbHBKSlp5OWNfVVlhVnlTZ2N4aUZUdDFXTFV0Qm0wREtqaEIzYzQxOFZqOFhTWjdzSkE?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast inicia gira por Biobío y Los Ríos&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-10T23:46:17+00:00"
+    },
     {
       "titulo": "Carabineros dijo «no» al reintegro de Claudio Crespo a sus filas",
       "link": "https://www.elciudadano.com/chile/carabineros-dijo-no-al-reintegro-de-claudio-crespo-a-sus-filas/09/10/",
@@ -5638,17 +5649,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T12:33:04+00:00"
-    },
-    {
-      "titulo": "La advertencia al gobierno de Kast que hizo un estudio de la UC: Cambios al SAE aumentaría segregación escolar - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSVdUUGppeHVVZEFLSVowV19YWU9YMnhySW1INXh3T0VnakFiaFlGZFdOQzBUQmdXd1RpR1NLdUJJMWVNZHRucEtZNUNNMl8ySnJDd3pCNXpqMnp2MzkzczQ1N3JRZ2pmc1BlbEJnOHRkc3NRZGtSWi1aMzFBNWNuZUhvSVdKX3BxMG1NbVNXbFJvX0lyZU45NTVmWVhXUExmaUZsRWRSSW9GZ3FRaGFwYXhEUXg2ZFhocjNZUE1xOHV4Wm5kaE1Cd0pkM1RZbmlzQjNQcWZLcVc4MjNENGNsbWludw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La advertencia al gobierno de Kast que hizo un estudio de la UC: Cambios al SAE aumentaría segregación escolar&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T12:33:00+00:00"
     }
   ]
 }
