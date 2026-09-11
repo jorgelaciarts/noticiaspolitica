@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T06:01:41.710363+00:00",
+  "actualizado": "2026-09-11T06:16:22.980751+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T04:00:07+00:00"
+    },
+    {
+      "titulo": "Claudio Orrego y el servicio público - Diario El Mercurio |",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRzhYSzJHSDZ6bmcydXlfcVhERnNEaWR2Z2VKNVNFTmxzNk9lZkczSDhEVUtuTTE3MW44VkVweDJpOEpNNW5JQlFnbC1Ra2trYzFlZ3VfelZ2a0ptTFktdFlHQVR2a2VyanA2eEtXemkyM1BSXzdIa1FsYWF2NmZXRGp3?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Claudio Orrego y el servicio público&nbsp;&nbsp;Diario El Mercurio |",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-09-11T03:08:04+00:00"
     },
     {
       "titulo": "Agrupaciones de DD.HH. de Los Ríos: \"Kast está negando lo que pasó en Chile\"",
@@ -5635,17 +5646,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-07T13:02:00+00:00"
-    },
-    {
-      "titulo": "Gobierno evalúa vetos a la Ley de Incendios y Jaime Bassa acusa al oficialismo de entorpecer tramitación - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLU1zTDgyODJNOS1xOGdzZXRCYmRhbXRDbFI2bEp6VnpGNnlZVDB3NVpQVWxUdXZDRFJHRWt6R3pXNlBJMVFHaVBreFIxZEd3ZWJObHFGbHVCME5nTEZwMFlQSzY3TUE0a3cyUTNVY3dVWnRYc3hKR1ZWY0oxbms2TjRicDhWel9PdjB3LXF6VTZ5VHc0MVhudkY4YW0xbnoxaE9yTzY0MXhCd3VzSnl3MEY5bzJiM2JUbUJPUDdkdUVrN2RRSm9mZXVOX1diY2NSTnBIWklWMUlwQQ?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno evalúa vetos a la Ley de Incendios y Jaime Bassa acusa al oficialismo de entorpecer tramitación&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-07T12:59:00+00:00"
     }
   ]
 }
