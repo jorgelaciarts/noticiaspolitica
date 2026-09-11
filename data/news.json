@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-11T11:46:41.490361+00:00",
+  "actualizado": "2026-09-11T12:01:36.851129+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Trump ofrece 5.000 dólares a cada ciudadano si gana comicios",
+      "link": "https://ladiscusion.cl/trump-ofrece-5-000-dolares-a-cada-ciudadano-si-gana-comicios/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El presidente Donald Trump prometió s a cada adulto estadounidense si su partido mantiene el control del Congreso tras las elecciones de término medio, el próximo tres de noviembre. En declaraciones a sus seguidores durante la convención nacional del partido Republicano en Dallas, Texas, el mandatario aseguró que si “los republicanos ganan” entregará un “dividendo” [&#8230;]",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-11T11:56:30+00:00"
+    },
     {
       "titulo": "11 de septiembre en Chile: gobierno de Kast es el primero en democracia en decidir no conmemorarlo - El Desconcierto",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzcyNGZ2SDhpVFJidnRFTEJUWlBVZlJ3dGNkNFh3eDZVZ1BnUVN5SUdSY2lEYndONl85Nm0xQVZydVVZNmY5X1FLZ3NnQ2NRbHdaWTg4eGZRM0Rfb1Jpekw5bEI0X2w3UGhIR3RFelJnS09TNHBmZEdha0VYRHRjU3JjN2hjdThGaWRkLWZ4M29XUlgwTkpmeVlTelRvS2N1ems2VzVPQVRqV3VuRGMzOTk0V2tUY1RZaUJDMFZwZmx4RGVnMDdN?oc=5",
@@ -34,6 +45,19 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-11T11:02:50+00:00"
+    },
+    {
+      "titulo": "A 53 años del golpe: Iglesia Católica pide \"verdad sin odio\" y \"memoria sin resentimiento\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/a-53-anos-del-golpe-iglesia-catolica-pide-verdad-sin-odio-y-memoria/2026-09-11/075229.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Comité Permanente de la Conferencia Episcopal de Chile llamó este viernes a construir una memoria basada en la verdad, la justicia y la reconciliación, en un mensaje divulgado con motivo de un nuevo aniversario del golpe de Estado del 11 de septiembre de 1973.\nEn el documento, titulado \"Para construir paz y esperanza: Verdad, justicia y reconciliación\", los obispos católicos reconocieron que el",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-11T10:52:29+00:00"
     },
     {
       "titulo": "A 53 años del golpe de Estado: Iglesia pide \"verdad sin odio\" y \"memoria sin resentimiento\"",
@@ -5624,28 +5648,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T14:00:40+00:00"
-    },
-    {
-      "titulo": "Cerimedo, Keiko y Kast: fotografías y vínculos previos exponen un entramado regional de contactos de la ultraderecha",
-      "link": "https://www.elciudadano.com/chile/cerimedo-keiko-y-kast-fotografias-y-vinculos-previos-exponen-un-entramado-regional-de-contactos-de-la-ultraderecha/09/07/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nRegistros migratorios, fotos y declaraciones muestran reiterados cruces entre Carlos Díaz-Rosillo, exdirector de Política Pública de Seguridad Nacional de la Casa Blanca durante el primer mandato de Trump,  y el consultor argentino Fernando Cerimedo y sus socios, con figuras de la derecha regional como Keiko Fujimori  y José Antionio Kast.\nLa entrada Cerimedo, Keiko y Kast: fotografía",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T13:44:19+00:00"
-    },
-    {
-      "titulo": "Diputado Venegas (PS) señala que reunió las firmas para interpelación contra canciller Pérez Mackenna: “No queda otra alternativa” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQT01UaDQwZFhkYUtLclRCM0VNV0ZJYjM2OGZKLW55dG4wY0RSMDBsbC0tTkFKeWFRdTh2V2FNeFB2aGJibkhUWTZVbnRaalVLVmRNWVVoUWVlTmdlTEFoeHBsc2tjR1hHdlJtNnZWVlNRLVgwMjRqSDNDS2g0X3VVUTk5UG9ucWs5aWtqaWtaaXhXaC1ZbWlFbkJ6R1Bkb25xU0RiRE53NXpqSl9hU0F6Qk5Wc1ZwbWR5bUIzQnE3V3NyMTBRcmk4MlJsenUyVGRYY3VsSE1LeEdoeWNnb1J1QTN1NVpzLURQWGZnWVd2SEdVdHloY28tc09yMFdKQdIBnwJBVV95cUxPZTdpUjNuSVVBWkRlTmdzUTg5WDlpb21pSjBWMlVsMUZJaUw4NlZPSEd1TzAtOWJqbjJ4MmltRjZwUi1WNTA3TWVNN0xzTXFMUUtaclBfVDRIVHUtM2swMndzWERGMjVzVjdDc04wbnR3aGVBeVE5OUx1RTVnX1EtS0ZDbmM4RnV5NV95dUQ5TjJJRWpPNnV5V2R2amtmUHZET2NaVjhoRlU0RFBOTUVMNVNHSjE2Y1lJNXVpRmtZTl96T2ZxMkV1RG1PT1pSMlV6V1Z3Mzg5aWJYUkVaamJtUkJ4MFBxVVFodHVoX2dtY0VUdjVCY0dPOGFJTDFRY2FRRHg1UnRwcDBScmIwSDdMb1lOSFVJcllZS1dtd1lybw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Venegas (PS) señala que reunió las firmas para interpelación contra canciller Pérez Mackenna: “No queda otra alternativa”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-07T13:42:17+00:00"
     }
   ]
 }
