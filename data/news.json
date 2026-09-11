@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-11T17:31:47.878435+00:00",
+  "actualizado": "2026-09-11T17:46:38.012637+00:00",
   "total": 500,
   "items": [
     {
@@ -91,6 +91,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-11T16:49:52+00:00"
+    },
+    {
+      "titulo": "Isabel Allende a Kast: \"Ojalá hubiese tenido la altura de Jefe de Estado\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/isabel-allende-a-kast-ojala-hubiese-tenido-la-altura-de-jefe-de-estado/2026-09-11/134934.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A 53 años del golpe de Estado de 1973, la exsenadora Isabel Allende (Partido Socialista) criticó duramente la decisión del Ejecutivo de no realizar una ceremonia oficial en La Moneda y emplazó directamente al Presidente José Antonio Kast.\nDesde el Cementerio General, donde la Fundación Salvador Allende y dirigentes de la oposición encabezaron un homenaje en el mausoleo de la familia, la hija del P",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-11T16:49:34+00:00"
     },
     {
       "titulo": "Más de 30 proyectos despachados vs. 18 de Boric: El balance legislativo del gobierno en 6 meses - Emol",
@@ -451,6 +464,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T13:31:02+00:00"
+    },
+    {
+      "titulo": "Ministro de Defensa argentino por Magallanes: \"Están vigentes los tratados y lo sabemos perfectamente\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/argentina/ministro-de-defensa-argentino-por-magallanes-estan-vigentes-los/2026-09-11/101923.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Defensa de Argentina, Carlos Presti, desdramatizó la controversia provocada por los dichos del jefe del Estado Mayor General de la Fuerza Aérea de ese país, brigadier general Gustavo Javier Valverde, y reafirmó la vigencia plena de los acuerdos bilaterales que reconocen la soberanía chilena sobre el Estrecho de Magallanes.\nEn entrevista con el medio trasandino A24, el secretario de ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-11T13:19:23+00:00"
     },
     {
       "titulo": "\"No necesitamos ceremonias oficiales para recordar la historia\": Boric reaparece en acto opositor por el \"11\" - Emol",
@@ -5624,29 +5648,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-07T20:05:13+00:00"
-    },
-    {
-      "titulo": "Acusan “sillita musical”: diputadas del PDG exigen transparentar reingreso de Natalia Duco al gobierno - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdjVnU1VrcDQ4N2RhSUhCNl9JSUstUEw0SVVJMERRUERwSG1ZVEdUamNNejcxVWRnTktMN1JybFZFbmVhWXlKX1JaQnB4ck55b2VEWVR2LTRVNVBYbHVFeFhiRF9QWHZZR0EzX0dXSkhZUnliNF93cFo4WXV6YWlES2Nsa3Z3SmZwSWhQVkRUSGVrc3RmcU9aSVdld3BWa0pyRE83SThZSDVQWW1kV0JtQW9yOXFJNklGT3FLRUFrSmJhSDBuZV9wVWFiTWRrbGpOQ2dpcVFVUmZDZmvSAfwBQVVfeXFMTWs3LVRWYWoyYWI1a2kxR2F6SDJhZ0U3MGxKeUZJMnJUemRjWHFGSUF4X1hRWVRwb2N6OE1uNzZmbjdQLTc4andFRzljY3dhdU55UmhyVGd0TW5wdFNUR29INDBnaTNCUWJ0WXlIckhManh4T01PQUFHX2lrYXR3dU1ZOVNKT1BjdkhkX0RvZE1IVlZNc1NnX3h0SDY1TkZjdlpKWk5HS2NKVjhhb3lHSDhyYnFEQ0p3Z21XZFpPRzlJWF9UTXBWa2J3Vld3NWVWNms2bE1jUFRTV21VbHBvVWh3ejd1MU9iNjRDWEdVSnM4TV9VejA4Qjg0NWgx?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Acusan “sillita musical”: diputadas del PDG exigen transparentar reingreso de Natalia Duco al gobierno&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-07T20:05:13+00:00"
-    },
-    {
-      "titulo": "Senador Flores reitera que no apoyará reforma de seguridad: \"Es entregarle al Presidente atribuciones para que haga lo que quiera, es un estado de sitio o de guerra. Y eso es inaceptable”",
-      "link": "https://cambio21.cl/politica/senador-flores-reitera-que-no-apoyara-reforma-de-seguridad-es-entregarle-al-presidente-atribuciones-para-que-haga-lo-que-quiera-es-un-estado-de-sitio-o-de-guerra-y-eso-es-inaceptable-6a9f16d6fe3f8d37d16a50c3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-07T20:00:29+00:00"
     }
   ]
 }
