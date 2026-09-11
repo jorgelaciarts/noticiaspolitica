@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-11T14:16:42.004237+00:00",
+  "actualizado": "2026-09-11T14:31:46.777898+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Los aciertos y errores de los primeros seis meses del Presidente Kast en La Moneda",
+      "link": "https://www.theclinic.cl/2026/09/11/los-aciertos-y-errores-de-los-primeros-seis-meses-del-presidente-kast-en-la-moneda/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La designación de Jorge Quiroz en el gabinete o la temprana salida de Trinidad Steinert y Mara Sedini son algunos de los puntos que se valoran de los primeros meses de administración del Jefe de Estado. Sin embargo, analistas también identifican que le pesan los cambios al Mepco y el alza respectiva a los combustibles, los recortes al sector público, y las dudas que persisten sobre su diseño polít",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-11T14:29:02+00:00"
+    },
     {
       "titulo": "\"El día más oscuro de la historia\": Alcalde de Nueva York conmemora los 25 años del atentado del 11 de Septiembre con emotivo homenaje",
       "link": "https://cambio21.cl/el-mundo/el-dia-mas-oscuro-de-la-historia-alcalde-de-nueva-york-conmemora-los-25-anos-del-atentado-del-11-de-septiembre-con-emotivo-homenaje-6aa40aea843489116955a2f3",
@@ -12,6 +23,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-11T14:08:04+00:00"
+    },
+    {
+      "titulo": "Boric evita abordar la contingencia, pero remarca: \"No pueden borrar la historia\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/salvador-allende/boric-evita-abordar-la-contingencia-pero-remarca-no-pueden-borrar-la/2026-09-11/110802.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El expresidente Gabriel Boric participó este viernes en la conmemoración por los 53 años del golpe de Estado, realizada frente al mausoleo de Salvador Allende en el Cementerio General.\nLa actividad, convocada por la Fundación Salvador Allende, contó con la presencia de familiares del exmandatario, presidentes de partidos, dirigentes, parlamentarios y exautoridades de oposición. La ceremonia estuvo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-11T14:08:02+00:00"
     },
     {
       "titulo": "El alcalde musulmán de Nueva York repudia ataque de Al Qaeda a las Torres Gemelas",
@@ -35,6 +57,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-11T13:55:00+00:00"
+    },
+    {
+      "titulo": "Monckeberg y la no conmemoración oficial del 11: \"En algún minuto tenía que ocurrir\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/monckeberg-y-la-no-conmemoracion-oficial-del-11-en-algun-minuto-tenia/2026-09-11/104904.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Cristián Monckeberg respaldó este viernes en El Primer Café la decisión del Presidente José Antonio Kast de no realizar actos oficiales de conmemoración del golpe de Estado de 1973.\nEl 11 de septiembre \"es una fecha que puede enredar al sector que hoy día gobierna -que es mi Gobierno- porque pueden salir opiniones diversas, distintas, complejas\", señaló en Cooperativa el extimonel RN.\nDesde este p",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-11T13:49:04+00:00"
     },
     {
       "titulo": "Exministro Sergio Bitar enfrenta a Kast por falta de conmemoración del Golpe: “Tenga sensibilidad con los que no piensan como usted\"",
@@ -1816,6 +1851,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-10T08:00:00+00:00"
+    },
+    {
+      "titulo": "Isabel Plá aborda “ruido” en gabinete de Kast y afirma que en el gobierno de Piñera “los ministros no se mandarían recados por los medios” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZlpsV0dTVDJZQkRuNV96cl9oaUFVNEVCQTVRdnZEeDdkN0xoa00wZmNKRk81NWVTOTlvMDZfTkp6cnJLWDl6MzRiWWJnazgwRm51eWpQSlp5eGlDWkNjUVNzT1dadWdRZXAxQ0p5RlI3MF9HQ3kyVWViTGNQcEJGbEt6dDZnQzlBTjc2VjVEY3pVMFU2d28xNHFUSTZ2QUM1VjZ0c0RFUzQ2LTZmeDR6TnJFUFlrX2UzT1ZoRjQteXJOT1ZENFhDSldEZ1hVNkpReVpuNVVGOV8yQmpWMVRFRkNsSEZBSG9NXzdGUzg4c1l1eEV5azRKRFlpNm5LakU5blc1UmxyVlhDZ9IBqwJBVV95cUxPaVpMMmJ4WldKS3BnLWxzM3pCTTZ4Vmt5TmlZVlhqUVFJMVRQUjhjSEZjc3lwYjgxT2gtb3V2MjhpX2dsVzhWdVBhY0RueW8tOVlvYmJ4RDk2ZmNCTGJld0hrY1ByYlhnSHdqNFllUEtINi1xcDE5Wllib2RGbzlsQTJvd2JVUUJxMnFXYWVWUG5HMDZ2U1V3eTFzRG5FV0JvbHplOU1wdDh5T0l2MHRnaV95Z09JdF84LW56OTZaYWlsWURGQXRXUVpFdUZJUFVZNmZKTGVWazM1VU4zVVVJclFhUWtaYjRDNWt3RkNsNmNEaGsyWV96S0c3M3ljcGdabXJ5X0k1WDVKZkZTV29abzl3VTRXa1pneGoyc2kxTUhDcnlJWUFSRF82Zw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Isabel Plá aborda “ruido” en gabinete de Kast y afirma que en el gobierno de Piñera “los ministros no se mandarían recados por los medios”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-10T03:33:14+00:00"
     },
     {
       "titulo": "Secretismo compartido entre la Municipalidad de Quinta Normal y el Ministerio de Educación. Por Patricio Herman, Fundación Defendamos la Ciudad",
@@ -5601,50 +5647,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-07T16:33:46+00:00"
-    },
-    {
-      "titulo": "Oposición afina detalles para conmemoración del 11-S y presiona al gobierno de Kast a condenar violaciones a los DD.HH. - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbW9Hc3h2S2xGX2hPWmE2YVFEa3FwWm90WExOX0JuWnhWakhKMHBzYVZUeU1YdGtHWndrS1FRcjR6SmFFZTJzVEhOS2dEcXBBQVV6aGlUSlNtRFpWc2ZtUzlYNTBhVG1wWl9ZOWtVWGpZd0tlTEVTZjNnZHFZS2twY0JacVVzbV80YUpPeDM0MGRoZTIxSVJxbm1vT21aM0VydTVrQWJiV01aTHFQZGpvMTVIWTVvQVBrTWhfbnpnNG1XeDRCWGVpSEpRRkh5a3p2RHlIVGxPVTNTNEhMb0o3UlhZSkdsb2l5MnBvWG9HYzl5VmvSAZQCQVVfeXFMTTBrX3FVY01XRUFlSkpjUzgtNDdhN1V4X3lYdWRkV0VfRnQ2MDRka1pLVVZTR1BlOC1EVmxWcEMtU0l5MlVObHIzc3EyOHZLcVN1TTM0ZTF5V2Q4cGlkWnZBS2poQko3UTJkVWNIUEZQeGJyUjZDbzcxcFlVczRJZkhOeXg4M3BaUnFHeXotM19VOXBwQ2tDS29pUnNNc1JxU2dBOV9iLU5yaWI0bHo2Uzh3RUN1bXh4LU83NWo1SzQyTTY4MzZlSGlhVVVxZVFFRmUwSTZXZUFDeUZaaXZ5ek42SlpuUWxhOWYtMV9pSjFpMURIenM5cVpIS1JTX0xxZXVpbE4tR3hIcVpxVTVJQWdLQjJO?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oposición afina detalles para conmemoración del 11-S y presiona al gobierno de Kast a condenar violaciones a los DD.HH.&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T16:27:21+00:00"
-    },
-    {
-      "titulo": "Natalia Duco vuelve al gobierno de Kast tras uso irregular de vehículo: asumirá rol en segundo piso de La Moneda - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUhzcGowM0xYeEZmNmNKSnVaMGxlMlJjN1pYTGM2OUdhbm00cnhYVVotWXk5REcxU2RUMmVPdHpZbDdhY3l5NEdZSkYwZk53YVNRaGFVRFZvMkFMLWhmVnk1R2lhS2MxMGJrVUkwV2I1cTM5dVhzVGo0ZFRxVUczREo5WW4yNGZkTUsxZjRqREVScTZPY3FuNVl5bHAtNndjcktUMVBNaUtjWG5KUERGQ09PVUx3QVdZRURiVGVobUZvVlBRZElsYXozbFpoSDBiWGFkdFNBaw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Natalia Duco vuelve al gobierno de Kast tras uso irregular de vehículo: asumirá rol en segundo piso de La Moneda&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T16:11:00+00:00"
-    },
-    {
-      "titulo": "Exministra Duco vuelve a La Moneda como asesora del Segundo Piso - t13.cl",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRHRVSFNLTDgxNnpHTmloVTQ1WklKMzhaYTZaWEJyX2RQNkNmVmdBOS1vUkpGdGZsQ2lsd2F5dXhpbmxadHJ2VjNvNmlvQjdPc3JUMGxJX09Nc3dEekNLSWhpSzRUd2wtNU1OY2NsdjFDelB5dVBWekJlVGo3T1RkMWtPWE5XcHBIWjhkUjBKN0ZLZkc5QlRMMDVWWU5MRXF1cC1TeXotUQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Exministra Duco vuelve a La Moneda como asesora del Segundo Piso&nbsp;&nbsp;t13.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T16:10:00+00:00"
-    },
-    {
-      "titulo": "“¿Necesitamos 25 ministerios?”: Presidente Kast abre debate sobre reducción de las carteras del Estado - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXFYekotcDFkNFg5cmRoQzY4cVFkbUx5YlZ3bTVQMVNuRU1WblN2cFNJb0RwOHJYODlYMnFVNjdyU3F6WUxjRnVTTGJIbTkzRVptLUw0Q0pBc0k2WDhTZnlKSnFLNC1rcGxUUzVKU1BRcW1nNXpoVGc3SzZwa0RFZzBNRDA3Ul9NSWFodlh3bEswajRYXzJieDQ3N01GcW9ZYTA4Sl9JcUhLam9jT0FIcnRVZUNtTzduQllnOWJMRGxMT294QzYxRmRRNEhYQQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“¿Necesitamos 25 ministerios?”: Presidente Kast abre debate sobre reducción de las carteras del Estado&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-07T16:07:30+00:00"
     }
   ]
 }
