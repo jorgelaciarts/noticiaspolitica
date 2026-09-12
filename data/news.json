@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-12T11:46:41.388823+00:00",
+  "actualizado": "2026-09-12T12:01:47.104182+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Autoridades exigen mayor inversión portuaria para defender liderazgo antártico de Punta Arenas frente a Ushuaia",
+      "link": "https://laprensaaustral.cl/2026/09/12/autoridades-exigen-mayor-inversion-portuaria-para-defender-liderazgo-antartico-de-punta-arenas-frente-a-ushuaia/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El alcalde de Punta Arenas, Claudio Radonich, y varios parlamentarios aseguraron que es importante invertir en un puerto para la capita regional y mejorar los terminales aéreos de la zona. “No nos podemos quedar en los laureles”, señaló el jefe comunal. El estrecho de Magallanes nuevamente vuelve al tapete, tras las declaraciones del ministro de...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-12T11:49:31+00:00"
+    },
     {
       "titulo": "Columna de Danilo Herrera: La silla del acusado",
       "link": "https://www.theclinic.cl/2026/09/12/columna-de-danilo-herrera-la-silla-del-acusado/",
@@ -5628,20 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-08T12:58:29+00:00"
-    },
-    {
-      "titulo": "Bianchi: \"Chile no tiene ninguna capacidad de control del Estrecho de Magallanes\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-magallanes/bianchi-chile-no-tiene-ninguna-capacidad-de-control-del-estrecho-de/2026-09-08/095250.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El senador Karim Bianchi (ind) abordó en Cooperativa la reunión de la Comisión de Seguridad Pública realizada en San Bernardo y la polémica con Argentina por la soberanía del Estrecho de Magallanes, donde aseguró que no hay capacidad de control del Estado.\n\"Chile no tiene ni una capacidad de control del Estrecho de Magallanes, sino que la tiene en el norte, tiene su zanja y tiene todo desplegado c",
-      "categorias": [
-        "Presidente",
-        "Senadores",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-08T12:52:50+00:00"
     }
   ]
 }
