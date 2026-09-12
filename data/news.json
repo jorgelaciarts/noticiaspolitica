@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T11:01:42.958156+00:00",
+  "actualizado": "2026-09-12T11:16:35.075670+00:00",
   "total": 500,
   "items": [
     {
@@ -67,6 +67,29 @@
         "Presidente"
       ],
       "fecha": "2026-09-12T09:00:01+00:00"
+    },
+    {
+      "titulo": "Guillermo Ramírez: «La principal emergencia es el empleo» - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYUJhUzZUQ0thLXFMZFpfdkdHV2pNYm84bVYweFJCTkhTbWg5el9kTWg2SGs0MDNlZl9LQnNuQ200Mld0M05LU3ZjaDQwQ0xxVUxJdFFYZnVtamdPR3p6X2phNThkLUdhZWVNa2dIemowN0tSUHRCRVN6aTktcUFLVFZ6RVRPZXBDOHlsa2FKNA?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Guillermo Ramírez: «La principal emergencia es el empleo»&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-12T08:00:00+00:00"
+    },
+    {
+      "titulo": "Kusanovic, senador por Magallanes: “Kast no creó esta situación; la heredó” - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXU1dGt5TFNKVGlOWC1yZU1NZW9DSXZ0TDN5emt5YXpiX01WY29sdzFyOXRiU1NDNThRemkyRzFudVAxanBWRTJ2UVhlXzc3ZFJrekNmYVZDQ0tRVmhFM0NoNmJHSXpUckFtNTZnY282NkE0WFdnblhIUlRjTTVYZHBSRjR1eUVuelZmcldEUlpnSW1YYXJHOVpOdDNCbGR5VDF4Qw?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kusanovic, senador por Magallanes: “Kast no creó esta situación; la heredó”&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-09-12T07:55:00+00:00"
     },
     {
       "titulo": "Gabriel Boric frente a la conmemoración del Golpe de Estado: \"Siempre van a haber quienes traten de borrar la historia, de minimizarla\" - 24horas",
@@ -5619,28 +5642,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-08T12:52:50+00:00"
-    },
-    {
-      "titulo": "Diputado Schubert cuestiona interpelación contra el canciller Pérez Mackenna: “Nos parece que no es oportuno” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOamc1dl96THVKVW04RUFSYjd4aEJQQkxVaGNlcWJ5OHRiSHQ5ZzYwcFFaajZYU0djcEdpS2VFSmQxYlB4bll6S19Tc29HbHdjNDdvUGt4R2tqRVFGcFNYMWRSaGQwODJTbEt5Njh2T1l0NW15YW0xdnpEOS1TTUpsVUxvN1N3MF9Dd0p4Vko2Q1FyYkt5ZjNrdVA3WVJ0aFF2dldkOW1kS0NvQ0JSaHpoQ1lFT0hqVy1FS1d2c29Xc3NaNjJrSmF6bEs5dV9YUm1OcEk5Y2EzeTAtWmtKNHhCclZjU2PSAYYCQVVfeXFMT2JsRUZjNHFVZ1I1cHpIV3NNVVN4M2pEVk9kOXp6c0l6WVpJVUgzWDhMeGQxdlNpaFE1MUthellpZWVaVlN3ZlB5LTk4YUFtS0Z6c3ZiSUxjbHdWSm9vbVA5ZUVycWZmSmk2N004Y3hKOG1lRUlZYmlzRG1GODYwTjg2NWZ3ODhwNWRKTlhKXy1nS1had0kzdjdwT3FoQnNlMVM3ZndVZHBmWGg5NFQwb19Hb2ZreEFYNXZyNXlFbVBTRThXTVF6U2tGUjQ1MXFSVlNSemxNd0dtOVk1QmFlLTItOEUxM1d4SnpfdUpheXNYWi1XY0lveFozUlRFUnBaVkFpSEFqUQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Schubert cuestiona interpelación contra el canciller Pérez Mackenna: “Nos parece que no es oportuno”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T12:35:53+00:00"
-    },
-    {
-      "titulo": "Diputado Schubert cuestiona interpelación contra el canciller Pérez Mackenna: “Nos parece que no es oportuno” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOamc1dl96THVKVW04RUFSYjd4aEJQQkxVaGNlcWJ5OHRiSHQ5ZzYwcFFaajZYU0djcEdpS2VFSmQxYlB4bll6S19Tc29HbHdjNDdvUGt4R2tqRVFGcFNYMWRSaGQwODJTbEt5Njh2T1l0NW15YW0xdnpEOS1TTUpsVUxvN1N3MF9Dd0p4Vko2Q1FyYkt5ZjNrdVA3WVJ0aFF2dldkOW1kS0NvQ0JSaHpoQ1lFT0hqVy1FS1d2c29Xc3NaNjJrSmF6bEs5dV9YUm1OcEk5Y2EzeTAtWmtKNHhCclZjU2M?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Schubert cuestiona interpelación contra el canciller Pérez Mackenna: “Nos parece que no es oportuno”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T12:35:53+00:00"
     }
   ]
 }
