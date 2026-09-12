@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T03:46:39.635028+00:00",
+  "actualizado": "2026-09-12T04:01:37.983029+00:00",
   "total": 500,
   "items": [
     {
@@ -586,6 +586,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-11T17:03:45+00:00"
+    },
+    {
+      "titulo": "Kast y conmemoración del 11 de septiembre: “No puedo borrar el pasado, pero tampoco le voy a pedir a nuestros compatriotas que quedemos anclados en el pasado” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQX1lsNEZPYVVRX3VZbjRLRktHS2xQVjExSVVPRm92YUFHWi0xSHhFOGlWSUtnamJnU3RuMlBBck9ieXN0VW10MEt6WDhWV0NidkYyRmxpajlzUVlmREI2S3BVbkMyLUlFYndsX0Z1V1liNFJlcS1sSThKaTZEWmx6NEg2aEpVNDlKVExncFdyZVhwOXgtZmJPeG1oX01FR0NWQTRpRmpUc3VGSU03M1l5SGZFZjExYnA4cHU4WUIwX0xTRDJjTzRRZmZLbEFQd0hpU1JCZlNpWEwyYTlCSGU0Y3M5a1daQVlTMVgtUVhjNGFXaGJKUGc1UHJyVDZwNm1hQ0o0TTg3TXphbExmWWtPX1hXbw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast y conmemoración del 11 de septiembre: “No puedo borrar el pasado, pero tampoco le voy a pedir a nuestros compatriotas que quedemos anclados en el pasado”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-11T16:56:13+00:00"
     },
     {
       "titulo": "Servel fortalece la formación ciudadana con nuevas actividades en comunidades educativas en Los Ríos - servel.cl",
@@ -5631,18 +5642,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-08T11:14:00+00:00"
-    },
-    {
-      "titulo": "Inflación al alza: IPC de agosto llegó al 0,6%",
-      "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-al-alza-ipc-de-agosto-llego-al-0-6/2026-09-08/081204.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La inflación en Chile registró una variación mensual de 0,6% en agosto y acumuló un 4,1% en comparación con el mismo periodo de 2025, informó este martes el Instituto Nacional de Estadísticas (INE).\nEl Índice de Precios al Consumidor (IPC) duplicó las expectativas del mercado y de la Encuesta de Operadores Financieros del Banco Central, que preveían un aumento de 0,3%.\nEn el año, la inflación acum",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T11:12:04+00:00"
     }
   ]
 }
