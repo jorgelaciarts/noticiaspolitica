@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-12T23:01:22.669165+00:00",
+  "actualizado": "2026-09-12T23:16:28.381252+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Concejales fijan prioridades para el Presupuesto 2027 y ponen el foco en seguridad, calles y salud",
+      "link": "https://ladiscusion.cl/concejales-fijan-prioridades-para-el-presupuesto-2027-y-ponen-el-foco-en-seguridad-calles-y-salud/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La discusión por el Presupuesto Municipal 2027 comienza a instalarse en el Concejo Municipal de Chillán, en medio de cuestionamientos de algunos concejales por la demora en conocer la propuesta financiera que deberá definir las prioridades de la administración del alcalde Camilo Benavente para el próximo año. Desde la Secretaría Comunal de Planificación (Secpla) aseguraron [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-12T23:09:17+00:00"
+    },
     {
       "titulo": "Puerto Montt y China logran convenio en tecnología y comercio para combatir el desempleo",
       "link": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/puerto-montt-y-china-logran-convenio-en-tecnologia-y-comercio-para/2026-09-12/193820.html",
@@ -5633,17 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T15:50:29+00:00"
-    },
-    {
-      "titulo": "Codelco-SQM bajo Máximo Pacheco: experto acusa que acuerdo por el litio se concretó para “manipular los datos del cierre” de 2025",
-      "link": "https://www.elciudadano.com/especiales/mineria-y-energia/codelco-sqm-bajo-maximo-pacheco-experto-acusa-que-acuerdo-por-el-litio-se-concreto-para-manipular-los-datos-del-cierre-de-2025/09/08/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nAnte la comisión investigadora de la Cámara de Diputados, el académico e investigador en gestión financiera y fraudes empresariales, Jorge Berríos planteó que si alguien modificó la cifra, fue  \"porque alguien, derechamente, le dijo, modifica la cifra\".\nLa entrada Codelco-SQM bajo Máximo Pacheco: experto acusa que acuerdo por el litio se concretó para “manipular los datos del cierre” ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T15:43:38+00:00"
     }
   ]
 }
