@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-12T14:16:29.045433+00:00",
+  "actualizado": "2026-09-12T14:31:44.101322+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senadora Fabiola Campillai por presiones de Republicanos y Libertarios a Kast: \"Cualquier indulto a violadores de DDHH es una traición a la patria\"",
+      "link": "https://cambio21.cl/politica/senadora-fabiola-campillai-por-presiones-de-republicanos-y-libertarios-a-kast-cualquier-indulto-a-violadores-de-ddhh-es-una-traicion-a-la-patria-6aa55f37b71f1d39f918c813",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-09-12T14:24:18+00:00"
+    },
     {
       "titulo": "Polémico diputado pinochetista Javier Olivares dice que las Malvinas son británicas y desata críticas en Argentina: “¿Cómo decís Falklands, salame?”",
       "link": "https://cambio21.cl/pais/polemico-diputado-pinochetista-javier-olivares-dice-que-las-malvinas-son-britanicas-y-desata-criticas-en-argentina-como-decis-falklands-salame-6aa55bf3c40c356cbb5724d7",
@@ -5350,6 +5362,17 @@
       "fecha": "2026-09-08T15:36:34+00:00"
     },
     {
+      "titulo": "Senador Vial (PRep) y relación con Argentina tras episodio por Magallanes: “No confundir la amistad con la ingenuidad” - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWk80WWdBTXZCcVFMSmpKVF9fQ0N0dmZRQVVxWWVUQUQ2cEVTdmZzanYwNXduZU1wdnZ6ZGNaX19rTHRtT0FOQnRVc1JIX3FLOUMyaS1iQWtyNzNqSER4OFNwN3hnVmJrdC1Sa3Y1N0dIaGk1VmhWQXpEckZCUERyVEh5MjJnOW10X2dZYmlGck54eWxLa1hQZi01d1BOLVNtMkFKaWxwNlBmdGkxTDVVUDd6eW8tdG03OTE4ajNxdHRsaUpMdkNIS0loM0Z0ZDB1SlZ6VWRuRzhpRG1FTHN3bjdYWQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Vial (PRep) y relación con Argentina tras episodio por Magallanes: “No confundir la amistad con la ingenuidad”&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-08T15:35:18+00:00"
+    },
+    {
       "titulo": "Tomás Vodanovic por videos de alcaldes al estilo “Tío Emilio”: “Los políticos no estamos para hacer puestas en escena, estamos para resolver problemas”",
       "link": "https://www.theclinic.cl/2026/09/08/tomas-vodanovic-por-videos-de-alcaldes-al-estilo-tio-emilio-los-politicos-no-estamos-para-hacer-puestas-en-escena-estamos-para-resolver-problemas/",
       "fuente": "The Clinic",
@@ -5616,28 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T13:41:15+00:00"
-    },
-    {
-      "titulo": "Kast llama a mantener la unidad de las fuerzas del Rechazo - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa1JDYlRmR01UWEhZVXpmX3N5ZnlVV1JhaU5FNWdMcnBZcnVRNENXckg5Rmd1VEJueGNPUkZqTzN3MDhsRFpfeTg3UFNEMjJBeG0wLUVSSHgwUnUtbTV5dlpmelo3VHQ1WktRTHNCdFVjcF91VXp0T0VxWXJoMDJuc1VuR2JjWkthYnFjZHJCclJ3NlJCRXZyeUVMVTMxdXREWTV4UdIBxgFBVV95cUxOSE5ZT2dYYkJXMTM4Rmt4bjJaZFZIWnNHRU9pQlA1T1dSclpvNzE3eG0yTVdLc0FJWWpRN2ZZTURtdDdyTS01cnhpT18zbVVvTXZzZXl4WW1NNHlxNUl1WWVPTzRWYlYtVHBoQS0tSm5nd21MNGhuSEo0WTNZc2oxeXpmS2k3a2lLQUg4TUhQOFlNQS1uRUdLOTlLdC0xWng3ZnFhdjBUYTdkZExSQ3RGSlJZVGJFVWNPemRVMEFCdWxaQk8yNUE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast llama a mantener la unidad de las fuerzas del Rechazo&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-08T13:41:15+00:00"
-    },
-    {
-      "titulo": "Presidenta del FA Gael Yeomans pide que Presupuesto 2027 priorice el empleo: “Se tiene que enfocar en el objetivo de aumentarlo” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOGRFekhLWU9Ncm1PejlQR3hhU2NWZXVCYmQxcjNDOXFpWXd4SjFqS3NfUWNsWUVVNnpROXBreUxWNkc2RGF6amhKcW5lODJtTmJnazIyZjNyd0tpMHQxNVkxVklaQWRXVzM2Z05xWloySVpVUnBzSE41TTBvUk5aMFV3cDJGeVRfR0JJMlNHTVFka2ZkeEpJQXlLVGt5WHA5?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidenta del FA Gael Yeomans pide que Presupuesto 2027 priorice el empleo: “Se tiene que enfocar en el objetivo de aumentarlo”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T13:28:23+00:00"
     }
   ]
 }
