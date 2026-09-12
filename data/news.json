@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-12T18:16:47.201830+00:00",
+  "actualizado": "2026-09-12T18:31:47.455742+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-12T17:47:50+00:00"
+    },
+    {
+      "titulo": "Presidente Kast instruye fiscalizar hogares de adultos mayores tras tragedia en Pitrufquén",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/presidente-kast-instruye-fiscalizar-hogares-de-adultos-mayores-tras/2026-09-12/141332.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast anunció medidas urgentes para revisar las condiciones de funcionamiento y seguridad de los hogares de adultos mayores del país, tras el incendio que dejó 16 fallecidos en una residencia de Pitrufquén, en la Región de La Araucanía.\n\"La tragedia de Pitrufquén es devastadora y nos obliga a actuar con rapidez, decisión y responsabilidad. La delegación presidencial y los",
+      "categorias": [
+        "Presidente",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-12T17:13:32+00:00"
     },
     {
       "titulo": "Presidente Kast lamentó tragedia en hogar de adultos mayores de Pitrufquén",
@@ -5630,17 +5643,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-08T14:36:12+00:00"
-    },
-    {
-      "titulo": "\"Inspección total\" al gobierno de Boric deja 1.529 hallazgos y 4 organismos denunciados ante Fiscalía - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcjV2QUtYX1lfU2lkckU3SmhncnZjYjVxM3NfR3loYmhEZHJiS3YzVmxuaTUtWnlNTHdPREtONDlFM24tUVRMelNDM0FyYnlwMlJIYWdYSlBJSXJZU1FteFUwUjVsN3pNWVVZRTN0cGVsajUzREpkMzhBQy1XQzhjVzJWbkQ4Z0dFMk5tNmp1aTkwX09fdUxHMnBZWDQ1ZWRuN3FEcHhKVVRSVkcxWTJNRXpJWUJBVERPRXRYcFY1YjQ2NmM0RlBqTW5GM3VpSE9GbWg5Z3EtV1ZPNGpZVmdHUWtva2ppVW4tVFR6RW81S1BuOXhOTWlvY3ctSQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Inspección total\" al gobierno de Boric deja 1.529 hallazgos y 4 organismos denunciados ante Fiscalía&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-08T14:35:36+00:00"
     }
   ]
 }
