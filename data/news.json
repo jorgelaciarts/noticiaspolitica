@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-12T17:46:39.417211+00:00",
+  "actualizado": "2026-09-12T18:01:34.061896+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La complicidad silente de la Corte Suprema en dictadura: A 53 años del golpe, máximo tribunal sigue sin pedir perdón",
+      "link": "https://www.elciudadano.com/actualidad/la-complicidad-silente-de-la-corte-suprema-en-dictadura-a-53-anos-del-golpe-maximo-tribunal-sigue-sin-pedir-perdon/09/12/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nA 53 años del golpe: Hace 53 años, el&#160;Palacio de La Moneda&#160;fue bombardeado y el Presidente constitucional&#160;Salvador Allende&#160;fue derrocado por las Fuerzas Armadas. Este viernes 11 de septiembre de 2026, por primera vez desde el retorno de la democracia, el edificio que simboliza la sede del poder político&#160;no fue escenario de una ceremonia oficial&#160;para recor",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-12T17:47:50+00:00"
+    },
     {
       "titulo": "Presidente Kast lamentó tragedia en hogar de adultos mayores de Pitrufquén",
       "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/presidente-kast-lamento-tragedia-en-hogar-de-adultos-mayores-de/2026-09-12/141332.html",
@@ -25,6 +36,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-12T17:02:49+00:00"
+    },
+    {
+      "titulo": "Parlamentarios exigen plan de emergencia y \"fast track\" laboral",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/parlamentarios-exigen-plan-de-emergencia-y-fast-track-laboral/2026-09-12/135301.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Parlamentarios del oficialismo y de la oposición intensificaron sus críticas y exigencias hacia el Gobierno por el manejo de las cifras laborales, demandando planes estatales directos y reformas urgentes en la antesala del ingreso del proyecto de Ley de Presupuesto 2027 al Congreso.\nLa inquietud en el Poder Legislativo se agudizó luego de que el desempleo alcanzara un 9,5% en el trimestre mayo-jul",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-12T16:53:01+00:00"
     },
     {
       "titulo": "\"He instruido que se adopten medidas urgentes\": Presidente Kast ordena fiscalización a recintos de adultos mayores tras tragedia en Pitrufquén - 24horas",
@@ -5617,28 +5641,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-08T14:30:37+00:00"
-    },
-    {
-      "titulo": "Bolivia busca presionar a senadores chilenos por caso “Narcomaderas” - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzNxM2szRUhZdE9wZHJtR1VNaWxfSENpWEZibG5QQXlyR0xhbkdFQ0V2YnhxMzdHdHN1MHV3empyLW5JT2dqQ3hLNVA1TE95dEJWeFZpYVpQclAtU3VwVUNzRmpSVjUwVFR5UjliUl96eTYtNWRNYmJVTThwZnRUVm1tTGUxX3R5ZmFBQUNIOTFRQ0w0ZmtFc2NRN0NILWVlbGhnVG9LZ01aWC1KSnBhdHhwR09tWnc?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bolivia busca presionar a senadores chilenos por caso “Narcomaderas”&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-08T14:30:07+00:00"
-    },
-    {
-      "titulo": "Camila Vallejo cataloga de cobardía actitud de Kast ante Milei: No ha sido más que una vergüenza nacional - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNY0wxUkVPSzRielJsbDQtdl95OGtTM2dxZzN4ZzAwMng5VkM0UFJEaHJrOHBmSm13UHE1QWZGVmV3SHBUQ0hLWFVhQWpYQjBEajFmM3Rpc0dsSXhJUXNhVnlzNGhqNmpFeENwdHBXV0NiTERmQ1hrWklpa1FBTWxQMXhrZG40dTJsMmhsckJRdVhMbVZ0ZldoWEdoR2M1WEFPNm1UbnNIR2FvVHE3cEtMZUNlbHJ3dXZNdFFfUEhFWFFBTU1mZ2VMUkRmbDlDRmFhUUxrbW93?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Camila Vallejo cataloga de cobardía actitud de Kast ante Milei: No ha sido más que una vergüenza nacional&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-08T14:27:00+00:00"
     }
   ]
 }
