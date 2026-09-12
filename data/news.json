@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-11T23:46:26.598501+00:00",
+  "actualizado": "2026-09-12T00:01:47.171798+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Concejo de San Fabián rechaza propuesta de trabajo por La Punilla",
+      "link": "https://ladiscusion.cl/concejo-de-san-fabian-rechaza-propuesta-de-trabajo-por-la-punilla/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Una “intensa” sesión del Concejo Municipal de San Fabián se vivió este miércoles, cuando el delegado presidencial, Diego Sepúlveda, concurrió a presentar una propuesta para coordinar el trabajo conjunto en torno a la ejecución del proyecto Embalse La Punilla, sobre la base de la premisa “nada en el territorio, sin el territorio”, en virtud de [&#8230;]",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-09-11T23:58:16+00:00"
+    },
     {
       "titulo": "Una romería frente al silencio oficial: oposición de Ñuble conmemora los 53 años del golpe",
       "link": "https://ladiscusion.cl/una-romeria-frente-al-silencio-oficial-oposicion-de-nuble-conmemora-los-53-anos-del-golpe/",
@@ -5630,18 +5641,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-08T04:28:47+00:00"
-    },
-    {
-      "titulo": "Justicia falló contra el Serviu Antofagasta por casas agrietadas y con filtraciones",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/justicia-fallo-contra-el-serviu-antofagasta-por-casas-agrietadas-y-con/2026-09-08/000337.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Juzgado de Letras en lo Civil de Antofagasta declaró que el Servicio de Vivienda y Urbanismo (Serviu) de la región incurrió en una falta de servicio en el caso del condominio El Salar, cuyas viviendas comenzaron a agrietarse poco después de su entrega en 2020, y fueron declaradas inhabitables un año después.\nEl tribunal también apunta a la responsabilidad de la constructora Silvio Cuevas Suárez",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T03:03:37+00:00"
     }
   ]
 }
