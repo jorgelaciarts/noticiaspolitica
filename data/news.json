@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-13T18:16:39.028214+00:00",
+  "actualizado": "2026-09-13T18:31:32.578708+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senadora Camila Flores (RN) arremete contra ministro de Defensa: \"Barros no entiende cuál es el funcionamiento del Estado\"",
+      "link": "https://cambio21.cl/tendencias/senadora-camila-flores-rn-arremete-contra-ministro-de-defensa-barros-no-entiende-cual-es-el-funcionamiento-del-estado-6aa6ea76d8a91134b90e0d64",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-13T18:26:54+00:00"
+    },
     {
       "titulo": "Kast tras participar en su primer Te Deum evangélico: \"Pasamos por un momento duro\"",
       "link": "https://cambio21.cl/pais/kast-tras-participar-en-su-primer-te-deum-evangelico-pasamos-por-un-momento-duro-6aa6e367340d5f759e54d384",
@@ -286,6 +298,18 @@
         "Senadores"
       ],
       "fecha": "2026-09-13T13:54:00+00:00"
+    },
+    {
+      "titulo": "Cámara pide al Gobierno crear una red de salud veterinaria con acceso gratuito",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/camara-pide-al-gobierno-crear-una-red-de-salud-veterinaria-con-acceso/2026-09-13/102228.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Cámara de Diputados solicitó al Presidente José Antonio Kast evaluar la creación de un Sistema Nacional de Salud Veterinaria, destinado a ampliar el acceso a prestaciones, reducir sus costos y fortalecer las políticas de bienestar animal y tenencia responsable.\nLa petición está contenida en la resolución 61, presentada por la diputada y vicepresidenta de la Corporación, Ximena Ossandón, y aprob",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-13T13:22:28+00:00"
     },
     {
       "titulo": "Excandidato presidencial Franco Parisi se querella contra economista Gino Lorenzini por delito de injurias y calumnias",
@@ -5614,28 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-08T21:10:00+00:00"
-    },
-    {
-      "titulo": "Amenazas narco, con cuchillos y de barras bravas: las razones para que ocho alcaldes mantengan protección policial",
-      "link": "https://www.ciperchile.cl/2026/09/08/amenazas-narco-con-cuchillos-y-de-barras-bravas-las-razones-para-que-ocho-alcaldes-mantengan-proteccion-policial/?utm_source=rss&utm_medium=rss&utm_campaign=amenazas-narco-con-cuchillos-y-de-barras-bravas-las-razones-para-que-ocho-alcaldes-mantengan-proteccion-policial",
-      "fuente": "CIPER Chile",
-      "region": "Nacional",
-      "resumen": "La entrada Amenazas narco, con cuchillos y de barras bravas: las razones para que ocho alcaldes mantengan protección policial se publicó primero en CIPER Chile.",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-08T21:02:36+00:00"
-    },
-    {
-      "titulo": "Oposición lleva al Congreso la política exterior de Kast y cita a Pérez Mackenna a una interpelación - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVJEWXNLSFI3MXFJLXRIOXZTZjB0R0tYRnVYalpUaEVpNWF1NllRUHRkZ2g5VHJzeFRDQk1NazlwY0ZqUkZSSDlabkVBZThBMy1zXzl4X3BGQmpvQkYwai1Hei1mSE1SUE9BRWhSX0p5MkNZR1JPVjRleUFZVjgwQUM2a2RyRGZHWlpUckwtbVFtc1NrMDVxaGFra21zNmZtdksxS0hYd0I5TEhTeUFzcnlMNVk0cHVmYko5TW9QeHdLY0sy?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Oposición lleva al Congreso la política exterior de Kast y cita a Pérez Mackenna a una interpelación&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-08T21:00:47+00:00"
     }
   ]
 }
