@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-13T01:01:48.283943+00:00",
+  "actualizado": "2026-09-13T01:16:20.666864+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido Comunista conmemoró 50 años del hallazgo del cuerpo de la profesora Marta Ugarte en una playa en Los Molles, La Ligua",
+      "link": "https://cambio21.cl/pais/partido-comunista-conmemoro-50-anos-del-hallazgo-del-cuerpo-de-la-profesora-marta-ugarte-en-una-playa-en-los-molles-la-ligua-6aa5f4b5f0b63960d0666033",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-13T01:04:22+00:00"
+    },
     {
       "titulo": "El Ejército entrena junto a tropas de Argentina, EE.UU. y Perú en selva amazónica",
       "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/ejercito/el-ejercito-entrena-junto-a-tropas-de-argentina-ee-uu-y-peru-en-selva/2026-09-12/205140.html",
@@ -5633,18 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T16:11:02+00:00"
-    },
-    {
-      "titulo": "Kast elogió a Meloni por longevidad de su mandato \"en una época donde la política se tornó errática\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-elogio-a-meloni-por-longevidad-de-su-mandato-en-una-epoca-donde-la/2026-09-08/130614.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast elogió a la primera ministra italiana, Giorgia Meloni, por haber alcanzado el viernes el récord de permanencia de su mandato -que llegó a los 1.413 días-, \"en una época donde la política se ha vuelto errática\".\n\"No es casualidad que Giorgia Meloni sea hoy la líder que más tiempo ha permanecido como Primera Ministra en la Italia moderna. Su trabajo es consistencia, p",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T16:06:14+00:00"
     }
   ]
 }
