@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-13T04:01:50.920707+00:00",
+  "actualizado": "2026-09-13T04:31:33.724859+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Este domingo continúa la formalización de imputados por secuestro extorsivo",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/ministerio-publico/este-domingo-continua-la-formalizacion-de-imputados-por-secuestro/2026-09-13/010016.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Este domingo continuará la formalización de cuatro de los imputados en la investigación por presunto secuestro extorsivo que involucra a exfuncionarios policiales y al otrora fiscal Vinko Fodich, quien quedó en prisión preventiva junto al inspector de la PDI Rodrigo Navarrete y Luis Moraga Parisi, primo del excandidato presidencial del PDG, por eventualmente simular ser un policía.\nLa investigació",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-13T04:00:16+00:00"
+    },
     {
       "titulo": "Partido Comunista conmemoró 50 años del hallazgo del cuerpo de la profesora Marta Ugarte en una playa en Los Molles, La Ligua",
       "link": "https://cambio21.cl/politica/partido-comunista-conmemoro-50-anos-del-hallazgo-del-cuerpo-de-la-profesora-marta-ugarte-en-una-playa-en-los-molles-la-ligua-6aa5f4b5f0b63960d0666033",
@@ -5633,17 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-08T16:30:00+00:00"
-    },
-    {
-      "titulo": "Alcalde de Los Ángeles responde a críticas por retiro de basura VIP en su casa: \"Es joder por joder\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPQ3BqS1gyR00tVklGU3BFMUxaU1NfbUVtR3g4SkxiZ3FBR2x2bi1kQ0xZYXF5bDA1YXdGUUZMY2g1NVhOa3lFcFl3ak1JNW42LUxqcU5fWXJyUzROU2RmTlk4Y0JEX3JjNV8wVDZoSTNjSzllNkNVRkVRb2VhMTlLWExuTnF0TVZKY3lveC10cHZpU3hSN0Q1TWNBLWV4RkJ6dzVBa2g3c0ZjNTFvV0RJdXJhMllQWXNSWU1CMk9wX1Mwd0JFWEpxRlZObUtZUmJSX1FDdkZPc1Uwd2FCX1I3UnJKa3RJSXI1TmtUT3NPeW5QMHk5UEU4TEcxNXZMOHUzYzNUVGo2Zzg2UQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Los Ángeles responde a críticas por retiro de basura VIP en su casa: \"Es joder por joder\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-08T16:17:16+00:00"
     }
   ]
 }
