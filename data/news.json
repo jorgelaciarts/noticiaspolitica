@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-13T21:16:21.858296+00:00",
+  "actualizado": "2026-09-13T21:31:30.990101+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente José Antonio Kast apela a forjar acuerdos transversales en su primer Te Deum - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWludVI5NUlCQ1RkTnVCcnFFVG1YTW9NRExidUF0dFg0NkFWcHVHS3N5dzhnLTE4MS1vZGZhZlFBbFNCczM4STRuYXA1N00ycUlNREVUYlUtTUREUVBtdjVYWUF1ZlRRbVlDaFNTZXlIVlVjMGxtM29qdXlhUWtvRUpENEpZaE9yaEdfZGNEWks5SERNc2QxYWk3VVI2VVE0T0lsTW1zQlJRYmp1R1hQaUtKYnhLM1ZFbl9qT1RUQ18?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente José Antonio Kast apela a forjar acuerdos transversales en su primer Te Deum&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-13T21:21:21+00:00"
+    },
     {
       "titulo": "Ha recibido hasta $5 millones de pesos: Activista venezolana vinculada a la UDI fue contratada por el Ministerio de Hacienda - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc3E1bWRtc2NURGV2Mlg0M2FNS25lRUR6NXRjUFIzbFpTNGdiMEhzMVhEQzQwNVVXTWRyTnN3UjBlRXRodzVyZnNrY2ZxREFYV254SU9MQnhLMjhsZlhPOUFqUDhhVEhGbEFiUDNFQXM5enlDV2ZzVmxIaVY3R0gwMnJnSkF3d0x6Q0U3TEFIYnA1cjYydVJNb1p5TWQ1c2d2M3Q2R1hJZndBTGJuYlNCSkZHMjBUOTVtS0o2dlZsYXZRa0k?oc=5",
@@ -12,6 +24,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-13T20:51:00+00:00"
+    },
+    {
+      "titulo": "Diputados proponen plan de capacitación en IA ante desempleo y riesgo de automatización del trabajo",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/diputados-proponen-plan-de-capacitacion-en-ia-ante-desempleo-y-riesgo-de/2026-09-13/174117.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Diputados republicanos y libertarios propusieron impulsar un plan masivo de capacitación en IA para potenciar el empleo ante la elevada tasa de cesantía en Chile -ubicada en 9,5%- y el alto riesgo de automatización al que se expone la fuerza de trabajo nacional. \nA través de un oficio a los ministerios respectivos, los parlamentarios Stephan Schubert, Alejandro Riquelme (ambos republicanos) y Eric",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-13T20:41:17+00:00"
     },
     {
       "titulo": "Mara Sedini y sus 69 días en La Moneda: \"Podría haber construido una gran vocería con más tiempo\" - BioBioChile",
@@ -5615,28 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-08T21:38:51+00:00"
-    },
-    {
-      "titulo": "Senadores buscan regular apuestas online con controles a usuarios, impuestos y dueños de plataformas - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbVotR21VRnoxZHpUT0R4N29COUR5VEpLdnF6Sy04UVVPTEtKZEJjSm5IY2kwcFpzQll0enNfY2NhVlVNWTg4NFFpSElaeE10bGl6RTFrbXVQZGVucGlrRnlHX0dhWTBCUGF1MzBmR2Rsd1YycF92MVFMVnRyZ2g0emItQlVwUE1nbFpYNHpwZnBsczNPTHRUVEhMT3g4bzA4MldBVVpXOHNvUGxfX1VMWHg3YVBJXzNCUjI3TGN0M3dRSVZGSjdMMlNxVGQwdHFTaDhzZ1RNM2xUejBwSC1EaTdvTlRhdXZoa0JWd1kzS3c?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadores buscan regular apuestas online con controles a usuarios, impuestos y dueños de plataformas&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-08T21:35:32+00:00"
-    },
-    {
-      "titulo": "Kast nomina a Marisol Rojas para la Corte Suprema para reemplazar a la polémica exministra Letelier - biobiochile.cl",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSHpHVnZHU3Y5SlRuTkpxUzBhUk9QVm02LUFZekQ0M3IxZUY3N0Y3S0dmZ3o3LWdIcmZiMDFJYzBCX2R1cXdHTmI0OXd3ZF9MWnBWb2lTQ3VzbXJVZHQ3WTVvbVZqdTZ5ZVQ1UVdVOXV0bGtLUm5oOU5HOG9aUVE3cTlzTDBxS0M3bGQySGViM1VkS0FQMnBZQ0RqVzAxYU5DZEIzTDRlcXVFZjc5T19OM2JqR1hVNzJyYURZTmplUjh2UmJuQjVWN0U3Q1lXUXFab0pXd3J3OE1hUGRuQVZYTmlTU21jTWxhTUpBMlNPbUJreFNWQThXaFRXOA?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast nomina a Marisol Rojas para la Corte Suprema para reemplazar a la polémica exministra Letelier&nbsp;&nbsp;biobiochile.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-08T21:34:43+00:00"
     }
   ]
 }
