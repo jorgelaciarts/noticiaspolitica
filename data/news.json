@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-13T03:31:41.216651+00:00",
+  "actualizado": "2026-09-13T03:46:41.520334+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido Comunista conmemoró 50 años del hallazgo del cuerpo de la profesora Marta Ugarte en una playa en Los Molles, La Ligua",
+      "link": "https://cambio21.cl/politica/partido-comunista-conmemoro-50-anos-del-hallazgo-del-cuerpo-de-la-profesora-marta-ugarte-en-una-playa-en-los-molles-la-ligua-6aa5f4b5f0b63960d0666033",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-13T01:04:22+00:00"
+    },
     {
       "titulo": "Partido Comunista conmemoró 50 años del hallazgo del cuerpo de la profesora Marta Ugarte en una playa en Los Molles, La Ligua",
       "link": "https://cambio21.cl/pais/partido-comunista-conmemoro-50-anos-del-hallazgo-del-cuerpo-de-la-profesora-marta-ugarte-en-una-playa-en-los-molles-la-ligua-6aa5f4b5f0b63960d0666033",
@@ -5633,17 +5644,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-08T16:17:16+00:00"
-    },
-    {
-      "titulo": "Pérez Mackenna asegura que interpelación de parlamentarios “es una oportunidad” y llama a no generar “división”",
-      "link": "https://www.theclinic.cl/2026/09/08/perez-mackenna-asegura-que-interperlacion-de-parlamentarios-es-una-oportunidad-y-llama-a-no-generar-division/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El ministro de Relaciones Exteriores, Francisco Pérez Mackenna, se refirió a la interpelación que deberá sostener luego de que la Cámara de Diputadas y Diputados así lo determinara a través de una votación impulsada por la oposición, en el marco de las controversias sobre los dichos de autoridades argentinas respecto a la soberanía del Estrecho de Magallanes. En ese contexto, el canciller aseguró ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-08T16:11:05+00:00"
     }
   ]
 }
