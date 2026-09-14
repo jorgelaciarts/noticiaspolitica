@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-14T20:16:58.532493+00:00",
+  "actualizado": "2026-09-14T20:31:54.458333+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Corte revisa desafuero del senador Miguel Ángel Calisto",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/corte-revisa-desafuero-del-senador-miguel-angel-calisto/2026-09-14/170421.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Este lunes se llevó a cabo en la Corte de Apelaciones de Puerto Montt la audiencia para discutir la solicitud del Ministerio Público de desaforar al senador Miguel Ángel Calisto (ex DC, ex Demócratas, hoy independiente, elegido en 2025 en un cupo de la Federación Regionalista Verde Social dentro del pacto Verdes, Regionalistas y Humanistas).\nLa indagatoria que desarrolló la Fiscalía Local de Coyha",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-14T20:04:21+00:00"
+    },
     {
       "titulo": "(VIDEO) Desafíos económicos y necesidad de certeza en Chile: Opinión de Nicole Troncoso",
       "link": "https://www.elciudadano.com/reels/video-desafios-economicos-y-necesidad-de-certeza-en-chile-opinion-de-nicole-troncoso/09/14/",
@@ -5618,19 +5631,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-10T12:03:44+00:00"
-    },
-    {
-      "titulo": "Carmona anunció “gran movilización cívica” por primer “11” del Gobierno de Kast",
-      "link": "https://www.lanacion.cl/carmona-anuncio-gran-movilizacion-civica-por-primer-11-del-gobierno-de-kast/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El presidente del Partido Comunista (PC), Lautaro Carmona, anunció una &#8220;gran movilización cívica&#8221; con motivo de los 53 años del golpe militar este viernes, el primero en el Gobierno de José Antonio Kast. En entrevista con La Tercera, el timonel del PC adelantó una &#8220;gran movilización cívica, política, democrática de la izquierda con un gobierno [&#8230;]\nThe post Carmona anunció &",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-10T11:53:00+00:00"
     }
   ]
 }
