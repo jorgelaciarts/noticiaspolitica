@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-14T17:31:44.090841+00:00",
+  "actualizado": "2026-09-14T17:46:50.063643+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Municipio despliega equipos ante nueva nevada en Punta Arenas",
+      "link": "https://laprensaaustral.cl/2026/09/14/municipio-despliega-equipos-ante-nueva-nevada-en-punta-arenas/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Un despliegue preventivo realizó durante la madrugada la Municipalidad de Punta Arenas tras las precipitaciones de nieve registradas en distintos sectores de la comuna. Los equipos municipales iniciaron sus turnos a las 3:30 horas, concentrando labores en calles y sectores periurbanos. El alcalde Claudio Radonich explicó que las precipitaciones fueron inesperadas, ya que se anticipaban...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-14T17:34:16+00:00"
+    },
     {
       "titulo": "Termina restauración y plinto del monumento a Baquedano recupera su color verde",
       "link": "https://www.lanacion.cl/termina-restauracion-y-plinto-del-monumento-a-baquedano-recupera-su-color-verde/",
@@ -24,6 +35,20 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T17:23:58+00:00"
+    },
+    {
+      "titulo": "Republicanos recurrieron a Contraloría por clausura de medialuna de Peñalolén",
+      "link": "https://www.cooperativa.cl/noticias/pais/republicanos-recurrieron-a-contraloria-por-clausura-de-medialuna-de/2026-09-14/142224.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Representantes del Partido Republicano y del Club de Huasos de Peñalolén recurrieron este lunes a la Contraloría General de la República por la clausura -por parte del municipio- de la medialuna de la comuna, con el argumento de que falta un permiso de edificación y patente comercial.\nEl concejal Sebastián Villouta dijo que \"creemos que es un acto que no cumple con los procesos administrativos, la",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados",
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-14T17:22:24+00:00"
     },
     {
       "titulo": "Al igual que Bachelet y otros líderes mundiales: ExPresidente Boric se suma al Club de Madrid - Emol",
@@ -2253,6 +2278,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-12T10:00:18+00:00"
+    },
+    {
+      "titulo": "Klaus Schmidt-Hebbel: “El crecimiento de este año será muy mediocre por la herencia de Boric y los shocks negativos de oferta y demanda” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOFZ2WlhzdVRLZWl5VXpJS29yeEtnNEVycEZ3SV9LMmJlalFJbXN5eERIVkdtZUhkaWhBeFAtYUpoVzhQMVRYdTUtOG43b0tfbkl0TVZpZmU3UDQyRFhqT3ZyLTRkRjBxSG1YXzBnZHJ0MXFXcnlNVHVsclpVQ2ZaTGtjQnpacHFvaXhZbG51Y0xScXI5RWRVNU9zczBUbzFVSjRJRVliRFRwLW10Y2dPdUx4Qmo2eWxabDQyOG1heGxZUnZxSzZhVnNVUWJDNmFEVTJmRG92b0VvdlRCenlxemtheVpMWnlVRDM2dW1UZWJwMmxNNGxVZ3o1ZXEybDhBeTFKQtIBpgJBVV95cUxPbnZjNlA2YTJYaEwzWUFCaDBTb0VZTHA4U1FlWHRKM1lQamFTRGo2TFZEX3RHRFlCZlBoeHFNRzMxZlRBRmdpZkR3dG94SVZNa1hSTXFoaTV2QjhrSm9Xa1RGWlExUk14R1MwSDFRbmtMdnJUZnJuSG52R1pzWnc0VDlhZ1I5SGpaTHZOM2xWY29FbVZGMmpsYUZBYVA1UTBSUkhhX2VLNkxBeUlRdDNnaHZoX25FaXd0enBzcHlfV0RxLTl2V1MxX0VkLXJrQWFrbnhLcWhhamxzb2Qtb3hzUnhpdklYY2t0OUViNkJ3Y3VlM1FvWUduZGdhRVplaS1OMWFWMzFHMF92ZFZJLTJfNlRJeGZLeDJZdTBNNGNxT25oaF9Na2c?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Klaus Schmidt-Hebbel: “El crecimiento de este año será muy mediocre por la herencia de Boric y los shocks negativos de oferta y demanda”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-12T10:00:00+00:00"
     },
     {
       "titulo": "almuerzo kast moneda recursos radar - La Segunda - lasegunda.com",
@@ -5596,39 +5632,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-09T21:22:53+00:00"
-    },
-    {
-      "titulo": "(VIDEO) 🔴 Diputados de oposición presentan denuncia penal por delito de Ley de inteligencia tras declaraciones del embajador de EEUU",
-      "link": "https://www.elciudadano.com/reels/video-%f0%9f%94%b4-diputados-de-oposicion-presentan-denuncia-penal-por-delito-de-ley-de-inteligencia-tras-declaraciones-del-embajador-de-eeuu/09/09/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nDiputados de la oposición han tomado acciones legales al presentar una denuncia penal relacionada con la Ley de inteligencia. Esta medida surge como respuesta a las recientes declaraciones emitidas por el embajador de Estados Unidos, señalando la posible implicación de irregularidades legales. El contexto destaca las tensiones diplomáticas y políticas derivadas de las interacciones en",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-09T21:15:11+00:00"
-    },
-    {
-      "titulo": "Presidente Kast destaca apoyo de libertarios tras cita en Cerro Castillo: “Agradezco sus propuestas, franqueza y apoyo” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOck92U1k3UFU5VWdTOXY2Z2FuT2xNUHNsWG9pWkp3LWlaVW9QSFVRT280cFhCcVBOUUJpUXdQMnk5elh5cnd6bE1yc0hHNHhMX2JTLWh2SkxhZnRHUC1Hdi0wRHpJcXItUS0zaU96a2RDZUNYVnRmMExlUTBuUU1NVEhlb3BXMTd6SlVXRmRseXZ4N3BYcnZob0x2enItSl9HUnR2dWx0cGpVb013WjV0TVlWRlNqWlhUNV9KUTdOUDYxZld3V215MmxOSy1BdUo3WjJ6djMzdlQzUm9oVFpr?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast destaca apoyo de libertarios tras cita en Cerro Castillo: “Agradezco sus propuestas, franqueza y apoyo”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-09T21:10:01+00:00"
-    },
-    {
-      "titulo": "Diputados de oposición presentan denuncia penal por eventual filtración de información de inteligencia a EEUU - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFVOYy1jaEtyMktOQndEaWN4R0lta2tGS25IekhRZUtMdFJRbkVkVk9zTnZsYkNRZksyNEh4UjdjU0Z3QmZBSzdJYmx0aERWd1NDcUd1NHFHY0d6LTVpUTRnZFdLX3A0WWplR2dVRTFmeVpueThSbE9lUVB2QTdGamkzY1BqWGN5WkJnYkV0U3RkRVFlV2lVQzVBVmtRc3dIYnJJZmVsMnlVSkJvYUNqREFZckFnSUR0QTZEb1JodE52RzlIaWdlRGhCRWM2LS01?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Diputados de oposición presentan denuncia penal por eventual filtración de información de inteligencia a EEUU&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-09T21:01:35+00:00"
     }
   ]
 }
