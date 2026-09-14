@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T03:01:43.819167+00:00",
+  "actualizado": "2026-09-14T03:16:37.709145+00:00",
   "total": 500,
   "items": [
     {
@@ -134,6 +134,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-13T23:45:00+00:00"
+    },
+    {
+      "titulo": "Armada realizó operativo cívico dental en Chaitén y atendió a casi 500 pacientes",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/armada-realizo-operativo-civico-dental-en-chaiten-y-atendio-a-casi-500/2026-09-13/201531.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Quinta Zona Naval realizó un operativo cívico médico dental en la comuna de Chaitén, Región de Los Lagos, en el marco del compromiso institucional con las comunidades de zonas aisladas, y atendió a un total de 491 personas.\nLa actividad se desarrolló con apoyo del buque patrullero médico dental Cirujano Videla, oficiales de la Reserva Naval del área de salud y del Servicio de Salud de Reloncaví",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-13T23:15:31+00:00"
     },
     {
       "titulo": "Criteria: Kast sube a 31% y un 63% exige firmeza ante Argentina por Magallanes - latribuna.cl",
@@ -5619,17 +5630,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-09T01:57:05+00:00"
-    },
-    {
-      "titulo": "El Gobierno de Kast cita al embajador de EE UU por vincular el estallido social con la izquierda - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYzR4QVh2M0sxTEpyd0MxbDk3N1lqN1kwX2otVV9RNmQ1S2lFSGliM0gwbDdpS3N0TEZXNkdpZ1ZYYkx4V2hlYWR5NWNvUE5jS3VBZUR5VmpET0szRW14akczem5aRjJaakVhV0w2S1VhZUZwdEstZ0ZOVkloVWFNQjR4U2lhaUxPbS1LUHZVaDB5MFNrTmVJZ3dCcUlGRE4xSXlFYlVvT09GNFFEdmg1LXRJNjcwanQxZG0wYkdyNUgxRFF1WjhNRU9nNmlZbmxOWFdB0gHnAUFVX3lxTE5TRk4xMjVSSzdqV18wcDVaOWpobjk2RkdGc28xelVqcHpkRTVDNXA5NjBIYXB5dGNURXpwYVJuZGlWTlpLRTBId2pzUzljWDNWc3hlRmpTWk80Z1cyRktuY0J4cXNZWkdBdmo1SUFSN2NQT21KbHBIR1lNSkw4WlFGN0RzeXdxcTRNeVh4LW9tMG9aLW1CX3QwWk5tdm55ZmNYMURHYmlEb0Y5UHhjdGpJVllpeHJFaFA1YmtkdkRiSlBYMVkzdzNaWWp5NE1hSk0tMlI4Ymc4QnVXQWx3LUtkOE13Z3V5bw?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El Gobierno de Kast cita al embajador de EE UU por vincular el estallido social con la izquierda&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-09T01:24:50+00:00"
     }
   ]
 }
