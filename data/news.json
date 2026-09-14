@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-14T23:01:46.314917+00:00",
+  "actualizado": "2026-09-14T23:16:38.529370+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast entrega mensaje en la antesala de Fiestas Patrias - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMzRrNWtGbjBLSjdEMVFuMWI0Wko3NHBabFY2NkhRTVpIdkt2dUo4ajZfMEN1UVA1blZyeUo5dldUektncU93NGNvMFZ1R3doRGFPMHM0TzZxeFVsREE1NENnN3ZDLVFXUWprS1dYZ2VKMnVhWklhNWxLLThsWWV1ZzNFY0dOWkRKSFVfSnJOTmNtVWhldHpxYkdjNGY?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast entrega mensaje en la antesala de Fiestas Patrias&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-14T23:01:08+00:00"
+    },
     {
       "titulo": "La Moneda Al Día: Presidente Kast defiende el “Bencinazo” - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlJicHJVS0VxSHdkd2lTQXhjV2xVanRzbndFMEdXcWxxaDIxdzUxWWRYR1czZkp4T0o5N0VvSXUyeXRmRTJLbzFJUkc3TU5ZSHIxcTZlM1RPZ1ROenkxdzY4cXBNT2tmaDROcnFJM3pxNkRZdmxOcmM3cEY0QkduUWxxeFZMSi16WWtaV0F5cDB4S2V2MFQ2NFVJSTY?oc=5",
@@ -5618,17 +5629,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-10T14:34:35+00:00"
-    },
-    {
-      "titulo": "Gobierno se abre a reactivar el proyecto del parque urbano sobre la Autopista Central en Santiago tras oficio por su paralización",
-      "link": "https://www.theclinic.cl/2026/09/10/gobierno-se-abre-a-reactivar-el-proyecto-del-parque-urbano-sobre-la-autopista-central-en-santiago-tras-oficio-por-su-paralizacion/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Tras el oficio presentado por la diputada Irací Hassler por el estado de avance del proyecto Parque Urbano Central, al que la cartera respondió que su realización no es prioridad, la parlamentaria se reunió con el biministro De Grange para aclarar dudas sobre su futuro. En la instancia, el secretario de Estado confirmó que hay interés por reactivarlo, pero están evaluado su perfectibilidad. \nThe p",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-10T14:32:07+00:00"
     }
   ]
 }
