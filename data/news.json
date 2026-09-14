@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-14T11:01:46.974364+00:00",
+  "actualizado": "2026-09-14T11:16:48.625814+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Las instituciones del Estado deben ser cajas de cristal, donde cada peso público se administre con pulcritud y eficacia”",
+      "link": "https://laprensaaustral.cl/2026/09/14/las-instituciones-del-estado-deben-ser-cajas-de-cristal-donde-cada-peso-publico-se-administre-con-pulcritud-y-eficacia/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Las iglesias llamaron a enfrentar con transparencia y probidad el descrédito institucional, en una ceremonia marcada también por la crisis económica y la delincuencia. &#160; Ayer se realizó el primer Servicio Nacional de Acción de Gracias -conocido como Te Deum Evangélico- durante la Administración del Presidente José Antonio Kast, instancia en que las iglesias pusieron...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-14T11:03:30+00:00"
+    },
     {
       "titulo": "“Hay un error grave del canciller que revela inexperiencia  y que no es una persona capacitada para ese alto cargo”",
       "link": "https://laprensaaustral.cl/2026/09/14/hay-un-error-grave-del-canciller-que-revela-inexperiencia-y-que-no-es-una-persona-capacitada-para-ese-alto-cargo/",
@@ -12,6 +24,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-14T11:00:07+00:00"
+    },
+    {
+      "titulo": "TER anula elección del COSOC de Mostazal y ordena realizar un nuevo proceso electoral - El Rancagüino",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1Q2M0tfaXRkbXRwUXVId3VEN0tJMzljdFRzSEFMX09hWnRGWlE3Q0FFVDBrWnFjQUU0TjljekdTbnpTMkhITmkzREwwLVNGMzByZngxRFA0RlluV3pHd3FocFdoR05mRXRKbHl0TFdSeW85elJpdlZtMDcyWlNIc3VVOVB5aHNFOE9VY01EUGROeTNoelYyNmJ1bXVpUzJUby1ZWEd4LTM1eXZrT0NtQ1pDOGxBcW9nelptRzNSQUZGT1E?oc=5",
+      "fuente": "El Rancagüino (vía Google News)",
+      "region": "O'Higgins",
+      "resumen": "TER anula elección del COSOC de Mostazal y ordena realizar un nuevo proceso electoral&nbsp;&nbsp;El Rancagüino",
+      "categorias": [
+        "TRICEL"
+      ],
+      "fecha": "2026-09-14T11:00:00+00:00"
     },
     {
       "titulo": "EN VIVO | Presidente Kast protagoniza entrevista exclusiva en “La Mañana de Agricultura” - Radio Agricultura",
@@ -5607,29 +5630,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-09T11:33:48+00:00"
-    },
-    {
-      "titulo": "Senadores de RN y PS rechazan dichos de ministro Barros contra Paulina Nuñez: \"Es una falta de respeto hacia ella y el Senado\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYVI3MnJtbkI4UzBMZnFKdHNyUFRiRjZxWUxBYng2ZVRkNzN1dXg1dlpuVFVKQ1pVWml2OWFIc00wMUl3YURsVkJXUTVCNnp3SzQ4cTZsdE9sMEpMUVZBN2s0bm1zazlYQ05zMlNQTUJuLXZ5T1F4N1g2VC1IdnRjWU1xd0RSSlB5T1k3UVhYcEwwUGdtZnBFak1oQkdIX29wcERiS0RDLVBCVlFhNkpRd3lWTQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadores de RN y PS rechazan dichos de ministro Barros contra Paulina Nuñez: \"Es una falta de respeto hacia ella y el Senado\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-09-09T10:30:00+00:00"
-    },
-    {
-      "titulo": "Concejal pide semaforizar el “cruce de la muerte” mientras  Vialidad avanza en una rotonda para la próxima década",
-      "link": "https://laprensaaustral.cl/2026/09/09/concejal-pide-semaforizar-el-cruce-de-la-muerte-mientras-vialidad-avanza-en-una-rotonda-para-la-proxima-decada/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El concejal de Punta Arenas, Germán Flores Mora, reiteró en la última sesión del Concejo Municipal, y en un comunicado, la necesidad de instalar un semáforo en el cruce de Avenida Eduardo Frei con la Ruta 9 Norte -la avenida conocida popularmente como el “cruce de la muerte”- , un nudo vial marcado por accidentes....",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-09-09T10:03:25+00:00"
     }
   ]
 }
