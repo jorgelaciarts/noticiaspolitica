@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T16:37:14.172459+00:00",
+  "actualizado": "2026-09-14T16:46:39.338894+00:00",
   "total": 500,
   "items": [
     {
@@ -276,6 +276,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T13:51:41+00:00"
+    },
+    {
+      "titulo": "Fiscalía pidió tomar muestras de ADN a fallecidos en incendio de Pitrufquén",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/fiscalia-pidio-tomar-muestras-de-adn-a-fallecidos-en-incendio-de/2026-09-14/104223.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Fiscalía pidió al Laboratorio de Criminalística de la Policía de Investigaciones concurrir al Servicio Médico Legal de Temuco para tomar muestras de ADN para identificar a las víctimas fatales del incendio en un hogar de adultos mayores en Pitrufquén, Región de La Araucanía.\nEl fiscal a cargo de las diligencias, Jorge Granada, solicitó las pruebas con la finalidad de efectuar posteriormente el ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-14T13:42:23+00:00"
     },
     {
       "titulo": "Kast sobre embajador de Estados Unidos: \"No he tenido diferencias con él\" - Universidad de Chile",
@@ -5616,18 +5627,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-09T19:47:24+00:00"
-    },
-    {
-      "titulo": "José Antonio Kast envió al Congreso una reforma al mercado de capitales y medidas para acceder a la vivienda - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZ0Z5RGJ2ZFdKQ1cxRUUtM2NFeTVrYUtkTGdTRmtUSzZYd25odU9ET1ZrZE9jRXFrSnFfcnFZeG9VS0xhUTNWTVpGWnJ6X1pOVkczTUZIN1pyUEt2RkEybDlkNHZmX1YwTW1WWE5RZFNIUHhJclpsNGQ1akxpdjQ0cHJOVnRqbS1KM1hHQUNycGZ2aFZMYndBNDBmeTRjZV90MGROalgzNkR3Wk91MEtxbUE5ak9TWnlvaE93TFprSjc4WmdYSDNDM0RpZ0dsTUFacVJNQ1pWNHBoazN5YS1Ja2c0T1h0WWp6UkxNOXNlbUkwZXRmWGMyWGFfb9IBlgJBVV95cUxNYTlXMl8yYVJ0N1VLb0l1RFNNQjAtTkNkZWgzM1paSXUyYUJSSnR4bzZ0UG1aSTlobFJWX29aUnJoX2ttVnEzSFpuY1ZiSHEwUzc5aGVlc0p3YjNBQjRrZGhDME9CSUFfTHFzSF9IVFRkaEdEYkpfRHVJdGJ0TkZjQlBOOV81WjlNdXF4YVA4a3dfQzVHUWxIVFZLQ1JueUs2M0NtT2ltNHRSbENPdUNmSWI3U2RIT2h6Rm1EZDlpbTZadElOVm1JeUhGRU1MNjd3RHRtOThoRFFoNkZjVGtQZUFtdnpJSGhhLWI4LTYxTVM2ZmdfTjJrX0MxUU9Sd2xwcmlMUTlsYktyZHB2RDkyMkpucDBpZw?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "José Antonio Kast envió al Congreso una reforma al mercado de capitales y medidas para acceder a la vivienda&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-09T19:30:00+00:00"
     }
   ]
 }
