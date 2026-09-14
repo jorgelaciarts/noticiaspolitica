@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-14T18:16:16.996070+00:00",
+  "actualizado": "2026-09-14T18:31:40.715819+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T18:00:46+00:00"
+    },
+    {
+      "titulo": "Boric entró al prestigioso Club de Madrid, sumándose a Bachelet, Lagos y Frei",
+      "link": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/boric-entro-al-prestigioso-club-de-madrid-sumandose-a-bachelet-lagos-y/2026-09-14/145739.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El expresidente chileno Gabriel Boric (2022-2026) se incorporó al Club de Madrid, organización internacional que reúne a ex jefes de Estado y de gobierno de distintos países, anunció este lunes la entidad en un comunicado.\n\"Su amplia experiencia en liderazgo político, políticas sociales, protección ambiental y asuntos públicos, combinadas con su fuerte compromiso con la democracia, el mutilaterali",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-14T17:57:39+00:00"
     },
     {
       "titulo": "Kaiser asegura que 3,4 obtenido por Kast es \"injusto\" y apuesta por un 4,5: \"Todavía aprueba\" - Teletrece",
@@ -5618,17 +5631,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-09T23:46:55+00:00"
-    },
-    {
-      "titulo": "Senador Edwards respalda explicación de embajador Judd: \"Él no dijo que tenía información de quién había quemado el Metro\" - t13.cl",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdF9SV01YTkhmSXI3V3g3eTlsS2VEeDkwTGk5QU0xWFNJdkdESjBBaENKSUxzdENlOUxKTGwxaVhMR3FtSGxDalN3UE84eGNnQjRTUnU1NjJsUVEycjZoTGhZWW9UX2pyNUprODBGSW9WeDNpbGhKZUJoSVhFXzh3dFE5NVJDOWZuVXlyWHhjbG1iWGRqSUwwSGJvRTNPaUF2VnVtdThaeUp5dWJIeVE5SEVUSVVNM1owRHpmeWZ3?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Edwards respalda explicación de embajador Judd: \"Él no dijo que tenía información de quién había quemado el Metro\"&nbsp;&nbsp;t13.cl",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-09T23:25:00+00:00"
     }
   ]
 }
