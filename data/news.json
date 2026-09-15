@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-15T17:01:51.988244+00:00",
+  "actualizado": "2026-09-15T17:17:21.559806+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gobierno: \"Patricio Guzmán construyó un legado que trascendió nuestras fronteras\"",
+      "link": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/gobierno-patricio-guzman-construyo-un-legado-que-trascendio-nuestras/2026-09-15/134907.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno de José Antonio Kast, mediante el Ministerio de las Culturas, las Artes y el Patrimonio, reaccionó este martes al fallecimiento de Patricio Guzmán, destacando al cineasta y documentalista como una \"figura fundamental del cine y la cultura nacional\".\nMediante una publicación en las redes sociales de la cartera, el Ejecutivo calificó al Premio Nacional de Artes de la Representación y Aud",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-15T16:49:07+00:00"
+    },
     {
       "titulo": "María Pía Adriasola presta gratis su 4Runner a La Moneda, pero Presidencia asume mantención, seguro y gastos de uso",
       "link": "https://www.elciudadano.com/actualidad/maria-pia-adriasola-presta-gratis-su-4runner-a-la-moneda-pero-presidencia-asume-mantencion-seguro-y-gastos-de-uso/09/15/",
@@ -5609,19 +5621,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-11T11:02:50+00:00"
-    },
-    {
-      "titulo": "A 53 años del golpe: Iglesia Católica pide \"verdad sin odio\" y \"memoria sin resentimiento\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/a-53-anos-del-golpe-iglesia-catolica-pide-verdad-sin-odio-y-memoria/2026-09-11/075229.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Comité Permanente de la Conferencia Episcopal de Chile llamó este viernes a construir una memoria basada en la verdad, la justicia y la reconciliación, en un mensaje divulgado con motivo de un nuevo aniversario del golpe de Estado del 11 de septiembre de 1973.\nEn el documento, titulado \"Para construir paz y esperanza: Verdad, justicia y reconciliación\", los obispos católicos reconocieron que el",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-11T10:52:29+00:00"
     }
   ]
 }
