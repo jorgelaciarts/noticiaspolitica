@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-15T15:46:38.338870+00:00",
+  "actualizado": "2026-09-15T16:01:36.999342+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La rebelión de los alcaldes por reglamento de la Ley de Seguridad Municipal: cuestionan norma que podría llevar al cese del cargo",
+      "link": "https://www.theclinic.cl/2026/09/15/la-rebelion-de-los-alcaldes-por-reglamento-de-la-ley-de-seguridad-municipal-cuestionan-norma-que-podria-llevar-al-cese-del-cargo/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La propuesta establece que el incumplimiento de requisitos para nombrar a directores de seguridad o inspectores municipales podría derivar en sanciones administrativas y, eventualmente, en el cese del alcalde. Alcaldes de todos los sectores políticos cuestionaron la propuesta, que derechamente catalogan de inconstitucional. Además, aseguran no se sociabilizó con el municipalismo y solicitan que se",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-15T15:54:23+00:00"
+    },
     {
       "titulo": "Desde alcaldesa de Las Condes al de Maipú. Grave error del Gobierno tiene a los alcaldes indignados. Crean reglamento Municipal que establece causal para su destitución: Municipios aseguran que \"reviste claros elementos de ilegalidad\"",
       "link": "https://cambio21.cl/pais/desde-alcaldesa-de-las-condes-al-de-maipu-grave-error-del-gobierno-tiene-a-los-alcaldes-indignados-crean-reglamento-municipal-que-establece-causal-para-su-destitucion-municipios-aseguran-que-reviste-claros-elementos-de-ilegalidad-6aa96453a85b7e73a4759d73",
@@ -5609,18 +5620,6 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-09-11T03:08:04+00:00"
-    },
-    {
-      "titulo": "Agrupaciones de DD.HH. de Los Ríos: \"Kast está negando lo que pasó en Chile\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/agrupaciones-de-dd-hh-de-los-rios-kast-esta-negando-lo-que-paso-en/2026-09-10/232013.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Agrupaciones de derechos humanos de la Región de Los Ríos criticaron la decisión del Presidente José Antonio Kast de viajar a la zona en pleno 11 de septiembre, visita que se explica por su determinación de no realizar ningún acto conmemorativo oficial ni emitir mensajes institucionales sobre los 53 años del golpe de Estado de 1973.\nLos colectivos locales sostendrán una serie de actividades en par",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-11T02:20:13+00:00"
     }
   ]
 }
