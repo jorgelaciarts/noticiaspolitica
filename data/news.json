@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T06:16:39.035296+00:00",
+  "actualizado": "2026-09-15T06:31:38.429227+00:00",
   "total": 500,
   "items": [
     {
@@ -92,6 +92,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-15T01:18:48+00:00"
+    },
+    {
+      "titulo": "Andrés Longton (RN): “Los ministros no pueden tener autonomía para decir lo que quieran” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ERzFZMWV3QU1mT2tKdW0yaUZlaGlmV1VNZGgxTGQ4VDRLM0J6elhBR2FDYXBFY1BUaDkzVnN1Q21pYmd3VmZlSzFzVnoyZDZmVWJ0NVMzUE9VYVhYUmJFOUZyOWxjT3ZnSDI2Y29B?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Andrés Longton (RN): “Los ministros no pueden tener autonomía para decir lo que quieran”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-15T00:40:33+00:00"
     },
     {
       "titulo": "Andrés Longton (RN): “Los ministros no pueden tener autonomía para decir lo que quieran” - La Tercera",
@@ -5612,17 +5624,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-10T17:20:00+00:00"
-    },
-    {
-      "titulo": "Seis comunas derriban fronteras para perseguir delitos flagrantes",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/seis-comunas-derriban-fronteras-para-perseguir-delitos-flagrantes/2026-09-10/141529.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Seis municipios del sector centro y sur de la Región Metropolitana sellaron este jueves un convenio de cooperación en seguridad ciudadana para permitir que sus patrullas e inspectores municipales actúen de manera coordinada e ingresen al territorio de comunas vecinas ante la flagrancia de un delito.\nEl pacto intermunicipal reúne a las administraciones de Pedro Aguirre Cerda, Santiago, Estación Cen",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-10T17:15:29+00:00"
     }
   ]
 }
