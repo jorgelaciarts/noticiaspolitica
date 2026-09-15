@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-15T17:31:43.260944+00:00",
+  "actualizado": "2026-09-15T17:46:29.153010+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fiesta de la Chilenidad se prepara para recibir a familias de Chillán y Ñuble en la Plaza de Armas",
+      "link": "https://ladiscusion.cl/fiesta-de-la-chilenidad-se-prepara-para-recibir-a-familias-de-chillan-y-nuble-en-la-plaza-de-armas/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La Fiesta de la Chilenidad ya ultima detalles para recibir a la comunidad chillaneja y de toda la región desde el jueves 17 al sábado 19 en el corazón de la capital regional. El alcalde camilo Benavente extendió esta mañana la invitación a los vecinos, señalando que &#8220;hacemos un llamado, una invitación para que vengan [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-15T17:40:54+00:00"
+    },
+    {
+      "titulo": "El presidente Kast aseguró que Chile es parte del Escudo de las Américas solo como “observador” - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcnMwTUdiVFVlUFBvRF9XS29XT1pEUDU4cTFSMWJZQVBfZnJrdG1aeEFWZzJWRnU5MWZhYmNrNFotUWNJSnlLb29FS1hSR1Bsa2hWVDZHQkoyYjk2QjdSS21TWC1zdnpWSVQwMVFiWC04dm1Zb1FvcnA5YnJ6NHZjUEZ2cy11NjlWTC13QjJiNzNxa1RoMFo2dy1xU3JaSkVWejI1RVpObWJGaWs3dGJzZFFVRE9SLVR0WlNhT0hUNnFQUHdROXRrc2pqdnBodkV2YUVYYnRsc3AzQ3lvRk1LM1hGNmdkaVXSAYICQVVfeXFMTVFDWW1RZHFFbzBUN2h6M1RVZnV3NUdteXVKY0N6bk81eGlNWGpGcDVhZEg3eno0enZ5QXQ1NWJ0QVhXcVV6VGM2NmlyWTNFdFV4eERycmhlVU9ETDdKMk52ZXhGVDVvUHM3ZUhONkkxM19RWGFRYjNTbWhndVQtOEQ0N0U0ZmtHdkxndks0X1o5S0hZZHB6X3A3azQ0OXBmRmt6X09iSHNYVGVJQVlCZ0FLOWZCTHQ0R0FkNXBRcmlOVTA0T1ZNdTctS2hweHZWMTJBS2ZPU1l3eU1USzFHWkZRYzBQU2hXcVNlVjZ5VU0teHQ4TmpQbVdCR0duNmhnemt3?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El presidente Kast aseguró que Chile es parte del Escudo de las Américas solo como “observador”&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-15T17:32:01+00:00"
+    },
     {
       "titulo": "El Carmen realizará operativo para regularizar tractores y maquinaria agrícola e industrial",
       "link": "https://ladiscusion.cl/el-carmen-realizara-operativo-para-regularizar-tractores-y-maquinaria-agricola-e-industrial/",
@@ -225,6 +247,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-15T15:08:30+00:00"
+    },
+    {
+      "titulo": "Municipios acusan “ilegalidad” por supuesta “nueva causal de destitución” de alcaldes - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdXdZZWVsN1RSY2dfeDlqMVcxZ25wa2FKeUZUUjhMM2lxWEpSNzUxYTRIM29sc1VuSEJ0V3FNY1NVTG9KM01kZnRFNFk3UHF5TXlrcE8wY3kxTjNCY21ZZEVVc0I3QnBUNklfS3RqdldIZjE0QWZaZllZN3hFMC15LXpldEZyRTViU1VhcXItUFBnVllaeHFpRFFLNTN0V0duLUNqLWZCZDFsU213Vml6NU00emhtR2Ytc3dybl9sZDhrV1RkWDVCbFlZRklWenNZSDhrRFR6eHR4RmpNQ0E?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Municipios acusan “ilegalidad” por supuesta “nueva causal de destitución” de alcaldes&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-15T15:03:20+00:00"
     },
     {
       "titulo": "Boric sale en defensa de la salud pública tras hospitalización de su hija: Criticó a políticos que “despotrican” sin atenderse en ella - CNN Chile",
@@ -5588,39 +5621,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-11T11:41:41+00:00"
-    },
-    {
-      "titulo": "11 de septiembre en Chile: gobierno de Kast es el primero en democracia en decidir no conmemorarlo - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzcyNGZ2SDhpVFJidnRFTEJUWlBVZlJ3dGNkNFh3eDZVZ1BnUVN5SUdSY2lEYndONl85Nm0xQVZydVVZNmY5X1FLZ3NnQ2NRbHdaWTg4eGZRM0Rfb1Jpekw5bEI0X2w3UGhIR3RFelJnS09TNHBmZEdha0VYRHRjU3JjN2hjdThGaWRkLWZ4M29XUlgwTkpmeVlTelRvS2N1ems2VzVPQVRqV3VuRGMzOTk0V2tUY1RZaUJDMFZwZmx4RGVnMDdN?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "11 de septiembre en Chile: gobierno de Kast es el primero en democracia en decidir no conmemorarlo&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T11:26:00+00:00"
-    },
-    {
-      "titulo": "Judd vuelve a intervenir en política interna y Kast descarta acto oficial por el 11S - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOS0xEbXFzUnNzUXdJNlM1SmdNZ2VBeGxselVxQzl0WmtnOS1BV2prOGNyLVBkcTRVbEZWUnExYVRLNGhwZTRpQm1yd3Vraks4OWxWT0UxZGh2YWctNUNvV0I5aFpoNXVURDVXTnEzak5QYVEyTTV5M0Q0ZXAzS2VNekxyNUJqdjVNem5BMkVjYlpEU1hKQTQ1cmJjeFB1WUoxM1ZOZWMzUUkzakpUYU5MY0dhUTJENEo4SER3YUhlRmpjMy1YajZITGV3M2oxcW1IM3JCdGI4S0R3WXVwQkIzUG1LSElTUQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Judd vuelve a intervenir en política interna y Kast descarta acto oficial por el 11S&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T11:07:57+00:00"
-    },
-    {
-      "titulo": "“Me cierran las puertas en todos lados”, el drama de una trabajadora  que duerme en la calle tras ser desalojada por su arrendatario",
-      "link": "https://laprensaaustral.cl/2026/09/11/me-cierran-las-puertas-en-todos-lados-el-drama-de-una-trabajadora-que-duerme-en-la-calle-tras-ser-desalojada-por-su-arrendatario/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "“Me cierran las puertas en todos lados”, llegó comentando una desesperada mujer, quien en horas de la mañana de este lunes llegó hasta las dependencias de La Prensa Austral pidiendo ser escuchada, tras solicitar asistencia social en la Municipalidad de Punta Arenas, la seremi de Desarrollo Social y otras dependencias gubernamentales, en donde fue víctima...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-11T11:05:03+00:00"
     }
   ]
 }
