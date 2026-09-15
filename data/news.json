@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-15T23:16:20.400557+00:00",
+  "actualizado": "2026-09-15T23:31:45.318602+00:00",
   "total": 500,
   "items": [
     {
@@ -216,6 +216,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-15T20:12:30+00:00"
+    },
+    {
+      "titulo": "Servel fue parte de la “Conferencia Global de IA Responsable en Elecciones” celebrada en Canadá - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZm1hOFBhbzlIc0lXQWFIS0ZycjB6ZDh2Y29hekdjTXZtenhyTEdoX1EzTHJLdjEwdXp3UEJJR2VzemNaYjA5d19ESnczZi1tcWtGX0VpeFdFNmR2OGhwdkx5a2I0YXhkNG0wTTVxLVhzb0lYZTZiYWZWSlYxMGVOeG15UDZuZExpWkt0UzhTLXBIYzVid21Rb0JRMGNMQk5WQjZMMERpUkw1cHgyQ2ZPUWQ3N1lYdzdYRURlV096ZWZlWjliblIyUjg2bU8?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Servel fue parte de la “Conferencia Global de IA Responsable en Elecciones” celebrada en Canadá&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-09-15T19:41:21+00:00"
     },
     {
       "titulo": "En medio de investigación de Fiscalía: Servel ratifica nueva directiva del PDG con Franco Parisi como secretario general",
@@ -5616,17 +5627,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T13:34:16+00:00"
-    },
-    {
-      "titulo": "Deteriorada calzada de Puente Ñipas será reparada a la espera de proyecto integral",
-      "link": "https://ladiscusion.cl/deteriorada-calzada-de-puente-nipas-sera-reparada-a-la-espera-de-proyecto-integral/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Una buena noticia para los vecinos de Ránquil y Portezuelo y para los miles de usuarios que diariamente utilizan esta conexión sobre el río Itata. Luego de años de gestiones ante el Consejo de Monumentos Nacionales, por parte de los alcaldes de los municipios de Ránquil y Portezuelo, el Ministerio de Obras Públicas, a través [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-11T13:33:54+00:00"
     }
   ]
 }
