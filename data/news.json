@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-16T20:16:33.281026+00:00",
+  "actualizado": "2026-09-16T20:31:38.927147+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Del #ChileSoberanoSinONU a reconocer un cambio: el giro de Kast sobre Naciones Unidas previo a su debut en la Asamblea General",
+      "link": "https://www.theclinic.cl/2026/09/16/del-chilesoberanosinonu-a-reconocer-un-cambio-el-giro-de-kast-sobre-naciones-unidas-previo-a-su-debut-en-la-asamblea-general/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El mandatario viajará este domingo a Nueva York para participar por primera vez como Presidente en la Asamblea General de Naciones Unidas. La instancia marcará un contraste con sus planteamientos de años anteriores, cuando cuestionó el rol de los organismos multilaterales, pidió revisar la relación de Chile con ellos y llegó a plantear el retiro del país del Consejo de Derechos Humanos de la ONU. ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-16T20:27:10+00:00"
+    },
     {
       "titulo": "(VIDEO) El académico Álvaro Ramis cuestiona al gobierno y el electorado de Kast: Análisis de expectativas y realidades.",
       "link": "https://www.elciudadano.com/reels/video-el-academico-alvaro-ramis-cuestiona-al-gobierno-y-el-electorado-de-kast-analisis-de-expectativas-y-realidades/09/16/",
@@ -580,6 +591,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-16T14:18:04+00:00"
+    },
+    {
+      "titulo": "Gobierno retira reglamento de Seguridad Municipal tras reparos de alcaldes por posibilidad de destitución - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEF5X213djNNU3Y4QkZjanp6X0dhbTNsZlI0c3ZZZWFCdWJRQlJZMmVpd2NESWhvT3ctOVN4WWkyd1N3OHpwTWZMZlJQTTZBTDAzV2pEUWNHN2VMazltS0JweWxlZndWTTFzMEZUeExZekJ1VGhqV3dWVV96aGt5QjBHOS1RRlBNb3g1ZEc2YlM2THB6al94MFRNaU1VUk9zUWR3QVNMZVRjek5NZk1ldG1nd1h3N3plQXdaeklNakhtcXRuN0o3RTE5ZF9UWlpxY1E?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno retira reglamento de Seguridad Municipal tras reparos de alcaldes por posibilidad de destitución&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-16T14:16:54+00:00"
     },
     {
       "titulo": "Alcalde Agustín Iglesias: “A partir de errores del gobierno, los alcaldes terminan unidos de A a la Z” - La Tercera",
@@ -5607,28 +5629,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-12T12:16:04+00:00"
-    },
-    {
-      "titulo": "Autoridades exigen mayor inversión portuaria para defender liderazgo antártico de Punta Arenas frente a Ushuaia",
-      "link": "https://laprensaaustral.cl/2026/09/12/autoridades-exigen-mayor-inversion-portuaria-para-defender-liderazgo-antartico-de-punta-arenas-frente-a-ushuaia/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El alcalde de Punta Arenas, Claudio Radonich, y varios parlamentarios aseguraron que es importante invertir en un puerto para la capita regional y mejorar los terminales aéreos de la zona. “No nos podemos quedar en los laureles”, señaló el jefe comunal. El estrecho de Magallanes nuevamente vuelve al tapete, tras las declaraciones del ministro de...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-12T11:49:31+00:00"
-    },
-    {
-      "titulo": "Debut de Gendarmería y regreso de la PDI marcarán la Parada Militar 2026",
-      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/debut-de-gendarmeria-y-regreso-de-la-pdi-marcaran-la-parada-militar-2026/2026-09-12/083730.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El comandante Rodrigo Parada, vocero para las actividades de las Glorias del Ejército, conversó con Cooperativa sobre las novedades de la nueva edición de la Parada Militar 2026, que estará marcada por el debut de Gendarmería en el desfile.\n\"Por primera vez Gendarmería de Chile va a estar participando con un contingente en nuestra Gran Parada Militar, así que estamos muy contentos de recibirlos\", ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-12T11:37:30+00:00"
     }
   ]
 }
