@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-16T16:16:37.490442+00:00",
+  "actualizado": "2026-09-16T16:31:44.779083+00:00",
   "total": 500,
   "items": [
     {
@@ -16,6 +16,19 @@
       "fecha": "2026-09-16T16:15:14+00:00"
     },
     {
+      "titulo": "“El 18 más caro de la historia”: Senadora Cicardini y diputado Manouchehri (PS) arremeten contra ministro de Hacienda y Kast",
+      "link": "https://cambio21.cl/politica/el-18-mas-caro-de-la-historia-senadora-cicardini-y-diputado-manouchehri-ps-arremeten-contra-ministro-de-hacienda-y-kast-6aaabee294cc9b7ba2389c93",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-16T16:11:45+00:00"
+    },
+    {
       "titulo": "Este 18 y 19 de septiembre no habrá retiro de residuos domiciliarios",
       "link": "https://ladiscusion.cl/este-18-y-19-de-septiembre-no-habra-retiro-de-residuos-domiciliarios/",
       "fuente": "La Discusión (Chillán)",
@@ -25,6 +38,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-16T16:08:07+00:00"
+    },
+    {
+      "titulo": "Kast se reunirá con el director de la Dipres para reforzar incentivos a crear empleo en el Presupuesto 2027 - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQanR2MU1tVklaS1cwcDBXSHEtRHN1djRNeUwwc0FGSTFZNDhlZGNUZkwtZUFXQ2djSnJQeWI2YjFadXlOemM1YXNobjNNSlVOdzlfdGpTZE9XeXp1V2NHcnRxNHNUbUNjbUZwT19RY0lHNEVfUlpYblR1MjhWckxoNDF1Q2pzODAwT2puVF8tU0hYVWw4S1k3REx4YjJqRllrdHVKQVhrYkRvYS1BOWVUX3hoZ2tiQQ?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast se reunirá con el director de la Dipres para reforzar incentivos a crear empleo en el Presupuesto 2027&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-16T15:56:00+00:00"
     },
     {
       "titulo": "Chile: el gobierno de Kast alista su Plan de Emergencia Laboral - Infobae",
@@ -1997,6 +2021,17 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-09-15T07:00:00+00:00"
+    },
+    {
+      "titulo": "Entrevista Cambio21. Senadora Paulina Vodanovic y los delitos de lesa humanidad: \"Me provoca dolor cuando el senador (Cristián) Vial (general R) relativiza la dictadura, las violaciones a DDHH y no respeta la memoria, a los familiares\"",
+      "link": "https://cambio21.cl/cambio21/entrevista-cambio21-senadora-paulina-vodanovic-y-los-delitos-de-lesa-humanidad-me-provoca-dolor-cuando-el-senador-cristian-vial-general-r-relativiza-la-dictadura-las-violaciones-a-ddhh-y-no-respeta-la-memoria-a-los-familiares-6aa8ce3521572556c7463d33",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-15T05:18:47+00:00"
     },
     {
       "titulo": "Entrevista Cambio21. Senadora Paulina Vodanovic y los delitos de lesa humanidad: \"Me provoca dolor cuando el senador (Cristián) Vial (general R) relativiza la dictadura, las violaciones a DDHH y no respeta la memoria, a los familiares\"",
@@ -5589,39 +5624,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T21:05:00+00:00"
-    },
-    {
-      "titulo": "Dictan prisión preventiva para exfiscal Fodich y otros dos imputados por causa de secuestro extorsivo",
-      "link": "https://www.lanacion.cl/dictan-prision-preventiva-para-exfiscal-fodich-y-otros-dos-imputados-por-causa-de-secuestro-extorsivo/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Séptimo Juzgado de Garantía de Santiago decretó este viernes la prisión preventiva del exfiscal Vinko Fodich Andrade y otros dos imputados en el marco de las indagatorias por secuestro extorsivo. También quedaron en prisión preventiva el inspector de la Policía de Investigaciones (PDI), Rodrigo Navarrete Umaña y Luis Moraga Parisi, primo de Franco Parisi. [&#8230;]\nThe post Dictan prisión preve",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-11T21:03:11+00:00"
-    },
-    {
-      "titulo": "“Déjame conversar con ella”: Kast protagoniza tenso cruce con vecina en Máfil - diarioeldia.cl",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX0RneEtMSTBOc2xNSERPc1pESlVnYkFZdkRnczdDZ2FKSkVKLWVpaWlkeGktU3FXSFBXZHluVEFSdGNweHBYcDdfdW9Idl9HVnZTWnBOYzBVRWZzeHVEcFpyQ0pjNWRvT21RbHVreWlaREw4a3QwUDhxVUVoWW01ZVFOdFhIal9UT2ZDNlE2X0QtQkQ0cmhZQ3VjYUR0UmJTMjNsdzNIOTRPQncyMUMteS1YN2xwNmNrcUVMZTM2dWs2bVUxTHRJ?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "“Déjame conversar con ella”: Kast protagoniza tenso cruce con vecina en Máfil&nbsp;&nbsp;diarioeldia.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T20:50:05+00:00"
-    },
-    {
-      "titulo": "Los primeros seis meses de Kast: del \"balance positivo\" a la \"incapacidad de gestionar buenas políticas públicas\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTDdtYlRWVW56R0NJWG50Y2o5dkFtei11cE1IenF6MWZWSU9qVVdpUFBWNi1nbVNWcmNDNlE2cDRtNEZhdzFLVVBFbmlkc2loUlJRTFF4THVfRHprY3dnR3k1TUNSVFRSUGxWVTZwVTNJZDlXcE9iOVpJRm14ZzZPZVNxMkxXZV92M3Nja3dyQy1ZNUdFSXBwUGJjblRuSURsb2V3LS01ek55dFBmSWdPQk16VXltYVVVU18xRFI3dENsV3ZwM2hxeS1ycTJpLTNMUlA0M0lJS0VPLUNP?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los primeros seis meses de Kast: del \"balance positivo\" a la \"incapacidad de gestionar buenas políticas públicas\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T20:46:54+00:00"
     }
   ]
 }
