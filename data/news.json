@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-09-16T17:31:20.674250+00:00",
+  "actualizado": "2026-09-16T17:46:40.905152+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chile Day: Quiroz apuntó a reactivar la economía y la aprobación de reforma al mercado de capitales",
+      "link": "https://www.cooperativa.cl/noticias/economia/chile-day-quiroz-apunto-a-reactivar-la-economia-y-la-aprobacion-de/2026-09-16/143650.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Chile Day en Europa, que inició en Madrid, concluyó este miércoles en Londres, donde el ministro de Hacienda, Jorge Quiroz, apuntó a la reactivación de la economía al entregar una serie de anuncios para dinamizar la inversión y bromeó con una eventual aprobación de la reforma al mercado de capitales.\nEl evento contó con la participación de empresarios y ejecutivos que buscan invertir en Chile, ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-16T17:36:50+00:00"
+    },
     {
       "titulo": "Presupuesto 2027: Oficialismo apunta que proyecto debe ser focalizado en la creación de empleo",
       "link": "https://www.cooperativa.cl/noticias/pais/trabajo/presupuesto-2027-oficialismo-apunta-que-proyecto-debe-ser-focalizado-en/2026-09-16/142135.html",
@@ -2292,6 +2306,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-15T01:18:48+00:00"
+    },
+    {
+      "titulo": "Kast anticipa a presidentes oficialistas la elaboración de un plan de \"emergencia laboral\" - Emol",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb053eHByaUh5NVhtaVBqU29TUkFDbTA5SFZtN0NDY0M1bFJGQU5WUS1OWWhPSGdGZWhKUFIwVUhrd2VpdHV5MG02QjdjaXJLTzJSMTF4MjRDYXk1MDR0ai1ZTWVvNEhJX2RfY3VXWHEycFJlY013UENaNnNZeDl3MUdaTmhzeXZsaFZBaHFJdUdiTU9adlAtY0xCc2hoNi1GcGc?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast anticipa a presidentes oficialistas la elaboración de un plan de \"emergencia laboral\"&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-15T01:00:00+00:00"
     },
     {
       "titulo": "Andrés Longton (RN): “Los ministros no pueden tener autonomía para decir lo que quieran” - La Tercera",
@@ -5604,28 +5629,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T23:12:08+00:00"
-    },
-    {
-      "titulo": "Kast justifica retorno de Duco pese a polémica y dice que \"no impide\" pedir su colaboración - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTlFzV19VQmIzSWFmZEgtbDB3R3BwY1RZdWMyUC1VQWFPU1dJbklJakZnUVZET2t0MHVGYjEwQnh0QkR2UnR6RkJsblEwZ0JUN2FTLWtEdVNTVk8zNUpISmhEcHZmX1RBbE5fYlZ5M01wcG52VUhPcXctWUo5RmlyUXFhNVplZ0Vkal8wdVJ5ZFY1bU1TVXM2RnlIa1QxVnhseEROc09YTnV6TUItYXNHck04TWl0YzJUd0tDbGFxQzJUemZYaGNtaldwV21idk1GVlgwRm11QnZXZ2oxLWdOYmxCVHplcUVGdFNvZEl3?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast justifica retorno de Duco pese a polémica y dice que \"no impide\" pedir su colaboración&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T23:07:58+00:00"
-    },
-    {
-      "titulo": "Directora Museo de la Memoria: El Estado debe recordar el quiebre de la democracia",
-      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/directora-museo-de-la-memoria-el-estado-debe-recordar-el-quiebre-de-la/2026-09-11/194440.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La directora ejecutiva del Museo de la Memoria y los Derechos Humanos, María Fernanda García, planteó en Cooperativa que es deber del Estado el \"recordar y reparar\" el quiebre de la democracia ocurrido en el golpe de Estado del 11 de septiembre de 1973.\nEn conversación con Lo Que Queda del Día, la representante del recinto enfatizó en la importancia de educar en materia de derechos humanos luego d",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T22:44:40+00:00"
     }
   ]
 }
