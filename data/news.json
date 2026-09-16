@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-16T00:46:40.103641+00:00",
+  "actualizado": "2026-09-16T01:01:48.582999+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cuenta Pública de Carabineros: alcaldes de comunas rurales piden más recursos para enfrentar aumento de delitos",
+      "link": "https://ladiscusion.cl/cuenta-publica-de-carabineros-alcaldes-de-comunas-rurales-piden-mas-recursos-para-enfrentar-aumento-de-delitos/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Las amenazas de muerte sufridas en agosto por parte del alcalde El Carmen, Renán Cabezas, fueron un hecho público y notorio. Un delincuente sorprendido infraganti robando en una casa fue el autor.  Un testigo del hecho cuenta que “el delincuente fue detenido por particulares, primero. Llamaron a los carabineros y ellos no llegaron.No sabían qué [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-16T00:46:59+00:00"
+    },
     {
       "titulo": "Fiesta de la Chilenidad reunirá a artistas locales en la Plaza de Armas",
       "link": "https://ladiscusion.cl/fiesta-de-la-chilenidad-reunira-a-artistas-locales-en-la-plaza-de-armas/",
@@ -5613,17 +5624,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T14:18:44+00:00"
-    },
-    {
-      "titulo": "\"El día más oscuro de la historia\": Alcalde de Nueva York conmemora los 25 años del atentado del 11 de Septiembre con emotivo homenaje",
-      "link": "https://cambio21.cl/el-mundo/el-dia-mas-oscuro-de-la-historia-alcalde-de-nueva-york-conmemora-los-25-anos-del-atentado-del-11-de-septiembre-con-emotivo-homenaje-6aa40aea843489116955a2f3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-11T14:08:04+00:00"
     }
   ]
 }
