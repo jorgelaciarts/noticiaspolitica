@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-16T12:16:29.862591+00:00",
+  "actualizado": "2026-09-16T12:31:41.383819+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido de la Gente inscribió nueva directiva nacional tras resolución de Servel - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFJnbzB6SEdaQ0xzUTBLNmh5dDlVY2FfTWVkRUJSUnRDUFJJZ3lCa3Fld2UxWDF0NlNxSG43eFg3R2R3Yzdrc0pfMWZRcTUwc0xINVlrRmVtV1pGVk0wLW1VZjVZd1VmTHRDZGFrYXZmbi1jdUJCSWdMNGNpSmpGa2hOOEdHUENkWnBxRFZIZmtiVG80TF8xcFdWNUN5dVlpVkhtRU9raS16TFl4V2lJeXJROHpfZHM?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Partido de la Gente inscribió nueva directiva nacional tras resolución de Servel&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Servicio Electoral",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-16T12:24:19+00:00"
+    },
     {
       "titulo": "Diputados chilenos protestarán ante Argentina por el Estrecho de Magallanes - Crónica Digital",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGRHTk55NVNxSjQzby1wZTcwREVyZFdTZWFpVmRrTjdubGdISTV1eEVaQVZBYWNWM0kxWFl4SXBWc19kNWFkbUdxdHlNSTA0QllBeGhEYW5fUENaZE1telUtYnozMTA4dFJmUE1IcTNXcndPUkZLS2FRd3R4dGliSGhEaGhkbThYWVRKUVp0d1AyZURxYVlzbnY4TWFvRnli?oc=5",
@@ -23,6 +35,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-16T12:03:54+00:00"
+    },
+    {
+      "titulo": "Timonel RN y salida de seremis: Ya deja de ser un problema de instalación y pasa a ser de gestión",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/timonel-rn-y-salida-de-seremis-ya-deja-de-ser-un-problema-de/2026-09-16/090349.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Al cumplirse el primer semestre de mandato y tras registrarse la renuncia de 37 seremis en el país, la presidenta de Renovación Nacional (RN), senadora Andrea Balladares, afirmó este miércoles que las descoordinaciones y errores en el gabinete ya no pueden justificarse en una fase de instalación, sino que deben asumirse como un problema de \"gestión\".\n\"A seis meses (de administración), deja de ser ",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-16T12:03:49+00:00"
     },
     {
       "titulo": "37 seremis fuera en seis meses: Gobierno Kast suma 47 salidas de autoridades",
@@ -5601,28 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-11T16:45:00+00:00"
-    },
-    {
-      "titulo": "Kast sobre el 11-S: \"Así como no puedo borrar la historia, tampoco puedo pedirle a nuestros compatriotas no mirar el futuro\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQa2Q1SFdyS1dOUWkzd25WQjdDbUNpRWNhQm1NZ1AzYmxaNEI0ejJxdi16dnJYaEtQWldTMHBucElZN2dZLXlrS3FfV3hCQmlkeE5zVllsc1RfNmd2SHVsbmM4SHpUQUNaYXdmc0FoaUFtOWpqSFViaUdRTUFTYnRyZDlDdXA3VW54elpXMURMczA5bGFUamZ4N3lKZ0pEdy1jc2JXOXJ2RUMzOXVqUVlEQlVwcHQyVGJLZVpJbWhBc2ItM1E?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast sobre el 11-S: \"Así como no puedo borrar la historia, tampoco puedo pedirle a nuestros compatriotas no mirar el futuro\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T16:45:00+00:00"
-    },
-    {
-      "titulo": "53 años del golpe: Kast dice que \"la historia no la podemos borrar\" y llama a \"mirar hacia el futuro\" - biobiochile.cl",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTWFmbUtKc1paUFh6dnVXRXYxZFp5ekFXOEktZmpVN2NzTTA0bnRWRXBlNVZVSmdmZml6WnlScVpuZVktOGRwOVJoelNfc0hzUHF3aDFwU0x1MDQ1Zl9PcVpiaVZpTzhUSVM1dEJmS2ZoNm5GaUNyTldCbkxxcktTUzU0WlNJWTB4Vk1CV2RuQXg3M29YSHdBMDVYQ2NLOFdJOXlnVXc1RVhldzAxbmV2SlhCZWhNMkNjcEtrcnVIZ2pSZUI0U3RsTXZHMGFSbWp6dGpBQWFicThZMzhaOHlIZ2V2RUdPOW4wRHpTNndsVjAyOGY0?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "53 años del golpe: Kast dice que \"la historia no la podemos borrar\" y llama a \"mirar hacia el futuro\"&nbsp;&nbsp;biobiochile.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-11T16:43:47+00:00"
     }
   ]
 }
