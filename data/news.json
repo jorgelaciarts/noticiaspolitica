@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-17T15:34:46.436993+00:00",
+  "actualizado": "2026-09-17T15:46:35.389429+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Bancada UDI pide a Cancillería llamar a consultas al embajador de Francia en Chile por reconocimiento a Llaitul",
+      "link": "https://www.lanacion.cl/bancada-udi-pide-a-cancilleria-llamar-a-consultas-al-embajador-de-francia-en-chile-por-reconocimiento-a-llaitul/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El presidente de la UDI, Guillermo Ramírez, junto con el diputado Cristóbal Martínez -ambos integrantes de la Comisión de Relaciones Exteriores de la Cámara Baja-, además del representante de la Región de La Araucanía, Eduardo Cretton, solicitaron a la Cancillería llamar a consultas al embajador de Francia en Chile, Cyrille Rogeau. Esto a raíz del [&#8230;]\nThe post Bancada UDI pide a Cancillería ",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-17T15:39:59+00:00"
+    },
     {
       "titulo": "Ordenan reintegro de funcionaria de Presidencia despedida el 12 de marzo",
       "link": "https://www.cooperativa.cl/noticias/pais/judicial/ordenan-reintegro-de-funcionaria-de-presidencia-despedida-el-12-de-marzo/2026-09-17/121153.html",
@@ -5612,17 +5624,6 @@
         "Elecciones"
       ],
       "fecha": "2026-09-13T22:13:03+00:00"
-    },
-    {
-      "titulo": "Defensa del rodeo: Alcalde de Peñalolén acusó al Gobierno de apoyar \"prácticas clandestinas\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/defensa-del-rodeo-alcalde-de-penalolen-acuso-al-gobierno-de-apoyar/2026-09-13/184635.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un nuevo cruce entre el Gobierno y el alcalde de Peñalolén, Miguel Concha, se produjo a raíz de la clausura de la medialuna de la comuna: el jefe comunal respondió al ministro de las Culturas, Francisco Undurraga, luego de que este defendiera el rodeo y cuestionara las críticas hacia esta tradición.\nLa controversia se originó después de las declaraciones realizadas por Undurraga durante la inaugur",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-13T21:46:35+00:00"
     }
   ]
 }
