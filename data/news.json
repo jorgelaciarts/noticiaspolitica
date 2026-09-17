@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-17T18:16:42.638050+00:00",
+  "actualizado": "2026-09-17T18:31:48.460314+00:00",
   "total": 500,
   "items": [
     {
@@ -14,6 +14,20 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-17T18:16:34+00:00"
+    },
+    {
+      "titulo": "Gobierno responde críticas de la oposición por seguridad: \"La agenda no se ha desatendido\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/gobierno-responde-criticas-de-la-oposicion-por-seguridad-la-agenda-no/2026-09-17/151155.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El subsecretario del Interior, Máximo Pavez, respondió los emplazamientos de la oposición por falta de resultados comprometidos en campaña y descartó que su agenda de seguridad haya sido \"desatendida\" a raíz de los esfuerzos concentrados en la reactivación económica.\nEn el marco de las primeras Fiestas Patrias de la Administración Kast, desde La Moneda se han enfocado en la agenda de reactivación ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-17T18:11:55+00:00"
     },
     {
       "titulo": "Alcalde White se dirige a Kast en desfile por las Glorias del Ejército: \"Si al Presidente le va bien, gana Chile\" - Teletrece",
@@ -3889,6 +3903,17 @@
       "fecha": "2026-09-15T01:56:46+00:00"
     },
     {
+      "titulo": "Kast adelanta plan de emergencia laboral a timoneles oficialistas y comprometen celeridad legislativa - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNW1OSDRWYlFTc19La3pzLVZnVVFQQS1TYXF4UjFWU09nbzRhaTdXd0FMcE9XMUtMNUowc0taUWVvMHZTN1FpeTZ4c0VMWld2R2hIZ2l3RUFxWjdHLV8tdlBCcU1ZZ2ZRVjN3bXVOQzdQbmlzY2ZMaF9RUVdjdWtXUU9jQ2h0THBabVduc0pPSTU0dElna3NTQ1dYcEVNeW1PR1R6aXZGYVBBcnBMcTVUV3lOVUJWZDZiei01STI3WlhpRjBSd0JGWDE4ZFFmV3hBMHJhaGJDMzNhV2hENi1MRk5CT0JRSHVlQ21aNGhSd0F1dXpIaUh1blNWVWE3dw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast adelanta plan de emergencia laboral a timoneles oficialistas y comprometen celeridad legislativa&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-15T01:28:47+00:00"
+    },
+    {
       "titulo": "Kast presentará un \"plan de emergencia laboral\" post Fiestas Patrias",
       "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/kast-presentara-un-plan-de-emergencia-laboral-post-fiestas-patrias/2026-09-14/221848.html",
       "fuente": "Cooperativa - País",
@@ -5613,32 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T09:03:12+00:00"
-    },
-    {
-      "titulo": "Partido Republicano sin Kast: peleas internas, renuncias y bases en rebelión - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR0FtM2w3SWFsZ0NCVGo3UDhUbzZHc3c3NHdGaDdDTlA2V2VRZGxQbkZ4aEtxOEJZSDRSdDEzQ25vWGNWdldiZERobzRXU19Iei0zRU1ERUR1QjFiYWFpNWhXVXptS180cURiUEpYakIwdXQyeXhHa3pKZG1iZmo5T0JiOEZtX3A5LUF6RG5RTTU0S3M3cXRYYzZCblZwNDU2ek14MWszdmZrSlRIX1hudFBFVE5ka3lLd2ZWNkhrLXFmVzRYLUE?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Partido Republicano sin Kast: peleas internas, renuncias y bases en rebelión&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-14T08:08:00+00:00"
-    },
-    {
-      "titulo": "\"Casi un millón sin pega\": Oposición exigió shock de inversión ante cifras de desempleo",
-      "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/casi-un-millon-sin-pega-oposicion-exigio-shock-de-inversion-ante/2026-09-14/005542.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno intensificó su agenda económica para intentar revertir las cifras de desempleo y estancamiento que han marcado sus primeros seis meses de mandato.\nA través de medidas como la reforma al mercado de capitales -que contempla el Fondo Nacional de Vivienda- y proyectos de flexibilidad laboral, la administración espera dinamizar la actividad productiva hacia el mediano plazo.\nA este desplieg",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-14T03:55:42+00:00"
     }
   ]
 }
