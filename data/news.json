@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-17T13:46:42.468733+00:00",
+  "actualizado": "2026-09-17T14:01:51.880343+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Extraen residuos en canales del sector oriente de Chillán",
+      "link": "https://ladiscusion.cl/extraen-residuos-para-evitar-desbordes-en-canales-del-sector-oriente-de-chillan/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con el objetivo de anticiparse a posibles eventos meteorológicos y reducir riesgos para las familias, la Municipalidad de Chillán finalizó durante esta jornada la limpieza de la totalidad de los canales del sector oriente de la comuna. Los trabajos contemplaron el retiro de vegetación, residuos y otros elementos que pudieran afectar el flujo normal de [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-17T13:47:35+00:00"
+    },
     {
       "titulo": "Alcaldesa de Papudo por Ley de Seguridad Municipal: \"Se crean leyes, pero muy rara vez vienen asociadas con recursos\" - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTEZ2ZGtIeGFtNW1WMmlGNTJkVUY3WG5vS2YySjg4ejV6bkUxUGo2ekVvMUJiZVYyNHZkb1FybXNSNy10ZHVkU1VDTWNhdmUzWThBclR2YS1UbmQ5NmF0NkMxQVhUdTFUdE0zQ05SLTVmV0hKOTlYQ0ZrSnF3OWdvVDRab3NJLXhhdmFBVzF3RWx4SWFtQlhlZm9FYjZNU3pDc1RkYjhzakFOcmR1ZUNteUwzRTd5OG1QWDBmSmNSR2NoVlBVdk9COFczdnhBUGlUcnp2ZVB3bVVlQzdfMndUYWNLZw?oc=5",
@@ -5612,19 +5623,6 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-09-13T17:46:11+00:00"
-    },
-    {
-      "titulo": "Te Deum Evangélico pidió un Estado de \"cajas de cristal\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/religiones/iglesias-evangelicas/te-deum-evangelico-pidio-un-estado-de-cajas-de-cristal/2026-09-13/143827.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Este domingo se realizó el primer Servicio Nacional de Acción de Gracias -conocido como Te Deum Evangélico- durante la Administración del Presidente José Antonio Kast, instancia en que las iglesias pusieron el foco en la crisis económica, la delincuencia y la necesidad de realizar auditorías al Estado.\nEl obispo Héctor Cancino del Valle, alto representante protocolar de las iglesias evangélicas, f",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-13T17:38:27+00:00"
     }
   ]
 }
