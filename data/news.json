@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-17T19:46:43.420276+00:00",
+  "actualizado": "2026-09-17T20:01:51.973593+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "«Camila Flores guardaba dinero en sobres en su closet»: Exasesor reveló a Fiscalía pagos a parlamentarios por «lobby» en «ley de notarios»",
+      "link": "https://www.elciudadano.com/chile/camila-flores-guardaba-dinero-en-sobres-en-su-closet-exasesor-revelo-a-fiscalia-pagos-a-parlamentarios-por-lobby-en-ley-de-notarios/09/17/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nUn reporte del medio Ciper Chile dio a conocer este jueves 17/9 parte de la declaración judicial de Julio Lillo, exasesor de la senadora de RN, Camila Flores, en el marco de la investigación del caso conocido popularmente como «la cuota Flores». En específico, Lillo habría señalado que Percy Marín, expareja de Flores, le aseguró [&#8230;]\nLa entrada «Camila Flores guardaba dinero en s",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-17T19:45:58+00:00"
+    },
     {
       "titulo": "Registra más de 20 reuniones, incluidos ministros y subsecretarios: el lobista que llega a reforzar la Segpres de García Ruminot",
       "link": "https://www.theclinic.cl/2026/09/17/registra-mas-de-20-reuniones-incluidos-ministros-y-subsecretarios-el-lobista-que-llega-a-reforzar-la-segpres-de-garcia-ruminot/",
@@ -14,6 +26,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-17T19:34:40+00:00"
+    },
+    {
+      "titulo": "Corte revocó orden de Transparencia para entregar los correos de Miguel Crispi",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/corte-revoco-orden-de-transparencia-para-entregar-los-correos-de-miguel/2026-09-17/162833.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Corte de Apelaciones de Santiago ordenó la reserva de los correos electrónicos del exjefe de asesores de la Presidencia -durante el gobierno de Gabriel Boric- Miguel Crispi, revirtiendo de esta manera la resolución del Consejo para la Transparencia tras una solicitud de un periodista.\nLa solicitud se originó por parte del periodista Joaquín Labbé, actual jefe de prensa de la Subsecretaría del D",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-17T19:28:33+00:00"
     },
     {
       "titulo": "Tribunales obligan al Gobierno a recontratar a tres trabajadoras despedidas, uno con discapacidad y otra, la jefa de Repostería y Casino de la propia La Moneda",
@@ -5618,29 +5641,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T11:18:26+00:00"
-    },
-    {
-      "titulo": "Presidente Kast: “Estamos haciendo que el país cambie de rumbo” - radioagricultura.cl",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY09Lb2lmYXVPMGJOSEFJRkJHSE1iWGFxOVRYUlBtUW5WdXBuRTdrZ1d6QjRJdTRlTEVmc2hxUjBsLU5mMk9zUDF3UTFKbnJwcTJiVzlrWXpmNVB2WkthUjhIUG9ZVTM4dm8xQkRsLW1jdlJhZmhzUkJCZkhOVjNxckctdjdTRmI1eVpRVHNMSG9GeVRfc2pJb0c3WWpTRmFhSFFkejVTaEZueE5EMEN3UlZjQjNnZ09Gd3lpQg?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast: “Estamos haciendo que el país cambie de rumbo”&nbsp;&nbsp;radioagricultura.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T11:17:05+00:00"
-    },
-    {
-      "titulo": "“Las instituciones del Estado deben ser cajas de cristal, donde cada peso público se administre con pulcritud y eficacia”",
-      "link": "https://laprensaaustral.cl/2026/09/14/las-instituciones-del-estado-deben-ser-cajas-de-cristal-donde-cada-peso-publico-se-administre-con-pulcritud-y-eficacia/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Las iglesias llamaron a enfrentar con transparencia y probidad el descrédito institucional, en una ceremonia marcada también por la crisis económica y la delincuencia. &#160; Ayer se realizó el primer Servicio Nacional de Acción de Gracias -conocido como Te Deum Evangélico- durante la Administración del Presidente José Antonio Kast, instancia en que las iglesias pusieron...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-14T11:03:30+00:00"
     }
   ]
 }
