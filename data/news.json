@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-17T15:16:44.737051+00:00",
+  "actualizado": "2026-09-17T15:31:43.801393+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ordenan reintegro de funcionaria de Presidencia despedida el 12 de marzo",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/ordenan-reintegro-de-funcionaria-de-presidencia-despedida-el-12-de-marzo/2026-09-17/121153.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La justicia acogió un recurso de protección y ordenó a la Presidencia de la República la reincorporación de una funcionaria que fue desvinculada el 12 de marzo pasado -un día después del cambio de mando-, pese a su contrata vigente y bajo el argumento de pérdida de confianza.\nLa Séptima Sala de la Corte de Apelaciones de Santiago dejó sin efecto la resolución que afectó a una nutricionista que lle",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-17T15:11:53+00:00"
+    },
     {
       "titulo": "Vota y opina | Ossandón (RN) propone cambiar el nombre de la RM en honor a Baquedano: ¿Estás de acuerdo? - Emol",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0xsaHpVRWxUN19SdWNYNHJsX1h6OVJERnY4eU9GRDF5RDBOeUJzeEQ1eXR0N0JNVVhOQmpuRWlMVUR6cHp4SHpRd0tlQjdrV3VORXZLNUw4eENUcXVDQnlhb3RBd1NxbkVTcUF0WFBOcFAtMFlhRGxTbFplTFR0eWdWZHdjZmZPenRaaF9zWWstVFJNbmVGbjZ3?oc=5",
@@ -83,6 +94,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-17T14:24:44+00:00"
+    },
+    {
+      "titulo": "Desde la Redacción: entrevista a Cristopher White, alcalde de San Bernardo - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUlc1cXVNY01keDU3d0JVbGVfYUk1UjZqMENrbWJCNVJhU1lubmdBVllRWkFrRzk3T2V2Zm9mREJBZzRDaXRWa0RkdWREUUZadnQzXzhOMU9HTGRvQkYtdHJyaEhXMTBoakpZV1oyM3pqNjZnWDJsNWItcWdLOWZ4RHdhUlFwNEFUcTUyWUJPSXdhNFl0U3NSZVJKakdDWkJyWURYSXllRWI5bWMtSE9yU0pONnfSAdYBQVVfeXFMT0xxY0E3ZlVfY3pnaS1uREVMMnNBcm02Y3FhRUxNaTF1NWFUOXNKUXJ2ZFBSRk81OV9DUldQOXMySGtHMzh6RVRkVmplM0F5aDN4UWlybDVfdWZXOUtVaGVtQ3p0ZWFsUFU4SmJYOF9hNjFCVGtZRkNWbkswTkhDZmJ3VFZ0ekVqU3pETHJzcGYtS0E0WUZrc3AzRDFGX1c0V21YTVgwRGZXLXZpSmxrT2FITnFlWFNhY0c3ZkpwdDZGQ0ZpNVNqUGdxWEFuVl91ZXFEMFJKdw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Desde la Redacción: entrevista a Cristopher White, alcalde de San Bernardo&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-17T14:22:19+00:00"
     },
     {
       "titulo": "Orrego se reúne con alcalde White y expresa solidaridad tras amenazas",
@@ -5601,29 +5623,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-13T21:46:35+00:00"
-    },
-    {
-      "titulo": "Gobierno coordina reubicación y atención médica para sobrevivientes del incendio en Pitrufquén",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/gobierno-coordina-reubicacion-y-atencion-medica-para-sobrevivientes-del/2026-09-13/183412.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Ministerio de Desarrollo Social y Familia desplegó un operativo de emergencia en la Región de La Araucanía para coordinar la atención médica, el apoyo psicosocial y la reubicación definitiva de las diez personas que sobrevivieron al incendio registrado en una residencia de la comuna de Pitrufquén.\nTras las gestiones conjuntas entre el Gobierno y la Municipalidad de Pitrufquén, cuatro de las per",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-13T21:34:12+00:00"
-    },
-    {
-      "titulo": "Presidente José Antonio Kast apela a forjar acuerdos transversales en su primer Te Deum - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWludVI5NUlCQ1RkTnVCcnFFVG1YTW9NRExidUF0dFg0NkFWcHVHS3N5dzhnLTE4MS1vZGZhZlFBbFNCczM4STRuYXA1N00ycUlNREVUYlUtTUREUVBtdjVYWUF1ZlRRbVlDaFNTZXlIVlVjMGxtM29qdXlhUWtvRUpENEpZaE9yaEdfZGNEWks5SERNc2QxYWk3VVI2VVE0T0lsTW1zQlJRYmp1R1hQaUtKYnhLM1ZFbl9qT1RUQ18?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente José Antonio Kast apela a forjar acuerdos transversales en su primer Te Deum&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-13T21:21:21+00:00"
     }
   ]
 }
