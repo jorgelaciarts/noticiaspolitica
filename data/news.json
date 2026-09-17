@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-17T00:46:38.893960+00:00",
+  "actualizado": "2026-09-17T00:55:47.136310+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Esta fue la cueca del Presidente Kast con la Primera Dama María Pía Adriasola - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDUyZ3FUaHdscGxJZlduT2FtcVZNOUYyMnlBRnZydXhhRDlTa2llYmY3V1gyWk1KTnduRUtyMUhuSUhIeGgzMHlheHBva2tYOUhsUUdadV90TVJ3bG03TTRSZmJoNnUwSUxSMmIzb194NWZ2ZjdaazhRMGhRNUJvaUt3MzBTNlB3em9Za2ZzNl81LS1iTENEM3JrUU9Ea213Q1BWeWlWOF9tZmx5c0NfQThKQzAxd0V3cWlGbA?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Esta fue la cueca del Presidente Kast con la Primera Dama María Pía Adriasola&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-17T00:39:00+00:00"
+    },
     {
       "titulo": "«Así se fabrican las fake news»: Kast aseguró que homicidios aumentaron durante gobierno de Boric pero la evidencia real dice todo lo contrario",
       "link": "https://www.elciudadano.com/chile/asi-se-fabrican-las-fake-news-kast-aseguro-que-homicidios-aumentaron-durante-gobierno-de-boric-pero-la-evidencia-real-dice-todo-lo-contrario/09/16/",
@@ -5610,17 +5621,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-13T01:04:22+00:00"
-    },
-    {
-      "titulo": "El Ejército entrena junto a tropas de Argentina, EE.UU. y Perú en selva amazónica",
-      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/ejercito/el-ejercito-entrena-junto-a-tropas-de-argentina-ee-uu-y-peru-en-selva/2026-09-12/205140.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Ejército realiza -junto a tropas de Argentina, Estados Unidos y Perú- un entrenamiento conjunto en la Amazonía peruana, donde practican patrullajes en condiciones extremas, pruebas de sobrevivencia y cruce de ríos con capacidades anfibias, según informó este sábado en un comunicado el Ministerio de Defensa de Perú.\nBajo el nombre de 'Vanguardia Sur 2026', los ejercicios ponen a prueba la resist",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-12T23:51:40+00:00"
     }
   ]
 }
