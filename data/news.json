@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-17T20:16:31.490132+00:00",
+  "actualizado": "2026-09-17T20:31:27.706408+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cartas al Director: Defensa y reivindicación de la paya chilena",
+      "link": "https://www.elciudadano.com/cartas-ciudadanas/cartas-al-director-defensa-y-reivindicacion-de-la-paya-chilena/09/17/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nSeñor Director: Las Fiestas Patrias son una oportunidad para celebrar nuestras tradiciones, y la paya forma parte esencial de nuestra cultura popular. Por eso resulta desafortunado que el Presidente José Antonio Kast la haya utilizado como recurso en su discurso inaugural de las fondas de una manera que, a mi juicio, desconoce y desvirtúa esta [&#8230;]\nLa entrada Cartas al Director: ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-17T20:16:43+00:00"
+    },
     {
       "titulo": "Senadores proponen establecer un horario permanente para Chile",
       "link": "https://ladiscusion.cl/senadores-proponen-establecer-un-horario-permanente-para-chile/",
@@ -5630,17 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T11:42:08+00:00"
-    },
-    {
-      "titulo": "Presidente Kast por “situación crítica” y desempleo: “Estoy plenamente confiado, pero comparto que hay que ser cauto” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV1hHSG5BZ0tKUVlESV9jNG92WU92RElheVc0d1ljNjVZWkNueGhuTWhRd1ExejJ1SWFwZEUzUHRiY1Izd0VOY2lNbUZZX3RESzZ4VU1EeDFoN0M0T09wZ0YtSHRhSWlvdXhHeEwtQ3laSjR5ZUxHLXI0OUUzREhCbGlGOEJjdTdUNkoxaTZJTVlCOUx3YzhWZ1hzd0hJSHhKX1lDcmFqRExtRmw2OFRmRi1TV2Q2eEVYNlhzWGdFUXhzX2RMbG85RmVFRno2d2tlTEVlcmNCQlBhc3JwR2VtNXliVVdPaVFoRy1aZU5nZS1qd053akxrZ2lfNmo5ZE93?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast por “situación crítica” y desempleo: “Estoy plenamente confiado, pero comparto que hay que ser cauto”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T11:36:46+00:00"
     }
   ]
 }
