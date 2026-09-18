@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-18T14:31:21.505106+00:00",
+  "actualizado": "2026-09-18T14:46:20.332397+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Raro: Roban disco duro con información reservada de la Presidencia desde departamento funcionaria de La Moneda en San Miguel",
+      "link": "https://cambio21.cl/pais/raro-roban-disco-duro-con-informacion-reservada-de-la-presidencia-desde-departamento-funcionaria-de-la-moneda-en-san-miguel-6aad4990cce8557d02054107",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-18T14:32:20+00:00"
+    },
     {
       "titulo": "Comisión de Minería de la Cámara estudia proyectos de “tierras raras”",
       "link": "https://ladiscusion.cl/comision-de-mineria-de-la-camara-estudia-proyectos-de-tierras-raras/",
@@ -5619,17 +5630,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-14T15:44:56+00:00"
-    },
-    {
-      "titulo": "Longton pide a Kast limitar a sus ministros: \"No pueden tener autonomía para decir lo que quieran\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVTRPRjVNRkU3S2o4cHExQ3hBQTV1cHl3ajhNZ1JHUEU4alpGN1Vlb29Sb3hSSUwyemFFOGtpYVllcVNoQzhWbnh1bEtBMzl0ejZjQkM5QU9kb1pBay1WS3M3cE9OWmstMTY2cFJYTGloR1lmdnlXa0NpdFpUYUpuTGQxcTlWam5mQXJncElLcHlqSDZkM2laXzBGNi16RDVfOVo4QVJGME1ETVJZZUtZWFhqSkVKVExNWVR1Q1VJUlkyQ0w0ZVNYTW5hVjJxOGYyelpFelR1LVVmQm4wSVJSSWNicENoTE9VV2JFTXFfMFdKbTRLU2c?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Longton pide a Kast limitar a sus ministros: \"No pueden tener autonomía para decir lo que quieran\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T15:44:04+00:00"
     }
   ]
 }
