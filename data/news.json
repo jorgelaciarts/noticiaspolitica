@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-18T14:46:20.332397+00:00",
+  "actualizado": "2026-09-18T15:01:51.970822+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast encabeza tradicional postal republicana y rinde tributo a la diáspora en Fiestas Patrias - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY0VGZG9hc3kxMVp6eEhaeXZkZ2NOMkc2LVZJNmpNcGJScVZTTUFEbU0zTjIzRnB1TUdHd2JJNmFRQ1F0XzhHd0lseUhXQWFHMWFEYk9iUW5sXzFDOEFESkg3VWhjRWFCUzNWM2tHU1IzSzk2TDFzVjRoSFA1LXh0WEU5S1JkZWtCQjJ3aFI1T2ttTTZTQkZFcG5BRExTNV9ZaUJDbXlSRXMzeDE5eElaTnlHbHdHWDJRN01WUDBDX3ROWVBHWVlPeQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast encabeza tradicional postal republicana y rinde tributo a la diáspora en Fiestas Patrias&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-18T14:54:50+00:00"
+    },
     {
       "titulo": "Raro: Roban disco duro con información reservada de la Presidencia desde departamento funcionaria de La Moneda en San Miguel",
       "link": "https://cambio21.cl/pais/raro-roban-disco-duro-con-informacion-reservada-de-la-presidencia-desde-departamento-funcionaria-de-la-moneda-en-san-miguel-6aad4990cce8557d02054107",
@@ -202,6 +213,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-18T09:18:21+00:00"
+    },
+    {
+      "titulo": "Exasesor de Camila Flores involucra a notarios en supuestos sobornos para redacción de ley notarial - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM0NvYmVRSlU5Q3ZNZDNfeXFkY2J1MmEzUFhSSlcxZDNtdzZ2RDdUZFFDRTVtM1NPNlIwV1phaTVHeE9RVE5pMlZLMVpRbzl1eFdwODhCMHk1ODhaMWFoTUgxUW92LWVlcVhSTnkycDBrX29LTWo5S2VUZE5iYVRHZnFpVktIZUp2U2VTT213ZGZ0M2hRUFl3MnJIdXRCOUNOUEhlR3JQMTJLSEtpcmVjblhzckdSMjRiVFNEanlXd3F1Z1QzbVkxTnVTX0JfWDZFUE51VmVfaXh6MUVDV0ZreXVuODA4dTN3c0NTTE5YZE9xZ0hL?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Exasesor de Camila Flores involucra a notarios en supuestos sobornos para redacción de ley notarial&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-18T08:45:37+00:00"
     },
     {
       "titulo": "Alza del desempleo en Biobío: gremios y Gore alistan propuestas para el Plan de Emergencia Laboral - Diario Concepción",
@@ -5608,28 +5630,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-14T15:45:00+00:00"
-    },
-    {
-      "titulo": "Diputado Javier Olivares comparte video de sus pavos reales y reconoce que me tocó hacerle corte de alas - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTGZKZ25TaTlrTWU3Wm5FWWhyWVk0MUswQk0xSFF1WmJOeVFTaHdIaUpJX2pRay02cnNpZnUzeUswbVpobDhoVVhaS3VJWTdmelE3dWZqWmNXZUZfeVRXb1AtMW4zZUE4QnlxcUhwSk5fSWRhaTFOOERmVWpjTkt5VzRFaWlONWxGcDBZOHYzQTVjRTJlejRtQ09JdFZPNDIxSDFfUEdoNjltUDVjdkc5S25ta3FRYklCV2pzOXhXR2JmN2Q1MHBwaVp6c3BPSzZoNTl1WGVOV2h5NlJX?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Javier Olivares comparte video de sus pavos reales y reconoce que me tocó hacerle corte de alas&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-14T15:45:00+00:00"
-    },
-    {
-      "titulo": "Schalper (RN) emplaza al Gobierno a reponer urgencia a proyecto que regula redes sociales para menores - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQVTJuNUFwb3pjMEZveFJfQWg3OUlkekJWWUFEbkh4bWo3SU9GdGlOYUJuV2xYWnh2R28yY3o2UEhPRW1BblY3ZzJESDNMR3ZDZGMwXzRMNUFDRGZnUE56dDBBWmRSWDdHMi0yTnotWnFfdE9nSGJ6U2RXNjN4OHZ6M0NnYXdFaUtVR1hnVFVVb1Q0TkFFUnZxZDRZRzlhZk5mdFY2SDF2dnJpZm5ZY0swRTBSVlNYRTR6VWV6bHBhZzVzOFoyTjZ2aWszUEc1aDZCQ0NWT1dneFpMeld5cWJxb2ZhWDkzRTZMbnliNkdtb3JZazEzSUp1UjBQQlg?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Schalper (RN) emplaza al Gobierno a reponer urgencia a proyecto que regula redes sociales para menores&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-14T15:44:56+00:00"
     }
   ]
 }
