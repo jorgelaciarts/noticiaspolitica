@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-18T19:01:51.229112+00:00",
+  "actualizado": "2026-09-18T19:16:33.731761+00:00",
   "total": 500,
   "items": [
     {
@@ -147,6 +147,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-18T16:54:06+00:00"
+    },
+    {
+      "titulo": "Ministro Alvarado: Chile siempre se preocupa de marcar y remarcar su soberanía",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ministro-alvarado-chile-siempre-se-preocupa-de-marcar-y-remarcar-su/2026-09-18/135248.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En medio de las celebraciones de las Fiestas Patrias, el biministro del Interior y Segegob, Claudio Alvarado, abordó las relaciones exteriores del país en medio de las controversias con Argentina y Estados Unidos, que continúan siendo objetivo de críticas por parte de la oposición.\nPrevio a la visita oficial del Presidente José Antonio Kast en la Asamblea General de las Naciones Unidas, el Mandata",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-18T16:52:48+00:00"
     },
     {
       "titulo": "“Chile puede ponerse de pie una y otra vez”: El mensaje del Presidente Kast al finalizar el Te Deum de Fiestas Patrias - CNN Chile",
@@ -5614,20 +5627,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-14T18:33:11+00:00"
-    },
-    {
-      "titulo": "Oficialismo defiende primeros seis meses de Kast, pero admite urgencia en empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/oficialismo-defiende-primeros-seis-meses-de-kast-pero-admite-urgencia/2026-09-14/153102.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "A seis meses de haber asumido el Gobierno del Presidente José Antonio Kast, desde el oficialismo entregaron su balance y destacaron mejoras en seguridad, aunque pusieron énfasis en adoptar medidas a corto plazo para mejorar los índices de empleo; mientras que desde la oposición apuntan a un retroceso económico que ha provocado un \"aumento del costo de la vida\".\nLa última encuesta Cadem reveló una ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-14T18:31:02+00:00"
     }
   ]
 }
