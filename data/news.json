@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-19T15:31:49.720832+00:00",
+  "actualizado": "2026-09-19T15:46:28.118673+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Con la salida del seremi de Economía de O’Higgins, ya son 50 las bajas en el gobierno de Kast",
+      "link": "https://www.elciudadano.com/actualidad/con-la-salida-del-seremi-de-economia-de-ohiggins-ya-son-50-las-bajas-en-el-gobierno-de-kast/09/19/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nA poco más de seis meses del gobierno de Kast se registra la salida de 50 autoridades y un promedio de una renuncia cada 3,8 días Ya se registran 50 autoridades que dejaron su cargo en el gobierno de José Antonio Kast, con la confirmación de la salida del seremi de Economía, Fomento y Turismo [&#8230;]\nLa entrada Con la salida del seremi de Economía de O&#8217;Higgins, ya son 50 las b",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-19T15:37:53+00:00"
+    },
+    {
+      "titulo": "El momento en que el general García-Huidobro pide autorización al Presidente Kast para iniciar la Parada Militar 2026 - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ2x2NW5FUGVlb1ROU0Jpa2hlOGxLbWZWRkRJQkZqN2Y1a2tJU3FDVEdpRUpuV2tmWmRmTm5CZ2dsQjFYemVoMVROWFNEU05EX3BGdGhaTTlXOV9oT25VbUFPVFRKRnlUS1M2dVlvUTNEUWRab3dFVU01UWczOHljRC14NFotSU9YZE42bGhfZmdDdnkzOWx2czRuRmw5U0FyQkI0TmJtUmNIaGFfT21B?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El momento en que el general García-Huidobro pide autorización al Presidente Kast para iniciar la Parada Militar 2026&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-19T15:31:00+00:00"
+    },
     {
       "titulo": "\"La estupidez más grande del mundo\": Los Viking 5 responden por haber cantado en campaña de Kast",
       "link": "https://cambio21.cl/tendencias/la-estupidez-mas-grande-del-mundo-los-viking-5-responden-por-haber-cantado-en-campana-de-kast-6aaea995c4d1cb706c6f6034",
@@ -12,6 +35,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-19T15:28:54+00:00"
+    },
+    {
+      "titulo": "Siete uniformados recibieron medalla al valor durante la Parada Militar",
+      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/siete-uniformados-recibieron-medalla-al-valor-durante-la-parada-militar/2026-09-19/122818.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast entregó este sábado la medalla al valor a siete uniformados, durante la Parada Militar realizada por las Glorias del Ejército.\nLa institución armada señaló que la condecoración distingue a quienes realizaron \"actos de valor, con riesgo evidente de su propia vida\", y destacaron por su \"honor, carácter y arrojo\".\n\nEl Ejército de Chile hace entrega de la Medalla “Al Va",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-19T15:28:18+00:00"
     },
     {
       "titulo": "Con la participación de Gendarmería y la PDI: El presidente José Antonio Kast encabeza su primera Parada Militar - CNN Chile",
@@ -5596,39 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-15T09:00:00+00:00"
-    },
-    {
-      "titulo": "Gerardo Varela: «Yo estoy feliz con estos seis meses de Kast» - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaUdQaGhsMWE0TWhJbm8wOXFtN3oxckMyVXhKX0dOUXJXSm9RQ0c3UllLTXdVaXZNLTE3RDNwbHlERE4wNWtPYWRUOHJQUzlpQkV3MXpEVG02Y3prNTJ6R2g2ZDJKbXAwWTRJVUh2ZXF6YlI5VG13RUIwQzBvT1BEZWdkLWtmYU5uU0pGZmh2RDVqdC1Z?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gerardo Varela: «Yo estoy feliz con estos seis meses de Kast»&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-15T07:55:00+00:00"
-    },
-    {
-      "titulo": "Expresidente Gabriel Boric se suma al Club de Madrid - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWDNYN09RbHZuVFctREYzQVh1LUNSLUQwdDNkSGFZTGNERkV3akl4dmdxVzZXS09xUmJaRHZJQjlCbHNJczNFVlZNTGFJSlVvY2ZfWE5MeFdIUEJQT3BPTUl0T1VBYmRUcUR3cGNMU1laTXQxbWdnTS1EQTJtWUZ0aFB6SURRalJLTjJXRFVqSmU4bW1xN1hGRlVIWdIBoAFBVV95cUxOZHBRMTNWWVJPN1J4NnFoLUxmTG5NdjBiY3F5QTFvZHlIVXZ1STZzWHY4YVNveVk4YUwyTlJGRGhDZFpqOGJQOXpIbFBfcWdWSHRPNDd5eHM0Ynp4VzJWTndfdnJQYUFHcC02NDVwMWY2bUZfemZFVzV2N3lyRFdCeWYwT01GUEtnMjVTa3p6dGExNWFXcXh1S19qcTVFTjU5?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Expresidente Gabriel Boric se suma al Club de Madrid&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-15T07:16:00+00:00"
-    },
-    {
-      "titulo": "OOPP, Salud, Vivienda y GORE: las razones de la caída de la inversión pública que está en la mira de Hacienda - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa1VMVG9RLXBqRk1tclpwem9RcFFnMEprTUdnM1FXcWJXSjRXWEkwMG5qa3NrUmRoVkp3dmtrMWJlR25PbEhJMGNyWXYwWE1ZZy0tRkU1Ulh1RUQ5VFFjN1dEY1ZjNkFhbHU3NEVEV0F1bEROS0JrVFVJS1loTkJVd0d3dG90VjJ2Ukl4U0JNS3NfWHJHRUtvS216Ym1pWTItNmgzQU5rckQzanFfcnRZ?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "OOPP, Salud, Vivienda y GORE: las razones de la caída de la inversión pública que está en la mira de Hacienda&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-15T07:00:00+00:00"
     }
   ]
 }
