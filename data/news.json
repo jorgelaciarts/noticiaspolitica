@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-19T11:16:39.985138+00:00",
+  "actualizado": "2026-09-19T11:31:44.348212+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Columna de Isabel Plant: Queremos más ministras, pero de las buenas",
+      "link": "https://www.theclinic.cl/2026/09/19/columna-de-isabel-plant-queremos-mas-ministras-pero-de-las-buenas/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La salida de tres ministras del gabinete de José Antonio Kast vuelve a poner sobre la mesa una vieja paradoja: las mujeres que llegan a puestos de poder suelen tener que demostrar el doble, pero eso no significa que debamos defenderlas solo por ser mujeres. El verdadero desafío, plantea esta columna de Isabel Plant, está en que los partidos incorporen, formen y preparen a más mujeres para ejercer ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-19T11:23:00+00:00"
+    },
     {
       "titulo": "Columna de Marco Moreno: El 2028 comienza en 2027 para La Moneda",
       "link": "https://www.theclinic.cl/2026/09/19/el-2028-comienza-en-2027-para-la-moneda/",
@@ -5616,17 +5628,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T23:01:08+00:00"
-    },
-    {
-      "titulo": "\"Nuestro país va a recuperar la paz, la confianza y el desarrollo\": Revive la inédita cadena digital del Presidente Kast - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSjhFOUZ4aVVxYURXMmlCOVY3WXAtTXF3WFIzMkhHTmI4LWJGUDR5OWJJSklmX3JXZEtRYUR5ZkdBSHBCWGg5aW5yekFPZzdja3FwNHVkTElPaGtCZjdWSUVoc3M5MnZlck9Cd2cwSy03YjM1QThfcl9ETnltczFKUUd6UXJXNXhENFdFdkRQWHFaank3Wm1GRXRCNXJIYmU0?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Nuestro país va a recuperar la paz, la confianza y el desarrollo\": Revive la inédita cadena digital del Presidente Kast&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T22:53:00+00:00"
     }
   ]
 }
