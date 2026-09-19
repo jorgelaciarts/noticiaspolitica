@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T03:16:24.873507+00:00",
+  "actualizado": "2026-09-19T03:31:31.416854+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-19T00:30:03+00:00"
+    },
+    {
+      "titulo": "Fuerte viento obligó a suspender la tradicional Pampilla de San Isidro en Vicuña",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-coquimbo/fuerte-viento-obligo-a-suspender-la-tradicional-pampilla-de-san-isidro/2026-09-18/211221.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El temporal y las intensas ráfagas de viento provocaron la cancelación de la tradicional Pampilla de San Isidro en la comuna de Vicuña, en la Región de Coquimbo, luego de que las inclemencias climáticas impidieran el desarrollo normal del show inaugural y amenazaran la seguridad de los asistentes.\nAunque la organización intentó esperar una mejoría en las condiciones del tiempo tras pausar los prim",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-19T00:12:21+00:00"
     },
     {
       "titulo": "Kast aborda su próxima agenda en la ONU durante reunión con embajador de Estados Unidos - ucvradio.cl",
@@ -5615,17 +5626,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-14T21:41:54+00:00"
-    },
-    {
-      "titulo": "Senador Calisto vuelve al borde del desafuero por causa de falsas asesorías parlamentarias - elmostrador.cl",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT0tpQVo2b3kzS0FRZzhEc3lVYWs0Uk9wNkJQVTdVWTdJYW1fMFB3SXM3U3dOWmxneEd3RWwtbmFzNTZGNXZ6RmpwcHg3NS0wSm1ydGJhSkJ1RjVjU0FhdU03c01UU0FDLS1fNlRVcm16YVVVbTE1RjJ3dVZJVEJBZ0tHb2tSdm1ic1lobGhma2dnbV9FaVhqRm1remhWTEZJZ3BBVnQyOXdUSC0xWlN5M1dQSGd0UDNSNzlnUGg4TndwdTUwajRiVGVuanZVaVJPYXFnRHBaUGlFWVk?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Calisto vuelve al borde del desafuero por causa de falsas asesorías parlamentarias&nbsp;&nbsp;elmostrador.cl",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-14T21:40:00+00:00"
     }
   ]
 }
