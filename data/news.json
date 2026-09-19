@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-19T01:05:08.116056+00:00",
+  "actualizado": "2026-09-19T01:16:38.954451+00:00",
   "total": 500,
   "items": [
     {
@@ -36,6 +36,19 @@
       "fecha": "2026-09-18T22:29:48+00:00"
     },
     {
+      "titulo": "Tricel proclamó a Gabriel Boric como Presidente electo - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVFtOWJ0MWdzR0w1dDhyVG1mVDZoelZuYS1Ibk1GUy1uZWJSRmFzaS1xOU5WVW9WbDdXLVlZNWc3VUdER1RjRGFscThIcFhFN1drbllRM3hZUEc2MWNsU05RU0pHZ3FWU2NNbHUwOFVYMlhyZ0NacUZQREdFb3E1YkN4TmVvdXpSU3NsU2IyVjcxeTdmQmlKWQ?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tricel proclamó a Gabriel Boric como Presidente electo&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Presidente",
+        "Servicio Electoral",
+        "TRICEL"
+      ],
+      "fecha": "2026-09-18T22:25:52+00:00"
+    },
+    {
       "titulo": "Exasesor de Camila Flores declaró que Percy Marín le habló de entrega de dinero a parlamentarios por ley de notarios - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT1EySDJtaEV1RWRBMU50QXZpRk1ZUTBBRi1hQm4zUldQM05HVlNBYUNTME1sMXJ5TzFHZlhaVVVQbUdOWFd5V1oxZ1NtOVhzczhfbW4yY0x6dTk4UG4zeXVjZkdWTk1lRzZORW5STEdiWFE5Z0piUmZHTEF3NEI1OHdLcEUyTGVRUWtTTFF0YXpnY0VEbVZibmRDLTUybGJfWTFjR1ZuSjJ1VHNmUDZXV0FIS2J3a2dkaERicXFMcklWaUo0czlTZtIByAFBVV95cUxNT1EySDJtaEV1RWRBMU50QXZpRk1ZUTBBRi1hQm4zUldQM05HVlNBYUNTME1sMXJ5TzFHZlhaVVVQbUdOWFd5V1oxZ1NtOVhzczhfbW4yY0x6dTk4UG4zeXVjZkdWTk1lRzZORW5STEdiWFE5Z0piUmZHTEF3NEI1OHdLcEUyTGVRUWtTTFF0YXpnY0VEbVZibmRDLTUybGJfWTFjR1ZuSjJ1VHNmUDZXV0FIS2J3a2dkaERicXFMcklWaUo0czlTZg?oc=5",
       "fuente": "T13 (vía Google News)",
@@ -57,6 +70,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-18T21:19:52+00:00"
+    },
+    {
+      "titulo": "Chillán Viejo celebró por tercer año consecutivo la Parada Militar",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-nuble/chillan-viejo-celebro-por-tercer-ano-consecutivo-la-parada-militar/2026-09-18/175431.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Chillán Viejo conmemoró este 18 de septiembre sus Fiestas Patrias con la tradicional Parada Militar, que se realiza por tercer año consecutivo en la explanada del Parque Monumental Bernardo O'Higgins.\nLa actividad reunió a las Fuerzas Armadas, instituciones de servicio y organizaciones civiles con el fin de rendir homenaje a la historia, las tradiciones y el compromiso con Chil",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-18T20:54:31+00:00"
     },
     {
       "titulo": "Presidente Kast llamó a \"celebrar con responsabilidad\" las Fiestas Patrias",
@@ -5603,28 +5627,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T21:34:47+00:00"
-    },
-    {
-      "titulo": "Por qué la primera dama entregó su vehículo en comodato a Presidencia y cómo será utilizado",
-      "link": "https://www.theclinic.cl/2026/09/14/por-que-la-primera-dama-entrego-su-vehiculo-en-comodato-a-presidencia-y-como-sera-utilizado/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El pasado 3 de julio se aprobó un contrato de comodato gratuito entre María Pía Adriasola y Presidencia que establece que la primera dama entrega a La Moneda un vehículo de su propiedad para su propio traslado y seguridad en el desempeño de su cargo. La acción se activó semanas después de que se restableciera el gabinete de primera dama y en el Gobierno descartan que la acción vaya en contra del r",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T21:16:49+00:00"
-    },
-    {
-      "titulo": "Perdió el fallo: La Moneda debe recontratar a jefa de repostería tras despido por \"falta de confianza\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUEZOMzJRVGtOM1NIeVhFamdUakhncGtRRDNOSkJPOWEtZlM5Q2VLN05fU29qYzZEQkxWLXllREo2bVkwZ3JEXzJGejhGejlPYzN0ZHhaNzhZV1Qtc1FnMjFqcGhLSjFDVUhyaklMWkFCMjlVVmpId0hwNDMwaWhOTURha19PQ2NpVWdQakJGNEVRZXJxTVVoNWNjWHFZMjRPcmlMdHVsOUxTRFR2aWZOVWhtMVlmQUtraWo3Um91T2JYbDZJQ2d2S2p5NGlNWEJlX0lBUzNtZUI0ejhYR0xuRjVpZ0ZWc0VhLXpDY0tNT001ZGo3S1RHVmdvcw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Perdió el fallo: La Moneda debe recontratar a jefa de repostería tras despido por \"falta de confianza\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T20:53:39+00:00"
     }
   ]
 }
