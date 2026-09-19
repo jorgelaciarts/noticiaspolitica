@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-19T14:01:57.035891+00:00",
+  "actualizado": "2026-09-19T14:16:41.730133+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "[Lo+Leído] Cecilia Piñera defiende a Boric tras llevar a su hija Violeta a la salud pública - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVWhCdjdnYUpuX0RBa3gxMng5bE43MHBNckkxX0JCOHpNVThmZTNnZE9uTTRoMTBkRmp1cU9lc3NnUXpvWTZsYnJON1B6WndvVHdyRlBBNmprQ1A1NG9aa0pHaXRmN25LVV9tbkxFeXN4YzdFamRSekYxMEFpTXlCeGNZdG9pZDJhRGl5d0NzSUliTWJnMi1vVXdPYlJEOGlUSTh4M1Y4WEt6aXVCcmdfcENBSi05V2FscEFJWkpqQmRHU1BaTnV2aEFGRkh4TDBJaXQwclNQOUw?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "[Lo+Leído] Cecilia Piñera defiende a Boric tras llevar a su hija Violeta a la salud pública&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-19T14:00:10+00:00"
+    },
+    {
+      "titulo": "Agustín Romero plantea sus reparos a desempeño del fondo de reserva estratégico previo a la Parada Militar - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdHhYVHVmLURzUV9YQ3NqMFZ6TUdxNkhwTXZsdkxvYlFaWG8xUXFoOEIyY1ZlSHBoZUJXdDYzYzlWRFZPaWQ0TTQ3dlNneTU1YTNtcHhTRjI1bWFSdy1KaXJnTFdaU0g2Qmctck5Bbngwbm5vQnhCNVpjWjZhWWJsYTQ3UlFkeEY5Q3BYMU5WUEtuTzRZZm9jemxzQThhN2trMFl4SXNtbC12Y3ltY3JMRF8xc3EzUHFoUXV2UzQxU3Y3SEtQVExVVlQwc2ZXOHBvdWxjeHYzdGZRMzVUNExFaWFEUHHSAYYCQVVfeXFMTjdGWUZKdERWZEo2akNWbVVxVl9FRUpSU3hjSGhRcU0wNGJYbURyak1jeGM0MW1xSXhEdTVTc1d0S2VmVHN4MUJubUhpUzJWdHptWGNLZFVibENBS2FWNjVqbzVhSUZfaGg3cmd0ZV82aGwtaWp5elFBMnhwSGFVcFhCQ296bWNDNlhNaml3MVo5S0d4Zks2RVJWUVJUbWd5dWFJVmRIaF9NdEpLTWdQWFVPVjE3aGhqMXNVaUplMlhHRWxBaW5mRTZnalpOY3YtN3REVGJwamxIdWIwa3pkRkkxMVRIOGdpUm5LSXVLTGtCekF5Ymp3Z0ZNcFlSZXhUSGctQWdsZw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Agustín Romero plantea sus reparos a desempeño del fondo de reserva estratégico previo a la Parada Militar&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-19T13:56:18+00:00"
+    },
     {
       "titulo": "Presidente Kast encabeza la primera Parada Militar de su Gobierno",
       "link": "https://www.lanacion.cl/presidente-kast-encabeza-la-primera-parada-militar-de-su-gobierno/",
@@ -5605,28 +5627,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-15T02:04:42+00:00"
-    },
-    {
-      "titulo": "Arrau prometió \"acción integral del Estado\" en Lo Espejo",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/arrau-prometio-accion-integral-del-estado-en-lo-espejo/2026-09-14/225646.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El ministro de Seguridad Pública, Martín Arrau, acompañó este lunes un operativo policial en el denominado \"barrio chino\" de Lo Espejo, y anunció una \"acción integral del Estado\" a favor de esta comuna capitalina. \nEn el lugar, el Grupo de Operaciones Policiales Especiales (GOPE) de Carabineros fiscalizó locales comerciales y a transeúntes, y detuvo al menos a cuatro personas (tres por infracción ",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-15T01:56:46+00:00"
-    },
-    {
-      "titulo": "Kast adelanta plan de emergencia laboral a timoneles oficialistas y comprometen celeridad legislativa - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNW1OSDRWYlFTc19La3pzLVZnVVFQQS1TYXF4UjFWU09nbzRhaTdXd0FMcE9XMUtMNUowc0taUWVvMHZTN1FpeTZ4c0VMWld2R2hIZ2l3RUFxWjdHLV8tdlBCcU1ZZ2ZRVjN3bXVOQzdQbmlzY2ZMaF9RUVdjdWtXUU9jQ2h0THBabVduc0pPSTU0dElna3NTQ1dYcEVNeW1PR1R6aXZGYVBBcnBMcTVUV3lOVUJWZDZiei01STI3WlhpRjBSd0JGWDE4ZFFmV3hBMHJhaGJDMzNhV2hENi1MRk5CT0JRSHVlQ21aNGhSd0F1dXpIaUh1blNWVWE3dw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast adelanta plan de emergencia laboral a timoneles oficialistas y comprometen celeridad legislativa&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-15T01:28:47+00:00"
     }
   ]
 }
