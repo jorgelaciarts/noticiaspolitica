@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-19T10:46:37.812426+00:00",
+  "actualizado": "2026-09-19T11:01:47.893895+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Columna de Marco Moreno: El 2028 comienza en 2027 para La Moneda",
+      "link": "https://www.theclinic.cl/2026/09/19/el-2028-comienza-en-2027-para-la-moneda/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "\"Hasta ahora La Moneda ha debido administrar principalmente su coordinación interna y su relación con el Congreso. En adelante deberá agregar una tercera dimensión: gobernar un territorio compuesto por autoridades que no son simples ejecutores de decisiones nacionales y cuyos incentivos serán cada vez más electorales\", dice Marco Moreno en su columna de esta semana, en la que aborda los desafíos p",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-19T11:00:00+00:00"
+    },
     {
       "titulo": "Volcamientos y llamado al autocuidado  marcan la primera jornada de Fiestas Patrias",
       "link": "https://laprensaaustral.cl/2026/09/19/volcamientos-y-llamado-al-autocuidado-marcan-la-primera-jornada-de-fiestas-patrias/",
@@ -2083,6 +2095,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-17T02:16:36+00:00"
+    },
+    {
+      "titulo": "“Otra cosa era con guitarra”: La paya de Kast en su debut en las fondas del Parque O’Higgins - latercera.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWZNRldPMFprZ1hBaG1CR0ZTZUZMTGZEdmJIWnl4Ui1yWXZCcmRGOU1xcmJLRm9DbU9uNENpZG1oaUFwTmR4Y2lVTzJ2QUdidlZQMkk0X19nRjQxaW40eE95bHZQaUdTMlZkbTFobW5DSjRDakw4V3NOT2hTZWNyNEJ4Z1Q5bmxPbHdoN1hsRi0tbFVGWXV3V2dPQy16cUtXNDFQeTJvWnlEQzd6aF9zLVVkeExQYjZKQXlxWUxIdUFCUnR5YU5ZRk93dU_SAe4BQVVfeXFMTzIxTjdUQnZGLWdkZXBlWFZNamVIbVdLQ193N3JDUDI2aVltTG82TlNOQm1IeGZ3bWxfM2RsWWF4dWlpY3hSN1ZXX3lvU202aGJEMVBRSGIxY1ZXcVpLbXhXemdVN3NSdU1aNVhlaUI1bVBnTW9PNGVnWUVNUEUwUUU4ZnFPOUJiQXN5eTJQT3VpdDVKa29lTDVETHRIV2gwX3h2TlpLUngtQ1hGRUo5UGw4RE9nWGo4Zng4Q3ZmaHQ3UUZHLWpseHl6bUpVVjFMTEFNYW5oYVVNMWpmdjJDM01Ga2Fyb1dvbDh4ZjdqQQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Otra cosa era con guitarra”: La paya de Kast en su debut en las fondas del Parque O’Higgins&nbsp;&nbsp;latercera.com",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-17T02:01:07+00:00"
     },
     {
       "titulo": "Con alusiones a Magallanes y al crimen, Desbordes advirtió que \"la soberanía está amenazada\"",
@@ -5604,28 +5627,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-14T22:53:00+00:00"
-    },
-    {
-      "titulo": "La Moneda Al Día: Presidente Kast defiende el “Bencinazo” - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTlJicHJVS0VxSHdkd2lTQXhjV2xVanRzbndFMEdXcWxxaDIxdzUxWWRYR1czZkp4T0o5N0VvSXUyeXRmRTJLbzFJUkc3TU5ZSHIxcTZlM1RPZ1ROenkxdzY4cXBNT2tmaDROcnFJM3pxNkRZdmxOcmM3cEY0QkduUWxxeFZMSi16WWtaV0F5cDB4S2V2MFQ2NFVJSTY?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda Al Día: Presidente Kast defiende el “Bencinazo”&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-14T22:30:00+00:00"
-    },
-    {
-      "titulo": "Emilia Schneider (FA): “Si se empuja la agenda educativa del Gobierno, terminaremos con un sistema más excluyente y desigual - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT2lJc1VRLVZpTmE1UnljX2l0U1JRT3p2SXVNWDRmQWFxeWhCNXlNNVUteVh3X3RnZVk0MXFMelZIaFV3RHpwbFVnOFI1SWJwMHJTenlvVkxpMFJDNnJhY2JaaWcyekZyU0xfdldmWDdHanRfZ25qNTJzOWN4RWl5Y3RUcDVmWE8tTllIei00a2RVYzFUM2RSQ3RHcC1qZzhpM3hIVWFQZEM1TDJ2UzAwMEszZlEweXZxQjBFZlFkaS1TTlFZWU85aDZJa2VKbV80VG0xVl9aaWpmeTc5cjJoa0ZDRmhVNEZfY1FF?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Emilia Schneider (FA): “Si se empuja la agenda educativa del Gobierno, terminaremos con un sistema más excluyente y desigual&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-14T22:19:02+00:00"
     }
   ]
 }
