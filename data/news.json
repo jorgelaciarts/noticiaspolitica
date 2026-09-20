@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T17:16:27.357181+00:00",
+  "actualizado": "2026-09-20T17:31:26.452062+00:00",
   "total": 500,
   "items": [
     {
@@ -68,6 +68,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-20T16:05:35+00:00"
+    },
+    {
+      "titulo": "Servel denunciará a más de 3,7 millones de personas por no votar en 2025",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/elecciones/servel-denunciara-a-mas-de-3-7-millones-de-personas-por-no-votar-en-2025/2026-09-20/130404.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Servicio Electoral (Servel) denunciará ante los juzgados de policía local a 3.760.261 electores que no sufragaron en las elecciones presidencial y parlamentaria de 2025.\nLa cifra fue entregada por el director del Servel, Raúl García, durante su exposición ante la cuarta subcomisión mixta de Presupuestos. \"En ambas elecciones hemos contabilizado 3.760.261 electores que no sufragaron y que van a ",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-09-20T16:04:04+00:00"
     },
     {
       "titulo": "Otra encuesta ratifica el mal momento de Kast. Criteria asegura que aprobación del presidente cayó a su nivel más bajo desde que asumió 29%. Rechazo llega al 59%",
@@ -5622,18 +5633,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-15T18:47:54+00:00"
-    },
-    {
-      "titulo": "Captan a concejal UDI bailando La Consentida tras pedir que la canción fuera “vetada” en Fiestas Patrias - adnradio.cl",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcmpOTE9SazZpYW8wcHRtUm1HTXJpcEU5VlVOMWxvV3c1a1pSU0wzSUZyMl9SU1pOc1o3OS1xUi1OTVNRR2hIMHNiRGNoVGVkdzRRbl9WSDExSW5XOW9sWDRKR0UtQ2tJS2NtYktsNmJMcGFNUVpmVDhlQ3FrdGh4Mll2QllFck5xdWNvenJ2c2NaLXIxellNY3Y4dGZEM2dpdGZ4Nm5EVWFZTkpUcl9lLTVPa0YwVV9jbHJ6bnRuUUc2OE9ZZTYzMkhjT1ZjbnEyWmw1edIB6AFBVV95cUxOeU5OWXdDdnpNeXYtbVZNNERRZDRFOWxrTnR3SXRVeDl1SUFaalBKYUxKYUl4X01QWlptMGJMSVNxZUhZdUdTZ3FHbmQ2N0J3eG5GOUZfcHE4Nm5waEp3eF9nSXpuUFhNRElnTC1RM3ZyaFRvYzZ5LXRPM1pab2VQVUc5c1h3M1JybFNISGszV2xQSzhYM0JNbV9WRTJNajFEMW1qNEtFSXJMVkhxSkE2bWhIZVFsMWhjcURUTmFSbDlvcXVaUXpKLUp4RFRqX1hLUTdidFZkVm9ZaXlTZ3lIRzdRYWh1cDFf?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Captan a concejal UDI bailando La Consentida tras pedir que la canción fuera “vetada” en Fiestas Patrias&nbsp;&nbsp;adnradio.cl",
-      "categorias": [
-        "Partidos políticos",
-        "Concejales"
-      ],
-      "fecha": "2026-09-15T18:15:09+00:00"
     }
   ]
 }
