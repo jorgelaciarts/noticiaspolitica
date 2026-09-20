@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-20T16:01:45.754099+00:00",
+  "actualizado": "2026-09-20T16:09:11.744984+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Otra encuesta ratifica el mal momento de Kast. Criteria asegura que aprobación del presidente cayó a su nivel más bajo desde que asumió 29%. Rechazo llega al 59%",
+      "link": "https://cambio21.cl/politica/otra-encuesta-ratifica-el-mal-momento-de-kast-criteria-asegura-que-aprobacion-del-presidente-cayo-a-su-nivel-mas-bajo-desde-que-asumio-29-rechazo-llega-al-59-6ab001f7e5214a70d33c030d",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-20T15:59:11+00:00"
+    },
     {
       "titulo": "Otra encuesta ratifica el mal momento de Kast. Criteria asegura que aprobación del presidente cae a su nivel más bajo desde que asumió 29%. Rechazo llega al 59%",
       "link": "https://cambio21.cl/politica/otra-encuesta-ratifica-el-mal-momento-de-kast-criteria-asegura-que-aprobacion-del-presidente-cae-a-su-nivel-mas-bajo-desde-que-asumio-29-rechazo-llega-al-59-6ab001f7e5214a70d33c030d",
@@ -1095,6 +1106,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-19T11:19:56+00:00"
+    },
+    {
+      "titulo": "Alcalde critica lento proceso: Nulo avance en declaratoria de Torres del Avellano como BNP - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9SNzZpYkliNFQxWF9WWVdETkVRUTY5UjRpcUZOb2NPOS1qb19BWXplLTNvOVdTYlJhR0NVRk1wZDFVNzA2T1lWcERfY2o4LXdfR0lXNmhNMndXa29ORC1LeTVhZ2ZLdmU4Zy1EUWlPOTRPM2l2?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Alcalde critica lento proceso: Nulo avance en declaratoria de Torres del Avellano como BNP&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-19T11:03:44+00:00"
     },
     {
       "titulo": "Crisis financiera de la educación municipal: Críticas apuntan a inoperancia e ineficiente gestión del alcalde - El Divisadero",
@@ -5612,29 +5634,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-15T17:00:00+00:00"
-    },
-    {
-      "titulo": "Gobierno: \"Patricio Guzmán construyó un legado que trascendió nuestras fronteras\"",
-      "link": "https://www.cooperativa.cl/noticias/magazine/cine/cine-chileno/gobierno-patricio-guzman-construyo-un-legado-que-trascendio-nuestras/2026-09-15/134907.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno de José Antonio Kast, mediante el Ministerio de las Culturas, las Artes y el Patrimonio, reaccionó este martes al fallecimiento de Patricio Guzmán, destacando al cineasta y documentalista como una \"figura fundamental del cine y la cultura nacional\".\nMediante una publicación en las redes sociales de la cartera, el Ejecutivo calificó al Premio Nacional de Artes de la Representación y Aud",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-15T16:49:07+00:00"
-    },
-    {
-      "titulo": "María Pía Adriasola presta gratis su 4Runner a La Moneda, pero Presidencia asume mantención, seguro y gastos de uso",
-      "link": "https://www.elciudadano.com/actualidad/maria-pia-adriasola-presta-gratis-su-4runner-a-la-moneda-pero-presidencia-asume-mantencion-seguro-y-gastos-de-uso/09/15/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\n Según el contrato de comodato gratuito,  la 4Runner será empleada para el traslado y seguridad de María Pía Adriasola durante el desempeño de su cargo de primera dama hasta el 11 de marzo de 2030 y  la Presidencia deberá cubrir todos los gastos que sean necesarios para el uso y mantención del buen estado del vehículo, incluyendo una póliza de seguros.\nLa entrada María Pía Adriasola p",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-15T16:42:54+00:00"
     }
   ]
 }
