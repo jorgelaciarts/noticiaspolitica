@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T01:01:42.031477+00:00",
+  "actualizado": "2026-09-20T01:16:29.123622+00:00",
   "total": 500,
   "items": [
     {
@@ -635,6 +635,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-19T11:00:00+00:00"
+    },
+    {
+      "titulo": "Vecinos y alcalde exigen respuestas por obras inconclusas en acceso norte a Cochrane - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qZzV6eFAxeHAyaHFESFNyeE9aOTNZLXFjdlNNZUo2TEp3QWRndVRPRUhPY1pWYjd1a3kwaTVsR1cwcVNKN09CQzBybldzNHFQS2NCdVdNazVGZFdqUS1ENC0tVFFSQW1oUllUX2Z3LTdjaWla?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Vecinos y alcalde exigen respuestas por obras inconclusas en acceso norte a Cochrane&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-19T10:13:54+00:00"
     },
     {
       "titulo": "Volcamientos y llamado al autocuidado  marcan la primera jornada de Fiestas Patrias",
@@ -2761,6 +2772,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-17T04:14:14+00:00"
+    },
+    {
+      "titulo": "Diputados evalúan primer semestre de Gobierno de Kast - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBucm44aHFWR0x4VExQYzVpeXNnYXJ6TUN3RXZMdVBFVkxMNllfWlZWb0lCeFM4a0d4bnU4bm53UHlCNGdsTVBGWEhqQl9uUUpzMGMwYlNNZ1hPZlI2M0RNRnpLUC12UUJtTk40bWoxUTZuanQ2?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Diputados evalúan primer semestre de Gobierno de Kast&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-17T04:08:13+00:00"
     },
     {
       "titulo": "Caso audios: separan arista de Andrés Chadwick de la causa principal",
@@ -5612,28 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-15T13:19:18+00:00"
-    },
-    {
-      "titulo": "Senador Castro advierte que solo 20 residencias de larga estadía dependen del Senama",
-      "link": "https://www.lanacion.cl/senador-castro-advierte-que-solo-20-residencias-de-larga-estadia-dependen-del-senama/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "Tras la tragedia de Pitrufquén, donde murieron 16 adultos mayores, el senador Juan Luis Castro (PS) pedirá que se invite al Ministerio de Salud y al Servicio Nacional del Adulto Mayor (Senama), a la comisión sectorial para que entreguen los antecedentes del caso.Para el legislador, miembro de la Comisión de Adulto Mayor de la Cámara [&#8230;]\nThe post Senador Castro advierte que solo 20 residencia",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-15T13:09:29+00:00"
-    },
-    {
-      "titulo": "Alcalde Alessandri pidió al Gobierno corregir reglamento de Seguridad Municipal",
-      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/alcalde-alessandri-pidio-al-gobierno-corregir-reglamento-de-seguridad/2026-09-15/095803.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El alcalde de Lo Barnechea, Felipe Alessandri, expresó su preocupación por el reglamento de la Ley de Seguridad Municipal ingresado por el Gobierno a la Contraloría, específicamente porque establece que el incumplimiento de determinadas obligaciones podría configurar una causal de cese en el cargo para los jefes comunales.\n\"Quienes hemos respaldado decididamente la agenda de seguridad del Gobierno",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-15T12:58:03+00:00"
     }
   ]
 }
