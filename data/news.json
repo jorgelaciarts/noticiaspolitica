@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-20T12:19:59.593164+00:00",
+  "actualizado": "2026-09-20T12:31:48.301102+00:00",
   "total": 500,
   "items": [
     {
@@ -115,6 +115,17 @@
         "Senadores"
       ],
       "fecha": "2026-09-20T08:00:00+00:00"
+    },
+    {
+      "titulo": "Criteria: Aprobación del presidente Kast cae al 29% y desaprobación alcanza el 59% - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ1ozMzVGS0gxQVlpQmJIbXItZU5SaVhxUnJRUXVpQ3JEOUo1ZjFmX2tJMWRvanFXQXpjWEVJREstQjZvV3Y0dW13am9hc0plMzZQYkRpVHNRdnlXRW1yMWhTODBSdDJyWW4xUE5YTm1FUWdYUEdUcy1iVG4wczZoVUg3RnJnekhuZ3JiWG1VcW4tWjlUakh0WGNQSExtQ3lPWFpNT3ZqcXhOREpXOENmOURtaTUxOUs3bzlF?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Criteria: Aprobación del presidente Kast cae al 29% y desaprobación alcanza el 59%&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-20T06:23:00+00:00"
     },
     {
       "titulo": "El boicot del gobierno de Kast a la Presidenta Bachelet pasará a la historia de la infamia: Las duras críticas de la oposición tras retiro de exmandataria de la carrera a la ONU",
@@ -5627,17 +5638,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-15T14:37:42+00:00"
-    },
-    {
-      "titulo": "La soterrada disputa que se armó en el PS por el cupo vacante que dejó Camilo Escalona en la secretaría general",
-      "link": "https://www.theclinic.cl/2026/09/15/la-soterrada-disputa-que-se-armo-en-el-ps-por-el-cupo-vacante-que-dejo-camilo-escalona-en-la-secretaria-general/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La alcaldesa de Quinta Normal, Karina Delfino, es vista como la heredera \"natural\" del cargo que dejó el histórico dirigente socialista, pues forma parte del lote que lideró Escalona durante años, la Nueva Izquierda. Sin embargo, dentro del partido apuntan a que habría una inhabilidad que no le permitiría asumir: el liderar los fondos públicos de una comuna y de un partido político. \nThe post La s",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-15T14:30:40+00:00"
     }
   ]
 }
