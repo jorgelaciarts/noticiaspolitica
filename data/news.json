@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T03:31:44.149705+00:00",
+  "actualizado": "2026-09-21T03:46:36.587661+00:00",
   "total": 500,
   "items": [
     {
@@ -79,6 +79,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-20T23:24:00+00:00"
+    },
+    {
+      "titulo": "Niño de 9 años murió tras caer de un noveno piso en el barrio Franklin",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/nino-de-9-anos-murio-tras-caer-de-un-noveno-piso-en-el-barrio-franklin/2026-09-20/201945.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un niño de 9 años murió la tarde de este domingo tras caer desde el noveno piso de un edificio residencial ubicado en General Gana con San Diego, en el barrio Franklin, comuna de Santiago.\nPese a que personal de emergencia coordinó su traslado inmediato al Hospital San Borja, el menor -de nacionalidad dominicana- falleció debido a la gravedad de las lesiones provocadas por el impacto.\n\"Queremos la",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-20T23:19:45+00:00"
     },
     {
       "titulo": "Foro de Política Exterior respalda a Bachelet tras retiro de carrera a la ONU y cuestiona decisión del gobierno de Kast - La Tercera",
@@ -5620,17 +5633,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-15T22:34:59+00:00"
-    },
-    {
-      "titulo": "Kast se reúne con presidente de CAF: entidad dispondrá USD 6.000 millones para proyectos en Chile - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOXR2VjlNYVNRUkpSbmVMM0tfSF83NlpsRjJ6ejBBMll1MmlWZVM2NzVEYjFSdUt3YU1xU3dqbkF3eDI0RmdfZjdnd3Z5WmhldXRWQkFFWkZyTkMwVS1BOGVrbzFycHJqeGhBSk1mLVdObWpmb2Q0QlItc2g0OHU4T1gzR1ZiUDg1VmpwQm1ZeFFYV1pmOENEUm01S2NTVUJvQjdKMnhWRjlqRTZKWUZLTDdNSEFWaWZVVXVUM1FWUG9iQ0FwNmZiQkNxZnJ4NUtXT0pJYlhUamxfRnFCb3h5eVdoREswMmtoTlkxcQ?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast se reúne con presidente de CAF: entidad dispondrá USD 6.000 millones para proyectos en Chile&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-15T22:30:58+00:00"
     }
   ]
 }
