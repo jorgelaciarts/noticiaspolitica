@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-21T20:01:49.272570+00:00",
+  "actualizado": "2026-09-21T20:16:54.207613+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "liderazgo de Kast - elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wNDdkUFZ5X1FLVEQ0LUd1UWJGNUNoZDBHMHFsaGl5X21wbnVRbW5LZmtaRmFuU0xXN2xxMkdHLU8tWkFPSkY2YW9RdWNNTGowVU9SYl96eDBEZnhTQlBNRFJrUHRyQnc?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "liderazgo de Kast&nbsp;&nbsp;elobservatodo.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-21T20:03:23+00:00"
+    },
+    {
+      "titulo": "Representantes de Metro se reúnen con gobernador de Antofagasta y alcalde de Mejillones para avanzar en proyecto de tren urbano - df.cl",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTBpTDdKMEYyZXg5QmdMeWtZZlhNelQwdkNZay00eVh1MlVONGFPZ1lLME4yYU5Cc1ExeWZXV1hwRE8wUTN1N1Ayb2R3Q3ZUaHNPWGN2V2VDRmtmMnNJRFJySGNHNmNTLUQ5d1o2NHc0Z0V4QzBRSnpjOVc4X2MwZjM1c2R3NlAxQkIxNy1aM2pSZG5JUnRIYkFLYnp0SW84NmhZaXpOZTFBYWZBdTBxOTV3?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Representantes de Metro se reúnen con gobernador de Antofagasta y alcalde de Mejillones para avanzar en proyecto de tren urbano&nbsp;&nbsp;df.cl",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-21T19:45:00+00:00"
+    },
     {
       "titulo": "¿No votaste en 2025? Servel denunciará a más de 3,7 millones de electores que no ejercieron su derecho a sufragio - Diario Concepción",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRjhPLTJrYkZfTm9DUlJIMGM4cmRQSXRzTW5Qa3YzUTNRZ3R0WEFLd016MFhWTThtd09iLWlIb2w4U2VtTEowd0ltczEzeWJ2eVk2VEtyYVMydEE1LVhxWEhBS1h0czBDcTJvVGVQQnI5S183N01ZSEgzVFdXc1M2N3lNZmVNVGo5aG9WRUp4MWJxSDVmWmMtNENwbElsZTUtcVhyRWxnN2dIUQ?oc=5",
@@ -5610,33 +5632,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-16T17:46:54+00:00"
-    },
-    {
-      "titulo": "Chile Day: Quiroz apuntó a reactivar la economía y la aprobación de reforma al mercado de capitales",
-      "link": "https://www.cooperativa.cl/noticias/economia/chile-day-quiroz-apunto-a-reactivar-la-economia-y-la-aprobacion-de/2026-09-16/143650.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Chile Day en Europa, que inició en Madrid, concluyó este miércoles en Londres, donde el ministro de Hacienda, Jorge Quiroz, apuntó a la reactivación de la economía al entregar una serie de anuncios para dinamizar la inversión y bromeó con una eventual aprobación de la reforma al mercado de capitales.\nEl evento contó con la participación de empresarios y ejecutivos que buscan invertir en Chile, ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-16T17:36:50+00:00"
-    },
-    {
-      "titulo": "Presupuesto 2027: Oficialismo apunta que proyecto debe ser focalizado en la creación de empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/presupuesto-2027-oficialismo-apunta-que-proyecto-debe-ser-focalizado-en/2026-09-16/142135.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast se reunirá este miércoles en La Moneda con los ministros de Interior y Hacienda, además del director de la Dipres, para definir los marcos del proyecto de Ley de Presupuesto 2027 que será presentado al Congreso; en paralelo, a la petición del oficialismo para que este sea enfocado en la creación de empleo.\nLa actual Administración recibió el país con un desempleo de",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-16T17:21:35+00:00"
     }
   ]
 }
