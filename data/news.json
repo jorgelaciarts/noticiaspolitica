@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-21T12:01:45.222672+00:00",
+  "actualizado": "2026-09-21T12:16:38.146657+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast aterriza en Nueva York para participar en su primera Asamblea General de la ONU",
+      "link": "https://www.lanacion.cl/presidente-kast-aterriza-en-nueva-york-para-participar-en-su-primera-asamblea-general-de-la-onu/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast aterrizó este lunes en Nueva York, Estados Unidos, para participar de su primera Asamblea General de las Naciones Unidas. Durante su visita a EEUU, que se extenderá hasta el jueves 24 de septiembre, el Mandatario tendrá reuniones bilaterales con autoridades extranjeras. Kast viajó a la 81 Asamblea acompañado del canciller [&#8230;]\nThe post Presidente Kast aterriza ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-21T12:05:51+00:00"
+    },
     {
       "titulo": "Excancilleres chilenos culpan al gobierno de Kast por dañar fallida candidatura de Bachelet en la ONU - biobiochile.cl",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOc2RXdVc2c2t6SWw1ZU9ucEdFbjdGNkxwTXhyRFRMd0tLUDl4cHo1MUtYYzhGSmt1d1hRX1czTURtWkJ4bGF5ZGI0STQ4V2hIVU1IZm55dnpWU2xrR1pvVlpHRDhyV3JOV2drSGpSZlhyRXhZODc4bjJ4akZodlRkUlQ4SW5DeGxBcGQyRHRsTDJuMVpqbDdoX3R2UWxBcDRBdDF6VE1GZ3U2RzQ1aTAyVGlvZGdieG11RWcxR2N1Wk1sSDdfY1Mwb3IzMHZTVGJzbXFjWi0zT3pyNnhaUm90eW53bVZ3andNQU0tN25DVHRYTC1sRzVlY0VXZUl4QQ?oc=5",
@@ -157,6 +169,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-21T10:22:56+00:00"
+    },
+    {
+      "titulo": "Cita con Zelenski y opción de acudir al Escudo de las Américas: Kast parte a Nueva York a su primera ONU - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPY0tkMWJzR0FoY0drQXlMMjE2TndwT0g1Q0plSUtXY2lWQmlsbXQtQ0ozM05BczJzNWN3LUxra3RqOFMxQlNlVG8yaHRmUi1SeW83dUY4MHJPeHJuclF6dEJHcjdUNDFOYmE3eHV4MjJrNXRleUdSa1BUaFlPYk5pUDc4WUN3YlI5U3BCSmM4S1hRSW1WR1pwV0NHeGJrZWswWVhmdExFWDlOb3pVaEN4eDl5Q09VZFo2ZWpZWmZaeTdUdm1teUo2U29wa0NvUTRaaWk3SXhmVGlqNGFFaVJUMmlKOW_SAYYCQVVfeXFMT0hqYnRFVjZkZkptQzZScFAwaE5ZRS1QTTE4MUR2WkFZUlFoNndIUkpQMTRPdXNKSWFZUm0tRGxsckl2WGliQUtOcDMtR0dQaUUtV09URzhEUlJhUFdHM2l5SW9ONVFXWlpkQ3lXeC1jU0diNFBpUTdtMzJFUEo4S0x3TVR2UXprUEZZT3V2RUFZS2VvN2JPajRwODJvY3NXQVR3ZFZaWTlDRG5sQl9fWDlwQTdZVXZydEszSXRWZ3JOU240WThpLWFHLTc4Rk1zZ0piQU5La2VXanlJU01CeDJMYUEtTnhDVUdRQzFzdXdQNnRhcHVMcEJ6Q0RmN2xCVW5iOXBhQQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cita con Zelenski y opción de acudir al Escudo de las Américas: Kast parte a Nueva York a su primera ONU&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-21T09:00:01+00:00"
     },
     {
       "titulo": "La agenda del Presidente Kast en Nueva York / Estudiantes del INBA aseguran que otros menores los amenazan para que se encapuchen - El Líbero",
@@ -5609,31 +5632,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-16T11:05:38+00:00"
-    },
-    {
-      "titulo": "Claudio Orrego se reunirá con José Antonio Kast tras fallo del Tricel que rechazó su destitución - Radio Pauta 100.5",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY0owZXdwaG9Lb3NCS0c4UVZRd1ZBM2FxT09nVFlnTHJyNjJuSmJWOG9fMXZFUFkxZkZqMGNxN2p5enBPc1BSSzJiREljaFBXTUVhSXRYZ1UycWhnbWlxX0ttcTJPUWEtWlkxdDdNSllMWG1VNUVFRkVQRkxiRFpsTUswQ1JQWkhSSUcyUDRUdTBXX1l2clpGblAxOXAxNkRYakpwR2F4bzVsTGlSZ0ktYklSeHl1VUVfbndha1Z5Wnl1YU0?oc=5",
-      "fuente": "Pauta.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Claudio Orrego se reunirá con José Antonio Kast tras fallo del Tricel que rechazó su destitución&nbsp;&nbsp;Radio Pauta 100.5",
-      "categorias": [
-        "Presidente",
-        "TRICEL",
-        "Diputados",
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-16T10:45:16+00:00"
-    },
-    {
-      "titulo": "Entre vasos rotos se coronaron los garzones más  veloces y la mejor empanada de Punta Arenas",
-      "link": "https://laprensaaustral.cl/2026/09/16/entre-vasos-rotos-se-coronaron-los-garzones-mas-veloces-y-la-mejor-empanada-de-punta-arenas/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Con la Plaza de Armas Benjamín Muñoz Gamero repleta de público y un día favorable, la Municipalidad de Punta Arenas desarrolló este martes una jornada de celebración de Fiestas Patrias que tuvo como protagonistas al tradicional concurso de la Mejor Empanada Criolla y a la Carrera de Garzones, actividades que convocaron a emprendedores, trabajadores gastronómicos...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-16T10:03:04+00:00"
     }
   ]
 }
