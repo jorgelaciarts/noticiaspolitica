@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T23:31:20.424570+00:00",
+  "actualizado": "2026-09-21T23:46:41.872001+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-21T23:28:49+00:00"
+    },
+    {
+      "titulo": "Subsecretario Segegob y relación con los alcaldes: \"A veces malentendidos generan ciertos roces\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnR4WjE3UllZbTZXS0hoUnZFVjZvemZEMzlZTFA0WWRzMHlfel9MR2VoelJfMGR6d0tJMFh0UnVQdGIzTTBYeGI5N3hCejQ3V1lEUGl2RnlzYk9GS1R5Y3liY0VSTkJQdHQ3WFZ0N2dxMmx6dnVOWWN3WDBOSzljMmdkRl9IbzZ5VklBeEVuNUJQUlZ6OTVsQW12X0FEeEVYX003WEVnc1pYbzZTOXFOUVNJczExY2JhYlE?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Subsecretario Segegob y relación con los alcaldes: \"A veces malentendidos generan ciertos roces\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-21T23:15:00+00:00"
     },
     {
       "titulo": "\"Muchas gracias, presidente\": el diálogo que marcó el espaldarazo de Kast a canciller Pérez - BioBioChile",
@@ -5623,17 +5634,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-16T21:46:56+00:00"
-    },
-    {
-      "titulo": "Corte de Apelaciones de Coyhaique rechazó recurso de amparo de senador Calisto en causa por fraude al Fisco",
-      "link": "https://www.lanacion.cl/corte-de-apelaciones-de-coyhaique-rechazo-recurso-de-amparo-de-senador-calisto-en-causa-por-fraude-al-fisco/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Corte de Apelaciones de Coyhaique rechazó el recurso de amparo presentado por el senador Miguel Ángel Calisto, imputado como autor del delito de fraude al Fisco, en contra de la resolución que desestimó la ampliación del plazo de investigación y la cautela de garantías alegadas por la defensa del parlamentario. En fallo unánime, la [&#8230;]\nThe post Corte de Apelaciones de Coyhaique rechazó re",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-16T21:22:37+00:00"
     }
   ]
 }
