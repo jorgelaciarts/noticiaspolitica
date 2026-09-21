@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-21T00:16:46.083486+00:00",
+  "actualizado": "2026-09-21T00:31:28.836083+00:00",
   "total": 500,
   "items": [
     {
@@ -946,6 +946,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-19T17:47:00+00:00"
+    },
+    {
+      "titulo": "El problema no es el nombre sino como se eligen: Piden la renuncia a un nuevo Seremi y van 50 altas autoridades del Gobierno que han sido desvinculadas. Un despido cada 3,8 días de Kast",
+      "link": "https://cambio21.cl/cambio21/el-problema-no-es-el-nombre-sino-como-se-eligen-piden-la-renuncia-a-un-nuevo-seremi-y-van-50-altas-autoridades-del-gobierno-que-han-sido-desvinculadas-un-despido-cada-3-8-dias-de-kast-6aaec18db5578518b01dabfd",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-19T17:27:10+00:00"
     },
     {
       "titulo": "El problema no es el nombre sino como se eligen: Piden la renuncia a un nuevo Seremi y van 50 altas autoridades del Gobierno que han sido desvinculadas. Un despido cada 3,8 días de Kast",
@@ -5619,18 +5630,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-15T21:36:31+00:00"
-    },
-    {
-      "titulo": "Seremi fue despedido por desgraciada analogía sobre la tragedia de Pitrufquén",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/seremi-fue-despedido-por-desgraciada-analogia-sobre-la-tragedia-de/2026-09-15/182900.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Ministerio de Salud informó este martes que exigió la renuncia del médico José Bravo Burgos al cargo de secretario regional ministerial en La Araucanía, a propósito de lamentables declaraciones que formuló respecto al trágico incendio que el fin de semana costó la vida a 16 personas en Pitrufquén.\nEn medio del debate sobre la fiscalización estatal a los Establecimientos de Larga Estadía para Ad",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-15T21:29:00+00:00"
     }
   ]
 }
