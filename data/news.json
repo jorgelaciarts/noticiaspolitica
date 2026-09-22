@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T00:31:43.529412+00:00",
+  "actualizado": "2026-09-22T00:46:42.770470+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T00:30:12+00:00"
+    },
+    {
+      "titulo": "Presidente Kast confirma que asistirá a cita de Trump por el Escudo de las Américas - elmostrador.cl",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTUVqZE96NU1HdEhzclBDMGgwcG5aUkNMVzhNdy1GRk9KYnVRdmpxaGFzd0wxTThtdmgxUUFPWllBQTJyQktIMWJmcXZGQnVTNG12cnRiUVBxNmlSZFlQWlJOZUc1QnctYVNVdjFwYkhVQng1Q2hQQkNXcExtSHgtRHlZY3BhUmZucE55R2w3VVhDMjNNRnZPcnVKcE5TVGFYOWJxcmJ4X2Y3b2FpcEFRbDRwQ2xVZEdqcUU4bEYyOGt3dV94X2szSzVLWDRlOVNrX0E?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast confirma que asistirá a cita de Trump por el Escudo de las Américas&nbsp;&nbsp;elmostrador.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T00:29:08+00:00"
     },
     {
       "titulo": "Hijo de Orlando Letelier pide a Kast agilizar extradición de Fernández Larios y llama al exagente de la DINA a “no ser cobarde” - CNN Chile",
@@ -5622,17 +5633,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-16T22:39:12+00:00"
-    },
-    {
-      "titulo": "El debate interno en el FA por el salto de exfuncionarios del gobierno de Boric al mundo privado - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnBPcWpJZUZJYkUxM2hJYlcxQWtyRkZfYWJXc1BIeU5TZDFKZkZRdjZMdW50NEJWLXc3OTdlZVZDTHZUV2hlZjlKRnZ5VVlQVGRoQlFCUWxhcEtEbHNDcVQtdjJ3T1ptU2Q1U2JfVVFIZWpxM3R4TTV4SjZmQkNpU1drSGczeC11TTg2OElkay1EczRHcWFWT3htT2xQNEk4TU5jUGt0S0cyVl9EMUJCa0RLWlAyX3JnMk4tYk9WYW1vNDFQQnA4eQ?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El debate interno en el FA por el salto de exfuncionarios del gobierno de Boric al mundo privado&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-16T22:18:00+00:00"
     }
   ]
 }
