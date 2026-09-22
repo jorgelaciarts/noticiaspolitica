@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-22T22:31:29.142737+00:00",
+  "actualizado": "2026-09-22T22:46:37.408416+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast se reunió con Volodímir Zelenski en el marco de la Asamblea ONU",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-se-reunio-con-volodimir-zelenski-en-el-marco-de-la/2026-09-22/192821.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T22:28:21+00:00"
+    },
     {
       "titulo": "Derrota oficialista en la Cámara: Rechazada reforma constitucional que ampliaba plazo de detención en expulsiones administrativas",
       "link": "https://www.elciudadano.com/chile/derrota-oficialista-en-la-camara-rechazada-reforma-constitucional-que-ampliaba-plazo-de-detencion-en-expulsiones-administrativas/09/22/",
@@ -5606,17 +5617,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-18T15:28:44+00:00"
-    },
-    {
-      "titulo": "Damnificados de El Olivar llegan a La Moneda y piden a Kast intervenir por viviendas paralizadas - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa05MOHVJX2ZqaVNuU3M1VUpsZG1wbjBmVEl3TUhiOTdldFVsc0ptSlVubTZHRTNzU1kzLWRBX1BTT2N0Sk9pMTk2UTZaenVkdWxEdTN0YUJrdWJqWFlzbEI1Y2JPWWpmRldUakR5UUlYNVhuVGYwci0tLTN6QmVUWDd1Z1Bpa3RMc1ktcHZ6Z0FhZzZJQUV3MHZjRkZES1Z3aDBpeWVNSVR2OVNFUWxFakJPSE13YlROS0tlbU1LTQ?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Damnificados de El Olivar llegan a La Moneda y piden a Kast intervenir por viviendas paralizadas&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-18T15:02:52+00:00"
     }
   ]
 }
