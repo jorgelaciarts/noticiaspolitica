@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-22T09:31:30.977054+00:00",
+  "actualizado": "2026-09-22T09:46:44.915517+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-22T07:46:45+00:00"
+    },
+    {
+      "titulo": "Frente Amplio y empleo - Diario El Mercurio |",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ0NmRVk4dVBqeDVTSHZSV3NmMnBQRkJtaGVQV1R1N1lyMzFRTWV6ei1rUXhXdDg4WEhnTVZ1NTVlYTZSNHI1R05BSmNablA5ejU1SDdDNENTSElNY2o3OU5nT2FCYTVyaHM4a0FVYzVEY29lYmNRTEpJQ2puRTVkU3QxYVM?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Frente Amplio y empleo&nbsp;&nbsp;Diario El Mercurio |",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-22T05:53:14+00:00"
     },
     {
       "titulo": "Kast afirmó que mantiene \"respeto\" por Bachelet y que espera reunirse con la expresidenta",
@@ -5624,17 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-17T01:01:03+00:00"
-    },
-    {
-      "titulo": "Presidente Kast dio por iniciadas las fondas del Parque O’Higgins con tradicional pie de cueca - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUnlQWldycE95SEpfa3dfWThTcWdLa0NvX2xSSEhHcWFya1o4OEhyc2ltaFJKQXBkejRQTUZyQ0JlTUtUZG9LN05CN0xUNkEyQnBBcTVURnJmaFVEcVh1UnktUWRKeFduc2ZfNExBMmdLRWlXUlBDaXdHRFdLaDdqR2lVdzFSVlZ4YzM5bXlyMk9laTZQMGlYcmhMY2piR2FZRzdOcXFYWGhpUjRfVjFjdGlPOVhyMEQzMkNSM3NhMlMtcWE1bGNHSdIB3AFBVV95cUxNWE0yel9mY0s0Q250Um1veDRlc1VmVFQ0ZF9oRTVudmhRaWFubTExYzNuVXJDYV9oNWFRTTF2RVBBV0NzbUpzM1ppS01NUHgyN0h6SjF4MDJLQjh6TTZxWjd1bHpUZ29BUG5KQ2ppQnJ6Tk12Sy1ia05CbG1FOHJ1WXFWVDlUTnhseXZfbWlPSmJYOHRUU2NrQUw1RGNsV1hicjlRdGVOVkppNzN3cHZORG1QYVdNSm93YXpUU3Q4YWNSYm9xdFNKVDhENE9vdFVXaVRFTnlpVnNSU1FX?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast dio por iniciadas las fondas del Parque O’Higgins con tradicional pie de cueca&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-17T00:58:50+00:00"
     }
   ]
 }
