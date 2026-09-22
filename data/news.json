@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-09-22T20:31:31.576560+00:00",
+  "actualizado": "2026-09-22T20:46:38.936396+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Feria Laboral de San Carlos reúne a 15 empresas y ofrece más de 1.100 puestos de trabajo",
+      "link": "https://ladiscusion.cl/feria-laboral-de-san-carlos-reune-a-15-empresas-y-ofrece-mas-de-1-100-puestos-de-trabajo/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Feria Laboral de San Carlos ofrece más de 1.100 puestos de trabajo y reúne a 15 empresas Con una amplia participación de empresas, instituciones y personas en búsqueda de empleo, se desarrolló la Segunda Feria Laboral de San Carlos, iniciativa organizada por la Municipalidad de San Carlos a través de Oficina Municipal de Información Laboral [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-22T20:35:14+00:00"
+    },
+    {
+      "titulo": "“¿Por qué no hacemos dos turnos en obras públicas? Esto lo venimos pensando hace tiempo”: La fórmula que el Gobierno evalúa para acelerar proyectos y generar más empleo",
+      "link": "https://www.theclinic.cl/2026/09/22/por-que-no-hacemos-dos-turnos-en-obras-publicas-esto-lo-venimos-pensando-hace-tiempo-admitio-el-ministro-de-economia/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "En una intervención ante los senadores, Daniel Mas se refirió a una propuesta del economista Joseph Ramos que planteaba generar turnos en obras ya licitadas, listas para construir. Turnos de 24 horas fuera de las zonas urbanas y de 12 horas en las urbanas, de lunes a sábado.\nThe post “¿Por qué no hacemos dos turnos en obras públicas? Esto lo venimos pensando hace tiempo”: La fórmula que el Gobiern",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-22T20:34:28+00:00"
+    },
+    {
+      "titulo": "Gobierno propone al Senado como directores de TVN a Pedro Huichalaf (PPD) y Marcela Sabat (RN) - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlpxRUxwbVRTX2RFN0VNMlBOeGItRGl1VGE4eUU1aEMyamhJMXVZSEVFUnNkb01hTTAzRU1wbFVySl91YkF4RGdCQzd0S21oUF9LR1RDQzZZVXIwWGpKM0FMdWtLdW1JR1FtX3lsLUpzSVRfNE9ER0ItXzBkSURaaExYWkdkMHRBekhKS3hOeGluajBGWVMwOHVHREpHN2p1Zi03a01WTU9JM2tRQ1Noc3k0RVZtN0FiQ1VBalowSUlqNDlrS29aUHFub29TWU3SAfABQVVfeXFMTnUzV2VHUHB1MVNOQ3ZFaXhpdmdsM3ZsRXJQcmhUM0IxZFpFN0hyLW0zWWNyTDFkYmRJS3hNOG1Jb2pFckVzaGtmUXdZLW1vYkJjUnhpdkU1V3Q5LXlTMlpqS3VtbEVTdHhCbzdMY2tPUElMZlhGU3lmTy1FRUFsSklpTUR5d1A1bUN5dGQxMFFiTlBSbThlREpPM0Jlaks5d0o3Q0NEUDgzZVhsdFFOUmphenEyMDlLd212ak9GY0YxcllzRmYzbTJqQVBmcTZhZWdncXNHRHN5OUV2WXEtQmNjdWlRU2RCSklKRy1zOHkt?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno propone al Senado como directores de TVN a Pedro Huichalaf (PPD) y Marcela Sabat (RN)&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-22T20:27:07+00:00"
+    },
+    {
+      "titulo": "Kast participó en cita del Escudo de las Américas: Trump ofreció ayuda contra el crimen",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/kast-participo-en-cita-del-escudo-de-las-americas-trump-ofrecio-ayuda/2026-09-22/172342.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, se reunió este martes, en los márgenes de la Asamblea General de la ONU, con sus aliados latinoamericanos del llamado Escudo de las Américas, a quienes ofreció intervenir contra los carteles dentro de sus países si estos no pueden combatirlos por sí mismos.\nEn el encuentro estuvieron los mandatarios de Argentina, Javier Milei; de Chile, José Antonio K",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-22T20:23:42+00:00"
+    },
     {
       "titulo": "Presidente Kast se reunirá con Delcy Rodríguez tras restablecer las relaciones bilaterales con Venezuela - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZDkxemlFOHp3Q0lReGZWaHRhYUV3YnZyMEJKRXkxYlNJMzlOV0FmUTQzN2FzemdTeEw3alV1OExIRV9NX2VBRG5MU0VXTkt6UUp5QWtQR3J6UnZScjgtMnp6MTVYX3MxOUFQc01DN2NLUGxPNW5xdENEU1hSTnRqYWZ3TXE2OW1xMWlSM3pnUW1obl8tQXBlODBpbUZaN041YzdPd2d1M1FXY2k4N3hiN0RzZk9HV192SHBqYjlheXd4TjlmODBHWHZVblVpX1dk?oc=5",
@@ -157,6 +202,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-22T19:23:12+00:00"
+    },
+    {
+      "titulo": "“El gobierno ya no puede mirar para el lado”: UDI presiona al Ejecutivo para regular las casas de apuestas online - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRnkweHhNME5tZFpKRUtjYVhXQzJCTUxaR3hVVGtMQlZVRTAwOW9rNEZsSG9GRkNaMlM3eXY3TU5ieFc5Y1Q5aEk4Zi1iVk5ndzBlWkMwRG1Ob2FVaXRrb0dLekRLcmlfZWh6SjZaeGtpanlicU02WThTRW5QRzZ4WENXYXViT1hYZEQ1OTNrRWJlV3NROGV2ZDEzb0hqZFZSSVplOFhpVEFLVmFjLUZVeHcwVm5vVHl3YWpBNWVmWmx6NEtJdm16RTdXNFpYbEJfempTcDZZbE5kMmlDWU1ZMnBrVUtMeXIzckE?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“El gobierno ya no puede mirar para el lado”: UDI presiona al Ejecutivo para regular las casas de apuestas online&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-22T19:00:00+00:00"
     },
     {
       "titulo": "La hora de las autoridades regionales: Kast inicia revisión de desempeño de delegados y seremis - La Tercera",
@@ -839,6 +895,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-22T16:08:10+00:00"
+    },
+    {
+      "titulo": "RN propone subsidio de $250 mil para crear 300 mil nuevos empleos formales - elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZkpqQjNSdHFHbzJUdkNhRDhZSjMySVAwdmVTdTF0NUI2MG9nRTRtR1lhSW1JNVVyanQ4LTR4dmNoMjktZWUyWkZ4eWtGOGpvLTFJcGZkSjZTNVlMZ1pKelM4cm1FZnJlRk1hZWtxLTdLMlQtTzdtQ1ZyX2NGQjZuVXRSNVlnUVRIMndKdTJjbFlha1F4Yy1XWjE3OUl4cWdOcEM5cTlRTjhIMmRSU3JXcWlyX2k4bDg3UFBF?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "RN propone subsidio de $250 mil para crear 300 mil nuevos empleos formales&nbsp;&nbsp;elobservatodo.cl",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-22T15:08:33+00:00"
     },
     {
       "titulo": "Luis Mayol, (RN): “Las pymes son el motor de una parte importante de la economía, dan el 80% del trabajo” - 24horas",
@@ -5547,72 +5614,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-18T08:45:37+00:00"
-    },
-    {
-      "titulo": "Alza del desempleo en Biobío: gremios y Gore alistan propuestas para el Plan de Emergencia Laboral - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHZnRFQ4b0RHTnpDS215VlQ1TG5PalMzY2VCUzdLU1l6aDZSVHduQjNITXdqX3VkNW9NV0hSdm56dGdwbTVBSFA5ZmE1M083ck9pTFZtOW9VU1BYWjdVcW1BeU02dmU4VFNxZWs0S3IzaXJVYnN2RGhQSjhKWFVUMUh4MENteG42dHItNW80Ul8?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Alza del desempleo en Biobío: gremios y Gore alistan propuestas para el Plan de Emergencia Laboral&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-18T08:38:04+00:00"
-    },
-    {
-      "titulo": "Senadores presentan proyecto para sancionar el uso de \"granjas de bots\" en elecciones - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjhFQnRDa09kbm93UUg0NU1XZlllS1Q1SVdWaUZmUU9naEQtMkVvbkdWaVgySGIzakZ2Tm9KdXoxWi1xcy0yWi1IZUFvcUJXeTBhYjBsbDhYbmNPZkVSSENKVGgzcENtNWRhU05WaFM4N1JHejVKMmlzTFVJVllyWkZyRzRtVERDdGJ0eUZ6bGpQZko3QzBHRER6VmJCTTJRM2R3aV9Cd2FTNXdrUkMwUDRB0gG3AUFVX3lxTE8xTmxmOFBVSUFpLXVYbFJjUHJhZ2JtMmF4TG5kUFZ3b1pWU1lYWkdkWTBJUmlUY1VwYUdkenJub05kMkluMUxTN0xtS1JiMW0xZ2VmSjJhaU5sOUh4S0lhd2lXTS1aWGZ6dVdrazN0RlZsMlJ1MDlKdnF5UnpfdFV5U2NxZVA1b3VyWGk5Z0k2bU5TdEk0elJhYnVBRThSSk5VN0FhQ1BwQnpmclYxa1N5Z2hHdDVTNA?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadores presentan proyecto para sancionar el uso de \"granjas de bots\" en elecciones&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-18T06:19:01+00:00"
-    },
-    {
-      "titulo": "Kast se reunió con embajador de EEUU en la antesala del viaje del Jefe de Estado a la ONU",
-      "link": "https://cambio21.cl/pais/kast-se-reunio-con-embajador-de-eeuu-en-la-antesala-del-viaje-del-jefe-de-estado-a-la-onu-6aacb7780e2bdf4cb11aacb3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-18T04:09:36+00:00"
-    },
-    {
-      "titulo": "Caso Convenios: Corte rechaza petición de Fiscalía de elevar cautelar a exfuncionaria del GORE Bío Bío - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNanRmM1ptSWJtZlRoMEJRLTZyYmlMQklZclJrRzc1c2M5TWVMNFdLZW5zSmllT2pjWmpaR1RYUGV4ZVFFYjJHLTRNcWcteVRxcXg0OEdZQklOSkRYRGd6SElkMEdDT3NLVjNnZkZKc3hva2ZCS2JOVDFqWDB3bWZwejBUUVp1czc5bVRYNnIzMEdBaW1Uc3hpYWF1UGFHYl9scUFhM2lkSUtvc3E0TWRsanlBUTJrVG5UUDRiVU82MXpTdlh6VTZRR3JiNFhDVzJfZWtPZlo4bmtKNGlycjNrMk1lb3ZSaEZxMXdNaFUzRTY4TVVObW5NcWlPRVFtdUNNVWstWUNiVXBSa2UtMGow?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Caso Convenios: Corte rechaza petición de Fiscalía de elevar cautelar a exfuncionaria del GORE Bío Bío&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-18T01:47:52+00:00"
-    },
-    {
-      "titulo": "Ministro Poduje ratifica construcción del total de viviendas comprometidas en convenio con el GORE - 24horas.cl",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdVVFeThEYV9zcHdWZkdWcnpNZGxqT09fWndMUndsRThUVVBRYzJ2V3c4ZUlDWlhmdzVfcFIxUVRoTTg3dlZaUElwb2Y5QWFrUXJFNF9PUTdPZjJzZkZaTzNPdDdoc1ViVlMtdGJZWEVRZDJWdjVsc0tqa3dndm56cGx3aGEtUEVrTE5QU0VscnVIY2doM01hRnpNbUd3YzJGd3VYNnZQTUNaVVZiTEtEZ1JTVUgwUQ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ministro Poduje ratifica construcción del total de viviendas comprometidas en convenio con el GORE&nbsp;&nbsp;24horas.cl",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-18T01:15:00+00:00"
-    },
-    {
-      "titulo": "Nuevo antecedente sobre amenazas a alcalde White: Fiscalía dice que \"cualquier especulación no contribuye en nada\" - 24horas.cl",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzlfZUhyYU94U2JvdkJ4Y0syY2VUbi1waVI3LTI3RWkxc0dKcHRDYzBNVnUyeWZVQS1FVDVpaERQRWdYMHBtV2oyZzJ5UFFOLW8tb2NmS1NFVThSdW1XSXEtd0lybmR3WmxHTnNrTkpwaU5MWWp2QXZ3LXhjZzk0OWtLaVlDYzNSV2t1NThnelBraTJHbkRxX005eFNOU1Vpcm5LbtIBqgFBVV95cUxNMTlKT25PNEpDYTNhWTVnQkg5TTk3V2MyZmN3LXgtckU1b3RXZTlxX3VBUDBTbnAxNGxXOVlhc2xCczlxbWlaYm1IcnJzamQtZHZHX1I0bktCNGJ4U1BKOUFLbElWU29CQ0lWRlJYakJySi1Bb3Z6SDhfRzd5TnNERkI2ejVOZklFUXpRSG1kNzBrTTBEMVZNQ2lHMXlTcm5rdURTV2ZHU3Vidw?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Nuevo antecedente sobre amenazas a alcalde White: Fiscalía dice que \"cualquier especulación no contribuye en nada\"&nbsp;&nbsp;24horas.cl",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-18T01:08:00+00:00"
     }
   ]
 }
