@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-09-22T18:16:42.907375+00:00",
+  "actualizado": "2026-09-22T18:31:35.348701+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gestionan ante el Gobierno recursos para empleo y puesta en marcha del nuevo Hospital Regional",
+      "link": "https://ladiscusion.cl/gestionan-ante-el-gobierno-recursos-para-empleo-y-puesta-en-marcha-del-nuevo-hospital-regional/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El delegado presidencial de Ñuble, Diego Sepúlveda, junto al senador Gustavo Sanhueza, sostuvo una reunión de trabajo con el biministro del Interior y de la Secretaría General de Gobierno, Claudio Alvarado, donde plantearon dos prioridades para la región: fortalecer la generación de empleo y avanzar en la puesta en marcha del nuevo Hospital Regional de [&#8230;]",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-22T18:30:01+00:00"
+    },
+    {
+      "titulo": "Nuevo revés para el Gobierno: Cámara de Diputados rechaza la reforma constitucional por solo un voto para ampliar la detención y expulsión de migrantes",
+      "link": "https://cambio21.cl/pais/nuevo-reves-para-el-gobierno-camara-de-diputados-rechaza-la-reforma-constitucional-por-solo-un-voto-para-ampliar-la-detencion-y-expulsion-de-migrantes-6ab2c7779b58a233044f48d7",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-22T18:26:13+00:00"
+    },
+    {
+      "titulo": "Presidente Kast en la ONU: “Chile está de vuelta” y hace fuerte llamado a reactivar la inversión extranjera - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRFZ2RUxndFBaOHFEZkwzQk55MmJRU3ZTTXlsa1U3bFJJTk9hWFg3ZjJ3ZGRFOUFXcjA0Njd4UDB5bGpzVWdzZUozOWdaTDREX3h6dlEyQmZUbkNVTmVsR2tWOU1FY2FQc2hsTTA4OU1hT2w2V3ItQjk5WU56eWF3TWQ4Qk92T2FfdzY0Yjh4ejFrT0RSSHprNEdhZnF0bHA2N1hLQl9EUXBoRVV6czlz?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Presidente Kast en la ONU: “Chile está de vuelta” y hace fuerte llamado a reactivar la inversión extranjera&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T18:25:31+00:00"
+    },
+    {
+      "titulo": "Presidente Kast advierte en la ONU por impacto de las guerras: “Chile importa prácticamente todo el petróleo que consume” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOVF0TnhCM0V2U3EyN0lHTnhTaEFNZGZQREZNUFVrZ1pJSHFxTmhXT29tOE5jY2FjcEYwR0VONnViR0M0aVJHcmdXNEwwc1FEenFHSGVBb0dGTzMtYmxyWnhMNTdOX29EU1RrdE54dWE3VS1RRWRvMF9wQlNqVGozRnAxWndhQmZXaVUxdVFNd3dITWNsZVVVLW5xSXhsTUF0M2pzc2MxRjRrY0tHa0NlUnBoTTR3d0ZNdmdGLUh3T2JTV2h0d3dnR282cm4wQ3QzNzNHbE5ia1FIUHPSAe8BQVVfeXFMTUJpX2pUbTRIWXdqSWJDTXFhZVhWSFFYNG8xd21FeFBxSU9OMmJ6TzFVdGtSWWNYM0lSYjNzUGh6MmlTVVZQVGtoYW83a1JrN2ltQV8wLWdLOG5WMHhMNXJrX2R2VTlEU2oxSGVkeEVISlptUHZ2bnh1VGtYbUVOMFFpeUJVRnZSR1BtcXVCY0MwalBXaTBhWFhJR1VBTnhTd0YtdW1JYkM0NUNKdWdTTk9VVXlYZE1xeEFVZzY3el9xSXp5bnJMUWRIWmZaY1FodnRPazEyX3dDbTJjaUxrYWJLX3FRZXprTUJUOHNIc1E?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast advierte en la ONU por impacto de las guerras: “Chile importa prácticamente todo el petróleo que consume”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T18:22:30+00:00"
+    },
+    {
+      "titulo": "Kast proclama que “Chile está de vuelta” y hace guiño a Trump con dura crítica a la ONU - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZXIxdDV2UG9UUEFXcHdCVkhhSGFSTzE0WGJEOU5UTUNIUHpJV19VWUxULTEtcTA0YmlkaVVkM0ttajNHdjhwTWNwdmVES0NYZXZqYktxeDAxbWt2Q1NXa2R4OXJsZzg5VEpWNDRTSDVhX0FOV3hrNGp3am5wZ1FvOVppWV85UWV1NzNkdEEwUDhfdFRXaWNLTk5TRmlKQl9OVnN4TmtTei04dXJ6NFBDQ0l2VzFmTVpxRHFxdnVKd29aZDJielotelAwMWY2TGYwTmthUA?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast proclama que “Chile está de vuelta” y hace guiño a Trump con dura crítica a la ONU&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T18:17:10+00:00"
+    },
     {
       "titulo": "Presidente Kast pide reformar el Consejo de Seguridad de la ONU: “No es posible mantener vigente el orden mundial de 1945” - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSzc1N0UxY3hGWVJNOFFUWktmODNKdDVKLU1qOGgwSGtUTEl4ekQ4bmFJc19ySFhUdXZpa1FrblVJSXFxMTVOZVRMeU41c0hCUERna2ZpSnVPWnZDTVRpVERJWXFQOHBZQ0RXd045eE1va1Z0R0xVMXpXYm5oaTRuT2VLWnlpUjN0Q2J4Q05VMmpMazNfaTJJSGc5SXNzWUhGZ0F2LTNtV3BBMGhKamNud2ZzNGZsME1GOFJYUGZ2b1Z2RE5uN1ZKMVBnR0g2ZmtYUnRnSlYyVzk0bG4wT1hGbjF0ZnN2WW5hajA0?oc=5",
@@ -12,6 +67,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T18:10:29+00:00"
+    },
+    {
+      "titulo": "Kast en Nueva York: \"La ONU no ha estado a la altura\" - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DSFV4dFhBV3hNT3VsY3FXQTY0b3RNU1pNcjhGajMxVWl6am1qaVZvSUdHd01HYjJXSTNrRkxIYXFnVWlWZTNJMmZmblNyejZXWjFERnJCR19XN3hnNWhNWUZBbGQ5QmZkT3A0SVpERWZwUDJI?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast en Nueva York: \"La ONU no ha estado a la altura\"&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T18:08:42+00:00"
     },
     {
       "titulo": "Presidente Kast y crítico mensaje a la ONU: “Esta organización no ha estado a la altura de los desafíos de nuestros tiempos” - La Tercera",
@@ -134,6 +200,28 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T17:53:14+00:00"
+    },
+    {
+      "titulo": "Kast admitió ante la ONU que en Chile \"la economía aún no despega y el desempleo se mantiene alto\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-admitio-ante-la-onu-que-en-chile-la-economia-aun-no-despega-y-el/2026-09-22/145132.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-22T17:51:32+00:00"
+    },
+    {
+      "titulo": "Diputados oficialistas presentan proyecto para eliminar a trabajadores del directorio de Codelco y FTC se declara \"en estado de alerta nacional\" - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObVlmVmp2c1M4UHE5OEQzT2puYjJibkFaLVJlR3pXMjlkSzlkbUdjSEJsYzdmbHRmNEpWTnEwdmxKcVljQ1FNSUdCRjBfeUtzNjdpczFDLWx1MElsMGZOMjNCQ2FOUlBXcnRfYkkzS2lxXzcyVjJGWVE0dVlLZGMzOU1tT0ZQMk56VWpSMExlUTdKYVE2eEtJYy1rVnJGQlNZUWdseE5MMEZrbmUyM2c?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputados oficialistas presentan proyecto para eliminar a trabajadores del directorio de Codelco y FTC se declara \"en estado de alerta nacional\"&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-22T17:48:00+00:00"
     },
     {
       "titulo": "Diputados oficialistas presentan proyecto para eliminar a trabajadores del directorio de Codelco y FTC se declara \"en estado de alerta nacional\" - Diario Financiero",
@@ -5525,98 +5613,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-17T20:40:00+00:00"
-    },
-    {
-      "titulo": "Municipalidad de La Florida anuncia acuerdo con fonda Doña Florinda y autoriza venta de alcohol - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVnNSMXRFYkJ3X0xlN1VwM0JIdkktT0wyTkw0N3BhOGNvM2dibTZrUXBxSzlkODE4Nk5rYjNQVEtxZGNMN2xrbS1pVkR0T2k3RGktY2pIajF1ZlhRUzd0LTZNVDFodG1adVFFejZrQnl1eTJuUXJGekFodTZxR1B2TnI5Y2xRXzJoYVpvNkgydEs0MGNsOGx3TzBtM09uS0VZZHZSV2hBdHFXYTViTTFCdlVSV3EyX00xMUE?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Municipalidad de La Florida anuncia acuerdo con fonda Doña Florinda y autoriza venta de alcohol&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-17T20:39:00+00:00"
-    },
-    {
-      "titulo": "Alcalde apostó en casino: Contraloría inicia sumario por irregularidades en municipio de Lota - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeFExT0taeEZ5VjYzU1FYMTZMMjRYX200VTVuYTVzN0VHUzU5NTVyczc0VTFnN25VaXpfbUNiS21ES2tXLWstLUFhdFgzVE9lcEg1eDYzRkY1TEw0OHpvNGQwTW0wc05jaEdlREhVcFhfeThyVXRDcUwyNGJzdVRTcmFmRXpEaFU1SWM2emJ6N2RlUTJ0MkZ4OWNfekpaRWJnc2pTc0YtNWtsbmVmWVR5eTk2T29PSVYxc1VVMHppcC0xUlgxUWhqS2JQSTM3U2RGcHBOWkY1UHJzNVE3ZTdmT194YklHRmNfYkJuWnota1BVQUNvSmJuR1dhWFZUSjUxM2tF?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde apostó en casino: Contraloría inicia sumario por irregularidades en municipio de Lota&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-17T20:38:36+00:00"
-    },
-    {
-      "titulo": "Presidente Kast desde San Bernardo: “Estamos con una situación de seguridad importante que tenemos que enfrentar” - cnnchile.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1hmTlYwZ3lGODA3enZQRmF6bUpDR1RKQXJKOHJwcnUtRVNUUTlPQ2gyYlJKeWFfWWVNaFQyVEtnSkdlUUd1ZnJsb2kwWEtsSVpKU25iNkk2d3RhVE1rd3FOWDNWRHZzaDJpRnJlbVl6VDBMd0lSV3hhWEluYjdoZ3FVbjBqWGpMbENURlZjRlpVTEVSeU1oWE84bWdUUnFnMFUteGVzbm9mWTUxeVd3TzhveXpZbE1lU0ItSGg3LVV5MjZTZmxxamc0WmtDQ2kxZG1TMzc4X28?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast desde San Bernardo: “Estamos con una situación de seguridad importante que tenemos que enfrentar”&nbsp;&nbsp;cnnchile.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-17T20:32:53+00:00"
-    },
-    {
-      "titulo": "Cartas al Director: Defensa y reivindicación de la paya chilena",
-      "link": "https://www.elciudadano.com/cartas-ciudadanas/cartas-al-director-defensa-y-reivindicacion-de-la-paya-chilena/09/17/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nSeñor Director: Las Fiestas Patrias son una oportunidad para celebrar nuestras tradiciones, y la paya forma parte esencial de nuestra cultura popular. Por eso resulta desafortunado que el Presidente José Antonio Kast la haya utilizado como recurso en su discurso inaugural de las fondas de una manera que, a mi juicio, desconoce y desvirtúa esta [&#8230;]\nLa entrada Cartas al Director: ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-17T20:16:43+00:00"
-    },
-    {
-      "titulo": "Senadores proponen establecer un horario permanente para Chile",
-      "link": "https://ladiscusion.cl/senadores-proponen-establecer-un-horario-permanente-para-chile/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Como ocurre cada año, el cambio de hora vuelve a generar debate debido a sus posibles efectos en la salud, el descanso y las rutinas de la ciudadanía, especialmente entre trabajadores por turnos y personas que presentan dificultades para conciliar el sueño. En este contexto, las senadoras Paulina Núñez, Camila Flores y Paulina Vodanovic, junto [&#8230;]",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-17T20:06:35+00:00"
-    },
-    {
-      "titulo": "La Moneda descarta modificar modelo de vocería en medio de presión en el oficialismo - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWjRWV0F0SklwUDV6eWtGRXZzVlQ3bnR0dWxMMnZrdUJtRHFqZUhfcWg3R2JLVS1wNnVlNXpiNHZhQ2VOS1dKN3N0VVlkbjRrRXB6WUlJWVF6d3Z5dGhRd3ByeE9fWFd2TERVcC1kN1RkcVVOT0Y0YWxUUkdTeVJPUS1SQmRPX3l0Y29MMHl4TFdidk1oWmF0UDFOa2l5eXVjbWJ4TWhPZHFqbXN4eWxpVGdFVzRZLTd6elBFcTk3SGZhNVlvblFV0gHoAUFVX3lxTFA4MndUM29JYnRKbTU5QzZ4LUFzZ2JtTUp2LWFKbmk3TTdjMVpsUEtPc0g1UTlMdlJaUWxNNlZpb2gxeTNHTGM1QzFCSUhILVdqd0h1Mm9EclN0S3ZPaHJVdk84OU5BVUltWUtJWWlhMzB2VVFmVm45TWp4UFd6SDhxMjQ0VkdFazVQY1lNcWtPYWZoYXFSLUdPaVJUV0R0STZBUlVpQnUtemp0QWdZTnlmaWtOX281eVdrVmg4enN2WWk0XzNzVGpjVmdwSzc4TUhfd1pCRlNqQ3diU2IzTzdiNmxFMXhGVEQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda descarta modificar modelo de vocería en medio de presión en el oficialismo&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-17T19:57:47+00:00"
-    },
-    {
-      "titulo": "«Camila Flores guardaba dinero en sobres en su closet»: Exasesor reveló a Fiscalía pagos a parlamentarios por «lobby» en «ley de notarios»",
-      "link": "https://www.elciudadano.com/chile/camila-flores-guardaba-dinero-en-sobres-en-su-closet-exasesor-revelo-a-fiscalia-pagos-a-parlamentarios-por-lobby-en-ley-de-notarios/09/17/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nUn reporte del medio Ciper Chile dio a conocer este jueves 17/9 parte de la declaración judicial de Julio Lillo, exasesor de la senadora de RN, Camila Flores, en el marco de la investigación del caso conocido popularmente como «la cuota Flores». En específico, Lillo habría señalado que Percy Marín, expareja de Flores, le aseguró [&#8230;]\nLa entrada «Camila Flores guardaba dinero en s",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-09-17T19:45:58+00:00"
-    },
-    {
-      "titulo": "Registra más de 20 reuniones, incluidos ministros y subsecretarios: el lobista que llega a reforzar la Segpres de García Ruminot",
-      "link": "https://www.theclinic.cl/2026/09/17/registra-mas-de-20-reuniones-incluidos-ministros-y-subsecretarios-el-lobista-que-llega-a-reforzar-la-segpres-de-garcia-ruminot/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Sebastián Sotelo, cientista político de profesión, arribará a la cartera encabezada por el militante RN en medio de cuestionamientos a su gestión. Con pasado en la Fundación Jaime Guzmán, el hasta ahora subgerente de Asuntos Públicos de la Cámara de Comercio de Santiago registra múltiples citas con autoridades de la administración del Presidente José Antonio Kast. Entre ellas con Constanza Castill",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-17T19:34:40+00:00"
     }
   ]
 }
