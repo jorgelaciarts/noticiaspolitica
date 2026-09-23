@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-23T23:16:35.548912+00:00",
+  "actualizado": "2026-09-23T23:31:41.903947+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast sostuvo reunión bilateral con Delcy Rodríguez en la ONU",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/venezuela/presidente-kast-sostuvo-reunion-bilateral-con-delcy-rodriguez-en-la-onu/2026-09-23/201701.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En el marco de las actividades de la Asamblea General de las Naciones Unidas en Nueva York, el Presidente José Antonio Kast sostuvo este miércoles una reunión bilateral con la líder encargada de Venezuela, Delcy Rodríguez.\nLa cita, adelantada para esta jornada tras ajustes de agenda, se da en un momento de expectación internacional por la presencia de la chavista en el plenario multilateral.\nEl fo",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-23T23:17:01+00:00"
+    },
     {
       "titulo": "«Ley Antibarricadas 2.0 tiene un objetivo oscuro y autoritario» advierte diputada Sofía González",
       "link": "https://www.elciudadano.com/chile/ley-antibarricadas-2-0-tiene-un-objetivo-oscuro-y-autoritario-advierte-diputada-sofia-gonzalez/09/23/",
@@ -12,6 +25,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-23T23:01:27+00:00"
+    },
+    {
+      "titulo": "\"No estamos llegando a tiempo\": UAF advirtió que pedir el secreto bancario actualmente demora más de un mes",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/no-estamos-llegando-a-tiempo-uaf-advirtio-que-pedir-el-secreto/2026-09-23/195557.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La comisión mixta encargada de revisar el proyecto que crea el Sistema de Inteligencia Financiera, una herramienta que busca agilizar el levantamiento administrativo del secreto bancario para perseguir delitos complejos, sesionó este miércoles, en la que se expusieron antecedentes claves sobre los tiempos que demora actualmente el proceso.\nMarcelo Contreras, director subrogante de la Unidad de Aná",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-23T22:55:57+00:00"
     },
     {
       "titulo": "Presidente Kast asiste a reunión del Compromiso de Santiago y confirma que Argentina liderará la instancia desde noviembre - CNN Chile",
@@ -5593,29 +5617,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-20T21:45:00+00:00"
-    },
-    {
-      "titulo": "Aprobación de José Antonio Kast baja al 29% y desaprobación sube al 59% según Criteria - elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYUJNc3JObHZ5clBaV09vN2NlSE5EWlludjBYTlpYYzMzM2N2ZGl5M1hfVlBncWd6WXZxN2ZnaVQycWEtd0ZlX2xmenNiR3h5MkoxYjJCdTk5Z1phSndJR3ZlWkdrVzJYdEh4bjhXMUdGcmtIYmo1ZC12MWw1TW92N09kYXpYbVFDd1Y1Z0FUeVFSTVV3NTFibm9pdXdiRHlMU255WXRsS3ZKVXRyRUEwMzVnSnhwU0Q5UXVHVVhfUjVQb1E?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Aprobación de José Antonio Kast baja al 29% y desaprobación sube al 59% según Criteria&nbsp;&nbsp;elnortero.cl",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-20T21:35:29+00:00"
-    },
-    {
-      "titulo": "Excanciller van Klaveren destaca liderazgo de Bachelet tras retiro de su candidatura ONU",
-      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/excanciller-van-klaveren-destaca-liderazgo-de-bachelet-tras-retiro-de-su/2026-09-20/180744.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El excanciller Alberto van Klaveren valoró el liderazgo y trayectoria internacional de la expresidenta Michelle Bachelet, luego de que anunciara el retiro de su candidatura a la Secretaría General de las Naciones Unidas (ONU).\nLa dos veces mandataria anunció ayer que no continuará con su postulación para encabezar el organismo, luego de los negativos resultados que obtuvo en los sondeos informales",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-20T21:07:44+00:00"
     }
   ]
 }
