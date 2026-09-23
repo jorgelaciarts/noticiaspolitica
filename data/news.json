@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-23T21:46:43.930342+00:00",
+  "actualizado": "2026-09-23T22:01:38.789935+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Yo por mí no iría al Congreso”: Ministro Arrau habla de su gestión en el parlamento y provoca una gran polémica con senadores y diputados",
+      "link": "https://cambio21.cl/politica/yo-por-mi-no-iria-al-congreso-ministro-arrau-habla-de-su-gestion-en-el-parlamento-y-provoca-una-gran-polemica-con-senadores-y-diputados-6ab448f35c820e5d2e7a1283",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-23T21:49:37+00:00"
+    },
     {
       "titulo": "Propuesta RN de “piñerizar” el Gobierno de Kast revive tensión entre Chile Vamos y republicanos",
       "link": "https://www.theclinic.cl/2026/09/23/propuesta-rn-de-pinerizar-el-gobierno-de-kast-revive-tension-entre-chile-vamos-y-republicanos/",
@@ -5606,17 +5618,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-20T17:28:24+00:00"
-    },
-    {
-      "titulo": "Encuesta Criteria: Aprobación del Presidente Kast anota su peor registro y el rechazo roza el 60% - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMHZfX0M1RTYzeEY2UGl3TVJqdVNzWm5kRUxUSzBlNUNoMTQ3bTM0UDNCMEdPMV80QnlLVjhFN2lXRlRNSU5CYnBaaFU4VjV2UlBsM2VsbzdObmMyb3NFamJ1Tlg2Ull6R1Z6UmxQNVJQWWhWaVNCVE5XQUhHemg0MzcwRDlvWmNNbnNIY3ZFWDMxeGN2OU5GMjA2Y3ZPZml5WndXWXRfZ1MzNmFFRVYwckN0blQ0SUpybm9keld2QXJjMlZBdUhmMmRIZw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Encuesta Criteria: Aprobación del Presidente Kast anota su peor registro y el rechazo roza el 60%&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-20T17:09:44+00:00"
     }
   ]
 }
