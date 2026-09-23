@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-23T02:46:43.910986+00:00",
+  "actualizado": "2026-09-23T03:01:51.338170+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Asesinan a delincuente investigado por amenazas contra la alcaldesa Javiera Reyes en Lo Espejo",
+      "link": "https://cambio21.cl/tendencias/asesinan-a-delincuente-investigado-por-amenazas-contra-la-alcaldesa-javiera-reyes-en-lo-espejo-6ab33eafa160e9342a3c5d35",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-23T02:53:08+00:00"
+    },
+    {
+      "titulo": "Camila Vallejo aremete duramente contra el jefe de Estado y su participación en la ONU:\"Kast nuevamente avergonzando a Chile ante el mundo\"",
+      "link": "https://cambio21.cl/politica/camila-vallejo-aremete-duramente-contra-el-jefe-de-estado-y-su-participacion-en-la-onu-kast-nuevamente-avergonzando-a-chile-ante-el-mundo-6ab33cb1b472cb10c950fc83",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-23T02:47:34+00:00"
+    },
     {
       "titulo": "Asesinan a hombre investigado por amenazas contra la alcaldesa Javiera Reyes en Lo Espejo - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmlGUmJPX0J4X19HWUdaT1RRUnU0X2FHWW5GZ28xaDBHS1FTcnFFUE9OamdZRE5DVkZ6MWtvTTM5YTlrYXZVUHJPZzBabUdnMDRsNTFNVGlLTnAxUm5xN0Nmc2VsRDBpSVc3UXZudUt6TGpqckUwbU1qUTRJTndPWnpScXZnSXZNZlZMUXR0TTh0aFM4MXJ1a3pPZ2FEOEd1OW1hRjA0TWpHNFY4b2sxLWJURnJKT0JUcklTMA?oc=5",
@@ -81,6 +103,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-23T01:11:41+00:00"
+    },
+    {
+      "titulo": "“El presidente nuevamente avergonzando a Chile”: Exministra Vallejo arremete contra Kast por su intervención en la ONU - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanZjTmI3RGVlbVRJaTRhTXdPeEtEYWk5NEE0aGJXLUwwSEVBMWxXOTVtV3k1T0JkaDRBOEExYnJ2dG9oOVhxYWNHdFpRbndLUFFpRWRKUWFUTzQ0NFBKbG5IYVRsYlkwckN1akpFeTQwWUJZOVZEU09kRkMxM1prdHZZS1o4ZzROc3RqTlRYYW04bmc?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“El presidente nuevamente avergonzando a Chile”: Exministra Vallejo arremete contra Kast por su intervención en la ONU&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-23T00:49:41+00:00"
     },
     {
       "titulo": "Supuesto líder narco fue asesinado a balazos en Lo Espejo",
@@ -5578,40 +5611,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-18T22:13:00+00:00"
-    },
-    {
-      "titulo": "Tragedia en Pitrufquén: INDH ofició a Senama, Seremi de Salud y Municipio",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/tragedia-en-pitrufquen-indh-oficio-a-senama-seremi-de-salud-y/2026-09-18/182228.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Instituto Nacional de Derechos Humanos (INDH) ofició al Servicio Nacional del Adulto Mayor (Senama), a la Seremi de Salud de La Araucanía y a la Municipalidad de Pitrufquén con el fin de esclarecer las condiciones de funcionamiento de la residencia donde murieron 16 adultos mayores producto de un incendio.\nLa determinación del organismo busca reunir todos los antecedentes administrativos, sanit",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-18T21:22:28+00:00"
-    },
-    {
-      "titulo": "Kast debutará ante la Asamblea General de la ONU el martes en la mañana: Delcy Rodríguez figura en la lista de oradores por Venezuela",
-      "link": "https://www.theclinic.cl/2026/09/18/kast-debutara-ante-la-asamblea-general-de-la-onu-el-martes-hablara-en-la-manana/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast intervendrá el martes 22 de septiembre durante la primera jornada del debate general de Naciones Unidas, en Nueva York. Según la lista provisional de oradores, Chile será el décimo país en tomar la palabra durante el bloque matinal, entre Egipto y Luxemburgo. \nThe post Kast debutará ante la Asamblea General de la ONU el martes en la mañana: Delcy Rodríguez figura en",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-18T21:19:52+00:00"
-    },
-    {
-      "titulo": "Chillán Viejo celebró por tercer año consecutivo la Parada Militar",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-nuble/chillan-viejo-celebro-por-tercer-ano-consecutivo-la-parada-militar/2026-09-18/175431.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Municipalidad de Chillán Viejo conmemoró este 18 de septiembre sus Fiestas Patrias con la tradicional Parada Militar, que se realiza por tercer año consecutivo en la explanada del Parque Monumental Bernardo O'Higgins.\nLa actividad reunió a las Fuerzas Armadas, instituciones de servicio y organizaciones civiles con el fin de rendir homenaje a la historia, las tradiciones y el compromiso con Chil",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-18T20:54:31+00:00"
     }
   ]
 }
