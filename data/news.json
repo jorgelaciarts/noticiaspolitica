@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-23T19:16:42.862930+00:00",
+  "actualizado": "2026-09-23T19:31:57.624752+00:00",
   "total": 500,
   "items": [
     {
@@ -68,6 +68,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-23T18:57:05+00:00"
+    },
+    {
+      "titulo": "Canciller chileno: Escudo de las Américas no implica fuerzas militares",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/canciller-chileno-escudo-de-las-americas-no-implica-fuerzas-militares/2026-09-23/155550.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En el marco de la Asamblea General de las Naciones Unidas, el canciller Francisco Pérez Mackenna abordó la adhesión de Chile al Escudo de las Américas y descartó que la iniciativa contemple el uso de fuerzas militares, pues su propósito es combatir \"la delincuencia organizada transnacional\".\nTras una jornada de reuniones bilaterales como parte de la agenda del Presidente José Antonio Kast ante la ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-23T18:55:50+00:00"
     },
     {
       "titulo": "Data Influye: Aprobación del Presidente José Antonio Kast cae 11 puntos en septiembre y alcanza un 25% - Teletrece",
@@ -5604,17 +5616,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-20T13:48:44+00:00"
-    },
-    {
-      "titulo": "Criteria: aprobación a Kast llega a su nivel más bajo (29%) - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wTDFpeEstejVOVGRlSXJkWDZUVElScG41VXN5ZWFKdTBZZEZzM3RrM3ZpOFZEd1NmYXRrY19EalJ0Yk5lV0RiZDJIOTBsVDdZX1NSVXNYQ0lnVXhfRUZRY3BVMmFfZmc0STZZa3dYN28xUEE?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: aprobación a Kast llega a su nivel más bajo (29%)&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-20T13:43:11+00:00"
     }
   ]
 }
