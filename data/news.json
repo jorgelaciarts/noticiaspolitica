@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-24T15:16:49.323872+00:00",
+  "actualizado": "2026-09-24T15:31:44.075034+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Dedo para abajo: el gesto del diputado Soto (PPD) cuando canciller destacó ingreso de Chile al Escudo de las Américas",
+      "link": "https://www.theclinic.cl/2026/09/24/dedo-para-abajo-el-gesto-del-diputado-soto-ppd-cuando-canciller-destaco-ingreso-de-chile-al-escudo-de-las-americas/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Durante el punto de prensa del Presidente José Antonio Kast en Nueva York, el canciller Francisco Pérez Mackenna realizó un balance de la gira por Estados Unidos y destacó que Chile se sumó al llamado Escudo de las Américas, iniciativa impulsada por el gobierno de Donald Trump.\nEn ese momento, el diputado Raúl Soto (PPD), presente en la actividad y parte de la comitiva de parlamentarios de distint",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-24T15:27:18+00:00"
+    },
     {
       "titulo": "Pesca artesanal pide al Senado rechazar el proyecto que repone el arrastre industrial de jibia para seis embarcaciones del Biobío y Ñuble",
       "link": "https://www.elciudadano.com/actualidad/pesca-artesanal-pide-al-senado-rechazar-el-proyecto-que-repone-el-arrastre-industrial-de-jibia-para-seis-embarcaciones-del-biobio-y-nuble/09/24/",
@@ -36,6 +48,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-24T14:57:12+00:00"
+    },
+    {
+      "titulo": "Ahora en DF | Kast espera restablecer relaciones diplomáticas con Venezuela “en los próximos meses” - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXdPQk4wam9vMjZOTERkYm96QmIxb0tmc3lySUljQ1NyQTFqYjJJRUJtQkZoQUpPdUhiMVRJeWExQXljeHZkeVlRbFhscVAyVXlVM0lTSlU5bGpnUFMxN1lId0V5Vy12VnZVN2xIRDJlN2dHaXRObElkODNUd0o1OE5XaWFOUml0dmR2bXp5aWNCOXVRVEx0a1czdzB3XzlRSGRQYjlzeS14cGNT?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ahora en DF | Kast espera restablecer relaciones diplomáticas con Venezuela “en los próximos meses”&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-24T14:53:00+00:00"
     },
     {
       "titulo": "“Es grave” y “no estamos perdiendo soberanía”: secretario del PPD y prosecretario UDI se enfrentan por el Escudo de las Américas - La Tercera",
@@ -5594,28 +5617,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-21T14:51:44+00:00"
-    },
-    {
-      "titulo": "Ahora en DF | Presidente Kast llega a Nueva York para participar en la 81° Asamblea General de Naciones Unidas - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSlZaX08xV1hwTGlTX3dXTjJTMm5EeTI4Nkx1MEJrbkZ1Q1ZlcE15dURoQmFNYTVDYkZiZERpOW1GWkxKMGphcHp4dzdtaG5ta3BBX3BCVC00VDhPQ080bnVzcjFjaUxMUGdoZTJQcXZuT3Exb2V2Ri1iTTVCU1pFZWVSdXJHc3VKUE1WU29PWW93VmdkUWZ4ekUzRUJjTWtna080VEtwV3VDUQ?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ahora en DF | Presidente Kast llega a Nueva York para participar en la 81° Asamblea General de Naciones Unidas&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-21T14:50:00+00:00"
-    },
-    {
-      "titulo": "Elif Eralp, la líder de extrema izquierda comparada con Mamdani que se perfila como la futura alcaldesa de Berlín - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSktUZ2pQNlZaQ2hubGhfN1lwVVJxaC1hSEhBTGVOTHk3NFZPbXAzZk5XblFMdmIzT1Nma2xfeV9kMEY0OU1EVGwtMlZuWmhQOTk1d3psd0JYMlluLWtJLW5rTUYtMGliUmt4UWlqdE9BR2IySlJxQzZsVmxYZ2JCYTRGY1ZhUFVZU0tCMENyTzNtLVUzNEwtT0tWb3RMWXlIcTJN?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Elif Eralp, la líder de extrema izquierda comparada con Mamdani que se perfila como la futura alcaldesa de Berlín&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-21T14:48:08+00:00"
     }
   ]
 }
