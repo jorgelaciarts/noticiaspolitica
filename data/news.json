@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-24T19:16:31.517485+00:00",
+  "actualizado": "2026-09-24T19:35:39.699857+00:00",
   "total": 500,
   "items": [
     {
@@ -80,6 +80,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-24T18:39:51+00:00"
+    },
+    {
+      "titulo": "Polémica por fiesta electrónica en desierto florido: No tiene autorización",
+      "link": "https://www.cooperativa.cl/noticias/magazine/festivales/polemica-por-fiesta-electronica-en-desierto-florido-no-tiene/2026-09-24/153236.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Enorme polémica ha generado la realización de un evento de música electrónica en el desierto florido, a realizarse en octubre y sin autorización de las autoridades regionales.\nSe trata de Samsara, evento organizado por Samsara Events y agendado para el próximo 10 de octubre, siendo promocionado como el \"Festival Oficial del Desierto Florido\" que se extenderá por 12 horas en Chehueque, Vallenar.\nLa",
+      "categorias": [
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-24T18:32:36+00:00"
     },
     {
       "titulo": "(VIDEO) Luis Cuello denuncia pérdida de soberanía por pacto ‘Escudo de América’ con EE.UU.",
@@ -5613,17 +5625,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-09-21T19:41:15+00:00"
-    },
-    {
-      "titulo": "Hijo de Letelier pide a Kast extraditar a Fernández Larios y emplaza al exDINA: \"Que no sea cobarde\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLWF4VnVyUFRzSklJcDVBOVdiTDhDRTVUdWdBUnNWek94eWtpcVRYZHlSZ0tDay1RMHI1TER5TnlLNmRlWC1fajR1S09EZ0doNnZ0VFlJbzFzbWdTVUFrV0N6RnRteUtpb2Ywdkk2YzJwbnlkZVU2Q3FjN1BaV01EYURyeEZ2NTNiWGFsYkN4bW9xOFJBSmRVS0tGLVp5VzRaS1ZUSUlFa0RHS0RUc25Ra2JiR0lGOFR6WTd4NFl5TF9nRW5NM3oxaUl4NjYyS1h4S2F5b2dydVQ4U290RHdnaUUwVi1ndDFuOFJ1ajNNQWJsVUs2NTM2WQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Hijo de Letelier pide a Kast extraditar a Fernández Larios y emplaza al exDINA: \"Que no sea cobarde\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-21T19:34:34+00:00"
     }
   ]
 }
