@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T18:16:49.309508+00:00",
+  "actualizado": "2026-09-25T18:31:31.389223+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,18 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-09-25T18:12:20+00:00"
+    },
+    {
+      "titulo": "Senadora Gatica (RN) a Republicanos:\"La derecha valiente está en Valparaíso; la cobarde en Nueva York\" - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdDFIWmJEejMyS3JtU2JqTFR6TkZEMGFHTThXT2pKRjd2SndJcVRmdGVnaTVvTUIzM3ZVT0VkTEdKakN4ang3Wm9yOTRGYzFUYy0tSzdLNzR4UzgtTmlRWV9CSkRYcVBxclFkYTNSZl9RNzI1ZjNDazZ2TkZYWjVMZEpWTU9XaHZpWm1oUG1uSEpvcUNxQ01zQjdWMXlWQjV6aUl5dGRGUGFmWHZvbE1sZnZtUVpjWng0QkdHT3o2LUI2WDlic2JtSjFLcWZfbE1VWjU0ZnZ3a3hCbFgtZlE3cS1PaVlHY0JUTkVyTWZVZWhOZjkzR0h3?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senadora Gatica (RN) a Republicanos:\"La derecha valiente está en Valparaíso; la cobarde en Nueva York\"&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-25T18:05:34+00:00"
     },
     {
       "titulo": "(VIDEO) Incertidumbre en la Defensa: El ministro desconoce detalles del acuerdo estatal mientras se espera la aclaración de Kast",
@@ -5611,17 +5623,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T18:08:27+00:00"
-    },
-    {
-      "titulo": "Kast por primera vez ante la ONU: dice estar “ordenando la casa”, llama a invertir en Chile y propone tres reformas a Naciones Unidas",
-      "link": "https://www.theclinic.cl/2026/09/22/kast-por-primera-vez-ante-la-onu-dice-estar-ordenando-la-casa-llama-a-invertir-en-chile-y-propone-tres-reformas-a-naciones-unidas/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El mandatario destinó su primer discurso ante la Asamblea General a señalar que “Chile está de vuelta” y que, tras la aprobación de su reforma económica, el país es un lugar confiable para invertir. Asimismo, criticó a las Naciones Unidas por su burocracia y planteó modificaciones para que el organismo dejara de lado su estructura interna, la que —dijo— responde a una realidad de 1945. También rec",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-22T18:07:01+00:00"
     }
   ]
 }
