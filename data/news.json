@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-25T00:31:42.207182+00:00",
+  "actualizado": "2026-09-25T00:46:16.453748+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcalde de Pedro Aguirre Cerda pide política de Estado para abordar los rucos",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/alcalde-de-pedro-aguirre-cerda-pide-politica-de-estado-para-abordar-los/2026-09-24/212648.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El alcalde de Pedro Aguirre Cerda, Luis Astudillo, llamó al Gobierno a impulsar una política de Estado para abordar la proliferación de rucos en las calles. A su juicio, el fenómeno requiere respuestas distintas para las personas en situación de calle y para los casos que, según afirmó, están vinculados con actividades delictivas.\n\"La proliferación de los llamados rucos, instalados en diversas com",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-25T00:26:48+00:00"
+    },
     {
       "titulo": "EEUU: Congresistas demócratas exigen a Trump que no interfiera en elecciones de Brasil",
       "link": "https://www.elciudadano.com/mundo/eeuu-congresistas-democratas-exigen-a-trump-que-no-interfiera-en-elecciones-de-brasil/09/24/",
@@ -5614,18 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T04:02:25+00:00"
-    },
-    {
-      "titulo": "Chile y Marruecos sientan bases para un TLC y fijan postura por el Sahara Occidental",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/chile-y-marruecos-sientan-bases-para-un-tlc-y-fijan-postura-por-el/2026-09-22/004312.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El ministro de Relaciones Exteriores de Chile, Francisco Pérez Mackenna, y su par del Reino de Marruecos, Nasser Bourita, encabezaron este lunes una reunión bilateral en la sede de la Organización de las Naciones Unidas en Nueva York, desarrollada en el marco de la 81° Asamblea General.\nEn la instancia, las autoridades relevaron los 65 años de relaciones diplomáticas que se conmemoran este 2026, d",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-22T03:43:12+00:00"
     }
   ]
 }
