@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-25T15:16:37.103646+00:00",
+  "actualizado": "2026-09-25T15:31:41.824911+00:00",
   "total": 500,
   "items": [
     {
@@ -102,6 +102,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-25T14:18:43+00:00"
+    },
+    {
+      "titulo": "Arrau dijo que el Escudo no es aún un tratado, y si llega a serlo, pasará por el Congreso",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/arrau-dijo-que-el-escudo-no-es-aun-un-tratado-y-si-llega-a-serlo/2026-09-25/111818.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Seguridad Pública, Martín Arrau, negó que el Presidente José Antonio Kast haya suscrito, a nombre de Chile, un tratado internacional con Estados Unidos y otros países respecto al Escudo de las Américas.\nEn medio de la serie de interrogantes en torno a las implicancias y eventuales riesgos de la iniciativa impulsada por Donald Trump, Arrau dijo este viernes que \"lo que ha suscrito el",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-25T14:18:18+00:00"
     },
     {
       "titulo": "Claudio Orrego emplaza al gobierno por ciclovía en la Alameda y cuestiona freno al tramo final - El Desconcierto",
@@ -5611,17 +5623,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-22T16:46:10+00:00"
-    },
-    {
-      "titulo": "Las primeras imágenes de Kast en la ONU ad portas de su primer discurso ante la Asamblea General - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDNsQkZjVEhwOFRoaE9WSjB5MWFlLUluZTJEaEppd0lod19KcVY4M0pDR1pJazVIbWZXMlVpZEFncU50dldJaXc0aVRsVlJ5OXFKOHhFbjdXYWhWS3Z5VkVDQTVpelVUdXZGdEZnS0QwUUx2Vnd1Z3lEUzJFd2xEbHdrZm5zMXBKN0xZOU1HZGFpN0hzeW9xRlZ0bWlQTTFMb2dEanRXNi1aZUx0aHFUcWVQd25HbWtHc0VXTWI4ZGs5WHFNTjlFcU80UGtQdHQ5UzBSc3E1WUNRLVRPMWdNM1RxQ1ZsY1lMcnJOb3lHTXYyLTNYOVA4?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Las primeras imágenes de Kast en la ONU ad portas de su primer discurso ante la Asamblea General&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-22T16:44:46+00:00"
     }
   ]
 }
