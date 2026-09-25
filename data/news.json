@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-25T17:16:44.383325+00:00",
+  "actualizado": "2026-09-25T17:27:54.873996+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fiscalía Centro Norte investigará denuncia de parlamentarios de oposición por delito a la Ley de Inteligencia tras declaraciones del embajador de EE.UU",
+      "link": "https://www.elciudadano.com/justicia/fiscalia-centro-norte-investigara-denuncia-de-parlamentarios-de-oposicion-por-delito-a-la-ley-de-inteligencia-tras-declaraciones-del-embajador-de-ee-uu/09/25/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa denuncia se refiere al delito establecido en los artículos 38 y 44 de la Ley de Inteligencia,  que sanciona la entrega de información del Sistema de Inteligencia chileno a terceros y el diputado Luis Cuello  (PC) destacó que en un contexto en el que \"el gobierno de Chile regala nuestra soberanía, hay instituciones como la Fiscalía Nacional que dan muestra de independencia y autonom",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-25T17:24:26+00:00"
+    },
     {
       "titulo": "Gobierno arremete contra Bachelet y Boric tras carta sobre Escudo de las Américas: \"No nos parece que usen la política exterior de Chile para atacar\" - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTmVBdUIwT3lsRFlseFNBOWNqRTNJb2hzdng1TEQ5Z1JPSWtzSDFMWTM1ZWF6YTZ4UEFRVFRNU2NtSmNaUzdySmg5VWljQ1I4cFFXZ0VKenpLTl95UDg0NmxhX1cwUVhwb2F5WDZFWVhmcXIwSnlzb0pvdk5uRjd3cS1Gck5Cb19NWGlhYm5fTFFUN0ZKbkd5ZldhLWtwSUVUTHp2ZWQ4N0RnTC1BeTFCSUhqMlVwNGRyM0tLR2hpUQ?oc=5",
@@ -12,6 +24,19 @@
         "Presidente"
       ],
       "fecha": "2026-09-25T17:00:00+00:00"
+    },
+    {
+      "titulo": "Robaron de madrugada tres camionetas municipales en Putre y ya están a la venta en Bolivia",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/robo-de-vehiculos/robaron-de-madrugada-tres-camionetas-municipales-en-putre-y-ya-estan-a/2026-09-25/135811.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un grupo de delincuentes ingresó a dependencias de la Municipalidad de Putre, en la Región de Arica y Parinacota, y robó tres camionetas fiscales, que ya están siendo comercializadas a través de redes sociales en Bolivia.\nEl hecho, ocurrido en horas de la madrugada, fue denunciado de inmediato a Carabineros, que inició las diligencias correspondientes.\nSin embargo, el municipio informó que chutero",
+      "categorias": [
+        "Partidos políticos",
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-25T16:58:11+00:00"
     },
     {
       "titulo": "Pavez responde a Boric y Bachelet: “No nos parece usen la política exterior para atacar al gobierno” - ADN Radio",
@@ -360,6 +385,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-25T13:56:32+00:00"
+    },
+    {
+      "titulo": "Presidenta del Servel asegura que recorte del presupuesto para el servicio será de 15%: \"Nunca habíamos tenido una situación similar\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM0xGTm5McUk5R2VzSzVUZ3FUcnh2ZHR2cS1kdTRwbGt6aTBKSFh2RFZ2ZEdLTHA5RDNDQmNHMzUzWnNJaElpdEpHeG4wanM2bVQ1X1RvMkFZSm9JenlQOTFHTEhzNktwd2MzR1p1VzJCMUNsQy1oaEwzWlgtTUt6MFpDaEJkY25HU01qVUxrbUxocGhzN2IyWmZ1RkdEd3U0Y0hyYW41SXRXdVRvYmd2S3dSLVNWTVVzTXc?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenta del Servel asegura que recorte del presupuesto para el servicio será de 15%: \"Nunca habíamos tenido una situación similar\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-09-25T13:51:00+00:00"
     },
     {
       "titulo": "Presidenta del Servel asegura que recorte del presupuesto para el servicio será de 15%: \"Nunca habíamos tenido una situación similar\" - Teletrece",
@@ -5587,39 +5623,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-22T17:48:00+00:00"
-    },
-    {
-      "titulo": "Diputados oficialistas presentan proyecto para eliminar a trabajadores del directorio de Codelco y FTC se declara \"en estado de alerta nacional\" - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQzJTUXE5b3hqTVhIYWxQQWdJNVVFNzNoVi1RMW50UEZqNjJnYW1aRm1FcmhoelRTVm5yakhZM2t0OEtCZHoyM25wNGFrMWltOVNjVGo0cTYzR1JYOXFwNU90bzkxS2RNVFlUTTdUTm5rSWlFMFRXM0ZGQm5KR09INE80cW5ocVlKV05va2RjM09fNC0zOU01Y29VVlNHdWlpRFFfMFRRenM1aTc3?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados oficialistas presentan proyecto para eliminar a trabajadores del directorio de Codelco y FTC se declara \"en estado de alerta nacional\"&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-22T17:48:00+00:00"
-    },
-    {
-      "titulo": "Sofofa: Hay que derribar el mito de que la inversión va contra el cuidado del medioambiente",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/sofofa-hay-que-derribar-el-mito-de-que-la-inversion-va-contra-el/2026-09-22/144652.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La presidenta de la Sociedad de Fomento Fabril (Sofofa), Rosario Navarro, abordó las medidas para enfrentar la emergencia laboral del país en el ciclo de conversatorios \"Trabajo 3x3\", impulsado por el gremio, apuntando a que se debe agilizar la entrega permisos medioambientales para la industria.\nUna de las conversaciones de hoy se titulaba: \"Inversión y crecimiento para el empleo\", en la que Nava",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-22T17:46:52+00:00"
-    },
-    {
-      "titulo": "Kast se rinde y se alinea con Trump y asegura que el Escudo de las Américas \"va en la misma línea\" del interés de Chile",
-      "link": "https://cambio21.cl/politica/kast-se-rinde-y-se-alinea-con-trump-y-asegura-que-el-escudo-de-las-americas-va-en-la-misma-linea-del-interes-de-chile-6ab2bd523467be1e55170dd3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-22T17:44:51+00:00"
     }
   ]
 }
