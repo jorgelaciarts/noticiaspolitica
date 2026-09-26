@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-09-26T03:31:42.723463+00:00",
+  "actualizado": "2026-09-26T03:46:36.356844+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La peor crisis de \"las derechas\" en el Gobierno: Senadora Gatica defiende a Presidenta del Senado (RN) por pedir cambio de gabinete. Y arremete contra partido de Kast: \"La derecha valiente está en Valparaíso votando y la cobarde, de viaje en Nueva York”",
+      "link": "https://cambio21.cl/politica/la-peor-crisis-de-las-derechas-en-el-gobierno-senadora-gatica-defiende-a-presidenta-del-senado-rn-por-pedir-cambio-de-gabinete-y-arremete-contra-partido-de-kast-la-derecha-valiente-esta-en-valparaiso-votando-y-la-cobarde-de-viaje-en-nueva-york-6ab73b765152832f83259133",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-26T03:37:43+00:00"
+    },
     {
       "titulo": "VEA EL VIDEO. El muy mal inglés de Kast en la ONU se toma las redes sociales y se torna viral. Ha sido trending topic o tendencia nacional durante más de 30 horas",
       "link": "https://cambio21.cl/pais/vea-el-video-el-muy-mal-ingles-de-kast-en-la-onu-se-toma-las-redes-sociales-y-se-torna-viral-ha-sido-trending-topic-o-tendencia-nacional-durante-mas-de-30-horas-6ab7247c7ef8285683449f23",
@@ -644,6 +657,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-25T16:50:53+00:00"
+    },
+    {
+      "titulo": "Nuevo sistema frontal aterrizará en La Araucanía este fin de semana",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/nuevo-sistema-frontal-aterrizara-en-la-araucania-este-fin-de-semana/2026-09-25/134821.html",
+      "fuente": "Cooperativa - Regiones",
+      "region": "Nacional",
+      "resumen": "Mientras las autoridades todavía gestionan las consecuencias del temporal que afecta a la zona sur del país, la Dirección Meteorológica anticipó la llegada de un nuevo sistema frontal en la Región de La Araucanía para este fin de semana.\nSi bien la intensidad de las precipitaciones se redujo este viernes, está previsto que vuelva a caer más agua en horas de la tarde, y además, es probable que se r",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-25T16:48:21+00:00"
     },
     {
       "titulo": "La Moneda y declaración de Bachelet y Boric: \"Hay una intención de hacer una confrontación política\" - Emol",
@@ -5616,30 +5640,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T21:00:41+00:00"
-    },
-    {
-      "titulo": "Kast propone a Pedro Huichalaf (PPD) y Marcela Sabat (RN) para directorio de TVN - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZEo0X3VCaVJVczNHMkl0WF8ycWNTNTRGcHhyR09sOWJTRl9GaWtOZGtITHhUZTdWZmtCeWpOR2QxQzkyX1ZnNWVaU2hQNl9Ib1VFd2JqRGtjdWVPUTJ0OFNYcUdRX1dFdkdRWEtISmlNYjhCakF2bTJ0emYxWjlqMndLSDZ2ZTJUbFhwU2E4SFRQZUphcHEya191R0VrdTZyZ3lmcUp1ZnJ6dThTME1LVEpONldZTkw5UUtNM1lxbGo1Wjg2aVhxMA?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast propone a Pedro Huichalaf (PPD) y Marcela Sabat (RN) para directorio de TVN&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-22T20:59:16+00:00"
-    },
-    {
-      "titulo": "Qué es el Escudo de las Américas, iniciativa a la que se adhirió el gobierno de José Antonio Kast - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNVRQR19FREEzdlMyMVJlZkZrVDB3U3B2b1hMcmNkNHFVWUxfVDc4OTBvbGh5RVliNlYyWVphUXRvRHZwVk0tUFVvcTRBamxJUUQzSEMwcFMxeHJQV0I2aFg4RHVzZlpQdWNfUGtoZEJXM2s4bEZlUGdYNlQ3ZmlBd0dwM2c4Z1M1S19uQVc5eHlnemdGeWlNZUpsM0RvRGlxNV82d0t0czJPWGUzMnJ0TnVFWXdmUDdob3VOaDhzaXNIem1YbUJwY2UzSk9KczRYclc5UXpfUdIB-AFBVV95cUxPbWhGREc1TmwwbXl4TG5TenR4SFNfUUZlekUtcWJIYVNHNkl6cFJXS2JpZndvbnJ5TE1DeDhsYk1mLUM0dHBiQ2Y0ckQwMlhXd1kyWGtjY2tkeDVwMjRaS0VXZEE3RTBBTThJSWFuXzNHM20wR25JVTBaR2t5MjdXdHNmRThBcDBWTUl1Z20tTEhQNENFZlNRR293VkdpUklYRmlMYzRnLU5vcWNKNk5WS09GTGpHZFMycmh3bmw0eXJacHJmNS1ZeUNZZ0V3eHlxaHR6cktvSlROaFNPZzJGQmFwNWIzVThHQWJkbkZfODdYeGlON1FPRA?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Qué es el Escudo de las Américas, iniciativa a la que se adhirió el gobierno de José Antonio Kast&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-22T20:59:09+00:00"
     }
   ]
 }
