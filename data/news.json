@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-26T11:46:32.763017+00:00",
+  "actualizado": "2026-09-26T12:01:33.687761+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Servel alerta sobre eventual ajuste de un 15% a su presupuesto",
+      "link": "https://ladiscusion.cl/servel-alerta-sobre-eventual-ajuste-de-un-15-a-su-presupuesto/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La discusión por la Ley de Presupuestos 2027 sumó una nueva preocupación luego de que la presidenta del Servicio Electoral (Servel), Pamela Figueroa, advirtiera sobre los efectos que podría tener una reducción de 15% respecto de los recursos solicitados por el organismo para el próximo año. En conversación con CNN Chile, la autoridad confirmó que [&#8230;]",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-09-26T11:53:24+00:00"
+    },
+    {
+      "titulo": "Camioneros piden al gobierno “transparentar”  medidas ante nuevas alzas del diésel",
+      "link": "https://laprensaaustral.cl/2026/09/26/camioneros-piden-al-gobierno-transparentar-medidas-ante-nuevas-alzas-del-diesel/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El gremio advirtió que “no es posible soportar nuevas alzas sin graves efectos económicos” y pidió medidas de mitigación con foco en el sector productivo. &#160; La Confederación Nacional de Dueños de Camiones de Chile (CNDC) pidió este viernes al Gobierno de José Antonio Kast que “transparente” las medidas que aplicará ante la eventual suspensión...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-26T11:49:09+00:00"
+    },
     {
       "titulo": "(VIDEO) Boric y Bachelet cuestionan la adhesión de Chile al ‘Escudo de las Américas’",
       "link": "https://www.elciudadano.com/reels/video-boric-y-bachelet-cuestionan-la-adhesion-de-chile-al-escudo-de-las-americas/09/26/",
@@ -5620,29 +5643,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T22:23:05+00:00"
-    },
-    {
-      "titulo": "Kast explica porqué ingresó al Escudo de las Américas alianza policial-militar creada por Trump: “Que nadie crea que estamos pasando a llevar la soberanía de Chile”",
-      "link": "https://cambio21.cl/pais/kast-explica-porque-ingreso-al-escudo-de-las-americas-alianza-policial-militar-creada-por-trump-que-nadie-crea-que-estamos-pasando-a-llevar-la-soberania-de-chile-6ab2ff8393881e594265ae2c",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-22T22:22:58+00:00"
-    },
-    {
-      "titulo": "Senador Castro y alcaldes de La Estrella y Litueche gestionan solución para conectar a más de 2.500 familias de Cardenal Caro a la red eléctrica - El Rancagüino",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ2lFR2F3VXF6ci1fT1ltWmlkeW5Nc3BfcFFwdkVfeW1pVGk3YWRJTF93a1hBbXZfbFZ6OWFXZlhvbjF2bEdGZTBkcGVoem1ibzFOM0lPMDNsVTVmN1dYdmstTTQzOWNyTXNPS0xXNl9iRnBpd3dCZVQyeWF5TVRpbF9iVGdCdnhIYS12bTNFX2w0S20wRHFvSU9pNXRkdGowbmY0R1d0dzhiMUFSLUxBSGNLaC1pNXlDSkJwNk9iZ2llU3NYbzh6ajdmc0FYeHM2VUFkWi1xNDczWWFWd2hNU25MZUdsUURNZzg3QjdsSWdfWHBrV0doMy1EZldTdHI2Yml1THVZX2VlSWRyUnY2RnVR?oc=5",
-      "fuente": "El Rancagüino (vía Google News)",
-      "region": "O'Higgins",
-      "resumen": "Senador Castro y alcaldes de La Estrella y Litueche gestionan solución para conectar a más de 2.500 familias de Cardenal Caro a la red eléctrica&nbsp;&nbsp;El Rancagüino",
-      "categorias": [
-        "Senadores",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-22T22:13:00+00:00"
     }
   ]
 }
