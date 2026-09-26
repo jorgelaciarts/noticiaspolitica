@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T17:46:23.327831+00:00",
+  "actualizado": "2026-09-26T18:01:41.119806+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-26T17:13:46+00:00"
+    },
+    {
+      "titulo": "PPD: Interpelación al canciller debe centrarse en la pésima decisión de adherir al Escudo",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/ppd-interpelacion-al-canciller-debe-centrarse-en-la-pesima-decision-de/2026-09-26/140606.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado y presidente del PPD, Raúl Soto, elevó el tono contra la adhesión de Chile al Escudo de las Américas y subrayó que esa \"pésima decisión\" debe ser el centro de la interpelación que enfrentará el canciller Francisco Pérez Mackenna el lunes en la Cámara. \nLEl interrogatorio -a cargo del diputado socialista e integrante de la Comisión de RR.EE. Nelson Venegas- abordará la gestión diplomáti",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-26T17:06:06+00:00"
     },
     {
       "titulo": "Kast: Encuesta P!ensa alerta por expectativas y clase media - Ex-ante",
@@ -5634,17 +5646,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-23T01:15:24+00:00"
-    },
-    {
-      "titulo": "Kast tras revés en expulsiones: “Hoy perdió Chile” y abre opción de insistir en el Senado - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZllJNFZITHNldzJidUw3VFNwdW9MbmpCeWZCZHRIYlY2R0luYTdrN0RqSmExY1lIZVRtVjZmdVEwMm41dW9iWFJCeTZOZlg1cHpzWkJYa3ItdDNBV3hSSE50TDRIUEE3bXpaUEZWTmJlck1ITmFTRFN2QTVmNkJ6NmdoUHJ5a2thcW04Q1lvOXdkb284aXdfdXRWdl9fSF82MWlEYUphWWJTTUIyaGstc1JxZnY5Q1hPQXN3OGpNMk1qT1poeGhGLWNxbDR6bEZjWFlBMDBR?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast tras revés en expulsiones: “Hoy perdió Chile” y abre opción de insistir en el Senado&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-23T01:11:41+00:00"
     }
   ]
 }
