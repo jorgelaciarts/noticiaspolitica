@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-26T13:31:41.890747+00:00",
+  "actualizado": "2026-09-26T13:46:30.548280+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,18 @@
         "Diputados"
       ],
       "fecha": "2026-09-26T13:03:58+00:00"
+    },
+    {
+      "titulo": "Analista: \"El candidato Kast le habría pedido ya la renuncia al Presidente Kast en más de una ocasión\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/analista-el-candidato-kast-le-habria-pedido-ya-la-renuncia-al/2026-09-26/094547.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El cientista político y gerente de la consultora Imaginacción, Ignacio Imas, dijo a Cooperativa que transcurridos seis meses de Gobierno, vistos los pésimos resultados económicos y el desorden y falta de coordinación entre el Ejecutivo y los partidos oficialistas, \"el candidato Kast le habría pedido la renuncia en más de una ocasión al Presidente Kast\".\n\"(Su Administración) tiene problemas profund",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-26T12:45:47+00:00"
     },
     {
       "titulo": "El 58% del comercio no denuncia los delitos que sufre \"porque no hay confianza en el sistema\"",
@@ -5635,17 +5647,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-22T22:28:21+00:00"
-    },
-    {
-      "titulo": "Derrota oficialista en la Cámara: Rechazada reforma constitucional que ampliaba plazo de detención en expulsiones administrativas",
-      "link": "https://www.elciudadano.com/chile/derrota-oficialista-en-la-camara-rechazada-reforma-constitucional-que-ampliaba-plazo-de-detencion-en-expulsiones-administrativas/09/22/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nTras no alcanzar el quórum exigido para una reforma constitucional, la Cámara de Diputadas y Diputados rechazó el proyecto del gobierno que ampliaba el plazo de detención para las expulsiones administrativas (boletín 18314). De acuerdo a la normativa vigente, la iniciativa requería de un mínimo de 89 votos favorables, pero alcanzó 88, frente a 28 [&#8230;]\nLa entrada Derrota oficialis",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-22T22:27:05+00:00"
     }
   ]
 }
