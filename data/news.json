@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-26T21:31:54.947152+00:00",
+  "actualizado": "2026-09-26T21:46:20.522098+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La oposición convocó acto de desagravio y homenaje público a Michelle Bachelet",
+      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/la-oposicion-convoco-acto-de-desagravio-y-homenaje-publico-a-michelle/2026-09-26/181222.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los partidos de oposición anunciaron la realización de un encuentro político y ciudadano para este miércoles 30 de septiembre, con el objetivo de rendir un homenaje a la trayectoria e influencia de la expresidenta Michelle Bachelet (2006-2010 y 2014-2018).\nLa convocatoria —suscrita por el Partido Socialista, el Partido por la Democracia, la Democracia Cristiana, el Frente Amplio, el Partido Libera",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-26T21:12:22+00:00"
+    },
     {
       "titulo": "Encuesta sobre cesantía es lapidaria con el Gobierno: 57% asegura que desempleo es responsabilidad del gobierno de Kast. 87% afirma que Chile tiene una emergencia laboral",
       "link": "https://cambio21.cl/politica/encuesta-sobre-cesantia-es-lapidaria-con-el-gobierno-57-asegura-que-desempleo-es-responsabilidad-del-gobierno-de-kast-87-afirma-que-chile-tiene-una-emergencia-laboral-6ab82ca8f0a8284f8e3f7e33",
@@ -5640,17 +5652,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-23T08:25:31+00:00"
-    },
-    {
-      "titulo": "Kast adhiere al “club de Trump” que promueve el fin de la CPI y sacar a China del hemisferio - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcTJDRUJlTFB5blM3eUhWYXNxZ3JsSG5jdFZJQ08xckxfNFlfcnNJNVhjMWVBWlVzQl9kXzBiNFNqZHdyZ0NDYWJ5RXFkVUhfSHJQX3hCN2NrMUoxYkRxcU1tVU1oeXUtQ0ZDTUx6WnM3T1lUZ09zbW9pcWFfU1pYM0paVFljRmpjMnF5OEE0Zk5zS2lRMG5WLVE4WTdsaU5GbmJ4c3RKMzF2OVZoRk1XTEkyYnVOaGRWSExoZXQyNEVtaUQwVjYzU21EVzh0ZFhDVGEwQXozNnU0SU0?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast adhiere al “club de Trump” que promueve el fin de la CPI y sacar a China del hemisferio&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-23T08:10:48+00:00"
     }
   ]
 }
