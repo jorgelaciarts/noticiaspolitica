@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T16:46:35.787520+00:00",
+  "actualizado": "2026-09-27T17:01:44.471764+00:00",
   "total": 500,
   "items": [
     {
@@ -122,6 +122,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-27T15:22:00+00:00"
+    },
+    {
+      "titulo": "Agenda Criteria: aprobación del Presidente Kast llega a 31% - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVmZMTm5MemRYOGtHZ1ltREd0b28zcGN1REk5Y1NlMmRscmlkQ3I1eXZqU2FtTGlGRG9RRldySGVZa09kM2o2OHJXaFQ3SjBQMjY5UjlJZzN6UFJHU3VpUkRxY3R2QkI4NFU3Sl9vRjFmNkZlYXlrMVlzRHZwSThERG5SNlBvNmFXaU5DWDIzeF9faTBQMVRMMzdjQnVsMlRJbWtJTXFmMnlTb2NDS3BLMnEzYVBqNFdR?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Agenda Criteria: aprobación del Presidente Kast llega a 31%&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-27T15:17:38+00:00"
     },
     {
       "titulo": "Escudo Américas: Alvarado responde carta de Boric y Bachelet - Ex-ante",
@@ -3481,6 +3492,17 @@
       "fecha": "2026-09-24T19:53:49+00:00"
     },
     {
+      "titulo": "Alcalde de Chile Chico: \"Dejarnos sin subsidio aéreo es un acto autoritario de este gobierno\" - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcW1SNmpNSkNIenNkQ0YzdXZiNzdwNHNsRGtXcGxOWHNUbUVIaE15cnVhamxOSENkRFRhbl9rQXpSY0ZTTW1lcXo4LU81SFdTdFJIZ295aTFxd3JXdzhsLWpVZ0M5a0VEVzdOLVZjeU1DNW9WaHU2NjgtODR3OHZ1dWFaQ3JGUkp4RG5GWkNRS1FndlVweVdiczRuZkIyUTdIY0V1UVJqVWlxajRwS3JvYzA3NGN4N3JZR25KMFNIc0V3dmdoNnNjNDg3c3ZtSld6MzhlRzNFUE4?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Alcalde de Chile Chico: \"Dejarnos sin subsidio aéreo es un acto autoritario de este gobierno\"&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-24T19:47:38+00:00"
+    },
+    {
       "titulo": "Kast sobre ingreso de Chile al Escudo de las Américas: “No vamos a perder nuestra soberanía” - elobservatodo.cl",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObFZFcEItSFpqU05mRU9JZUxZTkNVbENJYWZ3NFlha05JLTczTFljM0RnUi1HMkxWU1poVTZQNHNQcS15N0NwbnJINndRV0ZzWXh0c2MzNWd4RDlwOHk0OGpReGpPSm9BNW54QWZhWm5pNjRLRUVxOVVlcHNJRTRBMkI0a0FabE9FMDU2ajVuRE14RzZLZndpMy0tWGFfbS03U0k4NkdnYXpEX0sxSDhvVG90NzZIaExoQWRxVS0ybVp5anFzSTJMUA?oc=5",
       "fuente": "El Observatodo (La Serena, vía Google News)",
@@ -5616,37 +5638,15 @@
       "fecha": "2026-09-23T16:42:49+00:00"
     },
     {
-      "titulo": "Adhesión al Escudo de las Américas de Trump se toma gira de Kast por posibles alcances en coordinación militar - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQM1NZN0NONmRtUlpmTXhJazNtVEdmM1dYTWdRYjBNMzRPdnpPdDdkY3V4UWpmZU1TM3pXX1oySEpYdDBWR0VlOGNwYnQ1bmhrdVpQN0E2dUFTU1YwZXhzdHFMUk0wU2lSblV5S21RSlpEMDNSdHB1aVd0SVJGRFhKYWRaYi1Ib0pEOHo4MzdKdmpQUUZPalpJcndWbWxadGdTLTNGbjUxYWtrLUtpWE5LS1FjZEdOb2otVEY3Z2dpOU5kVHgzQUlqZmo1eXF3Y2NyVnFYaWthQm50YmV6c3Nyel81U3Exa2xYa3fSAYsCQVVfeXFMTnBGZnN5bjdhVzY5RDdUR1ZjcUxORldWNWJoWXgwN1JvSmRGVjgyN0hKeUZ6cnNyQUJyYmpqdmNIdHNtRW02ZkN5bDIzS1RtcGVLV3dZZzF0QzFCbkpGTnhJdTh3V1I4VXZYaTh1UmJSMWpvYXNpQXpKRzdRdE1jeHdvcmpuRTlqTldPaG9nOGIzbHJtNG4xRG5rTHVvVEVoYzdvLWlXRnQ2R3l2NGFiUG1fUlpOWXF0NGl6LTdRTndYRUtFU0RVaXhsWDJRbDRNUFBJc25zMHNsRURRb0RoOXFCcVVSTDkxTXRGY0g2R0p2ZjdIbVNIc01yOFd0V3RBSGhCc2ZkNlYyelRF?oc=5",
-      "fuente": "La Tercera (vía Google News)",
+      "titulo": "La Moneda descarta efectos comerciales por el ingreso de Chile al Escudo de las Américas: “No está en juego la relación con China” - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcWZCRmtfeFlqa3VtdEJsOTVrTmJKbXNCYi16ZUtrbTZhanVacmF5enJUaU5IZXB1VFg1VDVaRHZ4aHlGMldQWU1fdHNaeE5NZ1ZGaWkweUtTS1BhdmROMkU2LVN5OWVWblN2ZHhDeDdBSVllTkxtQWZSN0VBNGI2d3ZwcGx6ZmxYWHhPek9EdnlTRDktSk0zb0hhVWg1cDRkalpVNzhQM2kyQXpsN0ZFZWxCcEN1aHJjbzNZcWNqMA?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
       "region": "Nacional",
-      "resumen": "Adhesión al Escudo de las Américas de Trump se toma gira de Kast por posibles alcances en coordinación militar&nbsp;&nbsp;La Tercera",
+      "resumen": "La Moneda descarta efectos comerciales por el ingreso de Chile al Escudo de las Américas: “No está en juego la relación con China”&nbsp;&nbsp;Diario Financiero",
       "categorias": [
         "Presidente"
       ],
-      "fecha": "2026-09-23T16:34:56+00:00"
-    },
-    {
-      "titulo": "Diputado Alinco denuncia presuntas vulneraciones a adultos mayores y abusos en ELEAM de Coyhaique - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnVjd2RkT1RSaTFuTmZVV2lybUY3M0J6TmQ0VW1scXFlNTZkc1E5VXFuRnVKWEVXMndRRUVjNmRaWUJnTWR5SUxDRW5JVURpZ3BUYlB0SU1wbVRNNFFLTm1qMGF6Wlc3Zm5rY0NKaGJROTBFZ2dMTUhFSFAwVXhuSGdlQ3FjaHlFNXdSSjZzdWdqOW41MmxaOURwcmt1NVpfMHFlR2RPNlBxUm0zT0ZDTVowZDc0STRJYWfSAb8BQVVfeXFMTTNINGVMMW5ucDAtTktMY21tWEU3N2xlNXFPLU9GWnVvM2g5WkE1TURwMno5Q2o5YzVoWWJHMFdHR0s0Y190XzJjZHctZUkzMTBwNFNaaUFFc1R3S1l4OGhBY1kxeHNJQzlVLUNGWXNwbDlkYlpaVF9RZlFfUEFnSHBfRTJQS24zRHo2UEFxb3lOQWVEM3hFT0lRXzNFU1VvSHBEMldfdHJod1ZWcVFMWlA2bGt5UWwwMm1taGU4eHM?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Alinco denuncia presuntas vulneraciones a adultos mayores y abusos en ELEAM de Coyhaique&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-23T16:31:00+00:00"
-    },
-    {
-      "titulo": "Reforma política: Cámara da portazo a intento del PC y senador Urrutia para suavizar condena a gobiernos totalitarios - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbTlLRV9WaHZXTXQzZlNZWVpaVU92ZVdGVjNlQ3ZiYmZmV01RZElvdXQ2VTBHMUlRVnZaZHBNdDI4MDk2VnYzWHN1ZmVZb3dlZGdXRDlELWhRRDZDeEtJOHZibTZBQ2hyc0duSkN3eE4wdXpIMFJCWW9WRHpnb1FNTVREbW5EM1pvWEpTdVpLUzNWSWQ0VndJa1JhdVZKSVNLYTZUN2tTbUVRY2dzVHJBSkV6MlBVWUcteUliZXJUcl9laDNmSnBwdTUwUlhOOWtQV1BPTkdHQlpOaUsxRl9LOFR5eTlIQ0pzU0pPUGdDenNjQdIBkwJBVV95cUxNYmlBZTVMc1pfWXpxaHBjc3pvY25kUTVMTGJQSUh1bFg4aFFoTjFHZ2tLaHBtd3FQbWNuU0h1VXpIcDM3UWgtakhISlVfeEFscGwwVk1acVctdXBZYmJoYW8xcnVPTmxSS2doVWQzaWVKX1dodnZLTDdCQTl6b2ZlRjRhc2pMTDU3UGU0YmxoY0lKcHRUQzFFbkVBOWY4b0UxeTJDMlVPTjFIb1UxUFpaMk9rN1Zza1NkLWJKTUpSNTlOcFotdmhjSkJ4SkZmSlpYdjdTYkNYaWtCY0Q1Wkt0TkRrU0FmT0dkTm5RcTQyN202N0duRXBIdmxWckg5dFdSTDlSUV9SbENQeHB2MnlRR0lTdw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Reforma política: Cámara da portazo a intento del PC y senador Urrutia para suavizar condena a gobiernos totalitarios&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-23T16:29:35+00:00"
+      "fecha": "2026-09-23T16:35:00+00:00"
     }
   ]
 }
