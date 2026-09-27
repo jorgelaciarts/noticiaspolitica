@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T10:16:34.674615+00:00",
+  "actualizado": "2026-09-27T10:31:36.329259+00:00",
   "total": 500,
   "items": [
     {
@@ -379,6 +379,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-26T15:30:00+00:00"
+    },
+    {
+      "titulo": "Presidentes oficialistas califican de “desafortunada y mezquina” la declaración de Boric y Bachelet por adhesión de Chile al Escudo de las Américas - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX3dwS0w5NEhvU2RDa0RmZERSUDg5c2c1cWFzdmtrTkZFOVRVcEJMTkoxNFY1aFdoSi1WbkN4a3FEWWVEUU01aWhWTXlJMXJTb1Z3TTBhaUJ2R3hyNjJhRnZxMG5UOHA4MDhNY0VIT1g4SUlOT1VDX0NwUmtNU3J3OGFiNjVPN1g3ZzMzY19oY3IwLWRFT0U0ZUtPNXQ3M3oxaURpbDd2OA?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidentes oficialistas califican de “desafortunada y mezquina” la declaración de Boric y Bachelet por adhesión de Chile al Escudo de las Américas&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-26T15:29:21+00:00"
     },
     {
       "titulo": "(VIDEO) La verdad sobre lo que ocurrió detrás de cámaras en el quiebre del Partido Liberal y el Frente Amplio.",
@@ -5642,17 +5653,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-23T12:41:00+00:00"
-    },
-    {
-      "titulo": "“Avergonzando a Chile ante el mundo”: Vallejo acusa a Kast de culpar a otros por su gestión y subordinar al país a los intereses de Trump",
-      "link": "https://www.elciudadano.com/politica/avergonzando-a-chile-ante-el-mundo-vallejo-acusa-a-kast-de-culpar-a-otros-por-su-gestion-y-subordinar-al-pais-a-los-intereses-de-trump/09/23/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa exministra criticó la intervención de José Kast en la Asamblea General de la Organización de las Naciones Unidas (ONU) y cuestionó que \"volvió a hablar muy mal de nuestro país frente a la comunidad internacional, con la inmadurez de quien, después de 6 meses de ‘gestión’, sigue echándole la culpa a otros de sus propias insuficiencias y malas decisiones y con la falta de dignidad qu",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-23T12:40:48+00:00"
     }
   ]
 }
