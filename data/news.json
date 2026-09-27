@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-27T01:46:40.427075+00:00",
+  "actualizado": "2026-09-27T02:01:20.564304+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Más de 3,7 millones serán denunciados por no votar: en Ñuble Servel aún depura los casos",
+      "link": "https://ladiscusion.cl/mas-de-37-millones-seran-denunciados-por-no-votar-en-nuble-servel-aun-depura-los-casos/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La cifra de electores que deberá enfrentar un proceso ante los juzgados de policía local comenzó a tomar forma definitiva. El Servicio Electoral (Servel) informó que 3.760.261 personas que no sufragaron en las elecciones presidenciales y parlamentarias de 2025 serán denunciadas por el organismo, en cumplimiento de la normativa que estableció el voto obligatorio. El [&#8230;]",
+      "categorias": [
+        "Servicio Electoral",
+        "Elecciones"
+      ],
+      "fecha": "2026-09-27T01:52:14+00:00"
+    },
     {
       "titulo": "Kast cambia el tono, pero la crisis se instala en el gabinete y llega hasta las regiones",
       "link": "https://ladiscusion.cl/kast-cambia-el-tono-pero-la-crisis-se-instala-en-el-gabinete-y-llega-hasta-las-regiones/",
@@ -5641,18 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-23T11:03:00+00:00"
-    },
-    {
-      "titulo": "Magallanes, IA y llamados a la inversión: nueve  frases que marcaron el discurso de Kast en la Onu",
-      "link": "https://laprensaaustral.cl/2026/09/23/magallanes-ia-y-llamados-a-la-inversion-nueve-frases-que-marcaron-el-discurso-de-kast-en-la-onu/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El Mandatario chileno hizo ayer su primera intervención ante el organismo internacional en Nueva York. &#160; Desde “Chile está de vuelta” hasta “esta Organización no ha estado a la altura”. Esas fueron algunas de las frases que dejó ayer la intervención del Presidente José Antonio Kast ante la Asamblea General de Organización de Naciones Unidas...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-23T11:00:44+00:00"
     }
   ]
 }
