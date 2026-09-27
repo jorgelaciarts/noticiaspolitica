@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T11:31:36.726915+00:00",
+  "actualizado": "2026-09-27T11:37:52.508907+00:00",
   "total": 500,
   "items": [
     {
@@ -116,6 +116,18 @@
         "Elecciones"
       ],
       "fecha": "2026-09-27T01:52:14+00:00"
+    },
+    {
+      "titulo": "Panel Ciudadano UDD: un 51% apoya la incorporación de Chile al Escudo de las Américas",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/panel-ciudadano-udd-un-51-apoya-la-incorporacion-de-chile-al-escudo-de/2026-09-26/215459.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un 51% de la ciudadanía aprueba el ingreso de Chile al Escudo de las Américas, en contraste con un 32% que rechaza la medida, según reveló la última edición de la encuesta Panel Ciudadano UDD, difundida por El Mercurio.\nEl estudio de opinión se desarrolló en medio de la controversia política surgida tras la confirmación de la incorporación del país a este bloque de 15 naciones, impulsado por Estad",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-27T00:54:59+00:00"
     },
     {
       "titulo": "Panel Ciudadano UDD: un 51% apoya la incorporación de Chile al \"Escudo de las Américas\"",
@@ -5645,17 +5657,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-23T12:59:00+00:00"
-    },
-    {
-      "titulo": "Diputada Hassler expresa preocupación por artículo de la reforma al mercado de capitales que “traspasa responsabilidad de fraudes bancarios a los usuarios” - cronicadigital.cl",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPVm5DQWJ1OVgtTzhsLTl4M0x0S0dxWmRlTGZ0MmNTVTB0eFdFRE5handmMEdtUXNRcE9OQmtoZ3hKYkJyREd3ZURhbDRHQXFJMmJWZ1ZUbEZqLWNCa2VYbFVYVkpiLU9tNTVOOXlMa1BvSy03Z3hud19XbDRjVlo3TXFzNTZrZXhvUjJwbGNXcjA1czkyU2JMNmdoT3d6TmF5Q3Nnbm14eXIxR2ZuQzhpaUx3QmxsQU11ZmZPODVXa01JZlZNaU9fS0w5QWltNFZzUWFkUnpkZGJXSW9jSExuWEVabUZZbm1BY1JDSzQzeVZvVTdEWk8tYVVVTWlPUWhFREhJVXBFUHBEcjV4?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Hassler expresa preocupación por artículo de la reforma al mercado de capitales que “traspasa responsabilidad de fraudes bancarios a los usuarios”&nbsp;&nbsp;cronicadigital.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-23T12:52:44+00:00"
     }
   ]
 }
