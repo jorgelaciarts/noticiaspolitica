@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-27T18:01:39.335877+00:00",
+  "actualizado": "2026-09-27T18:16:19.925308+00:00",
   "total": 500,
   "items": [
     {
@@ -69,6 +69,19 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-27T17:13:19+00:00"
+    },
+    {
+      "titulo": "Gobierno promete que el canciller dará \"respuestas claras de las razones\" para adherir al Escudo",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-promete-que-el-canciller-dara-respuestas-claras-de-las/2026-09-27/140136.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno prometió que, durante su interpelación de este lunes en la Cámara Baja, el canciller Francisco Pérez Mackenna entregará \"respuestas claras sobre las razones\" de la adhesión de Chile al Escudo de las Américas.\nEl interrogatorio -a cargo del diputado socialista e integrante de la Comisión de RR.EE. Nelson Venegas- abordará la gestión diplomática del ministro, marcada por reiteradas polém",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-27T17:01:36+00:00"
     },
     {
       "titulo": "PCC arremete contra RN: \"No se puede estar un día en el Gobierno y después actuar como oposición\" - Emol",
@@ -424,6 +437,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-27T13:25:05+00:00"
+    },
+    {
+      "titulo": "Pulso Ciudadano: aprobación del Presidente Kast cae al 28,2% y economía es la principal preocupación - 24horas.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWnVEMjBxWnhDdWRlS1ZFUGlhX1RFdEI2eG9IZ3FCczhiekF4TW1GOGJsRDVnQ0FZWm5NQnR0ODJod3NWclF5Njh3TUlNYkkyWGFqMW9rckQ1ejNTZ0pzajN4b1JDOVN2NWE2MEVwT2RhY0lMN3BTdXRjQjZ0d1pTdUxpeThfeFM3TVRtSFZaM0ZuZ0tNcU9vSXFiZm0xVlBFOXUxWEZab0prWWVadlRSNDQ1bXVqdzF3?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Pulso Ciudadano: aprobación del Presidente Kast cae al 28,2% y economía es la principal preocupación&nbsp;&nbsp;24horas.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-27T13:24:00+00:00"
     },
     {
       "titulo": "Pulso Ciudadano: Aprobación de Kast se desploma al 28,2% y desaprobación alcanza el 57,6% - BioBioChile",
@@ -5621,29 +5645,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-23T17:52:07+00:00"
-    },
-    {
-      "titulo": "Confech convoca a paro nacional para frenar recortes del gobierno de Kast en educación pública - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmtsSDBHbmJSb094V0p6dGlwWVhEcnp6RlJZRFFINy0yVW9VR2UyeXdRN1pDZFZnUzBpM0pjaHBWRFJFbGRPbG8tajZTOE9udU9uRFpyZzQ2S2ExWnYxcEpwb2MyNXNrOTQ3RU9fSHBHVEhGa0ttQUsxZHdRbjBvRlVFdV9CVzh3MjBrekJ0Q0JzN1d2cWRRenRXVHNGa3RtMHBHSHR3cmlRSG5GcjhROHgtdXUtRUFPSHpDSjZqc1NIUGM5WHc?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Confech convoca a paro nacional para frenar recortes del gobierno de Kast en educación pública&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-23T17:49:01+00:00"
-    },
-    {
-      "titulo": "El Gobierno sigue alistando su plan pro empleo",
-      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/el-gobierno-sigue-alistando-su-plan-pro-empleo/2026-09-23/144713.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El biministro del Interior y Segegob, Claudio Alvarado, informó este miércoles que el Gobierno continúa afinando los detalles de su anunciado Plan Integral de Empleo para enfrentar la actual emergencia laboral, y adelantó que será presentado al concluir la gira del Presidente José Antonio Kast en Nueva York.\nAl ser consultado por anuncios a corto plazo en materia laboral y reactivación económica, ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-23T17:47:13+00:00"
     }
   ]
 }
