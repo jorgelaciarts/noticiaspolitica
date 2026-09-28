@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T00:31:42.121710+00:00",
+  "actualizado": "2026-09-28T00:46:37.819422+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-27T23:32:43+00:00"
+    },
+    {
+      "titulo": "Arrau calificó baleo a carabinero en Lo Espejo como un ataque \"a todo el pueblo de Chile\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/arrau-califico-baleo-a-carabinero-en-lo-espejo-como-un-ataque-a-todo-el/2026-09-27/202525.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Seguridad, Martín Arrau, condenó enérgicamente el ataque a balazos que dejó a un funcionario de la 42ª Comisaría de Carabineros de Lo Espejo internado en estado de extrema gravedad, luego de ser alcanzado por un disparo en la cabeza durante un procedimiento en la comuna.\nHasta la Clínica Las Condes acudieron el titular de la cartera y el subdirector de la policía militarizada, gener",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-27T23:25:25+00:00"
     },
     {
       "titulo": "Alvarado defiende Escudo de las Américas y responde a Bachelet y Boric: \"Espero haya sido un traspié\" - BioBioChile",
@@ -5631,17 +5642,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-23T19:40:11+00:00"
-    },
-    {
-      "titulo": "Alcaldes Iglesias y White por ley de seguridad municipal: “Senado la está haciendo eterna”",
-      "link": "https://www.lanacion.cl/alcaldes-iglesias-y-white-por-ley-de-seguridad-municipal-senado-la-esta-haciendo-eterna/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "Los alcaldes de Independencia, Agustín Iglesias, y de San Bernardo, Christopher White, cuestionaron la demora en la tramitación de la denominada ley corta de Seguridad Municipal y advirtieron que siguen pendientes materias relevantes para implementar la nueva legislación.“La llamaron ley corta, pero el Senado la está haciendo eterna, la lentitud es desesperante. Si todos decimos [&#8230;]\nThe post",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-23T19:39:09+00:00"
     }
   ]
 }
