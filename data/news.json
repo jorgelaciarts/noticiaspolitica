@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-28T11:46:35.333019+00:00",
+  "actualizado": "2026-09-28T12:01:47.654811+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gobierno presentará este lunes su plan  proempleo: las claves de la iniciativa",
+      "link": "https://laprensaaustral.cl/2026/09/28/gobierno-presentara-este-lunes-su-plan-proempleo-las-claves-de-la-iniciativa/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Cerca del mediodía de este lunes, el Presidente José Antonio Kast presentará el programa diseñado por su gobierno que busca reactivar el empleo en el corto plazo con una serie de medidas. Así lo confirmó ayer el biministro de Interior y Segegob, Claudio Alvarado, en conversación con el programa “Estado Nacional” de TVN. El jefe...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T11:50:18+00:00"
+    },
     {
       "titulo": "Estratega digital de Kast fue sancionado por Servel y su agencia facturó más de $2 mil millones en la elección de 2025",
       "link": "https://www.elciudadano.com/politica/estratega-digital-de-kast-fue-sancionado-por-servel-y-su-agencia-facturo-mas-de-2-mil-millones-en-la-eleccion-de-2025/09/28/",
@@ -5631,17 +5643,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-23T22:30:00+00:00"
-    },
-    {
-      "titulo": "Senador Iván Flores responde declaraciones de ministro Arrau que no le gusta ir al Congreso: “O no sabe hacer la pega o no le gusta hacer la pega. Entonces, cámbiese de pega”",
-      "link": "https://cambio21.cl/politica/senador-ivan-flores-responde-declaraciones-de-ministro-arrau-que-no-le-gusta-ir-al-congreso-o-no-sabe-hacer-la-pega-o-no-le-gusta-hacer-la-pega-entonces-cambiese-de-pega-6ab44c9871829e10553e1383",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-23T22:15:08+00:00"
     }
   ]
 }
