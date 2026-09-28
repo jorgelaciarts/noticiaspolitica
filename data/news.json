@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T06:31:42.578904+00:00",
+  "actualizado": "2026-09-28T06:46:38.157843+00:00",
   "total": 500,
   "items": [
     {
@@ -102,6 +102,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T01:29:43+00:00"
+    },
+    {
+      "titulo": "Elecciones parlamentarias - La Segunda - lasegunda.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkQ0MmxMdjNidFJyT191b1NXZGtqLTFoVjNFTFZ1TG83Xzd3R3ZWUGlORUJnRVN6RVJmR3pPekU4MmZURmFscEIwUW5LUVpITWd1Z2NsM0Z3MzROYWFaVDJiWFhONC1RYXdFT0VNaGZIRWZTS3Nrc2hiV0VaMGZsVEZZVlFJTmRYRlpSOE13V3FXV0Z2WjFjbEVGVkZNRUZCR3ZBTnVLUTlscTl6TlVSQnZwMUVjZw?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Elecciones parlamentarias - La Segunda&nbsp;&nbsp;lasegunda.com",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-09-28T01:26:41+00:00"
     },
     {
       "titulo": "Presidente Kast presentará este lunes para reactivar el empleo: contempla obras públicas, vivienda y subsidios - ADN Radio",
@@ -5631,17 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-23T21:20:13+00:00"
-    },
-    {
-      "titulo": "Gobernadores regionales no logran acuerdo con Hacienda y se declaran en alerta por recortes que incluirá el Presupuesto 2027 - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRjhNYlRkM0RVcXJhbFFINU94QVVjdFEwN08xenlKeWxqbHRIem91Q2VTUkgtRlVhSVBiMHNsbkVIMnFaMkd2d2ZxT2lCTHdpVnAzN2ItNU5WNDRJM1BRV21VcW5mUDlEQXJfaGdyNk9TMUdoNnN1cGRZZEF1c2ptREh2V1NjYzRpQnAzMXp0dl9tMl9WWnNPZXgwRUhNUTg0VmdGenZCZHZPNXE2OU5PRDNNYkdPbDVUcmc?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobernadores regionales no logran acuerdo con Hacienda y se declaran en alerta por recortes que incluirá el Presupuesto 2027&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-09-23T21:14:00+00:00"
     }
   ]
 }
