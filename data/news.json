@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-28T17:31:38.216659+00:00",
+  "actualizado": "2026-09-28T17:46:36.009588+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,20 @@
         "Presidente"
       ],
       "fecha": "2026-09-28T17:19:51+00:00"
+    },
+    {
+      "titulo": "Republicanos invitó a reflexionar qué aporta cada sector oficialista en medio de disputa con RN",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/renovacion-nacional/republicanos-invito-a-reflexionar-que-aporta-cada-sector-oficialista-en/2026-09-28/141923.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente del Partido Republicano, Arturo Squella, invitó a reflexionar cuál es el aporte de cada sector del oficialismo, en medio de disputas con Renovación Nacional por los revés que ha tenido el Gobierno en el Congreso.\nLos traspiés del Ejecutivo han generado críticas al rol de la Secretaría General de la Presidencial, liderada por José García Ruminot (RN). No obstante, desde Renovación Nac",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T17:19:23+00:00"
     },
     {
       "titulo": "Kast anuncia estrategia para enfrentar el desempleo: \"No hay una varita mágica, esto no es tan rápido como uno quisiera\" - Teletrece",
@@ -5632,17 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-24T14:57:12+00:00"
-    },
-    {
-      "titulo": "Ahora en DF | Kast espera restablecer relaciones diplomáticas con Venezuela “en los próximos meses” - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLXdPQk4wam9vMjZOTERkYm96QmIxb0tmc3lySUljQ1NyQTFqYjJJRUJtQkZoQUpPdUhiMVRJeWExQXljeHZkeVlRbFhscVAyVXlVM0lTSlU5bGpnUFMxN1lId0V5Vy12VnZVN2xIRDJlN2dHaXRObElkODNUd0o1OE5XaWFOUml0dmR2bXp5aWNCOXVRVEx0a1czdzB3XzlRSGRQYjlzeS14cGNT?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ahora en DF | Kast espera restablecer relaciones diplomáticas con Venezuela “en los próximos meses”&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T14:53:00+00:00"
     }
   ]
 }
