@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-28T17:46:36.009588+00:00",
+  "actualizado": "2026-09-28T18:01:51.362730+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Con prohibición de salir del país quedó ex alcalde Fernando Paredes",
+      "link": "https://laprensaaustral.cl/2026/09/28/con-prohibicion-de-salir-del-pais-quedo-ex-alcalde-fernando-paredes/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Hasta que la sentencia de 5 años y un día de cárcel efectiva por cohecho quede firme y ejecutoriada, el ex alcalde Fernando Paredes no podrá salir del país y seguirá firmando una vez al mes en Carabineros. Así lo determinó esta mañana el Tribunal Oral en lo Penal de Punta Arenas, luego de que...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-28T17:58:45+00:00"
+    },
     {
       "titulo": "Centros progresistas llaman al gobierno a postergar rebaja de impuestos en 2027 para usar esos recursos en más empleo",
       "link": "https://www.theclinic.cl/2026/09/28/centros-progresistas-llaman-al-gobierno-a-postergar-rebaja-de-impuestos-en-2027-para-usar-esos-recursos-en-mas-empleo/",
@@ -5634,18 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T15:06:03+00:00"
-    },
-    {
-      "titulo": "\"EE.UU. hace bullying si no lo sigues\": Economistas debaten sobre adhesión al Escudo de las Américas",
-      "link": "https://www.cooperativa.cl/noticias/economia/ee-uu-hace-bullying-si-no-lo-sigues-economistas-debaten-sobre/2026-09-24/115712.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En El Primer Café, economistas debatieron sobre la decisión del gobierno de José Antonio Kast de sumarse al Escudo de las Américas, iniciativa impulsada por Estados Unidos y que puede tener una serie de implicaciones en materia geopolítica.\nEl economista Rodrigo Wagner, profesor de la Universidad Adolfo Ibáñez, planteó que \"Estados Unidos no quiere que ciertos servicios digitales directos sean con",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T14:57:12+00:00"
     }
   ]
 }
