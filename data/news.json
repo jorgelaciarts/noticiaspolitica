@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-28T18:16:43.327024+00:00",
+  "actualizado": "2026-09-28T18:31:39.611061+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Comienza en la Cámara inédita interpelación a canciller Francisco Pérez Mackenna",
+      "link": "https://www.lanacion.cl/comienza-en-la-camara-inedita-interpelacion-a-canciller-francisco-perez-mackenna/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "A las 15:18 horas de este lunes se inició en la Cámara de Diputados la interpelación al ministro de Relaciones Exteriores, Francisco Pérez Mackenna. La primera a un canciller en la historia de este mecanismo creado en 2005. Y la primera de este Gobierno. El diputado socialista Nelson Venegas será el encargado de formular las [&#8230;]\nThe post Comienza en la Cámara inédita interpelación a cancille",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T18:27:00+00:00"
+    },
+    {
+      "titulo": "En vivo: Cámara Baja interpela al canciller Pérez Mackenna por la política exterior del Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/en-vivo-camara-baja-interpela-al-canciller-perez-mackenna-por-la/2026-09-28/151941.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Desde las 15:00 horas de este lunes, la Sala de la Cámara de Diputadas y Diputados lleva a cabo la interpelación al ministro de Relaciones Exteriores, Francisco Pérez Mackenna, quien debe responder ante los parlamentarios por los primeros seis meses de conducción de la política exterior bajo el Gobierno del Presidente José Antonio Kast, en una sesión centrada en trece ejes críticos de las relacion",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T18:19:41+00:00"
+    },
     {
       "titulo": "Ránquil inaugura nueva oficina de información turística",
       "link": "https://ladiscusion.cl/ranquil-inaugura-nueva-oficina-de-informacion-turistica/",
@@ -826,6 +849,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T11:07:09+00:00"
+    },
+    {
+      "titulo": "Gobierno prepara plan de reactivación del empleo que Kast presentará este lunes - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelhQMHJfWFIyUkROdjBBRTdpYzZkVk92X05OTGxoVW53ZDRqVEI5cGJkdVZfTlFMM3lObkhFTllVX1RIbVFNSHBFU3F1ZkhWUDdaZlJ1SFQ5eWFYNGFoNzVfbnVBTXI2WFZwWFh5VDMwS1BVQ3hrSE90TGFNREVDMDJXS3VmWjJUZGtMTnN4MENlQlY3TlZ5RHRpSzktdTg1ZFZPcWdlT3Y?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Gobierno prepara plan de reactivación del empleo que Kast presentará este lunes&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T11:01:35+00:00"
     },
     {
       "titulo": "Alcaldesa de Lo Espejo lamenta crimen de carabinero: “Las armas, el narcotráfico y la violencia no pueden seguir llevándose vidas” - CNN Chile",
@@ -5610,39 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T15:43:00+00:00"
-    },
-    {
-      "titulo": "En medio de descoordinaciones oficialistas: Kast llama a revertir el rechazo a la reforma migratoria - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRy0tYUIteThVWFVLTk94VHc4dlV2QzAybHlsb055bTk4UjJybEpWQ25oNGRFUzkzaEo4S2ZLOFBtdGI2SVV2LVE3UnNIR0cwalhVLURlTFhMWnB0eF9OTGJEeTJlaUVLdWotdjIxOE00MVlRQ3U5V2FqODdSYjQ2OVI4a2ViNHRtSVpRbm1mV0lzSVZnc19oYi1waEo4MXM0X3VybHlNckxuNFNBRFBxUElrLU5JRWcyM18zY2dKTS1tU1FaTlBYUXozdXdEdUNTZ1BUbExpbmNzTFo5OTBTUmN1ekFVY2VwVmkxMW9BWFI0MEFMRkEzdnFKTQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "En medio de descoordinaciones oficialistas: Kast llama a revertir el rechazo a la reforma migratoria&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T15:39:39+00:00"
-    },
-    {
-      "titulo": "Kast respalda a canciller previo a interpelación y dice que “Escudo de las Américas” no implica intervenciones militares - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOWNObk5CMFgtcUJsclR6dG9DaE9ieE9icENOMTBrN0FXVHM0UWpUSGtzOVU0RTc4VTRMeGpJLVdYekVBZXVNckl3cVB0LWlpcWNRQjZiUXZ1VW1IWm1xM1BzRkFVRExaUERZUUd2ZGVjQ3k3Vkt1MC16SGNSd3FuZUp4dUJ3Zm9DbDlTWUZ0TWpqNEtEU19HcUIzNW5waEJoWnRFWHB5dUZfMnRxeGdmSFZ1WXdXdXp3WFpYX0xVdUU2bm9Nekg3dmg2Z25IenVzVkVtdTc4Rk1lUXFULV9LODY5dEpQQkc4WFHSAf4BQVVfeXFMUGZWRHhQdTBNc1V6OWlDa2h2ZEFJQTh3THhDSlloMERWZVI0ZTZsaFcxVzZjMzF1dlF3QURJTEJEb001UzJRT0lBYmxJYmVTVGl2RWNleGdUakM2WktzUnhGWHhfVTE3R2o1U0NnUVc3N19qYjF1V3h5VXlTNU1HUEpMa1Z5QXZkNExiemd0RHpFSl9oQlVDRTNTVFJFMmkxWE9zOHIyNEtfYVp6MWVudXhuTThrdWhGMjRKMkZsdjI4SFRNOG5pMTFlZE1hS2pYc3JCVzZncGJQNjR6cTdoZ1E1U3p0MVcyaGJ4aHkzRFJudFBGbDM3eWFqbG9zMWc?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast respalda a canciller previo a interpelación y dice que “Escudo de las Américas” no implica intervenciones militares&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T15:36:28+00:00"
-    },
-    {
-      "titulo": "Santana acusa vacío del Servel para fiscalizar dinero y propaganda política digital tras caso Cerimedo - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYlhZalRHZVhKMl9sc2R3RENWcjFHWW9xbHNBMnVHNFJzalF2N21WVEtEY3k1VUEwc0xGdkJsb2tTVC1nT3I0VjQ5b2ZJZ3RFcDRiR09IbWtVdmFRY0xmREJqYUZ4X1lvRVN6aVE1cXBGR3hhNjFneEJpeDhaY2lxc3VObUdhN1ZBZGM4VVNoMVBwb0VBOVpDakd5X0wtVEZHdTFiV2hJX0NBdS0zSFRScmt2cHdiUGJuSTBlTGZuM21uXzNrWHNpOVdxQzBCa2o3cWtkV2s2NHhrenhsVHVmbjROdnoyYkl3RDVQckNFV0ZzRGI3WWw5OXZ4RXBuZGc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Santana acusa vacío del Servel para fiscalizar dinero y propaganda política digital tras caso Cerimedo&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-09-24T15:31:01+00:00"
     }
   ]
 }
