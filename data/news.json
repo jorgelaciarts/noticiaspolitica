@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-28T11:16:34.580531+00:00",
+  "actualizado": "2026-09-28T11:31:40.471567+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast tras muerte de carabinero:  “Le pido al Congreso que aceleremos el paso”",
+      "link": "https://laprensaaustral.cl/2026/09/28/presidente-kast-tras-muerte-de-carabinero-le-pido-al-congreso-que-aceleremos-el-paso/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Presidente de la República, José Antonio Kast, se refirió anoche al fallecimiento del cabo segundo de Carabineros, Cristopher Andrés Aguilera Fernández (ver información pág. 20), quien fue herido con una bala en su cabeza tras un procedimiento policial registrado durante la tarde del domingo en Lo Espejo (Región Metropolitana). “Lamento profundamente el cobarde ataque...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T11:21:36+00:00"
+    },
     {
       "titulo": "“No hay posibilidades de poder realizar expulsiones masivas si es que no tenemos una relación con Venezuela”",
       "link": "https://laprensaaustral.cl/2026/09/28/no-hay-posibilidades-de-poder-realizar-expulsiones-masivas-si-es-que-no-tenemos-una-relacion-con-venezuela/",
@@ -5629,17 +5641,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-23T22:05:28+00:00"
-    },
-    {
-      "titulo": "Kast preside reunión del Compromiso de Santiago: Buenos Aires será sede del próximo encuentro - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMzlCaUkzQnR3eDQ2WlBYOXVYY2lUYm5oQU1hTVhGS25Cc0psbWdSUkR4MGZDNWZiVVROa0pJOE8zUHZLUXcyMmY4REI3OUlFR3E0M1ZBeWc5U2xOR2xoQ3g0MzM0N3VlMEVvejYyU3BJdXctZTdhU0dwQVFUYnFEdWp6M3YwRVFKZERpa3ZlRDQ3QUhOUGl6cmNyRnNxeGJIYkMtUkpsa2wxbHp1cU9aWHg3STc1cG5tZjQ4Y0J5RVp0MkFEYTdz?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast preside reunión del Compromiso de Santiago: Buenos Aires será sede del próximo encuentro&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-23T22:02:08+00:00"
     }
   ]
 }
