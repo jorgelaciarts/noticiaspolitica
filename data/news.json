@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-28T17:01:24.668425+00:00",
+  "actualizado": "2026-09-28T17:16:40.827151+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast anuncia estrategia para enfrentar el desempleo: \"No hay una varita mágica, esto no es tan rápido como uno quisiera\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzhoMUN4VmFMTTlGYmJuYTFFNVBWNzByX1JLMmE2NjFORTZTOXNIaUFDcG1QeHFXN3VfYkF2c2g2RHB2Rjh3MmJjVkR5b0V1dDdoa1Z5ZmNfak45RXh0Yy1iYm5YcFUtMC1kOEJ6UEdELTVTTkh2ZElxejh5RF9nTXZzLUZWZzJKX081c2JWMzBCOFhQVlRoX0ZXNlJOZ0dkV3RFQVhPcWh6dkpCNC1ySVNScFo5ZWt5bnJ0R2dHNA?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast anuncia estrategia para enfrentar el desempleo: \"No hay una varita mágica, esto no es tan rápido como uno quisiera\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T17:06:00+00:00"
+    },
+    {
+      "titulo": "Presupuesto: Kast y Quiroz revelan sus prioridades ante su primera gran prueba económica - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0I5S2NDRTJENjRzMGtaQ3BuazlJUU9YUGM1MjBjb3Ficm90X1FJeFltdElNVGVyY0plT3FNZUxma29mdGFzendkbXJtZTFGdFZJRUxUQjZ2aldxeVlRWGJqWWZldkQ2RmV4aHcteHhseEZxdTZ4Rmt6SWdlM0ZVal81ZHV4WjBXUXc5aTloM3oza2J2bHc0cmJHREQ5UlJxOWRwdTJybkdwMnlyVldnZVljTDBoQWtPTHdxWGhtVllZeDAyU2dtNkZJU0NCeTFoTk9v?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presupuesto: Kast y Quiroz revelan sus prioridades ante su primera gran prueba económica&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T17:00:17+00:00"
+    },
     {
       "titulo": "Tren Santiago-Melipilla: Diputados de oposición ofician a EFE por postergación del tramo Lo Errázuriz-Alameda - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbjFfenZfUWlxbld2NWVmU1BBYm9CdjhLTUM4S1g0bEx5UGEzUExWVUFmRUkwV3BfUHU2eW9ObXNEQWN6Y3liLXo5MW13d19pc1N2cl9UZnVKdkh2UFRvQ3JCaG9Cbk8ta3Z6UF9JeEVCQXo2emJOYTJUZEJvMV91QlBfcm9JSTdsNjFqM2wtZmhsSjJIUVdVZm9MVDZ3Q09LU05UZGxhNXRxZUsxZGlKQ0w5ZUViTnE3MEZuRWxBdEUzNTFna25XdmZueXlyWG9F?oc=5",
@@ -23,6 +45,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-28T16:47:37+00:00"
+    },
+    {
+      "titulo": "Gobierno retira reforma que creaba un nuevo estado de excepción",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-retira-reforma-que-creaba-un-nuevo-estado-de-excepcion/2026-09-28/134651.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno retiró este lunes del Congreso la reforma constitucional en materia de seguridad, entre medio de los cuestionamientos por la creación de un nuevo estado de excepción para enfrentar amenazas vinculadas al crimen organizado y el terrorismo.\nEn su diseño original, la propuesta permite al Presidente decretar el estado de excepción por 120 días y renovarlo por otros 120 sin autorización del",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-28T16:46:51+00:00"
     },
     {
       "titulo": "Gobierno retiraría reforma de seguridad: Presentaría nuevo texto suscrito por senadores Republicanos, PPD y RN - Emol",
@@ -5610,40 +5644,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-24T14:27:57+00:00"
-    },
-    {
-      "titulo": "Los detalles del nuevo libro que ahonda en los orígenes y la trayectoria política de Kast - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZjE0SjNHUWpaQUVRVU9NdnBTLXFNejUtUjQzWnlTNjNYd0NzeVFrdF9MM2REamhPSFRtRmRmcEJLR243VjJHSWh0NVZoSzhIaEVoSXdXamdzZ3M4T2dKbXA4M21iUWxzMV9CUG5lN0FraXc3QWcySHdaX24tLTEwNmpuVTczY3FNQ0Z5MjRjSkNqNjZnTTI2b2g3dG94RVlET1NFaHRSZlByUXZ6YkVGeGl6Z0FyX3g4Z2NIbzRFQjdqNVhKSUtBLWVmNNIB7AFBVV95cUxQRGhrSzVrU0ZfczdVdUVlalJEMUlva1R1RjZ4WEJWY1ZSa1ktbUwwRlJZQVI2RDFjZ2tBNWtCTHZwa25nMzZGUFBKQzNDTU1UdXJVbVhvSV9xLUM1NkNqVFJUcll1NW41WnZKV1pXX2ZjTDl3VDFLUjEtSnNlMjlqbTNmcUVBbXU0Mk91a0hNQzRzSkdyTVJqbDB0RE8xeDZsZFRES0dDZkh4aEt5RnJCclh4cmlPMVNIZ05ZUWxQc3lFaGptYW1GcEtPR21TNmh1cmgyWFFxcFNrb2tISktKbUEwTnFlb3M4aFU0cg?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los detalles del nuevo libro que ahonda en los orígenes y la trayectoria política de Kast&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T14:27:54+00:00"
-    },
-    {
-      "titulo": "Diputado Cuello por adhesión de Chile al Escudo de las Américas: “No descartamos acudir a Contraloría por su ilegalidad”",
-      "link": "https://www.elciudadano.com/politica/diputado-cuello-por-adhesion-de-chile-al-escudo-de-las-americas-no-descartamos-acudir-a-contraloria-por-su-ilegalidad/09/24/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nAdemás, el parlamentario solicitó formalmente a la Mesa de la Cámara que emita un pronunciamiento sobre los alcances de la incorporación de Chile a la iniciativa impulsada por Trump y determine si se están invadiendo atribuciones del Congreso Nacional.\nLa entrada Diputado Cuello por adhesión de Chile al Escudo de las Américas: “No descartamos acudir a Contraloría por su ilegalidad” se",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T14:22:19+00:00"
-    },
-    {
-      "titulo": "PDG emplaza a ministra de la Mujer por \"mantener el silencio\" tras dichos contra diputada Rodríguez - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3BSajlwOWV4OWhqcWFkdkNiWE5oVUJXYV9teHhMWG5GRWtnTHZFbVpRZjFjN1JiM2ZJQ1lQUXVyeXRtVENVWURVSzkyZUJhQXN5TWJSQ0lwd1kwdWUta0pRclRlY3lhckpSWF9kYjZKMDhZOTU1QW41WF8yMGVyak1iQUI4cjJ4aUhtdU92c2U4VFhadVY4OGVtN0NNeXkzV3c?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "PDG emplaza a ministra de la Mujer por \"mantener el silencio\" tras dichos contra diputada Rodríguez&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T14:08:24+00:00"
     }
   ]
 }
