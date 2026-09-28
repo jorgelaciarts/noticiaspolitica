@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-28T15:19:14.301846+00:00",
+  "actualizado": "2026-09-28T15:31:33.127896+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Entrevista Cambio21: Senador Manuel Ossandón y la firma del Escudo de las Américas por parte de Kast:\"Chile no es lacayo de nadie. Cooperación sí; subordinación nunca\"",
+      "link": "https://cambio21.cl/politica/entrevista-cambio21-senador-manuel-ossandon-y-la-firma-del-escudo-de-las-americas-por-parte-de-kast-chile-no-es-lacayo-de-nadie-cooperacion-si-subordinacion-nunca-6aba7aa7cd16d958cc0f2283",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-09-28T15:25:48+00:00"
+    },
+    {
+      "titulo": "Trump evalúa \"muy seriamente\" prohibir las exportaciones de diésel",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/donald-trump/trump-evalua-muy-seriamente-prohibir-las-exportaciones-de-diesel/2026-09-28/122304.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente de Estados Unidos, Donald Trump, adelantó que su gobierno está considerando \"muy seriamente\" prohibir las exportaciones de diésel al resto del mundo, con el fin de combatir los altos precios al interior del país, que superan los 100 dólares por barril.\nConsultado al respecto por Fox News, y dado que el costo actual cuadruplica su nivel habitual, el mandatario señaló que \"esto puede p",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T15:23:04+00:00"
+    },
     {
       "titulo": "Firman convenio en Portezuelo para llevar atención a 80 escolares con clínica dental móvil",
       "link": "https://ladiscusion.cl/firman-convenio-en-portezuelo-para-llevar-atencion-a-80-escolares-con-clinica-dental-movil/",
@@ -128,6 +151,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-28T13:59:23+00:00"
+    },
+    {
+      "titulo": "“Bacheletazo”: Oposición reunirá a Bachelet y Boric en acto político en La Pintana - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYm1KQkt3VWJlTVRKcVlDN2lZLWdXWHVTVDROMU1BS1pDS3JCaEw1Q3A3alBSNUFJWFhkMEhEeUpsb09NOG96VXpwSTh4U1JiWUZLVThnRHBBUk4tb1NOekoyUDk0ZlZOeWVvWmtzZ1NHRWVrNTA2YjZiTWI5Y1NZaFAyVWM4QlJyYUx4UW03R2MxM2lkUm9BZVBTbUdIdW90emVIWksxTjZYRkQwTFhN?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Bacheletazo”: Oposición reunirá a Bachelet y Boric en acto político en La Pintana&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T13:59:03+00:00"
     },
     {
       "titulo": "Gatica (RN) dice que \"es hora\" de un cambio de gabinete y apunta a áreas política y social - biobiochile.cl",
@@ -5610,41 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T10:41:38+00:00"
-    },
-    {
-      "titulo": "Kast responde a críticas por adhesión al Escudo de las Américas / La mano de Pamela Jiles en fracaso de proyecto de migración - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaGg3MzIteU1lRU01M1F0RUdmb19hLWJOTW9lV1ljb0VGMXk1MHF4Y2VXa3p1N2szUmxGWWxNOWpQMmxOUU95cTNVbTBwaVpPS3l4eGtGQjJHRTZPRU5qWXo2ZFlNbElnaHJMM1pYN0c3dkltc21MWnFQR1UtMTZfSkdRR2pMUDNfb1RjSDItYzhlaXhwN2ZhdW9mc0hnRzFmWDVFbk9Bd2RHOGlRM0praWlIRFM3b3ppeDZ1a1h2LVZMV0xtSXptbnd0cE1nOUpsZlc4WTFyTUZSVGRGWjduUWp5Skl6bktyVUUyb0R3dTA2SDh1RTNhSE1QUlNEOWpBUlVNcg?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast responde a críticas por adhesión al Escudo de las Américas / La mano de Pamela Jiles en fracaso de proyecto de migración&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T09:22:47+00:00"
-    },
-    {
-      "titulo": "La mano de Pamela Jiles en el descuelgue de diputados del PDG en proyecto de migración - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXRyWlFsX3d5SjhTcV9PVVdEYWNDU2gteERMdWNuQWxtUUZxckxleW5kZklSaWl1OWV0dV9hS2VMbUlEYzhVV1JBQlNaSmFjZWVlLUl0MXZGaFVad0VnMUZwMThqLVhGdTNxZjdYelhLTWM1VzNoVXV0QnlaLXJXQUxhYXZ3bUNodXVKUERSVURqM2ZSYzZNdDk0Y0FOc2hvUDkyemdlZkdwR3hmalpQRTFyZDlZVnBaVEE?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La mano de Pamela Jiles en el descuelgue de diputados del PDG en proyecto de migración&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T08:00:00+00:00"
-    },
-    {
-      "titulo": "La voltereta express de los diputados Montalva y Pinilla: anunciaron que apoyarían proyecto de expulsiones y horas después no votaron - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPSVphU1pPS1J1cFJSY2oyS1UtQ29KeDVLRjJFY05MSFVWczVxcU14WlpXcmwzamRDcmtOQTgwNl9XYl9VeHNnVjVKQ2RWUkROaFRmcE5uMWhpSzlQOHBGRl90WlV2WXpGWTdwTVRMZ2Rtd29Gc05SVDQyc0R6SnNHT29MYlFTbXVXd3VadGppQVZwMTcyX3I3SmRKZk10N3k2cEd5eEY5eDVsNXdmRmtNSDBCM3dkc0JKcEtfTzBLN09TUENkMHhKdk56WVlPOUxobDBDMEZqUGQwTmxYSlAzWGVBR0h4ZmxicFEyU3hvckYwWF9NR2xN?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La voltereta express de los diputados Montalva y Pinilla: anunciaron que apoyarían proyecto de expulsiones y horas después no votaron&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T07:55:00+00:00"
     }
   ]
 }
