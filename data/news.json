@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-28T18:46:41.646532+00:00",
+  "actualizado": "2026-09-28T19:01:46.677846+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Exalcalde de Puerto Natales irá a la cárcel, condenado por cohecho",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/exalcalde-de-puerto-natales-ira-a-la-carcel-condenado-por-cohecho/2026-09-28/155106.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En un fallo unánime, el Tribunal de Juicio Oral en lo Penal de Punta Arenas condenó a José Fernando Paredes Mansilla a la pena de presidio efectivo de 5 años y un día, en calidad de autor del delito consumado de cohecho de funcionario público.\nEl ilícito fue perpetrado entre 2019 y 2020 en Puerto Natales, comuna en la que el antisocial era alcalde, electo como militante UDI en 2008, después de hab",
+      "categorias": [
+        "Partidos políticos",
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-28T18:51:06+00:00"
+    },
+    {
+      "titulo": "EN VIVO| Sigue la interpelación al canciller Francisco Pérez Mackenna en la Cámara de Diputadas y Diputados - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ2ZBSG4xNnd3NThoWDM5V1lEVjRPcnd6cGhlR0U0ckRNRmh3TjdWOUg1d1FvT045TkZtanh5ZUJaSFlJRHpLTjlHSU96M3pTSTYzZkU3YkxncXVoelRrV2NyTDdxYXVjOXp2OVR2SERnenFyVjhaWUxyZExVOTR1RHVtdDlUV2trS0t4WjFnUkNvMUJxc2hvdHNlOWF1dTFHWG1KMUtTZ0RlQ2JzR3BxaEg4UlluUUZVdHE2b1dMLTY1NlFORTQ4Z0FlOXA3NHRVUVBPSlFhblNIbklGS3hZ?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO| Sigue la interpelación al canciller Francisco Pérez Mackenna en la Cámara de Diputadas y Diputados&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-28T18:41:01+00:00"
+    },
     {
       "titulo": "Comienza en la Cámara inédita interpelación a canciller Francisco Pérez Mackenna",
       "link": "https://www.lanacion.cl/comienza-en-la-camara-inedita-interpelacion-a-canciller-francisco-perez-mackenna/",
@@ -802,6 +825,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T11:53:00+00:00"
+    },
+    {
+      "titulo": "Kast tras muerte de carabinero en Lo Espejo: “Tenemos que ir más rápido en seguridad” - diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZElhYllQYjBHbk5OT0ZEd1FaVW1CNXFJSTBtdEV1UGI4UEhaVmFsYUxwUDR2c0I4ZndaWVJrSTVaTWRzQ21MaGh1U0ZMMUl4LThaRU92MEhJaUlYNE1wakkyZmM0RndZM0x3WFJiVXpBWkpkaFY1aWhpaTh2VUN0V3JRTVRxWEFXS2ozNEZWc3VVdTNWbXNKWDhXX3dmZGNLbzhfWjdESXd1alV6ZkFIMzFhNmpRd0NhZS14bmg3SFJxOW02WGw3WElaSExGTnJLQXc?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Kast tras muerte de carabinero en Lo Espejo: “Tenemos que ir más rápido en seguridad”&nbsp;&nbsp;diarioeldia.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-28T11:51:48+00:00"
     },
     {
       "titulo": "Gobierno presentará este lunes su plan  proempleo: las claves de la iniciativa",
@@ -5610,40 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T15:54:14+00:00"
-    },
-    {
-      "titulo": "Kast asegura que adhesión a Escudo de las Américas no debilita al canciller para enfrentar su interpelación en el Congreso - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZ2djMGlWenlEaXhiZzVTM2RwRWkzSE1lWU5aTTV6M05zU0UteExWVGI4TkZHMFVkQVdnU1J1ZnRzVWRSQVJ2c1d6amtUWlJKNG5DTG5ZSGpNRVhqN091Q1lTTGxBLW4zTFNYc0pfcndQX3FldHNZM0hEbncxcTNrYlByZTNyYXRLb2JsZ2RqY0R5MldYbDhwOUZnc3c4M1NqX0RSaVBvX1VaYlBSUktiWHUtTjdldlhvay01UTREaEVOSjRING8yek1pNmtpV1NROEFzNDV2XzdNbDdfd1p6aUNlSFRpU3hhU2dRZDFDTlg1UjZfOEtpcU130gGbAkFVX3lxTE1BVmlOWjU1SEpKSGQwdFYwd2N5MW5Tb2E5NHMtNHZOTENfcHhsM0dxOWkxcG5XZGd4aERhNWRwMDc5QzlxbGhPWUZpaXFOeGFDekZhWUJMYlUzTEJWbEEzZlFsVXJkNEp5STRHM0VIT256UmpsU00zd1Fjd1FMRmlUR0ljRVRxaGdQN3YzUWRpcHZ2Rkh0T21FTDFHMnFyd3h4OW91XzFYUTlDd0JXbTBOT0F4MVY5WnloLXpZNklkYUJueUtpOWpvRzdsNmV5Tzl3ell6ekxvaDRCeC0tcklNZUFJX2xkRFV6c0VMR3BzdVE0Unk0VHJUd0VYTUlIUW5oaGVORWlVX1p1TXY3ZUUxcUpkaV9Ccnd2Uk0?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast asegura que adhesión a Escudo de las Américas no debilita al canciller para enfrentar su interpelación en el Congreso&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T15:54:07+00:00"
-    },
-    {
-      "titulo": "Kast: \"No vamos a perder soberanía con la llegada de posibles ejercicios militares\" del Escudo de las Américas",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-no-vamos-a-perder-soberania-con-la-llegada-de-posibles-ejercicios/2026-09-24/124820.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast enfatizó que Chile no perderá su soberanía \"con la llegada de eventuales ejercicios militares\" de otros países -principalmente EE.UU.- contra el crimen organizado, luego de la adhesión de nuestro país a la polémica coalición Escudo de las Américas. \nEn su último punto de prensa en el marco de su asistencia a la 81 Asamblea General de la ONU, el Mandatario fue consul",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T15:48:20+00:00"
-    },
-    {
-      "titulo": "Qué dicen las tres declaraciones del Escudo de las Américas que Chile firmó antes de ingresar a la alianza",
-      "link": "https://www.theclinic.cl/2026/09/24/que-dicen-las-tres-declaraciones-del-escudo-de-las-americas-que-chile-firmo-antes-de-ingresar-a-la-alianza/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El Gobierno de Chile ratificó tres escritos emanados desde el grupo cuando aún no era integrante de este y solo era \"observador\".  En ellos se cuestionaron los intentos de \"derrocamiento\" democrático en Bolivia y Colombia, con comentarios políticos incluidos, pese a que las autoridades chilenas afirman que la finalidad de la organización solo se refiere a temas de seguridad. En Cancillería señalar",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T15:48:20+00:00"
     }
   ]
 }
