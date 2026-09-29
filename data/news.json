@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-29T14:46:48.620550+00:00",
+  "actualizado": "2026-09-29T15:05:07.290820+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Instalan módulos de seguridad en Barrio Meiggs y Plaza de Armas de Santiago",
+      "link": "https://www.lanacion.cl/instalan-modulos-de-seguridad-en-barrio-meiggs-y-plaza-de-armas-de-santiago/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La Municipalidad de Santiago, junto a la Asociación de Desarrollo del Barrio Meiggs y la Comunidad China en Chile, instaló dos modernos módulos de seguridad y dos puestos de mando. Esto en puntos estratégicos de Barrio Meiggs y Plaza de Armas.&#8220;Hemos recibido las primeras oficinas preciosas que nos donó la ciudad de Lishui, en China, [&#8230;]\nThe post Instalan módulos de seguridad en Barrio ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-29T15:00:45+00:00"
+    },
     {
       "titulo": "Presidente Kast participó en el velorio de carabinero asesinado",
       "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/presidente-kast-participo-en-el-velorio-de-carabinero-asesinado/2026-09-29/114023.html",
@@ -5632,18 +5643,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-25T11:30:06+00:00"
-    },
-    {
-      "titulo": "“¿Qué posibilidad real tendrá Chile de decirle ‘no’ a EE.UU. cuando el Escudo avance en una dirección peligrosa?”",
-      "link": "https://laprensaaustral.cl/2026/09/25/que-posibilidad-real-tendra-chile-de-decirle-no-a-ee-uu-cuando-el-escudo-avance-en-una-direccion-peligrosa/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El timonel PPD, Raúl Soto, miembro de la delegación que acompaña al Presidente Kast en Nueva York, consideró la adhesión a la iniciativa trumpista como “un grave error que puede tener consecuencias insospechadas”. &#160; El diputado Raúl Soto, presidente del PPD, afirmó que Chile quedó “amarrado” al adherirse al Escudo de las Américas y apuntó...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T11:16:57+00:00"
     }
   ]
 }
