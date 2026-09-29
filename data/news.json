@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T19:16:49.782374+00:00",
+  "actualizado": "2026-09-29T19:31:35.517574+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T19:05:03+00:00"
+    },
+    {
+      "titulo": "Cámara aprobó devolución del IVA de pañales y medicamentos y Quiroz alabó al PDG",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/camara-aprobo-devolucion-del-iva-de-panales-y-medicamentos-y-quiroz/2026-09-29/160349.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Cámara Baja aprobó ampliamente el proyecto que establece un mecanismo de compensación del pago del IVA de medicamentos y pañales, iniciativa que fue propuesta por el Partido de la Gente (PDG) y que fue el eje central del acuerdo mantenido con el Gobierno para aprobar la idea de legislar de la despachada megarreforma.\nLa bonificación, que será mensual y se calculará como el equivalente a un reem",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-29T19:03:49+00:00"
     },
     {
       "titulo": "\"Quizás el senador estaba viajando o no se informó\": Poduje responde a críticas de Keitel por medidas para ciclistas en el Parquemet - Teletrece",
@@ -335,6 +347,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T16:19:53+00:00"
+    },
+    {
+      "titulo": "Diputado Venegas insiste en que algunas respuestas del canciller “faltaron a la verdad”",
+      "link": "https://www.lanacion.cl/diputado-venegas-insiste-en-que-algunas-respuestas-del-canciller-faltaron-a-la-verdad/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El diputado socialista Nelson Venegas, a cargo de la interpelación al canciller Francisco Pérez Mackenna, reiteró este martes que algunas de las respuestas entregadas por el ministro fueron “confusas” y “evasivas”. Y que hubo planteamientos que “faltaron a la verdad”. “Quedé con un sabor agridulce, pero satisfecho, porque por lo menos logramos tener la votación [&#8230;]\nThe post Diputado Venegas ",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-29T16:18:00+00:00"
     },
     {
       "titulo": "Chile: gremios aplauden plan de empleo presentado por el gobierno de Kast - Infobae",
@@ -5637,28 +5660,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-25T16:31:37+00:00"
-    },
-    {
-      "titulo": "Antiguo fallo del TC le permitiría a La Moneda reponer reforma sobre migrantes con menos votos en el Senado - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZkdaR3RkVlZvNXdOeVNmMVhOVW02QkJJNGVpV1JpRUd6M1lnbUxrQnNkaHVObkRnU1FUNUQ0TGNCakJmUWlzZHFXRkpUS1NkbzJRUVVRaWZqWWlQVzJjSms3aGNGSzRmYjFablhpTzB4VF9DQUdrSG1TQWFhbHkwRENsRm0yTFhnT3QyNXF3dkZ6a1cyQlMtd3daWDlkc09PbnNvc1Q2QkVraXlUTmg0S0Frc0VsQzNZNzlNT1NNamlvOTVLTC0zQXBMbWVWeEFBeXUtekVwcmVGTG10S2VyWDhFOXc2d9IBhwJBVV95cUxNZUluUmp2cW1oZFVNRUNJbkdlVkprajFvUDc0VHhzZ2RURDRRWEx5NXhrU2FiaUVfbVN1RjJ1YzJkekhPTF96WU5GOEU5YWNxQXhST25RbzQ1czBFRUJXc0N1cjFRRUJmaDlsUWsxRG5DLWJYSTNSQlp2dU1RNUcwRUhGeWp3NDM1NDhYeE1mdl9CWnNOYndqa296aXFLcHJkQWNOc2NBUmV2LWZEbjBQemRSZFNMTTJNakRPcWJkTEtUX2hnM0ZNemhIMUdXTWtMRC1naF9GZmQ1ZkJ3OGl0WE5Wc2ZCbHlibmlnRWVQQVhVZXdMTWc0RVFiZUo4eFhxNXhpV01ybw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Antiguo fallo del TC le permitiría a La Moneda reponer reforma sobre migrantes con menos votos en el Senado&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-25T16:30:00+00:00"
-    },
-    {
-      "titulo": "De Bolivia a China: la agenda internacional que prepara Kast para los próximos meses - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmxFSF80cFBJR09fcWhYY0pWMk9FYmIwWlNuVmJ2bXM3UTVhcWZBTWN5bXBjanJZRkNtbEZhSjJIQWVNUnFaZ0xZM3d6dU9kMU9NcHpIbmdQenhzeHBJMHFNSkIyRU9HZ1B6dC1KQXZ5TmF5SzFZdmszT2N4czRlTVh6SmgtV0ZlMUNjWGVFSHU3aFpXOXMyaVJnQ2hSaWlhTnpoZnRSYngxRmNXcU12WmwzVWJiUlVqNFdfNWh0NU53SjZMdnfSAecBQVVfeXFMTk40R1RtakpvTkhrY2EySHB3SE5nLVU1c09DQVF0QWc5RjV3eHJFMmtqTHFxMk4ya3lTbGdXbDlURUZEcnlQT05GbGdoZWJJYURfdHFiOFUxbjRjbkNRZjBxMUQxSUxQYVdrOXlhOWt5NUF0YUpyTU5TaV81cUNKS3lpZTdMOURqVzltVjEycmdYcFdrNm5xRmpQb3F5QVFNRFpqQktVZzJqWEZ6bWRvTnNlRG1zX3pUdjROb0dQdGlFcGpLRmRrX0VZbnhCeWpFclZYRGRNS1NMcEFlNWpqYjR5M0dzRDZr?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "De Bolivia a China: la agenda internacional que prepara Kast para los próximos meses&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-25T16:30:00+00:00"
     }
   ]
 }
