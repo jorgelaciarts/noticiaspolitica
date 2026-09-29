@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T02:31:38.058230+00:00",
+  "actualizado": "2026-09-29T02:46:52.970830+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T02:27:17+00:00"
+    },
+    {
+      "titulo": "Coronel quedó hasta la coronilla con la basura",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/coronel-quedo-hasta-la-coronilla-con-la-basura/2026-09-28/231454.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Una compleja situación se vivió en la comuna de Coronel (Provincia de Concepción, Región del Biobío), donde, por más de una semana, la basura no fue retirada y se agolpó de manera insalubre en las calles.\nEl problema se originó debido a que el municipio rompió con la empresa Solo Verde y demoró la adjudicación a una sucesora. Finalmente, contrató los servicios de Starco, que intentando solucionar ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-09-29T02:14:54+00:00"
     },
     {
       "titulo": "Cámara de Diputados aprueba solicitud para que el presidente Kast explique la adhesión del gobierno al Escudo de las Américas",
@@ -5634,18 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T21:38:35+00:00"
-    },
-    {
-      "titulo": "Bachelet y Boric piden al Presidente Kast reconsiderar adhesión al \"Escudo de las Américas\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/bachelet-y-boric-piden-al-presidente-kast-reconsiderar-adhesion-al/2026-09-24/183754.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En una declaración conjunta, los expresidentes Michelle Bachelet y Gabriel Boric pidieron al Mandatario José Antonio Kast reconsiderar la adhesión de Chile al \"Escudo de las Américas\", el acuerdo de coordinación impulsado por Donald Trump, espacio que reúne a una quincena de Gobiernos de derecha de América Latina y el Caribe.\nMás información en instantes",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T21:37:54+00:00"
     }
   ]
 }
