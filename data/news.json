@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T01:31:33.446969+00:00",
+  "actualizado": "2026-09-29T01:46:14.288877+00:00",
   "total": 500,
   "items": [
     {
@@ -749,6 +749,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-28T16:47:37+00:00"
+    },
+    {
+      "titulo": "Gobierno se abrió a retirar reforma que creaba un nuevo estado de excepción",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-se-abrio-a-retirar-reforma-que-creaba-un-nuevo-estado-de/2026-09-28/134651.html",
+      "fuente": "Cooperativa - Política",
+      "region": "Nacional",
+      "resumen": "El Gobierno abrió la puerta este lunes a retirar del Congreso la reforma constitucional en materia de seguridad, condicionando la medida a que la Comisión de Constitución del Senado elabore y presente un texto consensuado y transversal.\nLa propuesta inicial del Ejecutivo —que permitía decretar un estado de excepción de 120 días renovables sin autorización del Congreso— generó un fuerte rechazo en ",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-28T16:46:51+00:00"
     },
     {
       "titulo": "Gobierno retira reforma que creaba un nuevo estado de excepción",
@@ -5631,18 +5643,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-24T20:36:36+00:00"
-    },
-    {
-      "titulo": "Kast a Bloomberg: \"Hemos logrado un control casi total de la inmigración irregular\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/poblacion/inmigrantes/kast-a-bloomberg-hemos-logrado-un-control-casi-total-de-la-inmigracion/2026-09-24/173443.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast aseguró a Bloomberg que su Gobierno ha logrado \"un control casi total de la inmigración irregular\" y afirmó que espera que una mejora económica en Venezuela incentive el retorno de migrantes que viven en Chile.\n\"Nosotros primero lo que hemos buscado es cerrar nuestras fronteras, hemos logrado ya un control casi total de la inmigración irregular\", sostuvo el Mandatar",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T20:34:43+00:00"
     }
   ]
 }
