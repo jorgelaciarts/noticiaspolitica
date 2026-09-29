@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T01:46:14.288877+00:00",
+  "actualizado": "2026-09-29T02:01:43.061031+00:00",
   "total": 500,
   "items": [
     {
@@ -749,6 +749,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-28T16:47:37+00:00"
+    },
+    {
+      "titulo": "Gobierno se abrió a retirar reforma que crea un nuevo estado de excepción",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-se-abrio-a-retirar-reforma-que-crea-un-nuevo-estado-de-excepcion/2026-09-28/134651.html",
+      "fuente": "Cooperativa - Política",
+      "region": "Nacional",
+      "resumen": "El Gobierno abrió la puerta este lunes a retirar del Congreso la reforma constitucional en materia de seguridad, condicionando la medida a que la Comisión de Constitución del Senado elabore y presente un texto consensuado y transversal.\nLa propuesta inicial del Ejecutivo —que permitía decretar un estado de excepción de 120 días renovables sin autorización del Congreso— generó un fuerte rechazo en ",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-28T16:46:51+00:00"
     },
     {
       "titulo": "Gobierno se abrió a retirar reforma que creaba un nuevo estado de excepción",
@@ -5632,17 +5644,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-24T20:37:47+00:00"
-    },
-    {
-      "titulo": "Diputado comunista Bernardo Salinas comprometió aprobar en general proyecto que moderniza sistema de ingreso a Carabineros - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSXNPb09Ob3pfUFQ3TWdvQ085bVNtNGplNHluVTltbHhCYndtZUltbS1IZFVzZUhZU012c2hTWU52YWIxNmd2eHhlMFJDamhnaWRiVXI0RFVWMmJhRGNvUVptWFhaTEhISGpnT2dBc2dHdlpaQnY1VVVRelZEbXZlN3BleXJHeFI0a01ucFl0OWdTaUM5ckhVTm04alJjZmRneGFlTnVrVlhlYmo4bzd5TzdxVE1oSmJuS3RFVzBtaWhuWXFoRk5xRVdHbGN3ZTJLakdoNnpXb2pVWnlsU1dqanFuYw?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado comunista Bernardo Salinas comprometió aprobar en general proyecto que moderniza sistema de ingreso a Carabineros&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-24T20:36:36+00:00"
     }
   ]
 }
