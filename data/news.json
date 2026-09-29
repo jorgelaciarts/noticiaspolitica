@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-29T15:16:45.689742+00:00",
+  "actualizado": "2026-09-29T15:31:48.152352+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Tercer plan de empleo de Kast. ¿Mucho humo y pocas certezas? Por Jorge Múñoz, Cientista Político",
+      "link": "https://cambio21.cl/tendencias/tercer-plan-de-empleo-de-kast-mucho-humo-y-pocas-certezas-por-jorge-munoz-cientista-politico-6abbd6d1726eb214b271fbe8",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-29T15:25:45+00:00"
+    },
+    {
+      "titulo": "UDI busca forzar cierre del INDH: diputados anuncian indicación para reducir a $1.000 su presupuesto - radio.uchile.cl",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFRwaU15bG9ELU8yaTR0QWdnMVVHTEkxeWk2eHR3SHZ6YmRtdDV1cXQxWTU3NTB1U0xtRVBDc01IUVlId09mX1BuaTdfV3h3SHNDdnI5ZWVrLXVZekxXNENBVVlyUmVOMnVDcTlDckhuYU5LWHkyMTd4Szczc0JiWFZnUmlKZWdJVml5T2FfaF9DSHhEMTNxei1lM3lvMjNLS1R1cVc5WGZpOVZZQVBrNTN2NzgyZUZJRHpDYVdTczZXa0hjV0hKTlpORmFRSDQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "UDI busca forzar cierre del INDH: diputados anuncian indicación para reducir a $1.000 su presupuesto&nbsp;&nbsp;radio.uchile.cl",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-29T15:25:12+00:00"
+    },
     {
       "titulo": "Ultimátum del gremio de camioneros al Gobierno: dieron 48 horas a La Moneda para responder ante alzas en el precio del diésel",
       "link": "https://cambio21.cl/pais/ultimatum-del-gremio-de-camioneros-al-gobierno-dieron-48-horas-a-la-moneda-para-responder-ante-alzas-en-el-precio-del-diesel-6abbd2eb2b9dde59d8363dc3",
@@ -5621,28 +5644,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-25T12:05:12+00:00"
-    },
-    {
-      "titulo": "Gael Yeomans critica adhesión al Escudo de las Américas: “Acá hay una falta de transparencia total” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOENvRXlsMXdzS2VHazFtZTlUdW9INTNjR3c0M2R6NURTdG9Yd05EeVlzeWUtc0N5WTduWFFZZG5QbEl5SU5DRnR1MFVQSmdCNVFlZjlrQ3c4MVNzNURFRjcyZ3FjRHJ4dHBUQ0oxekpoUWcyVzV3VWROOXYzYVdPWjhwcFZZRVJuZFR0TUFpV1pxdU9hdDNiZ3d4V3BielNFS1RvM2Z4TFRPZzdxT0NEVHI2Y0d1Tmt0WVZBSHlwZTlSRVdBMzVmamw0N1JpSWhTX1FieDZ0Y9IB-AFBVV95cUxQa0t3V1RDdEY2dDZTVkdkdEFFSTctME1JbFVFOWNZUlZMekY4cHRvcWpxb3pIWnlhWFhhdGpEbHh2b3ljMm1HdTF5U3lZcFozWGc2eDZzcFBjV0pBTzVEQWVzXzdGMFllb3RRTDg5bjlzTkVEQ2NOZFRHR3FtUk56OXFSa3FIRHBlVEl3d1V1endZWTI5ckxJOThWN29ZWUZabHVMbnR1VUtuaUZBSjEtbkxUX2czWFhUaXFGVmtFdTJiSlNMZUo2Rm1FTnF3dUlWSDQ4Zkp1YXpReC1DaGgyaFRYNXRzWHFkOWQwTzNIT2Mxa2JuN1lIdw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gael Yeomans critica adhesión al Escudo de las Américas: “Acá hay una falta de transparencia total”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T12:05:12+00:00"
-    },
-    {
-      "titulo": "Rojo Edwards acusa “ataque” de Bachelet y Boric por carta a Kast: “No les interesa combatir el crimen organizado” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUDdjdWpCY0NyMFl4MEUxTkVSaXJ5dWM3aUhsUEl4bER1cU52OE5STGdvcGF6ZTVmZnNWVnVxRzJyR2YxdThxelEwaWI0cUdFVmxTQjlIdmZiUHg2M3JMUUpuZHZYRHduekluemxFSkhudjNWUHhkNTVzbF9VRnB6N1VQZnU1QUdGTXJaaTIzMk5Na3NENm1wSUc0WHl0RFJSenExTW9KYWxBMEptaUNZM2JkbVp1cWJITUQ4STQyOVVUMFplR1FPNmZYckpUWHZGdG5xZUMyOTZLM3A5ZzM2cjBTLUFOVldtYWx4RXZPM0VBZExoVklzZ193Nnc?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Rojo Edwards acusa “ataque” de Bachelet y Boric por carta a Kast: “No les interesa combatir el crimen organizado”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-25T12:00:36+00:00"
     }
   ]
 }
