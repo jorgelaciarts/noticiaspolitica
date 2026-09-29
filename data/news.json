@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-29T00:31:40.285297+00:00",
+  "actualizado": "2026-09-29T00:46:24.770219+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T00:24:00+00:00"
+    },
+    {
+      "titulo": "Kast asistió al velorio del carabinero asesinado en Lo Espejo",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-asistio-al-velorio-del-carabinero-asesinado-en-lo-espejo/2026-09-28/211928.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-29T00:19:28+00:00"
     },
     {
       "titulo": "\"Recibió la respuesta que merecía\": Biministro Alvarado por tenso cruce entre canciller Pérez Mackenna y diputado Venegas en interpelación - Teletrece",
@@ -5633,17 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-24T20:22:25+00:00"
-    },
-    {
-      "titulo": "Los tres universitarios que agredieron a Lincolao se salvaron de la condena",
-      "link": "https://www.cooperativa.cl/noticias/pais/judicial/los-tres-universitarios-que-agredieron-a-lincolao-se-salvaron-de-la-condena/2026-09-24/172011.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Los tres estudiantes de la Universidad Austral acusados de agredir a la ministra de Ciencias, Ximena Lincolao, se salvaron de la condena luego de un acuerdo alcanzado entre la Fiscalía, la Defensoría Penal Pública y el propio Gobierno como querellante.\nSegún La Tercera, los entes mencionados resolvieron cerrar la causa a través de la suspensión condicional del procedimento. Esta vía fue resistida ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-24T20:20:11+00:00"
     }
   ]
 }
