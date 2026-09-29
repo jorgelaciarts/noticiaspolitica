@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-29T20:46:39.053130+00:00",
+  "actualizado": "2026-09-29T21:01:56.384352+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La UDI busca cerrar Instituto Nacional de DDHH - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBKbnRrZ0hzS1pNNnRqVVkwNjNaQlA2alhyeXU2QmNZWWhROHN3WER3T3pKaEtCZ2QwelBKRnRGNUFsZWtKNXNESVJXQmVqVlhvaUZHZ3hfRWtQX1AwcWxWMFkxMWdmSDBuU2tXN184Z19BTjJPOXQ5M1F6M3FIdw?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La UDI busca cerrar Instituto Nacional de DDHH&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-29T20:42:38+00:00"
+    },
     {
       "titulo": "Diputadas PSC llevan a comisión de Ética a Irací Hassler (PC) por \"hostigar\" a la ministra de la Mujer - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOU9HVGxIUng2RjRvY2gzdTQ4THlXd1dadHhPZGZCQmh6WTBYTnV6R2ZGbWxsTjNQNkFtRlUwNVBIbUhodS13azNMNExUWUxYNzRyYmhKbHRUckNxekhEZDBTLXpkejc4MWw0cjFBT0txMlIzYUlISElBVjR1amFDencxNWlEQVp5UDZNbnJia3N3UXRGZ0RfZnFreWFrUVdEM1JDalRfLTNMZ1NVN3RxVGh5RGxySktVRU9NSFdyLXVMeThr?oc=5",
@@ -5651,18 +5662,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-25T17:30:10+00:00"
-    },
-    {
-      "titulo": "Fiscalía Centro Norte investigará denuncia de parlamentarios de oposición por delito a la Ley de Inteligencia tras declaraciones del embajador de EE.UU",
-      "link": "https://www.elciudadano.com/justicia/fiscalia-centro-norte-investigara-denuncia-de-parlamentarios-de-oposicion-por-delito-a-la-ley-de-inteligencia-tras-declaraciones-del-embajador-de-ee-uu/09/25/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa denuncia se refiere al delito establecido en los artículos 38 y 44 de la Ley de Inteligencia,  que sanciona la entrega de información del Sistema de Inteligencia chileno a terceros y el diputado Luis Cuello  (PC) destacó que en un contexto en el que \"el gobierno de Chile regala nuestra soberanía, hay instituciones como la Fiscalía Nacional que dan muestra de independencia y autonom",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T17:24:26+00:00"
     }
   ]
 }
