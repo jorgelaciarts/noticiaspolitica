@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-30T21:46:30.903681+00:00",
+  "actualizado": "2026-09-30T22:01:50.687465+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Exministro del Trabajo de Boric por alza del desempleo: En el Gobierno de Kast \"se destruyeron 80 mil puestos de trabajo formales\"",
+      "link": "https://cambio21.cl/politica/exministro-del-trabajo-de-boric-por-alza-del-desempleo-en-el-gobierno-de-kast-se-destruyeron-80-mil-puestos-de-trabajo-formales-6abd7ff437e9343ae05aa1d3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T21:41:14+00:00"
+    },
     {
       "titulo": "Oposición se congrega en expectante \"bacheletazo\"",
       "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/oposicion-se-congrega-en-expectante-bacheletazo/2026-09-30/183352.html",
@@ -5638,19 +5649,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-27T17:13:19+00:00"
-    },
-    {
-      "titulo": "Gobierno promete que el canciller dará \"respuestas claras de las razones\" para adherir al Escudo",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-promete-que-el-canciller-dara-respuestas-claras-de-las/2026-09-27/140136.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno prometió que, durante su interpelación de este lunes en la Cámara Baja, el canciller Francisco Pérez Mackenna entregará \"respuestas claras sobre las razones\" de la adhesión de Chile al Escudo de las Américas.\nEl interrogatorio -a cargo del diputado socialista e integrante de la Comisión de RR.EE. Nelson Venegas- abordará la gestión diplomática del ministro, marcada por reiteradas polém",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-27T17:01:36+00:00"
     }
   ]
 }
