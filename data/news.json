@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-09-30T11:16:41.060171+00:00",
+  "actualizado": "2026-09-30T11:31:39.643558+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presupuesto 2027: Schalper anticipó  fin de programas y “fraudes sociales”",
+      "link": "https://laprensaaustral.cl/2026/09/30/presupuesto-2027-schalper-anticipo-fin-de-programas-y-fraudes-sociales/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "En la víspera de que el gobierno ingrese a tramitación su Ley de Presupuesto 2027, el jefe de la bancada de diputados de RN, Diego Schalper, mencionó el fin de programas &#8220;mal calificados&#8221; y &#8220;fraudes sociales&#8221; como ejes del proyecto para compensar la menor recaudación fiscal. El parlamentario, que ayer participó de una reunión entre...",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-30T11:21:48+00:00"
+    },
     {
       "titulo": "Qué hay tras la alianza Boric-Bachelet que busca tomar el liderazgo en la oposición - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE05T3hWRkthYTRKbTlRWU9WbmpuUnhBWlVUdjFfYnlUeENoQ3Myc2FpRTdCaTBFVzBqZlBOUTZSNkNYbzBNeE9kazBxUlNFd2l0TGxQdlZHcEFTbzZ5NVZ3LVltcVRZLVktazVQZ2d1WEw3MWs?oc=5",
@@ -23,6 +35,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-09-30T10:54:04+00:00"
+    },
+    {
+      "titulo": "Seis partidos reúnen a Bachelet y Boric; Kast presenta Presupuesto 2027 - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZDJSeG05cFFjb3JxVnRrYjVhWWM3NnQ2NFdwRG5ObmdKNEZ6QVhrSUtVUllBYWs3ekNDX1p2NC1Td1hjUXFhSHI0anA4eVRPSTl5MzI0bHoyc0lPSW9yS1dOSWhvOGhwWmJLSXpXRE1CdDNWd1FsM25nc1lyRVZqT2o1QTliX2RVWFZhV3V6ZUhmRlB0ejdMdlJBNk95T1FPdnB1eXdjdXhCaG1oa3lQaXhwbVhmQWVQRUdBdzV1N1lXQ0Q3V0JZUjNUVzE4X3NQY1Rn?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Seis partidos reúnen a Bachelet y Boric; Kast presenta Presupuesto 2027&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T10:30:31+00:00"
     },
     {
       "titulo": "El embajador de Chile en España minimiza las diferencias entre Sánchez y Kast y apela al entendimiento mutuo - Infobae",
@@ -5621,29 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-26T11:45:09+00:00"
-    },
-    {
-      "titulo": "Usar y cuidar la plaza",
-      "link": "https://ladiscusion.cl/usar-y-cuidar-la-plaza/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La discusión surgida en el Concejo Municipal de Chillán por el deterioro del pavimento de la Plaza de Armas tiene el mérito de poner sobre la mesa un asunto que suele quedar relegado frente a la realización de actividades masivas: cómo compatibilizar el legítimo uso de los espacios públicos con su conservación. Una plaza que [&#8230;]",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-09-26T11:37:20+00:00"
-    },
-    {
-      "titulo": "“Gracias a ese trabajo pude pagar mi carrera”: Cómo una generación de ex empaquetadores ve el retorno de un oficio que ahora será con contrato y sin propinas",
-      "link": "https://www.theclinic.cl/2026/09/26/gracias-a-ese-trabajo-pude-pagar-mi-carrera-como-una-generacion-de-ex-empaquetadores-ve-el-retorno-de-un-oficio-que-ahora-sera-con-contrato-y-sin-propinas/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Lo que parecía un oficio del pasado vuelve a las cajas de los supermercados. Para muchos jóvenes fue su primer trabajo y hoy, ya convertidos en profesionales, recuerdan sus años como empaquetadores. Expertos valoran la medida, en un escenario en que el desempleo nacional alcanzó un 9,5% y la ocupación de los jóvenes cayó 4,1% en doce meses, y abordan la iniciativa de diputados UDI que buscan dejar",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-26T11:09:00+00:00"
     }
   ]
 }
