@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-09-30T15:46:35.904188+00:00",
+  "actualizado": "2026-09-30T16:01:45.120809+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Patente verde en Chile: ¿En qué consiste y qué vehículos están obligados a usarla?",
+      "link": "https://www.lanacion.cl/patente-verde-en-chile-en-que-consiste-y-que-vehiculos-estan-obligados-a-usarla/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El pasado mes de julio comenzó a implementarse en Chile la denominada patente verde, luego de la actualización del Decreto Supremo N°53 durante el Gobierno del expresidente Gabriel Boric. La mencionada normativa regula las características de las Placas Patentes Únicas (PPU) en el territorio nacional. El nuevo formato de patente mantiene el color negro en [&#8230;]\nThe post Patente verde en Chile: ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T15:59:22+00:00"
+    },
+    {
+      "titulo": "Macaya por Presupuesto 2027: “Beneficios y derechos sociales no se tocan”",
+      "link": "https://www.lanacion.cl/macaya-por-presupuesto-2027-beneficios-y-derechos-sociales-no-se-tocan/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El senador Javier Macaya (UDI) dijo que el Presupuesto 2027 tendrá un aumento de 1,5% según les confirmó el Presidente José Antonio Kast en Cerro Castillo. Y que los principales énfasis estarán puestos en reactivación económica, empleo, vivienda, infraestructura, seguridad y defensa.En entrevista con Radio Cooperativa advirtió que &#8220;yo sé que van a haber dolores, [&#8230;]\nThe post Macaya por",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-30T15:49:11+00:00"
+    },
+    {
+      "titulo": "Cadem: desaprobación de Kast sube a 57% y preocupación por desempleo en Chile sigue creciendo - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSGZMRV9SamtKdlU1OWstZzR3eWFhWjdXYXpEdndlOWRKWFM0QUJGM1N0RVZpUGZwdHhLSzUyV3c2c01UelpCcUQwcXJ0STFsTzRBNVp3X3ByNUthcF9Hek5mOGlBZmZ3NG5SbUptbVkyOFBVanJhdWQ1TmlhQnVDXzBlZXJfaXlhR2JMN1p1RGRkZU1QVE9FaHBhd1ZpaFIzOGJ1Zm1RbnY2LVV4MTUzSWxsY3VlUVJsZFJWa0ZOWkl3YTQ?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cadem: desaprobación de Kast sube a 57% y preocupación por desempleo en Chile sigue creciendo&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T15:45:00+00:00"
+    },
     {
       "titulo": "Senador Núñez (PC) tras quedar fuera de comitiva a Nueva York por rechazo a su visa: “Es algo que debe aclararlo la embajada de EE.UU.”",
       "link": "https://www.theclinic.cl/2026/09/30/senador-nunez-pc-tras-quedar-fuera-de-comitiva-a-nueva-york-por-rechazo-a-su-visa-es-algo-que-debe-aclararlo-la-embajada-de-ee-uu/",
@@ -750,6 +786,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T23:46:50+00:00"
+    },
+    {
+      "titulo": "Diputado Ossandón (PDG) denuncia recibir mensajes “amenazantes e intimidatorios” por redes sociales - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnlRUHRndlNBMVpIbEdTMHRzLTFrWWlubk1JSG1iU3BrX3RiUGZrSkkyN0tGOEh6dW9NX3o0VkxUbF9GY096VmJWZDBQY1FYNDFWTmM2VWN2NkZIZ21lenRtSEd2NU5sUU5aQjI5Q3pnQmd5TmRILWJ1X2gzYjFzLUJhcUFLT2RFOGpkR3RpQUtsUC1IMm5LX3RoaWh3UGtISU1JT3pvaEM5X2h4ODdhWmIxR2FFNFZ4elhvVVZCcEpaZzhz?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Ossandón (PDG) denuncia recibir mensajes “amenazantes e intimidatorios” por redes sociales&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-29T23:46:15+00:00"
     },
     {
       "titulo": "Escala disputa en la UDI: Hube cuestiona dupla Alessandri-Longueira y genera incomodidad interna - BioBioChile",
@@ -5598,53 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-27T03:43:55+00:00"
-    },
-    {
-      "titulo": "Más de 3,7 millones serán denunciados por no votar: en Ñuble Servel aún depura los casos",
-      "link": "https://ladiscusion.cl/mas-de-37-millones-seran-denunciados-por-no-votar-en-nuble-servel-aun-depura-los-casos/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La cifra de electores que deberá enfrentar un proceso ante los juzgados de policía local comenzó a tomar forma definitiva. El Servicio Electoral (Servel) informó que 3.760.261 personas que no sufragaron en las elecciones presidenciales y parlamentarias de 2025 serán denunciadas por el organismo, en cumplimiento de la normativa que estableció el voto obligatorio. El [&#8230;]",
-      "categorias": [
-        "Servicio Electoral",
-        "Elecciones"
-      ],
-      "fecha": "2026-09-27T01:52:14+00:00"
-    },
-    {
-      "titulo": "Panel Ciudadano UDD: un 51% apoya la incorporación de Chile al Escudo de las Américas",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/panel-ciudadano-udd-un-51-apoya-la-incorporacion-de-chile-al-escudo-de/2026-09-26/215459.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un 51% de la ciudadanía aprueba el ingreso de Chile al Escudo de las Américas, en contraste con un 32% que rechaza la medida, según reveló la última edición de la encuesta Panel Ciudadano UDD, difundida por El Mercurio.\nEl estudio de opinión se desarrolló en medio de la controversia política surgida tras la confirmación de la incorporación del país a este bloque de 15 naciones, impulsado por Estad",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-27T00:54:59+00:00"
-    },
-    {
-      "titulo": "Panel Ciudadano UDD: un 51% apoya la incorporación de Chile al \"Escudo de las Américas\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/panel-ciudadano-udd-un-51-apoya-la-incorporacion-de-chile-al-escudo/2026-09-26/215459.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un 51% de la ciudadanía aprueba el ingreso de Chile al \"Escudo de las Américas\", en contraste con un 32% que rechaza la medida, según reveló la última edición de la encuesta Panel Ciudadano UDD, difundida por El Mercurio.\nEl estudio de opinión se desarrolló en medio de la controversia política surgida tras la confirmación de la incorporación del país a este bloque de 15 naciones, impulsado por Est",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-27T00:54:59+00:00"
-    },
-    {
-      "titulo": "La Moneda Suprema repostera CDE - La Segunda - lasegunda.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjdVU18tNC13RGd0cmpDcm9LOVV1bGh3TGhxZ0ZpQVVzY21FZmxNV2FrcVdnOGhRMVBKTU05Z0c1SWRqUWxGSTlqYWM3aGxMaXdFOTM4Mm8yeEo5bVNFc0V3U3RFYWJIcFVkNlRNYXROdV9DUGFPVTBGYjdjZ296VVhSM1BqNjZwQ0t3V0Y4dTE2WmpqRzVqTQ?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda Suprema repostera CDE - La Segunda&nbsp;&nbsp;lasegunda.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-26T23:56:33+00:00"
     }
   ]
 }
