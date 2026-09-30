@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T08:01:27.405019+00:00",
+  "actualizado": "2026-09-30T08:16:39.276337+00:00",
   "total": 500,
   "items": [
     {
@@ -206,6 +206,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T00:34:07+00:00"
+    },
+    {
+      "titulo": "Cámara aprueba compensación por pañales y medicamentos y Quiroz celebra acercamiento con el PDG - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVXVoWkNhMVNkR2ZDOHc5bS1wWWYwTmtnelJZbGhqY3I4YWlOaXFEQ1ZOWjVxMmxCSWFORzM5cXIxTnhrSjAxcWIwbUlHQU94STFoQWpyOWxwTHMxNWQ4eElFemNnNzlwMlRleTVuNi11ODFSNGZ3cndtTGZWdzFRSWZCVW82OG5CVHQ0RHdoSEppcHB4aXJwaV9fSHFsa1p0Qy13eDE0S0x0dnJ4T1hONzZVdkZQRUowRklndnlqVXcycmVWdXRKMHJ5blFYUjFKRXpXeG01MzJKMFdlMzE0Uzl3?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cámara aprueba compensación por pañales y medicamentos y Quiroz celebra acercamiento con el PDG&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-30T00:30:04+00:00"
     },
     {
       "titulo": "Senado aprobó ley de juicios en ausencia del imputado",
@@ -5637,19 +5648,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-09-26T04:29:00+00:00"
-    },
-    {
-      "titulo": "La peor crisis de \"las derechas\" en el Gobierno: Senadora Gatica (RN) defiende a Presidenta del Senado (RN) por pedir cambio de gabinete. Y arremete contra partido de Kast: \"La derecha valiente está en Valparaíso votando y la cobarde, de viaje en Nueva York”",
-      "link": "https://cambio21.cl/politica/la-peor-crisis-de-las-derechas-en-el-gobierno-senadora-gatica-rn-defiende-a-presidenta-del-senado-rn-por-pedir-cambio-de-gabinete-y-arremete-contra-partido-de-kast-la-derecha-valiente-esta-en-valparaiso-votando-y-la-cobarde-de-viaje-en-nueva-york-6ab73b765152832f83259133",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-09-26T03:37:43+00:00"
     }
   ]
 }
