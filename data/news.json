@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-09-30T16:01:45.120809+00:00",
+  "actualizado": "2026-09-30T16:16:39.424113+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Estados Unidos niega visa al senador comunista Daniel Núñez",
+      "link": "https://www.lanacion.cl/estados-unidos-niega-visa-al-senador-comunista-daniel-nunez/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Estados Unidos negó la visa al senador Daniel Núñez (PC), quien tenía previsto viajar a Nueva York para participar en una actividad de la Unión Interparlamentaria (UIP). Esto en el marco de la Asamblea General de Naciones Unidas. Según informó La Tercera, la decisión de las autoridades estadounidenses impidió que el parlamentario pudiera concretar el [&#8230;]\nThe post Estados Unidos niega visa al",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-09-30T16:14:50+00:00"
+    },
+    {
+      "titulo": "Ya van 41 en casi 7 meses: gobierno de Kast pierde a dos seremis en menos de 24 horas - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDUtNHV2Ui1IY3p5UVpvWW5ZZDNqV1hiY0JOdGNCbDVkVkxzT01mWnA1VkRMQUUyZ3ZLVGdnaVAtM09kVGg3NE1hcHNOUFpFOG9ZQVdxQi10a19ObXNyNGVDemNsREhaeFAtaXVnUlktR003UUNrWkRuUlVxdlp1dzBvZnVtZld1blM2U1ZGS0hGYS0yYUtZeVlTYzZsYzI5cVN0MXRfODFmVU8yRkV0eDlWVHRqTjQ?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ya van 41 en casi 7 meses: gobierno de Kast pierde a dos seremis en menos de 24 horas&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T16:07:30+00:00"
+    },
     {
       "titulo": "Patente verde en Chile: ¿En qué consiste y qué vehículos están obligados a usarla?",
       "link": "https://www.lanacion.cl/patente-verde-en-chile-en-que-consiste-y-que-vehiculos-estan-obligados-a-usarla/",
@@ -104,6 +126,17 @@
         "Senadores"
       ],
       "fecha": "2026-09-30T15:00:00+00:00"
+    },
+    {
+      "titulo": "“Devuelvan los recursos para la vivienda”: pobladores protestan en el MINVU por recorte de 20.500 subsidios",
+      "link": "https://www.elciudadano.com/chile/devuelvan-los-recursos-para-la-vivienda-pobladores-protestan-en-el-minvu-por-recorte-de-20-500-subsidios/09/30/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLos pobladores del Movimiento Solidario Vida Digna exigen que se repongan los recursos porque hay miles de familias en todo el país esperando que sus viviendas comiencen a ser construidas, mientras que el gobierno de José Kast \"destina cada vez más recursos públicos para entregar garantías a los bancos e incluso comprarles deudas hipotecarias\".\nLa entrada “Devuelvan los recursos para ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T14:56:45+00:00"
     },
     {
       "titulo": "“Devuelvan los recursos para la vivienda”: pobladores protestan en el MINVU por recorte de 20.500 subsidios",
@@ -5612,40 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-27T09:00:00+00:00"
-    },
-    {
-      "titulo": "El día en que Kast confundió la Asamblea General de la ONU con el ChileDay - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHdLRnMyVzl2cUplNEx5SzFKT0RQTkhDdHB1cUtjb3oycE9fVW91bkM4aWxFMnpUdVdKLURPbER3d2ZPWVJMUmUzZlFjcDFHbzFidVBwTlVkcVN6SmtabV9NaWo5SHo1WFZoOG9KWnVCY1U2SW5DSHJOWUEtME9oTEVrYXBCT3BzMVY5ajFjSW9DdTlTX0FHd1c0TnNFc2JSOS1VZUhkLV9vQXNMUzJVci1WVGYweXJlNDZxcVdKdw?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El día en que Kast confundió la Asamblea General de la ONU con el ChileDay&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-27T08:10:48+00:00"
-    },
-    {
-      "titulo": "\"Muy lamentable”: La crítica de Boric al Gobierno por eliminar jornada patrimonial infantil - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzBWSFNnbmFyUVZGaklLcU5VVF9jLTlqdWNwaDVEbnVjTnF2elhPTVB3VjlUbXhMcjBzQUFhRnlLQkZxZ2YwLThUQTRXRzRiSW1FOG9TOU8zY1lCdEtXWEpXOFlyVWZsNkYwVWJ6U2xtQzZFSnhMNHEyVldhendNWkVENzRrZC12M1pTMlhtb0VaVFFkSmdiR0ZNdnQ4enk2a1FHNUFuOVJhUUhnMDNB0gG0AUFVX3lxTE1PZUs5NDhFRzg5UGpqOEFEWTBxWUdrN08wOWxhczFncFBMYVRyQlNSODNPLUVORFQzZk1lOG9tQnpsVE5KeHJOSEx4VkFYU3lhX3NCc0tJUF9mcVhOcTlRZEpNM1RpOVBNRUh6dDQ5a05HOVhjaU5pQVFRaEZnVmZ6dGdDMDB4bjF6ejhQckROWHFXS2dTdW5aXzRacVdTOUhWRnUyRnZINGFLWmlBYWs3S3Y1RA?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Muy lamentable”: La crítica de Boric al Gobierno por eliminar jornada patrimonial infantil&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-27T06:45:00+00:00"
-    },
-    {
-      "titulo": "Presentador de TV Pancho Saavedra recordó el día que Kast llamó a Luksic para pedir que lo despidiera de canal 13. Lo trató de estúpido por atacar el mapudungun de diputada",
-      "link": "https://cambio21.cl/tendencias/presentador-de-tv-pancho-saavedra-recordo-el-dia-que-kast-llamo-a-luksic-para-pedir-que-lo-despidiera-de-canal-13-lo-trato-de-estupido-por-atacar-el-mapudungun-de-diputada-6ab88e203568ea47360f2443",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-27T03:43:55+00:00"
     }
   ]
 }
