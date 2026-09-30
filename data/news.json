@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-09-30T00:16:41.217096+00:00",
+  "actualizado": "2026-09-30T00:31:32.053457+00:00",
   "total": 500,
   "items": [
     {
@@ -101,6 +101,17 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T22:52:06+00:00"
+    },
+    {
+      "titulo": "Trío que dañó la Mano del Desierto arriesga cesantía y expulsión de Chile",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/trio-que-dano-la-mano-del-desierto-arriesga-cesantia-y-expulsion-de/2026-09-29/194918.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Reacciones de repudio ha provocado la difusión de registros audiovisuales que muestran a un grupo de personas vandalizando, con rayados, la emblemática escultura de la Mano del Desierto, ubicada 75 kilómetros al sur de la ciudad de Antofagasta, a un costado de la Ruta 5 Norte.\nEn los videos, los sujetos aparecen fotografiándose y riendo de los daños causados a la obra patrimonial del escultor Mari",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-29T22:49:18+00:00"
     },
     {
       "titulo": "Ministro Alvarado respalda a Barros tras polémica por Islas Malvinas: “Nunca ha manifestado una posición contraria a la del Gobierno de Chile” - CNN Chile",
@@ -5649,17 +5660,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-25T20:35:16+00:00"
-    },
-    {
-      "titulo": "Desde Magallanes, Barros reafirmó posición chilena sobre el Estrecho tras controversia",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/desde-magallanes-barros-reafirmo-posicion-chilena-sobre-el-estrecho/2026-09-25/172128.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Luego de una serie de declaraciones provenientes de Argentina sobre la soberanía chilena en el Estrecho de Magallanes, una sesión extraordinaria realizada este viernes en Punta Arenas reunió al ministro de Defensa, Fernando Barros, y a los comandantes en jefe de las Fuerzas Armadas para abordar la situación.\nDurante la sesión, el ministro de Defensa Fernando Barros, recalcó que la posición chilena",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T20:21:28+00:00"
     }
   ]
 }
