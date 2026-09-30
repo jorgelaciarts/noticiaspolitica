@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-09-30T00:31:32.053457+00:00",
+  "actualizado": "2026-09-30T00:46:42.824223+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Constanza Hube y opción de competir por presidencia de la UDI: “No lo descarto” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaDZMUmNsY2ZqM0VyZWt3dUxzODNJTHZnVjZrNDhyQVM3eW9JLWlrdDhMVnFJdVlxUk91UmljaWllbEFCX1VGOVRGV2dOa0hVbURpblhWVl90LVhJYXBUSHRudXE3QXN2cDJXV01jSkk0WUxKZFl2dXhUbEZjbDVkYmNWVWlHN1lPTVkwbkNoWjBIR19hZ0ZkSThjVVZ1Q19qNlVRR0tScmtMNV9RNG5nR0hRN19wQ2JuRlBSd9IB3gFBVV95cUxNVlBHZFZRWkxRenVsUFRFRHhuXzQ3eFJTd1NKX1dScGFfay1VTXJmRzVOaTlocndEUVpWck5ucEN1NFJ6S0lnWVN2NTRwdVM1Z0sxUmZ5S0wtVzBHcTFBNzRod3NybW1CNUFzMGdibEdLZ05aNVFtMzZ1cTBsNFA3cm1BZ01tRURZeFJaMWFEMFczZnRLc0RhbTF2NmNCR3A3eGcwVTJzRHZZbjNaMEU3dzdMYUI2OXlUUGt6blNnNW9hWVJYdXVMTlpkTm1DYWd4YXk5QlNsRGZfcUw2b2c?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Constanza Hube y opción de competir por presidencia de la UDI: “No lo descarto”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-09-30T00:34:07+00:00"
+    },
+    {
+      "titulo": "Senado aprobó ley de juicios en ausencia del imputado",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/planes-antidelincuencia/senado-aprobo-ley-de-juicios-en-ausencia-del-imputado/2026-09-29/211956.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En el marco de la tramitación priorizada de la agenda de seguridad, el Senado aprobó y despachó este martes a la Cámara de Diputadas y Diputados el proyecto de ley que modifica el Código Procesal Penal para regular la continuidad de los juicios orales y permitir la dictación de sentencia definitiva en ausencia del imputado.\nEl despacho de la iniciativa se ratificó tras la votación en Sala de las 5",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-09-30T00:19:56+00:00"
+    },
     {
       "titulo": "Escala disputa en la UDI: Hube cuestiona dupla Alessandri-Longueira y genera incomodidad interna - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZDlpQlIzU3NTRG9FcjVla05VN0RoTDNMR2FRaFBscTRBV2tocWlOUE1yN3FPRHZkUWdHSm9iRFJib3pHdVVLNnBVTFRYZkhSbXh5M3lEWi1QdlF0dVdYYlBHSHAwaUtlWmF1VHNhaTI3Tl9XcWMzM3QtT3htTGRxV0JhcHZYRFUySjBKWUVVaUV2Y0RSNXBtVC1veTQyZDFfR2tndVU1UldJbUdpNGQxaWVyQ0pkUl9OMW1hdmVubXJhTGoySDZ4UFBUMU05MUJITktDSDhNNzhqWnl4bzZUZzBEamQzdXZjY1VLREV2ajlidWNxOGc?oc=5",
@@ -441,6 +464,17 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T20:16:22+00:00"
+    },
+    {
+      "titulo": "Tras tropiezos y fuego amigo, Kast asume negociación del Presupuesto 2027 y agenda de seguridad - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTDBURFByMEh3cmNkSXkxZ0czSDd0NDdSN3NfZEpFeXZIeVAtcUx4NWVKLUJCdGh4ZmRLWkJvTk5TVWlfcnc5R1ljZ1lEcnpQUHh2VHY4cEsyVjRZZmdGdFdHeGFxQXJPb0pqZU5iRi1DTWRnUzM3VFVKOFQ0V1V2bExnRzNxSVBsWnZCcEsyNjNEcW83U0MzN2ZVTGMwMm9ENXVlSEZrbzRnX3dseHdoRzd2SVBVVEtwV0tCeGtBMjIwc3dEQWgyMDFSaktEYVVubGdXNy0xV3BwdUR2QzFXWA?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tras tropiezos y fuego amigo, Kast asume negociación del Presupuesto 2027 y agenda de seguridad&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-29T20:14:33+00:00"
     },
     {
       "titulo": "Reconocen a estudiantes chillanejos por rendimiento destacado",
@@ -5625,41 +5659,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-25T20:50:00+00:00"
-    },
-    {
-      "titulo": "Obedecer o ser soberano: Chile, Kast y la izquierda que falta",
-      "link": "https://www.elciudadano.com/chile/obedecer-o-ser-soberano-chile-kast-y-la-izquierda-que-falta/09/25/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPor Leopoldo Lavín Mujica El 22 de septiembre, en Nueva York, horas después de reunirse con Donald Trump, José Antonio Kast incorporó a Chile al Escudo de las Américas. Esa misma mañana, el ministro de Defensa, Fernando Barros, aseguraba que la adhesión seguía en estudio; semanas antes había dicho que Chile no es el patio [&#8230;]\nLa entrada Obedecer o ser soberano: Chile, Kast y la ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T20:48:56+00:00"
-    },
-    {
-      "titulo": "Gobierno descarta impacto al Servel por el Presupuesto 2027: “Ese estándar en ningún caso va a ser afectado” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFItdmw4bG5QTjRCSjhWMy1QNWhrbThDNzZYTVdfa29vdkNBSk5MaFhXMUN2eThJcDRiNXpXeDhIS3YtSDBPX2wwOFNaS2lWTW8zVnFZbFJacmliM0pOck9hWWpXYVF6Vm5hcmo3bXc3TWxUSWRoNGxReHE5QlFwdXVYMWF5c1BNWjM3SF9PU1M0TXRxLUYzaWJ1RkNqUVVlZnRlbkd4aVlkekVtdGNQeFk2bE9mZXBua3dyTmt2YWpteEFuTDJQZmJ4Smt5bGJYdmc?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno descarta impacto al Servel por el Presupuesto 2027: “Ese estándar en ningún caso va a ser afectado”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-09-25T20:36:16+00:00"
-    },
-    {
-      "titulo": "Histórico fallo condenó a médico por obstruir aborto en tres causales e indemnizará a paciente",
-      "link": "https://www.cooperativa.cl/noticias/pais/salud/aborto/historico-fallo-condeno-a-medico-por-obstruir-aborto-en-tres-causales-e/2026-09-25/173516.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un juzgado civil de la capital chilena emitió la primera sentencia favorable a una mujer que demandó al médico que le impidió abortar, pese a invocar la ley de tres causales vigente en Chile, según dijo a la agencia de noticias EFE este viernes la abogada Francisca Millán, un \"triunfo judicial que sienta un precedente en distintas dimensiones\".\n\"Es la primera sentencia favorable de esta naturaleza",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-25T20:35:16+00:00"
     }
   ]
 }
