@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-09-30T18:16:40.524906+00:00",
+  "actualizado": "2026-09-30T18:31:48.355325+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partidos políticos chilenos estarán obligados a condenar a los gobiernos totalitarios - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQY2htOVhMT2U3Zm5JdFpobjYyN213RXpBTTBIWFFNeFVuNHZ2UHFfWTUtUGU4RVpUaF9jaGJfR1FKWHFrcVFpcTB4THduMkhSSXkzWEpkVDl5Tm1nV2w3T1J0VXZscDRvU1VSYVlrYzVBN2t2bGd2V0JtRXNuemZBb1dMVE0zSE5kYVZUNHVGVHI5SnNFV0JPNGZfVjJ0ejR5eEFtcnF2TGdMSE56dW00OGwtS1BOS3hWZ2RhN2dNdGRIUnJ2RTRoM3gtZUExMnpzcmNfOVVNMm1RZ1RQdG9CdkVZa3BUTFM0?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Partidos políticos chilenos estarán obligados a condenar a los gobiernos totalitarios&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-09-30T18:26:18+00:00"
+    },
     {
       "titulo": "Ley de Presupuesto 2027: Kast presentará proyecto al país este miércoles por cadena nacional - El Desconcierto",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmZyTVg0bE5TRFloR2lZX3hldURIbGFZNUNyV0h4eUJFd3ZXNHN2YmdmTlpqWHJVUEZsRDVIZmVrSkptV2xsVkx0RFhYR1ZyOWtuMEtiQjgzTV9QbGZraFlmQlFyYzdaMk1WckVxZUNhS3N0RkxLekJZRU54VWJfSnpYN3E5MXZEUXRNb3JzZklBYlh6OFlPWEhxQVhqNTdFSXk4NS02Mk1Ma2hrYzVQV2loY3d4dGl3YUVGUTNaWHdFSVVZYkNsSDVR?oc=5",
@@ -23,6 +34,20 @@
         "Presidente"
       ],
       "fecha": "2026-09-30T17:55:33+00:00"
+    },
+    {
+      "titulo": "Presupuesto 2027: Gobierno ingresará erario con foco en empleo y oposición acusa cálculo \"tramposo\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-gobierno-ingresara-erario-con-foco-en-empleo-y/2026-09-30/145449.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Hacienda, Jorge Quiroz, entregará a la Cámara de Diputadas y Diputados el proyecto de Ley de Presupuesto para el 2027, el primero elaborado por la actual administración.\nLa propuesta contempla una expansión nominal del gasto del 1,5%, orientada principalmente a la reactivación económica, la vivienda, la seguridad y las obras públicas, con un tratamiento especial para el área de Defe",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-09-30T17:54:49+00:00"
     },
     {
       "titulo": "Cómo votaron los diputados al aprobar el último artículo para despachar a ley la reforma al sistema político - Emol",
@@ -5621,28 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-27T14:00:00+00:00"
-    },
-    {
-      "titulo": "Criteria: 42% evalúa negativamente participación del Presidente Kast en Naciones Unidas - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcHpYUEVZT3JJYXVLZWV2cERWVzVSRDVCeFFMX01CVVJEY1htTmg5NFd1VnJPdmJSVFZ4Z2t4bTFjS3ZSRHJOcWE2cHRIUWNlZDAzbUo1WHZETExvdWFxVVRXUnZoOWNkbVNVLTAxb2hnb1I0YjJibzNmWWt0NjNBLUZDUnJzbkwyOG15MDFpZnlpRzZ6cHJMdHJsUDJzcTg5QjNRa2FvQmY5ZEY5TGNuSm84c0FNZVdPT2tmUTF5c3VGdjQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: 42% evalúa negativamente participación del Presidente Kast en Naciones Unidas&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-27T14:00:00+00:00"
-    },
-    {
-      "titulo": "Pulso Ciudadano: Aprobación del Presidente Kast cae a 28,2% y economía concentra preocupación - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRXdTemdLVVNKTWFvelNrR3U4U1E2WTBXbUxxZWdtWTVZYmpoM2hUYnowRjFmWTlXdVFUdVFmLXpYaTNiT3c0NWJZdEE0U3RjR210UDJWNm9OZldYTDBTOTVETXBMcE1HVzlMQkRXRG10UWZPSUVILW5wcjdGdnZWZkRrNHAwRUNscUtQQzlObG4tUFlWcF9QMXZLVUFZWG1pVWVrdmFrbTBQTmd2OHVkWmZmRHR1WUk?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Pulso Ciudadano: Aprobación del Presidente Kast cae a 28,2% y economía concentra preocupación&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-27T13:38:36+00:00"
     }
   ]
 }
