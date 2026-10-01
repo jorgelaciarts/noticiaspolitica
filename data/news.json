@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-10-01T15:02:09.818386+00:00",
+  "actualizado": "2026-10-01T15:16:42.349725+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La reunión exprés entre el diputado Javier Olivares y el Presidente Kast pese a intensa agenda del mandatario en Cerro Castillo",
+      "link": "https://www.theclinic.cl/2026/10/01/la-reunion-expres-entre-el-diputado-javier-olivares-y-el-presidente-kast-pese-a-intensa-agenda-del-mandatario-en-cerro-castillo/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Un encuentro de \"cinco minutitos\" tuvo el militante del Partido de la Gente (PDG) con el jefe de Estado, cita gestada sin haber sido agendada previamente. En el oficialismo el gesto fue llamativo, pero lo entendieron en el marco de que Olivares se encuentra en el ala más a la derecha de la bancada del PDG. \nThe post La reunión exprés entre el diputado Javier Olivares y el Presidente Kast pese a in",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-01T15:04:05+00:00"
+    },
     {
       "titulo": "Vuelco: Senado descarta haber realizado gestiones para tramitar visa del senador Daniel Núñez (PC) para ingresar a EEUU",
       "link": "https://cambio21.cl/politica/vuelco-senado-descarta-haber-realizado-gestiones-para-tramitar-visa-del-senador-daniel-nunez-pc-para-ingresar-a-eeuu-6abe73d6a08f5f5f64054123",
@@ -12,6 +25,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-01T14:59:38+00:00"
+    },
+    {
+      "titulo": "Senador Celis (PPD) y reforma de seguridad: “El Gobierno ha apostado a fraccionar a la oposición” - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOanlqM3B6ZzBXVWtQWWt0THg2bER0U0RLRmdIRVNvclRBak9ZNlhzdkpseDJLbWJXTERGd0wwOWM5enRONm9HaERBN240V21vWGhvLUU4SFlMaGQ3MUo1TTUxVDc4ZzNQY1dHbFNFTnNvTUlrLWxLc0owaVZ2NEVOYXQyU3R0T0U3dDFDdTlieF90OHFkSG1FX2J4OEFJdFdoX2xvSGRpb3UzZ1RsZXBRS1ZQbWVodVp4RG13R2xpbmpURElBc0ZOOEx0S2l5QTRPWWIxeTFKT1dXd1VQbUE?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Celis (PPD) y reforma de seguridad: “El Gobierno ha apostado a fraccionar a la oposición”&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-01T14:53:34+00:00"
     },
     {
       "titulo": "Senado negó haber gestionado visa de Daniel Núñez en Estados Unidos",
@@ -103,6 +127,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-01T12:38:39+00:00"
+    },
+    {
+      "titulo": "Mesa del Senado descarta haber realizado gestiones para tramitar visa del senador Núñez (PC) para ingresar a EEUU - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWd6Ni1OY1JwSXB2bDBwVDhoMlFjLXdHY3NmcVVMWGRTdGlLQmNqY3VQZDlodVlJSUFaQWhTSHNfb3BpaGFtWlEwN2hqZmpwaHA2TUtOVTc5TGFnWjNxYm9XTFdyQmo2cUtJaTFtM24tNVdUSnJ3Q2MyaC1UNFJYNl9oYXd2M1Zyd3ZCelZCWVNWQV9Ld3FOSEhLblZOZEJLRTY3cDJQU3VHOS00Qkc4SVl3dl9tMmZZSEFKTkUydDN6RkRm?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Mesa del Senado descarta haber realizado gestiones para tramitar visa del senador Núñez (PC) para ingresar a EEUU&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-01T12:35:00+00:00"
     },
     {
       "titulo": "Mesa del Senado descarta haber realizado gestiones para tramitar visa del senador Núñez (PC) para ingresar a EEUU - Teletrece",
@@ -5614,39 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T17:12:00+00:00"
-    },
-    {
-      "titulo": "Kast anuncia estrategia para enfrentar el desempleo: \"No hay una varita mágica, esto no es tan rápido como uno quisiera\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzhoMUN4VmFMTTlGYmJuYTFFNVBWNzByX1JLMmE2NjFORTZTOXNIaUFDcG1QeHFXN3VfYkF2c2g2RHB2Rjh3MmJjVkR5b0V1dDdoa1Z5ZmNfak45RXh0Yy1iYm5YcFUtMC1kOEJ6UEdELTVTTkh2ZElxejh5RF9nTXZzLUZWZzJKX081c2JWMzBCOFhQVlRoX0ZXNlJOZ0dkV3RFQVhPcWh6dkpCNC1ySVNScFo5ZWt5bnJ0R2dHNA?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast anuncia estrategia para enfrentar el desempleo: \"No hay una varita mágica, esto no es tan rápido como uno quisiera\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T17:06:00+00:00"
-    },
-    {
-      "titulo": "Presupuesto: Kast y Quiroz revelan sus prioridades ante su primera gran prueba económica - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR0I5S2NDRTJENjRzMGtaQ3BuazlJUU9YUGM1MjBjb3Ficm90X1FJeFltdElNVGVyY0plT3FNZUxma29mdGFzendkbXJtZTFGdFZJRUxUQjZ2aldxeVlRWGJqWWZldkQ2RmV4aHcteHhseEZxdTZ4Rmt6SWdlM0ZVal81ZHV4WjBXUXc5aTloM3oza2J2bHc0cmJHREQ5UlJxOWRwdTJybkdwMnlyVldnZVljTDBoQWtPTHdxWGhtVllZeDAyU2dtNkZJU0NCeTFoTk9v?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presupuesto: Kast y Quiroz revelan sus prioridades ante su primera gran prueba económica&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T17:00:17+00:00"
-    },
-    {
-      "titulo": "Ministros aterrizan principales medidas del plan de reactivación de Kast y comprometen reducción del desempleo a 6,5% al final del gobierno - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTdwZV9FcU5IVlhfMWNWdVRMVUZxYUxiLXVBODdyMEtkM1RLdkw4bjVsa3djNmVJTzR3dEtvcENud0pBMFo5WUtDakVRbWQxOGlFTkZESHVWS0dhOVZiUlBpd1BwZi1wMFdWb1NkNEI0MEFOeHFDb0RfZ0UtY3NnMW1aM2JZUE02OUxlVUE4VDh4MnJLU21EeUxtYm1JZ2FVelIxdWdjN3pZV0pJSDNPNTNiMjBIcTgzTFE?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ministros aterrizan principales medidas del plan de reactivación de Kast y comprometen reducción del desempleo a 6,5% al final del gobierno&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:54:00+00:00"
     }
   ]
 }
