@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-01T11:13:19.030742+00:00",
+  "actualizado": "2026-10-01T11:16:41.826986+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Inversión pública y empleo en Magallanes",
+      "link": "https://laprensaaustral.cl/2026/10/01/inversion-publica-y-empleo-en-magallanes/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El reciente despliegue del Plan Chile Despega en la Región de Magallanes -replicando el anuncio del Presidente José Antonio Kast y liderado a nivel local por la delegada presidencial Ericka Farías- sitúa a la inversión estatal en el centro de la estrategia para reactivar la economía regional. La iniciativa responde a un escenario complejo marcado...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-01T11:13:26+00:00"
+    },
     {
       "titulo": "Jara golpea plan de empleo de Kast: “100 mil puestos de trabajo es como la mitad de los que ya se han destruido”",
       "link": "https://www.elciudadano.com/chile/jara-golpea-plan-de-empleo-de-kast-100-mil-puestos-de-trabajo-es-como-la-mitad-de-los-que-ya-se-han-destruido/10/01/",
@@ -5636,17 +5648,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-28T16:02:00+00:00"
-    },
-    {
-      "titulo": "Kast hace nueva promesa de empleo: anuncia plan para crear más de 100 mil puestos de trabajo - elmostrador.cl",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX2NfcWg5VEdZRW80Ti03M0RYdmxveXdWRG4xdnYxMHZXUWNra0lhWFo2MlUyZFkybi1tNnZYWWdOVThmUTlWd1VWOUZ4ak9BWnNOMzRfeE93dC1ZLU83c2JyclU0NHdjWDJWV2xBZjhmcm4wR3o1SW5LNlRyQnp2Vk8wZFB1b3JnN2J1bzZheElxZWhIS29jWFVIUkdNcGUtc2tkanJ6eWMzRlNuRzAxSWdkX1RPMnhVMnBIS3gzdU5xVGFtcmpLSzhBb2hWUXVCNllCQ1RPZml2aFNN?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast hace nueva promesa de empleo: anuncia plan para crear más de 100 mil puestos de trabajo&nbsp;&nbsp;elmostrador.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T15:56:16+00:00"
     }
   ]
 }
