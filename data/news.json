@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-01T13:31:36.617302+00:00",
+  "actualizado": "2026-10-01T13:46:26.261994+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ignacio Imas, cientista político: \"No veo a Boric como un líder transversal como sí a Vodanovic y Bachelet\" - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEdYNXo0TkVBWHhQWjRVdFZlNDJHR3RkYUJoNWNWZlRQNmU0SEcxeWp3aFpDbXl3TUJmNnE1ODVKdzI0alZueUgyeDJYVHY5MU43aWpaUW9xSWFLQi1rUFExRHdFVVRROG50ejZtVHhQREcxU0FQYlZHM2VMWGU1cXdrMThMWXUzYkFtVnN0bVZBN1hSWFVFV3hIbGRiV3dRUVMweFh2dFpNeDhLZXRCTlpCVQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ignacio Imas, cientista político: \"No veo a Boric como un líder transversal como sí a Vodanovic y Bachelet\"&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-01T13:29:00+00:00"
+    },
     {
       "titulo": "Vandalizan vehículo de diputado Daniel Valenzuela y roban documentos en Providencia",
       "link": "https://www.lanacion.cl/vandalizan-vehiculo-de-diputado-daniel-valenzuela-y-roban-documentos-en-providencia/",
@@ -2413,6 +2424,18 @@
         "Presidente"
       ],
       "fecha": "2026-09-30T08:55:07+00:00"
+    },
+    {
+      "titulo": "EN VIVO: Senador Macaya (UDI) analiza Presupuesto 2027 y contingencia política - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSzRUeENIX2FMeGx4ZjhaQkZuVUpTUDlqTjVpeUJuMzZGN3h5bk9Lcmh1cmZGY21IcWpKQ3JKdWNCS1ZRU05zVkNySEw3RVA1SDFORW01YThXdHNEbVFSRmlIX3ViclJ1RHhSX3lwZFBSc2ZSWTBLODItakd2clJUQ2RqNnN2TFl4cldIQmJvTzc1TFJFWDlVaFBPOW94b3A1Q1ZBOWc2djFYN3BDM2Y0NFFMalEyc1N5YjVNRA?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Senador Macaya (UDI) analiza Presupuesto 2027 y contingencia política&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-09-30T07:00:00+00:00"
     },
     {
       "titulo": "Andes Iron apuesta a que Comité de Ministros de la era Kast dé el vamos definitivo a la Minera Dominga - Diario Financiero",
@@ -5625,28 +5648,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-28T16:41:02+00:00"
-    },
-    {
-      "titulo": "El estreno de Cristián Valenzuela en la comisión Steinert y la calculada defensa a la exministra con argumentos derivados del Caso Monsalve",
-      "link": "https://www.theclinic.cl/2026/09/28/el-estreno-de-cristian-valenzuela-en-la-comision-steinert-y-la-calculada-defensa-a-la-exministra-con-argumentos-derivados-del-caso-monsalve/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El director de Comunicaciones y Contenidos de la Presidencia de la República asistió al Congreso sede Santiago para ser parte de la instancia que indaga sobre el actuar de Trinidad Steinert como ministra. Allí, si bien defendió la gestión de la exfiscal, planteó que la decisión de cambiar ministros es \"exclusiva del Presidente de la República\", y apeló a que en el pasado hubo asesores de la Presid",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:40:41+00:00"
-    },
-    {
-      "titulo": "Kast lanza un plan de empleo para crear más de 100.000 puestos de trabajo y movilizar 1.350 millones de dólares - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSWZsRnFSM3E5WUJUaVdwWDJYbVBONzZEYnRGaDBVc0FtVnB6Ti1KWms3RVJLcVlNTGtPZXB0NnRFMlcwY2dJWjdNWkdfclFHaTcxeEo5QXhtT2xmREpPSWVkLTVvd1J1SHd5VzQtVC12RE1Melh0WlJRcVZqT2tNRVB2cFphelBKQWtSY0N0cnpHQzNrV19WTzVNTnpNeE05TENwUk1PcERIdkg3U2dnckQ4R2QxWlJETXl3amJCSGFDUUYzY3EyUDZ5R0cwdTN1MWMwUlVpVnVyUGVXUF9OczQ3ajfSAfgBQVVfeXFMUGFDd2VpbTJNX1o3eTBXeVQ1UmtEOUtMUTV5UEk4akp0VHhMVmF5TUU0c3JBVFlLR0JFcEZiZEtqY3d0ZW5URGl0RzcxUTV5X25tY1hocFlJX0lON1VJek5DRG93QWNscHFiTE1GYmhvWTRjMi1CcG9YWHNoVF81eGxoSWRSc3h0V1BNU3NOOF9OMU5oeW9IeUZZajRXS2JjV3FVc0JwNlptOFhLLTFLaXl4aWFtbTNSNzhjSWE1cy1nV1hpSm5fNGY5eS1OT1FLejI3Mi11eV9zQ0VHVHpSUTdsQVE0YW5hdTNoMzhOc2cwaE5aaF9NTWY?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast lanza un plan de empleo para crear más de 100.000 puestos de trabajo y movilizar 1.350 millones de dólares&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:39:11+00:00"
     }
   ]
 }
