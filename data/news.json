@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-01T18:31:39.318220+00:00",
+  "actualizado": "2026-10-01T18:46:39.711023+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Estudiantes del Insuco protestan por cambios en la entrega de raciones de Junaeb",
+      "link": "https://laprensaaustral.cl/2026/10/01/estudiantes-del-insuco-protestan-por-cambios-en-la-entrega-de-raciones-de-junaeb/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Una manifestación pacífica realizaron estudiantes del Instituto Superior de Comercio José Menéndez (Insuco) en el exterior del establecimiento, en Punta Arenas, para expresar su preocupación por el impacto que atribuyen a los recientes recortes presupuestarios anunciados por el Presidente de la República, José Antonio Kast. El principal cuestionamiento de los estudiantes está relacionado con...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-01T18:32:12+00:00"
+    },
     {
       "titulo": "Presidente Kast presenta presupuesto para 2027: Anuncio desata debate entre el oficialismo y la oposición que la califica de “restricitvo” - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVWFoOFdJYVJTdTltMkhTM28xc3lzME13SDJnZVRsR3lDdXQzZF95UkpYanpMSFoyUkNKRXBhSnJvZHNsMjNPZF92VlYxUm42VXE3YlBPdm5PTHJCU3FxOXRTNUxjdFVycVJJYTZFU3pxSjhZRjZCMmh3VjdLWmdNQm13YV8yaklSNi1QUFJiWkRhelR1RUE3V0tfOUdBdWhPYlI5emVJRVFrQUZySk1xb0RMcS1CS01YSXVSTEN6dlJVWEZSWG4zM2tZT3JIMmI2Y25rcnp3NXJKQ2tvTFVITThmaGN1XzV0WlM0aUNaVEdwLWdpbVh6eFVB?oc=5",
@@ -5633,17 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T20:10:41+00:00"
-    },
-    {
-      "titulo": "Ministro Pérez Mackenna en interpelación: “Mientras yo sea canciller la soberanía de Chile será defendida con toda nuestra fuerza”",
-      "link": "https://www.theclinic.cl/2026/09/28/ministro-perez-mackenna-en-interpelacion-mientras-yo-sea-canciller-la-soberania-de-chile-sera-defendida-con-toda-nuestra-fuerza/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El ministro de Relaciones Exteriores, Francisco Pérez Mackenna, enfrentó este lunes una inédita interpelación en la Cámara de Diputadas y Diputados, la primera realizada a un canciller en Chile.\nDurante la sesión, el diputado socialista Nelson Venegas le mostró una publicación de Donald Trump en Truth Social, en la que aparece un mapa de América del Norte intervenido con la bandera de Estados Unid",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-28T20:04:29+00:00"
     }
   ]
 }
