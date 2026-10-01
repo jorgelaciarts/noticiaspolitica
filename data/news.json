@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-01T04:46:38.707167+00:00",
+  "actualizado": "2026-10-01T05:01:58.967506+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Embajador de EE.UU. desmiente tajantemente al senador Daniel Núñez (PC) por caso de visa rechazada",
+      "link": "https://cambio21.cl/politica/embajador-de-ee-uu-desmiente-tajantemente-al-senador-daniel-nunez-pc-por-caso-de-visa-rechazada-6abde5dc95395c0e7362ff63",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-01T04:50:14+00:00"
+    },
     {
       "titulo": "Se requiere un Presupuesto fiscal con más inversión pública e intensivo en generar empleos. Por Yasna Provoste, Senadora",
       "link": "https://cambio21.cl/pais/se-requiere-un-presupuesto-fiscal-con-mas-inversion-publica-e-intensivo-en-generar-empleos-por-yasna-provoste-senadora-6abde06c522bbf034a050db3",
@@ -5637,18 +5648,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-28T14:43:21+00:00"
-    },
-    {
-      "titulo": "\"Escudo de las Américas\": ¿Tiene implicancias en la soberanía nacional?",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/escudo-de-las-americas-tiene-implicancias-en-la-soberania-nacional/2026-09-28/113616.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La incorporación de Chile a la iniciativa regional de seguridad conocida como \"Escudo de las Américas\" ha desatado una serie de discusiones acerca de la política exterior de nuestro país, especialmente en lo que respecta a la soberanía nacional frente a Estados Unidos, gestor de este grupo con gobiernos afines a su presidente, Donald Trump.\nLa adhesión del Gobierno del Presidente José Antonio Kast",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-28T14:36:16+00:00"
     }
   ]
 }
