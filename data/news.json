@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-01T12:31:36.733945+00:00",
+  "actualizado": "2026-10-01T12:46:39.089775+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast, Quiroz y los chilenos seguirán sufriendo: La economía no despega, profundiza complejo momento y el Imacec anota nueva caída en agosto debido al derrumbe de la minería",
+      "link": "https://cambio21.cl/pais/kast-quiroz-y-los-chilenos-seguiran-sufriendo-la-economia-no-despega-profundiza-complejo-momento-y-el-imacec-anota-nueva-caida-en-agosto-debido-al-derrumbe-de-la-mineria-6abe52b2557a7912c21f67d4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-01T12:38:39+00:00"
+    },
     {
       "titulo": "Gobierno ingresa proyecto de ley de Presupuesto 2027",
       "link": "https://ladiscusion.cl/gobierno-ingresa-proyecto-de-ley-de-presupuesto-2027/",
@@ -57,6 +68,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-01T11:56:04+00:00"
+    },
+    {
+      "titulo": "Bachelet anunció que no se va “para la casa”: “Voy a seguir aquí, aportando, trabajando y apoyando a Chile”",
+      "link": "https://www.lanacion.cl/bachelet-anuncio-que-no-se-va-para-la-casa-voy-a-seguir-aqui-aportando-trabajando-y-apoyando-a-chile/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "En el Teatro Municipal de La Pintana se realizó la noche de este miércoles un acto de homenaje a la expresidenta Michelle Bachelet. Esto tras el fracaso de su candidatura a la Secretaría General de la ONU. A la actividad asistieron el expresidente, Gabriel Boric, y dirigentes, militantes y adherentes de las distintas colectividades de [&#8230;]\nThe post Bachelet anunció que no se va &#8220;para la",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-01T11:56:00+00:00"
     },
     {
       "titulo": "Centro de Residuos Sólidos logra aprobación de ejecución y acogerá los desechos de las tres comunas fueguinas",
@@ -5623,28 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-28T16:32:56+00:00"
-    },
-    {
-      "titulo": "Kast baja varios cambios a la agenda de seguridad: retira reforma, suaviza tono y plantea una mesa con la oposición - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNelpRcXFYbEJpX01fVEJPT3lLT1QzOFZZcUplZWRzZHZJdnlBemt1bzV2aTNzRXJOaGtHdHlPbkR1dm9CYlJEcjB4Q1BOZW0wTTN1aEFyRFRsT1M4OU5JWWwyRDl5MER3cjdjamlSZzV6NjE2ZTdwWk9fY1U2aTl5MHlOUFR1dml0Y2J3T200VHlGakVRLVIycElRTVhJajUzMFNPemViMjJieWE1Q2pFeThqYlVkQjFkS3JZTV9uaDlrYjhVUzFFZmZzcWJGZ3lZSVExMjRDMldZNGZCc1Z4eGQ5WUhEdlVrY1E3T1l6OE9Qd9IBkwJBVV95cUxOajI0S2Rwb3R5ZTRvQXBqSHVvdlp2bE44UXJBVkVzNEo4Uzh5d3dMVEFTYzFjNTI3OHZSS19GYk90MlViczFrTXloR2NlS3JQREtNZE9JWXJoeno2ajBpRHRVWHA4TnFGRS1rcklMNWp0WFZhRng3akJjMDlrRUtQZGdocDV5NnVsZHIzVjVPNFlDcWlENG5CR3NRNXkzMFJ0OUtEa183SmFLSkhHb1dwb3VEci1fWmZXbGFsc3lTSTBNSUZlV1NGdjdMaXgxNEpyUk5Pemx1dXRkbUZVbF9EZlJITlJ0enQ1dFVKa2ptN01WRFRQNFh5dFNycDYyOVZ1dGZHam54cUdVUzctY21QRTBsYw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast baja varios cambios a la agenda de seguridad: retira reforma, suaviza tono y plantea una mesa con la oposición&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:31:14+00:00"
-    },
-    {
-      "titulo": "Cristián Valdivieso y estancamiento de Kast en el 30%: “En materia económica, estamos retrocediendo” - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONzlDb0xsWWx6aU1wWmhiT1ZOV09fczRaLS0xeTc4eXFvSzRlOUY2ZzgwZmVoX0tpcFZlSFVSNk9zTDFrNnNheThzWko3QVlyejFGb2hfY180V2NuOXNWWXIzenNuRW02eXU1MkhIWXRsVlp0cDZkUjBidWU1WmNXY3dPdUxUN2FWUTVwV2ZjMU1HVEhvWDB6WERhXzVqZ2Z4RHA0Z0ViT09XcS0zM2VzSW9YdE1jTmNkMS1CZXdBX3phV1ZKTmtjSmttLU1zWjBJZXZNSFgyT2FHWmE2NkdHQmNn?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cristián Valdivieso y estancamiento de Kast en el 30%: “En materia económica, estamos retrocediendo”&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:30:21+00:00"
     }
   ]
 }
