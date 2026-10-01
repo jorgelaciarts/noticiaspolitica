@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-01T12:01:50.513741+00:00",
+  "actualizado": "2026-10-01T12:16:40.261485+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Daniel Núñez responde al embajador de EE.UU. e insiste en veto a su ingreso al país, pero Senado descarta gestiones por la visa del parlamentario",
+      "link": "https://www.theclinic.cl/2026/10/01/daniel-nunez-responde-a-embajador-de-ee-uu-tras-acusacion-de-mentira-descarada-por-supuesta-negativa-de-visa-no-acepto-que-se-ponga-en-duda-mi-palabra/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El senador comunista aseguró que la Unidad de Relaciones Internacionales del Senado le informó sobre una negativa de visa para asistir a una cita de la Unión Interparlamentaria. La embajada de Estados Unidos en Chile negó haber recibido una solicitud y el Senado precisó que no realizó gestiones en el caso.\nThe post Daniel Núñez responde al embajador de EE.UU. e insiste en veto a su ingreso al país",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-01T12:15:15+00:00"
+    },
     {
       "titulo": "Oposición esperará los detalles del Presupuesto 2027, aunque adelantó críticas",
       "link": "https://www.lanacion.cl/oposicion-esperara-los-detalles-del-presupuesto-2027-aunque-adelanto-criticas/",
@@ -5635,17 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-28T16:29:19+00:00"
-    },
-    {
-      "titulo": "Presidente Kast presenta Agenda Pro Empleo que busca generar más de 100 mil puestos de trabajo - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZ1g0Z0Z2c0Z2SG5QQVRhb0szWUxDT1YxalRMYk1FZGZYSmtqekZjMVljQmtYRDVkLVVrUmJmUF9xeUF4VmNMN09SUHNSdG1DY2NlY0VVVkR5eThWaFhUMXZxVjI1RmVad25oRWdQX0JRZjBHX2VoWm91dGlRMUpnVFY0VjJXd1J3Wm9CSjY1blhRUHE0NEpLN0Q1bl82cExxeWN3RmpJUnJEcGVHbWRJZ1VUNE1tOVVNdmxhSEdQYV9rM0hWN1JSR3Z5bEtwbm1xN3lNeEM5Nm1GNzA1Z0Zmdi0tXzVpcm9aRUE?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast presenta Agenda Pro Empleo que busca generar más de 100 mil puestos de trabajo&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-28T16:29:03+00:00"
     }
   ]
 }
