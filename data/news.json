@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-10-02T02:46:37.999831+00:00",
+  "actualizado": "2026-10-02T03:02:17.304064+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast defendió a Pedro Araya, aislado en el Socialismo Democrático tras pacto de seguridad",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/planes-antidelincuencia/kast-defendio-a-pedro-araya-aislado-en-el-socialismo-democratico-tras/2026-10-01/233724.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast defendió públicamente la gestión del senador Pedro Araya (PPD), presidente de la Comisión de Constitución de la Cámara Alta, y formuló un llamado a los parlamentarios del Socialismo Democrático a sumarse al pacto acordado con el Ejecutivo para destrabar el debate constitucional sobre seguridad.\nLa intervención del Mandatario se produce luego de que el legislador por",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-02T02:37:24+00:00"
+    },
     {
       "titulo": "Schalper pidió que Quiroz se desdiga de su \"nadie consume parafina\"",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/combustibles/schalper-pidio-que-quiroz-se-desdiga-de-su-nadie-consume-parafina/2026-10-01/232055.html",
@@ -5634,17 +5648,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T08:30:09+00:00"
-    },
-    {
-      "titulo": "La Moneda ultima detalles del Presupuesto 2027 con un gasto que crecería levemente sobre el 1% - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWEtRLUpFbUlWOS1aNVFWSG4wR29DbXZXY2VLbEpPeUo3X21IR0hCLTJYMXh0X1ZMNVhIZkxZSy01Z0tBOG9aS1pkRUJVLVdRWUpFS0tzcDRGY045YjBTZmdtVXpUYVQwN1dIS2ZMcV9kS3RXRUY3eUk0UXFMNEdFbUk3OWlWREJlWG13X0xqUlZvUTk3VTNFMkZmQWR6M2RlZjB1b0lGLUt0OUc4X3hEQXNlNFhaeEU?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda ultima detalles del Presupuesto 2027 con un gasto que crecería levemente sobre el 1%&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T07:00:00+00:00"
     }
   ]
 }
