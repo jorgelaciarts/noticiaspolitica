@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-02T17:16:41.491302+00:00",
+  "actualizado": "2026-10-02T17:31:35.569687+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Giorgio Jackson: «Esto pinta muy mal para el círculo de Orbán, uno de los socios internacionales del Pdte Kast»",
+      "link": "https://www.elciudadano.com/politica/giorgio-jackson-esto-pinta-muy-mal-para-el-circulo-de-orban-uno-de-los-socios-internacionales-del-pdte-kast/10/02/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa reacción del exministro Giorgio Jackson surge a raíz de la investigación publicada por El Ciudadano sobre la denuncia presentada por Oficina del Primer Ministro húngaro por posibles delitos de fraude presupuestario y administración desleal después de detectar irregularidades en el uso de 410 millones de florines (1,2 millones de dólares) entregados al Centro para los Derechos Funda",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-02T17:30:30+00:00"
+    },
     {
       "titulo": "Cancillería contradice a EE.UU. y descarta giro de Chile por conmemoración de Durban que impulsa políticas antidiscriminatorias",
       "link": "https://www.theclinic.cl/2026/10/02/cancilleria-contradice-a-ee-uu-y-descarta-giro-de-chile-por-conmemoracion-de-durban-que-impulsa-politicas-antidiscriminatorias/",
@@ -69,6 +81,17 @@
       "fecha": "2026-10-02T16:30:00+00:00"
     },
     {
+      "titulo": "Desde la UDI al FA: Críticas transversales por fin de recursos para “Yo Elijo mi PC” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXBOb29PbHhuM0hwS3paT3JqanVFYlVYdXZZdlNxWjN3TWRtb3dULTVDdXpNaXhBT2d5dndjdlp3bkZ2UFRma2hlTXlYTjZ4b3F1V0xWeGl1VlJPaFZvQ2ZHbmQ5S2ZFY1VKVlJWZk9MM1FYSEhJSzVPZDAtZl9MQXBZTVV1Z1FHZVNWYWUyV0lpN3c?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Desde la UDI al FA: Críticas transversales por fin de recursos para “Yo Elijo mi PC”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-02T16:24:27+00:00"
+    },
+    {
       "titulo": "Robo afecta dependencias de la Municipalidad de Ránquil",
       "link": "https://ladiscusion.cl/robo-afecta-dependencias-de-la-municipalidad-de-ranquil/",
       "fuente": "La Discusión (Chillán)",
@@ -78,6 +101,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-02T16:19:48+00:00"
+    },
+    {
+      "titulo": "Tras informe de Contraloría: senador Castro llama al gobierno a agilizar sumarios a funcionarios por licencias médicas irregulares - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZXhvcXgyREtNSHpXOHF1NGYyVWJHbE5uTHdXQ3J3RWJLTGZOYnNRcFFRcDNXamhZS1Y4VldtNGVwTFhSVE5RbXVnMkhOTDFoNmJnV3Ruck1KZ2tPdlpBanRXVHNkejE5Z3BySUZGTHN2NkhSV3FGRTR0d202a1VnMmhqNmRMNzUwa05SSDlyR0swcmpzM3hOSDNNRGJZcU5rTm1PNXpNSXpDMC1MS0x3Z0h4cWZKTW9nWXJqQVZVV0dlZWhmWTlrYVlzRGlmcGE5Nzg0cUV3eFQ1WEdDNkN6VzlvNWI0MzBpZHoxeTk1MmtQcy14S19tYjFmOXlmZU03eHJV0gGkAkFVX3lxTE14Nm9Fd0d0WENkRWZSM3RCcW8xV3FCMGZsdHV5aklNUDNkNkRUMG85ODl2MlJkZ3Y5cDhLVDBpczQzcDVpYVY5RGVUMEdSUnBHLTl4T0FxYlF4YjFBcGhpMUs1aG1OWGc1NkRQU0lFQTlfaXJpR1FLa0RUd3pQQUFBOGc1ejNSeG9zZVByaGE1SFVTU1RJU3VNNVdDR0poOExiOGY3dlVKOGM0R2toSWN1WHBqWEx4bzFEMWktVTdhX1U2UXpfNXFvUHc0RUs2NlNTcDVwRDlObzNLcWJza3BuTmhwR2pfRThoM3R4eHJqQlZZSG54NWE1SkZJMmVaVGdVV3RZZXhkeTY5Mm82OHkxdm1aTC0wTV9pWFBBR2hmMEZtYlM?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tras informe de Contraloría: senador Castro llama al gobierno a agilizar sumarios a funcionarios por licencias médicas irregulares&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-02T16:00:08+00:00"
     },
     {
       "titulo": "Tras informe de Contraloría: senador Castro llama al gobierno a agilizar sumarios a funcionarios por licencias médicas irregulares - La Tercera",
@@ -5611,39 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T15:25:12+00:00"
-    },
-    {
-      "titulo": "Alcalde de La Granja cuenta sus impresiones tras reunirse con Bachelet: “Viene a asentarse en Chile ya” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZEpOd3BYc3FDc2llN0JyTFNYSHBuTVdpUXJhZ2htZWhkeEhmM1U0bUM4cWF3VHVlaDE2RTVVNHJtdmRzTFY5UjRaVVhUb3dDaElIbW91bmRhcXFVd28tOEwtN01Rd1VEakZTVUs2Z05GOXI4VGpfUUtiVVZuOHpkRWhvb2xBNmw4RUtsWmtKY2tYVENFNXBCMnl5R2I4NkhnTzI1QzczUHVCVXUwV2Q1YXpSYmZxdDRKSkxPbHQ3VlNjVk5pcEFzLWg3N3EzSTI2UHfSAeYBQVVfeXFMTXd0RGVQa0ZoSVBPU1hjek91d1dQUV9lZUh3YThjZWJQcWFteGpkMDhDRHlaUWVZQkZXNDFNZUU2bjRXQllkQlVwOVVCTUUwQjVLQ0Z0X0lCd2dFQUdHdUFWekVlNDVNQlAwY2tGQWh0bkNwZGMtVnFDTDRlOVpXSmY0VDg4OEV5ZUU0SlVXdnQ0ejdrZ3FtVDJjQTNDb0dOLUtZVWl5WTU0dXdfWm9DWmh5VWdHdWE3T29nUy1BSC1wa1R2N3J3SERTbFZVNzlyUDJnN1hvSExzd0IxTDFOdG4xWW11Y1E?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de La Granja cuenta sus impresiones tras reunirse con Bachelet: “Viene a asentarse en Chile ya”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-29T15:05:14+00:00"
-    },
-    {
-      "titulo": "Ultimátum del gremio de camioneros al Gobierno: dieron 48 horas a La Moneda para responder ante alzas en el precio del diésel",
-      "link": "https://cambio21.cl/pais/ultimatum-del-gremio-de-camioneros-al-gobierno-dieron-48-horas-a-la-moneda-para-responder-ante-alzas-en-el-precio-del-diesel-6abbd2eb2b9dde59d8363dc3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T15:03:30+00:00"
-    },
-    {
-      "titulo": "Instalan módulos de seguridad en Barrio Meiggs y Plaza de Armas de Santiago",
-      "link": "https://www.lanacion.cl/instalan-modulos-de-seguridad-en-barrio-meiggs-y-plaza-de-armas-de-santiago/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Municipalidad de Santiago, junto a la Asociación de Desarrollo del Barrio Meiggs y la Comunidad China en Chile, instaló dos modernos módulos de seguridad y dos puestos de mando. Esto en puntos estratégicos de Barrio Meiggs y Plaza de Armas.&#8220;Hemos recibido las primeras oficinas preciosas que nos donó la ciudad de Lishui, en China, [&#8230;]\nThe post Instalan módulos de seguridad en Barrio ",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-29T15:00:45+00:00"
     }
   ]
 }
