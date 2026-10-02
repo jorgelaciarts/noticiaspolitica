@@ -1,7 +1,22 @@
 {
-  "actualizado": "2026-10-02T12:31:43.875346+00:00",
+  "actualizado": "2026-10-02T12:46:27.476271+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Congreso despachó a ley la esperada reforma al sistema político",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/congreso-despacho-a-ley-la-esperada-reforma-al-sistema-politico/2026-10-02/093507.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Después de que ya fuera ratificado por el Senado, la Sala de la Cámara de Diputadas y Diputados aprobó el informe de la Comisión Mixta de la esperada reforma al sistema político, por lo que fue despachada a ley.\nLa norma modifica la Ley Orgánica Constitucional de Partidos Políticos en materia de requisitos para crear nuevas tiendas, al establecer que éstas existirán legalmente si se constituyen en",
+      "categorias": [
+        "Servicio Electoral",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-10-02T12:35:07+00:00"
+    },
     {
       "titulo": "“¡Por favor repongan los recursos!”: Con críticas desde Sichel a Vodanovic, fin de “Yo elijo mi PC” genera rechazo transversal y exigen al Gobierno reconsiderar",
       "link": "https://www.theclinic.cl/2026/10/02/por-favor-repongan-los-recursos-con-criticas-desde-sichel-a-vodanovic-fin-de-yo-elijo-mi-pc-genera-rechazo-transversal-y-exigen-al-gobierno-reconsiderar/",
@@ -5632,17 +5647,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T12:43:10+00:00"
-    },
-    {
-      "titulo": "Diputado Soto critica interpelación al canciller - Radio Pauta 100.5",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPbDI0VnVEMUJJd1pPVnlSOHVIMHo4SWRObUtNSkI2VnExYzBLS1cxLUhZeDVMWUVIam5IYmJvU1ktM0ZDU0ctaExra0dWRy04SkpXcmlKY3hpdUR5ZmlKY2Frb2U3clhLM1czeDVMUmMzM05WQjVtOUhlYU5nM1hKNHcyUWFqU0xPRXNXSUR5ZUVka3BBWWVrejFFS1F1ZlpwdVM0aVRuNWEtRGV4cUlKMXlwWWlZbFZqTmRUYlpCQVZ0Tnh4aGkyV21mM283Zlg3SERnMjVCcko0c0xENTN1Q0R1dFdlRkFKQzk1b3RRZG1NdE9aSXZOeEhzUjc4ZDhFVl9jU2xrdzN6OHJXR1J1bDRMSC00T2gxZ2h4UFhCR3NTMlhRdkNJb2FldHJXbk9lUDNyVm5mcEwtSHV3UXFvVEFR?oc=5",
-      "fuente": "Pauta.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Soto critica interpelación al canciller&nbsp;&nbsp;Radio Pauta 100.5",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T12:40:39+00:00"
     }
   ]
 }
