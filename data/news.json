@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-02T00:01:43.421528+00:00",
+  "actualizado": "2026-10-02T00:16:40.856743+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast puso el foco en crecimiento y reconstrucción, pero dejó en suspenso los recursos para las regiones",
+      "link": "https://ladiscusion.cl/kast-puso-el-foco-en-crecimiento-y-reconstruccion-pero-dejo-en-suspenso-los-recursos-para-las-regiones/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El primer Presupuesto elaborado por el gobierno de José Antonio Kast ingresó al Congreso con una señal clara: habrá más recursos para algunas de las prioridades que La Moneda definió para 2027, pero el margen será acotado y estará condicionado por la situación fiscal. En cadena nacional, el Presidente anunció un crecimiento de 1,5% del [&#8230;]",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-02T00:14:46+00:00"
+    },
     {
       "titulo": "Hub Multimodal Ñuble: presentan proyecto a biministro de Obras Públicas y Transporte",
       "link": "https://ladiscusion.cl/hub-multimodal-nuble-presentan-proyecto-a-biministro-de-obras-publicas-y-transporte/",
@@ -3010,6 +3022,17 @@
     },
     {
       "titulo": "“La paradoja de este gobierno”: Exministro Andrade dice que Kast “no tuvo otra alternativa que recurrir al Estado” en su plan de empleo - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNemlLZW0xV05VaWR5XzgwZFNIUWhGdGF0SWlZdUJKLTkxbzFkNHEzcUVpOEltQkxKS3ktdzhETXdKMDlJZDBNeEdPVUxjbk1yZEdZeHhqckZQNXZfZmhnZXAwNGxDUVA5RXhHdGlGeGFlYUFLZi1sQ05pem1wajd0WUJudWsyczAxUlozQ3hnZlJacVN0TmhxMnZyeGMzMnE1MFZxb1h3MFllZlB5NlhQZHFuaFNPbm1SSmxfTE9R0gG-AUFVX3lxTE16aUtlbTFXTlVpZHlfODBkU0hRaEZ0YXRJaVl1QkotOTFvMWQ0cTNxRWk4SW1CTEpLeS13OERNd0owOUlkME14R09VTGNuTXJkR1l4eGpyRlA1dl9maGdlcDA0bENRUDlFeEd0aUZ4YWVhQUtmLWxDTml6bXBqN3RZQm51azJzMDFSWjNDeGdmUlpxU3ROaHEydnJ4YzMycTUwVnFvWHcwWWVmUHk2WFBkcW5oU09ubVJKbF9MT1E?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“La paradoja de este gobierno”: Exministro Andrade dice que Kast “no tuvo otra alternativa que recurrir al Estado” en su plan de empleo&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-09-30T13:20:00+00:00"
+    },
+    {
+      "titulo": "“La paradoja de este gobierno”: Exministro Andrade dice que Kast “no tuvo otra alternativa que recurrir al Estado” en su plan de empleo - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOanRoUkdsaTdKUWZsREFuSTBPcnc5OGIzSVFPV3R4ZURZZDRndlQyX1FaNEFYX1hrZDFuZ2FLSWZCMS1YUldYRGxsY2dQb0RCME9OT0JSa000QVBlQ3Y5U0pLY2ZhVVY2djNYU1Q5MXRrS2ROZE5xSGxuT21veExGaENmalFEdklaVktuWms3R29pYnM4LVNhWFdHdlBNTWhLc2RCZHZ3ZDFVMWotOHRlUWVURkNfNHJs?oc=5",
       "fuente": "T13 (vía Google News)",
       "region": "Nacional",
@@ -5620,28 +5643,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-29T01:12:28+00:00"
-    },
-    {
-      "titulo": "Cámara aprueba pedir a Kast antecedentes sobre el “Escudo de las Américas”: qué deberá informar el Gobierno - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUzM4MXY0OWQ0SVg0RVRFdTByOXU2OFktZzVMOHFsWm9JRkEwUVRNa1I1bEZvRTNRM2l2S2N3SU5Da3pCcFlrS2NKa1JUaWZjMlh1MTJoSklvTU81djVTVFpIQ3VmMU1Kajc0cWV2ajVpdUkzYWVQLWhpT0xFMFFXR2dqcnJoakN3cE43U2tDY3FuWTZ4Um9PWXFzNW93d3lmZElVelp0NElBOTBtZFhPdnpqVHluYmttU0xzX3c5YUc1eVlfTXpDMFV30gHKAUFVX3lxTE1TMzgxdjQ5ZDRJWDRFVEV1MHI5dTY4WS1nNUw4cWxab0lGQTBRVE1rUjVsRm9FM1EzaXZLY3dJTkNrekJwWWtLY0prUlRpZmMyWHUxMmhKSW9NTzV2NVNUWkhDdWYxTUpqNzRxZXZqNWl1STNhZVAtaGlPTEUwUVdHZ2pycmhqQ3dwTjdTa0NjcW5ZNnhSb09ZcXM1b3d3eWZkSVV6WnQ0SUE5MG1kWE92empUeW5ia21TTHNfdzlhRzV5WV9NekMwVXc?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cámara aprueba pedir a Kast antecedentes sobre el “Escudo de las Américas”: qué deberá informar el Gobierno&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T00:24:00+00:00"
-    },
-    {
-      "titulo": "Cámara aprueba pedir a Kast antecedentes sobre el “Escudo de las Américas”: qué deberá informar el Gobierno - t13.cl",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQjlpR0hXZG10NndnNklYU1MyQWExRXY3aHR0RnV3WUVYLTFCQnlBTGFvOVp6NGpYcTNJems4bUZHekhpc3hVTjVVTVJjVEE0cW1QUnpTbTVyU19JSGpXY0xmM2k3d0h0b3FWYzYyaEMyNlN3cHBtTE5UeUtub3RFc29wS0FBVndZczZ2YkM0N0hJNGpjdFZIQXE3OHBCbmszd2tpcFJVbjg5Z3psNUk3azBoc3dNU01rSEM4RTd0YVlaaHZL?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cámara aprueba pedir a Kast antecedentes sobre el “Escudo de las Américas”: qué deberá informar el Gobierno&nbsp;&nbsp;t13.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T00:24:00+00:00"
     }
   ]
 }
