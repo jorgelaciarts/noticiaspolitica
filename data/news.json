@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-02T13:01:46.784953+00:00",
+  "actualizado": "2026-10-02T13:16:34.819721+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fiscal de Arica se reúne con senadores bolivianos que piden detener quema de \"narcomaderas\" - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOS21ZWGV6WVB6RWN0UHdPTGQzSndLV0p0TE1TRGxfR0twbmQ4MGh2UHBDVnFhaDFudlVxRzE3ckdqWGVrdUhxaDh4bmNqZEdHNHhrWE1qSmo0WmtoeVpaMGhyODlqOTEtcmhLRzNxNGljR0hjZjZBeFZ5bjdHRHd2Y09PLTNHVGJDU2xUVTEwWV92S1FwdlhTUnYzM2JxMkJyWHRVc2dzRkxMODJ5dDZnQllUNUVHU3A3MzRCcnVVbGM2Tk43V2oySkhXLUNCanRZNUhucW91MGdsUW9vdHNlelMzUFVRb2pUQ0hzQmlIV0xNS25mdnZSSDdWOE1VVmluNTNnYUZBYmZTczVK?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Fiscal de Arica se reúne con senadores bolivianos que piden detener quema de \"narcomaderas\"&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-02T13:01:35+00:00"
+    },
+    {
+      "titulo": "Grave daño a estudiantes más pobres y vulnerables: Ministro Quiroz ratifica que Gobierno cortará programa “Yo Elijo Mi PC”: 90 mil escolares quedan fuera del acceso digital y alcaldes Vodanovic y Sichel critican duramente decisión",
+      "link": "https://cambio21.cl/pais/grave-dano-a-estudiantes-mas-pobres-y-vulnerables-ministro-quiroz-ratifica-que-gobierno-cortara-programa-yo-elijo-mi-pc-90-mil-escolares-quedan-fuera-del-acceso-digital-y-alcaldes-vodanovic-y-sichel-critican-duramente-decision-6abfa22e13e56a08a2372273",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-02T12:55:11+00:00"
+    },
     {
       "titulo": "Grave daño a escolares más pobres y vulnerables: Ministro Quiroz ratifica que Gobierno cortará programa “Yo Elijo Mi PC”: 90 mil escolares quedan fuera del acceso digital y alcaldes Vodanovic y Sichel critican duramente decisión",
       "link": "https://cambio21.cl/pais/grave-dano-a-escolares-mas-pobres-y-vulnerables-ministro-quiroz-ratifica-que-gobierno-cortara-programa-yo-elijo-mi-pc-90-mil-escolares-quedan-fuera-del-acceso-digital-y-alcaldes-vodanovic-y-sichel-critican-duramente-decision-6abfa22e13e56a08a2372273",
@@ -38,6 +60,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-02T12:27:52+00:00"
+    },
+    {
+      "titulo": "EEUU suspende servicios consulares en Brasil por “motivos de seguridad” ad portas de las elecciones",
+      "link": "https://www.lanacion.cl/eeuu-suspende-servicios-consulares-en-brasil-por-motivos-de-seguridad-ad-portas-de-las-elecciones/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El gobierno de Estados Unidos anunció la suspensión de los servicios consulares en su embajada y consulados en Brasil por “motivos de seguridad”. Esto a sólo dos días de las elecciones presidenciales de este domingo 4 de octubre. “Los servicios consulares en la embajada y los consulados de Estados Unidos en Brasil se suspenderán a [&#8230;]\nThe post EEUU suspende servicios consulares en Brasil por",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-02T12:12:00+00:00"
     },
     {
       "titulo": "Kast por reforma de seguridad: “Si hay que retirarla, no tengo ningún problema”",
@@ -5612,40 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T13:15:09+00:00"
-    },
-    {
-      "titulo": "Plan Chile Despega: Gremios empresariales valoran, pero piden medidas adicionales, mientras la CUT acusa contradicciones del Ejecutivo",
-      "link": "https://www.theclinic.cl/2026/09/29/plan-chile-despega-gremios-empresariales-valoran-pero-piden-medidas-adicionales-mientras-la-cut-acusa-contradicciones-del-ejecutivo/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La agenda pro empleo anunciada por el presidente Kast moviliza $1,3 billones para crear más de 100 mil puestos de trabajo, en medio de un desempleo de 9,5%. La CChC, la CPC, la SNA y la CCS valoraron la iniciativa, pero no quedaron tan sastisfechos. Por otro lado, desde la CUT criticaron que el Gobierno impulse la inversión pública mientras recorta en 7% el presupuesto de los gobiernos regionales.",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T13:02:49+00:00"
-    },
-    {
-      "titulo": "Schalper critica a Bachelet y Boric por carta sobre Escudo de las Américas: “Espero que hagan una autocrítica y le pidan perdón al país” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVUFBdHV6cXo1NzVGMmxuQWMyblFld20xeWhCWWdhOTdPbUNPcjFPR3hHZDh4SnZ3OVBkLURZeEdsTjJCOUlKSUJzUm9FcjdvNFUwYl9QUEtMOGVCXzV2dmJXdTdhd1FNZFRXM0tocFV0bVlQWE1zdm83Z24yNDRIUkV5bGs0R0txVktYVE03cG1MaVBxSkE4?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Schalper critica a Bachelet y Boric por carta sobre Escudo de las Américas: “Espero que hagan una autocrítica y le pidan perdón al país”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T12:47:12+00:00"
-    },
-    {
-      "titulo": "Diputada Hube (UDI) critica interpelación al canciller y señala que fue “pobre, precaria, en ciertos momentos hasta medio penosa” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOallFSzhLalR1czF3clVkeTRpVFhsREpCYnJpSXBjVXJ4cWJndkl3UW9tVHBGLTV5T3FPN2tkTUlQN1pPRENJaGl5b3Npc1ljclpsbjI2VnlBbnVESVpBRUJyT0RSQmpfTkVQcFBjMWRkMmtTcmd2VkdJZWp0S2J1U2V2U0Q0ZmZ1a1R2WEg0dUZIN2tNdy15RUhPNm93NVlnZi1FMTRSMHloQVhRVDNtY3ZIb2RWcmx3bGxDc19Rd2lKOFE0MjBhdjVpTmprODA4Mlp4OFB3RTZMOS1ldTJEOTUxSTFkbjhNV0ZSSDljMEtZbWNVVVJJVjhxYw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Hube (UDI) critica interpelación al canciller y señala que fue “pobre, precaria, en ciertos momentos hasta medio penosa”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T12:43:45+00:00"
     }
   ]
 }
