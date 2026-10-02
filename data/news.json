@@ -1,7 +1,22 @@
 {
-  "actualizado": "2026-10-02T18:34:56.107479+00:00",
+  "actualizado": "2026-10-02T18:46:41.838219+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gobierno se abre a retirar reforma de seguridad y Kast descarta \"derrota política\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-se-abre-a-retirar-reforma-de-seguridad-y-kast-descarta-derrota/2026-10-02/144846.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno confirmó este viernes su disposición a retirar la reforma constitucional de seguridad tras constatar que no cuenta con piso político en el Congreso, optando por allanarse a un texto alternativo que negocian con senadores.\nFrente a las críticas por haber enviado un proyecto que no logró sumar apoyos transversales, el Presidente José Anotnio Kast descartó que dar un paso atrás en la reda",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-02T17:48:46+00:00"
+    },
     {
       "titulo": "Giorgio Jackson: «Esto pinta muy mal para el círculo de Orbán, uno de los socios internacionales del Pdte Kast»",
       "link": "https://www.elciudadano.com/politica/giorgio-jackson-esto-pinta-muy-mal-para-el-circulo-de-orban-uno-de-los-socios-internacionales-del-pdte-kast/10/02/",
@@ -421,6 +436,17 @@
       "fecha": "2026-10-02T12:27:52+00:00"
     },
     {
+      "titulo": "Kast comparte desayuno con 20 jóvenes que se preparan para ingresar a Carabineros - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdE9kdnJfcEE4VFZRQWlOekxJQjZneGxCTzNDWE1KZDRLNVhWbkxRUlc1ckxfdlpzMFZaVjNrNFhQdEZ1UHdCY3lxblBrd2xYUnFDSXdKazVyMGtjVHFpTG1wM0NrME1iSHBXSHBVQkpFNmxHbUNzZUJxTGJ5Nl92MFRBM2ZlS0JkcVVuWDNWdDA3NzVEZHQtaDZOUG5wOTF4cEQ2V29TSnNCc3UzM0Y1cW13WERraE1ia19LOExES1RtYU1yRG16RmlsVU9uandyQ0ZsdlVzR1I?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast comparte desayuno con 20 jóvenes que se preparan para ingresar a Carabineros&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-02T12:24:04+00:00"
+    },
+    {
       "titulo": "EEUU suspende servicios consulares en Brasil por “motivos de seguridad” ad portas de las elecciones",
       "link": "https://www.lanacion.cl/eeuu-suspende-servicios-consulares-en-brasil-por-motivos-de-seguridad-ad-portas-de-las-elecciones/",
       "fuente": "La Nación",
@@ -456,6 +482,17 @@
     },
     {
       "titulo": "Senador Araya y reforma de Seguridad: “Algunos creen que si seguimos dilatando esta situación van a ganar unos puntos en las encuestas” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVHgyLV9SV2VodGtKTnlJbnFOZ0RRc1U1Wmhqdml4Z2p2akM3ejdZbmt6SWdzeDE0QmZqQjk4UWpmTHNVajRTcUhIdW90OWlwOVllNHJKNUh5RWl3OUtaNlAwWGpmbVloUHlJQVpxb08weTRGU3RVZGdOV2JDRnJ1QlhsVjlXQUFWYlB4NUpCSVZZZFZNZmtNWG1mRXEyVEhfazFJa1FDS0JIb0JyQnAxYXdaWHRaaF85UDBMdG40OG1jc1Fxejh1ZUkzYmtNbGlUb2hqdDhjZHRtaFN4dENuMkxwQ0U0czhVY0ZRZlRhak0wOWhsaTh1bUpDeTdQYTFjZ0l1UmRlSQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Araya y reforma de Seguridad: “Algunos creen que si seguimos dilatando esta situación van a ganar unos puntos en las encuestas”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-02T11:49:29+00:00"
+    },
+    {
+      "titulo": "Senador Araya y reforma de Seguridad: “Algunos creen que si seguimos dilatando esta situación van a ganar unos puntos en las encuestas” - La Tercera",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOVHgyLV9SV2VodGtKTnlJbnFOZ0RRc1U1Wmhqdml4Z2p2akM3ejdZbmt6SWdzeDE0QmZqQjk4UWpmTHNVajRTcUhIdW90OWlwOVllNHJKNUh5RWl3OUtaNlAwWGpmbVloUHlJQVpxb08weTRGU3RVZGdOV2JDRnJ1QlhsVjlXQUFWYlB4NUpCSVZZZFZNZmtNWG1mRXEyVEhfazFJa1FDS0JIb0JyQnAxYXdaWHRaaF85UDBMdG40OG1jc1Fxejh1ZUkzYmtNbGlUb2hqdDhjZHRtaFN4dENuMkxwQ0U0czhVY0ZRZlRhak0wOWhsaTh1bUpDeTdQYTFjZ0l1UmRlSdIBqAJBVV95cUxOX0NiN2VIaVg4Vi0yTWtjeTcxWnB3SElOVWlOME50Nkl4bUxCS3FCTnRJc01TYkthSFRrN2czMXl4c09iYy1CaTVnTmRlZ3BDbW9VR0hua1k2U0E2MEp3SGNabHRuLTZWNS1iSEtaWlVCYjN5ZUJxRGdZNFJERy0zcjh1NkZacV9QNTU1Z2hPYlNSVmRHMGlVdTVfdHpVQ2NTRFVCeVhVMWhOSkMtQUxGZ2Y0ZHpqa19HNjRiWXBsZm5CNWtiMzZkMXNiWUR3WEpXRU1FMmotSjFwRjNDcmZtd0wtenlDb2NoVC1ZWVVLMGdKUzYyTTlRNVdFQnFlSGdzd0IzYXJUTzhfUGxPS3JDdnUtaS1KdmRiamM5SlE0MlRsNzdoNXVfag?oc=5",
       "fuente": "La Tercera (vía Google News)",
       "region": "Nacional",
@@ -464,6 +501,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-02T11:49:29+00:00"
+    },
+    {
+      "titulo": "Gobierno de Kast pone fin a entrega gratuita de notebooks a estudiantes: Presupuesto quita recursos a Yo Elijo mi PC - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNXA1UlRBMHJYZUxmTldjemlEbWlhRHp1SGt0TUIxMUNVZWl3UXZ5aGVTSGw5djRNbUktT2NlVlhGR2VGVDBKZExqZlpYYmdMTE1pSGV1dEJGSThESDlPN0JBNFVhRFpqd3M5TjM2MEQzUzJ4bnlRdFE5XzAyVldoUDU1NlFmeGdrX2RhOF9ZcUpHUEtSOTMwOTRfZUpfa1Y1c2w1UFQ4ZEoyMmg1RXVXTU9IZ28tSTdBeWs4ZG5neWk4UjEtY1dsTnZaS3ZyVGdXb0pYeXc2UnNhNXZUbUpyQTNSWQ?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno de Kast pone fin a entrega gratuita de notebooks a estudiantes: Presupuesto quita recursos a Yo Elijo mi PC&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-02T11:33:00+00:00"
     },
     {
       "titulo": "“Sin presupuesto en Educación no hay futuro”:  movilización callejera en contra del recorte financiero",
@@ -5600,51 +5648,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T15:38:25+00:00"
-    },
-    {
-      "titulo": "UDI intenta acelerar cierre del Instituto Nacional de Derechos Humanos con rebaja de presupuesto - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZFFwUVpQazFpdHZha18zODhMS0pOSVRWeXNZZG9DeDQ1eERYYzF5RGp5amZScjdXZ2tQUDRKQ2J4QjNSR1YtbFAteXJkMzhBSEs0WkxNN2VVU2htVHRFeWc0c3hDaW41ZFVrbnlKSWZDRXJQd2hfVXpQVnZmbmZET3RSOElnZUluRjRja21razNlMG9nXzU3OVRHWkl3a0xQSW12VDdQQ1NNMUJjVnVEM2otYWV6bkExSlQ1NWt6SGtDYjBDOWJYYkM4cUtzY21XaEFJZXI1V1Qzc3VtX2J1bjJpTQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "UDI intenta acelerar cierre del Instituto Nacional de Derechos Humanos con rebaja de presupuesto&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-09-29T15:36:08+00:00"
-    },
-    {
-      "titulo": "Tres detenidos por robo en local comercial en el centro de Chillán",
-      "link": "https://ladiscusion.cl/tres-detenidos-por-robo-en-local-comercial-en-centro-de-chillan/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Un nuevo procedimiento exitoso concretó la Central de Cámaras de Televigilancia de la Municipalidad de Chillán que permitió la detención de tres sujetos por el delito de robo en lugar no habitado en un local comercial ubicado en calle 5 de Abril. Según informó el alcalde de Chillán, Camilo Benavente Jiménez, de acuerdo al informe [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-29T15:35:55+00:00"
-    },
-    {
-      "titulo": "Diputados RN piden homenaje al Team Chile tras histórica actuación en Santa Fe 2026 - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTTRzYjlrTmN5RWhQelFvOGZMajRhelk0aTNJaUkxMUl2aGVoUGtxeE93OU5KU2dMNHN3eHBPQkNaZUpPcXJMbm5YQWl2Y1VoaWN5OWNuMU1BdlpEUENaY3ktR1hoWlRwLUtGa2tSNjY3bTlETXZvaGlyTTlIU1p1ZExBX0xzRnZLSVZqelZMendtak1oT2RLQ0FpeG8zcktCMGYtUWJuZ2xfMlhicjNTSzhDeXRfNkttUU12Yml2ZmpvaERmdjVCTnVqcG5jUzZKSXVZMjBLZ3JLRWJyaFI1ckhaWjBhdw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados RN piden homenaje al Team Chile tras histórica actuación en Santa Fe 2026&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T15:31:14+00:00"
-    },
-    {
-      "titulo": "La cita política cristiana que reunirá a diputados republicanos bajo la idea de \"gobernar con fe\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeVo5U2RocnlmeXpLQ3E2aUlKcXJSeXhicWJzMHpsWThfT0doQ253bDJKdmd4Xy1vQU1fd0RmYUt1WnV0V3Rocjl6d1Y4VmEwTWNvd21qWUxMaWZYeDk5ZktqamVLbHJyVUZPYzdUWk12UGVxS2ZxRERJZHZHOW1KSTZqNWFoaEVhR20zZWlZTEZ0VGw0ZmUwOUFDSlpieGE5REtyNWdGU0dXY3BWVGo0RjdoOC15dm5QVVRWbnBpMkc3SmJranZ3bzBnbGYzUlRlMFlvNlZVcUVKSkl4LXlfWDAyTzBBUlRCZUJLVWxUY2s?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La cita política cristiana que reunirá a diputados republicanos bajo la idea de \"gobernar con fe\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T15:30:22+00:00"
     }
   ]
 }
