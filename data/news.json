@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T18:16:40.733232+00:00",
+  "actualizado": "2026-10-02T18:34:56.107479+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,18 @@
         "Diputados"
       ],
       "fecha": "2026-10-02T17:30:30+00:00"
+    },
+    {
+      "titulo": "Presidente Kast ante caída de la economía: \"Soy siempre un optimista compulsivo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-ante-caida-de-la-economia-soy-siempre-un-optimista/2026-10-02/142743.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast afirmó ser un \"optimista compulsivo\" ante la caída de la economía -que en agosto decreció 1%- y sostuvo que si mejora el desempeño en la minería, los crecimientos mensuales en 2027 \"van a ser muy buenos\".\nDurante el 13° Encuentro Anual del Comercio -evento organizado por la Cámara de Comercio de Santiago (CCS)-, el Mandatario abordó el crítico escenario económico, m",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-02T17:27:43+00:00"
     },
     {
       "titulo": "Cancillería contradice a EE.UU. y descarta giro de Chile por conmemoración de Durban que impulsa políticas antidiscriminatorias",
@@ -5633,18 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T15:30:22+00:00"
-    },
-    {
-      "titulo": "UDI busca forzar cierre del INDH: diputados anuncian indicación para reducir a $1.000 su presupuesto - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaFRwaU15bG9ELU8yaTR0QWdnMVVHTEkxeWk2eHR3SHZ6YmRtdDV1cXQxWTU3NTB1U0xtRVBDc01IUVlId09mX1BuaTdfV3h3SHNDdnI5ZWVrLXVZekxXNENBVVlyUmVOMnVDcTlDckhuYU5LWHkyMTd4Szczc0JiWFZnUmlKZWdJVml5T2FfaF9DSHhEMTNxei1lM3lvMjNLS1R1cVc5WGZpOVZZQVBrNTN2NzgyZUZJRHpDYVdTczZXa0hjV0hKTlpORmFRSDQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "UDI busca forzar cierre del INDH: diputados anuncian indicación para reducir a $1.000 su presupuesto&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T15:25:47+00:00"
     }
   ]
 }
