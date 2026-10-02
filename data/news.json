@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T00:16:40.856743+00:00",
+  "actualizado": "2026-10-02T00:31:26.420367+00:00",
   "total": 500,
   "items": [
     {
@@ -24,6 +24,18 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-01T23:51:23+00:00"
+    },
+    {
+      "titulo": "Nodo XXI: Entre los \"arrepentidos de Kast\" hay rabia y frustración por las promesas incumplidas",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/nodo-xxi-entre-los-arrepentidos-de-kast-hay-rabia-y-frustracion-por/2026-10-01/204728.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La abogada Camila Miranda, directora ejecutiva de la Fundación Nodo XXI, abordó en Cooperativa los resultados de encuesta \"Chile Actual\", que mostró un acelerado deterioro en la aprobación del Presidente José Antonio Kast y un creciente descontento ciudadano ante promesas incumplidas en economía y empleo.\nEn conversación con Lo Que Queda del Día, la investigadora indicó que los resultados del sond",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-01T23:47:28+00:00"
     },
     {
       "titulo": "PC respalda a senador Daniel Núñez y acusa “discriminación” tras conflicto por presunta visa denegada desde EE.UU. - ADN Radio",
@@ -5632,17 +5644,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-29T01:15:12+00:00"
-    },
-    {
-      "titulo": "Parlamentarios de Ñuble anticipan defensa de la inversión y el empleo",
-      "link": "https://ladiscusion.cl/parlamentarios-de-nuble-anticipan-defensa-de-la-inversion-y-el-empleo/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El proyecto de Ley de Presupuesto 2027 debe ingresar máximo este miércoles 30 al Congreso, y antes de conocer su contenido definitivo, los parlamentarios de Ñuble fijaron sus prioridades. El punto en común: mantener capacidad de inversión en una región que registra un 11% de desempleo. La senadora, Loreto Carvajal (PPD), fue categórica: “Ñuble no [&#8230;]",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-29T01:12:28+00:00"
     }
   ]
 }
