@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-02T19:46:32.685507+00:00",
+  "actualizado": "2026-10-02T20:01:27.916469+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-02T19:41:28+00:00"
+    },
+    {
+      "titulo": "TC dio luz verde a la Ley de Reconstrucción pero tumbó normas clave",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/tc-dio-luz-verde-a-la-ley-de-reconstruccion-pero-tumbo-normas-clave/2026-10-02/161955.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Tras dos meses de revisión judicial luego de ser despachada por el Congreso, el Tribunal Constitucional (TC) dejó este viernes lista para su promulgación la Ley de Reconstrucción Nacional y Desarrollo Económico y Social, pero asestó un revés al Gobierno al desestimar tres artículos determinantes.\nEn detalle, se anularon las indemnizaciones a empresas frente a resoluciones ambientales revocadas, de",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-02T19:19:55+00:00"
     },
     {
       "titulo": "Matthei cruza la vereda y se reúne con alcalde Concha (FA) para hablar de gestión y recursos públicos - BioBioChile",
@@ -5635,17 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T16:18:00+00:00"
-    },
-    {
-      "titulo": "Chile: gremios aplauden plan de empleo presentado por el gobierno de Kast - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQallrMU5GcVdpOVpQZm9qV2ZIOENrdm5UWmpKbUFWSHl5MGFiRkdqbEpNX2MzbXk2bjd1aTFReEpfakhIT2s4YUZFTmUwRnFjZjV1aDFLbXdUa2VpWnUwMFdzc0hTd3MxZWdmVm9vYUtpVTM3Q1FucWtYbmZ5VWNvNlhCMl9hTjBNbmpCNmFNc1JDUUJyTXF0SGNjY0V5X1FucG1QQ2RlZHNDQkU5anpxbG1WUGpsU2tpeklycVdITVUxZ194SHZ1Zlp0ONIB5gFBVV95cUxNa1A5QTBlVnRKSUhadlFtVzhiSlk1VGFnVEphaHBoNW9PSUJ6bjU3ekxsVzU4OTZLMk9Va3BTTmlsTHFTRXV4dGJ1OG1NRjdhSThraFNVTXdoLXlxV25kS2hXaU43dkVjMURXTUI3OXpMa0NQOEVTRHcwTkV3X3dqX014LXhoSWl4MmNQNlpNcnlEek90ZUFEWU1HandkUEdzLXlCbFdkVDRHb1VGYmt4eU40Mm1yc1RqVjFpb2hocEtpVEdwenA0UDJVSi14TjhPQjFtdjNSWnEyWlBDYU9ObXV4aFpDdw?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Chile: gremios aplauden plan de empleo presentado por el gobierno de Kast&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T16:17:51+00:00"
     }
   ]
 }
