@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-02T21:31:32.622043+00:00",
+  "actualizado": "2026-10-02T21:46:45.355388+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Editorial de Mónica Pérez en 'Me enteré por la prensa': el sello de Quiroz en la administración de Kast - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHdSa3IwSmNDYmd6dE1NZWpDT2huZGdsRzEzNHBsRG55bnVJN0F4Wng3dXZGWWpSbzk4d1UyYnA4ZzJXU0pIbm1DcV95ZGkwbTAtMkFYSElFejR0a3E2NGFGV2NKc3pSbEdOMDVOQm4tSDNLUHUwNWFpQW5PV2FfT3RjdUVqdWJQVjB2M3dvODdhWXg0OEJaYlRaSVgtNHRUVXVKSzFLbHlZeURoSzNVMUpKVHRTS1pEejlJSkRn?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Editorial de Mónica Pérez en 'Me enteré por la prensa': el sello de Quiroz en la administración de Kast&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-02T21:30:00+00:00"
+    },
     {
       "titulo": "Diputada Schneider: «Para el ministro Quiroz la educación es ahorrarse unos pesitos, pero es una inversión fundamental en las personas»",
       "link": "https://www.elciudadano.com/chile/diputada-schneider-para-el-ministro-quiroz-la-educacion-es-ahorrarse-unos-pesitos-pero-es-una-inversion-fundamental-en-las-personas/10/02/",
@@ -5634,19 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T16:38:14+00:00"
-    },
-    {
-      "titulo": "¿Quiénes son los “arrepentidos de Kast”? 38% de quienes lo apoyaron hoy cambiaría su voto",
-      "link": "https://www.elciudadano.com/politica/quienes-son-los-arrepentidos-de-kast-38-de-quienes-lo-apoyaron-hoy-cambiaria-su-voto/09/29/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEn cuanto al balotaje, la encuesta Chile Actual, elaborada por la Fundación Nodo XXI , consultó cómo votarían los encuestados si se repitiera la segunda vuelta entre José Kast y Jeannette Jara y en ese escenario hipotético, la medición registró un 53,3% de las preferencias para la excandidata de Unidad por Chile.\nLa entrada ¿Quiénes son los “arrepentidos de Kast”? 38% de quienes lo ap",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Elecciones"
-      ],
-      "fecha": "2026-09-29T16:37:15+00:00"
     }
   ]
 }
