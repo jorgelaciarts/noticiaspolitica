@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03T03:16:22.865958+00:00",
+  "actualizado": "2026-10-03T03:31:42.989433+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Precipitaciones intensas declinarían a las 3 de la madrugada y acumulado podría llegar a 28 milímetros",
+      "link": "https://laprensaaustral.cl/2026/10/03/precipitaciones-intensas-declinarian-a-las-3-de-la-madrugada-y-acumulado-podria-llegar-a-28-milimetros/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Las precipitaciones intensas que afectan a Punta Arenas deberían comenzar a declinar alrededor de las 3 de la madrugada, aunque el sistema frontal continuará dejando lluvias durante el sábado y parte del domingo. De acuerdo con las estimaciones entregadas por la directora de Prevención y Desastres de la Municipalidad de Punta Arenas, Sonia Vargas, el...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-03T03:22:21+00:00"
+    },
     {
       "titulo": "“Usemos la plata en algo que le sirva a los niños”: La férrea defensa de diputados republicanos al fin del programa “Yo elijo mi PC”",
       "link": "https://www.theclinic.cl/2026/10/02/usemos-la-plata-en-algo-que-le-sirva-a-los-ninos-la-ferrea-defensa-de-diputados-republicanos-al-fin-del-programa-yo-elijo-mi-pc/",
@@ -5628,20 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T18:00:18+00:00"
-    },
-    {
-      "titulo": "Presupuesto 2027: Schalper anticipa fin de programas y \"fraudes sociales\"",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-schalper-anticipa-fin-de-programas-y-fraudes-sociales/2026-09-29/145408.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En la víspera de que el Gobierno ingrese a tramitación su Ley de Presupuesto 2027, el jefe de la bancada de diputados de RN, Diego Schalper, mencionó el fin de programas \"mal calificados\" y \"fraudes sociales\" como ejes del proyecto para compensar la menor recaudación fiscal.\nEl parlamentario, que este martes participará de una reunión entre representantes del oficialismo y el Presidente José Anton",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T17:54:08+00:00"
     }
   ]
 }
