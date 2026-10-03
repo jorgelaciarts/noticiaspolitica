@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T01:16:38.163069+00:00",
+  "actualizado": "2026-10-03T01:31:37.590503+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-03T01:10:29+00:00"
+    },
+    {
+      "titulo": "Mil Tambores: vecinos recurren a la justicia y municipio pide al Gobierno \"alternativas\"",
+      "link": "https://www.cooperativa.cl/noticias/magazine/carnavales/mil-tambores-vecinos-recurren-a-la-justicia-y-municipio-pide-al/2026-10-02/220933.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un intenso debate se ha tomado la agenda en Valparaíso a raíz de la realización del tradicional carnaval \"Mil Tambores\" durante este fin de semana, evento que congregará a más de 10.000 personas en su masivo pasacalles dominical.\nLa controversia estalló luego de que la Delegación Regional Presidencial negara la autorización para la actividad, argumentando que la organización ingresó la solicitud c",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-03T01:09:33+00:00"
     },
     {
       "titulo": "Dispar reacción de alcaldes a fallo del TC por Reconstrucción: \"Buena noticia para el municipalismo\" y lo \"lamento\" - Emol",
@@ -5631,17 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T17:54:08+00:00"
-    },
-    {
-      "titulo": "Municipio de Chillán devolverá más de $60 millones a Subdere tras no ejecutar programa de esterilización masiva de mascotas",
-      "link": "https://ladiscusion.cl/municipio-de-chillan-devolvera-mas-de-60-millones-a-subdere-tras-no-ejecutar-programa-de-esterilizacion-masiva-de-mascotas/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El Concejo Municipal de Chillán aprobó de manera unánime una modificación presupuestaria que permitirá reintegrar a la Subsecretaría de Desarrollo Regional y Administrativo (Subdere) más de $60 millones correspondientes a recursos destinados a un proyecto de esterilización masiva de perros y gatos que finalmente no pudo concretarse. La situación fue abordada durante el Concejo Municipal, [&#8230;]",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-09-29T17:49:18+00:00"
     }
   ]
 }
