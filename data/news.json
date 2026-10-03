@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-03T18:01:41.450802+00:00",
+  "actualizado": "2026-10-03T18:16:31.912061+00:00",
   "total": 500,
   "items": [
     {
@@ -46,6 +46,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-03T17:18:36+00:00"
+    },
+    {
+      "titulo": "Senadores preparan propuesta de seguridad tras revés en la reforma del Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/senadores-preparan-propuesta-de-seguridad-tras-reves-en-la-reforma-del/2026-10-03/135752.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los parlamentarios de la Comisión de Constitución del Senado: Pedro Araya (PPD), Andrés Longton (RN) y Arturo Squella (Republicanos), preparan una nueva propuesta en materia de seguridad, luego que el proyecto de reforma constitucional del Gobierno no avanzara en la Cámara Alta.\nLa iniciativa apunta a incorporar el crimen organizado a nivel constitucional, establecer un régimen de segregación peni",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-03T16:57:52+00:00"
     },
     {
       "titulo": "¿Cuánto le costará a una familia vulnerable reemplazar el computador que dejará de entregar el Gobierno de Chile? - elobservatodo.cl",
@@ -5628,17 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T21:26:00+00:00"
-    },
-    {
-      "titulo": "Kast da señales al Congreso por agenda de seguridad y cita a actores clave a reunión en Cerro Castillo",
-      "link": "https://www.theclinic.cl/2026/09/29/kast-da-senales-al-congreso-por-agenda-de-seguridad-y-cita-a-actores-clave-a-reunion-en-cerro-castillo/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "En horas en que se asegura que el Gobierno podría retirar su reforma constitucional en seguridad, el mandatario citó a un desayuno este miércoles en el palacio presidencial de Viña del Mar a quienes encabezan las comisiones de Constitución y Seguridad en el Congreso Nacional. La reunión ocurrirá en medio del reimpulso que La Moneda le ha dado a la agenda de seguridad tras la muerte de un nuevo fun",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T21:14:41+00:00"
     }
   ]
 }
