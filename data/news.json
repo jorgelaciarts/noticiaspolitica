@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03T11:32:27.354164+00:00",
+  "actualizado": "2026-10-03T11:46:28.101481+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diputados DC amenazan que si Gobierno no repone los dineros para programa de computadores para escolares vulnerables, \"votaremos en contra de recursos para Presidencia de la República”",
+      "link": "https://cambio21.cl/politica/diputados-dc-amenazan-que-si-gobierno-no-repone-los-dineros-para-programa-de-computadores-para-escolares-vulnerables-votaremos-en-contra-de-recursos-para-presidencia-de-la-republica-6ac0e3fe9769c70de12fda35",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-03T11:23:29+00:00"
+    },
     {
       "titulo": "Diputados DC amenazan que si Gobierno no repone los dineros para programa de computadores para escolares vulnerables, \"votaremos en contra de recursos para Presidencia de la República”",
       "link": "https://cambio21.cl/pais/diputados-dc-amenazan-que-si-gobierno-no-repone-los-dineros-para-programa-de-computadores-para-escolares-vulnerables-votaremos-en-contra-de-recursos-para-presidencia-de-la-republica-6ac0e3fe9769c70de12fda35",
@@ -1829,6 +1840,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-01T17:15:08+00:00"
+    },
+    {
+      "titulo": "Lula da Silva aborda el Escudo de las Américas, iniciativa impulsada por Trump y al que adhirió Kast: “Es triste el complejo de inferioridad de los presidentes de América Latina”",
+      "link": "https://cambio21.cl/el-mundo/lula-da-silva-aborda-el-escudo-de-las-americas-iniciativa-impulsada-por-trump-y-al-que-adhirio-kast-es-triste-el-complejo-de-inferioridad-de-los-presidentes-de-america-latina-6abe943ea0dcee0e2104ea93",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-01T17:13:01+00:00"
     },
     {
       "titulo": "Lula da Silva aborda el Escudo de las Américas, iniciativa impulsada por Trump y al que adhirió Kast: “Es triste el complejo de inferioridad de los presidentes de América Latina”",
@@ -5613,29 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T19:03:49+00:00"
-    },
-    {
-      "titulo": "Cámara aprobó devolución del IVA de pañales y medicamentos y Quiroz alabó al PDG",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/camara-aprobo-devolucion-del-iva-de-panales-y-medicamentos-y-quiroz/2026-09-29/160349.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Cámara Baja aprobó ampliamente el proyecto que establece un mecanismo de compensación del pago del IVA de medicamentos y pañales, iniciativa que fue propuesta por el Partido de la Gente (PDG) y que fue el eje central del acuerdo mantenido con el Gobierno para aprobar la idea de legislar de la despachada megarreforma.\nLa bonificación, que será mensual y se calculará como el equivalente a un reem",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T19:03:49+00:00"
-    },
-    {
-      "titulo": "Kast firma proyecto para extender ayudas ante alza de los combustibles y reforzar el Fogape - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGVWc2gwUHlGN21iV0xkRjRuYV82WEJXVTZpemxlT2Q1WU1zdFdCSU0wcmQ1YVVJZDBqRmI2d3o1RUd3M1JYelYzdzZob1BTVTBtV2F5eGVaTEJzOHJKX0dGcmdHYUZhUmUxVTNBVWZ6a3VUS18wRGRCNzVhVFZfblFnLVNsU1BNNk54MURlOV9XaFdsWGxybms5WkdjQW5lRndOaFJoelJXdzFhdUhNZWFtS3FXcC1r?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Kast firma proyecto para extender ayudas ante alza de los combustibles y reforzar el Fogape&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T19:02:42+00:00"
     }
   ]
 }
