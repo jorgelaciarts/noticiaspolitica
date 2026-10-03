@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03T00:01:47.174296+00:00",
+  "actualizado": "2026-10-03T00:16:35.313925+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Dispar reacción de alcaldes a fallo del TC por Reconstrucción: \"Buena noticia para el municipalismo\" y lo \"lamento\" - Emol",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX1EzMlZmTzk5RzYwVWhENG1PWGhESHVETmYwRUZ4SjVlWFNORFJTeF9SaW81WTAtX2h6UUZxbXRTT2szS0dPbnFBbV9jaWdaclQ0SS1xaGprNnE0MGg5YV9HS2ttaWx2cmFYVlU2aTBvTWgwMXRISEpnSjlCcEhrQ1ZJblkzRVN0WFdkdFRjMkkxU3RJeVBNRDR4bGZlQ0Z1cFdMaFZIcTF0YVZ6UGFvZDVLMUNXekFnS2c?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Dispar reacción de alcaldes a fallo del TC por Reconstrucción: \"Buena noticia para el municipalismo\" y lo \"lamento\"&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-03T00:03:28+00:00"
+    },
     {
       "titulo": "“Esta rebaja llega en un mal momento”: Gobernador Giacaman cuestiona recorte al presupuesto del Gore Biobío 2027 - diarioconcepcion.cl",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaWVfWUFhM3hFcjlVS0R1QVRmc2Z5NFNLOURFYkNJbUIwYVJMdkRFYWVfTHNlal9yQ2R0ektOZlk0R0dNSk9kci1XdDNHTkxjYnZfNGFRSmlMY2p2R1h3bkh2dU5TeTVQby1NUHd3N2k2RHVVNjhlOXR1dS0xaWV0RU1UazVNenBtaFhFZk1VY3JtNXhybDdMaFR1UENQYklWRlBIRExvT1E4bU5DZ0REcDNR?oc=5",
@@ -260,6 +271,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-02T18:15:14+00:00"
+    },
+    {
+      "titulo": "Kast cuestiona incidentes en marcha estudiantil y defiende recursos sociales del Presupuesto 2027 - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ01wUFlCRWhmRWE0ZTAycWVYOWN5ZHRaRkgxV251bUl1QVhpTDBEeXlXczZWSjVnU0hwdldyVmdTTmotOFhRYVlBNjd6RUdiXzdSVlVXUWhvRkhmLTZfSnI0NFJ2QzBBMHU4TmRkUTk0Nk9zaWtLLTJraGp4YkdPNF9zOHpTMWpjdXdfWGVZUEJCX1dZQk92aFQwVGpMQlk5RUZKNnU2TDNiVUliZ3dpN3ZyWjVnZ01KcXZNX002OGk?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Kast cuestiona incidentes en marcha estudiantil y defiende recursos sociales del Presupuesto 2027&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-02T18:03:10+00:00"
     },
     {
       "titulo": "Servel Biobío participó en el Conversatorio “Formación Ciudadana, Identidad y Artesanía de la Paz” - Servicio Electoral de Chile",
@@ -5620,32 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-29T17:43:47+00:00"
-    },
-    {
-      "titulo": "Diputados UDI quieren acelerar cierre del Instituto Nacional de Derechos Humanos. Quieren rebajarle el presupuesto y dejarlo solo en mil pesos",
-      "link": "https://cambio21.cl/politica/diputados-udi-quieren-acelerar-cierre-del-instituto-nacional-de-derechos-humanos-quieren-rebajarle-el-presupuesto-y-dejarlo-solo-en-mil-pesos-6abbf636985ca67d207bd4b3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T17:38:51+00:00"
-    },
-    {
-      "titulo": "Bachelet retomó su agenda en el país tras retirar candidatura a la ONU",
-      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/bachelet-retomo-su-agenda-en-el-pais-tras-retirar-candidatura-a-la-onu/2026-09-29/143841.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La expresidenta Michelle Bachelet comenzó a retomar su agenda en el país y reapareció este martes en un encuentro en la comuna de La Granja, casi una semana después de retirar su campaña a la Secretaría General de las Naciones Unidas.\nEn el encuentro fue recibida por el alcalde Claudio Arraigada y distintas figuras cercanas a su sector. Y si bien la exmandataria no hizo definiciones acerca de su f",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-29T17:38:41+00:00"
     }
   ]
 }
