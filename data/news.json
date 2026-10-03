@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-03T11:46:28.101481+00:00",
+  "actualizado": "2026-10-03T12:01:24.525980+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presupuesto 2027: Frente Amplio acusa incertidumbre tributaria para pymes y apunta al Gobierno - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQYlZIZVhsOFg2TDhFSUxvaldLa3FZMHRXeVVwQ2F5RnlYQWpUVG1LUnhzakNqQm1DMDg0a3FmNDVxZmZRY29NVUExdVZSUm5oM2d5UDZfdFZlcldIRTliTmYzN1huNlVxNUtnajMtUF9SUjVNRHRSM3JzZ0doREF6Tng0WDNrZU5pOFdKUnZCX0RFN0ZBSkhFcXgtN1d1M0gtWWxjcEZ2aXBqYWpuWEtTYU8yRlpVbzdkVDNWdldRVDRQVlQ5VUhKbjNWQlg5NVFxd3BKUkkwQng2OFNRN25CYi1zVzBJN0RMeFdfSUd2Ym84eUU?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presupuesto 2027: Frente Amplio acusa incertidumbre tributaria para pymes y apunta al Gobierno&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-03T11:47:16+00:00"
+    },
     {
       "titulo": "Diputados DC amenazan que si Gobierno no repone los dineros para programa de computadores para escolares vulnerables, \"votaremos en contra de recursos para Presidencia de la República”",
       "link": "https://cambio21.cl/politica/diputados-dc-amenazan-que-si-gobierno-no-repone-los-dineros-para-programa-de-computadores-para-escolares-vulnerables-votaremos-en-contra-de-recursos-para-presidencia-de-la-republica-6ac0e3fe9769c70de12fda35",
@@ -35,6 +46,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-03T11:20:30+00:00"
+    },
+    {
+      "titulo": "Alcaldesa de Quinta Normal: En seguridad, el Gobierno ha llevado el debate más a dividir que a juntar",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/alcaldesa-de-quinta-normal-en-seguridad-el-gobierno-ha-llevado-el/2026-10-03/081440.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La alcaldesa de Quinta Normal y vicepresidenta de la Asociación Chilena de Municipalidades (AChM), Karina Delfino, acusó en Cooperativa que, en materia de seguridad, el Gobierno de Kast ha llevado el debate \"más bien a dividir que a juntar\" al mundo político.\nDelfino es una de los ocho jefes comunales que esta semana arribaron a La Moneda y entregaron una carta al Ejecutivo, a fin de solicitar \"ac",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-03T11:14:40+00:00"
     },
     {
       "titulo": "Radonich plantea atraer industrias tecnológicas y servicios antárticos en el futuro contrato de Zona Franca",
@@ -5612,29 +5635,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-29T19:25:00+00:00"
-    },
-    {
-      "titulo": "En medio del fuego amigo y sin asistencia de libertarios: Kast busca ordenar filas para el debate presupuestario - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQjJhYkNsaHlYcjFveEhWUTkzVFZSRzV2ZVF2MEVRWUhrMjdpcGtfQTZPUzdwLXl2VkgwdUhBeTcxOE9Hb3ZrZW5oQmkwUmh5a1FpMzVpZ1pMUmlUUVVFeW5kMDhYa3VpYkZhUzFNUmtWcGZ5TlZHa2RIUjBMWDBQTTdfc3ZhNkNvU0lPdGRHU1NKaFhpN0ZlcA?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "En medio del fuego amigo y sin asistencia de libertarios: Kast busca ordenar filas para el debate presupuestario&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-29T19:05:03+00:00"
-    },
-    {
-      "titulo": "Cámara aprobó devolución de IVA de pañales y medicamentos: Quiroz alabó al PDG",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/camara-aprobo-devolucion-de-iva-de-panales-y-medicamentos-quiroz-alabo/2026-09-29/160349.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Cámara Baja aprobó ampliamente el proyecto que establece un mecanismo de compensación del pago del IVA de medicamentos y pañales, iniciativa que fue propuesta por el Partido de la Gente (PDG) y que fue el eje central del acuerdo mantenido con el Gobierno para aprobar la idea de legislar de la despachada megarreforma.\nLa bonificación, que será mensual y se calculará como el equivalente a un reem",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T19:03:49+00:00"
     }
   ]
 }
