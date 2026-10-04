@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-04T22:31:40.935439+00:00",
+  "actualizado": "2026-10-04T22:46:39.754056+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta: Un 62% cree que la situación económica del país está peor que hace 6 meses cuando asumió Kast y un 48% considera que también empeoró su situación personal",
+      "link": "https://cambio21.cl/politica/encuesta-un-62-cree-que-la-situacion-economica-del-pais-esta-peor-que-hace-6-meses-cuando-asumio-kast-y-un-48-considera-que-tambien-empeoro-su-situacion-personal-6ac2d3990f238c75da1a2a04",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-04T22:35:08+00:00"
+    },
     {
       "titulo": "Gabriel Boric responde a Frei por apoyo a \"Escudo de las Américas\": Es en contra de los principios que ha sostenido Chile",
       "link": "https://cambio21.cl/pais/gabriel-boric-responde-a-frei-por-apoyo-a-escudo-de-las-americas-es-en-contra-de-los-principios-que-ha-sostenido-chile-6ac2ca11bdfcd6268170b954",
@@ -5627,17 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T15:49:11+00:00"
-    },
-    {
-      "titulo": "Cadem: desaprobación de Kast sube a 57% y preocupación por desempleo en Chile sigue al alza - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGtWNEdUMUJIb2xWam5ad18tRm11NXF5MkRwU1Z2MXpHN1FJejZncTY5Z2ktX0pVZm1OaXZQM2hlYllsSXNpbW9zSFpvRWE4OVNvaHYyVzFSWlNBT21Cd2Iya2NDWC1ZdF9hT1N0WWdTaWtCUUYyV1o3LTNaWXBBbmdlRDk0cDFnQVYzT09LaUJ2OEpQOWc5VWhKdDNlVGJKSTBFcHlJM0xEdFloOWFZRzk4SmR0RzFrNndUaW1Pdkw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cadem: desaprobación de Kast sube a 57% y preocupación por desempleo en Chile sigue al alza&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T15:45:00+00:00"
     }
   ]
 }
