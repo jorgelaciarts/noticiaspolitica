@@ -1,7 +1,23 @@
 {
-  "actualizado": "2026-10-04T18:46:40.390000+00:00",
+  "actualizado": "2026-10-04T19:01:20.383940+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Squella descartó que críticas de Matthei al Gobierno sean generalizadas en Chile Vamos",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-republicano/squella-descarto-que-criticas-de-matthei-al-gobierno-sean-generalizadas/2026-10-04/154547.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente del Partido Republicano, Arturo Squella, descartó que las críticas de la excandidata presidencial Evelyn Matthei sean generalizadas en Chile Vamos, luego que la otrora alcaldesa de Providencia apuntara a un \"problema estructural y de diseño político\" al interior del Gobierno.\nA siete meses del inicio de la Administración de José Antonio Kast, las tensiones al interior del oficialismo",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Alcaldes",
+        "Elecciones"
+      ],
+      "fecha": "2026-10-04T18:45:47+00:00"
+    },
     {
       "titulo": "Reforma de seguridad: giro de La Moneda desata reparos en el PC y el PS",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/reforma-de-seguridad-giro-de-la-moneda-desata-reparos-en-el-pc-y-el-ps/2026-10-04/152253.html",
@@ -5627,18 +5643,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T14:12:10+00:00"
-    },
-    {
-      "titulo": "Gobierno y parlamentarios acuerdan tres ejes para reforma de seguridad",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-y-parlamentarios-acuerdan-tres-ejes-para-reforma-de-seguridad/2026-09-30/111158.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Moneda alcanzó un acuerdo con parlamentarios para impulsar una nueva reforma de seguridad, tras un desayuno que se realizó este miércoles en Cerro Castillo y se extendió por más de dos horas.\nLa propuesta contempla tres ejes para su tramitación en el Congreso, según detalló el senador Pedro Araya (PPD), presidente de la Comisión de Constitución.\nCrimen organizado y facultades para Gendarmería\n\"",
-      "categorias": [
-        "Presidente",
-        "Senadores"
-      ],
-      "fecha": "2026-09-30T14:11:58+00:00"
     }
   ]
 }
