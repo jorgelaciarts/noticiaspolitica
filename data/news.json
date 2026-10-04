@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-04T16:46:35.787289+00:00",
+  "actualizado": "2026-10-04T17:01:43.550547+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Lula se muestra confiado en ganar y Bolsonaro llama al “voto de protesta” en Brasil",
+      "link": "https://laprensaaustral.cl/2026/10/04/lula-se-muestra-confiado-en-ganar-y-bolsonaro-llama-al-voto-de-protesta-en-brasil/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El presidente brasileño, Luiz Inácio Lula da Silva, afirmó este domingo estar “muy confiado” en conseguir la victoria en las elecciones generales de Brasil, mientras su principal rival, el senador Flávio Bolsonaro, llamó a los electores a expresar un “voto de protesta” contra lo que calificó como una “era de atraso”. Lula votó cerca de...",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-04T16:54:26+00:00"
+    },
     {
       "titulo": "Cientista político advierte por recortes del presupuesto 2027: “Va a haber una ola de despidos el 30 de noviembre”",
       "link": "https://www.elciudadano.com/actualidad/cientista-politico-advierte-por-recortes-del-presupuesto-2027-va-a-haber-una-ola-de-despidos-el-30-de-noviembre/10/04/",
@@ -5627,17 +5638,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-30T12:18:22+00:00"
-    },
-    {
-      "titulo": "Desempleo sigue al alza con Kast y llega a 9,6% pese al reciente plan para reactivar el empleo - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV1pTZkJDTk1fNnozcVZ0UmZIS0tlY3VVbmFJMFAyVEVpYUZmdVR5WUJyWEg3bk5FcW5JZTlZUTFBdjZWUHcyTXRmaDlyUmhuYkVpMGptekk3c2pNMGFaSmtHdWk5a1VaMnFXNUk0bWhxSU45TG5GWmRNLUw5cmZKSUJ6YWlIcFo1VWM1VWlTWDMwQVRWLTVkY2kwNkFiMExERV9LMUVTYjVlU1BYcnBhUkxuSHhuSUhYbE5mWmdtSnRxWG8xdXlMOXk3dzd6VzVRTVcxTU1DOA?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Desempleo sigue al alza con Kast y llega a 9,6% pese al reciente plan para reactivar el empleo&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T12:16:34+00:00"
     }
   ]
 }
