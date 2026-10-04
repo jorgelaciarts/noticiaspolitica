@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-04T11:46:22.757172+00:00",
+  "actualizado": "2026-10-04T12:05:21.247487+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Brasil define este domingo entre Lula y Flávio Bolsonaro en una contienda polarizada",
+      "link": "https://laprensaaustral.cl/2026/10/04/brasil-define-este-domingo-entre-lula-y-flavio-bolsonaro-en-una-contienda-polarizada/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Más de 158 millones de brasileños están habilitados para votar este domingo en las elecciones presidenciales y legislativas de Brasil, en una jornada marcada por la disputa entre el actual mandatario, Luiz Inácio Lula da Silva, y el senador Flávio Bolsonaro, hijo del expresidente Jair Bolsonaro. Los últimos sondeos anticipan una primera vuelta sin un...",
+      "categorias": [
+        "Senadores",
+        "Elecciones"
+      ],
+      "fecha": "2026-10-04T11:50:15+00:00"
+    },
     {
       "titulo": "Por hacerle caso a Santiago",
       "link": "https://laprensaaustral.cl/2026/10/04/por-hacerle-caso-a-santiago/",
@@ -5627,17 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T05:24:26+00:00"
-    },
-    {
-      "titulo": "kast gobierno presidente encuesta pesimismo - La Segunda - lasegunda.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMVJpMzlpcXJpeklxM1NSSVFOVXJvUE91OVp5clRyZ1psZU0zeDFqWDYzbmtoeFZ5ckpxcmFRanRKNUt5SVI5aWlKWkh1V1ZPU0FlNTFtdVRZOE9YOHg1MjFqdUFEREcyRzJlVWc5bU1YODRfczNWd2ZTVnFCOWR2RnBKN2NyUlZ2MEpzNGpDOXpIdW00S2tMQVJSV0dXalRwSU5HMmlR?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "kast gobierno presidente encuesta pesimismo - La Segunda&nbsp;&nbsp;lasegunda.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T04:53:43+00:00"
     }
   ]
 }
