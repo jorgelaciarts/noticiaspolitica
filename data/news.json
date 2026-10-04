@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T12:05:21.247487+00:00",
+  "actualizado": "2026-10-04T12:16:35.745878+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-04T11:50:15+00:00"
+    },
+    {
+      "titulo": "\"Le falta equipo y le sobra soberbia\": las duras críticas de Evelyn Matthei al gobierno de Kast - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZHI2azBIZ1htd3kyUmp3U1ZvUjBEbXZXWGFRVGZNeU5oWU9FQVNkRld5Uy1jenUxektqWlF5UkdrNWhBX0ZpRU9CZldyVVAteFl6X1FTWGZybHpJa09QT05Gc3NEbTA5VVU0VUM2TUNmc0pEcTRNLWlqdjJETjhUMk9wOXNTZVBTcDM3UmtscUs0cTR5MkF2VHJINmd2YTBiaGtRUUE4QmlEaVBHRlNUTFpUUVRILU0tRm04ZVlYWlhjWFpMSUczY3hOMmxyc3BDci1tV0JXSnpmM3hqN1BzamEwNEZ4TWV6WkJnOEpya2t5Zw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Le falta equipo y le sobra soberbia\": las duras críticas de Evelyn Matthei al gobierno de Kast&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-04T11:47:13+00:00"
     },
     {
       "titulo": "Por hacerle caso a Santiago",
@@ -5627,18 +5638,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-30T05:48:22+00:00"
-    },
-    {
-      "titulo": "Diputados de oposición piden renuncia del embajador designado por Kast en Israel, Gabriel Zaliasnik tras declaración de abogado Luis Hermosilla",
-      "link": "https://cambio21.cl/politica/diputados-de-oposicion-piden-renuncia-del-embajador-designado-por-kast-en-israel-gabriel-zaliasnik-tras-declaracion-de-abogado-luis-hermosilla-6abc9af6b717cf20384b5173",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-09-30T05:24:26+00:00"
     }
   ]
 }
