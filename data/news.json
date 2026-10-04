@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-04T02:31:35.776027+00:00",
+  "actualizado": "2026-10-04T02:41:48.096122+00:00",
   "total": 500,
   "items": [
     {
@@ -67,6 +67,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-03T23:20:15+00:00"
+    },
+    {
+      "titulo": "Frei se desmarca de Bachelet y Boric y respalda a Kast por el Escudo de las Américas - elmostrador.cl",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWnBNaXdLQkM2a3I2ajVBSkdlVFo3REVNbDQ0NGxJZGNQdkp5QUMyVzA3SnkxQmtrMHhnRUR1eWxPNWdQby1zN0hNTGw4aVBOcGVTOUxOZjZqdWYwLVFCenZJN25Sb212Q0tic2poS1J3VVdob1JfRENtNEFaUHUtaE5IU2I2Nnh5U05hbjFabTlvbzNLR2ZJUFMwdEpVa2pUa2ZpeEkwVGRERjdoZjZWVmc2eElMblFSZVZYRnM5LXlOcWI1ZUFfOVR0Tk5IUnN3V3Zz?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Frei se desmarca de Bachelet y Boric y respalda a Kast por el Escudo de las Américas&nbsp;&nbsp;elmostrador.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-03T23:04:54+00:00"
     },
     {
       "titulo": "Diputado Riquelme rechazó cuestionamientos de canciller argentino - Radio Agricultura",
@@ -5626,18 +5637,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-29T23:46:50+00:00"
-    },
-    {
-      "titulo": "Diputado Ossandón (PDG) denuncia recibir mensajes “amenazantes e intimidatorios” por redes sociales - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnlRUHRndlNBMVpIbEdTMHRzLTFrWWlubk1JSG1iU3BrX3RiUGZrSkkyN0tGOEh6dW9NX3o0VkxUbF9GY096VmJWZDBQY1FYNDFWTmM2VWN2NkZIZ21lenRtSEd2NU5sUU5aQjI5Q3pnQmd5TmRILWJ1X2gzYjFzLUJhcUFLT2RFOGpkR3RpQUtsUC1IMm5LX3RoaWh3UGtISU1JT3pvaEM5X2h4ODdhWmIxR2FFNFZ4elhvVVZCcEpaZzhz?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Ossandón (PDG) denuncia recibir mensajes “amenazantes e intimidatorios” por redes sociales&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-29T23:46:15+00:00"
     }
   ]
 }
