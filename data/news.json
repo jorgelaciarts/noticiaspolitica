@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T06:31:37.665314+00:00",
+  "actualizado": "2026-10-05T06:46:34.495970+00:00",
   "total": 500,
   "items": [
     {
@@ -67,6 +67,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-05T00:33:13+00:00"
+    },
+    {
+      "titulo": "Brasil tendrá segunda vuelta presidencial entre Flávio Bolsonaro y Lula el 25 de octubre - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZzBaSVlTaFVkMEtiUnFNX3VhWEM1WHNUc1M1RFdNUGFuRFhjTkNLNUtaU0d6RTA0U3RKX04zN0dNUGhEM2FnS3Ztb1llZlBsZzR1T0I3UVBDVjlDM1oxQXNWSkxFRUZBalQ1UWE2ZElfT1BqOUxNN2pjcUNUYUk4Yzl2OGpfalZGTEVZS0dwSE9CSzk1SzhmREJiZk02eVZBdlNYMlRzcVZOWmhiUzA0eEdlOURTM2xBbTZIdmprNmo?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Brasil tendrá segunda vuelta presidencial entre Flávio Bolsonaro y Lula el 25 de octubre&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-05T00:33:03+00:00"
     },
     {
       "titulo": "Con 2,2 puntos de diferencia: segunda vuelta en Brasil entre Bolsonaro y Lula da Silva - Crónica Digital",
@@ -5623,17 +5634,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-09-30T17:31:07+00:00"
-    },
-    {
-      "titulo": "Estados Unidos negó la visa de ingreso al senador Daniel Núñez (PC). Iba a Nueva York a una reunión de parlamentarios",
-      "link": "https://cambio21.cl/politica/estados-unidos-nego-la-visa-de-ingreso-al-senador-daniel-nunez-pc-iba-a-nueva-york-a-una-reunion-de-parlamentarios-6abd452d067e5526bf5d1f43",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-30T17:24:01+00:00"
     }
   ]
 }
