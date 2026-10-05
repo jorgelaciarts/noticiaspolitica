@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-05T11:01:38.859421+00:00",
+  "actualizado": "2026-10-05T11:16:37.701911+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Lectura y digitalización (ensayo)",
+      "link": "https://laprensaaustral.cl/2026/10/05/lectura-y-digitalizacion-ensayo/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Cuando decidí ese día ir a la nueva Biblioteca 114 recién inaugurada, iba distraído pensando solamente en cuáles serían lascondiciones en que encontraría los tomos de la colección de diarios de los años 1900, que mi misión era repasar en busca de ganadores literarios municipales en los albores de la Ilustre Municipalidad de Punta Arenas....",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-05T11:09:55+00:00"
+    },
+    {
+      "titulo": "¿Tax Free en Punta Arenas?: piden a Hacienda replicar el modelo de Arica para que extranjeros recuperen el Iva",
+      "link": "https://laprensaaustral.cl/2026/10/05/tax-free-en-punta-arenas-piden-a-hacienda-replicar-el-modelo-de-arica-para-que-extranjeros-recuperen-el-iva/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Los turistas extranjeros que compran en Punta Arenas podrían, a futuro, recuperar el Iva al salir del país. Así lo plantea el diputado por Magallanes Alejandro Riquelme Ducci, que mediante un oficio de la Cámara de Diputados pidió al ministro de Hacienda informar sobre la viabilidad jurídica, tributaria, administrativa y operativa de implementar en la...",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-05T11:08:06+00:00"
+    },
     {
       "titulo": "Flávio Bolsonaro y Lula da Silva disputarán  la presidencia de Brasil en segunda vuelta",
       "link": "https://laprensaaustral.cl/2026/10/05/flavio-bolsonaro-y-lula-da-silva-disputaran-la-presidencia-de-brasil-en-segunda-vuelta/",
@@ -5612,28 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-09-30T18:26:18+00:00"
-    },
-    {
-      "titulo": "Presidente Kast abordará Presupuesto 2027 en cadena nacional esta noche - latribuna.cl",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHJzanJ0ckhIcEVkR0pUckpfNV94eE5RSnhZOHlBX0lfNkYxZjNWR0gyTVhpU21CemNVNnQwbHVmbmRjSGlDQ3I2aEV2VXZ0MXhsejFPTTc3ckhwYmJBRlhCOWMxZUdxazBFRktYOTU4ZWcyOUVfMVkzNkVvTnFrOWNtT29IQ3VNOXY5em8tN2FEZUgxSmxQenFrU0ZrdWJsYmNEM013QmNCRzd1Nk9ST3BBQmFoQ2VRZUJUckF30gHGAUFVX3lxTE5QQVNUUk03WjgtWmpCWkdQTmwwbFFpYUd3b0MwTzhCWU9MdmZmQ0xwY2hhS3o5RVQ2cU1rMUVhTjFiZ2NNR3d4Yk95b2RQY3pVem5mOVNWZGtPaXotU3FrZlQzQUliMmJkbjhXNmV0QU05dFNMX25uaEh6UnZUUFBhckpGTERwMzBVWmRaZXRhWldBZWdBNC1lSXVOS09LV2dvZVdQS2FxSW9YMXZmMmFVdHk3ZmVOYkNIVEZhOUFoYUY4QnR1dw?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Presidente Kast abordará Presupuesto 2027 en cadena nacional esta noche&nbsp;&nbsp;latribuna.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T18:22:39+00:00"
-    },
-    {
-      "titulo": "Seguridad: Lo que implica que Paulina Vodanovic (PS) tome distancia del acuerdo con el oficialismo - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HNFVwbkdZcERwemNxUTlqS19yZ1EzUzN0QjRXaEN0LVNGbXREM3A2bWVFVTFJNnFUMXZwZG1KYVZsY0VsM05LX09aejI1aGExT3ZzemxWa3Rvd3lVc21HZUdWZ3JBX191RFJGaEMwTTFIOGpZNG9OZw?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Seguridad: Lo que implica que Paulina Vodanovic (PS) tome distancia del acuerdo con el oficialismo&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-30T18:19:24+00:00"
     }
   ]
 }
