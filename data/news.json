@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-05T10:16:37.482083+00:00",
+  "actualizado": "2026-10-05T10:31:47.375754+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Carabinero fue asesinado durante procedimiento por violencia intrafamiliar en Quilleco",
+      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/carabinero-fue-asesinado-durante-procedimiento-por-violencia/2026-10-05/071019.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un sargento de Carabineros fue asesinado durante la noche de este domingo en la comuna de Quilleco, Región del Biobío, luego de recibir un disparo durante un procedimiento por violencia intrafamiliar (VIF).\nDe acuerdo con los antecedentes oficiales, el uniformado se trasladó hasta una vivienda para responder a una alerta por violencia doméstica. En ese contexto, fue agredido directamente con un ar",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-05T10:10:19+00:00"
+    },
     {
       "titulo": "“Mi nombre no aparece mencionado en la parte  que contiene el cuestionamiento de Contraloría”",
       "link": "https://laprensaaustral.cl/2026/10/05/mi-nombre-no-aparece-mencionado-en-la-parte-que-contiene-el-cuestionamiento-de-contraloria/",
@@ -5620,17 +5632,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T18:05:25+00:00"
-    },
-    {
-      "titulo": "Ley de Presupuesto 2027: Kast presentará proyecto al país este miércoles por cadena nacional - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWmZyTVg0bE5TRFloR2lZX3hldURIbGFZNUNyV0h4eUJFd3ZXNHN2YmdmTlpqWHJVUEZsRDVIZmVrSkptV2xsVkx0RFhYR1ZyOWtuMEtiQjgzTV9QbGZraFlmQlFyYzdaMk1WckVxZUNhS3N0RkxLekJZRU54VWJfSnpYN3E5MXZEUXRNb3JzZklBYlh6OFlPWEhxQVhqNTdFSXk4NS02Mk1Ma2hrYzVQV2loY3d4dGl3YUVGUTNaWHdFSVVZYkNsSDVR?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ley de Presupuesto 2027: Kast presentará proyecto al país este miércoles por cadena nacional&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T17:59:00+00:00"
     }
   ]
 }
