@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-05T18:16:37.648659+00:00",
+  "actualizado": "2026-10-05T18:31:42.216093+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cada punto del Presupuesto 2027 es negociable: el mensaje de Quiroz al oficialismo tras críticas por la falta de coordinación en el proyecto",
+      "link": "https://www.theclinic.cl/2026/10/05/cada-punto-del-presupuesto-2027-es-negociable-el-mensaje-de-quiroz-al-oficialismo-tras-criticas-por-la-falta-de-coordinacion-en-el-proyecto/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Durante el habitual comité político ampliado de La Moneda, el ministro de Hacienda transmitió a los partidos de gobierno que estaba disponible a discutir cada punto del proyecto que comenzará a discutirse esta semana. Lo anterior, luego de las duras críticas por algunas medidas que contempla la iniciativa, como el fin del programa \"Yo elijo mi PC\", y la molestia dentro del sector por la falta de i",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-05T18:18:35+00:00"
+    },
     {
       "titulo": "Nueva fachada para el Mercado Central de Santiago: inicia intervención para recuperar cara exterior del edificio patrimonial",
       "link": "https://www.theclinic.cl/2026/10/05/nueva-fachada-para-el-mercado-central-de-santiago-inicia-intervencion-para-recuperar-cara-exterior-del-edificio-patrimonial/",
@@ -35,6 +46,21 @@
         "Presidente"
       ],
       "fecha": "2026-10-05T17:52:56+00:00"
+    },
+    {
+      "titulo": "Oposición debate su futuro tras reapariciones de Bachelet y Boric",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/oposicion-debate-su-futuro-tras-reapariciones-de-bachelet-y-boric/2026-10-05/144535.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las reapariciones de los expresidentes Michelle Bachelet y Gabriel Boric durante la última semana abrieron en la oposición el debate sobre sus liderazgos y el proyecto con que buscará recuperar el respaldo ciudadano.\nTras el acto de desagravio a Bachelet por el fracaso de su candidatura a la Secretaría General de Naciones Unidas, Boric participó este fin de semana en una charla del Festival MUDA, ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-10-05T17:45:35+00:00"
     },
     {
       "titulo": "Brasil: los candidatos derrotados descartan apoyar a Flávio Bolsonaro o a Lula en segunda vuelta",
@@ -215,6 +241,18 @@
         "Diputados"
       ],
       "fecha": "2026-10-05T15:51:47+00:00"
+    },
+    {
+      "titulo": "Gobierno decretó tres días de duelo nacional por crimen de carabinero Jaime Urrea",
+      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/carabineros/gobierno-decreto-tres-dias-de-duelo-nacional-por-crimen-de-carabinero/2026-10-05/124709.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno decretó tres días de Duelo Nacional por la muerte en acto de servicio del sargento segundo de Carabineros Jaime Ariel Urrea Burgos.\nLa medida regirá durante las jornadas del lunes 5, martes 6 y miércoles 7 de octubre en memoria del nuevo mártir de la institución policial.\nLa resolución del Ejecutivo busca rendir homenaje al funcionario de Carabineros, quien perdió la vida luego de reci",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-05T15:47:09+00:00"
     },
     {
       "titulo": "Gobierno decretó tres días de duelo nacional por criemn de carabinero Jaime Urrea",
@@ -5411,6 +5449,17 @@
       "fecha": "2026-10-01T01:28:02+00:00"
     },
     {
+      "titulo": "Presupuesto 2027 subirá 1,5%: Kast asegura que no se tocarán beneficios y que se revisará “cada peso” del gasto social - df.cl",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVNhWXZTUVdzTVM4UFlVNWVZVFV2aEZNOW5SUFBGTTV3cFQ5Y09BUV9BNC1WN3dMQ3hBOW5pR1AwQ1MyWHY5d29RSVNDSnNYb3hPWWJrdmxiZWMzemROSk9QdDFSU0lIQzRlZlM4SHhWVEZqUlFWNUpkcEhYdUdNX0d0a0liOEJ5X2Y3VUdielpiVGptOHRhdDRXTmZIRzJRSFpnaThNNG11WnNUUzVJOQ?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presupuesto 2027 subirá 1,5%: Kast asegura que no se tocarán beneficios y que se revisará “cada peso” del gasto social&nbsp;&nbsp;df.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-01T01:26:00+00:00"
+    },
+    {
       "titulo": "Balance 6 meses Gobierno Kast - La Segunda - lasegunda.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON1h1WFlZQU1NUElxZ1dwOWhjUmpTdS1ldVRwSU9BdUoxRURvQmktZThJTGE1aWJwSnpWaHJMb1RtbHpPNVhKRjQ3b2FPVmVZaHpOSTVhWVZGLVRUSkJ1dkZoVnp4OFN5QXBRUmF1Q3gxbDNhdEhoRHBEOFA2bzY0dm4tYXpFY3FMXzA2d09GZGRVaTA?oc=5",
       "fuente": "La Segunda (vía Google News)",
@@ -5600,50 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-01T00:33:02+00:00"
-    },
-    {
-      "titulo": "Conoce los 4 ejes del Presupuesto 2027: revisa el discurso completo del Presidente Kast - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa2tZYTlMR2hXdTYwdm51OGNJQUtYYV92NlZBeDJ2QzhsdGxIYThhWTEzaFk3cUxHNFk1WkJUd1FuYTBTUFVNSkE0T0dJd3c3alBDMnZiOVlaYThMYXRtUmxtWTFfME1RRi01d0NaT21MX0RTWDNKVTVmTEV3M3ZqaUpPMThkaE93eC1oZlFCTW5MVzZxQ3BHbGlNLUZyM3RTQldF?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Conoce los 4 ejes del Presupuesto 2027: revisa el discurso completo del Presidente Kast&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T00:32:19+00:00"
-    },
-    {
-      "titulo": "“Mentira descarada”: Embajador Judd niega rechazo de visa a senador Núñez (PC) y afirma que EE.UU. “nunca recibió una solicitud” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOQ0RCNWNrM1I0VTBwQkdKZHJTcG9yYnY4ZFhtaG5HOUpqNmlJMXJpRWJrT2NQNGtxbjFTM2hrV3VVM3RmcUp2RURHSkc2UTEyUTJKYVpMV2JiSGlJZ2NBWUNHbzN3VVBxUzM4M3M3ZlFoeGlxQ1VrRzhyV3UxY0pWdk1kSjRFMjhiMmI3Y0kySEJmMUNwYzdDVDZwdFdQWWh1UndUTkJvSEJSek00dzZGUWNWc1BtVmVzRy1kZVRxcS1MdFh6VU93dUx4M214RERUclZQdVJkaXh4Q3o2ZzMxTERMSFMtMGt4UVFxZXIwNHh1ZW1VelHSAZcCQVVfeXFMTUMzYTdIY0RCdm5pZXdQY2lCTlk0V2kxN0dXNkNfYnVGN3ZFOFFBNk9Xc05MOHlJMXNVbHlGdU81SUE2eGJNeTI4ZVQyVWNuWTBGNkw5SC0xRzBFZzFtOVg1RDBVYjZqbU11XzhZRjg4SmJwYU5EeTZocjBTR0tSZE1NNUhMTVJqeEVBRzRHdldSbmhaZzJGdzBCQnJfaGtHVVVXOWtwLUVCLVJaZkNsc2o4aFQta2dSc3ZRU3ZlbUJTTFdCTDN4ZURBT3lGbFFxY3pRTGg0TWlGN3J5bWhvNUZLOHk5MWJKQlZRcHFPeHp6ekdLWjVoT0dCTWZ2UlphNmZCb2xvQUpzMkUwX3BaTy1DNzJSZ2dN?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Mentira descarada”: Embajador Judd niega rechazo de visa a senador Núñez (PC) y afirma que EE.UU. “nunca recibió una solicitud”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T00:28:43+00:00"
-    },
-    {
-      "titulo": "“Gobernar es ordenar”: Presidente Kast presenta la primera ley de Presupuesto de su administración con foco en crecimiento, empleo y seguridad",
-      "link": "https://www.theclinic.cl/2026/09/30/gobernar-es-ordenar-presidente-kast-presenta-la-primera-ley-de-presupuesto-de-su-administracion-con-foco-en-crecimiento-empleo-y-seguridad/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "\"Esta administración asumió el desafío de avanzar hacia una gestión fiscal\nsostenible, para que el Estado pueda responder de manera permanente a las\nnecesidades de las personas\", dijo el mandatario en cadena nacional.  \nThe post &#8220;Gobernar es ordenar&#8221;: Presidente Kast presenta la primera ley de Presupuesto de su administración con foco en crecimiento, empleo y seguridad appeared first o",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T00:21:58+00:00"
-    },
-    {
-      "titulo": "Kast presenta Presupuesto 2027 y anuncia prioridades para el próximo año - Diario Tiempo21",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzduRG16MmRROGhYenVaUXc5X3VZVkoxWHUtNjFGcnpjdk03Zmo3Ul9jQ1hHYzNzVjhQU0lMU25nTFIwNFN2ZzFyV2ozR1pxMVRjNkE3TnpKMmRoN2FhV0NjbTRicHlYLUV2ZXZuN2tJcEpVZUt6d0NXTTJqa0x1Qk9Ccjg2ZnBYUm9lOTVsMFluVDg0a3ZQUDFvQ25Ndw?oc=5",
-      "fuente": "Tiempo21 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast presenta Presupuesto 2027 y anuncia prioridades para el próximo año&nbsp;&nbsp;Diario Tiempo21",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T00:20:18+00:00"
     }
   ]
 }
