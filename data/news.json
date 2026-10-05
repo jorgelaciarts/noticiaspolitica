@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-05T19:10:03.356643+00:00",
+  "actualizado": "2026-10-05T19:17:02.862952+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Informes desfavorables y un intento de Boric por recortar el programa: La historia detrás de \"Yo Elijo mi PC\" - Emol",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRGRNQXFUNktVWkdlTzFlTkRoQm9lVk1pY3BlRFpKajM5ejBXSE50ZFBoS0hhaHFRM2x6UGJPMlFxbm1jNjNrVnlMMnFBd2dDNklHUU9kbjZGV3hJSnQtWEFSakd0NkxCUm52NnktS2dvUnFzbVZuLTUzRVhVV1VuLThyTUhEUDduN0pqYk5xNA?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Informes desfavorables y un intento de Boric por recortar el programa: La historia detrás de \"Yo Elijo mi PC\"&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-05T19:09:24+00:00"
+    },
     {
       "titulo": "Temuco: recuperan vivienda ocupada ilegalmente por cuatro meses y la restituyen a adulto mayor",
       "link": "https://www.cooperativa.cl/noticias/pais/policial/temuco-recuperan-vivienda-ocupada-ilegalmente-por-cuatro-meses-y-la/2026-10-05/155038.html",
@@ -1293,6 +1304,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-04T19:10:08+00:00"
+    },
+    {
+      "titulo": "Senadores piden precisar montos y acelerar recursos para la reconstrucción - diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObG9DTGZCdWZwWkg2MFJuZDgzdHJBM3p2WEVwRUFxNmllc1lPLU5CZzE0OTdNb3A1cm9nUW13MlVuUUNSSE1jZVRybUw4VzNDSzJZWm5nMGphVzJvaWdEcU1VLTItX3YzX3c2alF0cXg5dXY2bHRpbEt0RGF4d3JjcHlWQTJKeHlKVEpDRk1qUjlsM1ZqeWg0V0FJLU9lQk5UZWhOeU1SNE1IUnloUjhnLWgwaVEwVGd3R3ZmdFdyUElDX3VPd19N?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Senadores piden precisar montos y acelerar recursos para la reconstrucción&nbsp;&nbsp;diarioeldia.cl",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-04T19:07:08+00:00"
     },
     {
       "titulo": "ExPresidente Boric reiteró críticas por adhesión a Escudo de las Américas: “Va en contra de los principios esenciales que ha sostenido Chile”",
@@ -5628,28 +5650,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-01T00:53:26+00:00"
-    },
-    {
-      "titulo": "Gobierno retira reforma de seguridad y abre paso a nuevo proyecto con apoyo parlamentario",
-      "link": "https://ladiscusion.cl/gobierno-retira-reforma-de-seguridad-y-abre-paso-a-nuevo-proyecto-con-apoyo-parlamentario/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La decisión del Gobierno de retirar la reforma constitucional de seguridad y abrir paso a un nuevo proyecto, marcó un cambio en la estrategia legislativa de La Moneda. Tras las críticas que recibió el texto desde distintos sectores y el fracaso de la idea de legislar en el Senado, el Ejecutivo optó por sacar su [&#8230;]",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T00:51:00+00:00"
-    },
-    {
-      "titulo": "Embajador de Estados Unidos acusa al senador Núñez (PC) de difundir una “mentira descarada” por supuesta negativa de visa - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNlpxQlRFZUotWHEwSW14NHlhekhfSDNRQWNrcFJmcXZubm9XZHYtSnlWRnIwaDhYbzB4SnFXaTdpZUFGUkhzdlY5c1J5VDU5WEZFQWtTRTJ4cThRcTlGc1ZsNzZwZ0p5QlhWX05vRW9oQUhRa0U2REROU1ViY0tKNHhCMGxhcnEwOGtIdnRQUXZ5VFB4ajNIWjNpcWp5SEVNWm8tYnRhRkx6XzV0ZGZxOXg0VExDYTFhRkZqczJreGpjYkd4Wk1UTklrU0ZMSVdlaXlKYnlsR3g2NDZvVVoxLVZB?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Embajador de Estados Unidos acusa al senador Núñez (PC) de difundir una “mentira descarada” por supuesta negativa de visa&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T00:45:34+00:00"
     }
   ]
 }
