@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-10-05T11:46:41.406142+00:00",
+  "actualizado": "2026-10-05T12:01:25.354780+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "EN VIVO: Diputado Bobadilla (UDI) analiza educación y contingencia nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3JMdnZWbEVBX2lJWENiN1pDVl9kYWV3eEQ0YTZxSkItQkxDTU5SVk1nNjQxTHJUdXgzZGlUSXZVV2pIOGI5d0RHcFdYVTk5S1F1eGQ0TUl0Q2hucjNsSWJrUEtlTHhBakRRWG9DTGIzWTJkSHFraS1YNVF1dTFaNExUekJsMDRaMHJwMi02bk5MYlBqdFlweUZ3bzB0RGpnLXdOeFh3TW5qaFNNRjBDdXZtWGlFaXox?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Diputado Bobadilla (UDI) analiza educación y contingencia nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-05T11:53:05+00:00"
+    },
+    {
+      "titulo": "Presidente Kast pide que \"caiga todo el peso de la ley sobre el asesino\" del sargento Urrea - radio.uchile.cl",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbjgwWU9raU1sQjZNbklyUWFDcXpRV1RkRDdEVEhsLTRaeE9NM0dqOC1FTW93Q2ljOFRVYnVkbE0yTGRzSUFXYUxYLVJDc1FIcENvOWVjZi1EYkRidW1pclgzSXRRekc3dk1BalBjaGtDSkNjdmFMa3RvYld2SEt2dFNza1V4dDI1RzhrY0x1U0o2Q3Q1cW4yYW5TcU1YV0o4Q3JaR3h3QS1rREFBQWs0TlpoaFpRQ1JjNzFSdXpWZ2ZnQ00?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast pide que \"caiga todo el peso de la ley sobre el asesino\" del sargento Urrea&nbsp;&nbsp;radio.uchile.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-05T11:48:35+00:00"
+    },
     {
       "titulo": "Rechazo al Escudo de las Américas llega a 47% y carta de Bachelet y Boric suma 41% de apoyo",
       "link": "https://www.elciudadano.com/politica/rechazo-al-escudo-de-las-americas-llega-a-47-y-carta-de-bachelet-y-boric-suma-41-de-apoyo/10/05/",
@@ -5612,29 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-09-30T19:24:40+00:00"
-    },
-    {
-      "titulo": "Senadores de oposición: “La exigencia es que el Gobierno retire hoy, ahora, el proyecto de seguridad” - 24horas.cl",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWExiN1FmWXMtS2w1d244RFBOT2RQZ2k3WXA1ME5tSTVxc3JXU3p2WDNMdDhFMWJyXzRiMXhPc1BoSndFSUJYWlNFSUVNN1BtU200MGd6SEpSZi1XNWN3ZXViYV8ydlV3R240TWVyM1RnRFgxMWlEQWRhVUJPLVcwOGszbm53TUxkSVBLUXZYeC02emdDSlBxSFp5Ym01bXJpMGpDQnNhNVZYRTVUSEQ3TDVfUS10Znl3Y2oyT2MySUdRRGFT?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadores de oposición: “La exigencia es que el Gobierno retire hoy, ahora, el proyecto de seguridad”&nbsp;&nbsp;24horas.cl",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-09-30T19:19:00+00:00"
-    },
-    {
-      "titulo": "Caso Cerimedo: Republicanos liderará la comisión investigadora pese a considerarla un \"circo\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/caso-cerimedo-republicanos-liderara-la-comision-investigadora-pese-a/2026-09-30/160718.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La Cámara de Diputadas y Diputados formalizó este miércoles la constitución de la comisión especial investigadora encargada de indagar la eventual injerencia del consultor y estratega argentino Fernando Cerimedo en los procesos electorales de Chile.\nEl grupo legislativo tiene por objetivo principal esclarecer el posible uso de granjas de bots y diversas herramientas de intervención en redes social",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-09-30T19:07:18+00:00"
     }
   ]
 }
