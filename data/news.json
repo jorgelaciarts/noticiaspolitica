@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-05T07:31:23.439613+00:00",
+  "actualizado": "2026-10-05T07:46:35.706999+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-05T02:46:57+00:00"
+    },
+    {
+      "titulo": "Cadem: Aprobación del Presidente Kast marca 32% y crece preocupación por la economía - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQVFOVXhyMld3Y2IySWxFTzZpV0ZSWlZsdnlqRzhoLS1OYXM2c0FhYWI0YlltNGZyaXJJWUl4Rmxucmpka3Ntbjh0QjEtazVYc2dua0RZbXU4ZXNad25mUHdnNjBNME5BRi11SDctNVpXekJaMkhRY25BX0VmS2diSW9QZTU3R25NNHNyd2g0VDd6YU1oWFB1eE4tU21aaXJwd1FYTXAzMGU?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cadem: Aprobación del Presidente Kast marca 32% y crece preocupación por la economía&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-05T01:35:41+00:00"
     },
     {
       "titulo": "Lula y Bolsonaro se medirán en segunda vuelta en Brasil: el ultraderechista aventaja por dos puntos al candidato de la izquierda",
@@ -5623,17 +5634,6 @@
         "Diputados"
       ],
       "fecha": "2026-09-30T17:36:00+00:00"
-    },
-    {
-      "titulo": "Cuatro décadas de un Servicio Electoral que acompaña la democracia de Chile - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRHRWa1ZJMzVoRzBqb3pkRUhtdWRibzg0TFRseGQyblhfN0ZyY1hxTk5YRGhScHRPV2NIX0NiaVRlbHFyMS1CWFdDTVhLamtpa0ZpVEFtM1N0UGNYYkhxZnc3LV85bDZQUENVbWE1cTh6UmtQcmFkbF85SVNwQkNsY09uT05YSW9zSmdXRjNUaEVjWTVJTUN0bkVhM1hfekR4ZlVNTzJLclFNMmZDemg2S0pZd0M?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cuatro décadas de un Servicio Electoral que acompaña la democracia de Chile&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-09-30T17:31:07+00:00"
     }
   ]
 }
