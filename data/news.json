@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-05T12:31:45.929647+00:00",
+  "actualizado": "2026-10-05T12:46:39.884117+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fin a “Yo elijo mi PC”: Alcaldes advierten impacto en zonas rurales",
+      "link": "https://ladiscusion.cl/fin-a-yo-elijo-mi-pc-alcaldes-advierten-impacto-en-zonas-rurales/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Diferentes jefes comunales de la región, comenzaron a manifestar su inquietud ante la posible eliminación del programa “Yo elijo mi PC”, en el marco de las Becas TIC del Ministerio de Educación. La medida, incluida en el proyecto de Presupuesto 2027 presentado por el Ejecutivo, dejaría sin recursos a esta iniciativa tras 17 años de [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-05T12:41:35+00:00"
+    },
     {
       "titulo": "Flávio Bolsonaro aventaja a Lula en inicio del conteo parcial",
       "link": "https://ladiscusion.cl/flavio-bolsonaro-aventaja-a-lula-en-inicio-del-conteo-parcial/",
@@ -46,6 +57,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-05T12:03:28+00:00"
+    },
+    {
+      "titulo": "Claves del Congreso: Sala de la Cámara le da el puntapié inicial al primer presupuesto de Kast - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOEExdldKSENVOHpvQ0c1akktS3RIVWFzb1BHYThmcFEzRUo3UE1GNkVvbngyLUUzTU9VRUhtWVlKRV9INkhrNDFtckpKcVdOM1pVU21xY0kwYVhnUGNYdmVpejFUcDAwWUlzTk5uUEllZkl4RnE2bmhidUsyeHoyaGVmcWh0Sm4tcXNQY0hSd1Vjck91R3dxSzgzLUY2UDh2TGJEdlpCbmRYU2s0OEJIMFdubC1HbEpxanF3SA?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Claves del Congreso: Sala de la Cámara le da el puntapié inicial al primer presupuesto de Kast&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-05T11:54:00+00:00"
     },
     {
       "titulo": "EN VIVO: Diputado Bobadilla (UDI) analiza educación y contingencia nacional - Emol TV",
@@ -5614,28 +5636,6 @@
         "Senadores"
       ],
       "fecha": "2026-09-30T20:08:45+00:00"
-    },
-    {
-      "titulo": "Sostenibilidad y Economía Circular: El nuevo horizonte del Distrito Industrial de Maipú",
-      "link": "https://www.cooperativa.cl/noticias/economia/pymes/sostenibilidad-y-economia-circular-el-nuevo-horizonte-del-distrito/2026-09-30/170140.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Roberto Puga, director del Centro de Gobierno de la Municipalidad de Maipú, detalló en Cooperativa la creación de la Corporación Distrito Industrial Maipú para impulsar la economía circular y la colaboración público-privada en la comuna.\nEn una nueva edición de Esa es la idea, Puga explicó que el distrito industrial de Maipú, con casi un siglo de historia, alberga diversas empresas que han constru",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-09-30T20:01:40+00:00"
-    },
-    {
-      "titulo": "Cámara Baja despacha a ley la reforma política del gobierno de Boric que endurece requisitos para formar partidos - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR0dwOHhSMkMtNU1aUHlweHJHd1d5LUFiWEpEUUg0Z3djc1A1OE1SVmhBN2hvNWNXQ1AyamVmV2EtSTFjeTJyTmg4eHpieVhPZ29sc001MUNmRDNRalhUbHNHWWlfdlBfUUR0V2dZRFpOSHVBZjhhVHBkdFNuR1hOUTlGMnBxWVlWVG94b2dEemZFNmJ5QlFEN0VUMERZM0l4SzRvQU1VelhxbXgzNmNEZlRLb2RtaE5oeWo4?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cámara Baja despacha a ley la reforma política del gobierno de Boric que endurece requisitos para formar partidos&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-09-30T20:00:00+00:00"
     }
   ]
 }
