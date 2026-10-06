@@ -1,7 +1,52 @@
 {
-  "actualizado": "2026-10-06T11:16:17.365605+00:00",
+  "actualizado": "2026-10-06T11:31:28.437069+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Proponen sesión especial del Core para abordar proyectos pendientes e irregularidades en Puerto Edén",
+      "link": "https://laprensaaustral.cl/2026/10/06/proponen-sesion-especial-del-core-para-abordar-proyectos-pendientes-e-irregularidades-en-puerto-eden/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El consejero regional Rodolfo Arecheta solicitó convocar a una sesión especial del Consejo Regional (Core) para que el gobernador Jorge Flies dé cuenta de la situación administrativa de los proyectos e irregularidades vinculados a Puerto Edén. La fecha propuesta es el jueves 22 de octubre. Arecheta pidió a la Comisión de Régimen Interior que presente...",
+      "categorias": [
+        "Consejeros regionales"
+      ],
+      "fecha": "2026-10-06T11:31:06+00:00"
+    },
+    {
+      "titulo": "Gobernador Flies acusa recorte de 10% tras áspera  reunión con Hacienda por presupuesto 2027",
+      "link": "https://laprensaaustral.cl/2026/10/06/gobernador-flies-acusa-recorte-de-10-tras-aspera-reunion-con-hacienda-por-presupuesto-2027/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Una áspera y tensa reunión de más de tres horas sostuvo el gobernador regional Jorge Flies con el ministro de Hacienda, Jorge Quiroz, y el director de Presupuesto, José Pablo Gómez, en Santiago, instancia en la que participaron el resto de los gobernadores regionales. El encuentro estuvo marcado por la disminución presupuestaria para once de...",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-06T11:27:56+00:00"
+    },
+    {
+      "titulo": "Las áreas que concentran las mayores alzas y los recortes del proyecto Presupuesto 2027",
+      "link": "https://laprensaaustral.cl/2026/10/06/las-areas-que-concentran-las-mayores-alzas-y-los-recortes-del-proyecto-presupuesto-2027/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Seguridad sube 9,1%, Salud 4,7% y Defensa 10,2%, mientras Servel, Ciencia, Cultura y Energía enfrentan reducciones respecto de 2026. Este lunes la Cámara de Diputadas y Diputados dio cuenta del proyecto de Ley de Presupuestos 2027, dando a conocer así cada una de las partidas. El proyecto plantea un crecimiento de 1,5% del gasto público...",
+      "categorias": [
+        "Servicio Electoral",
+        "Diputados"
+      ],
+      "fecha": "2026-10-06T11:23:49+00:00"
+    },
+    {
+      "titulo": "Velódromo y ampliación del cementerio",
+      "link": "https://laprensaaustral.cl/2026/10/06/velodromo-y-ampliacion-del-cementerio/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La ampliación del Cementerio Municipal Sara Braun responde a una necesidad que no puede minimizarse. Existen problemas de seguridad en algunos sectores, se requiere un cierre perimetral para avanzar en su regularización sanitaria y el crematorio actual presenta limitaciones evidentes. Es razonable, por tanto, que la municipalidad de Punta Arenas busque anticiparse a un problema...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-06T11:20:04+00:00"
+    },
     {
       "titulo": "Una victoria de Bolsonaro completaría casi por  completo el mapa de Trump en América Latina",
       "link": "https://laprensaaustral.cl/2026/10/06/una-victoria-de-bolsonaro-completaria-casi-por-completo-el-mapa-de-trump-en-america-latina/",
@@ -13,6 +58,21 @@
         "Elecciones"
       ],
       "fecha": "2026-10-06T11:11:55+00:00"
+    },
+    {
+      "titulo": "Presupuesto: Oposición cuestionó solicitud de endeudamiento por 25 mil millones de dólares",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-oposicion-cuestiono-solicitud-de-endeudamiento-por-25-mil/2026-10-06/080808.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Congreso da inicio este martes a la tramitación legislativa del proyecto de Ley de Presupuestos 2027, iniciativa que contempla un erario fiscal superior a los 105,8 billones de pesos y casi 6.300 millones de dólares.\nEl ingreso formal del texto desató una controversia política en el Parlamento debido a la magnitud de los compromisos financieros solicitados por el Ejecutivo.\nLa inquietud legisla",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados",
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-06T11:08:08+00:00"
     },
     {
       "titulo": "La Moneda llama a sus aliados a moderar críticas tras dichos de Matthei de cara a Presupuesto 2027 - BioBioChile",
@@ -2771,6 +2831,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-04T00:31:42+00:00"
+    },
+    {
+      "titulo": "Lula vs. Bolsonaro: Las 15 diferencias que definirán la elección presidencial de este domingo en Brasil - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRHo3T0FjYnBsc2N6S1lLemk0MGpybXVLMkwwMW82NE5TckQycFhsRVdyRndUcjNSOUMzbTRORnQ3MlZrUXRGeU5xREJ1azZHOUt5b0duNTFhR0NMOEt0blZWRmYwU1dRTldsbjBLN1F6ZDJoMnVxd09iZW9JU1BmQmxRanNza3RSM1pmMkMxTEt1QzM3QXZhTlFkWGVGQzI3OU05Q0MxOS1JLUh5a0o2V0ZHd2ZLcFNDREVkRzRWLUdtSnNMbzNOa0tCVEJwckHSAc8BQVVfeXFMUER6N09BY2JwbHNjektZS3ppNDBqcm11SzJMMDFvNjROU3JEMnBYbEVXckZ3VHIzUjlDM200TkZ0NzJWa1F0RnlOcURCdWs2RzlLeW9HbjUxYUdDTDhLdG5WVkZmMFNXUU5XbG4wSzdRemQyaDJ1cXdPYmVvSVNQZkJsUWpzc2t0UjNaZjJDMUxLdUMzN0F2YU5RZFhlRkMyNzlNOUNDMTktSS1IeWtKNldGR3dmS3BTQ0RFZEc0Vi1HbUpzTG8zTmtLQlRCcHJB?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Lula vs. Bolsonaro: Las 15 diferencias que definirán la elección presidencial de este domingo en Brasil&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-04T00:21:00+00:00"
     },
     {
       "titulo": "Lula vs. Bolsonaro: Las 15 diferencias que definirán la elección presidencial de este domingo en Brasil - Teletrece",
@@ -5579,72 +5650,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-01T14:25:57+00:00"
-    },
-    {
-      "titulo": "Presidente Kast inauguró nueva Tenencia Fronteriza en Antofagasta: Ayudará a reforzar patrullajes y fiscalización fronteriza - cnnchile.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSFJJSE9HVkw5ZHFYSC05VGVVM2U5SmJ5UElTYk5udzc0SXhpVzR1bFFURGR4YTcyNmpkX2ItY0pWaTdqdkxwc01oRkJHYWFsbXNWMTZDRmFqMExtNWlmdlhuaXpyVFl4SWZhQkZMaDlvSTF5TlYtdFJpQnBmTjNJTFNWSXFzdHNpNUhPdGNxb3MzS3JWWFVpYU1rS2xGOHFDdklCa3pqUDcya3YtZURnXzZVVE1PVkxLa21mUkh3bkJPclFITTU1bGdOeWFsemp2MGcyRmFTTG11SjlMY0VERE15RUZTSE9Yenc?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast inauguró nueva Tenencia Fronteriza en Antofagasta: Ayudará a reforzar patrullajes y fiscalización fronteriza&nbsp;&nbsp;cnnchile.com",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T14:25:09+00:00"
-    },
-    {
-      "titulo": "¿Veto o Falla de Gestión? La Polémica del Senador Núñez con EE.UU. y el Debate Presupuestario - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GUTU5NEJrUHc1a0dXTEtMTVp4RkIzclhoazlIaGo3ZnV4VzZabk9GWjAzeEtIYVhXTVZ2NDdVQU0yREJDNmNCcFB3T2NzQVFiamd6cU93T1Q2ZXptUDdhb3NXNGlkZU5GUl9aMVNlUUg5aDNFbnc?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Veto o Falla de Gestión? La Polémica del Senador Núñez con EE.UU. y el Debate Presupuestario&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T14:00:06+00:00"
-    },
-    {
-      "titulo": "Presidente Kast inaugura nueva Tenencia Fronteriza de Ollagüe: inversión supera los $5.400 millones - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNTNSTUZ3TEZ5VTN2MEV6MHJxX1RCRExvWUVpaEMyRVRwV05iTUViNmpTaXBHQTdMd1BkWko4YWRvb3pOa3cxQzNQSHBLUnMwMEFVQmZNOGMzSkZyVUU0WThPUDNoZ19SaElYWWVFQkhNc0RIWlpBX1pISGY5bFZIQnpZMV9KNk9iVGM2X1NHSWF3TE43NlVoek9IdDJPczlwZ2lZQlYwMHZISFhxejJoQVl6bW5yQ1dCUWxCUnhZQjBxWkZYR3ZNS3BpVDMwNFRiSzNaRGdfNjZncXJnLVF3OWI4NGl4MXRFZTFkdWFB?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast inaugura nueva Tenencia Fronteriza de Ollagüe: inversión supera los $5.400 millones&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T13:59:39+00:00"
-    },
-    {
-      "titulo": "Senador Walker descarta que alza de 1,5% del gasto público sea “engañosa”: “La base de comparación es correcta” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0pqVjlmdzdNUW1uYk9jTXM3a05yTVRvMW5HS0RweVlSN0VqTnlMSzdDOUd0MVQwUV9aeWRQdGUwc2JwN0MtdWtWdGMxZzlNdm5fUGNJWGFuZERrWTI1R3VPU3VmT0xQR0hzb0xmbjF5TEhsS3BQRWcweVE1TU5VazFaQWt3SjdpUUVwR1pTbW9Ta05jaGd2aHloMDFtekM4dXNlcjAtVi1tZGNRXzFFU2VWQjg1RzNTTExYMno5Qk82YmpXLUwzaHQzMjVveHZEM3FZODhrcw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Walker descarta que alza de 1,5% del gasto público sea “engañosa”: “La base de comparación es correcta”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T13:58:52+00:00"
-    },
-    {
-      "titulo": "Embajador Judd desmiente que EEUU haya negado visa a senador Núñez y dice que nunca la solicitó",
-      "link": "https://www.lanacion.cl/embajador-judd-desmiente-que-eeuu-haya-negado-visa-a-senador-nunez-y-dice-que-nunca-la-solicito/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El embajador de Estados Unidos, Brandon Judd, desmintió que su país haya negado la visa al senador Daniel Núñez (PC), y afirmó que el parlamentario nunca hizo la solicitud. En su cuenta de X, el diplomático respondió a una publicación de Núñez en la que afirmó que la embajada de EEUU &#8220;debe explicar por qué [&#8230;]\nThe post Embajador Judd desmiente que EEUU haya negado visa a senador Núñez ",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T13:51:22+00:00"
-    },
-    {
-      "titulo": "Ignacio Imas, cientista político: \"No veo a Boric como un líder transversal como sí a Vodanovic y Bachelet\" - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEdYNXo0TkVBWHhQWjRVdFZlNDJHR3RkYUJoNWNWZlRQNmU0SEcxeWp3aFpDbXl3TUJmNnE1ODVKdzI0alZueUgyeDJYVHY5MU43aWpaUW9xSWFLQi1rUFExRHdFVVRROG50ejZtVHhQREcxU0FQYlZHM2VMWGU1cXdrMThMWXUzYkFtVnN0bVZBN1hSWFVFV3hIbGRiV3dRUVMweFh2dFpNeDhLZXRCTlpCVQ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ignacio Imas, cientista político: \"No veo a Boric como un líder transversal como sí a Vodanovic y Bachelet\"&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T13:29:00+00:00"
     }
   ]
 }
