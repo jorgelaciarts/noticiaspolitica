@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T15:31:44.287083+00:00",
+  "actualizado": "2026-10-06T15:46:21.552802+00:00",
   "total": 500,
   "items": [
     {
@@ -37,6 +37,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T15:15:00+00:00"
+    },
+    {
+      "titulo": "Concejal Alejandro Astudillo deja el Partido Republicano y ficha en RN - diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMU1VbEIxS2VoOG5QNU1ETXNneDVOQm1VX1hTLXZFT3B5NjlSU1NzTDcta0lSeVg4ekdRdFhKc2VxZ3hwdzYxbllZZDR3R0dOenFjQkluaWZRazEtNzZZaTUxS0w5Umpya0FQbDJjUG55Y0xMSkVZQnJ0QnBZWHVhaTJKTHllTnBzXzBEYmIzMTRTZ1pEY0VwNzBpRS01WlpzSjZPbVYxYmNwb2dsRFhIaHJJcnZQTDljTzNKOVNrZlByQQ?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Concejal Alejandro Astudillo deja el Partido Republicano y ficha en RN&nbsp;&nbsp;diarioeldia.cl",
+      "categorias": [
+        "Partidos políticos",
+        "Concejales"
+      ],
+      "fecha": "2026-10-06T15:14:51+00:00"
     },
     {
       "titulo": "Presidente Kast y su guiño al programa “Yo elijo mi PC”: “Ahí nos jugamos el futuro (…) una infancia alejada de la tecnología”",
@@ -5639,17 +5651,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-01T20:31:00+00:00"
-    },
-    {
-      "titulo": "Parlamentarios y alcaldes dan apoyo transversal a aumento de recursos para Hospital Clínico UCHILE en 2027 - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYllpdTRCZHJ3X0I1OTh3YWZFeEdLdWNBaFZmREg1T0UzNjZZa29ZX3lCWlNvR1JNZkZPMjVrc0d1WHhtVFR2WUNGWmxqS09LNVdJbGZPY0ZPc0RYN25wcmxRVXdsektHQ01sTTQyb1EycmJWRlYwZHNBY2VoNF9wZ3NpenVBcG5OaVZ3QXprM3NKX2twZEdFeVdqZ05PM0V5b1d2YXozNFBxZWZCRHRwMnhpbEw2YkZrZ2IyNElOWElFbHp5aWZQUjdudWxFdmlWRndGQllmYkJldw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parlamentarios y alcaldes dan apoyo transversal a aumento de recursos para Hospital Clínico UCHILE en 2027&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-01T20:28:21+00:00"
     }
   ]
 }
