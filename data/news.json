@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-06T23:01:56.269300+00:00",
+  "actualizado": "2026-10-06T23:16:33.477808+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "GORE concentra gestiones ante Dipres y el Congreso para revertir merma en presupuesto",
+      "link": "https://ladiscusion.cl/gore-concentra-gestiones-ante-dipres-y-el-congreso-para-revertir-merma-en-presupuesto/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Gobierno Regional de Ñuble fijó para este miércoles 7 una serie de gestiones vinculadas al proyecto de Ley de Presupuestos 2027, con énfasis en los recursos de funcionamiento y la dotación de personal. El administrador regional, Alejandro Aguilera, adelantó que en la cita con Dipres abordarán los recursos necesarios para operar durante 2027. “Por [&#8230;]",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-06T23:08:43+00:00"
+    },
     {
       "titulo": "Gobierno baja su proyección de crecimiento de 1,8% a 0,7%; fiscalía confirma que embajador Gabriel Zaliasnik es imputado en Caso Hermosilla, y Corte confirma desafuero del senador Calisto",
       "link": "https://www.ciperchile.cl/2026/10/06/radar-06-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-06-10-26",
@@ -303,6 +314,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T20:30:29+00:00"
+    },
+    {
+      "titulo": "Diputados republicanos piden terminar comisión investigadora por gestión de Steinert: “Se ha perdido tiempo valioso” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQNHFER3dwNG5oOV9neUUzdEdQMUYteVY5MFpPR3dsNzYwaF9JcE1PbEl6czBKOC00cUJ2dDVndWxHdzhlaTB2YnV4cFREa0Y0NjFBQi1nSlN0ckxzV2ZHcFhwcFlINWYwdnpoSXAzQWJrd2RuWHQ3VnhlQS1uS1pNOGdoYW1LU0dzZ1p0SnU5b2JBX0lhalpVUlJaWXdZLW1VZUpKcGNaVzJ6aWJtTXhGbDRJS29tRFF0NGNoY2FZUXNVbXVsQVRBQWFzSzFEZzliTFJUenpWTjB1SWJfS2hoZTdxZ05zTUpVY0JMU1pB0gGPAkFVX3lxTFB3SGN6d0NnZlYteDV4ZzlCSDF2WlFMSVFYS0diSU9MTWc0Um45MUttc0FuWFdtbFRRWHdwNldaYm5fQVZRVDJMQ19yckkzSVBPZE9PTTA0MkNINUFzclQzYW9oa0FfZng5N1lnZFM3RUVXbF9pQXZKQ0ItZExTazFic1RtMXJKUEF5eF9ITVVPSWN2eVU1YUtSZkNoQ0RyS05tX2MySmR2QkZsVXhWVTBiTmFGd2ZNQUx4ZG9CcGN6eGxWZFUxek9Gd0lYV1JQRVJPUlVjVjVOdGJBZ3FXZ1A4ODJSSnRmMjFMVUdqQUF0NlVMSkJUcHBSMDNIcmpvNkljSUNxUUgxbVVndVdQR2c?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputados republicanos piden terminar comisión investigadora por gestión de Steinert: “Se ha perdido tiempo valioso”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-06T20:29:26+00:00"
     },
     {
       "titulo": "Senador Calisto insiste en hablar de “acusación falsa” tras desafuero: “La gente de Aysén me cree” - 24horas",
@@ -5117,6 +5139,17 @@
       "fecha": "2026-10-02T23:10:48+00:00"
     },
     {
+      "titulo": "Diputado Cuello recurrirá al Tribunal Constitucional por eliminación de “Yo Elijo Mi PC” - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQXNHUVJyazV5UXc2ODJoaWx2TDFWUllJZU00QmtXVGd4RXhJZFNzSS1rNEdWX1pvZUZpTGVjTlRzb2R3THVoWlhJNEhZV1RlWXhFeFRPWTlhQ3RQTjdCZk9OelZaNXN1RVhtSkpJRGJNMmtvZHNLMWxmQUxINy0tSDBrMF9fRVp6NllCRnJndFFYcTJfZmtWVzdrZTBsMjY1ZnhuaC1YQUhWLThwUWo4Z1JmQQ?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Cuello recurrirá al Tribunal Constitucional por eliminación de “Yo Elijo Mi PC”&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-02T22:21:27+00:00"
+    },
+    {
       "titulo": "Carlos Gómez, el ingeniero cercano a José Piñera que lleva los temas económicos en el Segundo Piso de Kast",
       "link": "https://www.theclinic.cl/2026/10/02/carlos-gomez-el-ingeniero-cercano-a-jose-pinera-que-lleva-los-temas-economicos-en-el-segundo-piso-de-kast/",
       "fuente": "The Clinic",
@@ -5610,40 +5643,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-02T16:00:08+00:00"
-    },
-    {
-      "titulo": "Tras informe de Contraloría: senador Castro llama al gobierno a agilizar sumarios a funcionarios por licencias médicas irregulares - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZXhvcXgyREtNSHpXOHF1NGYyVWJHbE5uTHdXQ3J3RWJLTGZOYnNRcFFRcDNXamhZS1Y4VldtNGVwTFhSVE5RbXVnMkhOTDFoNmJnV3Ruck1KZ2tPdlpBanRXVHNkejE5Z3BySUZGTHN2NkhSV3FGRTR0d202a1VnMmhqNmRMNzUwa05SSDlyR0swcmpzM3hOSDNNRGJZcU5rTm1PNXpNSXpDMC1MS0x3Z0h4cWZKTW9nWXJqQVZVV0dlZWhmWTlrYVlzRGlmcGE5Nzg0cUV3eFQ1WEdDNkN6VzlvNWI0MzBpZHoxeTk1MmtQcy14S19tYjFmOXlmZU03eHJV?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras informe de Contraloría: senador Castro llama al gobierno a agilizar sumarios a funcionarios por licencias médicas irregulares&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-02T16:00:08+00:00"
-    },
-    {
-      "titulo": "Alcalde Sichel a Quiroz por fin de “Yo elijo mi PC”: “Por favor, repongan los recursos” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMUVDM18tQ2lBLVk1OEY5ODFKZTZqcUtVd0hQclFxU3VsdlBrUnRNTVZPRzVnbklBQVRQd3JmeUlBYVBVN3RFclJTWjFnQ1pFQTFHTW1OcTNiMHFSeFFtV0x6U2FjZ1ZrVHFOZ1ZLX0JnTGdmS2liUEhaMldNaV9FYTBPQmhJUFVvdXVsMnZTU3g4V1J3Y0Zjd3lhVmRYQjF5Y0hNb09CXzlTMV9IU25lZUpGWWpiMUxS?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde Sichel a Quiroz por fin de “Yo elijo mi PC”: “Por favor, repongan los recursos”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-02T15:59:39+00:00"
-    },
-    {
-      "titulo": "Le devolverán licencia: sobreseen a diputado Sabat (UDI) en causa por conducir en estado de ebriedad - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNekJuaG1yWmdRYlJyTVVJYU9DZWQzZGFoOFBnYTF4MXZjZ3JEWWtzT01nWk9fRWxMQlFjMEF3czVoS0d1VGd0aGRiekVoVnI3WENfN0hfT202VjhFdE5XaHJtRElIN1RZdVVOT0tScDhKbzBueXBhbHpyWkRUTGZRV1lXSzNRRUVpMkZ4aUlhNmhfekZQaHRxQkpkYmhvd0Q3STBaNWo2RW5nYlk2Znk4YzR2bm5qeDNjTWlwNXhfX1BGUVloU1ROeTNvLVlsbTNGWFBxYzlkdE5GSUR4cmlBVXJRdVI0UEZvTUpNX0ZBQzdQZVpTTUNMSHpxRkZfRWhlVDZMeTVyWkZ0UQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Le devolverán licencia: sobreseen a diputado Sabat (UDI) en causa por conducir en estado de ebriedad&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-02T15:41:52+00:00"
     }
   ]
 }
