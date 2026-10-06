@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-06T18:02:03.946990+00:00",
+  "actualizado": "2026-10-06T18:16:32.186534+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La Araucanía: Estragos en Pitrufquén por muerte de ganado durante sistema frontal",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/la-araucania-estragos-en-pitrufquen-por-muerte-de-ganado-durante/2026-10-06/143645.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las precipitaciones registradas estos días en la zona centro-sur del país han afectado especialmente a la Región de La Araucanía, específicamente a la comuna de Pitrufquén, donde la municipalidad coordina y entrega ayudas ante la muerte de ganado. \n\"Como municipio hemos estado entregando ayuda no solamente para apoyar en este tema de (aprovisionar a) los animales, sino que también a las familias e",
+      "categorias": [
+        "Partidos políticos",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-06T17:36:45+00:00"
+    },
     {
       "titulo": "Municipalidad de Maipú cierra campamento donde fue enterrado el ex teniente venezolano Ronald Ojeda: es el cuarto desalojo de la comuna en el año",
       "link": "https://www.theclinic.cl/2026/10/06/municipalidad-de-maipu-cierra-campamento-donde-fue-enterrado-el-ex-teniente-venezolano-ronald-ojeda-es-el-cuarto-desalojo-de-la-comuna-en-el-ano/",
@@ -67,6 +79,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T16:30:26+00:00"
+    },
+    {
+      "titulo": "El guiño de Kast a Dorothy Pérez: Presupuesto de Contraloría sube un 5,9% y aumentan funcionarios - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVhOQTZRYXRmU1ZWeWh4aV85WlNkM1ZrajRTSE9zLUpHdTAyTFRYVHhLYnNTcUQtUW1IQmVnOVdpMEdNczBPRE5udEMwb04xNEk2QlF1eWFjbThLM2tJOE1QNDBKR0tXOVFtYS1oSHo0cEN5UGZvZXRlbDVPQUFPQU1rdnZLenB3b1pVSGtEQkhwTVlWZGY5amxJQmlsVDBuZnZPekJkZnkxOFhLUXNsYUJycWZfUkp5NXRhX1QzckVqTWduWjN0N3VnZ3E3VE95cnhlTnE0Yw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El guiño de Kast a Dorothy Pérez: Presupuesto de Contraloría sube un 5,9% y aumentan funcionarios&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-06T16:30:00+00:00"
     },
     {
       "titulo": "Presupuesto 2027: platas para cada expresidente llegan a $19 millones mensuales y UDI busca prohibir “uso proselitista” de Boric y Bachelet - La Tercera",
@@ -5626,28 +5649,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-01T22:29:00+00:00"
-    },
-    {
-      "titulo": "Gobernador de Valparaíso cuestiona a Kast por Presupuesto 2027: \"Los anuncios son decepcionantes\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVhoOVlfcGxHd1hSWkVoUlNLMmlDSEpleW1FTmJUSVRqRFZnNjFvdjVWNzMyLTg4dUp5ODVDZnBMZ3VtYkNTeGxPUzhNVHpOX09zTnBIZVJMazhEWnVMQmlYdnpDVGNka1o1YW5PVGpyUGFLRWkyR2ZFWW1hNzFZYUpFcGFpZFBVNFo1U0txU3BOUjJGQVFMYUgzdHhMaE5FTDltOVdsbWhXS29mei1xbzJzaV96eG5QSTl3M2JXYW1jQVlQOUHSAcYBQVVfeXFMUEFYaDlZX3BsR3dYUlpFaFJTSzJpQ0hKZXltRU5iVElUakRWZzYxb3Y1VjczMi04OHVKeTg1Q2ZwTGd1bWJDU3hsT1M4TVR6Tl9Pc05wSGVSTGs4RFp1TEJpWHZ6Q1RjZGtaNWFuT1RqclBhS0VpMkdmRVltYTcxWWFKRXBhaWRQVTRaNVNLcVNwTlIyRkFRTGFIM3R4TGhORUw5bTlXbG1oV0tvZnotcW8yc2lfenhuUEk5dzNiV2FtY0FZUDlB?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobernador de Valparaíso cuestiona a Kast por Presupuesto 2027: \"Los anuncios son decepcionantes\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T22:29:00+00:00"
-    },
-    {
-      "titulo": "Kast reitera disposición a retirar reforma de seguridad y aborda críticas de Vodanovic (PS): “No me importa quién se adjudique la autoría de una ley” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOXpsMEhRVmZnQ0NWaU5YZWJELXZXbVVzdm1qdXA3SU9IZkdnb1ZoaGNmLVpYVWk2a2s4Unk1c1duZEc5UkRJTzNQRnVJNkJMakdvUFVOTVl3d2tSaEdfQnlBMWFYU2VQSHhtU0JXeF9qNE1RdmFpaEpXNkZfd2xjenU0djd5bWFTMHdwR2FBVzVjSzJiYi1lSW5DcldGWERRZW1zd2xRQlNxZDRMS3JxZ0M1Ql9COGM1UU4ybnlKUVpWblRVYzlyUURiczNvRVhaQmNnMXE3cGRycFJBcXRuamJmSkxtYmJzR1NOQTk1VWxmZHVBWG9FaGVLZ0owa05Lcy0zYUJXYUpNSzg1WUN1Y2NpckhqdG_SAbgCQVVfeXFMTmd5b2k4RmpPdlE0R1JRbzJSVmxIVTRqQzlKcWRTSEwzd1RUN3R5aWhrcGxnbGFFMlN2Q2hJOGpEMmJINVhnV0hUMmtqUTlKSGNSOVlvNlFnX1RWTVZrY2lOQ2tZYVpONGQ1bzVGWEhiT180a0FJVzJPV29wdVBnZzdhcjFaTE01YVZxSDZqRWVNd05lRUZZRktQc3NpdTJhS0F3NGJiREJZcGp5dmVxZ1lrdVg3OXZ6Mnh6eF9DQ1BoOFh6THBDM1JqTkJQM2RqZGR2VUd6YU41LU55OU1INWVWemRRX1hlUllCUl9YRmNyRmpSV1V6WV9tQTRQOExyZ0NUY0FaV2J4dVlzTWhzVGJpQlhQZUdLTXZzRko5Q1U5SVlMTVhRM1pvQWVxVkVUSG5IVUFOemFC?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast reitera disposición a retirar reforma de seguridad y aborda críticas de Vodanovic (PS): “No me importa quién se adjudique la autoría de una ley”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T22:25:15+00:00"
     }
   ]
 }
