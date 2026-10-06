@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-06T23:31:43.995327+00:00",
+  "actualizado": "2026-10-06T23:46:30.379025+00:00",
   "total": 500,
   "items": [
     {
@@ -630,6 +630,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-06T18:37:46+00:00"
+    },
+    {
+      "titulo": "Recortes afectarán el empleo: advierten Gobernadores Regionales - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3hHZDBGb1FJOHNvTGstQ2NpbURBcmo2dkZqX0xJVktrMDdWUTNyWHdJQkxQcVc3VTVKNHFuNEFOa0t2RFh6VGVXdFZCOWRSbTJxZU9LZFJJNE9zNlR1akdBeHB3QjNCbVRBQXBKR1ZwYUgyaGk5MGF6X3VyRTV1TVJjM3RzMVF2MGN3TU5BdXg?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Recortes afectarán el empleo: advierten Gobernadores Regionales&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-06T18:31:40+00:00"
     },
     {
       "titulo": "Cónsul de Chile en Bolivia por futura gira de Kast a La Paz: “Es una visita de alto valor político” - La Tercera",
@@ -5632,17 +5643,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-02T16:24:27+00:00"
-    },
-    {
-      "titulo": "Robo afecta dependencias de la Municipalidad de Ránquil",
-      "link": "https://ladiscusion.cl/robo-afecta-dependencias-de-la-municipalidad-de-ranquil/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Durante la madrugada de este viernes 2 de octubre, desconocidos ingresaron a dependencias de la Municipalidad de Ránquil, desde donde sustrajeron especies destinadas al funcionamiento y atención de la comunidad. El municipio informó que, desde primeras horas, comenzó a recopilar registros de cámaras de seguridad y otros antecedentes que serán puestos a disposición de Carabineros, [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-02T16:19:48+00:00"
     }
   ]
 }
