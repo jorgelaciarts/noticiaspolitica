@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-06T11:46:12.344816+00:00",
+  "actualizado": "2026-10-06T12:01:31.205545+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast promulga ley que aumenta el plazo de flagrancia de 12 a 24 horas para policías - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV2ZPUHFvODhaOXRzZEZWNXpiV29tRXhRRWNNTldOYkF5dVZVMnYxWGhzQ21ZMVA5QnFyQU5neGZ6cFNKdWhFNDU2d0dfaWxaMWNFTlFkXzNYcWNMX3dCTGcyLXFKU2cwRHJjdHpET2xDWGRRWWNCWXE1amNTU3hUVExGNDFmZ3llUWh2WmRMeVVNajZMNDZKOFlidU80Rm1PWXkxOHV0QkhfbVpqUXNDRnh2ajhTcVEzLXBkZ1l3ekZzX19nNTdMbFJqNnYxVUJBUHI0WtIB9gFBVV95cUxQMUpkNy1Ib2hJUmdfVUYydUo4OThYNTRCMUVXWF9YdFBrVEVDWmVKNHNSeFRCdGtIZkwwNVQ2UV9welJWdWdoaHhGdnJudU1GVXRZb2pXN3RBV1p0VTUzM2Zkc2lpN21mSzQ2TlFxeWRGY2xRYjVoN05wSlNRZTVxSjM2c3B3RDQ1T3MtUklLM1N0Q3o5aXFPRV9mLVRMN2k1YTZteTQxVUxKTDJrOWFLTVFJQnZfb1QzRnplWUJ4akdmQUNGcGVaT1lNbThvdm5TUHp3MFRZWnNKZzBlWk1yY2tMTDhhMHBiQnA0ZWxrRXJTOFFzamc?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast promulga ley que aumenta el plazo de flagrancia de 12 a 24 horas para policías&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-06T11:48:26+00:00"
+    },
     {
       "titulo": "Parten rondas de tenencia responsable  de mascotas y animales de compañía",
       "link": "https://laprensaaustral.cl/2026/10/06/parten-rondas-de-tenencia-responsable-de-mascotas-y-animales-de-compania/",
@@ -2787,6 +2798,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T04:40:35+00:00"
+    },
+    {
+      "titulo": "Paulina Vodanovic: “Bachelet no está en condición de retiro. Ella tiene mucho que aportar” - EL PAÍS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTMyWmNQdllxenAzcjQ5SzQyV1h0UkkzMDZVcC1lMlFpSWVfLXdKTnB1NXRUMkpqR190RmVEOGkybWpXWDZKU3VnLXNDNzJ3anYyWkUtMWRYMk53US14OGI4ZmpDYTNfb3duWWZnZTdjVkZ6VFFIME9KMFd3S0Z3dnE2SGNoWUllWHd0a0hYT1ZwbWZsRzAtdUd2YjJ4a05nWlhpcG1LLVhnTmpvMzNCclJvUXhhNFFCSl9fSDRua2Q2NzlXSmfSAdoBQVVfeXFMT2txd3pCb3JKTll0dU9oS3hZYjIxc004enpVazQ4ektnaDhfOHFRVFB2MnczZ3BZaXRuOXo4SkRCVGFrcGVRcGtPMDVJY2VrQVMxYlhvX0lDaThCQ1Q2X2FRS205Ry1IMHBKZXRvSlhBVDZGdzl4UjZxTzFnRXN0Z0lPWFRjZTNZQTdySk9md2dRYTJNREI5TnhpbjdYYUE2bWdvNWdLWGhSU1VHUnJiZGpiNVlSc2Fxd0ZkTkhueEF2S2JQX1ZtNXBBdldBdktnU1hnYWtURjlQS3c?oc=5",
+      "fuente": "El País - Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Paulina Vodanovic: “Bachelet no está en condición de retiro. Ella tiene mucho que aportar”&nbsp;&nbsp;EL PAÍS",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-04T03:30:00+00:00"
     },
     {
       "titulo": "Contraloría confirma que Municipalidad de Valparaíso no respondió preinforme de auditoría - UCV radio",
@@ -5627,28 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-01T15:04:05+00:00"
-    },
-    {
-      "titulo": "Al Pan Pan: Matías Acevedo y Ricardo Celis (PPD) sobre Ley de Presupuesto 2027 y agenda legislativa - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWlZrX01nZE1uak03S3VzWGxYc3hwcFp0bVEzaDZfMW1YQlc0T0lqWkFqVzlQSlVWSnVEbXdyU0VIenNqeWNHX1F3M2xnM1pBal84N2FFSzB5NVdURjZMMGpOazQ0ZDhJUVBQMk9CWUh0SGFIUjFra3QySlNuNHRfT0ItSlBQRUVMOXRKb3psSk0tckpNUVdTQlNFYmhYLTNIWWlpdTVJeFQyeDM1RGl0YnlIbzg2TXhiTEpmRVhqQVAzcTZza3hTbmhuMmpueF9fa3BySEJWcXRkZFJEZktjeTdIeXY1TlcxdDlPeHExRkVvRXhyNTV2Vkx3?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Al Pan Pan: Matías Acevedo y Ricardo Celis (PPD) sobre Ley de Presupuesto 2027 y agenda legislativa&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T15:00:19+00:00"
-    },
-    {
-      "titulo": "Vuelco: Senado descarta haber realizado gestiones para tramitar visa del senador Daniel Núñez (PC) para ingresar a EEUU",
-      "link": "https://cambio21.cl/politica/vuelco-senado-descarta-haber-realizado-gestiones-para-tramitar-visa-del-senador-daniel-nunez-pc-para-ingresar-a-eeuu-6abe73d6a08f5f5f64054123",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-01T14:59:38+00:00"
     }
   ]
 }
