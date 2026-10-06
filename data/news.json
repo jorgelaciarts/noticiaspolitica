@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-06T16:16:43.507965+00:00",
+  "actualizado": "2026-10-06T16:31:43.627811+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fiscalía confirma que Zaliasnik se encuentra en calidad de imputado y caso del embajador de Chile en Israel complica a La Moneda",
+      "link": "https://www.theclinic.cl/2026/10/06/fiscalia-confirma-que-zaliasnik-se-encuentra-en-calidad-de-imputado-y-caso-del-embajador-de-chile-en-israel-complica-a-la-moneda/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La declaración que brindó este martes la fiscal Claudia Perivancich, en la que confirmó la condición bajo la cual es investigado el representante diplomático en una arista del caso Audio, alertó al Ejecutivo, desde donde se insiste en que se debe esperar cómo avanza la indagatoria para contemplar las acciones a tomar. \nThe post Fiscalía confirma que Zaliasnik se encuentra en calidad de imputado y ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-06T16:26:08+00:00"
+    },
     {
       "titulo": "Comisión \"Cerimedo\" pide citar a Evelyn Matthei por campañas de desinformación y ataques de bots. La excandidata debería desclasificar como y quien ideó en Chile la campaña que la acusó de tener alzheimer",
       "link": "https://cambio21.cl/politica/comision-cerimedo-pide-citar-a-evelyn-matthei-por-campanas-de-desinformacion-y-ataques-de-bots-la-excandidata-deberia-desclasificar-como-y-quien-ideo-en-chile-la-campana-que-la-acuso-de-tener-alzheimer-6ac50b1fa3b4d165f651873f",
@@ -37,6 +48,19 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T15:19:15+00:00"
+    },
+    {
+      "titulo": "Pardo a Vodanovic: \"Si la consigna es oponerse a todo, la unidad no cuesta nada\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/renovacion-nacional/pardo-a-vodanovic-si-la-consigna-es-oponerse-a-todo-la-unidad-no/2026-10-06/121836.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En El Primer Café de este martes, el diputado de Renovación Nacional Luis Pardo desafió a la timonel Paulina Vodanovic a superar las presiones internas en el Partido Socialista y allanarse a acuerdos con el Gobierno en materia de seguridad.\n\"Si (en el lado de la izquierda) la consigna es oponerse a todo, no cuesta nada la unidad\", ironizó Pardo, valorando que, pese a todo, \"en la oposición hay gen",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-06T15:18:36+00:00"
     },
     {
       "titulo": "Presidente Kast adelanta \"cruce de datos\" con IA: \"Algunos se avivan y logran beneficios que no a todos les corresponde\" - Teletrece",
@@ -5627,29 +5651,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-01T21:04:00+00:00"
-    },
-    {
-      "titulo": "Diputado Sánchez sobre acusaciones de senador Núñez contra embajada de EE.UU: \"Medio ridículo todo, da un poco de vergüenza ajena\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnp2UXk1cmNkRkRyeTlKaWp0RXUzNWI5eUVvSkhCd3dwRDczQ2tKVUFRMWtvaFk2SDBWLWdRTnBlZ2NPWTJYSDhvQnI1M3o2RDNaT2xuNXZ6eDZ1eHQyUkhDSUVTSWxDamJxYmk3ZkRHVERGcjh4MkNyWXJocXIzMjVzSDN2NkpJd2l6dzJYdHIzVUlQdHRJcm13Mm9xTmtuZ1V1VFBtbFk5QVNtbzBlRXd6ak12dw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Sánchez sobre acusaciones de senador Núñez contra embajada de EE.UU: \"Medio ridículo todo, da un poco de vergüenza ajena\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-01T21:04:00+00:00"
-    },
-    {
-      "titulo": "Documento del MOP para acelerar el plan proempleo de Kast - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZRHlnbk9lTjhNNnZESGliUU1Ha0RkTUV2SkhldW1kbUE2Vl9PcjlRY05CV09OOXhiRzJ5ZFJUUExoZXFHVUNxZURWbTZ0MXdlaldaSTFSSzBMaGN2dFJlQXJ3ZmJRc214Z3dKX01Dd1RjaXlW?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Documento del MOP para acelerar el plan proempleo de Kast&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-01T20:34:39+00:00"
     }
   ]
 }
