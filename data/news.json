@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-07T18:31:40.481670+00:00",
+  "actualizado": "2026-10-07T18:46:40.133578+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El intento del Gobierno por desdramatizar la decisión de “no perseverar” con su reforma constitucional de seguridad",
+      "link": "https://www.theclinic.cl/2026/10/07/el-intento-del-gobierno-por-desdramatizar-la-decision-de-no-perseverar-con-su-reforma-constitucional-de-seguridad/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Como una \"buena noticia\" denominó el ministro de Seguridad, Martín Arrau, el acuerdo de los senadores que pasará a tener el patrocinio del Gobierno y que, de prosperar, echará por tierra la apuesta inicial del Ejecutivo. \"Hubo discusión política, quizá daño político a quien habla, todo lo que queramos, pero lo que a mí me importa son los resultados\", señaló el secretario de Estado. \nThe post El in",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-07T18:33:28+00:00"
+    },
     {
       "titulo": "Presupuesto 2027 borra Calles sin Violencia y traslada recursos al Plan FOCO: Tohá apunta a “marketing político”",
       "link": "https://www.elciudadano.com/politica/presupuesto-2027-borra-calles-sin-violencia-y-traslada-recursos-al-plan-foco-toha-apunta-a-marketing-politico/10/07/",
@@ -534,6 +545,21 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T14:25:52+00:00"
+    },
+    {
+      "titulo": "Diputado Evópoli: Estando imputado, corresponde que el embajador Zaliasnik deje su cargo",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/medio-oriente/diputado-evopoli-estando-imputado-corresponde-que-el-embajador/2026-10-07/111730.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado de Evolución Política Jorge Guzmán opinó en El Primer Café que la calidad de imputado que pesa sobre el embajador Gabriel Zaliasnik en el caso Hermosilla obliga a su salida del cargo. \nGuzmán ya había fijado una posición similar -en condicional- hace una semana, cuando aún no se confirmaba el referido estatus judcial del representante de Chile en Israel, y lo reforzó ahora, tras el pro",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Candidatos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T14:17:30+00:00"
     },
     {
       "titulo": "Evópoli: Estando imputado, corresponde que el embajador Zaliasnik deje su cargo",
@@ -5623,28 +5649,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-10-04T00:54:47+00:00"
-    },
-    {
-      "titulo": "Elección Presidencial en Brasil: Lula o Bolsonaro. Encuestas prevén resultado ajustado a favor del actual Presidente y una segunda vuelta sin dueño",
-      "link": "https://cambio21.cl/el-mundo/latinoamerica/eleccion-presidencial-en-brasil-lula-o-bolsonaro-encuestas-preven-resultado-ajustado-a-favor-del-actual-presidente-y-una-segunda-vuelta-sin-dueno-6ac19accafb8e6372458ca13",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-04T00:31:42+00:00"
-    },
-    {
-      "titulo": "Elección Presidencial en Brasil: Lula o Bolsonaro. Encuestas prevén resultado ajustado a favor del actual Presidente y una segunda vuelta sin dueño",
-      "link": "https://cambio21.cl/el-mundo/eleccion-presidencial-en-brasil-lula-o-bolsonaro-encuestas-preven-resultado-ajustado-a-favor-del-actual-presidente-y-una-segunda-vuelta-sin-dueno-6ac19accafb8e6372458ca13",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-04T00:31:42+00:00"
     }
   ]
 }
