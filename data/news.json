@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-07T12:46:29.042860+00:00",
+  "actualizado": "2026-10-07T13:01:22.920300+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Museo Arrau selecciona a estudiantes de 13 regiones para el II Festival de Piano",
+      "link": "https://ladiscusion.cl/museo-arrau-selecciona-a-estudiantes-de-13-regiones-para-el-ii-festival-de-piano/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Un total de 16 estudiantes fueron seleccionados para integrar el II Festival Nacional de Estudiantes de Piano “Claudio Arrau León” 2026, organizado por el museo homónimo dependiente de la dirección de Cultura, Artes y Patrimonio de la Municipalidad de Chillán. La iniciativa cuenta con el financiamiento del Fondo de la Música del Ministerio de las Culturas, [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-07T12:49:12+00:00"
+    },
     {
       "titulo": "Corfo lanza programa para potenciar la industria cecinera de la región",
       "link": "https://ladiscusion.cl/corfo-lanza-programa-para-potenciar-la-industria-cecinera-de-la-region/",
@@ -3277,6 +3288,17 @@
       "fecha": "2026-10-05T12:58:49+00:00"
     },
     {
+      "titulo": "Senadora Balladares adelanta que el principal desafío para el Presupuesto 2027 será “bajar el gasto y no tocar derechos sociales” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMFRFQ2dNY3hKTmN4eGo3aWhDWGtyQ3pRWEpHOEhkbVJTdmN4SXIzeVJzUk1PTERHVU5kVGhBc05rRWt5dlBRNlRrZHB4VFdMbFB4d2ptUFozVFpORWpOQWhxcGFLQmR0R3l1ajcyTHRyX0tpWnREdjZ2QVZnUFpvNF9kWW9DZXNCbEZJRXIwMjVpZDVvY0c2Q0l3MUNKejNCeXl6Qm1YQ1N0ZDVrVlhVUFdXVHc2M3NlZHFoc0Y2RE1qcUt4MXZjaHVKNldRODR6VUxEU3BYNHJQR3o5Uy1Oek1sYXVKZU5RTV9yaE5aV3JXdm9zQmJPNGs3cWVIODls0gGiAkFVX3lxTE85N2FoQVl4YUlnbmt5QnIyTlgwYWlnYnRPeHBta1B0RFU1SnpNRnlQMjRMbUtYN19YUWlubW51NG1wcWNtTHd4OFFXRGZoNUJTYjR2VE1KbFRoRWltWEhYN2FZWEptN0ozNFFySERudmtXUzN5YUdhdDhqNk5lNUhwb1didUJNeDd1VGw0WjVFTGN4c3J0Ulg5MVg5TENKWVVWUkZGN2tUVUYzNDNkVEx3VkFxV0xTRWU2c09vMzkzNnlVTHFBM1BVbGdKVkpQRnFZdjFseFRRczFEZ2hCNXp2OXJUdU9IRVFQUHBZQkVZaktzUnF6eHNnVzlMVEpvUkxoZERXY1g3VDVJTWFZaVc4RjhYTVc0SWhkN1BRalFMXzdR?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senadora Balladares adelanta que el principal desafío para el Presupuesto 2027 será “bajar el gasto y no tocar derechos sociales”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-05T12:48:37+00:00"
+    },
+    {
       "titulo": "Fin a “Yo elijo mi PC”: Alcaldes advierten impacto en zonas rurales",
       "link": "https://ladiscusion.cl/fin-a-yo-elijo-mi-pc-alcaldes-advierten-impacto-en-zonas-rurales/",
       "fuente": "La Discusión (Chillán)",
@@ -5616,28 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-03T07:55:00+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Importancia del programa #yoelijomipc ante la eliminación propuesta para 2027 por #Kast y el gobierno de #Chile",
-      "link": "https://www.elciudadano.com/reels/video-importancia-del-programa-yoelijomipc-ante-la-eliminacion-propuesta-para-2027-por-kast-y-el-gobierno-de-chile/10/03/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nExploración detallada de #yoelijomipc, un programa crucial que facilita el acceso a tecnología y reduces brechas digitales en Chile, enfocándose en cómo su posible eliminación para 2027 podría impactar negativamente en la educación e inclusión tecnológica de miles de estudiantes. Se discuten los beneficios del programa y las consecuencias potenciales de su finalización propuesta.\nLa e",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-03T07:45:11+00:00"
-    },
-    {
-      "titulo": "Kast tiene razón: Chile no está para pausas - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzTkVveDZaTUJWbXVYYUdkeXlYSElGcm0zWFBqN3BNbUxHdmlQZWM2WFFYcnpoMTlMdkdZNXkxN3g2bk1VdEptUFgxdVJMV3hiQkZmeUJmSlplNkJSc0k4OFdMNFpJLVB3LVBkMjFhY0VoSTZvUDZIZWI1Zw?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast tiene razón: Chile no está para pausas&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-03T07:30:00+00:00"
     }
   ]
 }
