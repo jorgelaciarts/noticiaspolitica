@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-10-07T19:01:45.938559+00:00",
+  "actualizado": "2026-10-07T19:16:47.134961+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Con ascenso póstumo se realizó el funeral del cabo Jaime Urrea: asistió Kast",
+      "link": "https://www.lanacion.cl/con-ascenso-postumo-se-realizo-el-funeral-del-cabo-jaime-urrea-asistio-kast/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "En el Cementerio de San Pedro de La Paz fueron sepultados los restos del cabo segundo Jaime Urrea, ascendido de manera póstuma a sargento mayor. Previamente se realizó una misa en la Catedral de Los Ángeles, Región del Bíobío. A la ceremonia asistió el Presidente José Antonio Kast, quien hizo un llamado &#8220;a todos aquellos [&#8230;]\nThe post Con ascenso póstumo se realizó el funeral del cabo J",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T19:10:44+00:00"
+    },
+    {
+      "titulo": "Diputado Nuyado y recortes a políticas indígenas: \"Buscan debilitar derechos adquiridos por los pueblos originarios\" - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQT044LWo0bTFaRUsxVmJDeHg3VEcxMEZHUTBFcXFZeV9YWmlsUmV2U2hSaTEzQlFBaVFCZXlwTHVlaHZMVWI0UlR2LU50SEJmM0ZDd2gteDRkelBmaGJKWjdWV0UtOEUxeTVUQzEzY0RiX3E3TWJzUkE1Nk1ocWVHcTBGX0VTaExKMnZGeEdpNFhSWk9rSE9OYkNhbFAwNmVSREg4N1ZYVmE0blNfUWhOWElOS3pGczF5OGJkdlRNZVFiblJud2pBSk5zcVVrQTRRSnN1ZHRKNmFUdWItQkVMbEFNRQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Nuyado y recortes a políticas indígenas: \"Buscan debilitar derechos adquiridos por los pueblos originarios\"&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T19:01:27+00:00"
+    },
     {
       "titulo": "“Yo creo que sí”: Michelle Bachelet se abre a una nueva candidatura presidencial - Crónica Digital",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTVZUeG1fSFZ3eENNbW1qOGEwVjJrU1FfdjV4MnVGUE1YdUJQOHBRVEZNNnlKcW1yUU5KdUtwYTJub296OWhHcXZ3akoxNmpZRk1TaWp0X1N0enplMnZxRmpDQk5QajVRRmxSRl9YZEFydk9jS25KdTFMTFdFckFUS1RoTHNDMll2Y0RobjB4Ynd3OU4yQ3ZnMklBWkdldE1NUHJyTnYtVQ?oc=5",
@@ -376,6 +399,17 @@
         "Candidatos"
       ],
       "fecha": "2026-10-07T15:28:11+00:00"
+    },
+    {
+      "titulo": "\"Yo creo que sí\": Bachelet se abre a posible tercera candidatura presidencial - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUVVlSzJkcTU4UXRkN2ZXMU5MVklOenc4U0dzNTV3VFRVamw4VGVTMlNfenMybTJvVS1pZjZxaGJCWVZRZFJpenRTR0Z6dXI3ZmJaQzAtNUt5eTR0M0hscmlrbDZkaEN6c3F0MWRjcmdzbzhNUFMxbXZOdVhPS3dYTWRnalQxRnJ1UDN30gGQAUFVX3lxTE1HRXpVU0lkNDd1cTZHV3Q1ZktVTjItMEEyQ25EaHV6VTVjWHRsNmFPbndYbGR0bmlDZklqY1E3TUF1dWNQMVVManVyLWJYQmNnYjl0YXhWRFlaYmxiTWZnTVVsSzY1bVB2WVhWb1kxQXZtcDh2ZGl6a29mbGVOQ2pHb1YxajZrQmFtaFhxY05CdQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Yo creo que sí\": Bachelet se abre a posible tercera candidatura presidencial&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Candidatos"
+      ],
+      "fecha": "2026-10-07T15:26:00+00:00"
     },
     {
       "titulo": "Seguridad: Senadores ingresan hoy el reemplazo de la desechada reforma constitucional del Gobierno",
@@ -5616,39 +5650,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-04T03:30:00+00:00"
-    },
-    {
-      "titulo": "Contraloría confirma que Municipalidad de Valparaíso no respondió preinforme de auditoría - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYTMybGxBTXlpdlkwanhtdDg4NlgxMk5ZOVcweEw0YVcxVEtEdjlmSEZkSzhNNHNoNHIteXJURnJLWDVxcDF1bnBabHd2aE1OUEVTak9PQThZUFVtZnA1REM3NmdXcklnYzlQV28yNnoxcEpKelBxTURXRDhaV0N2WFdpZWJfdGNOS2Z3TE9vczZpcVFibUJXTVE2R2lTblBDQUxhUlphTXJuWkRQeV9xbGtmeWhCZw?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Contraloría confirma que Municipalidad de Valparaíso no respondió preinforme de auditoría&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-04T01:58:22+00:00"
-    },
-    {
-      "titulo": "Servel anuncia 99,12 % de mesas instaladas - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdzdsMVRnTnduR0V1STJyZkEtTHZpbm45LVBadUNHZGJnTVZST2JaNmFXa3Y5YWgySHJ6djBwdV9icWhTRHR0STZuYmFfSjQ5ZG02VEJWcGlDU1NIbzlIUWxtRmZJUnVYZFRTYWtSLXJ5Y1ZIRGp1T1BEczlZWWp1UHpVaFE?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel anuncia 99,12 % de mesas instaladas&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-04T01:34:58+00:00"
-    },
-    {
-      "titulo": "¿Cambio al modelo comunicacional?: Las peticiones oficialistas de un \"vocero exclusivo\" y los ajustes que prepara La Moneda - Emol",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRXRQTDBEdVZoLU5OUXFZaU45SlhCVjBmaXFncmVpeTBEdXVfQ3lyY21uR3hYMzNidWN2Z3ZXU1dzeEoyZFRBUDI0MmlrU1BSOXJ0YjVWMzE2SWxSZTB0U2Q4dGRTWVROVVRPM0RYU1Rsei1nMXhxZzcwVEJKR1ZsTklqdms1cW5YRGtDZ2w0MDZDd1ZreGc2WW9HM3ZVYWdPeGNZZw?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Cambio al modelo comunicacional?: Las peticiones oficialistas de un \"vocero exclusivo\" y los ajustes que prepara La Moneda&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T01:02:00+00:00"
     }
   ]
 }
