@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-07T02:01:44.263135+00:00",
+  "actualizado": "2026-10-07T02:20:13.544112+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Reportan avalancha en Baños Morales: piden no subir al Cajón del Maipo",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/reportan-avalancha-en-banos-morales-piden-no-subir-al-cajon-del-maipo/2026-10-06/230336.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Una avalancha de nieve se registró este martes en el sector de Baños Morales, en San José de Maipo, en medio del sistema frontal que afecta a la Región Metropolitana.\nSegún los antecedentes entregados a Cooperativa, no hubo personas lesionadas ni viviendas afectadas.\nEn este contexto, Transporte Informa llamó a evitar viajes innecesarios hacia el sector precordillerano y a circular con alta precau",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-07T02:03:36+00:00"
+    },
     {
       "titulo": "Emmanuel Carrère en su paso por Chile presentando su último libro: “Uso lo que soy, para tener un pequeño acceso a lo que no soy”",
       "link": "https://www.theclinic.cl/2026/10/06/emmanuel-carrere-en-su-paso-por-chile-presentando-su-ultimo-libro-uso-lo-que-soy-para-tener-un-pequeno-acceso-a-lo-que-no-soy/",
@@ -5627,21 +5638,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-10-02T17:49:12+00:00"
-    },
-    {
-      "titulo": "Gobierno se abre a retirar reforma de seguridad y Kast descarta \"derrota política\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/gobierno-se-abre-a-retirar-reforma-de-seguridad-y-kast-descarta-derrota/2026-10-02/144846.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno confirmó este viernes su disposición a retirar la reforma constitucional de seguridad tras constatar que no cuenta con piso político en el Congreso, optando por allanarse a un texto alternativo que negocian con senadores.\nFrente a las críticas por haber enviado un proyecto que no logró sumar apoyos transversales, el Presidente José Anotnio Kast descartó que dar un paso atrás en la reda",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-02T17:48:46+00:00"
     }
   ]
 }
