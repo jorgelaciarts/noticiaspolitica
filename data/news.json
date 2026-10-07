@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-07T16:20:34.322121+00:00",
+  "actualizado": "2026-10-07T16:31:44.382417+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "RUF a un paso de ser ley: Cámara de Diputados despacha el proyecto al Senado - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSG9ibHhtTXVKMTUzQXBqNDd4UDNWRjlMRTVMZ1RhWVZtX3N4RzVTYTV1MjhNQjR2VjBzMzRMMV9RWUo0YVBvdlA5b3VSa2U1TTZXd1lYVVAzN0hFcVViM05vcHV0eDh3WmFVeTVETHAtV2RqVnV3UmZtOEk4aGN3SmFNY0p6M1FZYUVYaTZEbVkyZHhEUVE5NXhCVEt6NXQ3WUZMbE95c1ZMZE92WEppZg?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "RUF a un paso de ser ley: Cámara de Diputados despacha el proyecto al Senado&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T16:26:14+00:00"
+    },
+    {
+      "titulo": "“No voy a hablar por la derecha”: Ministra Ximena Rincón reacciona a la opción de una nueva candidatura presidencial de Bachelet. Fue también ministra de la expresidenta",
+      "link": "https://cambio21.cl/politica/no-voy-a-hablar-por-la-derecha-ministra-ximena-rincon-reacciona-a-la-opcion-de-una-nueva-candidatura-presidencial-de-bachelet-fue-tambien-ministra-de-la-expresidenta-6ac671196193992867643640",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Candidatos"
+      ],
+      "fecha": "2026-10-07T16:20:45+00:00"
+    },
     {
       "titulo": "Nueva moneda de $50 entra en circulación: mantiene diseño y es más liviana",
       "link": "https://ladiscusion.cl/nueva-moneda-de-50-entra-en-circulacion/",
@@ -12,6 +34,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T16:17:16+00:00"
+    },
+    {
+      "titulo": "Alvarado desdramatiza una eventual nueva candidatura presidencial de Bachelet: “No es nuestra preocupación central” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNmhVbUl0aU9USENNOVRVOGtYajNDQ2ZVekNpb3lsZnhfR3o5UTRpTUxQS2hhM3MzZXFIaEFmb1pTTG1hU3RnYjNYeVR6Yi0yQUVGeDZlUWJsTVZaMUNvTzhXdzBqcUo0VmJ5Y0ptLWdLcmFxTGZVMEFUTUQxb0habFNsNWxTWHhjalZtQlFGZUhIcnRBbUk2aDBOZkZiMDRTbFc2VnZkWWVQOTRUUk5zMXdwOHUzOURMSFZ5TGZIazhkLTZRYmdlQ0gzSHJDTkxKQnZXSkdOWDZZd01SajFIZEhYeFc1MklFd2JxcVdCRdIBkAJBVV95cUxPYXJ6WlZpU0lGdFNpMlU1cE5yZ29CUnNvQWFnaFV0aWxDX2Q3TFVQWWwtRHBsaktrZnc5eTlKVnlqa3NzcUpGRi1pUTdTSEFGYVc5WHdpd1JSekRZX213SWEtWXY5MGF5UWRELThOZGJuWWdnSGhmcTZST2RkOGwtT1h3ZjNwNjJXUGxjZUIteU1nRVRZWFFBVTFQRnBCbk5haHhyWk51eGZfeHZwVmV4RnF2NHBadkZid3lPWlVYSUZ1LTNaNGhlOFQ2NTB5NVYxakZYR0hlQkJLTFRwalF4TFdHMHZYZl8xWnR0S1NoNG5aakplTHF2RG5fQWNzSGdlTS1hcnFYUVRkekgxR2NHNQ?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alvarado desdramatiza una eventual nueva candidatura presidencial de Bachelet: “No es nuestra preocupación central”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Candidatos"
+      ],
+      "fecha": "2026-10-07T16:14:03+00:00"
     },
     {
       "titulo": "Regreso del “Cañonazo de las 12” sigue en pausa: permisos con Carabineros, Bomberos y Defensa entrampan el regreso de la tradición al cerro Santa Lucía",
@@ -399,6 +432,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T13:13:40+00:00"
+    },
+    {
+      "titulo": "Cortejo fúnebre llega a la Catedral de Los Ángeles: en breve arribará el presidente José Antonio Kast - La Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObDVCZnJGTXJ6WXlKQmtXamJGTXQ2TFZsczJSaTZZZFdyYktZTGUzUG9ETDZhLWxwY0VGckdKUmhpWkItWEp1YmY0YlF5YVRQOTVmUlp6MElnZTRtTC1QMUxxZXRwdjFnWFVBY0pPUWJwTWFHeXdOYW0xSC1NT19PNlU0V2dwTVI0SzhPV2p5c0F5WFEzTlhZNFN0azJrOFBQd2otc0xMQXVXM3pxeTJjNFFlMFJRM1RLRE1vT2N0ZGpfTENrYnp3M2hlV21mN3p3Wm4wLVJCVmNZdENYTXplaXktNzVYWjhMai1iVnMtSnjSAfgBQVVfeXFMT1dYSVVRdkpSWFdLWDJaM2hUMzQwLTdmcnc1bkFQWmxGZ1ZQT0pBTGwyMldmMG9hT1lSQnZZeERZZkFJaU04MjJ3QkZoWThxWlVJekxKajczblotOU02YWNleWVUSUhqMkgzcXJIVkwxRzJXay11b2NZdC1CZGRWSDNrb2RQb3hScWhMeV9QeXJBRkRGX2xsNC1GYWNvNEFFNW95VFBlM2F0dlZjcEJueG9kcHNSU0xiSUluVzBtUGpMYy1ZZ2RNSFRRb2lQNWhLMzRjblUxUzc4clFBQm9BdkZveGRrTUl0NVBHb3cxaGdVQktab0hiX1o?oc=5",
+      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
+      "region": "Biobío",
+      "resumen": "Cortejo fúnebre llega a la Catedral de Los Ángeles: en breve arribará el presidente José Antonio Kast&nbsp;&nbsp;La Tribuna",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T13:13:16+00:00"
     },
     {
       "titulo": "Frente Amplio pide salida de Gabriel Zaliasnik tras confirmarse que es imputado en Caso Audios - El Desconcierto",
@@ -1633,6 +1678,17 @@
     },
     {
       "titulo": "¿Lo sacará el gobierno del cargo diplómatico donde lo designó Kast?: Fiscalía confirma calidad de imputado de embajador en Israel Gabriel Zaliasnik por tráfico de influencias en el Poder Judicial",
+      "link": "https://cambio21.cl/tendencias/lo-sacara-el-gobierno-del-cargo-diplomatico-donde-lo-designo-kast-fiscalia-confirma-calidad-de-imputado-de-embajador-en-israel-gabriel-zaliasnik-por-trafico-de-influencias-en-el-poder-judicial-6ac525d0b4f8936f77302cd7",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-06T17:04:02+00:00"
+    },
+    {
+      "titulo": "¿Lo sacará el gobierno del cargo diplómatico donde lo designó Kast?: Fiscalía confirma calidad de imputado de embajador en Israel Gabriel Zaliasnik por tráfico de influencias en el Poder Judicial",
       "link": "https://cambio21.cl/pais/lo-sacara-el-gobierno-del-cargo-diplomatico-donde-lo-designo-kast-fiscalia-confirma-calidad-de-imputado-de-embajador-en-israel-gabriel-zaliasnik-por-trafico-de-influencias-en-el-poder-judicial-6ac525d0b4f8936f77302cd7",
       "fuente": "Cambio21",
       "region": "Nacional",
@@ -2072,6 +2128,18 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T13:24:51+00:00"
+    },
+    {
+      "titulo": "Kast tiene un deja vú cuando era parlamentario. Hace 9 años fue el único diputado -entre 102- que votó en contra de la Ley Cholito. Ahora recortó el 86% de su presupuesto. Gobernador Orrego lo critica",
+      "link": "https://cambio21.cl/tendencias/kast-tiene-un-deja-vu-cuando-era-parlamentario-hace-9-anos-fue-el-unico-diputado-entre-102-que-voto-en-contra-de-la-ley-cholito-ahora-recorto-el-86-de-su-presupuesto-gobernador-orrego-lo-critica-6ac4f27e877bcd0eb8166c94",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-06T13:20:12+00:00"
     },
     {
       "titulo": "Kast tiene un deja vú cuando era parlamentario. Hace 9 años fue el único diputado -entre 102- que votó en contra de la Ley Cholito. Ahora recortó el 86% de su presupuesto. Gobernador Orrego lo critica",
@@ -5571,74 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-03T19:45:31+00:00"
-    },
-    {
-      "titulo": "Frei contradice a Bachelet y Boric y defiende adhesión de Chile al Escudo de las Américas - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDBlc0JWMWZTZlhnWTRiTUh5eG9pTTdhZVY1SE0yTU4teXlvNnFnckZ4cTk1Yy1Ibm9ieHNHV3o3blBQUzlhdEdMMDBRWUltQ3dhamdmUHhxWldpeU1DalJ6U0QweHBNb2lSRkZmdDl4YlU2Z1NiSmxvM1pHc25aTXRiUk5QeFJCSXgtTVJxU2NXZEtRc2swOVpQWGtXM2ttVXJlZDF0RURXVHdCaWFsTjY4NzZKYWpOVkNxT0l0QU5HVXZpNDI4SWZVUQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Frei contradice a Bachelet y Boric y defiende adhesión de Chile al Escudo de las Américas&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-03T19:44:00+00:00"
-    },
-    {
-      "titulo": "A través de reforma constitucional: Bancada RN propone proyecto de ley de \"interpelación responsable\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjNqV2ZRUWtuQjVUQUh1R0dWd0FsbmNLVDJ0bWNuMTRmQlROdWxiM3paemREN09hOEM4VkdWTnZENi1IR19ZMklabW1XZE9tT29rZWVaTURUNTZKRFdTQUJBaVZlS3FDYU1NUnJZb3NMQXhkODRpanVrZklUZFpxVVdxbFdOZ3VLOUhreTg5Q1liaGttckNfOQ?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "A través de reforma constitucional: Bancada RN propone proyecto de ley de \"interpelación responsable\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-03T19:40:00+00:00"
-    },
-    {
-      "titulo": "Diputada Charpentier pide otorgar suma urgencia a proyecto de ley que regula la seguridad en instituciones de educación superior - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPX2I2bVRRc0x0V2YybWRSYkVkRk92U2wyekp3T3Q5TWNNZERLbjRqYjdKTmlPTVg3UHc2VTBYdG9BX2xBaFhLNzdscmFINGdZOG42NzhUTGJsZFJZMVNFMWVMWHBZUzM5UlZqT3JpU1pfc3FxZy13ZHBaeUoyUlFFRmRJVWF0dl94bHhycFFUWmo2b3djcVJ0OTdXbHc1Y01MelFUaFVHSk5qalEzemE3QzNiMGRxUFBkWTFMVnpTeTlkX0JXZTVEVFJ1RmxrN0VPNnhrS3J5ZTZfUk5obWVUODYwR0U1RWFURktxd1lXQ0dWVFEzVS04Q0dYSUdJdHBnNUNoUTUteHptZzh1WmtVYWxUdVZpMnM?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Charpentier pide otorgar suma urgencia a proyecto de ley que regula la seguridad en instituciones de educación superior&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-03T19:00:59+00:00"
-    },
-    {
-      "titulo": "Megarreforma: Delfino apuntó a seguir debate de distribución de recursos a municipios tras fallo del TC",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/megarreforma-delfino-apunto-a-seguir-debate-de-distribucion-de-recursos/2026-10-03/154224.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La alcaldesa de Quinta Normal, Karina Delfino, vicepresidente de la Asociación de chilena de Municipalidades (AChM), valoró el fallo del Tribunal Constitucional que dejó en condiciones de ser promulgada la megarreforma del Gobierno e instó a seguir discutiendo la distribución de recursos en las distintas comunas del país.\nEl Tribunal Constitucional rechazó en la víspera algunas disposiciones del p",
-      "categorias": [
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-03T18:42:24+00:00"
-    },
-    {
-      "titulo": "Evelyn Matthei revive disputa con Kast por recortes en Educación: “Sabía que esto iba a suceder” - elmostrador.cl",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR21Pd2FLREhjQ0tNTjA4WkRNSlNkU3pvaUlBVnlqR0hzMEluQ1hTcVNsNlVFeUptdVJ1WERRYk5MZERJRmhUQ0pfUExnejk3N1hCSHFRUk83QmhWellGNkFZLW11c0hWd0dNTWZQSzVsWkFWdXdaWWRmNFoyUHFuLVpYUk4xX2N6YzRFbncwX1RsU3ZoLUg2bUlSNFZCbWpmWm9KcVVvTzVvdWtwOWdRZGRfNjR3YlZhRFVBbEVIV3lUdWlrcDhHMXhhQjRzNEFwUUZlR0doczRRTDY4VDJr?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Evelyn Matthei revive disputa con Kast por recortes en Educación: “Sabía que esto iba a suceder”&nbsp;&nbsp;elmostrador.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-03T17:59:28+00:00"
-    },
-    {
-      "titulo": "Con 300 fieles en Las Condes: Presidente Kast participó de cónclave internacional con líderes políticos cristianos",
-      "link": "https://www.theclinic.cl/2026/10/03/con-300-fieles-en-las-condes-presidente-kast-participo-de-conclave-internacional-con-lideres-politicos-cristianos/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Con la participación del Presidente de la República, José Antonio Kast, culminó el encuentro internacional \"Gobernar con Fe\", iniciativa que reunió durante dos días en Santiago a autoridades, legisladores y referentes cristianos de siete países.\nThe post Con 300 fieles en Las Condes: Presidente Kast participó de cónclave internacional con líderes políticos cristianos appeared first on The Clinic.",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-03T17:47:29+00:00"
     }
   ]
 }
