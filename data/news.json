@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-07T12:31:46.719026+00:00",
+  "actualizado": "2026-10-07T12:46:29.042860+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Corfo lanza programa para potenciar la industria cecinera de la región",
+      "link": "https://ladiscusion.cl/corfo-lanza-programa-para-potenciar-la-industria-cecinera-de-la-region/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El vicepresidente ejecutivo de Corfo, José Ignacio Mujica, junto al gobernador regional de Ñuble, Óscar Crisóstomo, encabezó el lanzamiento del Programa Territorial Integrado (PTI) Embutidos Cárnicos de Ñuble, instrumento de Corfo financiado por el Comité de Desarrollo Productivo Regional. El programa busca poner a trabajar en conjunto a empresas e instituciones para fortalecer la cadena [&#8230;]",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-07T12:36:42+00:00"
+    },
     {
       "titulo": "Sigue la oleada de salidas en el Gobierno de Kast: ya son 53 autoridades fuera y 43 son seremis",
       "link": "https://www.elciudadano.com/politica/sigue-la-oleada-de-salidas-en-el-gobierno-de-kast-ya-son-53-autoridades-fuera-y-43-son-seremis/10/07/",
@@ -5627,17 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-03T07:30:00+00:00"
-    },
-    {
-      "titulo": "Balladares cuestiona declaración Boric-Bachelet: 'Inédita, grave, creo que no corresponde' - Emol TV",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa2tUOTI4Y1FIUjRmYnJUSmJLQzYxTTNhbUFfRjRJN00yYjlSOTJ3UGZiMFhNM2FyVy16dEYtX2NuUXFIdS1md0dVVjNWcVNjZ25VSnVVeUppRUowcHVFazRLQ3RVZ0t3SzQ5cFZPcE85Z1pEbDBNZHNfOUowRllnbGR0cjhCeHdhMXBFSkRuWDJ2M3dGbjVodjdjM0tldGUzVFphYjhveUZuaElySFI0T0h3MkxBaGpKajhF?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Balladares cuestiona declaración Boric-Bachelet: 'Inédita, grave, creo que no corresponde'&nbsp;&nbsp;Emol TV",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-03T07:00:00+00:00"
     }
   ]
 }
