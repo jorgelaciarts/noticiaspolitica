@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-08T03:31:43.625625+00:00",
+  "actualizado": "2026-10-08T03:46:40.806837+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta \"amiga\" del gobierno Cadem muestra absoluto desfonde de Kast: Rechazo o desaprobación alcanza 65%, la más alta de su mandato",
+      "link": "https://cambio21.cl/politica/encuesta-amiga-del-gobierno-cadem-muestra-absoluto-desfonde-de-kast-rechazo-o-desaprobacion-alcanza-65-la-mas-alta-de-su-mandato-6ac70e66e7db6f704778b613",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-08T03:38:13+00:00"
+    },
     {
       "titulo": "Decomisan 21 toneladas de comercio informal en Temuco entre críticas de organizaciones mapuche",
       "link": "https://www.cooperativa.cl/noticias/pais/policial/decomisan-21-toneladas-de-comercio-informal-en-temuco-entre-criticas-de/2026-10-07/232613.html",
@@ -114,6 +125,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-08T00:33:39+00:00"
+    },
+    {
+      "titulo": "Cadem: Desaprobación de Kast sube dos puntos y llega al 65%, el nivel más alto desde el inicio de su mandato - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTC1zSl9JWFd0S1A5MkFJbHl3WU0wQ3dKaHpGSzlrNUNTRmthdnJkYVEzelZ2M1YyYUFEem8yYXNNdmJYTUJ6NC1LUnpud1BNaE15NjRXa09WZUxJbEFsWm93N042UkpsUDUyYzA0eW5RSWh1WDZERnpIenNpM2ZVcVgzMnQwdGtnTW1TUzBlaUxfdVdFNFhqaUNHSk5nVC1hTVRUNGtkQnlqYVBwcU1Jd0UtXzNuTE1RVTBDLUxUZDl3UVJmSDF4blhoYUk3MTZJM2c?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cadem: Desaprobación de Kast sube dos puntos y llega al 65%, el nivel más alto desde el inicio de su mandato&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-08T00:31:01+00:00"
     },
     {
       "titulo": "ENADE 2026 reunirá a José Antonio Kast y expertos para debatir sobre inversión, empleo e IA - Radio Agricultura",
@@ -5630,29 +5652,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T21:08:26+00:00"
-    },
-    {
-      "titulo": "Boric emplaza a la izquierda, se reconoce como élite y cuestiona el Escudo de las Américas: los ejes de su intervención en Muda - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZWtrZkVlSFFBRXotc2NBXzg1cGNnMGtWUG9ZT1BJNzg4UzRkMVU1UlZ2M0hiMjVjaldZd09VbUZ5WGRhdDc5RXBoOHNkT2NTWHFBa1BpLWQzX0ZGQWs4LXBzN2dKQk9YUmxOdGEyQ09YWFBxUnN5VV9SUTgybUtCQTVoSDBfdGhCVmtlcFpaWnZ5RV81VTd0NUtQN1JOOElaTldWYmN0a1FrcElROFd6NS1CZnFhSHpuN095V3JiVExldm1nbDVlRVNKVy1QM3l5Mk44TjVNQTJEb3M4cFRNRjE0R0lNdHdNVFRfYVFpdERUdw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric emplaza a la izquierda, se reconoce como élite y cuestiona el Escudo de las Américas: los ejes de su intervención en Muda&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T21:02:00+00:00"
-    },
-    {
-      "titulo": "Encuesta Criteria: Desaprobación a la gestión del Presidente Kast llegó al 60%",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/encuesta-criteria-desaprobacion-a-la-gestion-del-presidente-kast-llego/2026-10-04/180011.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La desaprobación a la gestión del Presidente José Antonio Kast escaló al 60%, registrando un incremento de dos puntos porcentuales en comparación con la medición anterior, mientras que su respaldo ciudadano descendió un punto para ubicarse en 30%, según arrojó la más reciente edición de la encuesta Criteria.\nEl estudio constató un deterioro en el balance que la ciudadanía hace sobre la marcha mate",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-04T21:00:11+00:00"
     }
   ]
 }
