@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-08T07:01:44.415278+00:00",
+  "actualizado": "2026-10-08T07:16:37.354238+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El Gobierno de Chile retiró del Congreso su proyecto de reforma de seguridad tras recibir escaso respaldo político - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNN3pGTi15ZlZxUFFyRlBYUGNCQ25EX0xsS1lBYlFsWG5lVUlweWxBdENpdWlUU1VJV1E0TTU2N3l0SFdaZjV4Vkg0bXlTVUg5WUxwNFRRbFFoWGNiUnFIOW00WXJ4QUZxNUxFNndlX1hfWEtkSXJsZXFVRjZmWHFqbFk3Rno2QmgxN19oQkIxSTRxNldBZm9HZUVYcU5JQlJuQTUwem5TY3QySmNseDFfVk1VSEdPNmMybXNGRUVsNm5jWWhBU1FtYTJuR3hHeTVESUNmajVHUlRpVFFuMXZVb25ZWUZuamlGZFR5M2ZUU0pkLVhBei1XM3lIVktpV2ZZRWhJ0gGeAkFVX3lxTE8yZUNiRGF5X1psV1I3VGFMd0VkeVduTjdMUFk0cUFQN3VjYzdUVF9nMVptZ0sxZ09ZRWNtUFIxWURfV0cwWFJ3MDhpYWxOZmFMd01MZndOYURBZ0JiV2RKdVNkNmN2YnBCeW5YNnFlSmdvQXc5eFo3OUFuN1Biem50eU1iWXYyQjM0Y2NKMUt0MVZjamhYLXJLbmJYSE5rTWxwaUtEWlNVT1RYWW5hNHBEMFZEWEJTR0N0LVNhU21GZDF4a1RSaWhUOUdIYUZqNy1heHMyakU1QzJpTzJRY3NqVGtiaHVzakowdGlheENWdm0xX2h3RkJqbmdKb2RJMEJGMjhJam1QeHV6bEo1d3oyTUZMaElyMVpQMVhVMHc?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El Gobierno de Chile retiró del Congreso su proyecto de reforma de seguridad tras recibir escaso respaldo político&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-08T07:02:17+00:00"
+    },
     {
       "titulo": "Encuesta \"amiga\" del gobierno Cadem muestra absoluto desfonde de Kast: Rechazo o desaprobación alcanza 65%, la más alta de su mandato",
       "link": "https://cambio21.cl/politica/encuesta-amiga-del-gobierno-cadem-muestra-absoluto-desfonde-de-kast-rechazo-o-desaprobacion-alcanza-65-la-mas-alta-de-su-mandato-6ac70e66e7db6f704778b613",
@@ -1074,6 +1085,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T16:00:09+00:00"
+    },
+    {
+      "titulo": "Golpe a recortes del gobierno de Kast: Servel alza la voz por sus efectos y Subcomisión Mixta rechaza rebaja - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOREdxdm45eVV0TkxJMlliV0pXbEFrazFxMmhQc0ZSTk4ya1hBS1V4cllnNXRtREdsd211eG9LUERMeDBYM2lLN1RZOWlUVEp6OFdhQ3ZGd3M4dGVVVHdXX0RMYXU1ek1VcVNXWE1wLVR3OTBoRExuWFVubXhMYjJBUnF1UTkwM2hscEFadDgtVU85Z3U2djBKb1RMODM1a2h1TGNoc01TR2d4eUNLUzJPb3FaNVc3NHdfYW1qdG9hNGVmc2p2eDlZTEU3WjcxcklyRHAtZUpWaHdDNEJv?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Golpe a recortes del gobierno de Kast: Servel alza la voz por sus efectos y Subcomisión Mixta rechaza rebaja&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente",
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-07T16:00:00+00:00"
     },
     {
       "titulo": "“No voy a hablar por la derecha”: Ximena Rincón reacciona a la opción de una nueva candidatura presidencial de Bachelet - ADN Radio",
@@ -5630,28 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T23:01:00+00:00"
-    },
-    {
-      "titulo": "Cadem: Presidente Kast registra su mayor cifra de desaprobación, mientras un 34% sostiene que la economía crecerá menos en 2027 - meganoticias.cl",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPT0ZPTm9ueTZ1VE5WYTdMMTg3SGtMZ3hVV2NteGFsWjBIc3h6aTZ3NXkzVjBwM2VFUEVMTk1mWU9EdWhveW1qM2g4NVRrM1ctLUJ3QzVjY1ZYbjJjaF9Zd1dLZzNtdkxZMFFadmxTazhjaDNmMDhjSW5PdzIteWt6RzJ6QWxzd1NPVmtUTUNLdjhveTJpcFJodzdfN0ZsSnFMdUphSlViV0VRcVdaTjJReG1YX01fcW50TnpJLXptLWVDTkwwS3J0VndrRGI1TTdHOFF0SEVrb3RfQ0FPQTliQ2FUQnprQdIB6wFBVV95cUxQX3U4U0x5V3VRTWVvQkFBaWU1Zk96dWFOY05nQXlKaWZLN1d3RG94NExQNThTeU1tU0VsUU5YX0hhaHg5TnN0anhNYjhQclFxRGNOMVR6Z3Y5NW0tcEROWDhFWmI1UzRYMUlaUElJdFAtaTBpY3pGWWdzQXp3UXFYRU5JaDhTN0YxMUJZYWdlWi1YckxSNE1pQ3NvcFUzSmRWa3ZBLUpkU2xkQ0tEMjZrNEtiSlg5bUkwbV8yV00yeGZPdjlLalhPMlMwSzAxaFFvVHlXNV9QbXJqcmpid2ZfOXYzbDZOekhLd2Zv?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cadem: Presidente Kast registra su mayor cifra de desaprobación, mientras un 34% sostiene que la economía crecerá menos en 2027&nbsp;&nbsp;meganoticias.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T23:00:00+00:00"
-    },
-    {
-      "titulo": "RN exige disculpas al PNL por dichos contra Piñera y amenaza con romper coordinación parlamentaria - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNFlKN2p6UGdONjYzVjBiSVBGeEdydm9UcjNjX01IdjQwSDIxaWc1S3lfQUdRQV9KYkhGdWFNX1o3Q2tLQ2QxanBJSHlpbE04N0RfRGdZQURPZUZGakM2QkJwbjI4UTh3cG9URXBnMWxaZTlFeExGM1IyR2ZVZDVQSHA2REVYU0ZyeEFNblhhcGl5ZGxPMGV5RWJOLTY5eHZzTHplTVVFNW9nOVZ1a0R6S2l3emo4aEo1d1FLaXV6cmJFaTBUWnBGM3Bja0lJMVpmWDBvNFF4ZkZjUUkyVEpkaDNad0NJck5IeUpfb1J1U2dtV29BT0NTTzdB?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "RN exige disculpas al PNL por dichos contra Piñera y amenaza con romper coordinación parlamentaria&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-04T22:54:39+00:00"
     }
   ]
 }
