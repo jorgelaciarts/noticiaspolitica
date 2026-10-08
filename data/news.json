@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T02:16:35.132551+00:00",
+  "actualizado": "2026-10-08T02:31:31.526101+00:00",
   "total": 500,
   "items": [
     {
@@ -138,6 +138,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T23:58:15+00:00"
+    },
+    {
+      "titulo": "Canciller afirmó ante el Senado que el Escudo de las Américas es una declaración política",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/canciller-afirmo-ante-el-senado-que-el-escudo-de-las-americas-es-una/2026-10-07/205639.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El canciller Francisco Pérez Mackenna reivindicó este miércoles ante el Senado la adhesión del país al Escudo de las Américas, promovido por el presidente estadounidense, Donald Trump, alegando que se trata de \"una declaración política y no un tratado\".\n\"Los gobiernos declaran su 'intención', en ningún pasaje se contraen obligaciones jurídicas. El Escudo es una declaración política y no un tratado",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T23:56:39+00:00"
     },
     {
       "titulo": "Presentan proyecto de «Ley Morocho» para incorporar a los animales en los planes de emergencia y evacuación",
@@ -5641,17 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T21:00:00+00:00"
-    },
-    {
-      "titulo": "Boric arremete contra Escudo de las Américas: \"Va en contra de los principios esenciales que ha concebido Chile\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlhLQXVNY1pUeFNMX0REblItUlBBS3lyMGtKLWsxakJOcGNPSEItN0hiNUdpTDYzYW55X3B3VWVBX3FZMnVHYWIxVFNLTmhoZDhjVTFqWmlxT2x6SzhKUEVLNFN4VnZyNFJVZ1NoRzM4SHVBU2s5X1pEaUU2TEx0NDRiQ0xIT25uVGZjN3JJdVRJZnZNdVN5U1Z3?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric arremete contra Escudo de las Américas: \"Va en contra de los principios esenciales que ha concebido Chile\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T20:55:00+00:00"
     }
   ]
 }
