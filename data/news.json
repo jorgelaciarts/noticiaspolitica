@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-08T12:03:41.542300+00:00",
+  "actualizado": "2026-10-08T12:16:37.237011+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Huele a peligro: La edición N° 271 de El Ciudadano ya está en kioscos",
+      "link": "https://www.elciudadano.com/medios/huele-a-peligro-la-edicion-n-271-de-el-ciudadano-ya-esta-en-kioscos/10/08/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa edición N° 271 de El Ciudadano profundiza en las directrices del programa laboral oficialista, el desmantelamiento del Estado y la preocupante situación socioeconómica nacional que se registra durante los primeros seis meses de la administración de José Antonio Kast.\nLa entrada Huele a peligro: La edición N° 271 de El Ciudadano ya está en kioscos se publicó primero en El Ciudadano.",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-08T12:11:48+00:00"
+    },
     {
       "titulo": "Presupuesto de Chillán Viejo crece en 15% con énfasis social y seguridad",
       "link": "https://ladiscusion.cl/presupuesto-de-chillan-viejo-crece-en-15-con-enfasis-apoyo-social-y-seguridad/",
@@ -13,6 +25,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-08T12:02:09+00:00"
+    },
+    {
+      "titulo": "Bianchi emplazó a EE.UU. por Estrecho de Magallanes: \"Chile no requiere de un padrino\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/bianchi-emplazo-a-ee-uu-por-estrecho-de-magallanes-chile-no-requiere/2026-10-08/085540.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador por la Región de Magallanes Karim Bianchi rechazó este jueves los planteamientos emitidos por la diplomacia de Estados Unidos respecto a la colaboración en el Estrecho de Magallanes, advirtiendo que el país no tolerará intromisiones foráneas en materias de soberanía territorial.\nLa polémica se generó luego que el embajador de Estados Unidos en Chile, Brandon Judd, condicionara el respal",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-10-08T11:55:40+00:00"
     },
     {
       "titulo": "“Yo creo que sí”: Michelle Bachelet abre la puerta a una tercera candidatura presidencial",
@@ -5633,28 +5657,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-05T01:35:41+00:00"
-    },
-    {
-      "titulo": "Lula y Bolsonaro se medirán en segunda vuelta en Brasil: el ultraderechista aventaja por dos puntos al candidato de la izquierda",
-      "link": "https://www.elciudadano.com/actualidad/lula-y-bolsonaro-se-mediran-en-segunda-vuelta-en-brasil-el-ultraderechista-aventaja-por-dos-puntos-al-candidato-de-la-izquierda/10/04/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nFlávio Bolsonaro versus Lula da Silva La primera vuelta de las elecciones presidenciales de Brasil cerró este domingo con una jornada pacífica, según informaon las agencias y una participación masiva: más de 158 millones de electores estaban convocados a las urnas. Los colegios abrieron a las 8:00 y cerraron a las 17:00 hora de Brasilia, [&#8230;]\nLa entrada Lula y Bolsonaro se medirá",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-05T01:29:35+00:00"
-    },
-    {
-      "titulo": "Lula y Bolsonaro se medirán en segunda vuelta en Brasil: el ultraderechista aventaja por dos puntos al candidato de izquierda",
-      "link": "https://www.elciudadano.com/actualidad/lula-y-bolsonaro-se-mediran-en-segunda-vuelta-en-brasil-el-ultraderechista-aventaja-por-dos-puntos-al-candidato-de-izquierda/10/04/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nFlávio Bolsonaro versus Lula da Silva La primera vuelta de las elecciones presidenciales de Brasil cerró este domingo con una jornada pacífica, según informaon las agencias y una participación masiva: más de 158 millones de electores estaban convocados a las urnas. Los colegios abrieron a las 8:00 y cerraron a las 17:00 hora de Brasilia, [&#8230;]\nLa entrada Lula y Bolsonaro se medirá",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-05T01:29:35+00:00"
     }
   ]
 }
