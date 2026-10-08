@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-08T22:01:43.222418+00:00",
+  "actualizado": "2026-10-08T22:16:30.578501+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast anuncia despliegue en Las Condes por el aluvión",
+      "link": "https://www.lanacion.cl/presidente-kast-anuncia-despliegue-en-las-condes-por-el-aluvion/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast anunció despliegue de autoridades en terreno tras el aluvión que afecten estos momentos a Las Condes. El Mandatario señaló a través de su cuenta de X.&#8221;Estamos enfrentando una emergencia de activación muy rápida en Las Condes con grave afectación a vehículos y viviendas en algunas calles producto de un aluvión [&#8230;]\nThe post Presidente Kast anuncia desplieg",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-08T22:06:01+00:00"
+    },
+    {
+      "titulo": "Por aluvión en Las Condes, Gobierno posterga promulgación de la Ley de Reconstrucción",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/por-aluvion-en-las-condes-gobierno-posterga-promulgacion-de-la-ley-de/2026-10-08/190507.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno informó esta tarde que, \"producto de la grave emergencia\" del aluvión que afectó a la comuna Las Condes, el Presidente José Kast decidió \"no realizar la (...) promulgación de la Ley de Reconstrucción, que estaba agendada a primera hora de mañana\" viernes.\nPoco más temprano, el Mandatario se refirió, a través de Twitter, al sorpresivo evento meteorológico.\n\nEstamos enfrentando una emerg",
+      "categorias": [
+        "Presidente",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-08T22:05:07+00:00"
+    },
+    {
+      "titulo": "“Sabemos de personas que fueron impactadas”: alcaldesa entrega nuevo balance por aluvión en Las Condes - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM1dhNUlWSmVLdkpkaHhzTVJlSGtFc21PVngtb0xxOHQtU2tDMkdJNm9LSjdGVklLeHlSYnUwa1dFUGFNY0R1bURMQUlHTXEyZVhrb2gxOUlzNDFaWmdOTG5tVmhJR0p5UTRicWJ3TWhoeG5LMGhMSGdxYUd1Q0k5bHd3UFIwaGFUTmtsNWxTUTFHU3FqLVdRRVM0algxLW5hblc0UDdqTjljODRPM3c2SlkyZjFyWjdxSGV3TzRMLTlEeHVlR1FjeEM0al9saVliaWgtLUFPNmFCZkNRLXFfb0xGUHhoS042eXlqQjN4MS0?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Sabemos de personas que fueron impactadas”: alcaldesa entrega nuevo balance por aluvión en Las Condes&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-08T22:04:14+00:00"
+    },
     {
       "titulo": "Subsecretario Pavez apunta a desborde de Quebrada Honda como origen del aluvión en Las Condes",
       "link": "https://www.lanacion.cl/subsecretario-pavez-apunta-a-desborde-de-quebrada-honda-como-origen-del-aluvion-en-las-condes/",
@@ -70,6 +106,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T21:29:48+00:00"
+    },
+    {
+      "titulo": "“Por favor no salgan de sus casas”: alcaldesa de Las Condes reporta viviendas inundadas tras impactante aluvión - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUjZyRVNiOGhFREZRV3E1U1ZvdlgzS2x5MUZXY29lNUZPRjNPSFJ4ck52X01UeEpVQmJBS0dlQWJUMXRlWC1vLTNmUkRJSTE3VnpfZTFTZHRxZE9YSjFLOXpIUW9sNzhXN01IcEw3aUU1OHd3TFJZMVJ6TmM5NUhXOG5ackY4Z0FQazBSTFYtd0tUYlp1U0lPZHhTUEc1X1lIQXYxZUdHOWJaMDJoWFEyZWVTelpZcFk2cE9yZkZvZk8tQXhyNVlzQUtBeGZSY0VfaWdSZEhNb2hEMFc5?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Por favor no salgan de sus casas”: alcaldesa de Las Condes reporta viviendas inundadas tras impactante aluvión&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-08T21:21:56+00:00"
     },
     {
       "titulo": "Alcaldesa de Las Condes pide no salir de las casas y confirma rescates por aluvión - Radio Agricultura",
@@ -219,6 +266,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-08T19:45:26+00:00"
+    },
+    {
+      "titulo": "Presidenta de Servel participó en conversatorio sobre violencia digital contra mujeres en cargos de representación - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNlFZS2tlUVM2QkhjaWI2RU8zMUx6ajJMYjdIX2oxTGFaTENIOE5WNWRQcXh4N2Q3QWt1dUFhSktVR0l0YTEyaXVFbkJUNGNwdE9hSjF5QWI1Z0gxcWNySkNDYTM5ekx1Y0FyNHlvZ1Y5RlVfaHJPeEloUFZiaUs0aE82OXpRN29nYmRiRzYyT0ptNkxWY3hJYTdIV0NpdTF5Vk41QUtWVTFURjRoUlFHSjRKZmJ2NTBqbEhmY1NPMTZPZHl4ZDZhX1E3SGc4RmwzSjZKNEJFOGlzUWR5ck02NFp3dVJOX3hC?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenta de Servel participó en conversatorio sobre violencia digital contra mujeres en cargos de representación&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-08T19:43:16+00:00"
     },
     {
       "titulo": "Elecciones de Brasil, Perú y Paraguay contaron con observadores de Servel - Servicio Electoral de Chile",
@@ -5591,61 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-05T20:52:16+00:00"
-    },
-    {
-      "titulo": "Polémica por “Yo elijo mi PC”: el día que el Presidente Kast prometió “un computador con internet para cada niño” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjJRWHhBMTA4aDZBQmdmb3g2SlBXM3BxU3A3LVJsYzNpcXpwNjFHbnBuUGZNUnZmSlBJSWZocFFtS3FqS29fTlhrbm5uX3N1cXpPNExLUGxDTWZkekdHSC0wUzd4UGhzU0lOcWlyTFhTOFgxaFhOR1owQzZOQ3lOanh2elBWR3NpMWFjS2sxajh1dTFzSHI2blN2UnZDckg4MVVidHo2eDQ4NGJDVlJiU3g2b3p1THpHS0hucmZpbnhnaVhZa29FZDlPYjJEVzJDbWJtSURwN1pOX3Jw0gHwAUFVX3lxTE1pNnFCdzdhNDJ0Yk5mTVZ2TFZUbmZabTlLX2dNdllsV3Uwd0xoWnZncVJTMVVHcEdURnBZd2xDTEdhMFBndzFFTmZXTzNLUy1Id0NnNy1FR3JLUXJ4UEhKRkdTVDFWWG1ORk5lUXBlZWZsaWltbnJYVWZMWlQ1bTRNRVA2ZmthODhkT2JXMUtkNE9xR3lPN3VUMk1KSGlucUpiWE92QnVNWmxuOE81N1pLQmtNeFF2ZVVLdWFwLU9sYkdVbWxFYWcxS3h3bVRHOC1fLWM1N01vb0FjT1pqNVVERmdTSTVJVkYyXzJmYUVncA?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Polémica por “Yo elijo mi PC”: el día que el Presidente Kast prometió “un computador con internet para cada niño”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-05T20:45:59+00:00"
-    },
-    {
-      "titulo": "Servel Ñuble acercó su labor a estudiantes de Chillán - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0hiczVNNTBkSXJ4aUhKc1RHWF9pRzhxV1BzMjB0c3dJM3FZMGgwZDVpREtzM05XMHUzUEYxb2pGc0FHek1xZUYtdS14aXNuSXNOWjBWbGo5cDJYdVlXTU1Dek1XeGU1VlpqU19nSzcxQzVvVVpRUG5EUjQtWEpOTW9SeGo2R1NoQ2o5WXZfYVdEd0xlTHlr?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel Ñuble acercó su labor a estudiantes de Chillán&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-05T20:43:12+00:00"
-    },
-    {
-      "titulo": "Chillán proyecta invertir $300 millones en computadores para alumnos tras fin de programa “Yo Elijo Mi PC”",
-      "link": "https://ladiscusion.cl/chillan-proyecta-invertir-300-millones-en-computadores-para-alumnos-tras-fin-de-programa-yo-elijo-mi-pc/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La Municipalidad de Chillán proyecta destinar cerca de $300 millones de recursos propios para comprar computadores a estudiantes de 7° básico de establecimientos públicos de la comuna durante 2027, ante la postergación del programa “Yo Elijo mi PC”. El alcalde de Chillán, Camilo Benavente, informó que la iniciativa busca mantener el acceso a estos equipos [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-05T20:42:28+00:00"
-    },
-    {
-      "titulo": "El despliegue de Camila Vallejo en Brasil en medio de la decisiva elección entre Lula y Bolsonaro y su reflexión por las derrotas de la izquierda",
-      "link": "https://www.theclinic.cl/2026/10/05/el-despliegue-de-camila-vallejo-en-brasil-en-medio-de-la-decisiva-eleccion-entre-lula-y-bolsonaro-y-su-reflexion-por-las-derrotas-de-la-izquierda/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La exministra viajó a Sao Paulo junto al sociólogo PC Alexis Cortés, invitada por partidos de la izquierda brasileña para acompañar la candidatura de Lula da Silva. Además de seguir la elección, Vallejo sostuvo reuniones con colectividades y movimientos sociales y participó en encuentros con organizaciones de trabajadores. Tras regresar a Chile, viajará a México invitada por el gobierno de Claudia",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-05T20:38:23+00:00"
-    },
-    {
-      "titulo": "“Estamos a tres meses de no poder continuar”: El complejo escenario de libreros de Barrio Lastarria ante nueva ordenanza municipal",
-      "link": "https://www.theclinic.cl/2026/10/05/estamos-a-tres-meses-de-no-poder-continuar-el-complejo-escenario-de-libreros-de-barrio-lastarria-ante-nueva-ordenanza-municipal/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "A fines del año 2025, la Municipalidad de Santiago actualizó la Ordenanza N° 127 encargada de regular el comercio en la vía pública y estableció entre algunos requisitos, que todos aquellos que quieran acceder al permiso de comerciante deberán pertenecer al 40% de los hogares con menos recursos. La noticia provocó temor entre los comerciantes, quienes alertan sobre las futuras consecuencias que tr",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-05T20:12:12+00:00"
     }
   ]
 }
