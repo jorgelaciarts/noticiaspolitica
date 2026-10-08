@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T07:31:43.163998+00:00",
+  "actualizado": "2026-10-08T07:46:33.930567+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T07:02:17+00:00"
+    },
+    {
+      "titulo": "Primarias Presidenciales 2021 - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2NpeFI4TUJHWmdkdmlTOEYtU0pIVjBIS2RVNWVrc3EyN2d6aUYzR1N1SEZueURoRWd4NjhSd01iVmRuRms2X3hpOEVGa2Z6a2FjclMxM2U4VkRoZWM1Nm8xZDRfN3RsaVZBdFdhby1PWWlDZ01QZ2hIZ3J3c0RLbTNMTlV0anB3RTNTQld1TjhCNWVVMEhINkcta2ZOTTA?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Primarias Presidenciales 2021&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-08T04:28:51+00:00"
     },
     {
       "titulo": "Encuesta \"amiga\" del gobierno Cadem muestra absoluto desfonde de Kast: Rechazo o desaprobación alcanza 65%, la más alta de su mandato",
@@ -837,6 +849,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T17:21:48+00:00"
+    },
+    {
+      "titulo": "Cámara de Diputados aprueba proyecto sobre Reglas de Uso de la Fuerza y queda a un paso de ser ley - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYThqMjFPandaUElHaTJfc0FLVG5vUjVsQl91UzRYeC1YaEJ0c2VOZzBYTGZBRFpKRDlJNUdGWURWcXhHR1pRc2ZIUnk0bThLVGdVS0JLbnI2dHFkc0ZHUmdTS1NWdWZzX2Jpc0IxZnlNU0NQYkVrS3ZTQWdJU0tLMWV5SUVRWDV1U0tPZ1lEV1VuZGxBZDAtQVI5Y1hiZmNfM1NwbnppUm53MDBfUy1UOUV3cEtqLXFTeW1TdW5SODRDU0dJbVJHQVVmbTRnaWvSAeMBQVVfeXFMTnNQRGtxRzFLd1hyVUY0LVc5WTBJZDJiSVk0QVpTY1c1VWxuaFc4SFR2YUN1d2JDME0yVW5GemZWb3FmVmtWTHhDdjJ0WFlzM3RPWjlaaUlXZnZKX2xYMU00SHIwbktSdG5nMEFxQ2hfLTZ2ckxFbDY0d0pKT1RXLUd3a01BM2FNYmYtSWNMaDltcWVrS2c4Nkk3VGhFc2FvMkFYYzYxUUxTa3B1dmcyWlhsSjNUTnJoR3R0SmRNakhPSXhFdlgwV0M5T0dSZVp1VXZ6a2dJYV9IWFd5LXBKV3dsdEk?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cámara de Diputados aprueba proyecto sobre Reglas de Uso de la Fuerza y queda a un paso de ser ley&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-07T17:19:54+00:00"
     },
     {
       "titulo": "Diputado Mulet y Presupuesto 2027: “Las afirmaciones del ministro Quiroz no son fiables” - El Mostrador",
@@ -5631,29 +5654,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T23:38:14+00:00"
-    },
-    {
-      "titulo": "Flávio Bolsonaro lidera el escrutinio, pero Lula acorta distancia y habría segunda vuelta",
-      "link": "https://laprensaaustral.cl/2026/10/04/flavio-bolsonaro-lidera-el-escrutinio-pero-lula-acorta-distancia-y-habria-segunda-vuelta/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El senador Flávio Bolsonaro lidera el escrutinio de las elecciones presidenciales de este domingo en Brasil, aunque sin alcanzar la mayoría absoluta, según los resultados con poco más del 84% de los votos contabilizados. El hijo del expresidente Jair Bolsonaro obtiene el 48,47% de los sufragios, mientras que el mandatario Luiz Inácio Lula da Silva...",
-      "categorias": [
-        "Senadores",
-        "Elecciones"
-      ],
-      "fecha": "2026-10-04T23:19:44+00:00"
-    },
-    {
-      "titulo": "Boric cuestiona ingreso de Chile a Escudo de las Américas: \"Hay consensos que se han roto\" - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSUUxLVV5WlRveDhOWVZXX045WlRWc1pCUVp2Q3ZJaG96XzdpU09NVUVGNjE4UEYtMktKRWoyRXg0NFNETVZXcG9fUVpqMzNuZUlVY09tQXg0a1FocnVEYVkzM01oNVB6bmltOUJyS21ZMjNhOVRuc3pBTmRvSGtEaHg3dzJoNy1vRlNNZFI5anJzVVY3TTQ3UUVTam9xRkVGWS1YTnNGS0hiaVA2Qk1QcHVaMGlrYnF3a0VzSlluanlfM0hpYUs0SzE4YnBSQmdVd2c1aXRqb9IB8gFBVV95cUxPLU9RQm0zU0ZsN2o1NFl0blV0b0RZdnNBR0EzdjhqZ2RsSlc0SWxiTkVvM2hUcExnRXdiQkd2Z2RCODJFZUV0RUoyT0VSU01Fa091SkhzQlpUZXlvS0ZpdUluWkFlR3c4SXpja0dsbnlLaVA1bUVJNTNSSVVUbWN4dGhBQ25LeEYxandYc0xYcjFiTWxtM202SHE5NDhLS1JvTmJlSnpYbFNOT29EakE3enJvUmd0ekczbGphNHNVNllhNVdIZ204eWpRR2VBamJvUHhqa0hrazA3YVNJTGo4NEpFTGZoaEIycEtwWUxCN19Xdw?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric cuestiona ingreso de Chile a Escudo de las Américas: \"Hay consensos que se han roto\"&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T23:15:00+00:00"
     }
   ]
 }
