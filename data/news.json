@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-08T16:01:50.423054+00:00",
+  "actualizado": "2026-10-08T16:16:41.142318+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La revancha de Fidel Espinoza: acercamiento a nueva reforma de seguridad del oficialismo desata tensiones en el PS",
+      "link": "https://www.theclinic.cl/2026/10/08/la-revancha-de-fidel-espinoza-acercamiento-a-nueva-reforma-de-seguridad-del-oficialismo-desata-tensiones-en-el-ps/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Luego de que Pedro Araya (PPD) e Iván Flores (DC) respaldaran la reforma constitucional de seguridad impulsada por senadores oficialistas, Fidel Espinoza (PS) abrió la puerta a aprobar la iniciativa, siempre que se modifiquen aspectos de la propuesta original del Gobierno. Su disposición se conoce en medio de las tensiones que mantiene con el Partido Socialista tras la suspensión de su militancia.",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-08T16:09:15+00:00"
+    },
     {
       "titulo": "(VIDEO) Mirosevic desafía al embajador de EE.UU.: Defensa de la soberanía chilena",
       "link": "https://www.elciudadano.com/reels/video-mirosevic-desafia-al-embajador-de-ee-uu-defensa-de-la-soberania-chilena/10/08/",
@@ -442,6 +454,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T10:51:58+00:00"
+    },
+    {
+      "titulo": "Noticias – Página 25 - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xcEljLVdaZFl2Rm1IZkZ0aDN0N1Nmemx4VTI3MnZKSXNGZWZvNWl2OXBuaWdjZDc1N1RmYnNpbXZibk9pTFE1LWh3?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Noticias – Página 25&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-08T07:25:20+00:00"
     },
     {
       "titulo": "El Gobierno de Chile retiró del Congreso su proyecto de reforma de seguridad tras recibir escaso respaldo político - Infobae",
@@ -5637,28 +5660,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-05T13:20:00+00:00"
-    },
-    {
-      "titulo": "Proyecto busca que familias de loteos irregulares obtengan títulos de propiedad",
-      "link": "https://ladiscusion.cl/proyecto-busca-que-familias-de-loteos-irregulares-obtengan-titulos-de-propiedad/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El diputado de Ñuble, Francisco Crisóstomo, junto a los parlamentarios Emilia Nuyado, Carolina Cucumides, Javier Muñoz, Juan Beltrán y Cristián Menchaca, ingresó un proyecto de ley destinado a dar una solución concreta a miles de familias que habitan en asentamientos o loteos irregulares sin contar con la propiedad legal de sus sitios. Actualmente, afirma el [&#8230;]",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-05T13:00:34+00:00"
-    },
-    {
-      "titulo": "Senador Squella defiende el ajuste fiscal en Ley de Presupuesto y asegura: “Hay que gastar lo que se tiene” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMTZFSk9RQmptZlA3blBPb0pkQkNXMERFa0tCMHFVdWVsd0drbjhNMmRPcFhVclUtcF9oTWFDSXVUVTd4bWRPNmJJWmtPOUJzMTVFckRzVlQ0QWVzdFVXbXg4NTFqRm1QUTlfRkxKT2VMbjJPcjBnNHdaYlZXNFdvSFpmU0NKYXU5NnNreGZVbkd2UGdlRGd4b0R1c2ducUgwbUhCMUJNNjFuZ2lxRUs2cWdqeWVMYS15cFJha1lyN2JRT1p5MThHN2NSVkdGQWhKM0JyLWI0QdIB6wFBVV95cUxQbFRaR2ZLaDk2M09BVDFSRWF6R2h5RG5OQlhRRFBMeGNMT01lcnN5SmhPMGJkR0p2ck9XOVJKWGlROUVNbi1seGZxaUVScWJZM1IwWnlmVDNfREtPcl9YTHd4X3VvWDNQZEFRMHpuVjN3ZmJaa3FNOFJGb0QzblJJczBRMVRXaWVJdkJRS1R3WXl4ZFc1WVduSld3d1pJVVRlbi0wdGdnUU1Jb0cwblZMZDFucWRMZU5lalJmcW1tcERWb1hDVS1FZnR0b0hYREY2bGtUNF9WRlNKTTgtaF95RDJUU0t0djJzMEM0?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Squella defiende el ajuste fiscal en Ley de Presupuesto y asegura: “Hay que gastar lo que se tiene”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-05T12:58:49+00:00"
     }
   ]
 }
