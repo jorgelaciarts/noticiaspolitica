@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-08T12:01:43.966704+00:00",
+  "actualizado": "2026-10-08T12:03:41.542300+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presupuesto de Chillán Viejo crece en 15% con énfasis social y seguridad",
+      "link": "https://ladiscusion.cl/presupuesto-de-chillan-viejo-crece-en-15-con-enfasis-apoyo-social-y-seguridad/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con ingresos proyectados por más de $14.480 millones, un crecimiento de 15,06% respecto del inicio de 2026, la Municipalidad de Chillán Viejo presentó ante el Concejo Municipal el Plan Anual de Acción Municipal. La propuesta busca fortalecer la protección social, la salud, la seguridad y la mantención del entorno, con recursos destinados directamente a mejorar [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-08T12:02:09+00:00"
+    },
     {
       "titulo": "“Yo creo que sí”: Michelle Bachelet abre la puerta a una tercera candidatura presidencial",
       "link": "https://ladiscusion.cl/yo-creo-que-si-michelle-bachelet-abre-la-puerta-a-una-tercera-candidatura-presidencial/",
@@ -5643,17 +5655,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-05T01:29:35+00:00"
-    },
-    {
-      "titulo": "Cadem: Aprobación del Presidente Kast cae a 32% y desaprobación llega al 63% - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY0dnQjVWanU0QTBOZUZBcmxuRHlQaV93ZTMyNjRPVk9wTmpBQkVFcll4TGpQUGZOQ3JIbnNHamNsS201X1Fna0tKSWJCVnVXWV85NFBodF9sOFFQMDk0M2xfY3p1THlqRUdheTFKcDNObWVoTlJZTWlENW9UM3JwNmZnSXVhX3FndTltOFg1eGtOUdIBlwFBVV95cUxPVVp6Q0h2NHNReXBMYlpjbTNSSkZ1TTJaMlcwMENfSUJSZVJIZ3dsSUJ5SjNYYmpzSG1uYnZBSkEyc3VJWUZ3blFJd0lJQ0IweU5jQmV3SmV6YVNRZ3JwT1VpXzRlY292M1FnVG1pWnFMRnQwUkNRVDdCaWZCWHpFekhiWWw3R1ZSWDhZVVRpLVE3WVIwaElV?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cadem: Aprobación del Presidente Kast cae a 32% y desaprobación llega al 63%&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-05T01:18:00+00:00"
     }
   ]
 }
