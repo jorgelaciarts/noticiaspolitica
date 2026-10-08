@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-08T05:31:42.773949+00:00",
+  "actualizado": "2026-10-08T05:46:35.586270+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T03:38:13+00:00"
+    },
+    {
+      "titulo": "Presidenciales 1999 - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmhZOVYwTDVpYk5vaG9VSDY0dndZYXhNVjRveVZ2UnpXZ0NpelZ3YWs5TWN3OTNDTzRYRkNlNXBsWFFpLWhOMEJMMkFRRHNpQkJUT3NwMXVOMm1yNUxYS3otVERWVGZabFk4WDJZYWdySU96OV9FMDI5Y3Q1aHFLZFRTVlZoZDJkWkVsNnhGTU9xdw?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenciales 1999&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-08T03:04:00+00:00"
     },
     {
       "titulo": "Decomisan 21 toneladas de comercio informal en Temuco entre críticas de organizaciones mapuche",
@@ -5641,17 +5652,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-04T22:05:00+00:00"
-    },
-    {
-      "titulo": "Gabriel Boric responde a Frei por apoyo a \"Escudo de las Américas\": Es en contra de los principios que ha sostenido Chile",
-      "link": "https://cambio21.cl/pais/gabriel-boric-responde-a-frei-por-apoyo-a-escudo-de-las-americas-es-en-contra-de-los-principios-que-ha-sostenido-chile-6ac2ca11bdfcd6268170b954",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-04T21:53:44+00:00"
     }
   ]
 }
