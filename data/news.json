@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-09T18:16:39.377527+00:00",
+  "actualizado": "2026-10-09T18:31:23.353947+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Club Deportivo Unión Cordillera de Minas del Prado recibe terreno fiscal para construir su anhelada sede social",
+      "link": "https://ladiscusion.cl/club-deportivo-union-cordillera-de-minas-del-prado-recibe-terreno-fiscal-para-construir-su-anhelada-sede-social/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La Secretaría Regional Ministerial de Bienes Nacionales de Ñuble concretó la entrega de un terreno fiscal al Club Deportivo Unión Cordillera de Minas del Prado, en una ceremonia que contó con la participación de parlamentarios, el delegado presidencial de Ñuble, Diego Sepúlveda; el seremi de Bienes Nacionales, Rodrigo Herrera; el alcalde Wilson Palma; consejeros regionales [&#8230;]",
+      "categorias": [
+        "Alcaldes",
+        "Consejeros regionales"
+      ],
+      "fecha": "2026-10-09T18:29:32+00:00"
+    },
     {
       "titulo": "Inflación y tasas de interés: la brecha entre las proyecciones de la Dipres y el mercado",
       "link": "https://www.cooperativa.cl/noticias/pais/consumidores/inflacion/inflacion-y-tasas-de-interes-la-brecha-entre-las-proyecciones-de-la/2026-10-09/145043.html",
@@ -101,6 +113,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-09T16:41:25+00:00"
+    },
+    {
+      "titulo": "Sin acto, Kast promulga Ley de Reconstrucción: “Chile sigue avanzando también en medio de la emergencia” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZjd1dnpBRkpnbHh5djhOUGtoOU51Y2w4amZOZFlVdTUzQmhpRUp2RFZ3ZElQdHhoU0tnYTNHUVpjUHk5VnA4RmlHY2FhRHFPdWY0cWhoeTNmeXZQT2lkSzVnNHZzNkVNdlZ4VzZVMzRLX2VEYXF1VlIwM0RRS21fenloUmpSN1MwUEw4UmlvWUZublRYVTdYTVQ5NDJSZnlaVThWblFOb05EczlOTVA0dHlyaVhtOFF0OUIwUmRaMm9QRjI1WnlqNVBpa1VpV2V3QjVJczNqRHQ2U2lB0gH-AUFVX3lxTFBseElobnpwc204NnJHT3V1eEN5WHc2c1p0RG9zdVVMWHlrUnE5MVRjNG1oNHM1VkxFbkwtNEd1ZGlic0FnV2NKZzFmV3BfVWtuSDFEdC1Zc2pULTFEN1luUmd0YTlfRk5YVnNGOTFjeXVpVUE4a0YybkhQOUw2Ny16aFBoMzJsZDYwdlVSa09OMjAwX0hjRUMwMnBOM1lRSHFUcFZVTFlDdDROaVVMMDZGUDBVc1lMY3pLWUdOckR1d0FKNkI0bklkQU1BZzhfTzZ0MF9qYTlwYnpmdFZ0Zm50a0VIRTlya2hpcUJIMTJHUDRYWDBYZGVaRW9qckl3?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Sin acto, Kast promulga Ley de Reconstrucción: “Chile sigue avanzando también en medio de la emergencia”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-09T16:39:08+00:00"
     },
     {
       "titulo": "Matthei barre con Javier Olivares y Rodolfo Carter tras críticas en su contra: \"Tienen poca sustancia\" - BioBioChile",
@@ -5614,28 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T14:57:17+00:00"
-    },
-    {
-      "titulo": "Tras más de dos años se retoman vuelos directos entre Santiago y Caracas",
-      "link": "https://www.cooperativa.cl/noticias/pais/transportes/aviacion/tras-mas-de-dos-anos-se-retoman-vuelos-directos-entre-santiago-y-caracas/2026-10-06/115539.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La aerolínea Latam anunció que desde enero de 2027 retomará los vuelos directos entre Santiago de Chile y la capital venezolana, Caracas, suspendidos en septiembre desde 2024 por razones políticas.\nHoy en día, el trayecto desde Pudahuel contempla -en varias empresas- una escala en Bogotá o Ciudad de Panamá.\nEn 2024, el Instituto Nacional de Aeronáutica Civil (INAC) venezolano anunció -sin detallar",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T14:55:39+00:00"
-    },
-    {
-      "titulo": "En medio de recortes de presupuesto: gobierno de Kast gastó $117 millones para medir rating de TV chilena - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTk9jcnJxYkRhZVF4RGFUQkRQbFZaVjdlT1FxeUFPa0FSNjBmRWtFSFlLTWlTUGI0VmEzbVhYcGQyQ3lKcDU0NW9JcENRUnpaTU5nSF9KNzhLXzE2cFpUb1ZzbDlfcloyM1RRdkVKWnEyTGJmQmJjbmxuanhtWXZueFpwUEgxN0xXdzQ2QmhNMDJKY3loOUpab3JQckdWWm1CMkc2TWdhTnlobUVyS0ZlVU1zQkJIOW5QU3Q1YkZVMzRKdk55c2Myc3ZTYVM?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "En medio de recortes de presupuesto: gobierno de Kast gastó $117 millones para medir rating de TV chilena&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T14:55:00+00:00"
     }
   ]
 }
