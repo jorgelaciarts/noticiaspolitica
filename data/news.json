@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-09T00:01:24.277934+00:00",
+  "actualizado": "2026-10-09T00:16:39.069295+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Aluvión en Las Condes: ¿Qué implica la declaración de zona afectada por catástrofe?",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/aluvion-en-las-condes-que-implica-la-declaracion-de-zona-afectada-por/2026-10-08/205720.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno declaró este jueves como zona afectada por catástrofe a la comuna de Las Condes, tras el aluvión que dejó al menos seis personas lesionadas.\nEsta disposición facilita la respuesta del Estado, permitiendo adoptar medidas administrativas extraordinarias, dentro del marco legal, para agilizar la atención de la emergencia y la recuperación de los sectores afectados.\nAdemás, mejora la coord",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-08T23:57:20+00:00"
+    },
     {
       "titulo": "Mineduc suspendió las clases en todos los colegios de Las Condes este viernes",
       "link": "https://www.lanacion.cl/mineduc-suspendio-las-clases-en-todos-los-colegios-de-las-condes-este-viernes/",
@@ -5636,17 +5648,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-05T23:23:18+00:00"
-    },
-    {
-      "titulo": "Fin al plan Calles sin Violencia: Presupuesto 2027 en Seguridad no considera recursos para emblemática política de Gabriel Boric",
-      "link": "https://www.theclinic.cl/2026/10/05/fin-al-plan-calles-sin-violencia-presupuesto-2027-en-seguridad-no-considera-recursos-para-emblematica-politica-de-gabriel-boric/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "En abril pasado, en el segundo mes de la Gobierno del Presidente Kast, el ministro Jorge Quiroz entregó un documento con una serie de programas que debían ser discontinuados. Uno de ellos, fue esta iniciativa nacida en abril de 2023, en plena crisis de seguridad que golpeó a la administracion frenteamplista.  \nThe post Fin al plan Calles sin Violencia: Presupuesto 2027 en Seguridad no considera re",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-05T23:15:40+00:00"
     }
   ]
 }
