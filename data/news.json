@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-09T11:01:43.814783+00:00",
+  "actualizado": "2026-10-09T11:16:38.593261+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La derecha queda fuera de la carrera por la FEUC: dos listas de izquierda avanzan a segunda vuelta",
+      "link": "https://www.elciudadano.com/educacion/la-derecha-queda-fuera-de-la-carrera-por-la-feuc-dos-listas-de-izquierda-avanzan-a-segunda-vuelta/10/09/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nAl igual que el año pasado, Nueva Acción Universitaria (NAU) y el pacto Amanecer pasaron a segunda vuelta, tanto en las elecciones de la FEUC como de la Consejería Superior.\nLa entrada La derecha queda fuera de la carrera por la FEUC: dos listas de izquierda avanzan a segunda vuelta se publicó primero en El Ciudadano.",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-09T11:12:02+00:00"
+    },
+    {
+      "titulo": "Emergencia en Las Condes: alcaldesa cifró en 2.000 las viviendas afectadas",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/emergencia-en-las-condes-alcaldesa-cifro-en-2-000-las-viviendas-afectadas/2026-10-09/080322.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El desborde de la Quebrada Honda y el aluvión que generó mantiene en emergencia al sector de San Carlos de Apoquindo, en Las Condes, donde cerca de 2.000 viviendas presentan algún grado de afectación por el barro y el agua, según el balance entregado a Cooperativa durante la mañana de este viernes por la alcaldesa Catalina San Martín.\nLa jefa comunal precisó que, del total de viviendas afectadas, ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-09T11:03:22+00:00"
+    },
     {
       "titulo": "¿Programa primero y líder después?: La premisa del PC que choca con la irrupción de Bachelet y Boric en la izquierda - Emol",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUVdjamRsNWZ1NHFPZmRMT2VrOTlhR3A3N1U2V3RVUHAyUEQ5ZHpzckJUTzlkS1R6ZVExa2hDMzFTTmxDUzlwRW82dzNOdXpLMHZDR0VrR25qaFJFS21SWllfek4tTG5xVm01VkszQWtTdUluUUk3c0w0WEdVLWtURGc0ZlpJSFByX1FkSEU0eHREUWF0dFQ4SUltVQ?oc=5",
@@ -5623,28 +5645,6 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-06T08:08:35+00:00"
-    },
-    {
-      "titulo": "EN VIVO: Diputada Parra (PPD) analiza Presupuesto 2027 y contingencia nacional - Emol TV",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNjFCNUZWVnVHM3JNM1ZoT2pCYzJ6TW1GbXdUSngwa282RFdWdDF0eC1XZHVCWF9jRnAwNEJrcTJ2d2ItZERjSEZMZjhBdUFiSkQtbl85dWxhME1lcmFxU1hLTEgySkpHdjBDS2Y2LV9UMy1rcGk4N3lxVEpYZ3Frd0FGY2NIbHNwTHY0VEExX0ZadDB1dkRhOU5VallnYUY4aGlMUEtPN2RlaEFxZ19VQ1lfMDNVb2o4MnFFSg?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "EN VIVO: Diputada Parra (PPD) analiza Presupuesto 2027 y contingencia nacional&nbsp;&nbsp;Emol TV",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-06T07:00:00+00:00"
-    },
-    {
-      "titulo": "Senador Becker sobre el fin de ‘Yo elijo mi PC’: “Creo que es un error y que lo va a corregir el Gobierno” - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWEdyQmxBdWY0VTVRdjNyckZqOTdfU0NxQ3cwTWcxaVVmQjA4S0ZqZFRwWDdBYXZPQ3BabUN6QzViMnc3a1o0QW9GeU9TYWVhdDBFbVJwU1B5WnRhYUlGQjBVMWJxcVFOUElwWkkyVnJZR0R5MkVFTWtfMnJVM0tGUDh0U3ZEamNMejZubTdBMVFYaDJFSDBWNVNWNUxMYnlBSy0za2c2MkE0aVBkTXdEc1FqSkhOZ3dtdzVsQQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Becker sobre el fin de ‘Yo elijo mi PC’: “Creo que es un error y que lo va a corregir el Gobierno”&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T05:47:00+00:00"
     }
   ]
 }
