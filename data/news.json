@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-09T13:31:30.597705+00:00",
+  "actualizado": "2026-10-09T13:46:46.435965+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcaldesa de Las Condes y desastre en su comuna: \"Hay 2 mil viviendas dañadas y 55 anegadas\"",
+      "link": "https://cambio21.cl/pais/alcaldesa-de-las-condes-y-desastre-en-su-comuna-hay-2-mil-viviendas-danadas-y-55-anegadas-6ac8ec52ece8c826e821c673",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-09T13:31:32+00:00"
+    },
     {
       "titulo": "Zandra Parisi rechaza dichos machistas de Olivares: \"Duele aún más\" cuando viene de alguien cercano - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQ0Fib0U0RzMwRzBqck9ub21IOVY2VUYyLVJpSkNzMXRIQ19pcGhvOWpiYkVJQzhaX0syM0x3QTBqMDBOLU5BV0JjdlplcHRnR1hCNHk0RW9OOHJVRkdaUTFkYnRLcEhla3A5MktaLWdQTGpURE5lTzZoWjFwRDJEdU1UVF96bEU2YkgzYUYzSWdYTEtVMloxd0N2Tkk0UDlnbC1PWUszWkk3ZjRHX2lnUGNJd285U1BOSHFwaHBpM0Z4emNaQTNyeDNJN05zV0pWaVZVM3dsazdtbUo1SWpqbjhKVzU0cXB0YzJjRUVR?oc=5",
@@ -5629,17 +5640,6 @@
         "Consejeros regionales"
       ],
       "fecha": "2026-10-06T11:31:06+00:00"
-    },
-    {
-      "titulo": "Gobernador Flies acusa recorte de 10% tras áspera  reunión con Hacienda por presupuesto 2027",
-      "link": "https://laprensaaustral.cl/2026/10/06/gobernador-flies-acusa-recorte-de-10-tras-aspera-reunion-con-hacienda-por-presupuesto-2027/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Una áspera y tensa reunión de más de tres horas sostuvo el gobernador regional Jorge Flies con el ministro de Hacienda, Jorge Quiroz, y el director de Presupuesto, José Pablo Gómez, en Santiago, instancia en la que participaron el resto de los gobernadores regionales. El encuentro estuvo marcado por la disminución presupuestaria para once de...",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-06T11:27:56+00:00"
     }
   ]
 }
