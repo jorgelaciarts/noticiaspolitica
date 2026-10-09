@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-09T20:16:27.601318+00:00",
+  "actualizado": "2026-10-09T20:35:08.884853+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Proponen crear feria libre itinerante de lunes a viernes en barrios periféricos de Chillán",
+      "link": "https://ladiscusion.cl/proponen-crear-feria-libre-itinerante-de-lunes-a-viernes-en-barrios-perifericos-de-chillan/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Sindicato de Ferias Libres de la Región de Ñuble propuso, ante el Concejo Municipal de Chillán, la creación de una feria libre itinerante en la capital regional, con funcionamiento de lunes a viernes en distintos sectores, una iniciativa orientada a generar empleo, descentralizar el comercio y acercar productos de primera necesidad a los barrios. [&#8230;]",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-10-09T20:21:40+00:00"
+    },
     {
       "titulo": "Suprema rechazó recurso de amparo de Calisto en causa por fraude al Fisco",
       "link": "https://www.lanacion.cl/suprema-rechazo-recurso-de-amparo-de-calisto-en-causa-por-fraude-al-fisco/",
@@ -5622,19 +5633,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T15:19:15+00:00"
-    },
-    {
-      "titulo": "Pardo a Vodanovic: \"Si la consigna es oponerse a todo, la unidad no cuesta nada\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/renovacion-nacional/pardo-a-vodanovic-si-la-consigna-es-oponerse-a-todo-la-unidad-no/2026-10-06/121836.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En El Primer Café de este martes, el diputado de Renovación Nacional Luis Pardo desafió a la timonel Paulina Vodanovic a superar las presiones internas en el Partido Socialista y allanarse a acuerdos con el Gobierno en materia de seguridad.\n\"Si (en el lado de la izquierda) la consigna es oponerse a todo, no cuesta nada la unidad\", ironizó Pardo, valorando que, pese a todo, \"en la oposición hay gen",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-06T15:18:36+00:00"
     }
   ]
 }
