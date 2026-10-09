@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T10:31:39.895570+00:00",
+  "actualizado": "2026-10-09T10:36:21.227515+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-09T08:52:01+00:00"
+    },
+    {
+      "titulo": "Alejandro San Francisco, autor de 'El camino político de José Antonio Kast': \"El texto final no lo conoció el Presidente, por decisión de él\" - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZlBjVDJETC1iX3Rka09MRnFlSk8tNkt2U1p4Ry1UQXNxUlA4eC1Ocm9pMkpQSXNkY0VfVUJpVFFKanlhS3N5T3hqOHZmWGlzcVlnNWRqV012TUV3d3B4ay1lbXhuWEJuS2tyUEoyUm9LSUFreTJVTzltYVpBUmxQLUplRnpweUw1WFhBRVRGbjVNdjdLWEUzRlZGZmtpSHhvd1hFa2dlbFBjZHlkQTROeFRfc09XblR4?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alejandro San Francisco, autor de 'El camino político de José Antonio Kast': \"El texto final no lo conoció el Presidente, por decisión de él\"&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-09T07:55:00+00:00"
     },
     {
       "titulo": "Diputados PS llevarán a Comisión de Ética a Javier Olivares (PDG) por dichos contra Bachelet y Matthei - La Tercera",
@@ -5633,17 +5645,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-06T04:24:28+00:00"
-    },
-    {
-      "titulo": "Republicanos bancada diputados - La Segunda - La Segunda",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFIyY0VrVFpGYTUxdWhZWUJnajhWdjlGc1hHZWwxQk1jalgzT3AxOWZubXFzcnMwZ0VEd0hrTXlSdmJmcTktQmVIdGtvTjVQdUpnbGsyRndVYWdWZzc0dmRUTTBsNkVVSC11ejNpamxzRy1MWVM4VXJYZWlLZXUxMWpUanUxVWg3S0E3emE5UFhrd0Vm?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Republicanos bancada diputados - La Segunda&nbsp;&nbsp;La Segunda",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-06T04:24:18+00:00"
     }
   ]
 }
