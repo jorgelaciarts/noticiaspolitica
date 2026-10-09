@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-09T15:16:32.934288+00:00",
+  "actualizado": "2026-10-09T15:31:34.101506+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cámaras captaron el momento exacto en que el aluvión ingresó a las calles de Las Condes",
+      "link": "https://www.theclinic.cl/2026/10/09/camaras-captaron-el-momento-exacto-en-que-el-aluvion-ingreso-a-las-calles-de-las-condes/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Las cámaras de seguridad de la Municipalidad de Las Condes captaron el momento exacto en que el aluvión irrumpió en las calles de la comuna durante la tarde de este jueves.\nEn los registros se observa cómo varios vehículos circulaban con normalidad cuando una violenta corriente de agua y barro comenzó a avanzar por la vía, sorprendiendo a los conductores.\nMientras algunos lograron retroceder para ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-09T15:22:02+00:00"
+    },
     {
       "titulo": "El recorte de $918 millones a Senapred realizado por Hacienda que resurge en medio del aluvión en Las Condes y las críticas por falta de prevención",
       "link": "https://www.theclinic.cl/2026/10/09/el-recorte-de-918-millones-a-senapred-realizado-por-hacienda-que-resurge-en-medio-del-aluvion-en-las-condes-y-las-criticas-por-falta-de-prevencion/",
@@ -23,6 +34,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-09T14:57:03+00:00"
+    },
+    {
+      "titulo": "UDI anuncia indicación en Presupuesto para frenar cobro de impuestos a casas de apuestas online - Emol",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYU9NZWsyVHl3Y0pmblZCdUw4WlMwU0hNajRuQzk1M2JIeFpRTHRtZi1ZbmtxMml2Z0lNXzBLVm5kdHlENlBTVC1CSmhtS3dENFVuWUJJbHdvWVdITkdpWmdVSUVtV3lyT0QxTUNPN0hPY2hRRlNtbUVKTVNGSjFxT3ZtLWhBNnZjSVQ0MjYxS0VWT3h2VWFmclhrV282SzA?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "UDI anuncia indicación en Presupuesto para frenar cobro de impuestos a casas de apuestas online&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-09T14:52:55+00:00"
     },
     {
       "titulo": "La nueva cara de Casa Ariztía: alcalde Desbordes visita la remodelada casona que abrirá en noviembre como el cowork LAUNCH Bellas Artes",
@@ -4323,6 +4345,17 @@
       "fecha": "2026-10-06T22:19:49+00:00"
     },
     {
+      "titulo": "Gobierno retira su reforma de seguridad presentada en cadena nacional y respalda proyecto transversal de senadores - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbVotZnMyUFU3ZTVhWWMtRThueTQyYmdJalpxWkVzN0FhdUE5V1BDdmtjU0JkRlN5MGNQTkZRSTdqY2FHR1d5T1RCNktWZURhQnNzOWk5enVqUEhyR1lfQVNaSEFDbjc5NnVLU3lNMllUUlhmSG1tVVZHQ2ZSd0NobXBNN2FYUjFycG9hOURMeXA0UWJtSG52R1JJUzhfNkhlTG1zakFnTVdhd0tGdjlESURKaGhqRWhZUlZfakhfVnJEdUxBNXp3WFRsQTlITDJsam10ZzhjZjZIemN5bm5jbGFvLXrSAfgBQVVfeXFMTXFwTWdHa1hPRHdacUVrN09XaXB2UWdVNlRnLW40dEJheUtqbXBFZ3pwTHlaU0VIOXAwc0F1UUxsNDNFOVFvWWhYZExYTzY0UjFqMnd1SEF2S0xlWXl2MGw0Ujc0VExEcURCYlVfeV9RR1BaWjUwMlhjaDJQaklieUF0NlZWeXlpVkpGM21YQnlNODNDMHdhM1E4MnFiWW53RmpRYnBZSGpuOWpYY2I4Rmh5VDV4a2tsaWlJbElIbTRXYUZpYWN5RUtKdk1VRnZzZU1QcVZJZDdCaUJ2dUtERjRTYlNNRnA2aEljSGFKU29GNHBGZkFzUVI?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno retira su reforma de seguridad presentada en cadena nacional y respalda proyecto transversal de senadores&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-06T22:10:19+00:00"
+    },
+    {
       "titulo": "Paz Milet advierte sobre las posibilidades de Lula: Llega \"muy desgastado\" a la segunda vuelta - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVnRsd0RDTER1UVRpOXlxWXh3Y1lBUHVrdnNIUFNUcElhWmpxdTVmU0gzRHdNUFl4cWZtaHA1VDNWVFdQT004LWpRYThuN0hfeUNlQkEzeE9iOE1OV3FoSmZOOVZDZFZmcFRueUJlaG9YWjNiQWxBNHNQR3dZN1dLcFBibGdhOHlLWmZTdkZ1ald6QmVkTzZVdTNnRENSWTV6S29RRFVicm0tQWQyM1BLOC1nSmplbU1Za2hiZjYyR3BMQ0dDaEE?oc=5",
       "fuente": "Radio Universidad de Chile (vía Google News)",
@@ -5606,41 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T13:20:12+00:00"
-    },
-    {
-      "titulo": "Kast tiene un deja vú cuando era parlamentario. Hace 9 años fue el único diputado que votó en contra de la Ley Cholito. Ahora recortó el 86% de su presupuesto. Gobernador Orrego lo critica",
-      "link": "https://cambio21.cl/pais/kast-tiene-un-deja-vu-cuando-era-parlamentario-hace-9-anos-fue-el-unico-diputado-que-voto-en-contra-de-la-ley-cholito-ahora-recorto-el-86-de-su-presupuesto-gobernador-orrego-lo-critica-6ac4f27e877bcd0eb8166c94",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-06T13:20:12+00:00"
-    },
-    {
-      "titulo": "Gobierno asegura que Calles sin Violencia de Boric no se termina, pero sí se \"reformula\" en Plan FOCO - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdjdDeVpKNk1wTjZIVU1Pc01EcGhJbUdKOE94WmEwbkt1M0Y4NC1tZkRzUElQMzVGbUNURlJVcHl0bkNKc3FXNEJxb0hHWk80M0c4WGNmQ3p5TXFxcnBrenNvQk5ZLWd6d3FENDQyaVZFS1lqQTBtMEJpVUJrbkxHN2VoeDNTalZ1LTFXd21lYXRmN3diYnRHT2xtU0dELUFKUk1DZzBIZ2tSMG9mbllLa0ZkQ2Z4RkJRQ1hYdzd3UG1mb2VhY3BhR3RmLW9lb2FYNDFTSkVHaHV3MHp3c2FFcnJYQ0YzLUd1a2JpdTVOOXhvZmtOTWFONHlR?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno asegura que Calles sin Violencia de Boric no se termina, pero sí se \"reformula\" en Plan FOCO&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T13:17:51+00:00"
-    },
-    {
-      "titulo": "Gobierno promulgó ampliación de flagrancia y exigió al Congreso acelerar la ACOT",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-promulgo-ampliacion-de-flagrancia-y-exigio-al-congreso-acelerar/2026-10-06/101712.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast promulgó este martes la reforma al Código Procesal Penal que extiende el plazo legal de la flagrancia delictual, la primera iniciativa despachada por el Congreso Nacional dentro de la Agenda contra el Crimen Organizado y el Terrorismo (ACOT).\nLa actividad estuvo marcada por el reconocimiento a la labor de las fuerzas de orden y seguridad, ocasión en la que el Mandat",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-06T13:17:12+00:00"
     }
   ]
 }
