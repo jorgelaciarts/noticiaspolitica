@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-09T00:16:39.069295+00:00",
+  "actualizado": "2026-10-09T00:31:57.363402+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,28 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T23:31:00+00:00"
+    },
+    {
+      "titulo": "Presidente Kast decreta zona de catástrofe en la comuna de Las Condes tras aluvión - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeFFqUDJPSnd5YmJ6S1hvaU1ZczA1Y1pQN08tVkVTcXpzQXhDTlhSd0ZUb092djJ0OHhrT0VmVWctZ3lRTGNKd2wxQ3Bnb0ZJUm5XYnR3bC1EbXdEVjd1Tmp2M0QtNHY5M2VpREM4MlhnOWlFQ0t5d0JJQURyVjFxVFNVNTRDckp5NDhwal8wdXJrM2djX0FRdk1YelJ6cURUclFFOWRjMXljMElKRG1Oam5BMA?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast decreta zona de catástrofe en la comuna de Las Condes tras aluvión&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-08T23:19:22+00:00"
+    },
+    {
+      "titulo": "Aluvión en San Carlos de Apoquindo: Alcaldesa llama a los vecinos de Las Condes a no salir de sus casas - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc0FPQndSQkQyY25xZkFYaFlhQVVrYjU1VVBWaFRsWlhBUTBwQU5TTkVSeDRmWmtDUDlkT2x1blBnRWRaM2dWcDNkVDR4QmdwaWlnWjZUX3ZncERvWTN4MVkwVEZucXpBVDNzZHl3VjNoMldEc0JsMTJrV3c4dXppbVpfbVNnZ3ZIdFJiSUUtSUtJY0NnOXcxUW1laHl0blc4V0pweFBHT1AwNngzZVhHVWlld2JxaWVmZjBuTFhMRQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Aluvión en San Carlos de Apoquindo: Alcaldesa llama a los vecinos de Las Condes a no salir de sus casas&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-08T23:17:36+00:00"
     },
     {
       "titulo": "Matthei y apertura de Bachelet a tercera candidatura presidencial: \"Eso verá ella, y yo también lo veré en su minuto, falta mucho tiempo” - 24horas",
@@ -5625,29 +5647,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-05T23:38:36+00:00"
-    },
-    {
-      "titulo": "Oficialismo pone paños fríos a caída de Kast a su peor nivel: pide paciencia y apuesta a megarreforma - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQd3lZcEZzVWJqbHBmTEJDTE92UkVhQzFYUzJlQldCZmRfc0pyMzVCT0FLTlZCdGRFOXNXd19taGlvNGgtOW9odWRXRUZ2bXBnZTNvSnRxcjRYNVhQT05zTUhxNlRnNTN3Z3Jpa05CdWp5V0R5S1MzME9VZmxxVFdvYjQ0enphSDVXYUFVYlIxZDBUWENvb2ZUS3g5SnFRYmxvaVpmcmJqQmFrWkNzdWUtYWYyMWtaNXRad0F1NmRoanRsaWVmWi1sdkZlbENfazNhWUdqVFFITWxYaGg2NWx4STNlcGNLbUxJUGsySFJDWVMxQkxQYzdURGJxU0I?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Oficialismo pone paños fríos a caída de Kast a su peor nivel: pide paciencia y apuesta a megarreforma&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-05T23:29:20+00:00"
-    },
-    {
-      "titulo": "Fin del programa “Yo Elijo Mi PC” genera rechazo transversal dentro y fuera del oficialismo",
-      "link": "https://ladiscusion.cl/fin-del-programa-yo-elijo-mi-pc-genera-rechazo-transversal-dentro-y-fuera-del-oficialismo/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La eliminación de “Yo Elijo Mi PC” del proyecto de ley de Presupuesto 2027 por parte del gobierno de José Antonio Kast, generó una reacción que también alcanzó a parlamentarios de sus propias filas. En Ñuble, donde durante 2026 fueron entregados 3.019 computadores, la señal encontró reparos desde la izquierda, el centro y la derecha. [&#8230;]",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-05T23:23:18+00:00"
     }
   ]
 }
