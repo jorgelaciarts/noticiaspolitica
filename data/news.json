@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-09T15:01:45.990937+00:00",
+  "actualizado": "2026-10-09T15:16:32.934288+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El recorte de $918 millones a Senapred realizado por Hacienda que resurge en medio del aluvión en Las Condes y las críticas por falta de prevención",
+      "link": "https://www.theclinic.cl/2026/10/09/el-recorte-de-918-millones-a-senapred-realizado-por-hacienda-que-resurge-en-medio-del-aluvion-en-las-condes-y-las-criticas-por-falta-de-prevencion/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "En mayo, desde la Dirección de Presupuestos (Dipres) se emitió un decreto que redujo montos al Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred), aplicado a programas de gestión de desastres ($274 millones) y a gasto en personal ($69 millones). Hoy el órgano es cuestionado tras el evento climático ocurrido ayer en la comuna del sector oriente. Por su parte, la senadora Campilla",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-09T15:09:44+00:00"
+    },
     {
       "titulo": "Carta a la directora de Fares Jadue, alcalde de Recoleta: La política del “tijeretazo” social",
       "link": "https://www.theclinic.cl/2026/10/09/carta-a-la-directora-de-fares-jadue-alcalde-de-recoleta-la-politica-del-tijeretazo-social/",
@@ -5630,17 +5641,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T13:17:12+00:00"
-    },
-    {
-      "titulo": "Rodolfo Carter trata a Evelyn Matthei de rencorosa: \"Ojalá que cuando llegue a su edad no termine así\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNSDBNMmU3THphUTN5YVpkd29EQ2Z1em1qTTVVYlVTaENMaVR0MTZ1MlRCcl9ZMHZ4ZTlZTGZOQXVLTWpDWnJYZ0FKNFhkdUEyTnMzVnY4WUt4WDZkSEVLMEZvVTkwalFPbE9WZ2pwb1g3aHhCZUlzdDBSYlNCMU4wbmZxRDNqSUtvRTJTY3RHdTluWGdBZTZWa2xuVkhSRzcwdHlGaGhLVGlDQVBla2hjTndidGZFUUNEREI2MUdpa0pjaXRoZ3VfZmc0UjN3ZUpRcFVVNXI4a29xa01vZV9wczZ1N2JnUy11Ni0yQlJpWVZMaEJwNkZJTnBPaw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Rodolfo Carter trata a Evelyn Matthei de rencorosa: \"Ojalá que cuando llegue a su edad no termine así\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T13:02:22+00:00"
     }
   ]
 }
