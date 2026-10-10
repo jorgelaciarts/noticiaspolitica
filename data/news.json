@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T21:31:34.016544+00:00",
+  "actualizado": "2026-10-10T21:46:24.901211+00:00",
   "total": 500,
   "items": [
     {
@@ -1427,6 +1427,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-09T01:49:18+00:00"
+    },
+    {
+      "titulo": "La activación de La Moneda ante la primera gran emergencia en la RM - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPclNRZ1RhS0F5Vm92YlRNbDdZSENjeWRGd09hSFVEdjM1aUVfZHY4MEFydjhRb3hJdkpLczNPZ0x6aG9ZalY1d0x3ZHJ6QjhEbER5ZkVQeHhlWldNNWFyRFUxcjFTT1U5ckJIN2taMlFXdGRnZVJ1Yjh4dWktTk0yWFA3RjBBWlQwdkMtRjE1bmd4TFJZcUs0WmlGQzB4SzBwLTBRbXlqYUtyc3NkbVZ1Ng?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La activación de La Moneda ante la primera gran emergencia en la RM&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-09T00:53:09+00:00"
     },
     {
       "titulo": "La activación de La Moneda ante la primera gran emergencia en la RM - La Tercera",
@@ -5627,17 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T21:22:27+00:00"
-    },
-    {
-      "titulo": "Corte de Puerto Montt acogió desafuero del senador Calisto por fraude al Fisco",
-      "link": "https://www.lanacion.cl/corte-de-puerto-montt-acogio-desafuero-del-senador-calisto-por-fraude-al-fisco/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Corte de Apelaciones de Puerto Montt acogió por unanimidad la solicitud de desafuero formulada por el fiscal regional de Aysén, Hernán Libedinsky, respecto del senador independiente Miguel Ángel Calisto Águila, quien está acusado en una causa por fraude al Fisco. Una vez que esta resolución quede ejecutoriada, la causa podrá avanzar hacia la etapa [&#8230;]\nThe post Corte de Puerto Montt acogió",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T21:18:37+00:00"
     }
   ]
 }
