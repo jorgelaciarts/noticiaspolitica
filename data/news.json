@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-10T18:31:21.555009+00:00",
+  "actualizado": "2026-10-10T18:46:42.700141+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Brasil: qué dicen las primeras encuestas de segunda vuelta tras sorpresivo resultado del 4 de octubre - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAtMU1YdVJjb0djZkFsQ3dTUEFPYlQ0QWMtSzNkbmk2WDJKMjVOR25ST3dEMlhTWTBvMnY4WXZLaEU0dEtoYTFXaDROeDFDcFY5dTN1dHZLN1BRZ3RiYVJtaHM0dzU4ZHVLOHdrazhadW1UQ0h4ZTdpOQ?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Brasil: qué dicen las primeras encuestas de segunda vuelta tras sorpresivo resultado del 4 de octubre&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-10T18:30:16+00:00"
+    },
     {
       "titulo": "Delfino tras dichos de Bachelet: \"El PS debe tener su propia carta presidencial\"",
       "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/delfino-tras-dichos-de-bachelet-el-ps-debe-tener-su-propia-carta/2026-10-10/151916.html",
@@ -5629,17 +5640,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T20:43:58+00:00"
-    },
-    {
-      "titulo": "Senador Núñez (PC): “Las convicciones de Quiroz las pagamos todos con recortes en beneficios sociales y shock económico - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcDlraGp1UXlBaEdUMXlNRG4zUVpoVVVnWmR1NTh2LVVzWERJamNvc3NpYXJ3TDhvbndSU2hGU2dYMnF5cmhrODRQeXJ2RnFxLWtieW5RTG11OGNpS2JnY3VXWHM0RDdqNXM4ZzFNU3RaUm9WSWNlTWtwM09YR0paTWpPakJYUlUtQk9kRERYLUdabnZFQ01ob2c1eUwtZkhsWjBtREk3SXR0TVNTVVBwTElfN3c4SUkzOENTUmt6RmtIT2F2Q3VhWXI2aENvdlNpY1pJSk9STGNyNFgzWGZKQ210Vkd2QQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Núñez (PC): “Las convicciones de Quiroz las pagamos todos con recortes en beneficios sociales y shock económico&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T20:42:36+00:00"
     }
   ]
 }
