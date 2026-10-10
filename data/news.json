@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-10T12:01:46.462021+00:00",
+  "actualizado": "2026-10-10T12:16:34.960084+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Aluvión en Las Condes: Concejal reconoce que mallas dinámicas seguían pendientes",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/aluvion-en-las-condes-concejal-reconoce-que-mallas-dinamicas-seguian/2026-10-10/085909.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El concejal de Las Condes Luis Hadad (RN) reconoció este sábado en El Diario de Cooperativa que las mallas de seguridad, cuya instalación estaba prevista para septiembre, no se habían colocado cuando ocurrió el aluvión que afectó a San Carlos de Apoquindo, aunque defendió las labores preventivas realizadas por el municipio.\nConsultado por las advertencias previas sobre el riesgo en las quebradas y",
+      "categorias": [
+        "Partidos políticos",
+        "Concejales"
+      ],
+      "fecha": "2026-10-10T11:59:09+00:00"
+    },
     {
       "titulo": "Flies advierte que los recortes ponen en duda el apoyo de los gobernadores al programa de gobierno de Kast",
       "link": "https://laprensaaustral.cl/2026/10/10/flies-advierte-que-los-recortes-ponen-en-duda-el-apoyo-de-los-gobernadores-al-programa-de-gobierno-de-kast/",
@@ -5623,17 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T19:44:23+00:00"
-    },
-    {
-      "titulo": "“No es un gasto que se pueda recortar”: rechazan rebaja al Servel en discusión del Presupuesto 2027 - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPa2xadU1zNFpvc2NfZDVUV3VvUHBxLXBjd1dlNEZ5dER6bTdlVW9UVklhbjVJZy1POVpoaUo0LXpUUHY0end4eGJRWWVwVlk0dGNtSG8wTW5QYnFoX1B4RjdsNVRYLTJJNjVRb0N5WFV0TmItQzl2alNSWlYzVDZRdWpEdElCcTYzSl9oRjNHWFRmbTNza1pXbk1RSzdJU2NDTlNURzl6U0ZVN21vREczYjJfVkt2VEtkSjlvSVhjamJPUmp0akpyWTVudzQ4Zmsxd0FQV2prVHlSWGx2cmdSdlg0Wm9pWUJTeDg5OA?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“No es un gasto que se pueda recortar”: rechazan rebaja al Servel en discusión del Presupuesto 2027&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-06T19:43:09+00:00"
     }
   ]
 }
