@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T01:46:40.970535+00:00",
+  "actualizado": "2026-10-10T02:01:44.168054+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,18 @@
         "Senadores"
       ],
       "fecha": "2026-10-10T01:36:51+00:00"
+    },
+    {
+      "titulo": "Balacera en Cerro Navia dejó a un hombre muerto en la vía pública",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/homicidios/balacera-en-cerro-navia-dejo-a-un-hombre-muerto-en-la-via-publica/2026-10-09/223647.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Una balacera dejó este viernes a un hombre fallecido en la intersección de las calles Rodas y Resbalón, en Cerro Navia.\nEl alcalde Mauro Tamayo reaccionó recordando que, en que va de 2026, su comuna acumula 14 homicidios y superó ya el total del año pasado.\n\"Hemos tenido una persona asesinada a plena luz del día, con ráfagas de disparo y, evidentemente, con la indefensión de la comunidad (...) El ",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-10T01:36:47+00:00"
     },
     {
       "titulo": "Presidente Kast envía mensaje de apoyo a Panamá tras terremoto y ofrece colaborar “en lo que necesiten” - CNN Chile",
@@ -5355,6 +5367,17 @@
       "fecha": "2026-10-06T20:17:31+00:00"
     },
     {
+      "titulo": "Recortes afectarán el empleo: advierten Gobernadores Regionales - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3hHZDBGb1FJOHNvTGstQ2NpbURBcmo2dkZqX0xJVktrMDdWUTNyWHdJQkxQcVc3VTVKNHFuNEFOa0t2RFh6VGVXdFZCOWRSbTJxZU9LZFJJNE9zNlR1akdBeHB3QjNCbVRBQXBKR1ZwYUgyaGk5MGF6X3VyRTV1TVJjM3RzMVF2MGN3TU5BdXg?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Recortes afectarán el empleo: advierten Gobernadores Regionales&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-06T20:16:47+00:00"
+    },
+    {
       "titulo": "Corte de Apelaciones acoge petición de Fiscalía y decreta desafuero del senador Miguel Ángel Calisto - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWXJMeWZCZWpDZ3MzZXFfVW1adGNkMlBuMHZNVC1aYjM5SXNDaUx6dkJKRDM3ZXZLVEtwUWUxN0NXWjVSYWhoZk1sUFJ4V1NBWmt2MXlaVEltTkoxQ05iTjU4akV5dzZnNHhWV0FtcERmMGhSR2RrYmx2OWhCT2pOUU54cXp4SVZnRGQyb2lPT1JTOEtxUko4TXJXT1I5cW1vdGR5R25CT1ExWmVKd2d6LW1aMEhWSXZzUTlTZ1FMUWh0OHZIQ3JIbjN2WQ?oc=5",
       "fuente": "CNN Chile (vía Google News)",
@@ -5612,29 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T18:47:49+00:00"
-    },
-    {
-      "titulo": "Irací Hassler demandó a Contraloría para anular sumario del caso Sierra Bella",
-      "link": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/iraci-hassler-demando-a-contraloria-para-anular-sumario-del-caso-sierra/2026-10-06/153746.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La diputada comunista Irací Hassler interpuso una demanda de nulidad contra el Fisco y la Contraloría para impugnar el sumario que le atribuyó responsabilidades administrativas, como alcaldesa de Santiago (2021-2024), por la polémica compra fallida de la exclínica Sierra Bella.\nDe acuerdo con La Tercera, la parlamentaria ingresó la acción ante el Séptimo Juzgado Civil de Santiago y su representaci",
-      "categorias": [
-        "Diputados",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-06T18:37:46+00:00"
-    },
-    {
-      "titulo": "Kast defiende recortes del Presupuesto 2027: “Cada peso que recuperemos va a ir a los sectores más necesitados” - La Tribuna",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRGtlamRxNklPeTVwSlcwcUFwOFFTNndkajNaWEwxZkhkMTJDWE5VdVJqQktGQzdLaU1GX29NdDNpeWFINTJ5MDZ6U3Qxby1CcWloR2FibzFZejhhM25pSk80TGF4TkxtTy1nOGZsZUtZUVZITVFQbXphaHg0SHR5M0t5NW1tUEpSa3RuREhXaExfNVNNeUM4dEFETlg0U2oxdjBzcXpTNS0wWkdKNERpdlQ5UW1aeE1BdlpHeEE4MEpPSFJoUmJfcE91WnVYRUZZZm9BZzVha3h5Z1F5TXhnb3lYMWJ1VFRJQ2VzUWh3ONIB9wFBVV95cUxNX09Kc21BWXQ3RnF2eHZ1NWhyUmJiOEN4bGRVaHVTUGltblNoMHNlVmxZYXJZSk84amswVTZJVjR0SG5CY19TS3Y5X1p6Rm56VG9oNkFURlNYNE0zb0RMVzZyeUdsSXNaRm1OLTJyalpzbTF4LU1GcXBINzlBblF6UXllQ1hMRk41MWVpR1hRNlZmOUNEV3MxYk1adDRselV2SGhjam5iVGM3VlpkVzJaWHdOSExmT1VIa2JPZm5NNkdHRzBnRHJDUUJYbTRwT2xPN1R2X1dfa0hXaVFlb25Xc0Q2SGtEaF85eUZaMUh3TmRlZUhxTkNn?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Kast defiende recortes del Presupuesto 2027: “Cada peso que recuperemos va a ir a los sectores más necesitados”&nbsp;&nbsp;La Tribuna",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T18:37:37+00:00"
     }
   ]
 }
