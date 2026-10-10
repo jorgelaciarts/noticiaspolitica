@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T14:16:39.845251+00:00",
+  "actualizado": "2026-10-10T14:31:27.070909+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-10T13:46:11+00:00"
+    },
+    {
+      "titulo": "Controlan emergencia química que dejó cinco lesionados en Mejillones",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/controlan-emergencia-quimica-que-dejo-cinco-lesionados-en-mejillones/2026-10-10/104114.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La emergencia provocada por el volcamiento de un contenedor con ácido nítrico en Mejillones fue controlada, informaron este sábado la Dirección Comunal de Gestión del Riesgo de Desastres (DCGRD) y Senapred, mientras sigue pendiente el retiro del contenedor.\nEl accidente, ocurrido este viernes enavenida Serrano con Los Fertilizantes, dejó cinco personas lesionadas y obligó a realizar una evacuación",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-10T13:41:14+00:00"
     },
     {
       "titulo": "Bancada PDG arremete contra el Gobierno por \"tardía\" respuesta ante aluvión en Las Condes - BioBioChile",
@@ -5624,17 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T20:15:34+00:00"
-    },
-    {
-      "titulo": "Fin de Yo elijo mi PC: Kast apela a volver a lo esencial y a no opacar la creatividad frente a pantallas - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeldNa2p5MXR2bjE0cVlJQUZISHo2bk12dUJMVDY1WUtvQUNVTTBLU0U1bl8yNTVnU1dyQ3JPNUZldWhYQ2drUFFTWV84STNjTUhTS2JybDJkMURKUng2dUcxdnF5VDFuNDYxZjB5VlBVbHlLbC1fY2ZDSTY3Z3llNzZHR0EySjNYRTNxMlJkdUZidjVmWHMwS2JTM1o5X2JVRUNSdHB5SEQ4bm91STNjZHNOY2ExUDRMcGdJeGJhNGpmV1p6cDZsWmpHTlRBWjV2Sk5abA?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Fin de Yo elijo mi PC: Kast apela a volver a lo esencial y a no opacar la creatividad frente a pantallas&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T20:15:00+00:00"
     }
   ]
 }
