@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T18:16:27.470360+00:00",
+  "actualizado": "2026-10-10T18:27:35.749791+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,19 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-10T18:02:00+00:00"
+    },
+    {
+      "titulo": "Cecilia Pérez pide mantener Prodemu: \"No se puede borrar de un plumazo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/mujer/cecilia-perez-pide-mantener-prodemu-no-se-puede-borrar-de-un-plumazo/2026-10-10/143719.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La exvocera de Gobierno Cecilia Pérez (RN) y la exministra del Sernam Laura Albornoz (exDC) se sumaron a los cuestionamientos por el cierre previsto de Prodemu (Fundación para la Promoción y Desarrollo de la Mujer) y llamaron a crear una mesa de trabajo para asegurar su continuidad.\nEl proyecto de Ley de Presupuestos 2027 contempla recursos para que la fundación opere solo hasta marzo de ese año, ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-10T17:37:19+00:00"
     },
     {
       "titulo": "Presupuesto 2027: oficialismo justifica eliminar programas y PDG condiciona votos al proyecto - BioBioChile",
@@ -5624,17 +5637,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-06T20:38:45+00:00"
-    },
-    {
-      "titulo": "Senador Núñez (PC): “Las convicciones de Quiroz la pagamos todos con recortes en beneficios sociales y shock económico! - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOGQ0OGpvV3htWkh5NV8xMVJmX3NzanlVamlKMTlCQnhRaWxxdnBneXJUOTZiX1Zvd3JiQzlzSWpOdURDbzllUU4wZFA5RU8xekZONXZod29NVlVHcTFMTHl5bU0wd0hUTkVKSkVFeFZOMWVXdjVOWlhCWUMybzdkQ2NHVnRiWHlOSmNuWFJiWk1vYXlQNlQzeDgzc0l0SnBvXzR3NWFjeDV4ai1iQWs2WEpuYlMyNU9fUTFrN1RuZXhHNFNEcGJDY1pZclVfUTlpR21yamY1R0dnYkdTUVg1V25fRk8?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Núñez (PC): “Las convicciones de Quiroz la pagamos todos con recortes en beneficios sociales y shock económico!&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T20:36:47+00:00"
     }
   ]
 }
