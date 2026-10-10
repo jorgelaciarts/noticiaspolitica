@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-10T04:46:23.431432+00:00",
+  "actualizado": "2026-10-10T05:01:13.609976+00:00",
   "total": 500,
   "items": [
     {
@@ -80,6 +80,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-09T23:27:07+00:00"
+    },
+    {
+      "titulo": "Centro Cultural La Moneda permanecerá cerrado temporalmente tras incendio - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcDVPT3Y5dXpMOEJNUktBZ1M5XzhJQTVXdzdmRHpndnBRN1ZwSW94TFdjOGNWUHNUT09JMmJWWkFrd1UyMVluSHdleUxqZnZuOUZHa2dYcFpnNGR1TUdxRHFsMDk4VHRxQ1hUYXIzdmN2YnlnVWtwSjNaRFZXR1dIdGRCeDlIQXc0NnIwSVpmREl0WUFQZmRIU1doNmtCV1hKVThhd1NOMWlWT0NjS25JLTBoMUQ1YzFrTDBhMA?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Centro Cultural La Moneda permanecerá cerrado temporalmente tras incendio&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-09T22:54:25+00:00"
     },
     {
       "titulo": "Alcalde de Coquimbo solidarizó con Las Condes, pero acusó diferencia de trato",
@@ -5624,17 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-06T18:51:59+00:00"
-    },
-    {
-      "titulo": "Séptima visita en siete meses: Presidente Kast visitará el Biobío este miércoles - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQXlxMGM5NFEwNnZ6YXlaXy1nWU1ZaEtWcTAtcm9wd3RZcWZjT3dnWWZ2UUdZVTlzTTNYdkYyZF9wWEVFeFo3X2NPNDk5bXdYNG9qSnBTZE16YXBZQklQaXBSSGpzNmt5V2dZaTFvdzhXM0d0Vmt2MVREbmVPdWRjUXFtZG9ULVZsU2tJRGZPU0diWFhmSUI4QQ?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Séptima visita en siete meses: Presidente Kast visitará el Biobío este miércoles&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T18:47:49+00:00"
     }
   ]
 }
