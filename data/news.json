@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-10T00:01:30.803267+00:00",
+  "actualizado": "2026-10-10T00:16:18.884032+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Post aluvión: Vulnerabilidad a robos preocupa a vecinos de San Carlos de Apoquindo",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/post-aluvion-vulnerabilidad-a-robos-preocupa-a-vecinos-de-san-carlos-de/2026-10-09/210035.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un vecino del condominio Santa Isidora, que se vio especialmente afectado por el aluvión de este jueves en el sector de San Carlos de Apoquindo, admitió en Cooperativa que \"la comunidad está preocupada\" ante la posibilidad de que sufrir robos durante las labores de limpieza.\n\"Los vecinos están cuidando, y ayer había harta seguridad dando vuelta en el sector, lo que nos deja bastante tranquilos, pe",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-10T00:00:35+00:00"
+    },
     {
       "titulo": "Reforma que endurece las reglas de los partidos abre un nuevo escenario para las colectividades de Ñuble",
       "link": "https://ladiscusion.cl/reforma-que-endurece-las-reglas-de-los-partidos-abre-un-nuevo-escenario-para-las-colectividades-de-nuble/",
@@ -5623,17 +5634,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-06T17:36:45+00:00"
-    },
-    {
-      "titulo": "Municipalidad de Maipú cierra campamento donde fue enterrado el ex teniente venezolano Ronald Ojeda: es el cuarto desalojo de la comuna en el año",
-      "link": "https://www.theclinic.cl/2026/10/06/municipalidad-de-maipu-cierra-campamento-donde-fue-enterrado-el-ex-teniente-venezolano-ronald-ojeda-es-el-cuarto-desalojo-de-la-comuna-en-el-ano/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El asentamiento, que comenzó a formarse en 2019 y llegó a albergar a 494 personas, fue desalojado de manera voluntaria en un operativo coordinado con la Delegación Presidencial Regional y Carabineros. El cierre marca la primera etapa del Plan de Erradicación del nudo Camino a Melipilla.\nThe post Municipalidad de Maipú cierra campamento donde fue enterrado el ex teniente venezolano Ronald Ojeda: es",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-06T17:31:33+00:00"
     }
   ]
 }
