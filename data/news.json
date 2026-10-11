@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T18:16:29.641164+00:00",
+  "actualizado": "2026-10-11T18:31:42.796439+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,19 @@
         "Elecciones"
       ],
       "fecha": "2026-10-11T18:01:21+00:00"
+    },
+    {
+      "titulo": "Reforma de seguridad divide al Socialismo Democrático: Araya cuestiona al PS",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/reforma-de-seguridad-divide-al-socialismo-democratico-araya-cuestiona/2026-10-11/144117.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador PPD Pedro Araya cuestionó al Partido Socialista (PS) por su decisión de rechazar la nueva reforma constitucional de seguridad propuesta por él y otros senadores en reemplazo a la iniciativa del Gobierno, calificando la postura de la tienda como una \"mala señal\".\nLa moción que ingresaron los parlamentarios Araya, Arturo Squella (Republicanos), Andrés Longton (RN), Iván Flores (DC) y Kari",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-11T17:41:17+00:00"
     },
     {
       "titulo": "\"La caca a nosotros\": Vecinos critican depósito de residuos del aluvión en Parque Anakena",
@@ -5634,18 +5647,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T11:43:49+00:00"
-    },
-    {
-      "titulo": "Kast vs Kast",
-      "link": "https://ladiscusion.cl/kast-vs-kast/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Señor Director: ¿Qué le diría el candidato José Antonio Kast al presidente José Antonio Kast al observar sus primeros seis meses y medio en La Moneda? Es un ejercicio interesante para examinar la distancia entre las promesas y las decisiones de gobierno. El candidato propuso un “gobierno de emergencia”, con prioridades claras: seguridad, control migratorio [&#8230;]",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T11:26:50+00:00"
     }
   ]
 }
