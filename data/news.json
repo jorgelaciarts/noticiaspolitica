@@ -1,7 +1,43 @@
 {
-  "actualizado": "2026-10-11T11:04:57.437854+00:00",
+  "actualizado": "2026-10-11T11:16:12.696051+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Camila Vallejo (PC): “El candidato Kast le pediría hoy día la renuncia al Presidente Kast, porque no ha cumplido nada de lo que prometió”",
+      "link": "https://www.theclinic.cl/2026/10/11/camila-vallejo-pc-el-pinochetismo-llego-al-poder-pero-no-es-mayoria-en-nuestro-pais-aunque-a-veces-griten-mucho-y-tengan-mas-presencia-en-redes-sociales/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "En su primera entrevista con un medio escrito desde que dejó La Moneda, la exministra vocera aborda el avance de la extrema derecha en América Latina, cuestiona los primeros siete meses del Gobierno de José Antonio Kast y plantea una autocrítica al progresismo por haber llegado tarde a la disputa cultural y al terreno digital. Además, analiza el retorno de Michelle Bachelet al debate político naci",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-11T11:00:00+00:00"
+    },
+    {
+      "titulo": "Kast ante su primer 18-O en La Moneda: el plan de pasar la página y la presión por indultar a carabineros",
+      "link": "https://www.theclinic.cl/2026/10/11/kast-ante-su-primer-18-o-en-la-moneda-el-plan-de-pasar-la-pagina-y-la-presion-por-indultar-a-carabineros/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "A siete años del estallido social, en el Ejecutivo aseguran que el Presidente no contempla actividades especiales para la jornada y que su foco estará puesto en las prioridades ciudadanas. Mientras se monitorean eventuales manifestaciones, desde el oficialismo comienzan a pedir que la fecha marque una señal en materia de indultos a uniformados condenados por hechos ocurridos durante la crisis de 2",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-11T11:00:00+00:00"
+    },
+    {
+      "titulo": "Editorial: El que no explica se complica",
+      "link": "https://www.theclinic.cl/2026/10/11/editorial-el-que-no-explica-se-complica/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Ordenar la casa fue una de las principales promesas del Presidente José Antonio Kast durante su campaña. Recuperar el control de las cuentas fiscales, revisar el gasto de los ministerios, terminar con las ineficiencias del Estado y proteger los beneficios sociales. Un compromiso importante para un país que necesita recuperar el crecimiento económico y administrar [&#8230;]\nThe post Editorial: El q",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-11T11:00:00+00:00"
+    },
     {
       "titulo": "Segunda línea de gobierno: La evaluación de La Moneda sobre delegados presidenciales y las principales controversias - Emol",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0pjdEtfY01oQllNY1lDclJNWm5udDlNaXhLVkstaHA4OE1kaVVrQmtsdVc1QnUzSXhfZWhkY3o3enhKZHYxSzJpcURGTHlJTlhVOTJMOTg0cV9acEtEWlBjbl9KMFBuSlA0VWt0Vk14d0VjMkVLcEFOQS1WT2JmaXNkcEZ6clpnMDFheHJOMUVTUVo2UDNEWg?oc=5",
@@ -866,6 +902,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-09T21:59:00+00:00"
+    },
+    {
+      "titulo": "chile pesimismo cadem gobierno kast - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOFFKcEFMYzlQc3N1V3pXRHhBYl9haDREN1QxS00xVmJnU2JqTWVaNUZWMHVGN1pDdXBQWDJucUdXZTBoamxtUFlOa2d5NGNmeVhmNWZ5QjR0Tzh6WjcxQ0g5TnoxUGtReVdGZDUzcVhtU19sLXcyWHhlRFJVYVJ1U0VZWEhHOXYzYmxzYkZDcTZfbXlhX0VhcmN0RlpPTmQx?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "chile pesimismo cadem gobierno kast - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-09T21:50:06+00:00"
     },
     {
       "titulo": "Kast promulga su megarreforma económica sin ceremonia debido a la emergencia en Chile - Infobae",
@@ -5593,50 +5640,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-07T00:25:10+00:00"
-    },
-    {
-      "titulo": "Senadora Vodanovic exige transparentar negociación arancelaria con EEUU - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTd5UXBzZXlXQkNjNkFXcl9OY0V4ZGtWUmRGLVJwM1piVjVoS0pxLXhvemhHbzM5MDE3YzQwNEJVVnNFYlhtYXFWeWZxa2dYMG5yazZzMW14dFVSWnNQNkR2b3ZVMkh6TVBhTENwanVrVHpGUDR3b0NfVUVSc3JEdWU3c3FuWG51aWhBeHZCU0lVNTRWMFlUQm5pbk55V1M1d1JfMzlGTFhlb0QyeU5TRmQtdVVxNDZ1TGluREtlQ1VnUQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadora Vodanovic exige transparentar negociación arancelaria con EEUU&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-07T00:00:15+00:00"
-    },
-    {
-      "titulo": "Gobierno de Chile retira la reforma de seguridad que flexibilizaba el estado de excepción - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFlKd1NTdFFwZUNJZFJkUWZ1MzZLRm5NZWpOTDlxOFltdFZiVWpfSmlRcVN1OHc4MUFackxPUnpfNThwQ0d2ZUVSQ1lyczg3ekxqTkNPOGd4blRFVHFXSHF4R3pzTVI2dFRfV0liR21yYmFWSlJHQVhmcy0wYnhpeWQ2OWtyOGlUVzY3bUkxeGlXNExiU3djU0dMY0VVSmgtR3FOTk1ma2oxWS1jSTZJWjE2MnNOLVo3S0tPS0pPMFJoN2piZHc4cEpBTjR1bVZMVVU4R2V3bVJRZ9IB9AFBVV95cUxQWF9jNmhxZ0d6Qmxfd3BZeXRkaWdaVnYxR2wxWG4yUzRMdlhaNW40SHNnS05VbHVmLV82TXJWNkVKUGRvYnVTeFY2QzZWUnlSX2hva2lWMDVILTZzWVZxM21oajVOblJTYnZ1UzlFRGdXR1pLOVRtcVZRQmJNUmtpbE9HN252akNId1JKcl9iU0tDR3BILVpPazVBX095dlN2ZjhPcENZUkgxaG5PWE9SWlBTNk1QaHVGdTc0bFpfRUM4UTgxVVVIVEpCdkQyeURnSlhTYjQ4aDhUa1Q5aU5MbG9qUTgyV0xuT0pDQWVySzNWbm5C?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno de Chile retira la reforma de seguridad que flexibilizaba el estado de excepción&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T23:54:12+00:00"
-    },
-    {
-      "titulo": "Fiscalía confirma a Zaliasnik como imputado, oposición pide su salida y La Moneda evita cerrar filas con el embajador - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPemRMQk1KLVd0UzYyeGNwYmxUTF90OTdGY05kVXVBSHBQd0FLM25vTU5lemhMTU1XMHJJUWVpVUdvU09GSXdJNlliLXVqNEZabU05cDZ6ZzRKSHVJUjVuOVNob1lRX2RocXFwMlB3WHRjZ0dLXzQwZ19Hc3dsbVluT2o1NkV2Wi0tU1Q5aThMSmNHODFhbDBkb0w2Q3NUaUFDTFFEb0sxTHY5bzRFWE9sb3l5S0xoaDBLWTlyRFZIWngyd0k4RGNHTEkzRTJqM3VvandXRkVHMWlrYUdZOEtCZTdjRW1DTVlCMm1BTDFUQ0Rnd9IBkwJBVV95cUxNY19HMWtoNTdQTWlXQ0F3eUtIcC1iTkdlMXZuRkt5Y0Jod19fUFBxX2hEVTFBSkdXZHkxQUkxclZ0ODdtSXdFUDN6X0ctOFRVNDhNVnZrbGtsT3BMZUJjVEhIMVZuQVRHWnhFNUVDZ3Z1T2o2VzUxeXE0TlR5SmdsUF9oOTRNUkNHajAwOXVfT2N6OFJmVGJMRFVwY2lfZF81RDhLRzI5RGxCU3p6b2lxaThsZE1pcnlDWnZnZHBaQjVaeU5uNXpzRFg1VjhZdGpHOEVWMGxHUW03bGg5ZURYQU9UM0lMWnBKMjRLUU4zbWltcG16c3NXQUF0YzdHWl9taWl2UVRyWEZWQUhnUjl1Q1FuOA?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Fiscalía confirma a Zaliasnik como imputado, oposición pide su salida y La Moneda evita cerrar filas con el embajador&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T23:54:11+00:00"
-    },
-    {
-      "titulo": "Fiscalía confirma a Zaliasnik como imputado, oposición pide su salida y La Moneda evita cerrar filas con el embajador - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPemRMQk1KLVd0UzYyeGNwYmxUTF90OTdGY05kVXVBSHBQd0FLM25vTU5lemhMTU1XMHJJUWVpVUdvU09GSXdJNlliLXVqNEZabU05cDZ6ZzRKSHVJUjVuOVNob1lRX2RocXFwMlB3WHRjZ0dLXzQwZ19Hc3dsbVluT2o1NkV2Wi0tU1Q5aThMSmNHODFhbDBkb0w2Q3NUaUFDTFFEb0sxTHY5bzRFWE9sb3l5S0xoaDBLWTlyRFZIWngyd0k4RGNHTEkzRTJqM3VvandXRkVHMWlrYUdZOEtCZTdjRW1DTVlCMm1BTDFUQ0Rndw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Fiscalía confirma a Zaliasnik como imputado, oposición pide su salida y La Moneda evita cerrar filas con el embajador&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-06T23:54:11+00:00"
     }
   ]
 }
