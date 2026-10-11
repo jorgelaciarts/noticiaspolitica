@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T08:16:15.453134+00:00",
+  "actualizado": "2026-10-11T08:31:44.896505+00:00",
   "total": 500,
   "items": [
     {
@@ -58,6 +58,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-11T01:16:04+00:00"
+    },
+    {
+      "titulo": "Senapred oficia a alcaldes a activar comités de emergencia comunales ante pronóstico de lluvias y tormentas eléctricas - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVRuWHBWak9JSkxPdmJob1hseVR5NVRKTFM5QWxrczJpUUxmVVZfU0VOUDltUWNpYnRZTWs3X1BKaUVuMnJmTGk1VENoQWhfMkVmN0NsS0dneEpaUkhGS3JpRVU3TFlBZGlXcFZ0NGFmeXZudS1YajZQb0tBaFFNN1haa1VfSW5GWkVFbzk1dWlfb0lsMmdOV3NTVWFVbEZpN082bVNuN2pYaERJUTVudURYNDBwVkxhSC1fN0lZVlRZUE9PLWsyTlV2S0NBTng2VUE?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senapred oficia a alcaldes a activar comités de emergencia comunales ante pronóstico de lluvias y tormentas eléctricas&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-11T00:22:00+00:00"
     },
     {
       "titulo": "Jorge Alessandri: “Sería bueno saber qué hace hoy día el Segundo Piso” - Diario Financiero",
@@ -5626,17 +5637,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T23:00:11+00:00"
-    },
-    {
-      "titulo": "Corte de Apelaciones desafuera al senador Miguel Ángel Calisto por investigación de fraude al Fisco - www.elnortero.cl",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbWJzTXdFa09hbWVzd2ZGcFd4eFdPdmtLZlhNdEVKUzNWakh0aEdKRmFRcS1nc01iZEQ0UmZXUkR2MTk4aDl0aDU0SDVncUxCVjZMenp3dXpZdlJ3Q2F5N2hxRVk4dmNfLWhObHg4M3Bxb21NT3p0WTJCcHVNaXNzZWdGNEJ2QllfeFVJZVJydHNhUnVPM1pydmNhOHFzbDFYZ3V0ZGJkV25XbTgtaHFQTVdDOWdLUVQ3Rk9FSmVrVW5aSHM?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Corte de Apelaciones desafuera al senador Miguel Ángel Calisto por investigación de fraude al Fisco&nbsp;&nbsp;www.elnortero.cl",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T22:59:46+00:00"
     }
   ]
 }
