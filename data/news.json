@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T02:31:42.129741+00:00",
+  "actualizado": "2026-10-11T02:46:16.233883+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,18 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-11T01:30:23+00:00"
+    },
+    {
+      "titulo": "Al menos un fallecido y 40 lesionados tras desbarrancar bus en Valparaíso",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/al-menos-un-fallecido-y-40-lesionados-tras-desbarrancar-bus-en-valparaiso/2026-10-10/221604.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un accidente vial se registró durante la noche de este sábado en sector Placeres de Valparaíso, luego de que un bus de transporte de pasajeros desbarrancara aproximadamente 30 metros, dejando un saldo de al menos una persona fallecida y cerca de 40 lesionados de diversa consideración.\nSegún las primeras informaciones, el siniestro ocurrió mientras la máquina realizaba su recorrido de bajada por la",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-11T01:16:04+00:00"
     },
     {
       "titulo": "Jorge Alessandri: “Sería bueno saber qué hace hoy día el Segundo Piso” - Diario Financiero",
@@ -5625,17 +5637,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-06T22:37:38+00:00"
-    },
-    {
-      "titulo": "Ale Valle no se aguantó y le respondió a Rodolfo Carter tras sus dichos sobre Evelyn Matthei: “En algún momento…” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNS2tXNGk0cDNzRDNyaXJMUXlyRlVvdEJJMzRzY0xSUkc4TkF6ckMzamNXcTVHdFZ6TDZfUngydm8wU0FIVmJaMEN6VWlfZk5WYVRTVlp0dnRKMWZYRVdPcWJkYjE2ZFFObjYwa01vdEgxT2ZWLWs4N1N6M2IzaHVucVp1dU1lZzNKZjZpMmVXQlRHZVM4cDRUaTJYZXBmNi1IZUJFRmNqQ2tvOUJ1ejBPdVhxUTdNZTlJMlFXT181Q2lvSWtrYWdZbU5ha2tJeDFFUEw0a1NUTGtMZWVackHSAfIBQVVfeXFMTXRTcnZ4anJFbDZBbEFzREUwWWtkVW45ZU1odlNPVEttTWV6VjQ2c29PSDZ5dExEQWdjUTZ5Yk1iUllyc1dLejRCUTBXSUZNdnFmLU1QWW02QzBqSXAxX0pkNE1ud3VGTGhkTHJWTkR6UTRDZzNwcmRpci1xVHF4aW9BZ2hCYWJ1TkIzR0EwSjdpYkVTZEFmbEpJby00aXREQmVKOGxJMXlvcXNZNGNZZjNTSlptbkZ1YXh3UGtZX1VNTWhqbV9VZldyMnBhOFhjakc2N0ZvdHdwaG9YUWd4dFFaal9MUFIyNFVtQ3M0blRUekE?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ale Valle no se aguantó y le respondió a Rodolfo Carter tras sus dichos sobre Evelyn Matthei: “En algún momento…”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T22:20:38+00:00"
     }
   ]
 }
