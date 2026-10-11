@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-11T00:31:29.397232+00:00",
+  "actualizado": "2026-10-11T00:46:25.350495+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-11T00:02:14+00:00"
+    },
+    {
+      "titulo": "Senapred solicitó activar Cogrid comunales en la Región Metropolitana ante pronóstico de lluvias",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/senapred-solicito-activar-cogrid-comunales-en-la-region-metropolitana/2026-10-10/204729.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) solicitó a diversos municipios de la Región Metropolitana la convocatoria de sus Comités de Gestión de Riesgo de Desastres (Cogrid) comunales, en virtud de los eventos meteorológicos previstos para la semana entre el 12 y el 16 de octubre.\nA través de un oficio publicado este sábado, la directora nacional del organismo, Alici",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-10T23:47:29+00:00"
     },
     {
       "titulo": "Rechazo al presupuesto del Servel instala alerta por preparación de elecciones de 2028 y 2029",
@@ -5624,17 +5635,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-06T21:54:01+00:00"
-    },
-    {
-      "titulo": "Gobierno da marcha atrás en su reforma de seguridad y acuerda respaldar nueva propuesta de senadores - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaS01WldXaHZhbFlCMWtTNjdQMkwxTU03cFBrMjBTbXhrZnFwLV9XRGJ0Ym9qanZPLVNIbDYwSkVlaTBsUGZmY0M0Nk1LT2hLR1NLR3BRV3lRZWMzT1EwSHU5TnpHVTBKOHU1MEZDYXp3ZmhlYkpZT1pQUFhkVVhSUDEyQTZUQnZDM0RqTndyTjZidC15X0h0a1ZYLUxRLW50aGVQTVdkaUw4UGtCRy1wSmg2NlZMQkpGMk5ZQ0hia1UzVWxGNzJmV0RNdw?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno da marcha atrás en su reforma de seguridad y acuerda respaldar nueva propuesta de senadores&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T21:51:04+00:00"
     }
   ]
 }
