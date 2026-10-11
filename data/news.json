@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-11T02:16:26.243873+00:00",
+  "actualizado": "2026-10-11T02:31:42.129741+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "¿Cómo se supone que cuidemos nuestra salud mental si apenas alcanzamos a vivir?",
+      "link": "https://www.elciudadano.com/chile/como-se-supone-que-cuidemos-nuestra-salud-mental-si-apenas-alcanzamos-a-vivir/10/10/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Álvaro Ortiz Villalobos Al escribir, casi siempre termino en la misma disyuntiva: ¿qué tanto vale la pena? Pese a que he encontrado en estas columnas un desahogo y una manera de compartir cómo atravieso el Chile actual a mis 26 años, muchas veces me cuestiono hacerlo por el simple hecho de que nunca me [&#8230;]\nLa entrada ¿Cómo se supone que cuidemos nuestra salud mental si apena",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-11T02:22:56+00:00"
+    },
     {
       "titulo": "Chillán proyecta presupuesto de $68 mil millones priorizando salud y con foco en los barrios",
       "link": "https://ladiscusion.cl/chillan-proyecta-presupuesto-de-68-mil-millones-priorizando-salud-y-con-foco-en-los-barrios/",
@@ -5625,17 +5636,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T22:20:38+00:00"
-    },
-    {
-      "titulo": "Corte de Puerto Montt desaforó a senador Calisto: Fiscalía pide 12 años por fraude al fisco",
-      "link": "https://www.elciudadano.com/chile/corte-de-puerto-montt-desaforo-a-senador-calisto-fiscalia-pide-12-anos-por-fraude-al-fisco/10/06/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEn la tarde del martes 6/10 se conoció la decisión de la Corte de Apelaciones de Puerto Montt de desaforar al senador Miguel Ángel Calisto (IND), quien es investigado por un eventual fraude al fisco. Según consignaron distintos medios nacionales, la resolución fue unánime (tres votos contra cero), con lo cual ahora, el Ministerio Público [&#8230;]\nLa entrada Corte de Puerto Montt desa",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T22:19:49+00:00"
     }
   ]
 }
