@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-11T02:01:46.282601+00:00",
+  "actualizado": "2026-10-11T02:16:26.243873+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chillán proyecta presupuesto de $68 mil millones priorizando salud y con foco en los barrios",
+      "link": "https://ladiscusion.cl/chillan-proyecta-presupuesto-de-68-mil-millones-priorizando-salud-y-con-foco-en-los-barrios/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La Municipalidad de Chillán presentó a los concejales su propuesta de Presupuesto Municipal 2027, que considera recursos por $68.175 millones, en un escenario marcado por el ajuste fiscal anunciado por el Gobierno y la incertidumbre respecto de los recursos públicos disponibles para el próximo año. El alcalde, Camilo Benavente,  calificó la iniciativa como un presupuesto [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-11T02:04:14+00:00"
+    },
     {
       "titulo": "GORE evalúa inédito modelo de gobernanza para administrar el Fundo Bullileo",
       "link": "https://ladiscusion.cl/gore-evalua-inedito-modelo-de-gobernanza-para-administrar-el-fundo-bullileo/",
@@ -5624,17 +5636,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-06T22:19:49+00:00"
-    },
-    {
-      "titulo": "Gobierno retira su reforma de seguridad presentada en cadena nacional y respalda proyecto transversal de senadores - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbVotZnMyUFU3ZTVhWWMtRThueTQyYmdJalpxWkVzN0FhdUE5V1BDdmtjU0JkRlN5MGNQTkZRSTdqY2FHR1d5T1RCNktWZURhQnNzOWk5enVqUEhyR1lfQVNaSEFDbjc5NnVLU3lNMllUUlhmSG1tVVZHQ2ZSd0NobXBNN2FYUjFycG9hOURMeXA0UWJtSG52R1JJUzhfNkhlTG1zakFnTVdhd0tGdjlESURKaGhqRWhZUlZfakhfVnJEdUxBNXp3WFRsQTlITDJsam10ZzhjZjZIemN5bm5jbGFvLXrSAfgBQVVfeXFMTXFwTWdHa1hPRHdacUVrN09XaXB2UWdVNlRnLW40dEJheUtqbXBFZ3pwTHlaU0VIOXAwc0F1UUxsNDNFOVFvWWhYZExYTzY0UjFqMnd1SEF2S0xlWXl2MGw0Ujc0VExEcURCYlVfeV9RR1BaWjUwMlhjaDJQaklieUF0NlZWeXlpVkpGM21YQnlNODNDMHdhM1E4MnFiWW53RmpRYnBZSGpuOWpYY2I4Rmh5VDV4a2tsaWlJbElIbTRXYUZpYWN5RUtKdk1VRnZzZU1QcVZJZDdCaUJ2dUtERjRTYlNNRnA2aEljSGFKU29GNHBGZkFzUVI?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno retira su reforma de seguridad presentada en cadena nacional y respalda proyecto transversal de senadores&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-06T22:10:19+00:00"
     }
   ]
 }
