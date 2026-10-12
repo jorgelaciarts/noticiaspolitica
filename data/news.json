@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T05:16:21.760506+00:00",
+  "actualizado": "2026-10-12T05:31:14.207559+00:00",
   "total": 500,
   "items": [
     {
@@ -92,6 +92,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-11T23:08:01+00:00"
+    },
+    {
+      "titulo": "Columna de Mauricio Morales: 'Kast, el señor de los milagros' - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUGR0VzRHcnVEbV81SnNLYVZQUHkwbHlrV0otRHBkZ2s1TlBnQnJiQl9iZjFaQkxQMDBtQXg5aWIxcWgyTkV6UGV1dmE1YnVaeXNOSDVBb0JFM1QyNFJ1S1k2TjctX2VYN3o3bC1oLUFIeDNSXzdEemgxdFVvZFVJSzNpSU9oNVV0SWhEQi1PWDJWa21UMHE3cUpTaFA5UEF5c2RjOEJXZTZ4REd3YjIyWnUzTS1zZ2PSAbwBQVVfeXFMTTNyOFBhQzZVWkpBdEhKWTdTT1BrR0k3MkJTSmstSWcxUkp5Y2NOVDB4M3lJZ2l5aXZNRldrOEFiRzlQb1pVVzdKbnQxMUJITXJqdmh0WXFqWUVFM20tNVJheFltSUZSUkVnTnZLd2cyM1MwdmhnMDVNdTdwNnVOQ3l5ZW9FMHJfUEJHSC0yc2Z2YVNxS0ZURndMWWxUYVp2RU85YVlmSEltM1RtTnNWVG1DQThyXzBFSW9RdU0?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Columna de Mauricio Morales: 'Kast, el señor de los milagros'&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-11T23:01:00+00:00"
     },
     {
       "titulo": "Encuesta refleja el amplio descontento de la ciudadanía: Aprobación de Kast cae al 27% y desaprobación sube al 64%, según Criteria",
@@ -5639,17 +5650,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-07T14:15:00+00:00"
-    },
-    {
-      "titulo": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazN3YWVZcUpZdU8zMzlmdEVsQUQ2aFNrRW1WcndONmpWUGYyWDN0dlpOR0V6eHBta2pXeGp3S01FSEEzM2tpX2dHeWdYdGpEQlZWOU9IUHp0cFNMWERzQ25mQnhDNnlIUEhCMWtZbVFWMkVvUGpZMUhNS0lqR1VlUTlPN254NUdUUVU5b013ejdqYmlTSDRQZldDMHBmY2RrdjVHUEdTLXBYVU40b2NHbWZXcnNQRkhjN1FrX2dkdmdNSEp6VWhmQmY2eHdwMnJMWnRpVWZoRGc?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-07T14:08:03+00:00"
     }
   ]
 }
