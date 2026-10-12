@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T04:01:42.174304+00:00",
+  "actualizado": "2026-10-12T04:16:36.864208+00:00",
   "total": 500,
   "items": [
     {
@@ -46,6 +46,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-12T00:11:04+00:00"
+    },
+    {
+      "titulo": "Bachelet lidera la centroizquierda y supera a Boric como principal figura del sector según Cadem - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2hUZ2Q5cDBHb05zcmJneldoWTEtdlJyRkNVMzdnYW5ZUXJqZVB4NFpXT0JleHY1UjBSRTFoOVVzcXFlTVlxTU5SYWhBWnhMRGV4UWlGdThxZXRORjlsZVZrUC1rQ096VnhRSWdaaUVPbFBVcjBpTnVvSENCcmI3UGhNUHRKa0N2MTY4TDZrYThkdVoycHFjcWJDYTdMaXAzdUpmUUdxTzNxUUZKUkp5OHlndUI1NHNlRWZXeGk1dEVodDNhZzY2cw?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Bachelet lidera la centroizquierda y supera a Boric como principal figura del sector según Cadem&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-12T00:04:27+00:00"
     },
     {
       "titulo": "Cadem: desaprobación del presidente Kast llega al 64% y duplica su aprobación - www.elobservatodo.cl",
@@ -5638,18 +5649,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T13:59:00+00:00"
-    },
-    {
-      "titulo": "Guillermo Ramírez (UDI) y retiro de la reforma de seguridad: \"Estaba mal hecha y uno no puede votar cosas así\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV2hWT0FPelJ2S3M1V2JCWVhTZC0zVzFrcWI3RXhjanZ0VUpoX0ozRjRKOXBQcU8xSElUVG1mVkJZRDFBUFhEejZlUDJldzIzNTNfQVBTelBQazRDa2p4V1dVMXI0c2ZYdEl5VUd4Zk9sd2JhRUE1T2szN2FTT0xZc3picllmVEh4c0xIZzRucW5nRXNsaDhzcU10eWhrU19wTEdST3JWSDlnYkJWbkMyMzhjY3gwaTdzRmoydXZPTEpQeDF6MzByU0owMkJOMld0bnF2NVFhYWo?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Guillermo Ramírez (UDI) y retiro de la reforma de seguridad: \"Estaba mal hecha y uno no puede votar cosas así\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T13:58:08+00:00"
     }
   ]
 }
