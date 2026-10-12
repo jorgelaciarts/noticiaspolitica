@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T14:01:58.353917+00:00",
+  "actualizado": "2026-10-12T14:16:27.235804+00:00",
   "total": 500,
   "items": [
     {
@@ -456,6 +456,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-11T16:51:00+00:00"
+    },
+    {
+      "titulo": "Criteria: desaprobación de Kast alcanza el 64% y aprobación cae a su nivel más bajo desde que asumió - El Nortero",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeGVGT2RCdzhBRzBwRUJFZGcwNElILXZnbHRJYVowQkd6MGJ1UnV0aWJBLTVwNno5OG1ON2tidUwwbko5Mm90QjNzNmwwSVRZcEdjR0RxSjFra0V3blBEelFOaTk2QlhnZU91OXNIYVJfS2VjTm9LdXNFNDBCeUNQYWZ1NTMydWhPaDFLWnpoOVRIZG53Q0VZMEZISnp5MFlTeDVqbThjMERDQ2dvUGJRb3dHTHJiZThPTndacjJTb3RJZU0?oc=5",
+      "fuente": "El Nortero (Antofagasta, vía Google News)",
+      "region": "Antofagasta",
+      "resumen": "Criteria: desaprobación de Kast alcanza el 64% y aprobación cae a su nivel más bajo desde que asumió&nbsp;&nbsp;El Nortero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-11T16:44:25+00:00"
     },
     {
       "titulo": "Diputado Cuadrado (PPD) lleva a Javier Olivares (PDG) a Comisión de Ética por sus dichos contra Bachelet, Matthei y Marín - La Tercera",
@@ -5627,19 +5638,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-07T15:26:00+00:00"
-    },
-    {
-      "titulo": "Seguridad: Senadores ingresaron el reemplazo de la desechada reforma constitucional del Gobierno",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/seguridad-senadores-ingresaron-el-reemplazo-de-la-desechada-reforma/2026-10-07/122424.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Esta jornada, los senadores Pedro Araya (PPD), Arturo Squella (Republicanos) y Andrés Longton (RN) presentaron la moción parlamentaria que reemplaza la reforma constitucional de seguridad propuesta por el Gobierno, que fue retirada por no obtener apoyos políticos.\nEl ingreso de la moción se dio un día después de que los legisladores y el Ejecutivo llegaran a un acuerdo para sugerir e ingresar una ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-07T15:24:24+00:00"
     }
   ]
 }
