@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T05:31:14.207559+00:00",
+  "actualizado": "2026-10-12T05:46:34.462318+00:00",
   "total": 500,
   "items": [
     {
@@ -976,6 +976,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-10T15:00:00+00:00"
+    },
+    {
+      "titulo": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazN3YWVZcUpZdU8zMzlmdEVsQUQ2aFNrRW1WcndONmpWUGYyWDN0dlpOR0V6eHBta2pXeGp3S01FSEEzM2tpX2dHeWdYdGpEQlZWOU9IUHp0cFNMWERzQ25mQnhDNnlIUEhCMWtZbVFWMkVvUGpZMUhNS0lqR1VlUTlPN254NUdUUVU5b013ejdqYmlTSDRQZldDMHBmY2RrdjVHUEdTLXBYVU40b2NHbWZXcnNQRkhjN1FrX2dkdmdNSEp6VWhmQmY2eHdwMnJMWnRpVWZoRGc?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-10T14:57:52+00:00"
     },
     {
       "titulo": "Con más de mil voluntarios siguen labores de limpieza tras aluvión en Las Condes: “La respuesta ha estado a la altura”",
@@ -5639,17 +5650,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T14:17:30+00:00"
-    },
-    {
-      "titulo": "Activan alerta SAE en Talagante y El Monte por desborde del río Mapocho",
-      "link": "https://www.lanacion.cl/activan-alerta-sae-en-talagante-y-el-monte-por-desborde-del-rio-mapocho/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) activó la mensajería SAE en Talagante y El Monte debido al desborde del río Mapocho. En diálogo con Radio Biobío, la delegada presidencial provincial de Talagante, Annemarie Müller, explicó que la alcaldesa de El Monte, Zandra Maulén, solicitó la activación de la alerta, recogió Radio [&#8230;]\nThe post Activan alerta SAE en ",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-07T14:15:00+00:00"
     }
   ]
 }
