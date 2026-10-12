@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-12T22:31:38.053417+00:00",
+  "actualizado": "2026-10-12T22:46:37.084333+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Casi el 90% de los decretos ambientales retirados por el Gobierno sigue congelado",
+      "link": "https://www.cooperativa.cl/noticias/pais/medioambiente/casi-el-90-de-los-decretos-ambientales-retirados-por-el-gobierno-sigue/2026-10-12/190733.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A más de siete meses de que el subsecretario de Medio Ambiente, José Ignacio Vial, firmara un oficio para retirar 43 decretos supremos de la Contraloría, el 89% de estos instrumentos regulatorios continúa paralizado al interior de la cartera ministerial sin plazos claros para su reingreso.\nLa solicitud de retiro se formalizó oficialmente el 16 de marzo de 2026, a solo días de asumir la administrac",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-12T22:07:33+00:00"
+    },
     {
       "titulo": "GORE y MINVU contemplan más de $91 mil millones en viviendas y obras urbanas - El Día",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDYtaGo5U0VnR3VLUFphS1A0c0lyeDJHNF8ySjJ2SVF5REN0MWRNMUlLcTRhMEJPMVFSMzFRRkhvNXo1YUVBdm9TNks0OXFJWE8xaE9Va0VST055dG9YVzdqTElxak1xbFU1WGg5NGlFYzJ3ODF2VnZoN2c4OTZiWnpmRXFiM2c0bkthZG5mYUYzdHJpd19uV0lzRHdIMl81S09XbUF4OWJhczhrN2JmT2pYNjd3UFFYTTF3eV9Obm1aN1daZnhTQw?oc=5",
@@ -46,6 +58,17 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-12T19:36:49+00:00"
+    },
+    {
+      "titulo": "Fiscalía: Aplastamiento fue la causa de muerte de los trabajadores tras avalancha en El Teniente",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/fiscalia-aplastamiento-fue-la-causa-de-muerte-de-los-trabajadores-tras/2026-10-12/150727.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La causa de muerte de los dos subcontratistas de la mina El Teniente que fueron víctimas de una avalancha de nieve y lodo fue aplastamiento, estimó el Ministerio Público.\nEl fatal incidente ocurrió durante la tarde del domingo en el sector Cráter Norte, mientras cuatro trabajadores realizaban labores de limpieza en uno de sus caminos.\nHoras después del alud, Codelco confirmó que dos de ellos perdi",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-12T18:07:27+00:00"
     },
     {
       "titulo": "Gore Los Ríos ante resultados de investigación del Caso Fagalde",
@@ -5612,28 +5635,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-07T16:47:00+00:00"
-    },
-    {
-      "titulo": "Cómo votaron los diputados al aprobar informe de la Comisión Mixta sobre las Reglas de Uso de la Fuerza - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMU13UUhvalM3MHdwblliMnc3N1ZVNGpsdjVtR000M0paSUNoSEd2cERpZzdJdWdJX0ZvREY0X0UwLUFzQXNTOTYxelVZZndEZmM3XzdFVGJZRjZuSjdPVE9LUXZjT1QxdC00bGlRNUlMalJjamFRRkxhRWhhV05SM2NReTNXNG03X0dNV1hkMHlqYlljQUxHM3NNQ2psRm5jb0E?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cómo votaron los diputados al aprobar informe de la Comisión Mixta sobre las Reglas de Uso de la Fuerza&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T16:40:00+00:00"
-    },
-    {
-      "titulo": "Bachelet se abre a nueva candidatura presidencial: “Yo creo que sí” - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmVmFVb2N6RTN2R3RrQUxvSmd5SnU5N3hyR1JTM0V5c0JxOVB4dUNkVl9aX0N0SXhaYUF2Wk5wbE5JallvWU4zUVhqaDFnZ1ZJXzFkT2RqemlBSFJ6SjBETER1QmtjV3hMUU5paUpxdkpsMngy?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bachelet se abre a nueva candidatura presidencial: “Yo creo que sí”&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Candidatos"
-      ],
-      "fecha": "2026-10-07T16:38:42+00:00"
     }
   ]
 }
