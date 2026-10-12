@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T14:46:38.708872+00:00",
+  "actualizado": "2026-10-12T15:01:52.869185+00:00",
   "total": 500,
   "items": [
     {
@@ -1187,6 +1187,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-10T17:16:51+00:00"
+    },
+    {
+      "titulo": "Presidente palestino convoca elecciones presidenciales y legislativas para septiembre de 2027 - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQ2xWeTl4cUk5aG1TcXQtbW9wRmlNeDlrNThjQ1l4clpoa212Zk01eVRYT0RkNGRjQWF3OHRGRFVEVlpBa1VuQ18zY21scU42cFRQSHotMFZYd18wWmUwYlRtUXRUdHRLTkNMNFNObXlPTjNaTkhSaXQwYlFfYVBPSGZlckg0SVVMSVpYcWFKamFDQ045U2xaMVNYVnh0U29MS2VVVTZTRE9NTklxYllJNw?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente palestino convoca elecciones presidenciales y legislativas para septiembre de 2027&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-10T16:53:00+00:00"
     },
     {
       "titulo": "Gobierno de Venezuela ofrece ayuda a Chile tras aluvión",
@@ -2519,6 +2530,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-09T10:15:15+00:00"
+    },
+    {
+      "titulo": "Indulto a Aliste Vega abre diferencias entre Republicanos y Chile Vamos - Radio Pauta 100.5",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNGVQdmFFRjZGSkJKNUJGMTlVek1PVUljLWYwZm1KRmM5SHh5X3Q0T1B4RzJMeUE4OUxPOUpmLV9POXpUNkhpbWFzWUVjdXFza3M2YTlKY1ZMZDlBYWc4LXpxRHQtTzI1RnVUa1ZzMXlrUTJJVE5udlFmWmJmdTBGbG1naV9NNlVoZFpFN0MyN2drNW5GSm1zajNKT29jRC1EdUoxdGw1WU1nTnVEZGJVazRDd2hDLXpjRFlF?oc=5",
+      "fuente": "Pauta.cl (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Indulto a Aliste Vega abre diferencias entre Republicanos y Chile Vamos&nbsp;&nbsp;Radio Pauta 100.5",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-09T09:30:15+00:00"
     },
     {
       "titulo": "Presidente Kast decreta zona de catástrofe en Las Condes tras aluvión / Garretón desmantela diagnóstico de Tohá sobre la izquierda - El Líbero",
@@ -5616,28 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T15:42:00+00:00"
-    },
-    {
-      "titulo": "Bachelet no descarta una tercera candidatura presidencial: “Yo creo que sí” - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRlZpd3BhMG4wdDNsYXkzTjNjVHFSMkF3QjVDYzNCX2hicUtmMXBWR1RXLXpfcEQwQWg4WHdYZk5hTUVTTURxdEFRWjk0Qm5sN3VpeWFsamEwNmFuTjFZTXZKYWdNYUYtQm02ZDZNZ20xYTFOSHMyRXpjaXNVc3VXSWZxa09ZeExxOWpTT1lxYWZ3OGh5U0JVVTVUbmVlbjAwRTM1NTRsVEdGeGxtN1JGOXVKNNIBxwFBVV95cUxPZkZNTDhYckxUcHJ0b29GYk1fNHYzNkZaY3B2dDdwLVhGZ1RSbVhWT2ItOUhCVXBrTFhfcEo3VVEwc21TbkE3VmFfLWh6R1c2TGMtM1M4VEJsNjJpcUFHWlRVQmpxX0JWSzJGZjdiQ1dpNmYwYWdnV3ZZRll6SHgxeW8tam05NW5tWk9ycURRU180czZoek1NeTJTZEdwb0xnLWVFYjhnbnJOZDVXMGhxTWlPdl9NdGROSEF4R1E0YWEzLThJazJV?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bachelet no descarta una tercera candidatura presidencial: “Yo creo que sí”&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Candidatos"
-      ],
-      "fecha": "2026-10-07T15:35:37+00:00"
-    },
-    {
-      "titulo": "\"Yo creo que si\": Michelle Bachelet no descarta tercera candidatura presidencial - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDNGSEdoU1Y1NWltbnJwQ1BuT3l2M0FPdTJyTVpBdGFhdmJIYjZKbk9qQ1pndEpSQjZhV21wMmxLTnhtTE9DN1hlamhrYUtzb2FXY0FFU29HbnRfdVpxNGdsMUt6aEtmN0d5MjNpOXNNbEotT0NTZVdsVkxLRzNkQnZsVDBaSDNrdnkzVjJyYTdYVWx3X0ZLNXgwN09KQi1aeDBBWUFqa1NQYmY2QWlGb3U3WQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Yo creo que si\": Michelle Bachelet no descarta tercera candidatura presidencial&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Candidatos"
-      ],
-      "fecha": "2026-10-07T15:31:31+00:00"
     }
   ]
 }
