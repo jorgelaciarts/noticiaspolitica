@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-12T19:16:47.283353+00:00",
+  "actualizado": "2026-10-12T19:31:42.132719+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-12T17:26:53+00:00"
+    },
+    {
+      "titulo": "Evacuación preventiva en Las Condes ante nuevo sistema frontal y riesgo de aluvión",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/evacuacion-preventiva-en-las-condes-ante-nuevo-sistema-frontal-y-riesgo/2026-10-12/134559.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un estricto perímetro de seguridad y la orden de evacuar las viviendas de San Carlos de Apoquindo marcaron la jornada de este lunes en Las Condes, luego de que los organismos técnicos alertaran sobre el riesgo inminente de nuevos deslizamientos de tierra.\nLa medida restrictiva también se concentra en el polígono delimitado por Avenida El Alba y Avenida Las Flores por el norte, y Quebrada Honda por",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-12T16:45:59+00:00"
     },
     {
       "titulo": "Camila Vallejo cuestiona a Kast: vincula su Gobierno al pinochetismo y su agenda al clasismo - BioBioChile",
@@ -5626,18 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-07T16:30:06+00:00"
-    },
-    {
-      "titulo": "Los acercamientos de la alcaldesa San Martín con RN para evitar una competencia por la derecha en Las Condes - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcGVNaUhVV3VDRHVxaXdCTWZBS2UxNmhiN3N6UXhBc3ZmQ19yU3llNk8zZ1RFTTRORG0ydlFKT3YtYTF0eWJVRGdDZ2dkWDJiMDVONjlMdm1VTHVXZVNRNVRsbWdDV1EwUEkwSjdwZjNaVzBRVjFIcU9ZYnJncHRNcXM4bGk2RndSdFp3ODVRZVZ5RG94Y3B1YWc1M0FPZlV5VVpsQWt3ZDJ0bnJZRkZCQlRSUVZkZ0R5NVhxZ3VLT2VWOVpYY25DSGIwWHdIbXVpQ1BodUdmRWF2N1JlcjJIbWhTRkNYZVYyVFE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los acercamientos de la alcaldesa San Martín con RN para evitar una competencia por la derecha en Las Condes&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-07T16:30:00+00:00"
     }
   ]
 }
