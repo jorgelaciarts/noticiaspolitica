@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13T21:46:36.384124+00:00",
+  "actualizado": "2026-10-13T22:01:47.842351+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Totalmente anegado: así quedó un pasaje completo en Ñuñoa",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/totalmente-anegado-asi-quedo-un-pasaje-completo-en-nunoa/2026-10-13/184332.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El intenso sistema frontal que durante aproximadamente una hora descargó con fuerza lluvias y granizo en Santiago causó diversos estragos y en Ñuñoa, por ejemplo, provocó la inundación completa de un pasaje, con más de un metro de agua.\nEl concejal de la comuna Andrés Argandoña compartió una fotografía de Los Labradores, en el sector Villaseca y Sucre, en que dos automóviles estacionados sirven de",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-10-13T21:43:32+00:00"
+    },
     {
       "titulo": "(VIDEO) Michelle Bachelet reúne a la oposición en medio de tensiones políticas y expectativas 2029",
       "link": "https://www.elciudadano.com/reels/video-michelle-bachelet-reune-a-la-oposicion-en-medio-de-tensiones-politicas-y-expectativas-2029/10/13/",
@@ -5622,17 +5633,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-08T12:11:48+00:00"
-    },
-    {
-      "titulo": "Alvarado ante apertura presidencial de Bachelet: \"En tres años y medio más conversamos\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/presidenciales/alvarado-ante-apertura-presidencial-de-bachelet-en-tres-anos-y-medio/2026-10-08/091002.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El biministro del Interior y de la Segegob, Claudio Alvarado, restó importancia a las recientes declaraciones de la expresidenta Michelle Bachelet, quien no descartó una tercera postulación a La Moneda para las elecciones de 2029, tras su fallida candidatura a la Secretaría General de las Naciones Unidas.\nEn entrevista con el canal TVU de la Universidad de Concepción, la exjefa de Estado (2006-201",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-08T12:10:02+00:00"
     }
   ]
 }
