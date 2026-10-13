@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13T23:31:22.109555+00:00",
+  "actualizado": "2026-10-13T23:50:08.887465+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Festival de Cine de Ñuble busca claves en Valdivia para seguir creciendo",
+      "link": "https://ladiscusion.cl/festival-de-cine-de-nuble-busca-claves-en-valdivia-para-seguir-creciendo/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con el objetivo de conocer experiencias que permitan fortalecer y proyectar el crecimiento del Festival de Cine Nacional de Ñuble, el alcalde de Chillán, Camilo Benavente, viajó junto al director ejecutivo del certamen ñublensino, Pablo Calisto, hasta Valdivia, donde sostuvieron reuniones con autoridades y representantes del Festival Internacional de Cine de Valdivia, encuentro que este [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-13T23:43:38+00:00"
+    },
     {
       "titulo": "Gobierno defiende inversión sectorial y discrepa de la reducción regional que advierte el GORE",
       "link": "https://ladiscusion.cl/gobierno-defiende-inversion-sectorial-y-discrepa-de-la-reduccion-regional-que-advierte-el-gore/",
@@ -5622,17 +5633,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-10-08T13:46:05+00:00"
-    },
-    {
-      "titulo": "Servel y AMEA suscriben compromiso para fortalecer sus vínculos - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSWw0VGpfVnY3T3VDY2ZjZ3MtRFNEbHBKcGdEaU9STHRZTjdRbmk3T1JYRUxFVUFVelVCU1BDNUxORk9VZ2dzVkw1NF9Kd01JX00tSlVBanRic29nVEk2ZE1QVmZhZmd0WTZDVFljOXFEbmQ1LXc2T2RlYkZGN2NSaVgzVHp1cU9IT2ktS01Ha3JudU5EbVcxNnJoaFlYUFZLaFlrb1NqU2kxczlUSloxSE9lWkJtanJqaVRxbEltWFFyV0Y4VGdGczJtdUdrYmhkZzVrTEd4Zld3UHdhQnoycFNTZ2xvQmZuam9qNw?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel y AMEA suscriben compromiso para fortalecer sus vínculos&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-08T13:41:48+00:00"
     }
   ]
 }
