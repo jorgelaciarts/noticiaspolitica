@@ -1,7 +1,54 @@
 {
-  "actualizado": "2026-10-13T16:16:42.650808+00:00",
+  "actualizado": "2026-10-13T16:31:30.576486+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast inaugura la Semana de la Pyme 2026: más de 350 actividades se realizarán en todo Chile - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRTBKSTd5b2pOVnZkRW1wSWNCRHVyeE9weEtESTJuNm9xb09oRkZKN1o3enBKeUJ4VFpzenZLN1ctSDhOanhrb1hIREFJTzZGWG5pbmhXMVFTSTVkd05mZGZfOEVQeHBMX3BkVFVJLUN4S2tzSlpUTnIzZnlkMzJpMGZUNFVLVFNNNGlUWHQ5dGpQN2pXREpseWVoYlJhWVgwNGE4LVV5SmlhVVNESkgwdHZydFZXSTNGUXFaTF9DSXMzTlpIc2pDX2t5Q3gyLUowejU0bEUyOFdUUHVMRlo2UHBCSlR4VHZUN1d2TkhOZ0ZBU2M?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast inaugura la Semana de la Pyme 2026: más de 350 actividades se realizarán en todo Chile&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-13T16:25:12+00:00"
+    },
+    {
+      "titulo": "Diputados UDI piden al Gobierno incluir a autopistas interurbanas en renegociación de contratos: Apuntan a altos precios de los peajes - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVF9PMjFySmF3NnRMRFJtTlBzTHJlZWQ3V3ZsaXFEeG5pcHU2SXVGNnZkX1hPemhrSnhHZ1diYjNPaERKLU5Ocnk2VEljNVdMd3B2dVdCZ3NFZkFRQmVpNlpoc21mUkRPdENhWXZpS0ZxdWp4VWhhcF9ZTjlBck1rZXFicC13YkExLV9xTGl6dFlRYmU3VlA1QlQ0eWN2dVhmNVdsTGdtVkE4TmlxUkt6dWhoMk9wYVlVVDNzSTRVWmtYSXl6SWk5RGViN0RPR2RBQVlkeXNzUTV6NVVLdkNpXzVxX2UwRHM3RHQ2YzdGbkZYOWozZnBF?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputados UDI piden al Gobierno incluir a autopistas interurbanas en renegociación de contratos: Apuntan a altos precios de los peajes&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-13T16:23:08+00:00"
+    },
+    {
+      "titulo": "“Si quiere polemizar conmigo, no lo va a lograr”: Gobernador Claudio Orrego responde a las críticas de alcaldesa de Las Condes Catalina San Martín",
+      "link": "https://cambio21.cl/pais/si-quiere-polemizar-conmigo-no-lo-va-a-lograr-gobernador-claudio-orrego-responde-a-las-criticas-de-alcaldesa-de-las-condes-catalina-san-martin-6ace490d466785053c49cf0d",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-13T16:21:32+00:00"
+    },
+    {
+      "titulo": "Diputada Ossandón (RN) sobre el vínculos entre partidos del oficialismo: \"Ya no fuimos coalición\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMXc5djhmdFJLYXhET21MY2RwQ05qak9UV0VBcWZwMER5b0FnaHkwVC1BUzI2bHpDZ1I2ODZuV3JtUnI2NTU2RkwyQktGbmF5WFVtRzA4UURMSld5TWtvRFhOcjFhSjk5aEVKTUpSWTFTVVo2V3E5YlFPVmZCbTBBUXFoSm5NNHl4dFZTZHVGWjZ4T0lCVzlZVlVLNHNuM2ptZVdLS3F5RU1GUzgyNzFEM2FVc3JydElxVnAtMXo5eGRzYXR3?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputada Ossandón (RN) sobre el vínculos entre partidos del oficialismo: \"Ya no fuimos coalición\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-13T16:18:00+00:00"
+    },
     {
       "titulo": "FICValdivia parte con defensa de la cultura como motor de desarrollo frente a recortes y pifias a seremi de Kast - El Desconcierto",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWG1jdTJPaDY4OXVZUDQxSWQxTUZoeEItdGQyUElvdHA4bnZMUFo5WU0xcXZrV1pGR2pRNHFrTlBQMk4zdFR2dkFZRV9wODU2bVNLLThZLVdKdkJwVWZ1X0FRRzRMWWxiZ0RHRTB4bEJHcU1sMDA4c2JvckJBcE5KZzZaNGVDRUhoTEZLSU9nZ256Ul9adGlzRzhGTW1Jc1hLSmp0Q21jS3BHeHVqVGNOcThJWVU2VDZpUXVSbVdmTDkyeEtOWFRlSnVUS3A1ZnJnbWhLWlV3c1o?oc=5",
@@ -5587,51 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-07T22:17:00+00:00"
-    },
-    {
-      "titulo": "Incluye cambios al estado de emergencia: grupo transversal de senadores presenta \"acotada\" reforma constitucional en seguridad - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM3A0V09ISXA2UEpIcjBnYVJnUXJVZkdjN0lwOFlEY3g5RVJndlRqNUd2N2pUWWpzZUhLRS1pY2FuaHktWmRqY3ZjeHRWOGs0WmRzRFVtRWZSY2NVeldzTUppT3lQVHdaZVF2YlJCbWZZMXVmZkl6MUlPNWFmb3AyU3lGREstLUEtSlgyRXdCY2EtemRmd2JmRjVUY3V6S0Y3bHN1NFlJR01hS1U0VHFMQjB3VE1XU25YSENvUFlwMnZzeXotT3JYdmNMa2pJWEdoLW5SN0N1aDd6ZnU0ejY3N3RZVXlLQmlhVVVYa2k4Z3k?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Incluye cambios al estado de emergencia: grupo transversal de senadores presenta \"acotada\" reforma constitucional en seguridad&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-07T22:01:45+00:00"
-    },
-    {
-      "titulo": "Macarena Santelices renuncia al partido Republicano y se integrará como independiente a la bancada UDI - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzdDb3dzWl9CdmlQM25vUWJ3WG9LeEtRNTIxX2d5Ti1VSWZINEozdDRUUUVIR090azNtQ0Q1VHlEczRqNHpMSUY4M0ZiNHYzN0tDcVgyM3ZQSlJCcDZHaWJnUkJkQ0pGV0g2QVlSTjRxVFl5QWNKRE5EdFN0T2pTVXVSTXAtWUF5RkQtYjl3cUdKbHEyZndlLXJ5QkExM3ZlemFkU2dpaGtZRkxuSThYUXY3ZnF0TWVGSjN4bXVPMTBiVlZhRWVoNmR3YnJYQQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Macarena Santelices renuncia al partido Republicano y se integrará como independiente a la bancada UDI&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T21:48:24+00:00"
-    },
-    {
-      "titulo": "Cómo se originó el primer quiebre de la bancada republicana en la Cámara de Diputados que terminó con la salida de Macarena Santelices del partido",
-      "link": "https://www.theclinic.cl/2026/10/07/como-se-origino-el-primer-quiebre-de-la-bancada-republicana-en-la-camara-de-diputados-que-termino-con-la-salida-de-macarena-santelices-del-partido/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La solicitud de indulto que hizo el secretario general de los republicanos, Vicente Bruna, para un exintegrante del Movimiento Lautaro que asesinó a un carabinero en 2007 habría indignado a la parlamentaria del distrito 12, quien comunicó su salida de la tienda en la tarde tras hacer un reproche a la directiva por la definición otorgada. El diputado Benjamín Moreno, líder de la bancada de la tiend",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T21:37:51+00:00"
-    },
-    {
-      "titulo": "En qué consiste el proyecto de seguridad presentado por senadores: reemplaza la iniciativa del gobierno - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWxwSWdHNHpTMWNVS3RMVWFDTVh5RkVQY3hCUE9uWGh3Y1BiTkpiT1FVTVEtODdnZlBQVmVWNmZQemNQZVJjaUNxRHp0M01pNVZ6YmRzd3gxb3otWkxrSWJxX2xVcGQ1OFIxWVN6QUYxb1RFeHhpTzBQRV9Gd1ZpZlVaWjhPa0pfeHd2RjMtQm5GRDRpeUlmbUJMbDZ2MUlvVHZLZlJPejh6dkhzWTAxbHJDZ1c0UkdRLTNpLTNQbw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "En qué consiste el proyecto de seguridad presentado por senadores: reemplaza la iniciativa del gobierno&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-07T21:30:00+00:00"
     }
   ]
 }
