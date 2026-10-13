@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13T20:01:46.120358+00:00",
+  "actualizado": "2026-10-13T20:16:24.042378+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Metro “La Moneda” se cambia simbólicamente de nombre a “Semana de Las Pymes” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSmZNUWhUWU14N1ctZmkzalhVNE5fUjY3Ul9hVmowaVJYTzQtSENydmFXUm9sbUdiZjd2R28yOWZON0E0NnRIZHFSdHM3ODgwcXNWV09rQU5YZW95OVdTNWNTUWU5Z0tTYUVHdHQ4SUpmbm4xLUMzNEhoNXlQSjlJeGk0OTZObHhoVXEtYXVCZVdHLXNCLVpTTjZINUpmVFZJZUFmaEVB?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Metro “La Moneda” se cambia simbólicamente de nombre a “Semana de Las Pymes”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-13T20:05:13+00:00"
+    },
     {
       "titulo": "Vicepresidenta Fenats por recortes de Kast: «Lo que se ve es un privilegio de la minoría a costa de las mayorías»",
       "link": "https://www.elciudadano.com/chile/vicepresidenta-fenats-por-recortes-de-kast-lo-que-se-ve-es-un-privilegio-de-la-minoria-a-costa-de-las-mayorias/10/13/",
@@ -45,6 +56,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-13T19:42:13+00:00"
+    },
+    {
+      "titulo": "Kast designa a Leonardo Romanini como nuevo comandante en jefe de la FACh",
+      "link": "https://www.lanacion.cl/kast-designa-a-leonardo-romanini-como-nuevo-comandante-en-jefe-de-la-fach/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast designó este martes al general de Aviación Leonardo Romanini Gutiérrez como nuevo comandante en jefe de la Fuerza Aérea de Chile (FACh). En una decisión que marca el relevo de Hugo Rodríguez, quien ocupa el cargo desde 2022.El nombramiento se concretó durante una reunión en el Palacio de La Moneda, [&#8230;]\nThe post Kast designa a Leonardo Romanini como nuevo coman",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-13T19:23:00+00:00"
     },
     {
       "titulo": "Kast designó al general Leonardo Romanini como nuevo Comandante en Jefe de la FACh",
@@ -5610,29 +5633,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-08T06:45:00+00:00"
-    },
-    {
-      "titulo": "Servel, Ministerio del Trabajo, Dirección del Trabajo y Superintendencia de Seguridad Social detallan medidas para voto de trabajadores - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPelMxMkpGaVk0OTM4VVJrZE5WQnp0QXZtYWg3eDJTWkdRbUtfa1BDY1BwUFhCSTN1Y0Fsci12a2xfak13bHNDRzdnZFdUaEd3OFB3SW4xRDFXekRXeEt2UE1hYTl5aER5Rm83MUQwM0x5eE9QaWxiNWFucmdaUkc5WFBB?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel, Ministerio del Trabajo, Dirección del Trabajo y Superintendencia de Seguridad Social detallan medidas para voto de trabajadores&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-08T06:28:13+00:00"
-    },
-    {
-      "titulo": "Primarias Presidenciales 2021 - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2NpeFI4TUJHWmdkdmlTOEYtU0pIVjBIS2RVNWVrc3EyN2d6aUYzR1N1SEZueURoRWd4NjhSd01iVmRuRms2X3hpOEVGa2Z6a2FjclMxM2U4VkRoZWM1Nm8xZDRfN3RsaVZBdFdhby1PWWlDZ01QZ2hIZ3J3c0RLbTNMTlV0anB3RTNTQld1TjhCNWVVMEhINkcta2ZOTTA?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Primarias Presidenciales 2021&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-08T04:28:51+00:00"
     }
   ]
 }
