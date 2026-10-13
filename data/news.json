@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13T02:46:20.876040+00:00",
+  "actualizado": "2026-10-13T03:01:28.436069+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Intensas lluvias y granizos dejan 16 viviendas inundadas en Curacautín",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/intensas-lluvias-y-granizos-dejan-16-viviendas-inundadas-en-curacautin/2026-10-12/235142.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Varias viviendas inundadas y sectores con importante una afectación debido a la acumulación de agua dejó una intensa tormenta registrada durante la tarde de este lunes en Curacautín, Región de La Araucanía.\nEl fenómeno meteorológico estuvo marcado por precipitaciones abundantes y caída de granizo, que se concentraron en aproximadamente 20 minutos, y provocaron un rápido incremento de los caudales ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-13T02:51:42+00:00"
+    },
     {
       "titulo": "Exministra Vocera Cecilia Pérez (RN) se une a presión para evitar cierre de Prodemu: \"No se puede borrar de un plumazo”",
       "link": "https://cambio21.cl/politica/exministra-vocera-cecilia-perez-rn-se-une-a-presion-para-evitar-cierre-de-prodemu-no-se-puede-borrar-de-un-plumazo-6acd993d6471ac13e15f0753",
@@ -5620,19 +5631,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-07T17:40:58+00:00"
-    },
-    {
-      "titulo": "Presupuesto 2027: Diputados cuestionaron recortes en fondos para Ley Ricarte Soto",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-diputados-cuestionaron-recortes-en-fondos-para-ley/2026-10-07/143824.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Parlamentarios manifestaron su molestia a la decisión del Ejecutivo de reducir en casi un 14% el presupuesto destinado en la partida de Salud a la Ley Ricarte Soto.\nDe acuerdo al proyecto ingresado al Congreso, este ámbito tendrá una baja de 28 mil millones de pesos para 2027, lo que puede tener efectos en la continuidad de tratamientos e ingreso de nuevos beneficiarios al programa que actualmente",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T17:38:24+00:00"
     }
   ]
 }
