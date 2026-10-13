@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-13T14:46:20.016737+00:00",
+  "actualizado": "2026-10-13T14:58:19.363328+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senadora Provoste advierte al Gobierno: \"Este presupuesto para el 2027 no tiene foco en la generación de empleos\"",
+      "link": "https://cambio21.cl/politica/senadora-provoste-advierte-al-gobierno-este-presupuesto-para-el-2027-no-tiene-foco-en-la-generacion-de-empleos-6ace43544004cc20514d43a3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-13T14:48:43+00:00"
+    },
     {
       "titulo": "La alerta de Tohá a Kast a siete años del estallido social: “Si el Presidente actual incurre en hacer indultos, va a generar un quiebre muy grande”",
       "link": "https://www.theclinic.cl/2026/10/13/la-alerta-de-toha-a-kast-a-siete-anos-del-estallido-social-si-el-presidente-actual-incurre-en-hacer-indultos-va-a-generar-un-quiebre-muy-grande/",
@@ -25,6 +36,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-13T14:31:30+00:00"
+    },
+    {
+      "titulo": "Luis Pardo negó que la derecha esté \"con colitis\" por Bachelet",
+      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/luis-pardo-nego-que-la-derecha-este-con-colitis-por-bachelet/2026-10-13/112652.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado RN Luis Pardo negó en El Primer Café que la derecha esté \"con colitis\" debido al regreso de Michelle Bachelet a la política contingente, y a la eventualidad de que asuma una tercera candidatura presidencial.\nDicha expresión burlesca fue planteada por Francisco Vidal (PPD) en una entrevista con El Mostrador, y contestada hoy con ironía por Pardo en Cooperativa.\n\"Francisco Vidal tiene al",
+      "categorias": [
+        "Partidos políticos",
+        "Candidatos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-13T14:26:52+00:00"
     },
     {
       "titulo": "Timonel PPD: Todos queremos saber si Bachelet piensa ser candidata",
@@ -2815,6 +2839,17 @@
       "fecha": "2026-10-09T16:20:00+00:00"
     },
     {
+      "titulo": "Sin acto oficial por emergencia tras aluvión: Presidente Kast promulga la Ley de Reconstrucción Nacional - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU0lrTXo2dTlmTzNkb0x5U1pGMUE2VXhPNXQtblUxbHlHN3F5VzdVOG5PQU01ZnVXSnBray1mcGRKQWdvMmZQc1Q4S1lGVGllX29QM0M4OTdDTWxhdXB6UVBNZFdyUmF5MXNYclBXZFpCMFFzcEFWVjZOdWJCZ0Y1QmszajFwRTl2N1NOWDhpLW5acEMyMVlhaUV3dHZXUFJYTnd1WXhmX3l4Q0E5aFFYelNsU0t1eUZjVWNiV0pQcm1EWEZ0cmlqNGZrQ3dlVmoya1ROczZ3?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Sin acto oficial por emergencia tras aluvión: Presidente Kast promulga la Ley de Reconstrucción Nacional&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-09T16:14:35+00:00"
+    },
+    {
       "titulo": "Diputados UDI anuncian indicación para prohibir al SII cobrar impuesto por apuestas en línea - Diario Financiero",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaTNfVlZfcGRENHFwSGU3NmhmbGJwN3FJdi1ndlZ3Y2xpWnZUclprLUNnaWJqS2x1NVdMWnRTVTZCcFlCWmJBYVp3UVhoZVhWUjJNUndHYU01OTVMLTJ2UkJ4emJOejJNenEwM3pLSkQ0QjRWeGxjQU54M2w0M0Q1TmF0aTFLTktlZ1hvejBwOXJtNTBtR2N4OGpVOV9kaXBHaWNkc2FGNFh3aHA3SlFvWXQ5VFRvS2h4am00R0pn?oc=5",
       "fuente": "Diario Financiero (vía Google News)",
@@ -5596,40 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-07T21:00:10+00:00"
-    },
-    {
-      "titulo": "Kast emplaza a diputados que rechazaron las RUF: “Espero que reconsideren que esas leyes son importantes” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWEtneXZoMG9XVFdKSzg3dTRielgtMkNNQ2tTRWdjWFNNemFZckVwR2dBdWJlVTg4RXhGdWtxN0xpQXhydlhxZlp6WnpvVGhOTGdvMVU2bUNsNEkxSEI3SVZ0cmt2TkpIWG93bjdGUlpjSHBWU0Zhek1nb21KNVUtN0Q0cF9pTjlieVhDeGM0cG5HM3R2LVoxd0cxWjFKVER0TTJnOHZPdmRkbDlfR2dVT2t6ZWU2d2NMV19YbDdEMy1GdVduZVNWSmFnckVIeThSSlNVcTBXb1daVzVOSTR30gGAAkFVX3lxTE5yb0xVQjB3SHVoN0lKODRpZTJYWGE0X3ZXTmwtczNkSjMxU3ZWbk1LUkF4TkliX2VlUDZKc1NPVXpzd3J2TEpUOE8tU01SNlAwaTJqLUgybTM5aTNLOUFLWDJ2MkpRQm1RbjNncmlsdVlzcUNNV3FGS05kNDVILVBFZnVYQXFlZkZoem9ObjlTajBQUGtMbUgzN1dzRld5YlpOa1ZUWG5oVVdva0xPY2M1SGZQUEN6QTlLcnFsZ0xMWHNfVEpiN0tWYVJNaUxxZ1lrUWs2b0tSbkJJdFhrQ1FoVkhTNFRrSjY5Xy00eU41ZktaTnBNbXBTWGdiZFZQTTU?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast emplaza a diputados que rechazaron las RUF: “Espero que reconsideren que esas leyes son importantes”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T20:57:38+00:00"
-    },
-    {
-      "titulo": "'Educación es mucho más allá de un solo Gobierno': Kast durante reinauguración de escuela en Punta Lavapié - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT3N1UmlDdHBoZmlmSDdoQUNsRkMtNDJ6eXBKQlRWOF9Zb3huaENCOG83VFl4NzVRdzVXb19ISlVMUnlrRXhsaHQza0VPX1AyTlBGYm9nVVdmWHdRQXpDaGF4RGNwbnBVZ25ETlZ3OW9Cd2o4OVdnQVhqUEEyQmJFSzlFZUhsa0U3NFoxcnkzZG5hNW1wd2YzTHFjeG1NdnRsa210TXJ4NU1lT0ozT1lPMzhSRzNWVjY4VTUzTG9JNTlKNkxJSTVSdFpPd3ZaSDJaN1BUc1ZseHpVN0FJMkZ1WtIB5gFBVV95cUxQSGhwWUZRRHFIa3llcXU2S3F3cExoeGI3aXVBdWNIT280Z2duQzNCX2VjaUdvbGQ5bnFCZF9vRzd4Q0RQa05jVUJFSFE1MklzdUExTlNPX1g4NklOaEdSWXBXcDVnaUN5TC0ycGtQbFZnb1NSakYwTUFBZ3o2X192Z2MxajU5UWhsS3FiSEQxTFZ3ZmdlY2RnWkFDYjBZVmhRbTYzcVdNSll2MExFSExiXy1jeFAwTHhjMWFBUElCcEs1dm1tRUFnRXV3T3U4NlVwel9LRDluRlN1d1dNdDJDYXZQUWUzdw?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "'Educación es mucho más allá de un solo Gobierno': Kast durante reinauguración de escuela en Punta Lavapié&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-07T20:55:00+00:00"
-    },
-    {
-      "titulo": "'Ningunean' a María José Quintanilla y Jaime Coloma reacciona con molestia: \"personas ignorantes\" - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWWJUQjVCY0Z3X3dwR0RyY2I2bDRSWnJiUWNfdDg0cDRlN2RWdDZyU1FHNFViMjAyY1JDRDduRVpWMUFFcnMxUFcxOVJIX3NlRmo4WDVSOU5WeEpKMVoyLVZ2Qnl4TjNmUWttTzJaTUZaOFNCLUJ6MDdYeXQwSmVrUkNTNGhTQTRRNU9DSGFfUEpzMnBhajFmVzdCWHlFak5ySjR5bnBGZFdyeHNLNDZ6a25Ydm1ZTTM2TndTUFdOREpEcUU?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "'Ningunean' a María José Quintanilla y Jaime Coloma reacciona con molestia: \"personas ignorantes\"&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-07T20:53:54+00:00"
     }
   ]
 }
