@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-14T00:35:09.647547+00:00",
+  "actualizado": "2026-10-14T00:46:19.738277+00:00",
   "total": 500,
   "items": [
     {
@@ -14,6 +14,17 @@
       "fecha": "2026-10-14T00:31:04+00:00"
     },
     {
+      "titulo": "Muerte de minero en Illapel: diputado Salinas exige reforzar fiscalización - www.elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcENPeVA2Ulg5VFVUZ2FobnM4YklTeGJKeThFbnNsSENhOGtxUGR1TGFHSVN3SHBiUjN2aTlzNVBCc0hTeWtUVDNmRm9VMlhnU2xzLVprVHNCREVZUjcweFNiNl95Znh0X1pZbG5jQU5lRXhmVTUyOHBpSGJwcEEwUVVYbjd1c0E3WURqZWtaQ3RvLVpaTkpYTTNTNFBvS3VVR2FpRk5IOVpjMlRlekF3SVFNLXhSNlJzemt3?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Muerte de minero en Illapel: diputado Salinas exige reforzar fiscalización&nbsp;&nbsp;www.elobservatodo.cl",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-14T00:30:56+00:00"
+    },
+    {
       "titulo": "Arreglos en las veredas de la villa Kennedy alcanza un 95% de avance",
       "link": "https://ladiscusion.cl/arreglos-en-las-veredas-de-la-villa-kennedy-alcanza-un-95-de-avance/",
       "fuente": "La Discusión (Chillán)",
@@ -23,6 +34,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-14T00:27:37+00:00"
+    },
+    {
+      "titulo": "Presidente Kast y ministra Arzola firman Compromiso Nacional por el Aprendizaje Lector - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcG54WWhjMkNkZ2txcFdnUUZRNjF6Nllaak9jWlNRZ3ZCMmItTmZRYnJ5c1VjSTlwZThGWWgyOFlZTUJjNWtqTnFmS3FKcThPeTFZN2JncHo0LXQ5Um9yMHV3d0k3YTNpNWRDcGVhZEV3Q0Y5MjBUeHBhUlZ1MFZhT1RWQmFmeFZjdFJHZWhDcGMzbzZ1V1ZlQVR0MFpJYVZ4X01IampTZU9oNUxGMm5EUUpHREUyQVZ6V0tNTGh1MlpHMm4xbkRUSEo1am5XZVpCM3FuU2g0YzdQQ253eUpV?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast y ministra Arzola firman Compromiso Nacional por el Aprendizaje Lector&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-14T00:15:52+00:00"
     },
     {
       "titulo": "Kast vuelve a llamar a acuerdos y emplaza a los sectores políticos: “Chile nos necesita unidos” - La Tercera",
@@ -5608,28 +5630,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-08T14:29:29+00:00"
-    },
-    {
-      "titulo": "Constanza Martínez (FA) y eventual candidatura presidencial de Michelle Bachelet: “Es bueno saber con quiénes contamos y en qué estamos” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOVFiYUk3Q1B0MVFZajNIVG5WNVVCQnVFZ0FSSC1PN2dCNDNFa1BoNldhM3RYOWUycVVONEFUVzlGcnFxdDdSU1ZWNDQ5eFp0eUd2MDdvbG1mNkFLSUpBLWRKcTA1UThVbFJEcTZETEEzZWtYYkw4Nm9RTGtOaVRkLVFLREpHN0dBVjdTeVpZdjh5aU5yYjlMdkpQd2Q3TERheFpaQkt3Tl9aYS1CUkM1ODE5cEM0VnI3THJNX2lodVdKU29aZGJuV0k4U1JHNjM4ajFNcEdBWVR0WFllOE9VZVNUQmI1MWpjVF8xX2Y3ajlsQU9r?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Constanza Martínez (FA) y eventual candidatura presidencial de Michelle Bachelet: “Es bueno saber con quiénes contamos y en qué estamos”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Candidatos"
-      ],
-      "fecha": "2026-10-08T14:21:31+00:00"
-    },
-    {
-      "titulo": "Diputado Cristián Tapia por investigación sobre irregularidades en producción de Codelco: “Lo más probable es que presentemos una querella - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPekZQTmxJMGdRT3lvYVJpMmR4Qk9xUlZORTJCaXlVTldDX01keVZIZGg0aXJvMEF6QWw2Yk9RZ1J2QW1GbFB2bm8tWWEwT2V1ZWc5bFNQNy1kRFZ5VDN0dDByTmZpSUZnS1dsLXZfbUlBaGlnNFNpX2dSUnVsb29rVlhrQUlNU2pqSWlnU3UwQnhaTnluajZ5SnNZWVVwYjdEb1FDNlNJdGYzMnVnd0txUmtfdw?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Cristián Tapia por investigación sobre irregularidades en producción de Codelco: “Lo más probable es que presentemos una querella&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-08T14:20:00+00:00"
     }
   ]
 }
