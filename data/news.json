@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-14T15:02:06.736009+00:00",
+  "actualizado": "2026-10-14T15:16:37.318821+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "\"Históricamente han servido\": Partidos políticos se abren a debatir entrega de bonos ante alto desempleo",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/historicamente-han-servido-partidos-politicos-se-abren-a-debatir/2026-10-14/115342.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Dirigentes de partidos debatieron en El Primer Café sobre la posibilidad de que el gobierno entregue bonos ante las altas cifras de desempleo, desestimando nuevos retiros de dinero desde los fondos de pensiones.\nLa diputada Ximena Ossandón, vicepresidenta de Renovación Nacional, aseveró que \"las cifras son más que preocupantes, Chile no ha recuperado las tasas de desempleo que teníamos antes de pa",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-14T14:53:42+00:00"
+    },
     {
       "titulo": "Codina anuncia que se buscará comprar radares meteorológicos para la RM con el 2% del presupuesto regional",
       "link": "https://www.lanacion.cl/codina-anuncia-que-se-buscara-comprar-radares-meteorologicos-para-la-rm-con-el-2-del-presupuesto-regional/",
@@ -5622,17 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T18:37:56+00:00"
-    },
-    {
-      "titulo": "(VIDEO) 🌡️ Termómetro Ciudadano | ¿El Gobierno de Kast está siendo servil a Estados Unidos?",
-      "link": "https://www.elciudadano.com/reels/video-%f0%9f%8c%a1%ef%b8%8f-termometro-ciudadano-el-gobierno-de-kast-esta-siendo-servil-a-estados-unidos/10/08/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nExplora la percepción de los chilenos sobre la relación del gobierno de Kast con Estados Unidos, después de la adhesión de Chile al Escudo de las Américas y las declaraciones del embajador de EE.UU. sobre el Estrecho de Magallanes. Un análisis ciudadano sobre la política exterior y su impacto local.\nLa entrada (VIDEO) 🌡️ Termómetro Ciudadano | ¿El Gobierno de Kast está siendo servil a",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-08T18:30:10+00:00"
     }
   ]
 }
