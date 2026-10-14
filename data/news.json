@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-14T14:41:51.407583+00:00",
+  "actualizado": "2026-10-14T14:46:36.574973+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Codina anuncia que se buscará comprar radares meteorológicos para la RM con el 2% del presupuesto regional",
+      "link": "https://www.lanacion.cl/codina-anuncia-que-se-buscara-comprar-radares-meteorologicos-para-la-rm-con-el-2-del-presupuesto-regional/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El delegado presidencial de la Región Metropolitana, Germán Codina, informó respecto a la habilitación, por parte del Presidente José Antonio Kast, del 2% del presupuesto de la Región Metropolitana. Se busca destinar los recursos a la compra de dos radares meteorológicos. Estos permitirán anticipar las intensas lluvias a causa de El Niño. Codina, en conversación [&#8230;]\nThe post Codina anuncia q",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-14T14:41:44+00:00"
+    },
     {
       "titulo": "El round entre Pavez (UDI) y Schonhaut (FA) por la “comunicación de riesgo” del Gobierno y la defensa de La Moneda a su despliegue",
       "link": "https://www.theclinic.cl/2026/10/14/el-round-entre-pavez-udi-y-schonhaut-fa-por-la-comunicacion-de-riesgo-del-gobierno-y-la-defensa-de-la-moneda-a-su-despliegue/",
@@ -162,6 +174,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T12:59:28+00:00"
+    },
+    {
+      "titulo": "Servel y Segpres acuerdan trabajo conjunto para avanzar en proyecto de ley en favor de personas postradas y electrodependientes que no acudan a votar – Servicio Electoral de Chile - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORnpTX1BQbTh5cTNFal82RlRIbHkyTmFyWVE4cWg5ZEdWOGxsVHVxc0RSZG03clNPSjBlQ3RwalNrSDF3OG1qMzlZSlFXLXRXcFYzMGxaZXhEbFBudDdTb2tpNGh4eUpmeDN1WXd3bGFIdHRmLXVRbGdjSmJKazYxaV9oZm9aU3djRnVqN1ZvZzJ5QlFLdVViYWpfMzcwdnc0WXdqY0VyZng4WEE3c3FJREo1cllpanEzdTFXeDRsVE0wNm01RFZya1RSNDNkQ2FXMGF2SnlvcXFSSS1Nd1M4TzgwWFRXNVhlLV8tYlllMjFXY3lsVWpJZENVaGpOTWppbDFKdUgxRmlpbGJheXVHT3FyZks1cjQ?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Servel y Segpres acuerdan trabajo conjunto para avanzar en proyecto de ley en favor de personas postradas y electrodependientes que no acudan a votar – Servicio Electoral de Chile&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-14T12:57:43+00:00"
     },
     {
       "titulo": "Chile a la cola de Sudamérica: FMI recorta drásticamente proyección de crecimiento a 0,6% y anticipa más desempleo",
@@ -5610,28 +5633,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T18:29:21+00:00"
-    },
-    {
-      "titulo": "Recolectores de basura persiguieron a dos ladrones en Temuco: Recuperaron celular robado",
-      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/recolectores-de-basura-persiguieron-a-dos-ladrones-en-temuco/2026-10-08/151618.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un grupo de recolectores de basura persiguió y golpeó a dos presuntos delincuentes que habrían robado un celular a una mujer en pleno centro de Temuco, en la Región de La Araucanía.\nLa situación ocurrió durante la madrugada del pasado viernes 2 de octubre y quedó registrado por una cámara de seguridad de un local nocturno, aunque las imágenes fueron difundidas recién en las últimas horas.\nDe acuer",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-08T18:16:18+00:00"
-    },
-    {
-      "titulo": "\"Lo cortés no quita lo valiente\": Parisi se distancia de declaraciones de diputado Olivares sobre Bachelet - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWpaN2FUY1RZN001dEVncVpZWDRpTGFOekFfeFBPSVdZU2JlYnRPN1ZUazNhbkpGZWxqanNGQlhDbGttZUZqS0tnN0RFT1o1WGR1Y3JiTXBCeFhGaENWWGk4Y0RVRVpueFRYVGthU1NoZ1FVcjQ5NnRXTTlQZVdacUtfa2NUMTEtQTlwQUlyTWl6WThtdDZDbHFfQ25kY1lheXFPUFNMVlBaTDh0ZEJmVjc3d280b2RhbFE3QVdkVE9FMGs?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Lo cortés no quita lo valiente\": Parisi se distancia de declaraciones de diputado Olivares sobre Bachelet&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-08T18:16:00+00:00"
     }
   ]
 }
