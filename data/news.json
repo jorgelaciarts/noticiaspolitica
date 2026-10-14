@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-10-14T14:01:42.046007+00:00",
+  "actualizado": "2026-10-14T14:16:24.618981+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente del partido Republicano pide a Kast libertad para policías presos en el estallido social: \"Defendían la democracia\"",
+      "link": "https://cambio21.cl/politica/presidente-del-partido-republicano-pide-a-kast-libertad-para-policias-presos-en-el-estallido-social-defendian-la-democracia-6acf8c69f3e6402bf400bc93",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-14T14:09:50+00:00"
+    },
+    {
+      "titulo": "Inundaciones en Ñuñoa: Sichel pide auxilio a mineras por capacidad de motobombas",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/inundaciones-en-nunoa-sichel-pide-auxilio-a-mineras-por-capacidad-de/2026-10-14/110913.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El alcalde de Ñuñoa, Sebastián Sichel, hizo un llamado a las empresas mineras para que faciliten motobombas de mayor capacidad y permitan acelerar la extracción de agua desde los estacionamientos subterráneos de un edificio ubicado en San Eugenio, tras las intensas precipitaciones, el granizo y el tornado que afectaron ayer a la Región Metropolitana.\nLa emergencia provocó la inundación hasta el te",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-14T14:09:13+00:00"
+    },
     {
       "titulo": "Ataque ruso contra Kiev deja al menos tres muertos y más de 20 heridos",
       "link": "https://www.lanacion.cl/ataque-ruso-contra-kiev-deja-al-menos-tres-muertos-y-mas-de-20-heridos/",
@@ -5608,28 +5631,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-08T17:31:41+00:00"
-    },
-    {
-      "titulo": "“Morocho” ya tiene hogar: fue adoptado por la Municipalidad de Santiago",
-      "link": "https://www.lanacion.cl/morocho-ya-tiene-hogar-fue-adoptado-por-la-municipalidad-de-santiago/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El perrito “Morocho”, que fue rescatado de las aguas del río Mapocho, y atrapó la atención del país y de la prensa internacional, ya tiene un hogar. Fue adoptado por la Municipalidad de Santiago. En el municipio tendrá un rol dentro de la Dirección de Seguridad.  El alcalde Mario Desbordes confirmó lo anterior durante una [&#8230;]\nThe post “Morocho” ya tiene hogar: fue adoptado por la Municipalid",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-08T17:25:00+00:00"
-    },
-    {
-      "titulo": "Por segundo año consecutivo: NAU y Amanecer pasan a segunda vuelta en las elecciones FEUC y CS 2027 - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRnBDQ0ZKV21zekhKZ3VfRTZ2c2VYbEVZTGQ4WTBPTlQ4VDhrT2UzeTZvZUZKNU5MTm1oMjU5Q1RTQTlQNXNpd1kxR2NJSHZCOXBqVWozbHl5alFPWTV5Vmd6QlpHdkxIRFEtbk5POUV5VXJJbF9WOHo0UEFHU2s4QS0wYmozZ1VRclZlTGo3MXpNVTZJUktVVG9hcGxqMzNUa1ZRZUlhUXg3WDM2dHJ5RGxEekVDWDFHdmtLZlRLdEJITWZENDJLODNLN0VYWEk?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Por segundo año consecutivo: NAU y Amanecer pasan a segunda vuelta en las elecciones FEUC y CS 2027&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-08T17:24:38+00:00"
     }
   ]
 }
