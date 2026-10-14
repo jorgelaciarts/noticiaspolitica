@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-14T11:31:23.323072+00:00",
+  "actualizado": "2026-10-14T11:46:35.262550+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Un presupuesto que debe mirar a Ñuble",
+      "link": "https://ladiscusion.cl/un-presupuesto-que-debe-mirar-a-nuble/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El debate por el Presupuesto 2027 ha instalado una discusión que Ñuble no puede observar desde la distancia. Mientras el Ejecutivo defiende que la inversión pública debe evaluarse considerando no solo los recursos del Gobierno Regional, sino también los que ejecutan los ministerios y servicios, desde el GORE se advierte que la reducción de su [&#8230;]",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-14T11:46:03+00:00"
+    },
+    {
+      "titulo": "El partido PDG evalúa impulsar nuevo retiro de fondos ante gran cesantía: Gobierno recuerda que \"no fueron una buena política\"",
+      "link": "https://cambio21.cl/politica/el-partido-pdg-evalua-impulsar-nuevo-retiro-de-fondos-ante-gran-cesantia-gobierno-recuerda-que-no-fueron-una-buena-politica-6acf6917271da8267a52df83",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-14T11:38:33+00:00"
+    },
+    {
+      "titulo": "Plazas, áreas verdes y calles concentran nuevas  inversiones estatales en Puerto Natales",
+      "link": "https://laprensaaustral.cl/2026/10/14/plazas-areas-verdes-y-calles-concentran-nuevas-inversiones-estatales-en-puerto-natales/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "De las cinco, dos son financiadas por el Gore, dos por la Subdere, a través del Programa de Mejoramiento Urbano, y una cuenta con financiamiento sectorial del Ministerio de la Mujer, en conjunto con Obras Públicas. La construcción de plazas, el mejoramiento de vías urbanas y la mantención de áreas verdes son algunas de las...",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-14T11:34:18+00:00"
+    },
     {
       "titulo": "Para comunicar sí hay plata: Gobierno de Kast propone aumentar 44% presupuesto de la Secom mientras recorta recursos a organizaciones sociales",
       "link": "https://www.elciudadano.com/politica/para-comunicar-si-hay-plata-gobierno-de-kast-propone-aumentar-44-presupuesto-de-la-secom-mientras-recorta-recursos-a-organizaciones-sociales/10/14/",
@@ -59,6 +92,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-14T11:00:00+00:00"
+    },
+    {
+      "titulo": "A punta de chaparrones, Santiago decidió comprar radares meteorológicos",
+      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/a-punta-de-chaparrones-santiago-decidio-comprar-radares-meteorologicos/2026-10-14/075808.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Tras un martes marcado por intensas lluvias, tormentas eléctricas, granizos y fuertes vientos en Santiago, el delegado presidencial de la Región Metropolitana, Germán Codina, dijo este miércoles, en El Diario de Cooperativa, que propuso formalmente la compra de radares meteorológicos para fortalecer la anticipación frente a fenómenos climáticos extremos.\nLa autoridad señaló que \"lo que indican los",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-14T10:58:08+00:00"
     },
     {
       "titulo": "EN VIVO: Diputado Soto (PPD) analiza la contingencia política y nacional - Emol TV",
@@ -5586,50 +5630,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-08T15:34:23+00:00"
-    },
-    {
-      "titulo": "“Es un error profundo”: diputada Santelices arremete contra Republicanos por respaldo a posible indulto a Aliste Vega - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxON3p2eWtuU2tQX1M1MmlxSmVXWGMwOTIyTDY4WHFhY2thUVJ5ZkVmcVlTYWR2MmF3NGl2UWRSeFhIeFo5cmlUdm85NWdBUWs5Y1RmMm5ISnJweklvcHpuR3VOYl84TjJ3VnFENmtaYW0xVm9UTFdPbVZVYW9QRmYtRVJDYmlYLWZ5Y3JuVWNHRXZYcnoyRUk1RnVRT0syemhPemVWUk5VX1FESjZzZjZ2SzR1X3FDNnJzLWN6SUlaZ0Z6MGZMODQxaEpCRHFJNHJyTHB0RWhKVGVRQ1FoaGFIYkVTckTSAfgBQVVfeXFMT0J2X01RNVp2Xzc3VzZuajhfaHdacUNJYzJSbG5ucTB5dGkzNGlHamh2aGI1UXZLOUZOelpMQVItNkVzNHJmUkRJVDN6TU1BYjhkOTRVaTFiNmlTcld3b01xV0RXUk1tcl9SSjlEUkVxdFhzUGhYMUdYYXNMQnppRFFYTTBkdERFSy1QSmd5c0JLekFNTFNndFM1R0JoVGFCQUZEY3gyWk5sLURfRlJ0ejVoWkMzVGNPSnk5UjVFUUxTWUNSX3ZMWEtYdnZJNERjLXVxRW5iR1hfR05Cak1qVnU3eDl6bkZRUEhaUF9WbnhlelVVV2pNcFE?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Es un error profundo”: diputada Santelices arremete contra Republicanos por respaldo a posible indulto a Aliste Vega&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-08T15:33:36+00:00"
-    },
-    {
-      "titulo": "Macaya (UDI) apela a la empatía de Quiroz para Presupuesto 2027 entendiendo que \"en Chile hay dolores\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOMWtpVFhMejkwTkVUZFBXSF9mcF9aeFY0UUR4VWEta0xOb3RJTVppY25Dam9HYTN3ZDJVSWdJRjVBdFd3NzlQcFZKa3ZSaFFyZXpSaTZfcmlHUjlTdnJMaUNpTWVpNF9GNFVOMXZ2UHRlSXE5QzBCeU5mOUd2RUNsYnZsV20taVpZS2dHXzNZMlRKMFFrUFhGWUR6WXBlaXJhQ2x6M0t2eWRfcFdLd2x1R3M2azVwb2l4X1F2QWp2VVRGN00tSDExY290dDRjNDh1NjVCSlFmc3Z5c2hjWG5qR2NTSkt6Q1dlQ2pzTVJsYmhMcjNQR3U2cnlR?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Macaya (UDI) apela a la empatía de Quiroz para Presupuesto 2027 entendiendo que \"en Chile hay dolores\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-08T15:33:13+00:00"
-    },
-    {
-      "titulo": "Kast entra sutilmente al debate por eventual regreso de Bachelet y habla de \"ansiedad\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOczJrbkZPRGcxNkFUUkZuWDFJeHNidThNWUJoRWlEN2dSMzEwS01ieFo5SHVjMGRheElwbzdKSkV1S1dHcmZvWUVYWkpHQjNjelNjclB1Z1llbDMyczBCRzhhdlN3T2twVVZOSHE0cmxmOElONjJYNDZwRXZZaUp0MHNLTFhPOEhoZnNqRTdyTms2MUdhSnJkUzN5S2twTUo2R3FCOE0xcWNvZ3ZvNmFBU0FWZHEtUDJaUWtiUjRnTzRqSGtIRjhVNmhGV2tBQzh1WWo3OXI5RGFncFRwNlhpT04wT1Vvcnc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast entra sutilmente al debate por eventual regreso de Bachelet y habla de \"ansiedad\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-08T15:29:40+00:00"
-    },
-    {
-      "titulo": "A Kast se le aparece Bachelet: “Es legítima” su candidatura y llama a evaluar sus políticas públicas - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNXdDVl9zR2NBZnVIVWM5V0ZrTV9HcDVSdDF6QWNNOExWUEI2NVFQYTZzZjdhTHJZeU5ITmVseEtUVTlERHlfQWJ1dl9ObE9rQ1JURjAzRVRtQXlXa3NrcC1OQUI5VGUwclpwZGpYeEpORGMyZWZ5Tld1aXNfbFFPVDBkd1hZUDM1WW03ejJkLXI3WVRxajA0cVBPMlRPV1puejU5aVBzTVVkSEdES3Frb2xMUzRwTExJR0hTM25saUJiT29FNjlTLTdQNnhGdml0bzlIeDR1VjFwNE5YSXU1dWtBNXE?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "A Kast se le aparece Bachelet: “Es legítima” su candidatura y llama a evaluar sus políticas públicas&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-08T15:28:55+00:00"
     }
   ]
 }
