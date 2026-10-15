@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-15T05:01:51.860972+00:00",
+  "actualizado": "2026-10-15T05:16:17.320662+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senador Flores exige investigar millonarias pérdidas de las AFP y evaluar compensaciones para afiliados: “No puede ser que pague Moya”",
+      "link": "https://cambio21.cl/pais/senador-flores-exige-investigar-millonarias-perdidas-de-las-afp-y-evaluar-compensaciones-para-afiliados-no-puede-ser-que-pague-moya-6ad05c780ecf4c71d2292c23",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-15T05:00:53+00:00"
+    },
     {
       "titulo": "Partido de los Kaiser, Libertarios arremete contra La Moneda por no conmemorar el inicio del estallido social",
       "link": "https://cambio21.cl/pais/partido-de-los-kaiser-libertarios-arremete-contra-la-moneda-por-no-conmemorar-el-inicio-del-estallido-social-6ad04e6baaa84368b41e2be4",
@@ -5631,17 +5642,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-09T12:30:00+00:00"
-    },
-    {
-      "titulo": "¿Y quién responde por las denuncias falsas?",
-      "link": "https://ladiscusion.cl/y-quien-responde-por-las-denuncias-falsas/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Señor Director: Hay padres que pasan años sin ver a sus hijos por una denuncia que después se cae. Nadie les devuelve ese tiempo ni nadie responde por el daño. El proyecto de la senadora Vanessa Kaiser busca justamente eso, que quien mienta a sabiendas ante un tribunal asuma las consecuencias. No se trata de [&#8230;]",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-09T12:22:25+00:00"
     }
   ]
 }
