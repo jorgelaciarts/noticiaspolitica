@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-15T04:01:48.455439+00:00",
+  "actualizado": "2026-10-15T04:16:41.221102+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido de los Kaiser, Libertarios arremete contra La Moneda por no conmemorar el inicio del estallido social",
+      "link": "https://cambio21.cl/pais/partido-de-los-kaiser-libertarios-arremete-contra-la-moneda-por-no-conmemorar-el-inicio-del-estallido-social-6ad04e6baaa84368b41e2be4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T03:59:04+00:00"
+    },
     {
       "titulo": "Partido de los Kaiser, Libertarios arremete contra La Moneda por no conmemorar el 18 de octubre",
       "link": "https://cambio21.cl/pais/partido-de-los-kaiser-libertarios-arremete-contra-la-moneda-por-no-conmemorar-el-18-de-octubre-6ad04e6baaa84368b41e2be4",
@@ -12,6 +23,19 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T03:59:04+00:00"
+    },
+    {
+      "titulo": "La Senadora Paulina Núñez (RN) quiere ser Presidenta. Señaló que se abre a una eventual candidatura presidencial: “No lo descarto”",
+      "link": "https://cambio21.cl/politica/la-senadora-paulina-nunez-rn-quiere-ser-presidenta-senalo-que-se-abre-a-una-eventual-candidatura-presidencial-no-lo-descarto-6ad04cc04f3b993edd321b53",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos",
+        "Candidatos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-15T03:49:00+00:00"
     },
     {
       "titulo": "Senadora Paulina Núñez (RN) se abre a una eventual candidatura presidencial: “No lo descarto”",
@@ -255,6 +279,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T22:45:09+00:00"
+    },
+    {
+      "titulo": "Bancada PDG pide revisar seguridad en faenas mineras tras muerte de trabajador en Taltal - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUtDUDVCSkQzWUlKQmdQQkVaRGdXREZXV25kaFBGN0NGVTNHMkU4TDNYLUJDWDBsMko3d2dOOVc4Y0VFNUZCdGhrZkx1MXhJSzRMcnlnYWM1eGxZcGIxZnFWblpwaTJpOGxEZTFpVld3SUJ4allUVE0yT0dmLW1DQW5EVW9tU0JKNHZRU0hHZkVPVTdMVmxRNVo4TlQ1M2JfbU1CZ25veFBhaWs4cTk1STlWbTM?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Bancada PDG pide revisar seguridad en faenas mineras tras muerte de trabajador en Taltal&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-14T22:43:27+00:00"
     },
     {
       "titulo": "El conflicto Servel-Hacienda que Interior busca contener ante recorte que amenaza futuras elecciones - BioBioChile",
@@ -1909,6 +1944,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-13T18:52:24+00:00"
+    },
+    {
+      "titulo": "acuerdo MOP TAG gobierno Kast - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS0Vzc3pfcnRLT2duVXp2QXVzbVlmZmVRLUVaNlN4NjJOOUNCWTgyZXFPcFFhWG92VDJja05uQjlpdm9zRFRqbnRzRGl3VzZOaEwyODg5ekJISW13anowYWQwdEdKckxoVmstdW4yeHMtRExsUkxNeUlJVGYtc0RCRXpkaFZzaWdfeXo2dDQ5WkFXNjA?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "acuerdo MOP TAG gobierno Kast - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-13T18:42:38+00:00"
     },
     {
       "titulo": "Alcalde de Laja defiende criterios de asignación de recursos y llama a mejorar la gestión municipal - La Tribuna",
@@ -5596,50 +5642,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-09T12:22:25+00:00"
-    },
-    {
-      "titulo": "Partido Nacional Libertario ratifica expulsión de militante por haber participado del estallido social - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNemlBdHhOSHRrZkdvLTNwVnFiX1Aza240OE4wOS13MEMwejVlTUEtamZ0UFVDenVlVGJFV1NBYnZVYTVIT1JPamZoYUpUczNBd2I2YXE5Y3ktX0xfc194bS1POHhYOTZYWEo3REFCYnlPRUxmTkVnZVZ2MjFYNVRVR19PV1Qta1lDMzFPWWl6NTZJZnMzbl9SbUlOTlNqMFJ0d2M5OGNYTzlmbDdXWTl3MDJIRXdsRWYxNnJvTGRJZmJaWDdnWWI2UER5YllHSGo1UVh3OTBiZXNVVDhkU3RmcElJbXYxcGlLUzVpczVGZGt2V3FvT2d4aF80c21VYVd5dVQyQVo4a2tXZGl6c0VBTA?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Partido Nacional Libertario ratifica expulsión de militante por haber participado del estallido social&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-09T11:56:17+00:00"
-    },
-    {
-      "titulo": "Un contenedor con baterías y autos en el cauce del  río fueron los hallazgos en fiscalización a chatarrería",
-      "link": "https://laprensaaustral.cl/2026/10/09/un-contenedor-con-baterias-y-autos-en-el-cauce-del-rio-fueron-los-hallazgos-en-fiscalizacion-a-chatarreria/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Un contenedor con baterías quedó al borde del río de las Minas después de que el temporal socavara el terreno de un depósito de chatarra en prolongación Manuel Aguilar con Circunvalación. En el lecho del cauce había, además, vehículos. Así lo constató una fiscalización de la Municipalidad de Punta Arenas, que este miércoles cursó infracciones...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-09T11:43:16+00:00"
-    },
-    {
-      "titulo": "De Grange: Ninguna medida preventiva habría evitado el aluvión",
-      "link": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/de-grange-ninguna-medida-preventiva-habria-evitado-el-aluvion/2026-10-09/084023.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El biministro de Obras Públicas y Transportes, Louis de Grange, afirmó este viernes en El Diario de Cooperativa que ninguna medida preventiva habría evitado el aluvión que afectó a San Carlos de Apoquindo, en Las Condes, aunque reconoció que existe un déficit de infraestructura para enfrentar este tipo de emergencias.\nConsultado sobre las obras pendientes y la revisión de otras quebradas que atrav",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-09T11:40:23+00:00"
-    },
-    {
-      "titulo": "Hitler Mussolini se perfila como alcalde en Perú tras ganar por solo 25 votos - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSER3V1JtSUJjN0pIQzF3eEliRmpVSnU2MEktaFZiMXFkVFdNbTA4TnFGRF9HY2VJTmR0Ym8zYUQwTHFjQTZ4QXdTQkVSNW1URDh4VDVwS2NXNXRzWllaVGZTODBFZ0tWc05PWXFKMEh0eS1CQ3Y0VC12a3BEZk12aDVyYngzYXVWc0hkNVJHWnhGZm01WWZScXViaDVsMnJjRGhkYg?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Hitler Mussolini se perfila como alcalde en Perú tras ganar por solo 25 votos&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-09T11:26:25+00:00"
     }
   ]
 }
