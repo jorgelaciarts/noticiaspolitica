@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-10-15T18:16:21.539632+00:00",
+  "actualizado": "2026-10-15T18:31:30.722846+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Sin definiciones presidenciales y preparando un documento: Las señales que dejó reunión de la oposición con Bachelet y Boric - Emol",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdE1SQmR0MFc1b3gtNzdnNmNjeEtZWE1HR1d2NjFmTmktOHExeFlEbzdLXzBJUVRvaFB3Yi03bmJvVFhpa19UTGpoS2NfdlF0VEw1SGw2Y2J1ZkpQa1ZhczZYMFIySV9maElFcjNKdEJSRm1ib2VnUndJanJwVzFMY2dSN19pVURUQURJZ196SmlVbmtvLWVacGNhVQ?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Sin definiciones presidenciales y preparando un documento: Las señales que dejó reunión de la oposición con Bachelet y Boric&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T18:26:32+00:00"
+    },
+    {
+      "titulo": "Michelle Bachelet suma a Gabriel Boric en encuentro con presidentes de partidos de oposición. Acuerdan estrategias y agenda conjunta",
+      "link": "https://cambio21.cl/politica/michelle-bachelet-suma-a-gabriel-boric-en-encuentro-con-presidentes-de-partidos-de-oposicion-acuerdan-estrategias-y-agenda-conjunta-6ad118a2c15c0801372ed7a4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T18:21:54+00:00"
+    },
+    {
+      "titulo": "Con Boric y Bachelet: oposición busca ordenar sus filas y dejar atrás el debate por una posible carta presidencial - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObmRTcFE4UTk5OEFJX0hCNUllVHRlOVlCc1VzUUVCckliV01Mc25NYVlZNkZqSEJlNGdISHV1WjQ4TDJFajlpZXM5SGRKWFJMaS1zMGhIUExnR1JuaE9yMW9obTlIYzdhYlRJWjlpa2x2TE1CRkI1RXB1UnBnNjlQVUZPY01jb3pXaWxPa3dPeFhTRnYwY01fWmdDa2x2TFJoMldTbmk5RVZ4UW5NbXNTQzVBMW8xdEEyLVpKTVpoWFBzS2xpNFlJSjBYd2V2MmZTX2FETkFjMkowa1hqZTNyTnJsOA?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Con Boric y Bachelet: oposición busca ordenar sus filas y dejar atrás el debate por una posible carta presidencial&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T18:21:10+00:00"
+    },
     {
       "titulo": "Kast sobre el estallido social a días de nuevo aniversario: \"Que no se vuelva a repetir\"",
       "link": "https://cambio21.cl/politica/kast-sobre-el-estallido-social-a-dias-de-nuevo-aniversario-que-no-se-vuelva-a-repetir-6ad115b993a54c7e650cdad4",
@@ -5615,39 +5648,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-10T13:30:00+00:00"
-    },
-    {
-      "titulo": "Bancada PDG arremete contra el Gobierno por \"tardía\" respuesta ante aluvión en Las Condes - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSVlNWGFnOGRfT0dzYWhMMGJGcndQMGZDZURzWHBxUkR0S2s3NTJjZ0pqVXpnN2VRRlo5aThBd3VvRlNxaDNGSTZ2SkxrOHVtZE5zYTFRcmVYdGhYRF8xS20zRHJvNjhtWDRhTGc4cVhnVDJOTXhZcURWQjRPRi1PbGN5cV9WUU5qczRkMDQ0c0VaMnYyZ2MxTWc5aGRyQzJKNVZGdkJhU2taaldXV29WSUIzdVVhSzFzOHpKRVRhRXFhZkFkUGtPVThnWHRaU29oS2FBbTBCbWg4NW5RaWg1cUJpbFNQMGlhUXdqUDIzQmNfT3RwNEUxVmF5Q0xPRU0?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bancada PDG arremete contra el Gobierno por \"tardía\" respuesta ante aluvión en Las Condes&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-10T13:11:18+00:00"
-    },
-    {
-      "titulo": "Alcaldesa de Las Condes cuestiona uso político del aluvión: “Me parece que está totalmente fuera de lugar” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaS1lNkEyVVE2TWV3RUhCSzFqSkdCUnY2WHI4MGFxOGlOLVFYQmJBUW1ZMHpFek9TaTkyakRiUUo1YVk3dE1YSHJrSW00bV80bk9KRDYyVFhGWUV0VThzZmNTMFhZaEVSQWd6cDJ3VDlEVWRNOHNsYkk1eHlHR211ZV9uQUFTYjdrZjZaZEVWTFZwSWFfaHBKTmtSYmZnQTZTMVllcExhb0NueE1NMXROcjhuNWQ5dHdHcjh1WUYyeU5nNVFlRXRmeEdnd180ekxLR2d6M1l30gHqAUFVX3lxTFB2dDJVT0ZLNjJGMmV0bnZTbDNrdjNORjByVk9fekhEWUNBOWg5YWNKSzhfWUFxWnRoY3RrMXlkdE12LWhHOEF4R0xEbkVRMVdRWUhIOEFtUjRHcGlSQjlaRjVKWHgtWFp2UDdVdDBzeGxNZkI2NHZ6NFBYRGN1NUU5SXk1VmItVXFBdkpEbWoxS1FRWC1EdVRReENIYThid3I3RXRjSWpMLVJTQlZnU0lMMDdxTFVuM3B6R0VhdEpkRm9rVkxuUTdwdWhPbjc0ekJNU1V4X1FXY21rWkt5M3plVl9abDU4a0ZJdw?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldesa de Las Condes cuestiona uso político del aluvión: “Me parece que está totalmente fuera de lugar”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-10T12:57:20+00:00"
-    },
-    {
-      "titulo": "Aluvión en Las Condes: alcaldesa compromete retiro de basura, vacunatorio movil y trabajos de despeje - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPemh5eG9WZTZkZlJxREU0T3FPTFA4Q3JOa1hMX0dSVUVKbmVXb1M4aHppMFRmeWFLWDQzUnlwY2o2bmhOcEZkVFA2VXVOeW4wNmw0WjBQdjRKbTc0cWVPREFmNGhpQVFnVGZZTU4wc0dlM1QtS2xMZnpqYnNDTnNTTGZqbllKNTNETlp5YzBKaGpHbENmR3JsTEZPa0ZyWThLYVl0UDRvM2dvMW9RVEFpYURMdFNxdlFNdDJKdm9DMC00ZGdJRDNRR0s3TUlsM2lrZTlTazVFcEQtaWR1WGptbzRCcm03cHBENmNEQ2pKa0J4VU1NWXg2OWJtUlpGeGw5UTV6dlNjYWJUR2tBbGkw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Aluvión en Las Condes: alcaldesa compromete retiro de basura, vacunatorio movil y trabajos de despeje&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-10T12:47:47+00:00"
     }
   ]
 }
