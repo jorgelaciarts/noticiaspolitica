@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-16T00:46:38.436221+00:00",
+  "actualizado": "2026-10-16T01:01:34.652016+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chillán Viejo suspende idea de crear un nuevo cementerio y buscan otros usos para el predio",
+      "link": "https://ladiscusion.cl/chillan-viejo-suspende-idea-de-crear-un-nuevo-cementerio-y-buscan-otros-usos-para-el-predio/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El proyecto de crear un cementerio municipal en la comuna de Chillán Viejo se suspendió y, hasta el momento, no hay siquiera una fecha en el horizonte para retomar la idea. La iniciativa había sido impulsada por el alcalde anterior, Felipe Aylwin, en cuya administración se compró el predio de cuatro hectáreas en el sector [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-16T00:57:44+00:00"
+    },
     {
       "titulo": "Reaparición de Bachelet adelantó el debate presidencial en la política regional",
       "link": "https://ladiscusion.cl/reaparicion-de-bachelet-adelanto-el-debate-presidencial-en-la-politica-regional/",
@@ -549,6 +560,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-15T17:20:00+00:00"
+    },
+    {
+      "titulo": "“Esperamos que no se vuelva a repetir”: Presidente Kast se refirió al aniversario del 18-O - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUtyVHI5Y1E0ZWtkMmlZYXk5aWdXbHlWSUl2aVRoVDNXbFpmZWtHVjgyWWRyLU5CMFhaOVdjNElGd0Z3UENLa1NnX29RTGdpNHprczVxWUl2Vk9WOXRJYUFNM1FFdkxwWmY4eUp3bHBHelRhbF9iN2REWi1JUVREV0FnMm53WUtaMHgtUjZzTmRaOVpFcVVwcHNEOWtPY0x0Mll6bzZmaWF4OEtqVldWNW9xSVN3UG1kWGhwbnJ0SXlTcG5FYkdsdFpueC03UjVMLVZhX25SOA?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Esperamos que no se vuelva a repetir”: Presidente Kast se refirió al aniversario del 18-O&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T17:17:03+00:00"
     },
     {
       "titulo": "Boric por críticas del Gobierno de Kast a su administración: Un gobierno que lleva siete meses y que le echa la culpa de todo al anterior y que la culpa es del empedrado: que se haga cargo de sus propias responsabilidades",
@@ -5624,30 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-11T12:37:00+00:00"
-    },
-    {
-      "titulo": "paz ciudadana seguridad gobierno kast - La Segunda - La Segunda",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMTk3ZGJ1R3c4cEpOWGgxMzBQdW1ka2JTNGU1cloyZlVlZS15c1R4d0Q4UHFkOVhhRzVJNEFmdUV1M1VRN1ZvTXJJZEpEZmNBcDhHMTliWUhsbURpUERBZ1dYUU5BdnNScUF2UFI2WUFGWGticnlyeEpJY3VXTzFVT2xWTkpNTGNlVkFGcHZKTURlNkhVUXJ1MmhiMmM3QQ?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "paz ciudadana seguridad gobierno kast - La Segunda&nbsp;&nbsp;La Segunda",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-11T12:07:19+00:00"
-    },
-    {
-      "titulo": "Camila Vallejo (PC): “El candidato Kast le pediría hoy día la renuncia al Presidente Kast, porque no ha cumplido nada de lo que prometió”",
-      "link": "https://www.theclinic.cl/2026/10/11/camila-vallejo-pc-el-pinochetismo-llego-al-poder-pero-no-es-mayoria-en-nuestro-pais-aunque-a-veces-griten-mucho-y-tengan-mas-presencia-en-redes-sociales/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "En su primera entrevista con un medio escrito desde que dejó La Moneda, la exministra vocera aborda el avance de la extrema derecha en América Latina, cuestiona los primeros siete meses del Gobierno de José Antonio Kast y plantea una autocrítica al progresismo por haber llegado tarde a la disputa cultural y al terreno digital. Además, analiza el retorno de Michelle Bachelet al debate político naci",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-11T11:00:00+00:00"
     }
   ]
 }
