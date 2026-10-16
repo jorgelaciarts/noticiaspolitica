@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T18:46:38.745955+00:00",
+  "actualizado": "2026-10-16T19:01:44.344943+00:00",
   "total": 500,
   "items": [
     {
@@ -288,6 +288,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-16T16:26:03+00:00"
+    },
+    {
+      "titulo": "Pablo Matamoros Kast Gobierno Proyecto - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjh0d3NDYVQwS0NEUlk5Y0QxLUJ1c05UMy16SGVRcXNhakN6RXNBekJ4Smt2eEJUVjctRXNsLVpEZU1VNUpqbnlYb0ZOR044V3NyNDJZc2J0UjVTTEdDcmZSVjhHLTM1UmhmVzlIU3RuWElOdTdCamc0WEdLZ1VEc0lkR0V5RW14OU1leWVTSHpLdG5tT1lKQlNzczAxRkU?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Pablo Matamoros Kast Gobierno Proyecto - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-16T16:22:52+00:00"
     },
     {
       "titulo": "Contratación a menores de 30 años se duplicó desde el inicio del gobierno de Kast, según Unholster - BioBioChile",
@@ -5627,20 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-13T13:49:27+00:00"
-    },
-    {
-      "titulo": "Timonel PPD: Todos queremos saber si Bachelet piensa ser candidata",
-      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/timonel-ppd-todos-queremos-saber-si-bachelet-piensa-ser-candidata/2026-10-13/104517.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El presidente del PPD, Raúl Soto, comentó en El Primer Café el desayuno al que convocó Michelle Bachelet -para este día jueves, en la sede de su fundación, Horizonte Ciudadano- a los timoneles de los partidos de oposición.\n&nbsp;\nEl diputado dijo que la decisión de la exmandataria de abrir la puerta a una tercera candidatura presidencial se da en un escenario en que el Gobierno de José Antonio Kas",
-      "categorias": [
-        "Presidente",
-        "Candidatos",
-        "Diputados",
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-13T13:45:17+00:00"
     }
   ]
 }
