@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-16T17:46:26.070291+00:00",
+  "actualizado": "2026-10-16T18:01:40.532784+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chillán destina más de $315 millones al Fondeve 2026 y beneficia a 122 organizaciones vecinales",
+      "link": "https://ladiscusion.cl/chillan-destina-mas-de-315-millones-al-fondeve-2026-y-beneficia-a-122-organizaciones-vecinales/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Este jueves 15 de octubre, la Municipalidad de Chillán realizó la ceremonia de adjudicación del Fondo de Desarrollo Vecinal (Fondeve) 2026 que administra la Secretaría de Planificación Comunal (Secpla). La actividad congregó a dirigentes de las organizaciones beneficiadas durante este año, quienes recibieron los recursos que totalizan $315.237.305.000, para ejecutar sus proyectos de infraestructur",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-16T17:51:12+00:00"
+    },
+    {
+      "titulo": "Reglas de Uso de la Fuerza entran en vigencia con impugnación pendiente ante el TC",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/reglas-de-uso-de-la-fuerza-entran-en-vigencia-con-impugnacion-pendiente/2026-10-16/144930.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las Reglas de Uso de la Fuerza (RUF) entraron en vigencia este viernes, tras su publicación en el Diario Oficial, en medio de una controversia entre el Gobierno y la oposición por un requerimiento presentado ante el Tribunal Constitucional (TC), cuya admisibilidad todavía debe resolverse.\nLa disputa se centra en los plazos de la impugnación, ya que el Ejecutivo ingresó el decreto promulgatorio a l",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-16T17:49:30+00:00"
+    },
     {
       "titulo": "\"Hemos estado en un diálogo de sordos\": Gobernadores regionales llaman a rechazar el Presupuesto 2027 tras negociación con Dipres - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSXJJVHFoeGZBSTZvaTJZdlM2RUZlRDNKU0gza0hJRV9RT0dPRmNwRElwT0dvOEZNRjBJNk5Oc09vbUJYcXZKd1IzRUdlMFRzcURXYzVCRTlEalpRRnpINTU1QWFScnZ5ODl2eVR3aFBIanhBSFVXUDhYYjg1bzY2QkxNdzlfandCSzNNR2dsVGo2a09tZmg5VnFkRjNUQ29fRDJURDg3M3l4TFZxSGRjT1MxNDlCUDktZUdKZGVPX0RscUp1M1J0eTY4eXVicXZ2RkNKTzRSV3JFRHdrenBpN18xYnE4cG5IOFJYY3VxQnNRU3NY?oc=5",
@@ -12,6 +34,31 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-16T17:44:44+00:00"
+    },
+    {
+      "titulo": "Oficialismo frena la presión interna y descarta indultos a uniformados durante este fin de semana",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/oficialismo-frena-la-presion-interna-y-descarta-indultos-a-uniformados/2026-10-16/143739.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las directivas de Chile Vamos y del Partido Republicano descartaron que el Presidente José Antonio Kast otorgue durante este fin de semana los indultos a uniformados condenados por el 18-O, frenando así la ofensiva de parlamentarios de su propio sector que exigían hacer efectiva la promesa de campaña en el séptimo aniversario del estallido social.\nPese a que dirigentes del bloque oficialista advir",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-16T17:37:39+00:00"
+    },
+    {
+      "titulo": "Formalizan a alcalde de Chillán por fraude al fisco por más de $2 mil millones en compra de medialuna - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZUJHSDg0NE91cHhfRzZLaUJILWlBNllaTlBBRHlIbzhwOE1mU2R2d21Cd1F1NFRfcGZfTVN3NUxQREVhRF96LXFQaVJSRExlTDVvMTk3UGFhdktvYjRqamlaS1ZDTzNHMC1TSWpDc1MtMmswbEZvVVBwWWZUTFRlSUdhckJwbWtIcjZJb1NFanFmUTBXb0hFYVJnRHA4cXJZQUVfNUxUSmd2cTdHWjMycWo1Sk5ieVpaZ2lWbEZiRzFiYzJySHVWdG1RSHgzcjFCaXZmTS1xOV9MNklsX21Ndmdob0h2dzJpek50YUxTallzc3F0azVQRnRIaUU3aHQtVS1zWnBjRUVnZw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Formalizan a alcalde de Chillán por fraude al fisco por más de $2 mil millones en compra de medialuna&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-16T17:35:05+00:00"
     },
     {
       "titulo": "Desempleo: MOP acelera el plan de Kast y licita 148 obras - Ex-ante",
@@ -513,6 +560,17 @@
       "fecha": "2026-10-16T13:40:53+00:00"
     },
     {
+      "titulo": "Vodanovic (PS) y cita con Boric y Bachelet: “No era una reunión de dos candidatos presidenciales, sino de dos expresidentes” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQmFDeEJwZUtVanh2RzE4dTRBMXdLaE9vNHJXSDVEOHo3bzB2bW9qdGpfV1FPenZXa01fVlRReVQ3bzZsUjVBVGxOZ3BHcDA1ZkRidFNpSGw5YTZONEtZZ3dYdFhjOTRkUWRscnlaejlUMFo1Qk81MHlpeWFkVFoyTVlDNjdPTVEzcFV2bTlvc1duV3BLVVRvSnMwTkhyVXNJVmFrYWY1NXh1aWV2X3dkUGYxOG5QV04wYjIzSEN1c0lJeGRLQ3gtRGRsVzhwMEl4ejhHM1pGR3BqX2taTkhxRG1CeEVZTWxKNDNFQlE4bHlRekwx0gGWAkFVX3lxTE9jOUtnOEsyN0Zod1JCXzFXTTFRajVwdy1VeE9MeTQ0dTFoSk9JSGFqUEdPbXFVSHMtcHYwVEZ2NHhNNHZPbjNlTHBRNGVBeExYRG9jWVoxSVpyRENZb3JTM3RwZkw2RTZwSFFobGpjT0hFSUtLUVFacTZHdDVYSkUydGpYNVo0Z0JGMFg0eVBONHlFSmpZbmd6UmQ1MnZLdDJiSTROYXFmYnJaZklyZmEydV9FcDNtSWRnVkRDU0dKRTVVd3NoQllacXNWRTY5ZzRJaGwxN1ctbFFaZVZFVkp3dV93aTlzb1laVC1UNlpCV3RPZEk3Tno2cUh0YU9Mc2tHdEZ5V0tUU0toU3NCODBXbGEyVTJR?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Vodanovic (PS) y cita con Boric y Bachelet: “No era una reunión de dos candidatos presidenciales, sino de dos expresidentes”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-16T13:39:36+00:00"
+    },
+    {
       "titulo": "Oposición busca articular una hoja de ruta común tras reunión con Bachelet y Boric - UCV radio",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVZWdTEzTnhNYjJnMmItRUQzQ2lNRDZoQ1Z0MGVSTTBlMnYtMzlqOW9LS015Qm5iTUNZVkduN3Fqck4xY3M1Rjc2NV9VLTNnLXFuYW1rX2FUbG9mUmFaZmZCdXB2emxtZXF3SFRWSXNCN0E1cm5SdlB1dTVMWXdydzZwYWhBc3BfZktnbXhLbEEycTk5VUxHRVo3ekx3YjZwUEVTcXFlb0x0VThV?oc=5",
       "fuente": "UCV Radio (Valparaíso, vía Google News)",
@@ -637,6 +695,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-16T12:51:23+00:00"
+    },
+    {
+      "titulo": "Histórica llegada de Kast a La Paz: Hace 71 años que un Presidente de Chile no realizaba una visita de Estado a Bolivia - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNndQNTVrWWlyLVFmLVdqaTAwcnkzRnhHOUtGWTZFSkJOS01TOWViUVZ5NndIa3RfdzhQWlZWa3ZCdm16S0ZjdFk5Vnd4Y1VPSDBhd0ZURUxpZTlFMWJtSGxwMWkySEF5TTNkeFBoc082VmNGc3MyTEhjaXRuc2lSME00LU1UV0JHTkpLMjNHMHM0aEJLbExGUnkyaXhPN1I5TW8ya3hPWFROUFZiNnA2QUVIVFRzNmNMMTVwNC16VDVBUEg3azUySFFXOC1WanplT2J1ZmdqYmpoSE1JWEHSAeMBQVVfeXFMT0o0Z2o0YU9qLS1veUpINEwzRXRrcF80UUllaUhVUlNrRnRycC1mN205cm84bERMUGtkZGlnbWZodHliMGp0cjdnWDlFODN4dUtyT0FPZkhyV3JBd0IxMVZCQ0UtNWkyVGkyYW5KVUc5d0dmRV9oejlMa2wxczBWUFd2dWR3NG9fekJiZDJ6UTJ0ZmdMcTFwT3d2MGRoT1o5SlVmejBrM2ZGTDlGd21pT21vcHNPM1R0c1M5UlpxOTVnVkNYOVppbjRUSVZiZURPWVVOcUxzNFlnYUxNbVNuZUF4VDg?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Histórica llegada de Kast a La Paz: Hace 71 años que un Presidente de Chile no realizaba una visita de Estado a Bolivia&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-16T12:50:00+00:00"
     },
     {
       "titulo": "Alcalde de Puente Alto emplaza al gobierno tras ataque de turba en Cesfam de Bajos de Mena: “Estamos superados” - La Tercera",
@@ -827,6 +896,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T11:39:24+00:00"
+    },
+    {
+      "titulo": "Presupuesto 2027: Valencia y fiscales regionales llegan a La Moneda para manifestar 'preocupación' por riesgos en autonomía - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZ3UxZlMwWkpucUo1b1Z6MWN3R0RQUFFDcHdocDhGWHR4cjlxWjZQeG1pbjl2LUlyMjE0bUlJaE9tQXVKSnBJbldxQk4xUlhnTTlpU0F1Y1F2bDhzMzVYTDhhZV9rM1Nsc2ZQMVk3bFN0VHYxVkxmRi1MQ3RlVEtVd2hyZHBnRXcyTUY3STlIRG1USDZMdEtlN1o0LUlWV09qUkJfTTdOQUtSRXp5aDNycGlxcGdvU2ppR0ttREg0SWJoZEJSTEwxMTdFNHFVZ9IB0wFBVV95cUxOVkpJdkJnbjVzQ3dpcm04RFptbERVUVpxenphZnNnSFk2cms4RkV3cmZHZXNkQUxiU19iN3QwbklULVF0dGxXWTVYSDJWZk5hSnZzWWJwanlZYzZ6YWFTaFd5OWUwNlFKbFBtd19Rc2hLUHRGMmY4c2VCSjZNRzFZQXdHX283UUpWekQ3MDlzSUJkOF9OV1EzS3hrZnhEb0xHV0VQdmN4bTdvUWkxTm83R29xNkNCTWM1M2xXaXg1NEQtb0k5TElWaUpBSFJSN0J6NkJj?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presupuesto 2027: Valencia y fiscales regionales llegan a La Moneda para manifestar 'preocupación' por riesgos en autonomía&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-16T11:38:00+00:00"
     },
     {
       "titulo": "Gobierno asegura recursos para servicios religiosos en La Moneda en medio de recortes presupuestarios - Meganoticias",
@@ -5375,6 +5455,17 @@
       "fecha": "2026-10-13T14:57:11+00:00"
     },
     {
+      "titulo": "Metro de Santiago cambia nombre de estación La Moneda temporalmente y lanzan tarjetas bip! especiales - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRjFiTDhXY3RQRkdfeGswQUJDM1c2aEp2Y1lONW56cjdCbkZwcjRiV0U5N1FXTEM3MEF2OVlwaGcwM0JXbnRrUDlNWUZRaUIyWW5tdlEzWFFpMzlSRDlpdTgwWXFnXzhQdWZudkV6X2ZOMlcySUhNODFySlVPSnhwNEN2c19tLW0zRmZxUmx1Rkg3WmgxRjZxeXNUQm5ocWhDWnFQc25UekxBTG9JMnlCOFZDb2ZfWGVPMkFRSHVTR1docnNvYVBjc0R2Q2p6SlNORF9aVnc3bUplbFVhX25nOG0zQ21ldWpRRjlBVDYxTWRrUnpkTDVSSmtMQ2R2M0dWOC0taU9fbGjSAY4CQVVfeXFMTm9kMlg1OGRtNXBLZnp2MUNtbzBuQ0pwM3pGOXBBNTlaUFNFcVhpZF9MaFFMSzVGSXBUYWVyeXREdzBXekFtWE5xQjRaV0IxcE8zYmFWc0JxMkQ0UVZiNVhCQXh2TmJPTTFfZVMwd3BjRU9IcThHRUNPMDdETzZZX0h0SFBwQ1VtNmRqVi1zMzg1bXJnUjNKZ2xFZWpMNU9FaTJ1U29sTktyZEhKRWw2MktsR2NaaHFkQy00TFVsdEhvM3dTRC1vcm5XWGFtQmV3Q0NIc1Y2Rm1zdjVESHYzcWlqNzNQQ09qRW9UcXdtWk9fSFF4QVNPWlJTeEJOd3Y5d0pRZUVsS3dldk94TUN3?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Metro de Santiago cambia nombre de estación La Moneda temporalmente y lanzan tarjetas bip! especiales&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-13T14:49:00+00:00"
+    },
+    {
       "titulo": "Senadora Provoste advierte al Gobierno: \"Este presupuesto para el 2027 no tiene foco en la generación de empleos\"",
       "link": "https://cambio21.cl/politica/senadora-provoste-advierte-al-gobierno-este-presupuesto-para-el-2027-no-tiene-foco-en-la-generacion-de-empleos-6ace43544004cc20514d43a3",
       "fuente": "Cambio21",
@@ -5550,98 +5641,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-13T13:17:14+00:00"
-    },
-    {
-      "titulo": "Malas noticias para Kast, Quiroz y todos los chilenos/as: Fondo Monetario Internacional recorta a 0,6% el crecimiento de Chile en 2026: Solo superamos a Bolivia en Sudamérica",
-      "link": "https://cambio21.cl/politica/malas-noticias-para-kast-quiroz-y-todos-los-chilenos-as-fondo-monetario-internacional-recorta-a-0-6-el-crecimiento-de-chile-en-2026-solo-superamos-a-bolivia-en-sudamerica-6ace2cea19c2ea1fe27bf3c3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-13T13:09:51+00:00"
-    },
-    {
-      "titulo": "Senadora Núñez (RN) por irrupción de Bachelet y su rol en la oposición: “Echo de menos un liderazgo más estadista” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmtTamE0WFJqTTVMbHFpbFVISnlVd3QzaF9ZX0VZNE9EbzZOSHFHbmtWbS1oTXVDLU9YbUtVYVVMdENRYXEzX3NqNVBzMTY4QVk4NXktcXR2dnNERHFGbTd1OGxQbTFZLVItQjBvZ1g5VTdXRUpMY3loMUZxWW9xd1BSTzFYSFQ5OVI3QlE5SjRTclgwczFvWFdtc3VoR3V1bm16cVRJRG9iRzBLaGpCbEFjODhsM1lnTHkwcmx0aXJ4VXdDWHgtd0RTamMzQkpGWE5VbHloVC1XZm45bDVRLVpmU1dFeGpB0gGKAkFVX3lxTE1fTXpYa0F5TDVxSE4wVV9PNmpjV1IxU3NoREdUbzNYMU05MG80RExqYUo3bkliV3p6Vzg1MXlKZmRGbUNRVmJja0E3cGZjck1yZ1ozZk8yczNOOTZrWW9pcnloaGFFMEN1MnhYelU5UVNDV29wT2FVZ0RMNGdLY0dKZkdOamxIY0Y0Y3pSYnZXQlpXY2tLSW9qUFdrVk1VNF9nZzkzVVNYQ3FWWjJzUTZCd1pRdW1RMXBxWEZpQjBDQlJBcHVNdWdoQnBSTFlHczNMWjItUHVxa09kUlVua2V3MWc4cUdtUVdWdzZMRDBrajNtOUE5SGMxaXhDRWN1ckdPbHFYOWZ5Sld3?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadora Núñez (RN) por irrupción de Bachelet y su rol en la oposición: “Echo de menos un liderazgo más estadista”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-13T13:09:33+00:00"
-    },
-    {
-      "titulo": "Senadora Núñez (RN) por irrupción de Bachelet y su rol en la oposición: “Echo de menos un liderazgo más estadista” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWmtTamE0WFJqTTVMbHFpbFVISnlVd3QzaF9ZX0VZNE9EbzZOSHFHbmtWbS1oTXVDLU9YbUtVYVVMdENRYXEzX3NqNVBzMTY4QVk4NXktcXR2dnNERHFGbTd1OGxQbTFZLVItQjBvZ1g5VTdXRUpMY3loMUZxWW9xd1BSTzFYSFQ5OVI3QlE5SjRTclgwczFvWFdtc3VoR3V1bm16cVRJRG9iRzBLaGpCbEFjODhsM1lnTHkwcmx0aXJ4VXdDWHgtd0RTamMzQkpGWE5VbHloVC1XZm45bDVRLVpmU1dFeGpB?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadora Núñez (RN) por irrupción de Bachelet y su rol en la oposición: “Echo de menos un liderazgo más estadista”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-13T13:09:33+00:00"
-    },
-    {
-      "titulo": "Parisi por acuerdo del TAG: “Mal negocio para Chile, Kast nuevamente se equivoca”",
-      "link": "https://www.lanacion.cl/parisi-por-acuerdo-del-tag-mal-negocio-para-chile-kast-nuevamente-se-equivoca/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El secretario general del Partido de la Gente, Franco Parisi, criticó el anuncio del Gobierno para una rebaja del 10% del TAG en tarifa base y del 25% en tarifa punta y de saturación en la Autopista Central, junto con una extensión del contrato por 20 meses. En un video en redes sociales, Parisi dijo [&#8230;]\nThe post Parisi por acuerdo del TAG: &#8220;Mal negocio para Chile, Kast nuevamente se e",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-13T13:03:09+00:00"
-    },
-    {
-      "titulo": "Bachelet mueve las fichas: convoca a seis partidos para articular a la oposición frente al Gobierno de Kast",
-      "link": "https://www.elciudadano.com/politica/bachelet-mueve-las-fichas-convoca-a-seis-partidos-para-articular-a-la-oposicion-frente-al-gobierno-de-kast/10/13/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa exmandataria se reunirá el jueves 15 de octubre con los timoneles de Partido por la Democracia, el Partido Socialista, el Frente Amplio, el Partido Liberal, el Partido Comunista y la Democracia Cristiana para acordar lineamientos comunes frente a la administración de Kast.\nLa entrada Bachelet mueve las fichas: convoca a seis partidos para articular a la oposición frente al Gobierno",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-13T12:44:52+00:00"
-    },
-    {
-      "titulo": "Poca seriedad en concurso fotográfico",
-      "link": "https://ladiscusion.cl/poca-seriedad-en-concurso-fotografico/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Señor Director: En el año 2024, la Municipalidad de Chillán Viejo convocó a un concurso fotográfico en torno a la figura del prócer de la patria, Bernardo O’Higgins Riquelme. Las bases estipulaban que la competencia culminaría con la entrega de resultados en una fecha cercana al 20 de agosto de ese mismo año. Como aficionado [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-13T12:36:39+00:00"
-    },
-    {
-      "titulo": "Servel Los Ríos fortalece la formación ciudadana y la educación cívica electoral en estudiantes de Valdivia - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNllVb2lWOUVnX2NHTG8tR0pyQkZBZVFFOEJYY2tOMFhRZlBYSW14MzJ0WFV2R3VwT1V3MjV4LWtGVHdpQjRpU2huU2ppdDRxNktCZDM1V3dsODE0RzVPNl9La3FXeElybGhQSldJYnB3Z28xVS1zMHlFUXcxVzdhOTJrR2VxWGJTc25iX1VUNjVuRkg4RHR5VE5Ld0NSd083bm5FRHJPY2kyN1k3M1YwMGI4cVZsbkVRbVdYd1VrV3Z6ZFpBenF0WHZEYm5GNjVEVlo5ejFDa29TeFREQjZn?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel Los Ríos fortalece la formación ciudadana y la educación cívica electoral en estudiantes de Valdivia&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-13T12:31:09+00:00"
-    },
-    {
-      "titulo": "Diputado propone retirar beneficios fiscales a empresas  chilenas tras el regreso de la ruta Punta Arenas-Malvinas",
-      "link": "https://laprensaaustral.cl/2026/10/13/diputado-propone-retirar-beneficios-fiscales-a-empresas-chilenas-tras-el-regreso-de-la-ruta-punta-arenas-malvinas/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "La iniciativa del legislador Guillermo Michel apunta a denunciar convenios vigentes de inversiones y de doble imposición, que hoy reducen las retenciones impositivas a las compañías chilenas con operaciones en territorio argentino. &#160; Un diputado argentino presentó un proyecto de ley para que se retiren los beneficios fiscales a las empresas chilenas que operan en...",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-13T11:58:10+00:00"
     }
   ]
 }
