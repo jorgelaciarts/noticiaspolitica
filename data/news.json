@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-16T12:46:40.896952+00:00",
+  "actualizado": "2026-10-16T13:01:46.831275+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast llega a Bolivia y marca la primera visita oficial de un Presidente chileno en 71 años",
+      "link": "https://www.theclinic.cl/2026/10/16/kast-en-bolivia-visita-historica-71-anos/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Desde 1955 que ningún Presidente chileno realizaba una visita oficial a Bolivia. 71 años después, José Antonio Kast llegó este viernes a La Paz para reunirse con su par boliviano, Rodrigo Paz Pereira, en una jornada que contempla acuerdos de cooperación en minería, comercio, conectividad y energía.\nLa agenda incluye una reunión privada entre ambos mandatarios, un encuentro ampliado con sus delegac",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-16T12:51:23+00:00"
+    },
     {
       "titulo": "Demócratas con altas probabilidades de una mayoría en el Congreso",
       "link": "https://ladiscusion.cl/democratas-con-altas-probabilidades-de-una-mayoria-en-el-congreso/",
@@ -5624,17 +5636,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-11T23:36:19+00:00"
-    },
-    {
-      "titulo": "Cuadrado (PPD) lleva a Olivares (PDG) a Comisión de Ética por dichos contra Bachelet, Matthei y Marín - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNmhXbS1nUWt5aWhDSHlTcnJRXzFmQ0lxaXprOFU2ek5NWXMtaERocWlJSURTc0VNbFotR25pN3J5cEJUZjlFbTBSazd3SWVvN1NOekI3WWR6ak01V0FSdDBOcV9qd2w5SVVWdUtOMlVjZHdGaW5NVVhzdjdrSldOXzVoZzdoLVkwNUYtZ0JrVHoxUHMxYWxCVlJ0TkstV0RNbGxhVGMzQWJTRnJFd3J2VzNhR2t5STFRWnV5b28tUzJsX2tSZ25NUnpKRllLSlVQYVdGTGpISDVBVVN5Rk05aS1HZ3lMcXFBTFllWTBjSHd1ckdYa19Z?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cuadrado (PPD) lleva a Olivares (PDG) a Comisión de Ética por dichos contra Bachelet, Matthei y Marín&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-11T23:08:01+00:00"
     }
   ]
 }
