@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-15T23:46:19.761091+00:00",
+  "actualizado": "2026-10-16T00:01:47.160053+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Reaparición de Bachelet adelantó el debate presidencial en la política regional",
+      "link": "https://ladiscusion.cl/reaparicion-de-bachelet-adelanto-el-debate-presidencial-en-la-politica-regional/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La posibilidad de una nueva candidatura de Michelle Bachelet reabrió el debate presidencial cuando José Antonio Kast apenas cumplió siete meses en La Moneda. Su figura volvió a instalarse en la discusión política, no solo por su trayectoria y proyección internacional, sino también por las dificultades de la centroizquierda para articular una alternativa común y [&#8230;]",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-15T23:53:43+00:00"
+    },
     {
       "titulo": "Inquietud vecinal por proyectos de baterías de litio en La Ligua: Diputado y concejal anunciaron fiscalización",
       "link": "https://www.elciudadano.com/chile/inquietud-vecinal-por-proyectos-de-baterias-de-litio-en-la-ligua-diputado-y-concejal-anunciaron-fiscalizacion/10/15/",
@@ -5637,17 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-11T11:00:00+00:00"
-    },
-    {
-      "titulo": "Segunda línea de gobierno: La evaluación de La Moneda sobre delegados presidenciales y las principales controversias - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR0pjdEtfY01oQllNY1lDclJNWm5udDlNaXhLVkstaHA4OE1kaVVrQmtsdVc1QnUzSXhfZWhkY3o3enhKZHYxSzJpcURGTHlJTlhVOTJMOTg0cV9acEtEWlBjbl9KMFBuSlA0VWt0Vk14d0VjMkVLcEFOQS1WT2JmaXNkcEZ6clpnMDFheHJOMUVTUVo2UDNEWg?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Segunda línea de gobierno: La evaluación de La Moneda sobre delegados presidenciales y las principales controversias&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-11T10:04:00+00:00"
     }
   ]
 }
