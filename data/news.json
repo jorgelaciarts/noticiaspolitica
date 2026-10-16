@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-16T20:46:37.725149+00:00",
+  "actualizado": "2026-10-16T21:01:30.255300+00:00",
   "total": 500,
   "items": [
     {
@@ -56,6 +56,19 @@
         "Senadores"
       ],
       "fecha": "2026-10-16T20:04:00+00:00"
+    },
+    {
+      "titulo": "Jóvenes con poca experiencia y mujeres \"fuera de mercado\": los más afectados por la crisis laboral",
+      "link": "https://www.cooperativa.cl/noticias/pais/trabajo/cesantia/jovenes-con-poca-experiencia-y-mujeres-fuera-de-mercado-los-mas/2026-10-16/165656.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Recién graduados a los que se les exigen años de experiencia y mujeres con décadas de historia laboral rechazadas por su edad, son algunas de las caras detrás del desempleo en Chile que, durante el trimestre junio-agosto, alcanzó una tasa de 9,6%, la más alta en los últimos cinco años y la mayor en Sudamérica.\n\"Terminada mi práctica, empecé a buscar empleo y no encontré. Tuve que entrar a trabajar",
+      "categorias": [
+        "Presidente",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-16T19:56:56+00:00"
     },
     {
       "titulo": "“Hoy dejamos de darnos la espalda”: Presidente Kast concreta visita de Estado a Bolivia y firma acuerdos con Rodrigo Paz - ADN Radio",
@@ -770,6 +783,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T14:57:59+00:00"
+    },
+    {
+      "titulo": "La azarosa vida de Polimnia tiene un nuevo hito: Estatua robada del Santa Lucía ahora se exhibe en la Municipalidad de Santiago - Emol",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOC1Qb0h0ajRkY2ltWUUyaHNYZ0hvbkhtVER1UWY1N1d1Yl91V0hXb3lQLVcwSlJRc01CSUFONUdUZlQ4cDVab1FqSEJlZXJrNS00TWlvRURibGxwODhnT240bTh0TWQ0ajZWRnpJSUZ5V2V0WkVzMlhaVkFYODUyVXQzdHVDaFBLUjB4SXIzN093SE5GMnZVa0Z6N3hDX05GMDQ0?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La azarosa vida de Polimnia tiene un nuevo hito: Estatua robada del Santa Lucía ahora se exhibe en la Municipalidad de Santiago&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-16T14:50:22+00:00"
     },
     {
       "titulo": "Expresidente Boric participará en conferencia regional sobre erradicación de la pobreza en Panamá junto a figuras como Álvaro Uribe - Universidad de Chile",
@@ -5607,28 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-13T17:20:45+00:00"
-    },
-    {
-      "titulo": "Quién es Rodolfo Ugarte, el nuevo seremi de Vivienda de Kast en Antofagasta - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZy0xNjg3LVIxXy04dzNjTGtWQ0x5T0tLRkRnV0lBVkZHZjZCYTR0LWtEQ2tfVlJLbnZmUmVfUXhCTmw2SFJzY2QwTW05eG5OejJiOWplMGlkT3RaeUZnQnRyT3kwSkl1OVQtcFBxalNGZmZ5aUU5b1pBMDUxZV9NcFFvRUxGMVF5WmY2NUY5eEpyek9vZDA0SzVSNVF0WHRyc2NfSXFmTEo4cHZNTUx6b04wR05UcDQ?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Quién es Rodolfo Ugarte, el nuevo seremi de Vivienda de Kast en Antofagasta&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-13T17:19:03+00:00"
-    },
-    {
-      "titulo": "Solicitudes de indulto ahondan la división en la derecha previo al 18-O y el Gobierno descarta fijar plazos para conceder beneficio",
-      "link": "https://www.theclinic.cl/2026/10/13/solicitudes-de-indulto-ahondan-la-division-en-la-derecha-previo-al-18-o-y-el-gobierno-descarta-fijar-plazos-para-conceder-beneficio/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Mientras Johannes Kaiser acusó al Ejecutivo de actuar con “cobardía moral” por no conceder indultos a la fecha, desde RN han tomado distancia de la idea de otorgar este beneficio a propósito de un nuevo aniversario del 18-O. En medio de las presiones de los sectores más conservadores de la derecha, el ministro de Justicia, Fernando Rabat, descartó fijar plazos y recalcó que las solicitudes se reso",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-13T17:17:49+00:00"
     }
   ]
 }
