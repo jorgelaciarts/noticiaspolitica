@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-17T00:16:42.116759+00:00",
+  "actualizado": "2026-10-17T00:31:45.395471+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "86 talentos recibieron la beca municipal Deportistas Destacados 2026",
+      "link": "https://ladiscusion.cl/86-talentos-recibieron-la-beca-municipal-deportistas-destacados-2026/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con profunda alegría y gratitud 86 deportistas de Chillán recibieron la beca “Deportistas Destacados” 2026 que entrega la Dirección de Deportes y Recreación de la Municipalidad de Chillán, beneficio que considera un aporte económico en tres tramos para talentos que lucen logros a nivel regional, nacional o internacional. “Estoy muy contenta porque esto me ayuda [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T00:17:08+00:00"
+    },
     {
       "titulo": "Escritor de Ránquil recibió homenaje a su trayectoria literaria",
       "link": "https://ladiscusion.cl/escritor-de-ranquil-recibio-homenaje-a-su-trayectoria-literaria/",
@@ -12,6 +23,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-17T00:13:34+00:00"
+    },
+    {
+      "titulo": "Diputado Gatica cuestiona libertad condicional de Maturana: \"La justicia en Chile no es justa\" - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPeEJ6eWt4VGpuUllvQ1RPeEtIZHNBYVZzM3RISWJUcHI5dWtYRTUyR0NNUzFlXzRySHZjMEZzMWJONUQ2MEtwM09NUWVKOWQ1NkdKNHYyNHgyd3NpZlNVU0UxbjVZbkhwYUI1SXFNX080SjhsSmMxMTFiN1VOd00yUE1PbWdkOHZMMUtZa3JVQWlxdS00UWdXb2RaN0wwYXEwTXBTa2R6WDZObWtGQjF6anBiZVBDQjRCcU5GbV9hR1J5VmRVNXF1bDkxYm1Zam05bE1SRVh5a04zSzc4M1NNVHlaU2JraHdFTGx2ZlRsYVQ?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Gatica cuestiona libertad condicional de Maturana: \"La justicia en Chile no es justa\"&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-17T00:08:55+00:00"
     },
     {
       "titulo": "Presidente Kast lamenta dichos de Poduje contra Milei y asegura que “no se va a repetir” - CNN Chile",
@@ -5606,28 +5628,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-13T23:54:43+00:00"
-    },
-    {
-      "titulo": "“Ya no fuimos coalición”: Diputada Ossandón aborda la relación entre el oficialismo y el Gobierno - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDdjMmtKMThLZXdiQTZMUURWYnpCRl9hbUtPVkFQN2NlSHFISkZrdmdjQzhSVEY1eE9BZGd1RGpmVEdtaUc1MENIWUFxNzlyeGtjUnJ0ZGJUOHExcUQ1eExaMEVOdzhNRklHa2lqTjJjdy1razFSWklocExWakY2aUd0bHdWT2p0QnBRSHFsMU1jR1pvOEpCcUZ2NzR2RTViRGRWekN2Qml1WFVoVXVXR0NmZHc3TDBPM0VLZTdSdl80Zmc?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Ya no fuimos coalición”: Diputada Ossandón aborda la relación entre el oficialismo y el Gobierno&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-13T23:45:27+00:00"
-    },
-    {
-      "titulo": "Festival de Cine de Ñuble busca claves en Valdivia para seguir creciendo",
-      "link": "https://ladiscusion.cl/festival-de-cine-de-nuble-busca-claves-en-valdivia-para-seguir-creciendo/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Con el objetivo de conocer experiencias que permitan fortalecer y proyectar el crecimiento del Festival de Cine Nacional de Ñuble, el alcalde de Chillán, Camilo Benavente, viajó junto al director ejecutivo del certamen ñublensino, Pablo Calisto, hasta Valdivia, donde sostuvieron reuniones con autoridades y representantes del Festival Internacional de Cine de Valdivia, encuentro que este [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-13T23:43:38+00:00"
     }
   ]
 }
