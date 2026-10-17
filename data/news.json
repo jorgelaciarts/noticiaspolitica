@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T19:01:49.486239+00:00",
+  "actualizado": "2026-10-17T19:16:42.908056+00:00",
   "total": 500,
   "items": [
     {
@@ -138,6 +138,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-17T15:15:18+00:00"
+    },
+    {
+      "titulo": "Ley Miscelánea de Kast ya es oficial: paquete económico comenzará a regir el 1 de noviembre - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbkwtdjJ1UXdDWWZmaTN0TEdKWTRRYnZhdmZLbk1IM3dsbXRUejJqeFNwRVB2WG1lU2x6aEdUV19CY1AyazlfSU1HRVMwQUFCY0syQXJiLXR1QzhIR1pxUVdBZDFxaC0xUEQyLTFtX0FhZWJmcTBvZkJ1akg5cnZZVXFUMmk4Q0NQNG9tNFdzb2FIV2kzOVFBaUtGUTBWTXdMQVREeDVrOHRxMTIyak05UHI1LVFjR21JREl0bTlRMnhBZ1RyTXI5M0wyMTZoOGM3OUM5RklyYUdpblk?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ley Miscelánea de Kast ya es oficial: paquete económico comenzará a regir el 1 de noviembre&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-17T14:50:43+00:00"
     },
     {
       "titulo": "Rodrigo Paz reafirma reivindicación marítima de Bolivia tras cita con Kast: “Constituye un objetivo permanente e irrenunciable” - CNN Chile",
@@ -5610,17 +5621,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-14T15:23:41+00:00"
-    },
-    {
-      "titulo": "Firman convenios por más de $574 millones para renovar espacios públicos en sectores de Chillán",
-      "link": "https://ladiscusion.cl/firman-convenios-por-mas-de-574-millones-para-renovar-espacios-publicos-en-sectores-de-chillan/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Renovados espacios para la comunidad tendrán distintos sectores de Chillán, gracias a tres convenios que firmó el Gobierno Regional de Ñuble con la Municipalidad de Chillán y que permitirán mejorar veredas en Quinquehua, habilitar un paseo peatonal en el Estero Camarones, en la Ampliación Purén y construir áreas recreativas en diferentes Villas de Chillán. Las [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T15:23:23+00:00"
     }
   ]
 }
