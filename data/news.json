@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-17T11:46:12.122887+00:00",
+  "actualizado": "2026-10-17T12:01:45.192806+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Licitación de las áreas verdes",
+      "link": "https://ladiscusion.cl/licitacion-de-las-areas-verdes/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La decisión de la Municipalidad de Chillán de licitar nuevamente el servicio de mantención de áreas verdes, parques, jardines y arbolado constituye una oportunidad para corregir deficiencias y elevar los estándares de un servicio que tiene un impacto directo en la calidad de vida urbana. Pero también representa una responsabilidad que trasciende la adjudicación de [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T11:55:13+00:00"
+    },
+    {
+      "titulo": "Municipio destinará $80 millones a equipos para el vertedero y concejales plantean que ente edilicio asuma directamente su operación",
+      "link": "https://laprensaaustral.cl/2026/10/17/municipio-destinara-80-millones-a-equipos-para-el-vertedero-y-concejales-plantean-que-ente-edilicio-asuma-directamente-su-operacion/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Concejo Municipal de Punta Arenas aprobó destinar 80 millones de pesos a la compra de equipos para mantener funcionando el vertedero de Leñadura, luego de que la empresa que lo operaba retirara los suyos al término de su contrato. La votación abrió un debate sobre el alza de los costos del recinto, y el...",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-10-17T11:48:15+00:00"
+    },
     {
       "titulo": "Presidente Kast busca retomar relaciones diplomáticas con Bolivia,  tras la firma de cinco acuerdos de cooperación económica",
       "link": "https://laprensaaustral.cl/2026/10/17/presidente-kast-busca-retomar-relaciones-diplomaticas-con-bolivia-tras-la-firma-de-cinco-acuerdos-de-cooperacion-economica/",
@@ -5603,28 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T12:27:58+00:00"
-    },
-    {
-      "titulo": "Alcalde de Ránquil reiteró su preocupación por tierras raras en la comuna",
-      "link": "https://ladiscusion.cl/alcalde-de-ranquil-reitero-su-preocupacion-por-tierras-raras-en-la-comuna/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El alcalde de Ránquil, Nicolás Torres, reiteró su oposición a la eventual instalación de proyectos mineros de tierras raras en la comuna, ante la existencia de solicitudes de investigación y exploración de estos minerales. El jefe comunal manifestó su preocupación por los posibles efectos de estas iniciativas sobre el medioambiente, los recursos hídricos y la [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T12:23:55+00:00"
-    },
-    {
-      "titulo": "Ante demora del gobierno: Germán Codina y Claudio Orrego buscan comprar radares meteorológicos para Santiago - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQdzhEYXNPcjVHeVJmcmU0bU5mWjJMQnZ3U0RmYWVBckpodnRlaEhsV0IwSGlsdzVhWmtNd0VGX2RTTThJSHp4aVJQelJSQ2dEblBFU3hqM2t6WVA4d0xNTE8yd3lUQS1CYzdQdWdlTW9JTUwzQ3JIX19lcWtHTzVZckU2azd1bmdNbElPV3J0MWtLV0hZWjFKRDlUTEI0c1V2alBqdDAzSnpSWnFKS1lhV19pREJyQzN1bHZNUDUxbEtKc0dCenZYSmdtUkVLeTlSTWg4V1V2NjM2YTdzZTR5UlV3?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ante demora del gobierno: Germán Codina y Claudio Orrego buscan comprar radares meteorológicos para Santiago&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-14T12:11:00+00:00"
     }
   ]
 }
