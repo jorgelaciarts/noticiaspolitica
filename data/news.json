@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-17T17:46:38.064155+00:00",
+  "actualizado": "2026-10-17T17:57:36.588063+00:00",
   "total": 500,
   "items": [
     {
@@ -69,6 +69,19 @@
         "Diputados"
       ],
       "fecha": "2026-10-17T16:46:49+00:00"
+    },
+    {
+      "titulo": "INDH: A siete años del estallido, Chile tiene una grave deuda con sus obligaciones en DD.HH.",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/indh-a-siete-anos-del-estallido-chile-tiene-una-grave-deuda-con-sus/2026-10-17/133933.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A un día de que se cumplan siete años del estallido social, el Instituto Nacional de Derechos Humanos (INDH) señaló que el Estado de Chile continúa con una \"grave deuda\" respecto al cumplimiento de sus obligaciones en materia de verdad y justicia, reparación y no repetición.\nDe acuerdo con datos de Fiscalía, durante las manifestaciones del 18-O se cometieron más de 35 mil delitos con casi 22 mil i",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-17T16:39:33+00:00"
     },
     {
       "titulo": "Franco Parisi propone una comisión de verdad y reconciliación por el estallido social de 2019 - La Tercera",
@@ -5610,18 +5623,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-14T14:38:36+00:00"
-    },
-    {
-      "titulo": "Sichel criticó falta de vocero de Gobierno para comunicar las emergencias",
-      "link": "https://www.lanacion.cl/sichel-critico-falta-de-vocero-de-gobierno-para-comunicar-las-emergencias/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El alcalde de Ñuñoa, Sebastián Sichel, criticó la falta de un vocero oficial del Gobierno en el marco de la emergencia por el sistema frontal. Su comuna fue una de las más afectadas por el evento climático. En conversación con Radio Universo, Sichel cuestionó que no se tenga establecido quien comunicará la información en este [&#8230;]\nThe post Sichel criticó falta de vocero de Gobierno para comun",
-      "categorias": [
-        "Presidente",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T14:35:00+00:00"
     }
   ]
 }
