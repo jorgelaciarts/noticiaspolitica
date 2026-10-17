@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-17T23:16:31.164943+00:00",
+  "actualizado": "2026-10-17T23:31:36.767328+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cianobacterias se reducen un 90% en la Laguna Avendaño y ahora buscan recuperar su ecosistema",
+      "link": "https://ladiscusion.cl/cianobacterias-se-reducen-un-90-en-la-laguna-avendano-y-ahora-buscan-recuperar-su-ecosistema/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Desde que en 2023, la Municipalidad de Quillón y la Universidad de Concepción aunaron voluntades y recursos para poner en práctica diversas investigaciones, en la Laguna Avendaño, ya se advierten avances en el control de las cianobacterias, pero la recuperación de su ecosistema todavía enfrenta desafíos. Los estudios encabezados por investigadores de la UdeC registran [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T23:25:34+00:00"
+    },
+    {
+      "titulo": "Chillán busca renovar contratos de basura y áreas verdes en medio de cuestionamientos por la planificación",
+      "link": "https://ladiscusion.cl/chillan-busca-renovar-contratos-de-basura-y-areas-verdes-en-medio-de-cuestionamientos-por-la-planificacion/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La municipalidad de Chillán busca zanjar dos procesos clave para el cuidado y mantención de la ciudad. Se trata de los futuros contratos de los servicios de recolección de basura y mantención de áreas verdes. Ambas concesiones han sido complejas y difíciles de gestionar por el consistorio no solo en el presente sino también en [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T23:21:18+00:00"
+    },
     {
       "titulo": "Senadoras de Comité Unido llaman a frenar señales de impunidad tras libertad condicional de condenado que atacó a Fabiola Campillai",
       "link": "https://www.elciudadano.com/actualidad/senadoras-de-comite-unido-llaman-a-frenar-senales-de-impunidad-tras-libertad-condicional-de-condenado-que-ataco-a-fabiola-campillai/10/17/",
@@ -5598,29 +5620,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T17:11:21+00:00"
-    },
-    {
-      "titulo": "Senador Becker condenó atentado en Angol: Quemaron 4 máquinas forestales",
-      "link": "https://www.lanacion.cl/senador-becker-condeno-atentado-en-angol-quemaron-4-maquinas-forestales/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El senador Miguel Ángel Becker (RN) condenó el nuevo atentado incendiario registrado en la comuna de Angol. Cuatro máquinas forestales resultaron dañadas por el fuego en el fundo El Carmen, y llamó al Gobierno a mantener el control territorial y reforzar las labores de Carabineros y las Fuerzas Armadas en la zona. El ataque ocurrió [&#8230;]\nThe post Senador Becker condenó atentado en Angol: Quema",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-14T17:05:15+00:00"
-    },
-    {
-      "titulo": "“Nuestra posición fundamental es apoyar el derecho de autodeterminación de los isleños”",
-      "link": "https://laprensaaustral.cl/2026/10/14/nuestra-posicion-fundamental-es-apoyar-el-derecho-de-autodeterminacion-de-los-islenos/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El embajador del Reino Unido en Chile, David Concar, marcó distancia ayer de la ruta comercial que se prepara entre Punta Arenas y las islas Malvinas/Falkland. “Esta no es una iniciativa comercial en la que el gobierno del Reino Unido tenga participación alguna”, afirmó tras reunirse con el alcalde Claudio Radonich, en su primera visita...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T17:03:06+00:00"
     }
   ]
 }
