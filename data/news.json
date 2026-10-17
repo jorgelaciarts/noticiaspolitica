@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-17T19:46:16.021894+00:00",
+  "actualizado": "2026-10-17T20:01:39.754132+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Brasil: qué dicen las últimas encuestas a una semana de la segunda vuelta entre Lula y Bolsonaro - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfemlBN2t0a1QwQ3hnbGhNZ1o0LVdkcWN2cmY3ODVOZmoxMDJHWmJVWkhRUjRSOXA4ejBmV1hza3hlNWp2U3IwVWdiVTdlaGpPblNtQnZibi1TaUtPbkF5MGRLc1IyckdwSjRyTW5qai1Zem9RZ0hnQk43aw?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Brasil: qué dicen las últimas encuestas a una semana de la segunda vuelta entre Lula y Bolsonaro&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-17T19:52:58+00:00"
+    },
     {
       "titulo": "Publicada en el Diario Oficial, la Ley de Reconstrucción iniciará su implementación en noviembre",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/publicada-en-el-diario-oficial-la-ley-de-reconstruccion-iniciara-su/2026-10-17/154253.html",
@@ -5607,20 +5618,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-14T15:24:00+00:00"
-    },
-    {
-      "titulo": "Squella cuestiona el desembarco internacional de Vallejo y la llama a cuidar “la mesura con la que va a participar de la política contingente”",
-      "link": "https://www.theclinic.cl/2026/10/14/squella-cuestiona-el-desembarco-internacional-de-vallejo-y-la-llama-a-cuidar-la-mesura-con-la-que-va-a-participar-de-la-politica-contingente/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El presidente del Partido Republicano abordó el nuevo cargo de la exvocera de Gobierno en la Conferencia Interamericana de Seguridad Social y cuestionó sus recientes declaraciones contra la administración de José Antonio Kast. Aunque le deseó éxito en sus nuevas funciones, advirtió que sus intervenciones dan cuenta de un retorno a la política nacional y llamó a evitar que los organismos internacio",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Candidatos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-14T15:23:41+00:00"
     }
   ]
 }
