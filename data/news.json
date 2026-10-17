@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-17T12:46:38.718120+00:00",
+  "actualizado": "2026-10-17T13:01:35.111942+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ley de presupuesto",
+      "link": "https://ladiscusion.cl/ley-de-presupuesto/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Señor Director: El debate sobre el Presupuesto 2027 merece rigor y respeto. Las expresiones atribuidas al diputado Diego Schalper, según las cuales los incentivos de mejoramiento de la gestión se “chanchullean”, instalan una sospecha colectiva sobre los trabajadores públicos. Si existen irregularidades, deben acreditarse, investigarse y sancionarse. Generalizar una acusación desde una tribuna parl",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-17T13:00:32+00:00"
+    },
+    {
+      "titulo": "Municipalidad de Quillón y la UdeC realizan operativo de salud para personas en lista de espera - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUmlIR05wRzZPck9aaEQ1MGJfdV9wUE0yd1hUc3RjWFFPc3pfYVNqQ1Bud3ZNVWFvMlFvMFpmQ1dzVndXaUx1TzBVNktrdTY4NmlxbnZjX093a0Z2VkRIVUZPbXUtOHFfY2djbWlfWDVhenNoSU9Lc1NNVzZYTGRqcW85VVdsdjYzS01r?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Municipalidad de Quillón y la UdeC realizan operativo de salud para personas en lista de espera&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T12:34:12+00:00"
+    },
     {
       "titulo": "Reaparición de radicales en cita con Bachelet y Boric generó incomodidad en la oposición - Emol",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWm9tOFBoWnlIRWREQ2NfS0h5RjdHX01VdHR1RnNzQXdqdGZva0NiWEhGT0o0Wk9LUzI5S2pvOWFhTXFNRUtpdjRCdFBVaFlCOV9EVGRxN3NFQm5PWWlMNzk3RVo1WHpUVmtZLW5XMlhKb0FNNEpFQjRhZURzcVp6Mnd2UU9vWExzVnFwamVydFMxV1BBYVdwbm1EblVGUmFvN0wzeEN6VQ?oc=5",
@@ -81,6 +103,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-17T09:49:40+00:00"
+    },
+    {
+      "titulo": "Álvaro Ortiz: “La DC también se abre a presentar un candidato. Esto no es un Bachelet o Boric” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX20xaTg1cEdRYlFHdDlBZFRvSHJ1bjMwNUQzOHB1V1hVbWgxdWRYUExLWXFKLWd5TjV6RUxJdVZfT0JvNU1GY0tyNUtTYjU2U3NyMWNqQzBYekpDcHVJRVRvMGUwMTQxYWRxY3pHdV9yTTlnUUoyQUJrOEtGSGR0Z3BjWW4yYmRjV3RUSlZSaWlQNk5lZzhNeEl6eE1qR1dvOGZEVEtuNlBsdktLUVVWT2NWVzRmTmdnbmlULXFsb1dMWmZBNjdSd19tbU1MTmfSAfABQVVfeXFMT1lJcEhqc3VYbkZtT2d0d1BLVG45cHVpZHB1cTE1emNGa0x4c1Y4dm8xMHJUc1pnbUxfc3ZOOGFnN2RlTjJCSHl3UTJCcE43aWJmUWI1TElDc1RXbmZSWmZjbjAzVjdtVkxqUzA2U3ZseWo1Z1M4aUxqcTQ2eUR5eGE1TlNEUFJxWTBKa1F3aVl3LTFjN0JSVGZpM0hmVElOYW5XMzNYOEgwSGFHZFBidHZvektRWXhJUUF2N0NncHN4N2lEakY5UVlNcnM4cFNGb3NUXzFiajBHZDJiWVg3Q0huM1Q5dmVpbW9VYS04dmI5?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Álvaro Ortiz: “La DC también se abre a presentar un candidato. Esto no es un Bachelet o Boric”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-17T09:00:01+00:00"
     },
     {
       "titulo": "Álvaro Ortiz: “La DC también se abre a presentar un candidato. Esto no es un Bachelet o Boric” - La Tercera",
@@ -5593,40 +5627,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T12:59:28+00:00"
-    },
-    {
-      "titulo": "Servel y Segpres acuerdan trabajo conjunto para avanzar en proyecto de ley en favor de personas postradas y electrodependientes que no acudan a votar – Servicio Electoral de Chile - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxORnpTX1BQbTh5cTNFal82RlRIbHkyTmFyWVE4cWg5ZEdWOGxsVHVxc0RSZG03clNPSjBlQ3RwalNrSDF3OG1qMzlZSlFXLXRXcFYzMGxaZXhEbFBudDdTb2tpNGh4eUpmeDN1WXd3bGFIdHRmLXVRbGdjSmJKazYxaV9oZm9aU3djRnVqN1ZvZzJ5QlFLdVViYWpfMzcwdnc0WXdqY0VyZng4WEE3c3FJREo1cllpanEzdTFXeDRsVE0wNm01RFZya1RSNDNkQ2FXMGF2SnlvcXFSSS1Nd1M4TzgwWFRXNVhlLV8tYlllMjFXY3lsVWpJZENVaGpOTWppbDFKdUgxRmlpbGJheXVHT3FyZks1cjQ?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Servel y Segpres acuerdan trabajo conjunto para avanzar en proyecto de ley en favor de personas postradas y electrodependientes que no acudan a votar – Servicio Electoral de Chile&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-14T12:57:43+00:00"
-    },
-    {
-      "titulo": "Chile a la cola de Sudamérica: FMI recorta drásticamente proyección de crecimiento a 0,6% y anticipa más desempleo",
-      "link": "https://www.elciudadano.com/economia/chile-a-la-cola-de-sudamerica-fmi-recorta-drasticamente-proyeccion-de-crecimiento-a-06-y-anticipa-mas-desempleo/10/14/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl gobierno de José Antonio Kast enfrenta un complejo escenario económico, ya que la cifra estimada por el FMO implica una reducción de 1,8 puntos porcentuales respecto del 2,4% que el organismo calculaba en abril y es la más baja desde que se registró una contracción de 6,1% de 2020.\nLa entrada Chile a la cola de Sudamérica: FMI recorta drásticamente proyección de crecimiento a 0,6% ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-14T12:47:20+00:00"
-    },
-    {
-      "titulo": "Squella (REP) pide a Kast libertad total para algunos policías del estallido:\"defendían la democracia\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcjJmNEpDdlJSUXdZNmtHZk0wZkJZa3RKQlAxRlk3ZldXMk91R3FYQ3lOeWs5eFhEMEY3QXUwcXE2ems2U3pZZHEyNUg0SWh6UFRFWXhuZ05sYmtEZFZEc0tIenVsODR3a3RXTDY2dW1NVDJOaGs3aHU4SnBJRjkyQlFMMnUzM1pUNkxRbjh6V2lsR05abDJrV2ZHeDFkNm1SREctc0l0UVc3NkJJSDN6UkZNUmllMl84YUx6VWcxa2FxOUMzMXRDcXR6aFU4NFNhVGxCLUhuVDNDa21QUUV6dmhOT3hiZjZLMllHQV9WTkI0RTZWemZDbzNJTHlsSDYtTjhxeDdheTdxYkdhaXc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Squella (REP) pide a Kast libertad total para algunos policías del estallido:\"defendían la democracia\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T12:40:29+00:00"
     }
   ]
 }
