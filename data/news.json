@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-17T21:01:42.378072+00:00",
+  "actualizado": "2026-10-17T21:16:29.602839+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Democracia Cristiana se abre a presentar candidato presidencial: \"Esto no es un Bachelet o Boric\"",
+      "link": "https://cambio21.cl/politica/democracia-cristiana-se-abre-a-presentar-candidato-presidencial-esto-no-es-un-bachelet-o-boric-6ad3e25649494f7b2148245f",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Candidatos"
+      ],
+      "fecha": "2026-10-17T21:05:08+00:00"
+    },
     {
       "titulo": "Quién es el exdiputado UDI Gonzalo Arenas, el favorito de Kast para ser el portavoz de La Moneda - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTGtMeDV5OUhNb0hRa3hac091WVFuenlwNzhZcmdnUXhqMG42djUtU08wblZDbjFWcGxQSEdBYmViSkVxeFpFTXJJRUtlLUlHQVdwMmU1aHFmZ2ZpYUlZYXE2cWdEejVlM0VHMUp6Y2pBcDFydm5OcUxPLS1HTjBrd2NVbUFjanVBcjJmWTBvemIwb2dpRmM0a3lkMW9McWZqV0hScFU4NlZYTEVSYnBvZlBEQWI3UEVDU1R1MVIxelFlTWNYWkNBTQ?oc=5",
@@ -35,6 +47,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-17T19:52:58+00:00"
+    },
+    {
+      "titulo": "Al menos cuatro muertos y cuatro heridos tras avalancha en centro de esquí de Portillo",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/al-menos-cuatro-muertos-y-cuatro-heridos-tras-avalancha-en-centro-de/2026-10-17/155908.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Al menos cuatro muertos y cuatro heridos deja una avalancha que se registró en el sector de Laguna del Inca, cercano al centro hotelero y de esquí Ski Portillo, en la comuna de Los Andes (Región de Valparaíso).\nDe acuerdo con Senapred, las personas lesionadas están siendo atendidas y evaluadas por personal del SAMU, y serán trasladas a distintos centros asistenciales de acuerdo con la gravedad de ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T18:59:08+00:00"
     },
     {
       "titulo": "Publicada en el Diario Oficial, la Ley de Reconstrucción iniciará su implementación en noviembre",
@@ -5597,28 +5620,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T15:50:20+00:00"
-    },
-    {
-      "titulo": "“Es importante que se construya una cárcel de alta seguridad, pero fuera de los radios urbanos”: Desbordes valora postergación de ampliación de Santiago 1",
-      "link": "https://www.theclinic.cl/2026/10/14/es-importante-que-se-construya-una-carcel-de-alta-seguridad-pero-fuera-de-los-radios-urbanos-desbordes-valora-postergacion-de-ampliacion-de-santiago-1/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El proyecto que contemplaba ampliar la cárcel Santiago 1, integrando módulos de alta seguridad, fue postergado por el Gobierno. Esto, luego de que la Municipalidad de Santiago lograra frenar las obras, buscando evitar que se siga concentrando infraestructura penitenciaria cercana a zonas urbanas. \nThe post &#8220;Es importante que se construya una cárcel de alta seguridad, pero fuera de los radios",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T15:48:56+00:00"
-    },
-    {
-      "titulo": "Caso Puerto Coronel: Fiscalía pide 8 años de cárcel para el alcalde Boris Chamorro por cohecho - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMnB0LUNmVkIzUFRKb3c1ek5UNUdIZ3JUSzN2MWw0MUlCYW5sU1Jrc1c3YkxOTllhWEhBY1FrUW9xNVRGMUN3TGdjMHM3TU1NZEc4SVpKNklxSGtUVVFDZV9JXy1UMks3bXBmSGlyNjFzYUttOWNKYlhUei1sMVRHQ0lwSEhsQzlmZHgxVThBcVJVRmgtZkRzSTg0UDV6ZjFFMFJnY1dSd0o1UENHTFcxdUZXeXJ4Wi15ZTYzT0Z6R0d1RU5nYm15LWNYTGxWX2ctZlFDR3JNcVpOS2ZfdW5FZzBabHVDdlJXa09RSGN6OTNPaGh6QU0tQW5BV2lkTTFEYUYyYg?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Caso Puerto Coronel: Fiscalía pide 8 años de cárcel para el alcalde Boris Chamorro por cohecho&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T15:46:22+00:00"
     }
   ]
 }
