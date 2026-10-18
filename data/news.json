@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-18T00:31:41.155502+00:00",
+  "actualizado": "2026-10-18T00:46:37.016833+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gobierno declaró Emergencia Climática Preventiva entre Coquimbo y Biobío",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/gobierno-declaro-emergencia-climatica-preventiva-entre-coquimbo-y-biobio/2026-10-17/212700.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno declaró Emergencia Climática Preventiva entre las regiones de Coquimbo y Biobío, medida que regirá desde el 18 hasta el 23 de octubre, con el objetivo de movilizar recursos anticipados y reforzar los protocolos de respuesta ante el inminente paso de un evento meteorológico adverso.\nLa determinación se fundamenta en los últimos análisis de riesgo emanados desde los organismos especializ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T00:27:00+00:00"
+    },
     {
       "titulo": "Gores llegan en alerta a votación presupuestaria y Ñuble defiende su capacidad de inversión",
       "link": "https://ladiscusion.cl/gores-llegan-en-alerta-a-votacion-presupuestaria-y-nuble-defiende-su-capacidad-de-inversion/",
@@ -126,6 +138,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-17T19:52:58+00:00"
+    },
+    {
+      "titulo": "Ley de Reconstrucción de Kast es publicada en el Diario Oficial: Contraloría advierte inconsistencias - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWlV5ZG5BVFhmaHZwdC14QVBDc0tCR2NBcEQ1OER1QWJ1ODZ5Y1paZm1JMk5na19ZcHFTd1lKbkZuam1kUlVTYkdWM0VpN3lYb1dDSzdMc2llRkdiNmhtOWp2TklWdlVHamZSVVhpaFVzLUN5b1JXVVZydnY2TUYxazVhRTJTWUZDMWU4RFUxOVYtR1VRdjZmck1WcjBvWWJyYk53VlphNXFVVGhCanI0Qm1pNlp0YzBsUUVoeTBwSTFvLUhOeTQ2TVR6YVBGRDFMNS1zRDZmZVdlZ0E?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ley de Reconstrucción de Kast es publicada en el Diario Oficial: Contraloría advierte inconsistencias&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-17T19:40:05+00:00"
     },
     {
       "titulo": "Tragedia: avalancha en sector de Portillo dejó un saldo de tres muertos",
@@ -5598,28 +5621,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-14T17:33:59+00:00"
-    },
-    {
-      "titulo": "Parisi emplaza a Kast a \"tomar cartas\" por millonarias pérdidas de fondos de pensiones - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdndsRERDTlJtMkF1aGRmOVpmYmtSTWQtR0hKOTN1Sm5XeGowSnlldWw2djVtNGV0TzBpcVdBU3ZjUzRWdWJDcnNGMDNxMWJZbkpqUzdpclBXMTdWSTlKRW1KVk9EekVBNUlKN3BxeVF2empmSlFVMnZxR21KZTRRdE00NkRzNFhmaXNKRmNlMHV5QmRDaXFjcjd5TlVBREZBVVFmNk9SRXZfNUxqcUh5aWxWaGdnNHl4RHIxVmlKMNIBvwFBVV95cUxOdndsRERDTlJtMkF1aGRmOVpmYmtSTWQtR0hKOTN1Sm5XeGowSnlldWw2djVtNGV0TzBpcVdBU3ZjUzRWdWJDcnNGMDNxMWJZbkpqUzdpclBXMTdWSTlKRW1KVk9EekVBNUlKN3BxeVF2empmSlFVMnZxR21KZTRRdE00NkRzNFhmaXNKRmNlMHV5QmRDaXFjcjd5TlVBREZBVVFmNk9SRXZfNUxqcUh5aWxWaGdnNHl4RHIxVmlKMA?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parisi emplaza a Kast a \"tomar cartas\" por millonarias pérdidas de fondos de pensiones&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T17:20:00+00:00"
-    },
-    {
-      "titulo": "Parisi emplaza a Kast a \"tomar cartas\" por millonarias pérdidas de fondos de pensiones - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ2VrMzJ3QnhleTVqWWgtQzJ3RG9hSUZHbVF0RGxiNEtBUTJhWVo4ZUNSSThGSEFDV0hPcWRiSTRLYkRJTFh0X3VJMkFGdWR0VHh2aDIzcXdldkE2ZjYzX0FMbVU0TzRpYlg4M001LWlpaG4yN1NHUGRVV0FoLUZBQzFsZ1NRdEF1LUxvQmVzMkVtNEl6bFdJNHpfUWtUNWx3Y29fYTdERDRwYWh0d0lJM1RRSndtRzhyZHc?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parisi emplaza a Kast a \"tomar cartas\" por millonarias pérdidas de fondos de pensiones&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T17:20:00+00:00"
     }
   ]
 }
