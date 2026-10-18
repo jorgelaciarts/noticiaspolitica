@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-18T11:16:43.854171+00:00",
+  "actualizado": "2026-10-18T11:31:38.328761+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Las historias detrás de Monte Rosa: sus platos abundantes, viejos parroquianos y una cantina que ha recibido desde Allende hasta Boric",
+      "link": "https://www.theclinic.cl/2026/10/18/las-historias-detras-de-monte-rosa-sus-platos-abundantes-viejos-parroquianos-y-una-cantina-que-ha-recibido-desde-allende-hasta-boric/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Entre recetas que se transmitieron de generación en generación, clientes que llevan décadas ocupando las mismas mesas y una historia que se remonta a 1965, el Monte Rosa se mantiene como punto de encuentro en el centro de la ciudad. La cantina, que fue frecuentada por Salvador Allende, recibió recientemente al expresidente Gabriel Boric. A pesar de los años conserva su identidad marcada por la coc",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-18T11:23:00+00:00"
+    },
     {
       "titulo": "(VIDEO) Denuncia ante Fiscalía: Senadora Daniella Cicardini y el diputado Manouchehri investigan pérdidas de AFP por mala gestión",
       "link": "https://www.elciudadano.com/reels/video-denuncia-ante-fiscalia-senadora-daniella-cicardini-y-el-diputado-manouchehri-investigan-perdidas-de-afp-por-mala-gestion/10/18/",
@@ -227,6 +238,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-17T22:15:14+00:00"
+    },
+    {
+      "titulo": "Sistema frontal: Municipalidad de Santiago instala 4 puntos de emergencia ante alerta por lluvias, granizo y tormentas eléctricas - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOem02Y3ZhandHeEpXNlBJUWl5bnViakgwUGtiV3UwdENlMDBHd2JRSERnb2RHUXpYTDBpQjBYQmtRYzRhODhxWklyVmZnblF3NklvVHZfV1lQOTlMZ1AyVktLTXFKZHI1ams2U09HTzB3bmdFY0pONUhneGc5VHpOemMyMW82UUFrRE90cDkxQ193cF9Tc2hYWXE4eExBR1RLaElpNnlaR1FGNjcwczdkUVkzdDdfeGRaLVpVUHd3RFEycW5XcTZNcnh2TEswTGVaSDdhMXk2cDF3d0g1OHY3RmxCV0ZOb1Y4cXp0ZFcxdw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Sistema frontal: Municipalidad de Santiago instala 4 puntos de emergencia ante alerta por lluvias, granizo y tormentas eléctricas&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T22:09:46+00:00"
     },
     {
       "titulo": "\"Esto no es un Bachelet o Boric\": Timonel DC advierte que la Falange \"se abre\" a carta presidencial propia",
@@ -5599,28 +5621,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-14T21:30:00+00:00"
-    },
-    {
-      "titulo": "Alcalde Sichel apunta contra el Gobierno por manejo de emergencias: \"Falta un ministro de Hacienda que no sea el tesorero del curso\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjhtUWpPSk1IRjU1b2lUMGRLc3JISzMwLTNEdDR2YWNWc3o4bGVtYk9ZZmNOcEdLZkRHczh6a281RVlrZjNjdFdoNHF2d1NPQzRmbTA5TlgxbUNZdEdJcUhJQnd4d1RMc3N4ZG1kYllKOHBNS2FubE5jTHVlYjBjUlFUS0ZYbDRwTmRJSXNwb05WUFE5NjdBRkJHS2VFdlQwd25WR2J0OTYweUU?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde Sichel apunta contra el Gobierno por manejo de emergencias: \"Falta un ministro de Hacienda que no sea el tesorero del curso\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T21:30:00+00:00"
-    },
-    {
-      "titulo": "Los primeros desmarques de la generación intermedia de la centroizquierda a una nueva postulación de Bachelet",
-      "link": "https://www.theclinic.cl/2026/10/14/los-primeros-desmarques-de-la-generacion-intermedia-de-la-centroizquierda-a-una-nueva-postulacion-de-bachelet/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "\"Ver a la política preocupada de la próxima elección no nos va a hacer bien\" y \"ella puede ser candidata eternamente\" fueron algunos de los comentarios que realizaron el gobernador y la exministra, ambos símbolos de una generación política que no ha llegado a dirigir La Moneda. En el progresismo esperan que mañana se clarifiquen las intenciones de la expresidenta, en el desayuno que convocó su fun",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T21:24:53+00:00"
     }
   ]
 }
