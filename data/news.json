@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T00:16:34.986187+00:00",
+  "actualizado": "2026-10-18T00:24:16.685510+00:00",
   "total": 500,
   "items": [
     {
@@ -126,6 +126,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-17T19:52:58+00:00"
+    },
+    {
+      "titulo": "Tragedia: avalancha en sector de Portillo dejó un saldo de tres muertos",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/tragedia-avalancha-en-sector-de-portillo-dejo-un-saldo-de-tres-muertos/2026-10-17/155908.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Al menos tres muertos y cuatro heridos deja una avalancha que se registró en el sector de Laguna del Inca, cercano al centro hotelero y de esquí Ski Portillo, en la comuna de Los Andes (Región de Valparaíso).\nDe acuerdo con Senapred, las personas lesionadas están siendo atendidas y evaluadas por personal del SAMU, y serán trasladas a distintos centros asistenciales de acuerdo con la gravedad de su",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-17T18:59:08+00:00"
     },
     {
       "titulo": "Autoridades bajan a tres la cifra de muertos tras avalancha en centro de esquí de Portillo",
@@ -5609,17 +5620,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T17:20:00+00:00"
-    },
-    {
-      "titulo": "Quiénes encabezan Horizonte Ciudadano, la fundación que realiza las operaciones políticas de Bachelet y que citó a una reunión con la oposición",
-      "link": "https://www.theclinic.cl/2026/10/14/quienes-encabezan-horizonte-ciudadano-la-fundacion-que-realiza-las-operaciones-politicas-de-bachelet-y-que-cito-a-una-reunion-con-la-oposicion/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Fundada en 2018 por la expresidenta, la plataforma promueve una visión de políticas públicas que llevan su sello. El directorio está compuesto por exasesores de sus dos gobiernos, así como por exautoridades que tuvieron paso por el gobierno de Gabriel Boric. Desde la propia fundación afirman que su foco estará en construir y fortalecer liderazgos locales de cara a recuperar el electorado popular d",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T17:16:34+00:00"
     }
   ]
 }
