@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-18T00:01:21.425914+00:00",
+  "actualizado": "2026-10-18T00:16:34.986187+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gores llegan en alerta a votación presupuestaria y Ñuble defiende su capacidad de inversión",
+      "link": "https://ladiscusion.cl/gores-llegan-en-alerta-a-votacion-presupuestaria-y-nuble-defiende-su-capacidad-de-inversion/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La discusión del Presupuesto 2027 entró en una etapa decisiva para los gobiernos regionales. A un día de la votación de la partida 31 en la Cuarta Subcomisión Mixta de Presupuestos, los gobernadores endurecieron su posición frente a una propuesta que, según la Asociación de Gobernadores Regionales de Chile (Agorechi), reduce en $250 mil millones [&#8230;]",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-18T00:11:40+00:00"
+    },
     {
       "titulo": "Cianobacterias se reducen un 90% en la Laguna Avendaño y ahora buscan recuperar su ecosistema",
       "link": "https://ladiscusion.cl/cianobacterias-se-reducen-un-90-en-la-laguna-avendano-y-ahora-buscan-recuperar-su-ecosistema/",
@@ -5609,17 +5620,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T17:16:34+00:00"
-    },
-    {
-      "titulo": "Parisi emplaza a Kast por pérdidas ligadas a swaps de las AFP: “Tiene que tomar cartas en el asunto” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk4yOExoU0xlbzlfYXdsbFBkblR1OG5wRUZLNlBrX1VXS3lsdG0wVEpscGhhaThSMEtYWDNVY3VXRDhJcFYyWTRwRF80NXQ2dHYtX0tOLS15MDlzZ1g1cVhaQTNCVVptQlVITUNuMzNHNVpkdWRfNWpybDZEMjlXbVpMUVJRN3p0V2p3VDhsNjduNmd4QXBwZDRHUU4?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parisi emplaza a Kast por pérdidas ligadas a swaps de las AFP: “Tiene que tomar cartas en el asunto”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T17:11:21+00:00"
     }
   ]
 }
