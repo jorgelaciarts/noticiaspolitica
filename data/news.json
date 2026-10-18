@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-18T11:31:38.328761+00:00",
+  "actualizado": "2026-10-18T11:46:36.034682+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Las buenas políticas no tienen color político",
+      "link": "https://laprensaaustral.cl/2026/10/18/las-buenas-politicas-no-tienen-color-politico/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Ángel Roa Seremi de Gobierno El llamado del Presidente José Antonio Kast a dejar las diferencias de lado plantea un desafío para todo el mundo político: construir acuerdos duraderos en seguridad, empleo y políticas públicas, poniendo las necesidades de las personas por encima de las disputas partidistas. El martes pasado, el Presidente fue claro: “Chile...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T11:34:23+00:00"
+    },
+    {
+      "titulo": "Semiserio: Los lingotes de Milei y los millones y millones de dólares de las AFP’s esfumados y nuestro alcalde, medio Prat y medio Sparrow",
+      "link": "https://laprensaaustral.cl/2026/10/18/semiserio-los-lingotes-de-milei-y-los-millones-y-millones-de-dolares-de-las-afps-esfumados-y-nuestro-alcalde-medio-prat-y-medio-sparrow/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Elia Simeone R. esimeone@laprensaaustral.cl &#160; &#160; “En la vida, hay amigos, conocidos, adversarios, enemigos y … ¡compañeros de partido!”. Esta frase no la dijeron Salvador Allende ni Pablo de Rokha respecto del Partido Socialista y el Partido Comunista, respectivamente, aunque buenas razones hubieran tenido para ello. Y, aunque a nivel regional la sentencia podría ser...",
+      "categorias": [
+        "Partidos políticos",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-18T11:33:19+00:00"
+    },
     {
       "titulo": "Las historias detrás de Monte Rosa: sus platos abundantes, viejos parroquianos y una cantina que ha recibido desde Allende hasta Boric",
       "link": "https://www.theclinic.cl/2026/10/18/las-historias-detras-de-monte-rosa-sus-platos-abundantes-viejos-parroquianos-y-una-cantina-que-ha-recibido-desde-allende-hasta-boric/",
@@ -5599,28 +5623,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-14T21:38:41+00:00"
-    },
-    {
-      "titulo": "Valparaíso: Aprueban anteproyecto del Plan de Acción Regional de Cambio Climático y se viene la Consulta Ciudadana",
-      "link": "https://www.elciudadano.com/chile/valparaiso-aprueban-anteproyecto-del-plan-de-accion-regional-de-cambio-climatico-y-se-viene-la-consulta-ciudadana/10/14/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEste miércoles 14/10 se realizó la tercera sesión del Comité Regional de Cambio Climático (CORECC), instancia encabezada por el gobernador regional de Valparaíso, Rodrigo Mundaca, donde se presentó y aprobó la propuesta del Anteproyecto del Plan de Acción Regional de Cambio Climático (PARCC). Este instrumento contempla medidas de adaptación y mitigación para enfrentar los efectos [&#8",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-14T21:38:39+00:00"
-    },
-    {
-      "titulo": "Alcalde Sichel apunta contra el Gobierno por manejo de emergencias: \"Falta un ministro de Hacienda que no sea el tesorero del curso\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUFuVkFJQ2IwdWhXRFVoczdBaklNeVlTRFk2T1BoczNqRXB5U1pOWFZ5MjJNbEtxem5wXzIxa1dMM1BWbFQyRmtrVXNpQ1lOdERvdHYwQWJOZXViODRFV01lNDZRM1JOWHlHTDdHNHVzV0pSM2JGY3dIZnVFamkxMXotcHNSNC1XeFlPaW94RkZNaEFsMnhNSFgwT0U0dlBsYWk0OXoyaEU3azBwTEdHUtIBsAFBVV95cUxNQUFuVkFJQ2IwdWhXRFVoczdBaklNeVlTRFk2T1BoczNqRXB5U1pOWFZ5MjJNbEtxem5wXzIxa1dMM1BWbFQyRmtrVXNpQ1lOdERvdHYwQWJOZXViODRFV01lNDZRM1JOWHlHTDdHNHVzV0pSM2JGY3dIZnVFamkxMXotcHNSNC1XeFlPaW94RkZNaEFsMnhNSFgwT0U0dlBsYWk0OXoyaEU3azBwTEdHUg?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde Sichel apunta contra el Gobierno por manejo de emergencias: \"Falta un ministro de Hacienda que no sea el tesorero del curso\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T21:30:00+00:00"
     }
   ]
 }
