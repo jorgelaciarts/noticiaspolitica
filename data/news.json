@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T00:46:37.016833+00:00",
+  "actualizado": "2026-10-18T01:01:41.671523+00:00",
   "total": 500,
   "items": [
     {
@@ -24,6 +24,17 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-18T00:11:40+00:00"
+    },
+    {
+      "titulo": "Presidente Kast declara emergencia climática preventiva en siete regiones ante pronóstico de lluvias - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEIxajJMeEVFcVc3eFJoa282WUVhU01tdEJnSEVfT3RVQTYzUWtCbFhEMm1ZUnljdzJuclRHbFRRTWVSOVgtNGwzUURSV1FUYUxaWE5Lckt4OFZINlRGLXdIakp2MmtUVHZYM1hxY0lBUXRaQktpYXp6UFRic2k4QnZhQXYxd1hkUDZ3Y184MjdxdS1BVVRESUtUZ0JwMXhjT215R1dwTTVfVEhaWHk2bmNhWnhTY2M?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast declara emergencia climática preventiva en siete regiones ante pronóstico de lluvias&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-17T23:47:00+00:00"
     },
     {
       "titulo": "Cianobacterias se reducen un 90% en la Laguna Avendaño y ahora buscan recuperar su ecosistema",
@@ -5608,19 +5619,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-14T17:36:44+00:00"
-    },
-    {
-      "titulo": "Emergencia climática reactiva discusión por el diseño del gabinete y la falta de un vocero de Gobierno",
-      "link": "https://www.theclinic.cl/2026/10/14/emergencia-climatica-reactiva-discusion-por-el-diseno-del-gabinete-y-la-falta-de-un-vocero-de-gobierno/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La crítica del alcalde de Ñuñoa, Sebastián Sichel, al manejo comunicacional de la emergencia reactivó los cuestionamientos en el oficialismo al diseño del gabinete de Kast. Mientras en los partidos advierten falencias en las vocerías, la senadora Vanessa Kaiser (PNL) propone a Marcela Cubillos para asumir ese rol. El subsecretario del Interior, Máximo Pavez, sin embargo, descartó cambios: \"No hay ",
-      "categorias": [
-        "Presidente",
-        "Senadores",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T17:33:59+00:00"
     }
   ]
 }
