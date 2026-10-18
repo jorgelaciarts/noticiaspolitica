@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-18T11:46:36.034682+00:00",
+  "actualizado": "2026-10-18T12:05:12.606210+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Gobernador Flies pide frenar recorte a los gobiernos  regionales y alerta impacto en las cifras de empleo",
+      "link": "https://laprensaaustral.cl/2026/10/18/gobernador-flies-pide-frenar-recorte-a-los-gobiernos-regionales-y-alerta-impacto-en-las-cifras-de-empleo/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El gobernador regional, Jorge Flies, siente que conversar con el ministro de Hacienda, Jorge Quiroz, y la Dirección de Presupuestos es como predicar en el desierto. Al igual que sus colegas gobernadores, percibe que en Teatinos 120 hacen “oídos sordos” a que una baja presupuestaria a los gobiernos regionales provocaría un efecto negativo en la...",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-18T11:51:27+00:00"
+    },
     {
       "titulo": "Las buenas políticas no tienen color político",
       "link": "https://laprensaaustral.cl/2026/10/18/las-buenas-politicas-no-tienen-color-politico/",
@@ -5611,18 +5622,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-14T21:40:00+00:00"
-    },
-    {
-      "titulo": "Gobierno responde a críticas de Sichel: \"La vocería en la emergencia ha sido permanente\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-responde-a-criticas-de-sichel-la-voceria-en-la-emergencia-ha/2026-10-14/183841.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno respondió a las críticas de alcaldes que reprocharon una falta de coordinación respecto a la comunicación y gestión de crisis durante la lluvia que el martes afectó a la Región Metropolitana, y sostuvo que, durante el fenómeno, \"las vocerías (del Ejecutivo) han sido permanentes\".\nUna de las quejas más severas provinieron del jefe comunal de Ñuñoa, Sebastián Sichel, que analogó la comun",
-      "categorias": [
-        "Presidente",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T21:38:41+00:00"
     }
   ]
 }
