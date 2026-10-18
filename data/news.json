@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-18T22:16:35.987561+00:00",
+  "actualizado": "2026-10-18T22:31:34.878807+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "bonos del Gobierno de Chile - elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PWXBIZHVTeWxwbVkwSGFaNVoySkxBbVdXSGJUejdVZkpGYzNZMTUyaVlHTXJiUkZpb05WWTJyd3JVSzVLaVBpUGJOLWc4S1VWSzh1a0Raam9UUU53UndwdG1wUDlrM0xvbUV3VHBoSnpEb1c2?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "bonos del Gobierno de Chile&nbsp;&nbsp;elobservatodo.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-18T22:16:05+00:00"
+    },
+    {
+      "titulo": "Tras pérdidas del Fondo E: Diputado Schalper oficia a la CMF y a la Super de Pensiones para conocer medidas adoptadas - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZFVSZHhUVjV3MlpKVkhQZXh6c0hnMU9rT1FvNUgtNlE4LUgtWUp0NkQ1Q1hJOFdpMFo0NVo5by1nTXo3UzR1bF82cnVpTjhXX1ZzaWJJM0taQzNiVzZnYm1PSTZUeUxBU016ZlNLZVFFc3ZxbDhSU2hha3d5YnlzX0xyZXBBb0VwdFdzMktTQnhGRXdMZ2JJYm5yN1JWVm9lOE9NYTRlWjB6TW1YVXlqY2VOWmpwV3lBQWZMa09YdG5lWWJiei1wbDVsWVV0YjJILUtBOXBvaS1CMVJwVmk3SA?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tras pérdidas del Fondo E: Diputado Schalper oficia a la CMF y a la Super de Pensiones para conocer medidas adoptadas&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T22:15:27+00:00"
+    },
     {
       "titulo": "Alcalde oficialista Sebastián Sichel emplazó a ministro de Hacienda: \"O cambia y se reinventa, o se tiene que buscar un ministro político\"",
       "link": "https://cambio21.cl/politica/alcalde-oficialista-sebastian-sichel-emplazo-a-ministro-de-hacienda-o-cambia-y-se-reinventa-o-se-tiene-que-buscar-un-ministro-politico-6ad53ed2d4e73d3abd2ecbe3",
@@ -5591,32 +5613,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T03:59:04+00:00"
-    },
-    {
-      "titulo": "Senadora Paulina Núñez (RN) quiere ser Presidenta. Señaló que se abre a una eventual candidatura presidencial: “No lo descarto”",
-      "link": "https://cambio21.cl/politica/senadora-paulina-nunez-rn-quiere-ser-presidenta-senalo-que-se-abre-a-una-eventual-candidatura-presidencial-no-lo-descarto-6ad04cc04f3b993edd321b53",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Candidatos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T03:49:00+00:00"
-    },
-    {
-      "titulo": "La Senadora Paulina Núñez (RN) quiere ser Presidenta. Señaló que se abre a una eventual candidatura presidencial: “No lo descarto”",
-      "link": "https://cambio21.cl/politica/la-senadora-paulina-nunez-rn-quiere-ser-presidenta-senalo-que-se-abre-a-una-eventual-candidatura-presidencial-no-lo-descarto-6ad04cc04f3b993edd321b53",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Candidatos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T03:49:00+00:00"
     }
   ]
 }
