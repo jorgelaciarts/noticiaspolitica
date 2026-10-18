@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-18T21:46:25.505909+00:00",
+  "actualizado": "2026-10-18T22:01:59.508826+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcalde oficialista Sebastián Sichel emplazó a ministro de Hacienda: \"O cambia y se reinventa, o se tiene que buscar un ministro político\"",
+      "link": "https://cambio21.cl/politica/alcalde-oficialista-sebastian-sichel-emplazo-a-ministro-de-hacienda-o-cambia-y-se-reinventa-o-se-tiene-que-buscar-un-ministro-politico-6ad53ed2d4e73d3abd2ecbe3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-18T21:53:29+00:00"
+    },
     {
       "titulo": "“Iniciativa ecocida»: Organizaciones de Latinoamérica exigen al gobierno de Kast frenar el plan de matanza de lobos marinos",
       "link": "https://www.elciudadano.com/actualidad/iniciativa-ecocida-organizaciones-de-latinoamerica-exigen-al-gobierno-de-kast-frenar-el-plan-de-matanza-de-lobos-marinos/10/18/",
@@ -1050,6 +1061,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-17T12:34:12+00:00"
+    },
+    {
+      "titulo": "¿La Moneda comienza a mirar las encuestas?: Anuncios de una semana marcada por caída al 27% y la aprensión oficialista - Emol",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOVEyekNSQ2VOUTJVWGkzdVhWdF9lNWEweWw2aTdEaFVnV3FVVXRkenNoZEdDYm1Za0tsOGh2Rk1VQnR4NGFRQ2syZzVJdlNXZVAzaTZnUzF2cWdLZGpMV1NTbzRmMlFzU1Q3bm5XOW1Wb3pnb0hIQXpKaWtYYUpCZjVNM0J1RG54QWh5dTEza0FwSDBOcU1peDhMYzA?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "¿La Moneda comienza a mirar las encuestas?: Anuncios de una semana marcada por caída al 27% y la aprensión oficialista&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-17T12:30:00+00:00"
     },
     {
       "titulo": "Reaparición de radicales en cita con Bachelet y Boric generó incomodidad en la oposición - Emol",
@@ -5595,30 +5617,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-15T03:49:00+00:00"
-    },
-    {
-      "titulo": "Senadora Paulina Núñez (RN) se abre a una eventual candidatura presidencial: “No lo descarto”",
-      "link": "https://cambio21.cl/politica/senadora-paulina-nunez-rn-se-abre-a-una-eventual-candidatura-presidencial-no-lo-descarto-6ad04cc04f3b993edd321b53",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Candidatos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T03:49:00+00:00"
-    },
-    {
-      "titulo": "\"¿Por qué en Lota se demora?\": Saavedra pide a Kast declarar zona de catástrofe tras derrumbe de cerro - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPS2wtR3Zzd3prNExnVnoxS0VfYTRFaHRLRUxQTHhMYko5SlJMczlsd2c1YXlqcS1iYlBqb0xJSzNPam5DVU5ZelhobDNfdDA2eGJkQnNYRUgweFVsdFZ0UklMUFgtWG1XY24xazNKVEYtNHl6Mm1JVGFObHNMbkR0ZVZpTGM1NjU0VmNBeGVzOTI3bm1jaXdYYkVVYjFvZWh4cDdmY00xdnl5V18wUlJVa3BBanoyeWhuYjhvMzR1ZmlYUmN3bEdfNzQyam9WVXBDZ0NPRXBZdjZYMHhhWVdrdk5aSy13TmkwY2ZEdGJzWVdVaDhSaDZwVGFMbEFYYV83VGZXZl9HNVhRZw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"¿Por qué en Lota se demora?\": Saavedra pide a Kast declarar zona de catástrofe tras derrumbe de cerro&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T03:01:38+00:00"
     }
   ]
 }
