@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-18T23:31:39.758947+00:00",
+  "actualizado": "2026-10-18T23:42:30.445420+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Prensa alemana analiza histórica caída de popularidad de Kast: Problemas de gestión, promesas incumplidas y recortes sociales",
+      "link": "https://www.elciudadano.com/actualidad/prensa-alemana-analiza-historica-caida-de-popularidad-de-kast-problemas-de-gestion-promesas-incumplidas-y-recortes-sociales/10/18/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nAgencia alemana DW analiza las razones tras la caída de popularidad de Kast A solo siete meses de haber asumido la presidencia, José Antonio Kast enfrenta una caída de popularidad sin precedentes recientes en Chile, que fue noticia durante la semana reciente tras la publicación de un análisis de la cadena alemana DW, firmado por [&#8230;]\nLa entrada Prensa alemana analiza histórica ca",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T23:37:38+00:00"
+    },
     {
       "titulo": "Cadem: cae aprobación de Kast y de ministros - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE95UzZmM0ZueEtJT1RjUGtMcnRnX0VLN3pmSnZCUkdMRjJCOW8ybWtQRHJCR1hVam9Edk1EeVl5eWY5dWd4TVczSHE1a2pyempKTXhEdHNnZmlqeG16QzlyMVprUHVnNTdHNEQ0TTBRXzVRNk9xTS1xRA?oc=5",
@@ -5602,17 +5614,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-15T09:51:00+00:00"
-    },
-    {
-      "titulo": "¿Cuántas vidas le quedan a Zaliasnik? El embajador en Israel suma crisis y La Moneda no define su salida - Interferencia |",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVi1OS2I2TnpXdzctbFpUMlF0NmNFYzB3d09CbVphV0JOMzNCR1Z5ZzhzMDlYTTFMeWVEaTJxTVFpQ1hIZTFVd0pYNG1hQTFrOEpad05oOU5TbkZhMVlVQS1TdGlUMF96WE81WEdySnBKOWdzcS1NWm13RlY3MVNyWHZxbXVUcDZQSzREZXZYb21iTW9ITjBvcXRRMzZ1dnhreEJOTHpvMjFDX1BIa0NMY2hHeVhHTDUtSmlyWGdsYUdpMEU?oc=5",
-      "fuente": "Interferencia (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Cuántas vidas le quedan a Zaliasnik? El embajador en Israel suma crisis y La Moneda no define su salida&nbsp;&nbsp;Interferencia |",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T09:00:00+00:00"
     }
   ]
 }
