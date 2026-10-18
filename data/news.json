@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-18T12:05:12.606210+00:00",
+  "actualizado": "2026-10-18T12:16:28.663846+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Jaime Bassa, a siete años del 18-O: “Algo hicimos bien durante todo ese período: pusimos la oligarquía contra la pared”",
+      "link": "https://www.theclinic.cl/2026/10/18/jaime-bassa-a-siete-anos-del-18-o-algo-hicimos-bien-durante-todo-ese-periodo-pusimos-la-oligarquia-contra-la-pared/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "A siete años del estallido social, el diputado y exvicepresidente de la Convención Constitucional defiende la vigencia de las demandas que impulsaron las movilizaciones de 2019 y cuestiona a los sectores de la centroizquierda que se han desmarcado de la propuesta constitucional rechazada en 2022. \"Ha faltado coraje por parte de ciertos líderes de centroizquierda para defender las demandas que resp",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T12:02:54+00:00"
+    },
     {
       "titulo": "Gobernador Flies pide frenar recorte a los gobiernos  regionales y alerta impacto en las cifras de empleo",
       "link": "https://laprensaaustral.cl/2026/10/18/gobernador-flies-pide-frenar-recorte-a-los-gobiernos-regionales-y-alerta-impacto-en-las-cifras-de-empleo/",
@@ -5611,17 +5623,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-14T21:43:49+00:00"
-    },
-    {
-      "titulo": "La Moneda al Día: La comunicación de riesgo del Gobierno ante emergencias climáticas - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMkxLZnNhZTg3U1JPbXhfUGpORHBsLXhqNXpFd3FZQjJyWWJRZzhWM0p6R01fNkJhdkhsRVpYUWtxTl84cGQ5dTM4Um5NTmVHV2JkSmR4S0pWMnQ0NTVtYXVpbVFOV0xjQ0I0RURDdDBld1d2dWhyUldSWjlWUUtqTE9GYlZXbnB5ZHlxMUtIN0FTOWtlTzdzVlltMGtiSmZpc3NYRXZMaHR5TmtHNG5BUE13Z2tHNXdpMElFcUZ0QS0?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda al Día: La comunicación de riesgo del Gobierno ante emergencias climáticas&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T21:40:00+00:00"
     }
   ]
 }
