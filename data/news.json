@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T05:01:16.192534+00:00",
+  "actualizado": "2026-10-18T05:16:12.595026+00:00",
   "total": 500,
   "items": [
     {
@@ -2882,6 +2882,17 @@
     },
     {
       "titulo": "VIDEO de su rutina en Chilevisión. Yerko Puchento \"dejó la embarrá\" con el Gobierno. Criticó a Kast y al ministro Quiroz por la emergencia climática",
+      "link": "https://cambio21.cl/videos-y-galerias/video-de-su-rutina-en-chilevision-yerko-puchento-dejo-la-embarra-con-el-gobierno-critico-a-kast-y-al-ministro-quiroz-por-la-emergencia-climatica-6ad1be143bb7e1248e05506b",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-16T06:08:59+00:00"
+    },
+    {
+      "titulo": "VIDEO de su rutina en Chilevisión. Yerko Puchento \"dejó la embarrá\" con el Gobierno. Criticó a Kast y al ministro Quiroz por la emergencia climática",
       "link": "https://cambio21.cl/pais/video-de-su-rutina-en-chilevision-yerko-puchento-dejo-la-embarra-con-el-gobierno-critico-a-kast-y-al-ministro-quiroz-por-la-emergencia-climatica-6ad1be143bb7e1248e05506b",
       "fuente": "Cambio21",
       "region": "Nacional",
@@ -3158,6 +3169,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T22:35:00+00:00"
+    },
+    {
+      "titulo": "De lobista a fiscalizador: Superintendente de Medio Ambiente recién nombrado por Kast representó a seis empresas infractoras de normas ambientales por faltas “gravísimas”",
+      "link": "https://cambio21.cl/videos-y-galerias/de-lobista-a-fiscalizador-superintendente-de-medio-ambiente-recien-nombrado-por-kast-represento-a-seis-empresas-infractoras-de-normas-ambientales-por-faltas-gravisimas-6ad14981313ffb75697640f5",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T21:52:55+00:00"
     },
     {
       "titulo": "De lobista a fiscalizador: Superintendente de Medio Ambiente recién nombrado por Kast representó a seis empresas infractoras de normas ambientales por faltas “gravísimas”",
@@ -3692,6 +3714,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T17:17:03+00:00"
+    },
+    {
+      "titulo": "Boric por críticas del Gobierno de Kast a su administración: Un gobierno que lleva siete meses y que le echa la culpa de todo al anterior y que la culpa es del empedrado: que se haga cargo de sus propias responsabilidades",
+      "link": "https://cambio21.cl/videos-y-galerias/boric-por-criticas-del-gobierno-de-kast-a-su-administracion-un-gobierno-que-lleva-siete-meses-y-que-le-echa-la-culpa-de-todo-al-anterior-y-que-la-culpa-es-del-empedrado-que-se-haga-cargo-de-sus-propias-responsabilidades-6ad1071f88c031082610ea24",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-15T17:13:31+00:00"
     },
     {
       "titulo": "Boric por críticas del Gobierno de Kast a su administración: Un gobierno que lleva siete meses y que le echa la culpa de todo al anterior y que la culpa es del empedrado: que se haga cargo de sus propias responsabilidades",
@@ -5588,39 +5621,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-14T19:12:00+00:00"
-    },
-    {
-      "titulo": "Presupuesto 2027 formaliza recursos para capellanías de La Moneda - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS3ZRd2szRGdacktmeUVTbklJSmxrOFJwaXNsUV9RQTQ5bThaSmFlNXdOYlk0ZzdpNW1MeFdKQ1VJdHdJWmxrYkdIS29zaVNkMy1IYmNWRWVuUm5QSW4ya2ktU3NjZ1UxV3JHYURDRnFGc3BaaWUtcVFGMXRTQW5kMGNJR09kWGUxMDV1aHNkS3hGNk9HTUhzOGhfSHFDY2FOMGlCUWNqd3JkWjBvdU91YmRwNnRtclM0ZHBBUGFTM29XOXZrWThiOU1NZ0dBZ3RpR1lva191d2tZanRCV2dsSQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presupuesto 2027 formaliza recursos para capellanías de La Moneda&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-14T19:00:00+00:00"
-    },
-    {
-      "titulo": "Lo ordenó Contraloría: sin resolver está sumario en GORE Los Ríos por denuncia de maltrato laboral - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOOWMyc19JY3R2SHFUSm1DUGpacmk5U3Fyc1AxVEd4X1VoMUd0X1RiUTNZMXpxVGJEWl9SN2lwdlkxWlhiRk55U01naVVVNzd6dmkxaHVkcnFtc2pGc1ljODZVbnl1ck1ZR185bjIxLW8ta2FIR1BRUlByNXJLWTdJUUJmdVIySUpUZkszYURzWXl0T1ZEN1FVREZzb0VTNW1NMTdfOVRGQU01eE5hakxQMUVUV3RDVkU0Q1hPT1Y4aGc1endOdlRIamdmaGJaTDJRWG5VUzY4eGtBdDROY0NZMUFyXzJnSjRPeGpHUWZobmJmb1hscWVMZXZQaEZuSXljVjJKT2wzVXQzZw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Lo ordenó Contraloría: sin resolver está sumario en GORE Los Ríos por denuncia de maltrato laboral&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-14T18:53:40+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Paz social o memoria selectiva: Las contradicciones del discurso oficial del diputado Agustín Romero sobre el indulto a uniformados del estallido social",
-      "link": "https://www.elciudadano.com/reels/video-paz-social-o-memoria-selectiva-las-contradicciones-del-discurso-oficial-del-diputado-agustin-romero-sobre-el-indulto-a-uniformados-del-estallido-social/10/14/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl diputado Agustín Romero apoya el indulto a uniformados involucrados en el estallido social, argumentando la búsqueda de paz social. Este enfoque reduce el estallido a meros actos delictivos, ignorando la protesta masiva por derechos fundamentales como salud, educación y vivienda. Mientras se facilitan salidas políticas para uniformados, la agenda legislativa parece contradecir las ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-14T18:45:09+00:00"
     }
   ]
 }
