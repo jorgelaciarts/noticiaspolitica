@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T17:01:41.841651+00:00",
+  "actualizado": "2026-10-18T17:16:35.979073+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-18T16:46:12+00:00"
+    },
+    {
+      "titulo": "Marcha conmemora en Santiago los siete años del 18-O, pese a no contar con permiso",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/marcha-conmemora-en-santiago-los-siete-anos-del-18-o-pese-a-no-contar/2026-10-18/133654.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Manifestantes marchan por el centro de Santiago este domingo 18 de octubre para conmemorar siete años del estallido social, pese a que el Gobierno no autorizó la realización de protestas.\nLa marcha -en la que participan familias y organizaciones sociales- comenzó en el cerro Santa Lucía y se dirigió hacia la Plaza Baquedano, epicentro de las movilizaciones de 2019.\nLa jornada también comprende bat",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-10-18T16:36:54+00:00"
     },
     {
       "titulo": "«Desfinanciar también es derogar»: Senador Huenchumilla acusa al Gobierno de desfondar la Ley Indígena en Presupuesto 2027",
@@ -169,6 +181,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-18T12:49:16+00:00"
+    },
+    {
+      "titulo": "La DC marca límites a Bachelet y Boric: falange se abre a presentar candidato presidencial propio - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWdTU015NEYwRm5oTUs1UG5PSngwS2xzZUFMaU5lZlZ4OEkybnd1VGFIdXFZQUxnUXdQdEZ1Ui1Zc1A3TnlNZVlCRC1uTEpYZEVaT2pHSEFfTTBDR1pDNHZHQmpXeTNwOUxRbE9UODBLUkgyY0w3ZVVRdUd6RmZmcWpNd0V3U1h3RDR2UDI5Nl82OHFTdVZWengxdThHM2dneEhYQ1BjakR3Q0FwYlVVRTRuSFdfdGdkek9UaV9mRXJ6TnMydlJybTZHWkphai1xNHE5Zm1SdzBpRE05bHUxQnBEaw?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La DC marca límites a Bachelet y Boric: falange se abre a presentar candidato presidencial propio&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente",
+        "Candidatos"
+      ],
+      "fecha": "2026-10-18T12:30:03+00:00"
     },
     {
       "titulo": "Jaime Bassa, a siete años del 18-O: “Algo hicimos bien durante todo ese período: pusimos la oligarquía contra la pared”",
@@ -5600,29 +5624,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-14T23:26:16+00:00"
-    },
-    {
-      "titulo": "CDE incluye a exgobernador Luciano Rivas en querella por fraude al fisco; fiscalía acusa de cohecho a alcalde de Coronel y pide ocho años de cárcel, y balance del GES en 20 años: 62 millones de casos",
-      "link": "https://www.ciperchile.cl/2026/10/14/radar-14-10-26/?utm_source=rss&utm_medium=rss&utm_campaign=radar-14-10-26",
-      "fuente": "CIPER Chile",
-      "region": "Nacional",
-      "resumen": "La entrada CDE incluye a exgobernador Luciano Rivas en querella por fraude al fisco; fiscalía acusa de cohecho a alcalde de Coronel y pide ocho años de cárcel, y balance del GES en 20 años: 62 millones de casos se publicó primero en CIPER Chile.",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-14T23:25:29+00:00"
-    },
-    {
-      "titulo": "\"La mejor campaña es la pega bien hecha\": Senadora Núñez se suma a Bachelet y no descarta llegar a La Moneda - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmpNYUFQMW1vRmJzN0h0dm5EdWQzWHFOYzl2NTBBOGhFZEtseW5lNWlCVGFqWGMyekdnMFpYNmU3M1VFMlJyVmxhZXNDdEFDdWhXYlc5Rm1fQlloSWhmMVAzSUFlVmJmdktBWjY3X21Ed1FyVW81M0Fsd3dLRzRndHhqbUtjN3JHbDhJeXc0MnU1eVVKWmVHaldMRXc4OTdlZVViWGpMM1BqYWxlN1hfWFF6bTY0NE9ZbTdvX19FaENMZ0w3VDZzRTFabjRBdzdDV0xzRmZiMmNkODVBZVZrTQ?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"La mejor campaña es la pega bien hecha\": Senadora Núñez se suma a Bachelet y no descarta llegar a La Moneda&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente",
-        "Senadores"
-      ],
-      "fecha": "2026-10-14T23:22:56+00:00"
     }
   ]
 }
