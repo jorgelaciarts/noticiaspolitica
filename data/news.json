@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-18T20:01:45.902963+00:00",
+  "actualizado": "2026-10-18T20:16:28.995100+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Sichel arremete contra la gestión de Quiroz: \"O cambia o se debe buscar otro ministro\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/sichel-arremete-contra-la-gestion-de-quiroz-o-cambia-o-se-debe-buscar/2026-10-18/165125.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El alcalde de Ñuñoa, Sebastián Sichel, criticó la gestión económica del Gobierno y arremetió contra el titular de Hacienda, Jorge Quiroz, a quien pidió asumir un rol político y \"reinventarse\" o \"se debe buscar otro ministro\".\nEn entrevista con La Tercera, el exministro de Desarrollo Social afirmó que \"si la gente lo está pasando mal, y tú no le puedes dar una buena respuesta porque subió la bencin",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-18T19:51:25+00:00"
+    },
     {
       "titulo": "Más de tres mil carabineros desplegados, bailes performativos, enfretamientos y la presencia de Daniel Jadue: así se vive el primer 18-O bajo el gobierno de Kast",
       "link": "https://www.theclinic.cl/2026/10/18/mas-de-tres-mil-carabineros-desplegados-bailes-performativos-enfretamientos-y-la-presencia-de-daniel-jadue-asi-se-vive-el-primer-18-o-bajo-el-gobierno-de-kast/",
@@ -5608,17 +5619,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-15T00:53:11+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Manouchehri exige investigar a las AFP tras pérdidas de US$7.700 millones",
-      "link": "https://www.elciudadano.com/reels/video-manouchehri-exige-investigar-a-las-afp-tras-perdidas-de-us7-700-millones/10/14/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEl diputado Jaime Mulet destaca la necesidad de una revisión exhaustiva de las políticas y operaciones de las Administradoras de Fondos de Pensiones (AFP) a raíz de las significativas pérdidas reportadas, que ascienden a US$7.700 millones. Urge evaluar posibles irregularidades que impacten en los ahorros de los cotizantes para asegurar transparencia y responsabilidad en la [&#8230;]\nL",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-15T00:45:10+00:00"
     }
   ]
 }
