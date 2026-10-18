@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-18T15:01:42.228970+00:00",
+  "actualizado": "2026-10-18T15:16:35.128109+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-18T14:59:49+00:00"
+    },
+    {
+      "titulo": "Kast contra la naturaleza - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XS0NSVUVDQmg5WC1nS1RWWUMxVWM3QmYtTHZldUhRTW83RFZMOWpVY0U0TmFZaHkzdFhXcDJELVloQTdkSFVIRV85UkNHMzcyN2ZwZXpsdFI5bmFMMmN5ZEVzeWR2TWJKYWFQZnJIamw5cmZsTFpz?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast contra la naturaleza&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-18T14:45:00+00:00"
     },
     {
       "titulo": "Nuevo aniversario del 18-O: Kaiser emplaza al presidente Kast a patrocinar ley de indulto a carabineros y “cumplir con compromisos previos” - CNN Chile",
@@ -5613,17 +5624,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-14T22:43:27+00:00"
-    },
-    {
-      "titulo": "El conflicto Servel-Hacienda que Interior busca contener ante recorte que amenaza futuras elecciones - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPOXg5ZmgzejJuaWtxQlZfTUJpSk55cVFEay1uTllEc0J0Z2pGT1lOdVZMLWlpWFlzU0o3ZEdLUEx3azZxS2dkbjJtbFJqOExORXNDVW8tcHN4dGpNUGRPeEl6Szc2S09WSjRKb05JWHV3MFhtZDI5eVRXbGR6SXVUeHRuSnhPUGItOThkcU9lMFp1bmRjYkJZWWNsSzFsY2Q1ZE5oeG9hbnJDRXJhbmpFbkpGajBGQUhTdHBJVVBCRzRCUFZrZld6RlJYN0VHSWRCb3dCUzh5dzdNRmctRXNReTlxSGxzVlRlaTFWa1ZKcGRXWEVDMlktemN4RFc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El conflicto Servel-Hacienda que Interior busca contener ante recorte que amenaza futuras elecciones&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-14T22:30:18+00:00"
     }
   ]
 }
