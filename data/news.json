@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T02:01:22.503266+00:00",
+  "actualizado": "2026-10-19T02:16:28.860206+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T01:10:00+00:00"
+    },
+    {
+      "titulo": "Cadem: Presidente Kast baja al 30% de aprobación y ministros registran retrocesos - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdmFVM1BoVVFDWk1idGtSZVFnejdaZGZKVkxUU21DOU9MVXJYcHcwUWZtNHIzVDdSMXozOVNKd0tMajQ0TFRCX0FtNFN4SHpDaVh6bVdjOGNiT2tPUW9RQ1Z1U1NqUWhfNkxFSXlWNW1NTjk5dTZZUTZSbFJ0eVFYcTdVS1RNOTJJaUJqQ0tVZTh2NFNtQVZBNEhDOWZ5ODVlMDNWUTlDZE9aZw?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cadem: Presidente Kast baja al 30% de aprobación y ministros registran retrocesos&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-19T00:32:01+00:00"
     },
     {
       "titulo": "Cadem: Aprobación de Kast cae a 30%, su nivel más bajo, y 17 de 18 ministros retroceden en la evaluación - CNN Chile",
@@ -146,6 +157,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-18T20:52:00+00:00"
+    },
+    {
+      "titulo": "Diputados de Comisión de Salud piden reforzar prevención y tratamiento de la obesidad infantil",
+      "link": "https://www.cooperativa.cl/noticias/pais/salud/diputados-de-comision-de-salud-piden-reforzar-prevencion-y-tratamiento/2026-10-18/174833.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los diputados de la Comisión de Salud Catalina Del Real (Partido Repiblicano), Macarena Santelices (Ind-UDI), Roberto Arroyo (PDG) y Lilian Betancurt (PDG) solicitaron avanzar en medidas de prevención y tratamiento de la obesidad infantil, en respuesta a la alta tasa de estudiantes con malnutrición por exceso.\nEl Mapa Nutricional 2025 de Junaeb indicó que el 51,7% de los estudiantes evaluados pres",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-18T20:48:33+00:00"
     },
     {
       "titulo": "Sichel arremete contra la gestión de Quiroz: \"O cambia o se debe buscar otro ministro\"",
@@ -5593,28 +5616,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T11:29:00+00:00"
-    },
-    {
-      "titulo": "Municipalidad realizó nuevo  operativo de limpieza en campo aledaño al vertedero municipal",
-      "link": "https://laprensaaustral.cl/2026/10/15/municipalidad-realizo-nuevo-operativo-de-limpieza-en-campo-aledano-al-vertedero-municipal/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El Departamento de Operaciones de la Municipalidad de Porvenir realizó un nuevo operativo de limpieza de campos en los predios aledaños al vertedero municipal. La labor, ejecutada por funcionarios de esa unidad, abarcó la hijuela utilizada por el Club de Rodeo de Tierra del Fuego, el cierre perimetral del vertedero y el borde del estero...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-15T11:28:09+00:00"
-    },
-    {
-      "titulo": "“Nuestra posición fundamental es apoyar el  derecho de autodeterminación de los isleños”",
-      "link": "https://laprensaaustral.cl/2026/10/15/nuestra-posicion-fundamental-es-apoyar-el-derecho-de-autodeterminacion-de-los-islenos-2/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El embajador del Reino Unido en Chile, David Concar, marcó distancia este miércoles de la ruta comercial que se prepara entre Punta Arenas y las islas Malvinas/Falkland. “Esta no es una iniciativa comercial en la que el gobierno del Reino Unido tenga participación alguna”, afirmó tras reunirse con el alcalde Claudio Radonich, en su primera...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-15T11:27:16+00:00"
     }
   ]
 }
