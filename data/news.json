@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T18:16:17.647616+00:00",
+  "actualizado": "2026-10-19T18:31:43.323849+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,33 @@
         "Diputados"
       ],
       "fecha": "2026-10-19T18:07:16+00:00"
+    },
+    {
+      "titulo": "Malos resultados en las encuestas avivan debate sobre vocería y gabinete gubernamental",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/malos-resultados-en-las-encuestas-avivan-debate-sobre-voceria-y-gabinete/2026-10-19/150437.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un 69% de desaprobación sobre el rumbo del país, un 87% de percepción de estancamiento o retroceso económico y un 93% de evaluación negativa del mercado laboral reveló la última encuesta Cadem, cifras que desataron un debate político en el Palacio de La Moneda en torno a la necesidad de designar un vocero exclusivo y evaluar ajustes en el equipo de gobierno.\nEl adverso panorama de opinión pública ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-19T18:04:37+00:00"
+    },
+    {
+      "titulo": "Presupuesto en Salud: Gobierno defiende recorte a ley Ricarte Soto y Cariola acusa \"marketing fiscal\"",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-en-salud-gobierno-defiende-recorte-a-ley-ricarte-soto-y/2026-10-19/150406.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un tenso debate por la partida de Salud del Presupuesto 2027 se ha generado este lunes en la Tercera Subcomisión Mixta, donde uno de los principales focos de controversia ha sido la advertencia de diversos parlamentarios sobre la disminución de 28 mil millones de pesos para la ley Ricarte Soto.\nLa ministra de Salud, May Chomali, entregó garantías de continuidad para los pacientes respecto al finan",
+      "categorias": [
+        "Senadores",
+        "Diputados",
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-19T18:04:06+00:00"
     },
     {
       "titulo": "“Nuestros carabineros necesitan garantías”: El lamento de los republicanos tras un 18 de octubre sin indultos a exuniformados",
@@ -39,6 +66,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-19T17:49:19+00:00"
+    },
+    {
+      "titulo": "En Panamá: Boric evita crítica directa a Kast, pero cuestiona rebaja de impuestos y afirma que reduce beneficios sociales - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcUZLNUhrYU1rcDgwWFVyYUs1dFZiS29PZWVSQlNyaHBDRmppc0hrWllyZ2QyR3dxc1J3UGs5cnYyUWp2dXVvSmFzVHViWlJVWFhiZjBlUV8xM192SlB0eHpUZkpqZ1p6UlpmSXJPalZSWnhHel9hWGtXdjd0YVFnQnJyNUVQXzZDZ3FGRzBiLTVqNVlSblhyMmRfbWZuQ3YtbkxuYXYxdjRkWFFfUVNnYi1RS3JGV3FBT1RZdmZFZFFlWWdTcU9MWTFUZzVPZlVSS1NveE93SktVaWNGMnJ5SFBlOHQ4allkckNnOFFDWTcxVFQ3TEHSAZcCQVVfeXFMTlZWZWk4dmZiVGdCZUNsY1JmSFNCZFo3WDlJSk9ramFuZ2Y0OGNudkR6R3VBZE1USEpZZWhmejNzdVZUWVVvSmVveEdfWll5WXRRenczUlNtODVUVUpkeC13MGJqQ1ZiS2hwNTV0U1J4OUtQR3hwajhfSS1pOVVzR1FPUVFNcmVtWUY2NndnRUp2RVRwSTVwdGVhcW5yZzJFSlQwQXpLTGZjT3l3RnNhajh5c0hrbFdKcnl3VXpsMkxySWF3eXdnSXotZ2NZbjUzc3VObk9ybnpLXzBFQzVMRXRobFgzUjU2N3l5eTdkTjdWaDBQT2RYWkc4ekQ4U21BOV9aOTNxZDNfMnZxdjZkZ21MSGhfTm5v?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "En Panamá: Boric evita crítica directa a Kast, pero cuestiona rebaja de impuestos y afirma que reduce beneficios sociales&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-19T17:44:04+00:00"
     },
     {
       "titulo": "En Panamá: Boric evita crítica directa a Kast, pero cuestiona rebaja de impuestos y afirma que reduce beneficios sociales - La Tercera",
@@ -5583,39 +5621,6 @@
         "Candidatos"
       ],
       "fecha": "2026-10-15T16:49:16+00:00"
-    },
-    {
-      "titulo": "Tras saber que arriesga 8 años de cárcel el alcalde de Coronel asegura que \"llegó la hora de hablar\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNOUdfcTRZQnZJbmlwUHF0ZEpwZWhDcFBaU014bTVqOS1tSVdERE1abHNTSzBZVlBhZ0NaaFlpLXhmekphLVFFSFhZU1lnWWlaX0xRNjVOeDlYZjhYZVJxT3V4Y0tjQkRDTUt5TXc3RWVfNlAtZGhTNncySE5TaXhSZ3ZNTGJ2SU05a3JYYlZnUFlyNUJrV0ZrQ0tGaFBCalJ6d1Nkd2VRMFFRYTAtU0ZrWUJOR1R2UlRpWFJRUzZaaVZDOHY4RlU3OEpvamRzX1UwaGE1MVVXc1NyZ3VseFowMjRxMXNoS1AwS0VIeS1SdW1TRlBtVU5vVFplVEt1VXFjamcxYzNMby02WGc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras saber que arriesga 8 años de cárcel el alcalde de Coronel asegura que \"llegó la hora de hablar\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-15T16:43:09+00:00"
-    },
-    {
-      "titulo": "Gabriel Boric tras reunión con Michelle Bachelet: “Nosotros perdimos y perdimos por alto la última elección” - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ09XR09RcG9FRGJhd3pmSmlyNHVlRzBWbFNTTFE1TWhUdXVFNUtqZlEtT0YxNk56MlJQRFFBaGlVS0VhanVScmE4TFZiSE1ITEJpdE9RTVFnMTZ5OTVPRHZsSWNmTVlXV3FubGhxUDFEdmgyYmV3XzdtZkRYQXBORE5DMTRaLXlJbzRXRXFNbUkxR2RSYjExMUFXVjh6dw?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Gabriel Boric tras reunión con Michelle Bachelet: “Nosotros perdimos y perdimos por alto la última elección”&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T16:41:15+00:00"
-    },
-    {
-      "titulo": "Una medialuna, una antigua decisión de Dorothy Pérez y un contrato con un familiar del senador de Urresti: la trama del caso Chillán - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRkkwQjBJRzBGLWVtWURwQjk4Nl9fXzdMay1hNFkwcm5zQUR6LUk5RGh0RWpaQXp0WjByRDZaN3pqYzE2YnBrQVJvRHZPZGc5cDNSWDZiVVlNUUFpUUZUZG5aV3NvMXA3VzkwT2QwSXRvZHNRZHJjMFVJYXo0N0RGTEJTWk5Lbl9MV1FMQUZqRHFhNDlLaXplZHVPLU4zYU9iT2FPUzNUcFhHVFQwUzlTcmViTTlFQUVOY1pFd0c5X1BGa01M?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Una medialuna, una antigua decisión de Dorothy Pérez y un contrato con un familiar del senador de Urresti: la trama del caso Chillán&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T16:39:00+00:00"
     }
   ]
 }
