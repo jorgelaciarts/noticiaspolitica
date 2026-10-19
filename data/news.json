@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-19T18:01:36.268892+00:00",
+  "actualizado": "2026-10-19T18:16:17.647616+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Parlamentarios PC presentan proyecto “Devuelvan la plata” para obligar a las AFP a restituir pérdidas millonarias de los fondos de pensiones",
+      "link": "https://www.elciudadano.com/politica/parlamentarios-pc-presentan-proyecto-devuelvan-la-plata-para-obligar-a-las-afp-a-restituir-perdidas-millonarias-de-los-fondos-de-pensiones/10/19/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa iniciativa del senador Núñez y el diputado Cuello busca que las AFP compensen a los afiliados del Fondo E, por las pérdidas derivadas de operaciones financieras vinculadas a las tasas de interés de Estados Unidos.\nLa entrada Parlamentarios PC presentan proyecto “Devuelvan la plata” para obligar a las AFP a restituir pérdidas millonarias de los fondos de pensiones se publicó primero",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-19T18:07:16+00:00"
+    },
     {
       "titulo": "“Nuestros carabineros necesitan garantías”: El lamento de los republicanos tras un 18 de octubre sin indultos a exuniformados",
       "link": "https://www.theclinic.cl/2026/10/19/nuestros-carabineros-necesitan-garantias-el-lamento-de-los-republicanos-tras-un-18-de-octubre-sin-indultos-a-exuniformados/",
@@ -364,6 +376,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-19T14:55:40+00:00"
+    },
+    {
+      "titulo": "“Vulnera gravemente las atribuciones de los PRC”: alcaldes buscan llevar al Tribunal Constitucional modificaciones a la OGUC - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYTctNUlZOHNqMG1TRzNGY2NwYUtPek9UZzhLZDM1T0hkQzVEbEZscFowVkRhWnNtek95MGF0TVBBQnI5M18zT2pIM3VRWC13eS0xNGttVDdReXNsNHJya3V5dXlHZUo3WFM2MWVGOG1JN21YRUhnVl9TdnZsYjdGNlNhcnZBbXNEYlFKWmZkNGZ1Mmd1WXk1SDRiTXdPRGZUeXZUOHRCMzFmYWp6MDNuZEpn?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Vulnera gravemente las atribuciones de los PRC”: alcaldes buscan llevar al Tribunal Constitucional modificaciones a la OGUC&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-19T14:46:00+00:00"
     },
     {
       "titulo": "Senador Daniel Núñez (PC): \"Pareciera que el ministro Quiroz quiere forzar un estallido social\" - Teletrece",
@@ -5593,28 +5616,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-15T16:39:00+00:00"
-    },
-    {
-      "titulo": "Boric por críticas del Gobierno a su administración: \"Andar echándole la culpa a otro no construye nada\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdm9yTkd1NlR4TDBzQ25yOTVYMkl1a0N2Z2J4RHNnREtpUFlBRTEwcDFNRVUxczM1bW9EVDVoMXBQYTV0WTlvX2x1X0RfUmhGRGZmWlprY2RhbUs2U1IybUx5NkVYM1l1S1UxWjZGZWl3S1JUbS1uQ3RyOGE0TlB6MUlILXlBTEo1cFZFT2xlX2lMZE1tTFBRLW5mQmE4VVJ0M2JxWVltTlczZHRTN25TTlBQeFA5eG5yTGNOSDk3YzZPZGVReGFSSUVTa2xFQ2JBM29n?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric por críticas del Gobierno a su administración: \"Andar echándole la culpa a otro no construye nada\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T16:33:29+00:00"
-    },
-    {
-      "titulo": "Boric tras cita con Bachelet y oposición lanza crítica a Kast: “La gente está cansada de que se le eche la culpa al empedrado” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNakRWb1Q3YWw3U05YVVZveVJtdXdzTjVPRkk1dWthODRadjBzeDh5QjZ4TnBjalBWSU9xSERtc1lCM182NXV3QVYwU2lOU1RGWlVUbHhkSEN6MDBmNVF6TGgxblBsVm10VmpZTlh3ejY5cjRrcVl3VGpHVmFYbTRhb2JxMU5ZTUNTM0RmcEpDdDZaVGllVFhxRHlKWkhkZ21JSmRVZE56U1hvekkwaU05UzZSNDRwb2o2OWF0bDlvY2dId01oZklzZTgyd2NaalNJOG52NEtOTS1nOTZXUmdWeDYxWFMyVEVfU2dyU0c2SEJfYVM2d0s4Q9IBmgJBVV95cUxOQUhSUFJZS0tIU3lTeXdyWWxfbWg5QzFFeGdiVWhYbWt6dHBsR0p5Wms5VFZvTVRUWEVuMVBiNERfWHN0VmtrZ3ZJUG9kajMzZGRLNjVadjNsS0ZuTkNnQnZPZ2pfbDNTamwtU1h0WWhGM2NtYU5nc0hUUXh4NVpSRHVzelRKNHhjRUtMMDRKa2tVT1FjM29KRDhmY2R4bENrc2lUeW5QcE9vX0NweGFmcHFyTi0xaGR0OHNaM0M4NXdudFNyREhuZk5Kd0dNd0hCdUdma3dpWDJHVFoyLXcwcnV6RWx0cTlVOWpZVGFYOFFNMFYwWjRNVjJPUVVfcVFWOXVzSjVfdW5hVUxOeHpySWw1RTRJVV9HckE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric tras cita con Bachelet y oposición lanza crítica a Kast: “La gente está cansada de que se le eche la culpa al empedrado”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T16:30:39+00:00"
     }
   ]
 }
