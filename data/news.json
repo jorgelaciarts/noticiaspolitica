@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-19T17:31:21.635642+00:00",
+  "actualizado": "2026-10-19T17:46:41.224566+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast aprueba conformación del Alto Mando del Centenario de Carabineros: 8 generales pasan a retiro - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbW8tMFlKZ0NSS2ltTktRNmxqSC1MaldKVFZTX0lCWWE3QzA1LXdrX0JsSzd3Q0Q5c2pOSXktbWVJejlmajRva1dyS2dPNjJ0T2xOdFlma05XaVNQNzZ4LXNaNE5xbjlnTTFTbVpwM3Bkd1pOWW0ydXluLVFNU2YySGdhZmFHYWV4RGZOMWRoMmNTbThHYXJ1cTdwR3VldnhjNF9tWXp2dU8yUy1HNGdnUDZtTkdaRE1UM2Z4MGJJWlZwaDRTRmRsUEtXSHhkd2VqanVBTFU5WkxnemUyOVRONDZUclNoNmxNdWFlMHotXzhhXzBVay13Qw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast aprueba conformación del Alto Mando del Centenario de Carabineros: 8 generales pasan a retiro&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-19T17:35:44+00:00"
+    },
     {
       "titulo": "Caso Puerto Coronel: fijan para el 13 de noviembre la preparación del juicio oral contra el alcalde Boris Chamorro - Diario Concepción",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkI4RlpwMTRQaU9iQW1jYlM5aHNnQlI3UEJjb1E4V2pOSlFMNWQ3bElUcG1FaDktbTIzbWtaUWJCdm54OGhJYnJIZjZTS055Uld6eU94NU96OXpqVGdOOHBmMjVKc2hZZW1oYmtJZXUtLWc1Um1yazZsbWI1VktVWEZkVHNHR3JkaUNrU2JmYzhKUl9VRE9WT29SWmxReFNicnN2MHRFdV8?oc=5",
@@ -45,6 +56,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-19T17:02:59+00:00"
+    },
+    {
+      "titulo": "Santiago aguarda el temporal con reforzamiento en sus \"nuevos puntos críticos develados\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/santiago-aguarda-el-temporal-con-reforzamiento-en-sus-nuevos-puntos/2026-10-19/135034.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las autoridades de la Región Metropolitana reforzaron las medidas preventivas ante el nuevo sistema frontal que afectará a la zona central durante esta semana, con precipitaciones que podrían alcanzar su mayor intensidad durante la tarde del martes, acompañadas de tormentas eléctricas y posibles granizos.\nEl meteorólogo Elio Brufort, de la Dirección Meteorológica de Chile (DMC), explicó que el fen",
+      "categorias": [
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-19T16:50:34+00:00"
     },
     {
       "titulo": "Cadem: Aprobación del Presidente José Antonio Kast cae a su nivel más bajo y desaprobación alcanza el 65% - El Observatodo",
@@ -5588,28 +5611,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T16:27:28+00:00"
-    },
-    {
-      "titulo": "Bachelet reúne a Boric y a jefes de seis partidos de oposición para discutir cómo enfrentar al gobierno de Kast - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVlA0QnJjZ0RyLUV6VWNxWUtHSzF5VVprYk44eTBvbC12S3VSc3g1NUJYQmNVX2lGdnNQRE5CVE4zeHZ5TWNRNXh2YTlzX2ZLNTJBR19DZjI1azU0bG9TbUt3bTV3ZEJhekdKTVZsTFZDNHVidy15bF8ycF9sTlhqMjByV3JuaUpwNzVLZU9kOUlUcHVUTkl0VVFBR1N6dVJiYTc5UXJ0eWZISTNHYU5kR3RGZTlPUVptTS1zbHcwODNwTzMwYlJnbUw2UDVKeUlZZzNRY0dR?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bachelet reúne a Boric y a jefes de seis partidos de oposición para discutir cómo enfrentar al gobierno de Kast&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T16:27:00+00:00"
-    },
-    {
-      "titulo": "Excarabinero que dejó ciega a Fabiola Campillai busca libertad condicional: senadora rechaza petición - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQXRHdUo1WE9pWk5HQnhjaXJoUlFGa0FMYlJDdE5CVjBqaXRoaDU1aHJNbHFqZU5iMmtoNlM0WVc5UXkydFpWMDVrTVJJQ283OWNIRUY5bnowNUhyNVRMbkNsdlgzS055QmxDRmd6TTdWb2VSNGs1ZnJ3Y3AtMEctLWJoV3RWR0lONTM0R056V05FV3BfM3lOdmQ5VXNFdHRXaXpLYkRMMlFQVFZWVEtKWHBCQ19sZU5IMkl6OEhIOVlVWXM2UlJFWmlUTC1sN3ZzMy1mZk9RTjBCcENLTlN1Z0ZlR3ltaElabThWLW1GdndBSGZwZ1RNWFRSdmg?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Excarabinero que dejó ciega a Fabiola Campillai busca libertad condicional: senadora rechaza petición&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T16:18:45+00:00"
     }
   ]
 }
