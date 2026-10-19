@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-19T04:01:44.660602+00:00",
+  "actualizado": "2026-10-19T04:16:35.756802+00:00",
   "total": 500,
   "items": [
     {
@@ -271,6 +271,17 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-10-18T16:54:45+00:00"
+    },
+    {
+      "titulo": "Encuesta Criteria: Desaprobación del presidente Kast cae cuatro puntos, pero se mantiene en el 60% - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzAwZ0dqMlBIUi1jQlFITGhhSzBrMGdhM0RuaU9hdnRtQjZMVHRGaC0td2NwbVZMZzhEZThtOEtHOXVseGJrS2xXcENPdUZac2FHYTlXV25ob3o5VURJUU13SjlPcndhSnVBWkJJWFNCU0hwQk9IOEdCdXNFYnViY2hsWGxoUkVmMEY0R0RDQXFGMVllb2NfVUw4RGQtZUczc0licFkxMzRYbXpwQVpoVEo1QWNVNFVDQ2dkUGhSYm9PMlphTTFCbA?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Encuesta Criteria: Desaprobación del presidente Kast cae cuatro puntos, pero se mantiene en el 60%&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-18T16:47:52+00:00"
     },
     {
       "titulo": "Encuesta Criteria: Aprobación del presidente Kast llega al 28% y desaprobación de su gestión alcanza el 60% - CNN Chile",
@@ -5606,17 +5617,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-15T11:30:09+00:00"
-    },
-    {
-      "titulo": "Instalan Comité Operativo de Seguridad isleño  con foco en la prevención y persecución del delito",
-      "link": "https://laprensaaustral.cl/2026/10/15/instalan-comite-operativo-de-seguridad-isleno-con-foco-en-la-prevencion-y-persecucion-del-delito/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Para fortalecer la seguridad pública y avanzar al trabajo coordinado entre las instituciones responsables de prevención y persecución del delito, Porvenir tuvo su primera sesión de Comité Operativo de Seguridad, establecido en el marco de la Ley N°21.802. La mesa de trabajo la integró la Municipalidad de Porvenir, Carabineros, PDI y Ministerio Público, con quienes...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-15T11:29:25+00:00"
     }
   ]
 }
