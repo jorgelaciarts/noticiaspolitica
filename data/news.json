@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-19T11:16:35.793811+00:00",
+  "actualizado": "2026-10-19T11:31:20.279682+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta Cadem: caída generalizada en la evaluación  del gabinete y 60% apoya eliminar el indulto presidencial",
+      "link": "https://laprensaaustral.cl/2026/10/19/encuesta-cadem-caida-generalizada-en-la-evaluacion-del-gabinete-y-60-apoya-eliminar-el-indulto-presidencial/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "En tanto, un 30% (-2pts) aprueba la gestión del Presidente José Antonio Kast, el nivel más bajo desde el inicio del gobierno, y un 65% (+1pto) la desaprueba. &#160; Una nueva edición de la encuesta Cadem se conoció este domingo y reveló una caída generalizada en el respaldo al gabinete del Presidente José Antonio Kast:...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-19T11:25:52+00:00"
+    },
     {
       "titulo": "EN VIVO: Diputada Hube (UDI) analiza la contingencia política y nacional - Emol TV",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM0huVV8wRkdaQWNBRm5ncXUxa0FyYXc5Zy1yU1hJNXZIQzF2SDJIREdyQ0FPNWtBN3RWeDNENjYwem9XVnZRVkdYZUQ0VFBtcHRRalptQmdvWVN3OE1EYzlVWV9idkFLRE8xcUJIQkRGZG9KYkU3TFY5X3k5TVVZaDlyUnhxNzh5enpqQ0ZYN25CMXk2Ym1UY2ZweWZNcThpNEg1cGJvdXdXTTRfTnFibTBSWEE?oc=5",
@@ -135,6 +147,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T00:32:01+00:00"
+    },
+    {
+      "titulo": "Cadem: Aprobación de Kast llega al nivel más bajo desde que asumió y el gabinete registra una caída generalizada - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQdkNuUjI3U2NHMEVMQXRJck1hdVV0anVpelZUdzd1bmxoSjRmdmlYN0M5WmZPdXNsUjE2bW4tOEpjeWtSLS1HUUVRb1VxRjdfcmlYSnNSTHlUQzV6NHNVUERWV2VGcTV0UnJoNlpic1pmQ1NjazBZeC1udEwwUDdfNkZJbC0wS3ppVC1XN01ITDlZUG1ndjlSRVEzZmxNenZTRVlSNHlwbUQwM0xRM3dkby00WmRrb1dSTVQ5Z0NWNURFclVubnZVY1pqUlllTlVvT3dUU0Rzdy14WTdMZDFYemtuOEZxTkc3akIw0gGMAkFVX3lxTFBrajlnMVJ2bXNmQnFBM0JLMzQxYUx2c0s0T2c4Y0JHQ0psNEFta2JTWnZiSVliWHE0bHFlcUJaOURPNE54TGFuU1dPdmFsZmg0bmlKOFRlS3JSdmM5VXdwZ2daaXQ4M3BfNnpOb0dXTWROSU9jVEhtT3h4T3lEQXlLc0FJMURKcGdOYUI0WUZMMWwzT2V0N3htbG5TNEU0X09wZm94dkM1aHg0bWJDcS01MzM4b3QtYzZ4QkZ2TEtOemE1QVVOenhyeVRRdXpsVnZodDNfbXVkYTFnUVFQdERxck51clNiTzRRVGcwa1o4bThnVTFCaEFqTHUyMkVTdjdsZU1xbUNTd0hCMEk?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cadem: Aprobación de Kast llega al nivel más bajo desde que asumió y el gabinete registra una caída generalizada&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-19T00:22:24+00:00"
     },
     {
       "titulo": "Cadem: Aprobación de Kast cae a 30%, su nivel más bajo, y 17 de 18 ministros retroceden en la evaluación - CNN Chile",
@@ -5588,29 +5611,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-15T13:07:07+00:00"
-    },
-    {
-      "titulo": "Boric se suma a cita de Bachelet con líderes de la oposición - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZmEwVnhvendlUWZtel9QS3VNRFAtVUVSN0lRdmNUU2t1UkQ3VGRoS3gtSkhKajVjVUVZX18yREsxbk5mTFBXVGRUTHRYa2xEMVl5ZVlDUU5QR2FGUkpUX21LUmtaeGUzd0RJQmZBeTZiektMdnF4S3ZiYl9CZjJoZDhWczltZjhZUkNWbTNoVFI2MFhzd01sSGp2QjgxVExRUkc3SGQzQdIByAFBVV95cUxQdXRBbkRCNkpCbVZ2ejBaYWxNZlpJN2pzcURrQ1N2ay10UlZsckhyZ1hwMjJiR2hkM3FEb25vNVppZFNNN1FjRE1jMUVzYXJfbjlIRnRXTzk0UVNYZXdoX2lkc2RaamstUkI1RE5YTjV2YTN0ZFB2LXc5S05BYUV4a0F2b3NfV0p6ZkNCVjY2UkdsOFZ6YzQzUlp2OUJNanlCNlBTejg4ekV3bzlYRHpDOUdVZi01YUNTdmhqY1BlTFVvUTI0WXIzYg?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Boric se suma a cita de Bachelet con líderes de la oposición&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T13:00:45+00:00"
-    },
-    {
-      "titulo": "Diputada Romero (UDI) cuestiona críticas al gobierno por no conmemorar el 18 de octubre: “Hoy hay urgencias en el país” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNQ3RSWENLM0dqd3FrYUIyRFR1bWpOSjRYQy0wZ1A2bnZ0UGhVamVCQWdhNlp1QmVRM0RhcWk1ZzlFRTY2aTNHMXM5aG1NZ0lFTWU2MkpxUmI0NFc3YU9PTFhlNFJrRkVHSUExZFVKR3dMR0RPS1ZLZWZyUmRfOFJnRE9DWFVyYXFWOHBPLWRONHdGLVlEenBwVXpaRUFQX1ZMTDQzOHhrNDgya0M4My1UbkVwaGUtSFFMVVJRNURkZW10TFkwZk9hWW90dk9DMU04aXlkeWdmN0hXVUdSVGdUV0xILTRablJ1VWQ4aTRjazk3M2xa0gGWAkFVX3lxTFBFM29lSlJBYndqYmlHejlhc196NFd1bk5TSmlpRWdyZllXakcyeXFWRXkxaEM0bi1iTk44VFZiZUw0UndrZ0RucG56cUZiY0RTTGZOTlQta1ZqUHpFZjhsX2xDakR6NEpudV80TDdzX2JuRGxUb0ZHUVhDYUZzZ3g4QTYwbzBiVlZSLWdFV3RvX0s1N09OTTFYODlkUHpEUXBfOUpzMXFONmhZMXkyMl9UWkVSZm5TdmFRX2dQZkJPaFE2dkY0YVQ5WEY5bFJ4c0dhQnJEMEt0cGF0YkZ2TndPMk9RNy1mbE1tLU5HMXYtUWk4X1lHbG1wanRkeDVjQWVycEZMVlZZaUdRRlRhTkNKdHg1RTRR?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Romero (UDI) cuestiona críticas al gobierno por no conmemorar el 18 de octubre: “Hoy hay urgencias en el país”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-15T12:55:16+00:00"
     }
   ]
 }
