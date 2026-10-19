@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-19T21:16:44.910903+00:00",
+  "actualizado": "2026-10-19T21:31:37.506996+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Otro seremi que se va. A 55 altos funcionarios los han despedido o renunciado al gobierno de Kast. 3 ministras, 6 subsecretarios, 45 seremis y 1 delegado, promedio de una salida cada 3,8 días. Conózca los 55 desvinculados y sus razones",
+      "link": "https://cambio21.cl/politica/otro-seremi-que-se-va-a-55-altos-funcionarios-los-han-despedido-o-renunciado-al-gobierno-de-kast-3-ministras-6-subsecretarios-45-seremis-y-1-delegado-promedio-de-una-salida-cada-3-8-dias-conozca-los-55-desvinculados-y-sus-razones-6ad684701b372a0b8e2b73f3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-19T21:25:19+00:00"
+    },
     {
       "titulo": "Nuevo vocero, pero sin ser ministro: cómo La Moneda se convenció de un nuevo rediseño en sus comunicaciones",
       "link": "https://www.theclinic.cl/2026/10/19/nuevo-vocero-pero-sin-ser-ministro-como-la-moneda-se-convencio-de-un-nuevo-rediseno-en-sus-comunicaciones/",
@@ -13,6 +24,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-19T21:08:53+00:00"
+    },
+    {
+      "titulo": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027 - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTA0ekEtN3l0UHRoT3JrNGd6Z1RaV0ZqUmt6MVFxc2VIcnA0U3BsZU9mWmJwdERta0t3U2VSRF9IMTBMZC1ha2tQNDlsSk9nN05EcWY1VEw5RHJIVkpDTUFhRndTNVQxNUFxVTdHSl9MazZjMXk1SDJ3Mm1ZZVd5aVpTSlFGWWVNLXI1bk53ZzVSeU8xT1lERG9taVNiWUota1J0VmpqY2NkMVJhN3M2VUpMTEVSaHp3TFk3SnBn0gHfAUFVX3lxTE1HeUNyTU1CSXRqb0RCNmlabW96QjM1OXdaLWw1Znl4ckxhbkFkaE41STVidWc5eVFULVJkLUdaM0szV09vUzhYXzBUWmtrdjVNT0tQdTh4bXRCNzM3SGtLbDFLMmdrNWhhVzhLRldTR25tcjgxOWNqcE1GZHlaU05uQ0g3RjNOTnEyR1VXMkFfYWhjVTJCWkg5amZlcnViR1FZZjFKbWtrbjNUaGtEajluSXZySi1tZ1FlcTMzZEV0WndtY3YxQ18tdkgySmxLdi1wMEdQSHA3elpVZUtrbWM?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-19T20:57:56+00:00"
     },
     {
       "titulo": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027 - La Tercera",
@@ -5604,28 +5626,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-15T19:30:02+00:00"
-    },
-    {
-      "titulo": "Kast pone a prueba el acercamiento con Bolivia en histórica visita a La Paz - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc0VjRlVjZUVkUVVGQ05rX1FFcEtpTUo2UU5BOXVYY1VITUsyUmNldWJqQWV1cVJXdjc3VFJPeEttSm5LdjN0T2lQbXViSXR1U3hRVE5mTzdoU0JDU2NWcV9IOGlfYjNnRndOaEZuMG5uUFVocThkRVpmd1VpNnl3ektYcm9nUkJYZmJGVFh3UmRNMnFvOWxjal9oSzJUZXN0SXFpYkdvRFhvdVlEQXljTnF2aUdqa0pLY2tqVUFn?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast pone a prueba el acercamiento con Bolivia en histórica visita a La Paz&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T19:21:43+00:00"
-    },
-    {
-      "titulo": "Kast pone a prueba el acercamiento con Bolivia en histórica visita a La Paz - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmZJYmJYdzJRd3JnVVlMcmVjQlVTRVJXcjVrR2l3U1lvM0x3VW1XY1ByakxuaTZpS0w2U3drU2dubVNrRzllYUd0V2pRazJyczJoQ3pGYWlNRkd2RFFKWEZmNk9CWktjaDh2bGhlR2l5Rnd6anhzNGs2blF4M3BYVTMzUmx0ZU5Dakd0TE5uRTZjY00tUjl1c21HeU9mTFhLYWRGZGF3VVMyU1U4eVg0UW93U2NKNVh2QVJj?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast pone a prueba el acercamiento con Bolivia en histórica visita a La Paz&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T19:21:43+00:00"
     }
   ]
 }
