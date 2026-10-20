@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T17:16:31.727813+00:00",
+  "actualizado": "2026-10-20T17:31:35.270593+00:00",
   "total": 500,
   "items": [
     {
@@ -330,6 +330,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-20T13:59:22+00:00"
+    },
+    {
+      "titulo": "Senapred declaró alerta roja en la Región Metropolitana debido al evento meteorológico",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/senapred-declaro-alerta-roja-en-la-region-metropolitana-debido-al-evento/2026-10-20/105810.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El sistema frontal anunciado para la zona central de Chile comenzó a afectar este mediodía, de forma intensa pero intermitente, a varios sectores de las regiones Metropolitana y de Valparaíso.\n\n\n\n\n\n\n\n\n\n\n\n\nVer esta publicación en Instagram\n\nUna publicación compartida por Cooperativa (@cooperativa)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVer esta publicación en Instagram\n\nUna publicación compartida de Cooperativa (@cooperat",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-20T13:58:10+00:00"
     },
     {
       "titulo": "Lluvia intermitente en Valparaíso y Santiago, granizos en San Bernardo",
@@ -5623,18 +5634,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-10-16T13:48:00+00:00"
-    },
-    {
-      "titulo": "José Antonio Kast recibe distinción de \"Huésped Ilustre\" de La Paz durante visita oficial a Bolivia - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPS1J5RDFNem8yT3lYb1A0Zkx1SmJjMVM0M3BZbkh1cE81T0JqZ215ZERxbXJhY3pFSHU4Tm40Q2twTVpPREFKYlBIYlVuX2QwNmJyWFBOOUg1TTJfaFBwZFBDTV9hSHprN2FDUGhkT0RTaVBMVjdPZnRXdVM4MW8wU2l4cWMzNUFnWUxRZlB0cEs0bEFhUVlhQVdSU3VhYWlQN2oyeWQ3a3FUU053S3ZaTWJsYURKOTVJNFVrbHpvcWxvc3hxaFhCbDVxY0V1Y1JLZjZUSUx1dzNSSmRBempOeVZOQ3FrbnNaU04tcGpuNTlfYXQ4YkJ1Zw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "José Antonio Kast recibe distinción de \"Huésped Ilustre\" de La Paz durante visita oficial a Bolivia&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-16T13:40:53+00:00"
     }
   ]
 }
