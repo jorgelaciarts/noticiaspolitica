@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-20T04:46:48.417054+00:00",
+  "actualizado": "2026-10-20T05:01:21.049719+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ministro del Interior y vocero repasa a ministro Poduje: \"Cuando uno es autoridad de gobierno, tiene que medir sus palabras\"",
+      "link": "https://cambio21.cl/politica/ministro-del-interior-y-vocero-repasa-a-ministro-poduje-cuando-uno-es-autoridad-de-gobierno-tiene-que-medir-sus-palabras-6ad6f0d40ea397779254f2d9",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-20T04:43:09+00:00"
+    },
     {
       "titulo": "“No vamos a permitir que vengan a delinquir”: Kast instruye a Interior y Migraciones expulsar a extranjeros detenidos tras protestas por conmemoración del 18-O",
       "link": "https://www.theclinic.cl/2026/10/20/no-vamos-a-permitir-que-vengan-a-delinquir-kast-instruye-a-interior-y-migraciones-expulsar-a-extranjeros-detenidos-tras-protestas-por-conmemoracion-del-18-o/",
@@ -5613,18 +5624,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T00:37:22+00:00"
-    },
-    {
-      "titulo": "Reaparición de Bachelet adelantó el debate presidencial en la política regional",
-      "link": "https://ladiscusion.cl/reaparicion-de-bachelet-adelanto-el-debate-presidencial-en-la-politica-regional/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La posibilidad de una nueva candidatura de Michelle Bachelet reabrió el debate presidencial cuando José Antonio Kast apenas cumplió siete meses en La Moneda. Su figura volvió a instalarse en la discusión política, no solo por su trayectoria y proyección internacional, sino también por las dificultades de la centroizquierda para articular una alternativa común y [&#8230;]",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-15T23:53:43+00:00"
     }
   ]
 }
