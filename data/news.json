@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T18:16:18.623004+00:00",
+  "actualizado": "2026-10-20T18:31:51.475265+00:00",
   "total": 500,
   "items": [
     {
@@ -24,6 +24,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-20T18:00:42+00:00"
+    },
+    {
+      "titulo": "Alcaldes de oficialismo y oposición rechazan proyecto de Ley Presupuestos 2027: \"Genera incertidumbres\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcU4tZXhJUXNEOXlDRXFMMDR6SDR1Q2Z2MmtWWUJER09jN3A4ZTJpSTduTl9uSFl3NEFkQXdyOEROY1VSYVpoMjRGSFJSYmpvRm9EVlVrZTV2RnFpWFc0bGQ3ZGdsazJHMmxjTVFoT1Rzak83eHZzNXhnRHduSk1CblhRT2cwUnB4WlM3RkFlVXgydTJkWUduRmtfSV9oSDlhZktoSzdwTjY2YlZYa2VMM3J3?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alcaldes de oficialismo y oposición rechazan proyecto de Ley Presupuestos 2027: \"Genera incertidumbres\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-20T17:50:00+00:00"
     },
     {
       "titulo": "El castigo a Pedro Araya (PPD) tras la cumbre Bachelet-Boric con la oposición (y lo que implica) - Ex-ante",
@@ -5400,6 +5411,18 @@
       "fecha": "2026-10-16T15:52:07+00:00"
     },
     {
+      "titulo": "Diputada Ossandón (RN) y caída en los fondos de pensiones: “Aquí las AFP cometieron un error” - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQazNPc0hfQ2FkSXdGdUZxWDFPUm9nUHFPWFItMFlzcFM4cnNIclA4ekt4OVRoc0lUNmgzcFFSNUlialJtUWtWQmU4c3A0RnR3dWg5MXFnbGM0QWVZVzlxblNHSXlSQUVGTUdVQTRxUW9IbjZQcnR4UmhJN2VHQUcxeVhxUHRoNi11TGxxdndZaXVEU2g1ODFNNEh5anR3a3VIbC1BNTdFVVZoakJEc2J2aTBMdWw3eEYyZE9FYlRkUzZCdw?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputada Ossandón (RN) y caída en los fondos de pensiones: “Aquí las AFP cometieron un error”&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-16T15:51:57+00:00"
+    },
+    {
       "titulo": "Tribunal ordena a Meta dar trato igualitario a campañas de Lula y Bolsonaro - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuWjV3MHhRQWhDalpidXJTS1NXR0ZEWFFkalhaMXBRY1UtY295SE14ajg1MjFhY21EWldOWUZYcHQtcXBqZTZNQS0xeTl4aFdfSGxWeA?oc=5",
       "fuente": "Radio Universidad de Chile (vía Google News)",
@@ -5612,28 +5635,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-16T14:26:10+00:00"
-    },
-    {
-      "titulo": "CDE se querella contra alcalde de Chillán por fraude al Fisco y Fiscalía pide arresto domiciliario total - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOG1RUGR6a2RiN1ZZejFjbkFaeV9hQ0pwT0xZdjRtX1F0VGlnbU1BNm92QTNIaFVOVEhVMXFqQy1sTUY5OXVGeWtVeVlOdFNiZnZxNTYwSk8zMFpKWlZVU21ObGJFY2I4ZDNGQVpDQmQtWHF4SEZHdW5SYWxXdE5OSXN3TTR5WWJ1MWs2bml3VFFnS1dpLWZpanpqbjVma180dzd0VnJHQkE3UlRqQm95MUsteXlKMXRpT0FleG9qVzlPLTNmQjVvU0NyVU5sOGx5MElVUw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "CDE se querella contra alcalde de Chillán por fraude al Fisco y Fiscalía pide arresto domiciliario total&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-16T14:26:00+00:00"
-    },
-    {
-      "titulo": "Alcalde de Puente Alto acusa abandono policial tras ataque a Cesfam de Bajos de Mena: daños llegan a $30 millones",
-      "link": "https://cambio21.cl/tendencias/alcalde-de-puente-alto-acusa-abandono-policial-tras-ataque-a-cesfam-de-bajos-de-mena-danos-llegan-a-30-millones-6ad232a5d214d4083510a0a3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-16T14:23:21+00:00"
     }
   ]
 }
