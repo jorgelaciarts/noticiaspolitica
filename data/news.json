@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-20T19:31:42.399969+00:00",
+  "actualizado": "2026-10-20T19:46:39.786113+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,18 @@
         "Senadores"
       ],
       "fecha": "2026-10-20T19:28:37+00:00"
+    },
+    {
+      "titulo": "Nuevas salidas del Gobierno: renunciaron seremis de Economía de Aysén y de Hacienda del Biobío",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/nuevas-salidas-del-gobierno-renunciaron-seremis-de-economia-de-aysen-y/2026-10-20/161225.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Dos nuevos secretarios regionales ministeriales renunciaron durante las últimas 48 horas, aumentando a 44 las personas que dejaron su cargo en el Gobierno desde el 11 de marzo, cuando asumió la Administración el Presidente José Antonio Kast.\nSe trata de Rodrigo Aguilera Silva, quien presentó su renuncia como seremi de Economía de la Región de Aysén, por \"motivos estrictamente personales\", precisó ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-20T19:12:25+00:00"
     },
     {
       "titulo": "Nuevas salidas del Gobierno: Renunciaron seremi de Economía de Aysén y de Hacienda del Biobío",
@@ -5626,17 +5638,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-16T15:01:33+00:00"
-    },
-    {
-      "titulo": "El extraño retiro de Chile durante el gobierno de Boric del organismo que ahora contrató a Vallejo - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Bdllta3pzVTVqM001LXBkZ1BTWkJSMmpIdHVsQk1nVEpiOXhuX3JZdV94SEFwdTktMkExbzFuMjdhOVhibHdBX0Vxdm9BQ2xZdjJ2b1JPTVdtWE4zY0RwZ1hvcXlyNno0cXNTRlJpWHI?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El extraño retiro de Chile durante el gobierno de Boric del organismo que ahora contrató a Vallejo&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-16T14:57:59+00:00"
     }
   ]
 }
