@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-20T02:04:57.191486+00:00",
+  "actualizado": "2026-10-20T02:16:44.193211+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El negocio detrás del TAG",
+      "link": "https://www.elciudadano.com/chile/el-negocio-detras-del-tag/10/19/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Arturo I. Castro Martínez El aviso de la rebaja del TAG ha puesto el foco en un aspecto poco visible en el anuncio presidencial: la extensión, por 20 meses en la concesión de la Autopista Central. Si bien, el acuerdo impulsado por José Antonio Kast considera una disminución tarifaria de hasta un 25% en [&#8230;]\nLa entrada El negocio detrás del TAG se publicó primero en El Ciudada",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-20T02:03:06+00:00"
+    },
     {
       "titulo": "Sin atribución de presentar querellas y una reducción significativa de su consejo: Gobierno de Kas ingresa proyecto para reformar el INDH",
       "link": "https://www.theclinic.cl/2026/10/19/sin-atribucion-de-presentar-querellas-y-una-reduccion-significativa-de-su-consejo-gobierno-de-kas-ingresa-proyecto-para-reformar-el-indh/",
@@ -12,6 +24,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-20T01:48:24+00:00"
+    },
+    {
+      "titulo": "Presidente Kast instruye expulsar a extranjeros que participaron en desmanes en conmemoración del 18-O - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZVhReldHZlZkRFJHNzFwMU0xSmZZOHEzYndDQzJRRVNWYjVvdkJUbW1yM0IwRERPSGhNTEVWQTlIM002SnJrbl9IRlNGaFZnaFFGeUlHZ29BTkRtQmdWWk5fcDNYM3NtZFlQUmkwanNmaTdZMTMxV3hTbEtIOHB6Ni1OcGhBOEFjNlR3YlNkVmlpUmtfYnMtRXFHRi1QeTlXbVNvQkJBcEZMMnZoOVVnUjVHSVhzQXlQZ01mTGYtc2NjTkFzOVkyLUZhbnMyNVV6UWYzeTZCN3NTZmxoTTdxVk1Mal9QU0ZHdHZXbThaMmd5SV9BdFAxZEtJZ2V6b2s?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast instruye expulsar a extranjeros que participaron en desmanes en conmemoración del 18-O&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-20T01:43:15+00:00"
     },
     {
       "titulo": "Sistema frontal: Ejecutivo suspendió clases en 49 comunas en cuatro regiones para este martes",
@@ -169,6 +192,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-19T22:45:00+00:00"
+    },
+    {
+      "titulo": "Socialismo Democrático toma represalias contra senador Araya (PPD) y lo remueve de la Comisión de Constitución - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLUFWcnhMQmFDWnR2MGFYcFh3Z203RTBHWUFlRmJNSWtXaE5Vem1VSkdXd2dIcEVKYUNrM0cta3psdXNEWElXelBSOXFyTmpZeGtKMGJGQnc4clkxSV9PMDFaWS1fbHdoNmtjV1h0YWVPRDFmZDVBTnIwM25kdTQwazBtR2g0b1FTV21EdTluaWhxZnV1MUlZbWFqWFA0NF9xcDVrWnVZTkNna3Y0NGFUeEpweDBuWTVkTmNKVkd6R2ttWFBBS2VxUHN0WXRQbmN2Rk96b2g1Nzg3YUoxdUtGa2txcXlVbzTSAYgCQVVfeXFMTldmSDR0bGxSQVZOUS01STBILThpRUtWVDhsNGdvRnRZSk1wMDRUY1VNalhhaGJSSGtXWkU1WXlhTGdVSm1iRmhpY0t4MUd1SXUwSGNKdnV0ZzktZVNEbnpzbFhtZDlHRjBnY1hXdXA1YWh6c0RhR180MFhTZXAxZzJvT1FTVk1xMWF3dWFKSHZnMkwwS0VvekltZ3BBYU5CRFdSem9CaktBdUlTNmF6STFqS05Hb0NMV19haThRM3ZLZzdaTlRXMHNMdExIcUxXWlZqZGlMc1RoTTdBOFBLc2xibk85TWtJdUZHclhoWHhyMFNQdGdtemdXSnNzTkZ5T2tHU1QtV1RX?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Socialismo Democrático toma represalias contra senador Araya (PPD) y lo remueve de la Comisión de Constitución&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-19T22:36:54+00:00"
     },
     {
       "titulo": "Senador Núñez (PC) apunta contra Quiroz por el desempleo: “Parece que quiere forzar un nuevo estallido social” - CNN Chile",
@@ -5592,40 +5626,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-15T23:23:57+00:00"
-    },
-    {
-      "titulo": "Tras críticas de Bachelet y Boric a Kast: Arturo Squella (REP) acusa a los expresidentes de impulsar “una alianza para dañar a Chile” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOeXkzTDkyZFJucUJRVm5BdlhTTE81WEpiX2hsTHJQVUh0OU1idVJQRnJsTXQ2a0NsWkExbk1tTFlDRHRrQUZEZ1lKNEFJRVJRb1E2MjRxZGY4ZjNWb1ZRM0t2RlF5eXh5SHVqeDFtT001SDNSMEc1c25oRW9NMzVhU0NKdm1LUWdOWUlzMk9ZSzJQNUY4aEZkTk44YS1aVHc2SGllUThyS05GRHpyXzNPeWVPRWJ0NHdSTXJ3Z2dncTJ0OFFRYVRtcUpta2IxNXh4bFlXbTBQMGRyZlk5WlAtRk9mNjF6U2NRTUNmTXloSUk?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras críticas de Bachelet y Boric a Kast: Arturo Squella (REP) acusa a los expresidentes de impulsar “una alianza para dañar a Chile”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente",
-        "Senadores"
-      ],
-      "fecha": "2026-10-15T22:47:45+00:00"
-    },
-    {
-      "titulo": "Bachelet: \"No es momento de hablar de candidaturas, sino de lo mal que lo está pasando la gente\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/michelle-bachelet/bachelet-no-es-momento-de-hablar-de-candidaturas-sino-de-lo-mal-que/2026-10-15/194338.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Una semana después de que no descartara postular por tercera vez a la Presidencia de la República, lo que despertó gran interés al interior de la centroizquierda, la exmandataria Michelle Bachelet manifestó este jueves que \"no es momento de hablar de candidaturas\".\nTras reunir en su fundación Horizonte Ciudadano a los líderes de la oposición, la expresidenta encabezó un breve punto de prensa esta ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T22:43:38+00:00"
-    },
-    {
-      "titulo": "La Moneda al Día: Presidente Kast y su primer 18 de octubre en La Moneda - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1RzNGRZTm5kMnVEelV5OEt5NWJHSlVBNWpGWnp0N2dneGpsWDZ2QUNBOVRPaTlLeHRWWVN1eHUxZm13M0luT3RnODVvX0tYZm9peXdpMlBLb2VsdGNWdkc5dWVfaGR6OUNVOXdJMTRPRmh6YS1wOXUtTmlMekhjSHF5Nm9rNjNiM3p2WFVKYVNlbDZpWTVwc09Pc2psbkxLdVd0eHl5a1ZKZw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Moneda al Día: Presidente Kast y su primer 18 de octubre en La Moneda&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-15T22:35:00+00:00"
     }
   ]
 }
