@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-20T19:16:36.697115+00:00",
+  "actualizado": "2026-10-20T19:31:42.399969+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Socialismo Democrático sacó a senador Pedro Araya de la presidencia de la Comisión de Constitución",
+      "link": "https://www.lanacion.cl/socialismo-democratico-saco-a-senador-pedro-araya-de-la-presidencia-de-la-comision-de-constitucion/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La bancada de senadores del Socialismo Democrático, que agrupa al Partido Socialista (PS), Partido por la Democracia (PPD) y al Partido Liberal (PL) ingresará un oficio formal para remover al senador Pedro Araya (PPD) de la presidencia de la Comisión de Constitución de la Cámara Alta. Designó en su cupo a Vlado Mirosevic (PL). Según [&#8230;]\nThe post Socialismo Democrático sacó a senador Pedro Ar",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-20T19:28:37+00:00"
+    },
+    {
+      "titulo": "Nuevas salidas del Gobierno: Renunciaron seremi de Economía de Aysén y de Hacienda del Biobío",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/nuevas-salidas-del-gobierno-renunciaron-seremi-de-economia-de-aysen-y/2026-10-20/161225.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Dos nuevos secretarios regionales ministeriales renunciaron durante las últimas 48 horas, aumentando a 44 las personas que dejaron su cargo en el Gobierno desde el 11 de marzo, cuando asumió la Administración el Presidente José Antonio Kast.\nSe trata de Rodrigo Aguilera Silva, quien presentó su renuncia como seremi de Economía de la Región de Aysén, por \"motivos estrictamente personales\", precisó ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-20T19:12:25+00:00"
+    },
     {
       "titulo": "Expediente Mónica | El estallido social desde el interior de La Moneda",
       "link": "https://www.ciperchile.cl/2026/10/20/expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=expediente-monica-el-estallido-social-desde-el-interior-de-la-moneda",
@@ -183,6 +207,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-20T16:42:16+00:00"
+    },
+    {
+      "titulo": "Kast sostiene que hay una “oportunidad histórica” en materia económica y llama al Parlamento a apoyar agenda de seguridad: “No pasen facturas por hacerle daño al gobierno” - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVZGaXZFM1BCa0k2eHl1TVhTX3pvb25YOXBIN0o3ZjVsd3haREpsTjBZRDlhQ1JEX3B2R2s2V0V5bldrU01wSDY3bHdOeHJSbFlQM013YkNsaWg4YzZ3cFlFT3BWTVJTSDBNN0RGbldaenhhZ3pxT05GTWlYU0FUd0QwWGtvQ2dBcENlYnNwUnRwQzdHaFhSYXlfemUtS1Y2cGRFRjJFVVE5RjlBSTJxRDlxQ2s2dC1k?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast sostiene que hay una “oportunidad histórica” en materia económica y llama al Parlamento a apoyar agenda de seguridad: “No pasen facturas por hacerle daño al gobierno”&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-20T16:35:00+00:00"
     },
     {
       "titulo": "“Fue incómodo”: Pamela Díaz revela cómo fue cuando se encontró con Felipe Kast y su nueva pareja en una fiesta",
@@ -5602,39 +5637,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T14:57:59+00:00"
-    },
-    {
-      "titulo": "El extraño retiro de Chile en el gobierno de Boric del organismo que ahora contrató a Vallejo - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oaEhJSEtIdHJNd1NnbXNCVmtEZ1c4R0R0WmFkOFptUk9KbzRZanRCRnlJUHFwelF4bV9nckRYNkpWWHoxZ25PbGtNejJBTHFDNGRubklTV0lPMzVzTlhVbU82UE1qejgySzZUVy01dlVMemhYMWJF?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El extraño retiro de Chile en el gobierno de Boric del organismo que ahora contrató a Vallejo&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-16T14:57:59+00:00"
-    },
-    {
-      "titulo": "La azarosa vida de Polimnia tiene un nuevo hito: Estatua robada del Santa Lucía ahora se exhibe en la Municipalidad de Santiago - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOC1Qb0h0ajRkY2ltWUUyaHNYZ0hvbkhtVER1UWY1N1d1Yl91V0hXb3lQLVcwSlJRc01CSUFONUdUZlQ4cDVab1FqSEJlZXJrNS00TWlvRURibGxwODhnT240bTh0TWQ0ajZWRnpJSUZ5V2V0WkVzMlhaVkFYODUyVXQzdHVDaFBLUjB4SXIzN093SE5GMnZVa0Z6N3hDX05GMDQ0?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La azarosa vida de Polimnia tiene un nuevo hito: Estatua robada del Santa Lucía ahora se exhibe en la Municipalidad de Santiago&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-16T14:50:22+00:00"
-    },
-    {
-      "titulo": "Expresidente Boric participará en conferencia regional sobre erradicación de la pobreza en Panamá junto a figuras como Álvaro Uribe - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNS3ZtVU5WQWRQczJMZlNvUm13VXFRMWFQOHMzZW1XN1BfUFNFcG83OWVmUnlOWEVQR2dYVjJraUNHWXJsd3pZc3NXdnVMQ1dNbnRpVGJvQ1V3T2xEbGlxV1BZTzdmYkJ2My10eGh4Z0tNcHZqWU51QmpSZ2ZPb2hTQWJBTkkzcHRhYW02cUh2cmdGbC1DTmNFQWlVcFNKaExFYWpRZ1BEMmRaYWNHYmdzbW9HanQ4Q0NIMkUzdzlnQmFqR2pzMWV5ckNBNVpkRG9ha3BsVWpuSExuS0pkQnppWG9PaTdabjhZRS1MUW45UVdHa2s1eldZdWJmYw?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Expresidente Boric participará en conferencia regional sobre erradicación de la pobreza en Panamá junto a figuras como Álvaro Uribe&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-16T14:44:38+00:00"
     }
   ]
 }
