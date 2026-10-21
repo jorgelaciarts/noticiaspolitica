@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-21T21:46:39.619161+00:00",
+  "actualizado": "2026-10-21T22:05:19.090930+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La jugada del Gobierno para aprobar los nombramientos de la CMF que terminó fracturando a toda la oposición en el Senado",
+      "link": "https://www.theclinic.cl/2026/10/21/la-jugada-del-gobierno-para-aprobar-los-nombramientos-de-la-cmf-que-termino-fracturando-a-toda-la-oposicion-en-el-senado/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La incorporación de la exministra del presidente Boric, Macarena Lobos, en la dupla para integrar la Comisión para el Mercado Financiero, dejó sin movimiento a la oposición que se fracturó completamente en la votación de ayer.\nThe post La jugada del Gobierno para aprobar los nombramientos de la CMF que terminó fracturando a toda la oposición en el Senado appeared first on The Clinic.",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-21T21:55:00+00:00"
+    },
     {
       "titulo": "Modificación relevante, pero insuficiente: el juicio de los analistas al rediseño de La Moneda con el aterrizaje de Arenas como vocero",
       "link": "https://www.theclinic.cl/2026/10/21/modificacion-relevante-pero-insuficiente-el-juicio-de-los-analistas-al-rediseno-de-la-moneda-con-el-aterrizaje-de-arenas-como-vocero/",
@@ -5618,18 +5629,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-18T01:29:39+00:00"
-    },
-    {
-      "titulo": "Gobierno declaró Emergencia Climática Preventiva entre Coquimbo y Biobío",
-      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/gobierno-declaro-emergencia-climatica-preventiva-entre-coquimbo-y-biobio/2026-10-17/212700.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno declaró Emergencia Climática Preventiva entre las regiones de Coquimbo y Biobío, medida que regirá desde el 18 hasta el 23 de octubre, con el objetivo de movilizar recursos anticipados y reforzar los protocolos de respuesta ante el inminente paso de un evento meteorológico adverso.\nLa determinación se fundamenta en los últimos análisis de riesgo emanados desde los organismos especializ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-18T00:27:00+00:00"
     }
   ]
 }
