@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T06:31:42.870720+00:00",
+  "actualizado": "2026-10-21T06:46:23.608797+00:00",
   "total": 500,
   "items": [
     {
@@ -2407,6 +2407,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-19T16:55:00+00:00"
+    },
+    {
+      "titulo": "Cadem: Aprobación del Presidente José Antonio Kast cae a su nivel más bajo y desaprobación alcanza el 65% - El Nortero",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZmU1MklBd1dTY29QM2pxOWhJS0luZE9wQlJHYlVOdlBnMTd0Ty1ZTUVXT3lJNUMxY01sWURYbGIyLVlzTmJGY3NDQS1lRWxtZU9jVS1ZYlotcW1memcyRm9hT0wwbXVJWmYwVUlfT0VzVHRJMnZ5Rmt4M3pESmRKaFNIYkEzNjhJWVEwSUE4WDZXRTRPRExxalVqOXotczcxSFQzdU5HR2JnbEtpRTQ4UHNtOXpoQWhWNzZlQXI0ZjNNUEU?oc=5",
+      "fuente": "El Nortero (Antofagasta, vía Google News)",
+      "region": "Antofagasta",
+      "resumen": "Cadem: Aprobación del Presidente José Antonio Kast cae a su nivel más bajo y desaprobación alcanza el 65%&nbsp;&nbsp;El Nortero",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-19T16:51:52+00:00"
     },
     {
       "titulo": "Santiago aguarda el temporal con reforzamiento en sus \"nuevos puntos críticos develados\"",
@@ -5619,17 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T19:11:33+00:00"
-    },
-    {
-      "titulo": "Kast firma acuerdos con Bolivia: abarcan ampliación de preferencias arancelarias e intercambio de tecnologías en minería - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV1FoNmdVMVI1U0d4NUFvVkVCSHdqbGR6VXMyM3NKSDJxMy1IV0JJekFTQ2pMellBUWhveWl3YnhCVVZYZU9jVTVuaEU3NnptcW4xd1JTbGZXdGNfRlcyTTlIRlNlNkItcm1mMUxKSXk2X1ZJV0VoV3dhcGJrMWM1aXNUNFk3ZHpqQ2VadHpXRkloMlVxWmlKZkJiX1FMN0tWdWpsY2lYZVpQbF9TdXEwNVdjWHRkMUM5UTRv?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast firma acuerdos con Bolivia: abarcan ampliación de preferencias arancelarias e intercambio de tecnologías en minería&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-16T19:10:00+00:00"
     }
   ]
 }
