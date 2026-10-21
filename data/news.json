@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T03:46:13.523182+00:00",
+  "actualizado": "2026-10-21T04:01:18.723973+00:00",
   "total": 500,
   "items": [
     {
@@ -79,6 +79,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-21T01:29:46+00:00"
+    },
+    {
+      "titulo": "Sistema frontal: Gobierno destacó trabajo preventivo y Senapred confirmó dos damnificados",
+      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/sistema-frontal-gobierno-destaco-trabajo-preventivo-y-senapred-confirmo/2026-10-20/221044.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno destacó este martes el trabajo preventivo que realizó ante el sistema frontal que afecta al país, luego de una mesa técnica nacional que reunió a autoridades de Gobierno y a los directores regionales de Senapred, además de delegados regionales de Coquimbo, Biobío y Los Ríos.\nEl biministro del Interior y Segegob, Claudio Alvarado, destacó desde la Quebrada Honda, en la comuna de Las Con",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-21T01:10:44+00:00"
     },
     {
       "titulo": "Diputado Ossandón plantea que eventual reintegro de dineros en Codelco apunte a los altos ejecutivos y no a trabajadores - Timeline.cl",
@@ -5620,17 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T19:03:58+00:00"
-    },
-    {
-      "titulo": "Diputada Valdebenito confirma que fiscal de Los Lagos investigará el caso Derek - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTWxpM2lpUm1PSXo0UGltdE4yM2w2RTFQTjBKUUtNaGhMUkpMS0hDVlppcjJYMFZxdUY5Q1ZERnhBQ3VfZDNMLVBXTldWbEFyOVBETHdsR203azRDQTM3U2VrcUY4UlgzcHNoc0JnWm1xOThGUm9VLV9ZTUtvNnpLdERDSUtWUHA4enl4U0VyWm1KVFVxX000Z0NMUFlGVjFOZkd0V2FCVlQxVE00ekRoVEdNRFZOR0dOUEFYbWRQbDZLeDBRZm0tMWVB?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "Diputada Valdebenito confirma que fiscal de Los Lagos investigará el caso Derek&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-16T19:02:43+00:00"
     }
   ]
 }
