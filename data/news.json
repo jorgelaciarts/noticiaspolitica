@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T15:46:43.993515+00:00",
+  "actualizado": "2026-10-21T16:01:45.444160+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-21T15:44:14+00:00"
+    },
+    {
+      "titulo": "Senadores socialistas denuncian a siete AFPs e ingresan proyecto que propone penas de cárcel por gestión temeraria",
+      "link": "https://cambio21.cl/politica/senadores-socialistas-denuncian-a-siete-afps-e-ingresan-proyecto-que-propone-penas-de-carcel-por-gestion-temeraria-6ad8dab80ceeff14a83c1226",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-21T15:34:02+00:00"
     },
     {
       "titulo": "Senadores socialistas denuncian a siete AFPs e ingresan proyecto que propone penas de cárcel por gestión temeraria",
@@ -34,6 +45,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-21T15:31:00+00:00"
+    },
+    {
+      "titulo": "El Gobierno ha rebajado condenas a 56 abusadores sexuales y violadores de menores",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/delitos-sexuales/el-gobierno-ha-rebajado-condenas-a-56-abusadores-sexuales-y-violadores/2026-10-21/122249.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El ministro de Justicia y Derechos Humanos, Fernando Rabat, confirmó esta jornada que el Gobierno ha otorgado 56 rebajas de condena a delincuentes sentenciados por abuso sexual y violación de menores desde el inicio de mandato el 11 de marzo. \nLa información fue revelada previamente por el medio Interferencia, que contabilizó las rebajas hasta el 13 de septiembre. Entre ellas, figuran 27 condenas ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-21T15:22:49+00:00"
     },
     {
       "titulo": "“No podemos bajar la guardia”: Quebradas críticas de Santiago resisten lluvias pero alcaldes presionan al MOP por limpieza de cauces ante futuros temporales",
@@ -5612,28 +5634,6 @@
       "categorias": [
         "Presidente",
         "Diputados"
-      ],
-      "fecha": "2026-10-17T09:00:01+00:00"
-    },
-    {
-      "titulo": "Carlos Figueroa (FA), exasesor de Boric: “El avance de la derecha en la región tiene más que ver con la alternancia del poder que con una ideología” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxObGo5OGdOQXpra1cxcVN5bEZIMHF2cXBXLUZnQ1lJTE5sRHBZUjhDaXFjdU9haHZYREdNYkJRdVNfTk9veGdxZDlvVENhbG1zZ01NTEdaT2I5MklBa3Zxcm9kaEkyWGd1MXotcGplbzlYMEFlR3AwdmpvSWgtUHNVY1FDTjVxaGtiVTM5SF9nNDl2UkNvRGNUUmFNc29CZjkxNHllVUtSM1VQRm5Za1pvVXNVMUFpdG1tZnZRSmtOOUQyZE8xdGxQNE9Da2Fod0RzaVlyNF9ueHJsSERaaXdxZnVFV1lxbmhrN2dHUDZDZ0VkRS1DbzVlNlJSQXdHcDN3SVllZHFLMVV0SmNyMm16dTBxb0fSAbYCQVVfeXFMT1BNdV9sZFlQSzhfWGtWalpsU1M5ekIyUUxiUGhwaDdOTlZGYUdUVG4xYjhDODFiOGp4RHBYVUJYVmktd2VQVUVCRkZIT3ZGbkFmelhwdDU1QlM1NF9PT05hZjJlSUZqY0FyNVFKLVBQSXFJdmRkb29PdEFjcjRGZVU5dTlUUy11TjZrdjJJemxvZlUwRXVjT2xraHpCWXRfdWxRQTZNSTVjeXp5ZWkyUk5YTlFyT084dVRTejQteC1kc1k5OW5tQjBuOTRRNEVaSjJFQzRYcjVVeDdLS2dwVTkzMzhjWlo1ampWemZKdXc0X01RNlVCNGVCM1ZVZ0gweXIyWWpwV09fc19WN1pwRkdnaU03X292N1FWZVRndVJWcE55YlN4bGdrSG9Tblo5SGtuQXdNZw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Carlos Figueroa (FA), exasesor de Boric: “El avance de la derecha en la región tiene más que ver con la alternancia del poder que con una ideología”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-17T09:00:01+00:00"
-    },
-    {
-      "titulo": "Diseño político de Kast inicia su cuenta regresiva - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNW5vODlfckF1LVU2Zl83UXZoQVRkZlpQekxsRlVMeDV4ME4xRlVBRGJMN2M5MDRCV3pnSU9WaFBtQkVUaG1DY0JPTkptRWE4ZjVsMG1PVkpkZW1QRGpOVHAxalZSM3RVN29EUXVZMl9GcWxybzE4ektqeXBadVd2aS0wVno3c3ItRWxueHo4eVFGYkNUNFpBN0d3?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diseño político de Kast inicia su cuenta regresiva&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
       ],
       "fecha": "2026-10-17T09:00:01+00:00"
     }
