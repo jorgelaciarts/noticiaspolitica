@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T19:29:44.720843+00:00",
+  "actualizado": "2026-10-21T19:31:30.334859+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,19 @@
         "Presidente"
       ],
       "fecha": "2026-10-21T19:09:07+00:00"
+    },
+    {
+      "titulo": "Subsecretario Arenas: El Presidente me pidió un estilo directo, llano, pedagógico",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/subsecretario-arenas-el-presidente-me-pidio-un-estilo-directo-llano/2026-10-21/160620.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El nuevo subsecretario General de Gobierno y vocero, Gonzalo Arenas, abordó las críticas a su nombramiento respecto a dichos anteriores en su periodo como diputado de la UDI y aseguró que el Presidente José Antonio Kast le pidió un estilo \"directo, llano y pedagógico\".\nEn su primera conferencia en el Palacio de La Moneda, Arenas sostuvo que fue \"parlamentario ocho años. Dije muchas cosas, hay much",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-21T19:06:20+00:00"
     },
     {
       "titulo": "RN fija “encuentro nacional” con autoridades para poner la experiencia del partido “al servicio de una mejor gestión” - La Tercera",
@@ -5619,18 +5632,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-17T20:49:26+00:00"
-    },
-    {
-      "titulo": "Quién es el exdiputado UDI Gonzalo Arenas, el favorito de Kast para ser el portavoz de La Moneda - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXpfXzhIYnNHX3I1RzFWU3J6enZ3Zk5JakN6OWlmOUl5SEprZkVScjlZUlBIRVpjQkZEcDJ4UlVJZUxXTDJqUVZpMlp6bm9IRHdhVzBXVUwtY1Jmb2xIcUFYLTB2c05RWkIzcDVERXVFZEpRa0s4ZnlBY0JraDZrLUw1TVZ3b19xV2sxeWQxaTBGaTRvMVk1X0U0RmdTaWZzdHJ1cFd5SG9vcHI5ME5QaUlUcHVYUU1XTmw2RnZiTmh1dU00UmZwb1UtNjRrd9IBzgFBVV95cUxNSXpfXzhIYnNHX3I1RzFWU3J6enZ3Zk5JakN6OWlmOUl5SEprZkVScjlZUlBIRVpjQkZEcDJ4UlVJZUxXTDJqUVZpMlp6bm9IRHdhVzBXVUwtY1Jmb2xIcUFYLTB2c05RWkIzcDVERXVFZEpRa0s4ZnlBY0JraDZrLUw1TVZ3b19xV2sxeWQxaTBGaTRvMVk1X0U0RmdTaWZzdHJ1cFd5SG9vcHI5ME5QaUlUcHVYUU1XTmw2RnZiTmh1dU00UmZwb1UtNjRrdw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Quién es el exdiputado UDI Gonzalo Arenas, el favorito de Kast para ser el portavoz de La Moneda&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-17T20:44:00+00:00"
     }
   ]
 }
