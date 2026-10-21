@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-21T21:31:47.132512+00:00",
+  "actualizado": "2026-10-21T21:46:39.619161+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Modificación relevante, pero insuficiente: el juicio de los analistas al rediseño de La Moneda con el aterrizaje de Arenas como vocero",
+      "link": "https://www.theclinic.cl/2026/10/21/modificacion-relevante-pero-insuficiente-el-juicio-de-los-analistas-al-rediseno-de-la-moneda-con-el-aterrizaje-de-arenas-como-vocero/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El nuevo subsecretario general de Gobierno se estrenó este miércoles con una vocería desde La Moneda. Si bien analistas comparten que se trata de un cambio relevante en el esquema del Ejecutivo, sobre todo porque pasará a integrar el comité político, también dejan en claro que para resolver los problemas comunicacionales se requiere más. \"Se necesita un buen vocero, pero también orden y dirección.",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-21T21:40:55+00:00"
+    },
     {
       "titulo": "Expresidente Boric asistió a conmemoración de 120 años de la FECh con su hija",
       "link": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/expresidente-boric-asistio-a-conmemoracion-de-120-anos-de-la-fech-con-su/2026-10-21/181059.html",
@@ -5619,17 +5630,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-18T00:27:00+00:00"
-    },
-    {
-      "titulo": "Gores llegan en alerta a votación presupuestaria y Ñuble defiende su capacidad de inversión",
-      "link": "https://ladiscusion.cl/gores-llegan-en-alerta-a-votacion-presupuestaria-y-nuble-defiende-su-capacidad-de-inversion/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La discusión del Presupuesto 2027 entró en una etapa decisiva para los gobiernos regionales. A un día de la votación de la partida 31 en la Cuarta Subcomisión Mixta de Presupuestos, los gobernadores endurecieron su posición frente a una propuesta que, según la Asociación de Gobernadores Regionales de Chile (Agorechi), reduce en $250 mil millones [&#8230;]",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-10-18T00:11:40+00:00"
     }
   ]
 }
