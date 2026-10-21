@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-21T08:01:22.447442+00:00",
+  "actualizado": "2026-10-21T08:16:29.025923+00:00",
   "total": 500,
   "items": [
     {
@@ -2363,6 +2363,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T17:31:57+00:00"
+    },
+    {
+      "titulo": "Decretan arraigo nacional para alcalde de Chillán por presunto fraude al fisco en compra de recinto - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSzNHWDh5UVJaU1JLT1dUUEdJMWloRndUblhxMDRGU0h4Umxld0lTNGt1bWdCRk9ZTVU4NnFIQy1Ya0VIeWkwb3YtbFN3NldnTS00YUd3ejNFeFNZMFFnbVJ5UnBBSVRqTmo3dmtRQXZTNzNFLXdrTGNDWWtROWZTN1VpNXlaY2RKUjlUS2thNHNjelI5RENySDFScWhkb0tkalR4RG5leWlmOXJOWlZESkdfamxtUWJLTWRDMDFkS2JPa2MtLXhvcHpR?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Decretan arraigo nacional para alcalde de Chillán por presunto fraude al fisco en compra de recinto&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-19T17:24:46+00:00"
     },
     {
       "titulo": "Kast aprueba Alto Mando de Carabineros para 2027: ocho generales a retiro y nueve ascensos - El Mostrador",
@@ -5619,18 +5630,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-16T19:18:01+00:00"
-    },
-    {
-      "titulo": "Kast en Bolivia: \"Las diferencias no pueden ser excusa para estar paralizados\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-en-bolivia-las-diferencias-no-pueden-ser-excusa-para-estar/2026-10-16/161304.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Al concretar la primera visita oficial de Estado de un presidente chileno a Bolivia en 71 años, José Antonio Kast llamó este viernes a superar el inmovilismo en las relaciones, argumentando que las controversias históricas no deben frenar el desarrollo de ambos países.\nLa declaración tuvo lugar durante una comparecencia conjunta en la sede del Gobierno boliviano, instancia a la que ambos mandatari",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-16T19:13:04+00:00"
     }
   ]
 }
