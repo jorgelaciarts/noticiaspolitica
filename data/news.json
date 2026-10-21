@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-21T21:16:31.991258+00:00",
+  "actualizado": "2026-10-21T21:31:47.132512+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Expresidente Boric asistió a conmemoración de 120 años de la FECh con su hija",
+      "link": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/expresidente-boric-asistio-a-conmemoracion-de-120-anos-de-la-fech-con-su/2026-10-21/181059.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-21T21:10:59+00:00"
+    },
     {
       "titulo": "Corte de Valparaíso confirma condena de tres años de cárcel a hombre que estafó a damnificados del megaincendio",
       "link": "https://www.theclinic.cl/2026/10/21/corte-de-valparaiso-confirma-condena-de-tres-anos-de-carcel-a-hombre-que-estafo-a-damnificados-del-megaincendio/",
@@ -5619,17 +5630,6 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-10-18T00:11:40+00:00"
-    },
-    {
-      "titulo": "Presidente Kast declara emergencia climática preventiva en siete regiones ante pronóstico de lluvias - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMEIxajJMeEVFcVc3eFJoa282WUVhU01tdEJnSEVfT3RVQTYzUWtCbFhEMm1ZUnljdzJuclRHbFRRTWVSOVgtNGwzUURSV1FUYUxaWE5Lckt4OFZINlRGLXdIakp2MmtUVHZYM1hxY0lBUXRaQktpYXp6UFRic2k4QnZhQXYxd1hkUDZ3Y184MjdxdS1BVVRESUtUZ0JwMXhjT215R1dwTTVfVEhaWHk2bmNhWnhTY2M?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast declara emergencia climática preventiva en siete regiones ante pronóstico de lluvias&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-17T23:47:00+00:00"
     }
   ]
 }
