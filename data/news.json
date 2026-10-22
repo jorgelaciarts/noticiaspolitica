@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-22T19:31:45.360024+00:00",
+  "actualizado": "2026-10-22T19:46:29.631922+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidenta del Senado y vocero de Gobierno se reúnen y coordinan difusión de agenda legislativa",
+      "link": "https://www.lanacion.cl/presidenta-del-senado-y-vocero-de-gobierno-se-reunen-y-coordinan-difusion-de-agenda-legislativa/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La presidenta del Senado, Paulina Núñez (RN), sostuvo un encuentro en La Moneda con el recién asumido subsecretario y vocero de Gobierno, Gonzalo Arenas. Esto con el objetivo de establecer un primer acercamiento y avanzar en una coordinación entre el Ejecutivo y el Congreso para difundir la agenda legislativa, los proyectos en tramitación y las [&#8230;]\nThe post Presidenta del Senado y vocero de ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-22T19:32:40+00:00"
+    },
     {
       "titulo": "«Un acto de impunidad y una provocación a la ciudadanía»: Senadora Cariola por rebajas de condena a presos de Punta Peuco",
       "link": "https://www.elciudadano.com/chile/un-acto-de-impunidad-y-una-provocacion-a-la-ciudadania-senadora-cariola-por-rebajas-de-condena-a-presos-de-punta-peuco/10/22/",
@@ -150,6 +162,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-22T17:36:46+00:00"
+    },
+    {
+      "titulo": "Diputada Castillo recurre a Ética y Contraloría por polera anticomunista de parlamentaria republicana durante actividad por el cáncer de mama - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQM2lfWndyTTRiVnVUT3BRY0ZtanQ1NmppdHl1NWJRVXpWeVowT2dxcEZiS2tSY2pWOTlhY3RRY3FoOGluaVJEM29ldDg4Nmh6QTdFMUVId0ZhSy1DREJmVjZhVkZHUnQzcHZibGI2MFE4NEU2ZDdkRi0tTVlfcUVVUklGbkNjVUVhMklXZU81OFZCel91QXY1VEFyYVA0MS04WWZBeUVzM2JUV2lvSU9TX0t3UEFzakhzUERWdFBSU1ZmMDFwMVM2dWJ5QlpsN2RYZ2Y2MnJCTFJUenNBMS1vQUpJWlpQaHZtdVdRR1lqdTVLWXlJSWFsUW53SkI?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputada Castillo recurre a Ética y Contraloría por polera anticomunista de parlamentaria republicana durante actividad por el cáncer de mama&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-22T17:26:47+00:00"
     },
     {
       "titulo": "\"Nos duele la discusión que se ha generado\": Kast cuestiona sanción a Araya (PPD) tras alcanzar acuerdo con la derecha - Teletrece",
@@ -5611,31 +5634,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-19T14:13:40+00:00"
-    },
-    {
-      "titulo": "Kast mueve sus fichas: alista nuevo esquema y sumaría a exdiputado UDI para \"vocería de contingencia\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUVBPNS16RF92WXB0Zl9Nc2pLeGpFTEF2WW81QVFtWVVyb2VrQ1d3Xy1rRXZBcEtPUVlxRXBiYWpKWFJfcFUwQm12VmV3NVh5ZFZ2aVFucFhfNjFBRjlxTkhHR05Kejltbk9UMVByTHpwSzhQN1o3OUVJdjNCZUlfM2JTNUR2OVNJQWlrWldnbjF4SGZqcWd5cnBQUXJLbEwwNGNRN0FJZWV6SF9BbmpCWHc3MDNvQWNCdzRKd3Utd204YlM1UmU5UlpOOUh0emZVeE9IS0hZcmFrR0I3TUJIbHUxWDVhdGdjLUdlMA?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast mueve sus fichas: alista nuevo esquema y sumaría a exdiputado UDI para \"vocería de contingencia\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-19T14:08:05+00:00"
-    },
-    {
-      "titulo": "Exconsejero constitucional Paul Sfeir renuncia al Partido Republicano con críticas al manejo comunicacional de La Moneda",
-      "link": "https://www.theclinic.cl/2026/10/19/exconsejero-constitucional-paul-sfeir-renuncia-al-partido-republicano-con-criticas-al-manejo-comunicacional-de-la-moneda/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El periodista comunicó su decisión de abandonar la tienda fundada por José Antonio Kast donde hasta hace unas semanas ejercía el rol de asesor de la bancada de 31 diputados republicanos. En el último tiempo había cuestionado el diseño de las vocerías de La Moneda y defendido la necesidad de contar con un portavoz exclusivo. \nThe post Exconsejero constitucional Paul Sfeir renuncia al Partido Republ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-19T14:00:00+00:00"
     }
   ]
 }
