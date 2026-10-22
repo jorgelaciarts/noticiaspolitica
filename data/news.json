@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-10-22T22:31:30.236284+00:00",
+  "actualizado": "2026-10-22T22:46:15.263355+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcalde White: Falta decisión para combatir el crimen en los barrios",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/crimen-organizado/alcalde-white-falta-decision-para-combatir-el-crimen-en-los-barrios/2026-10-22/193710.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El alcalde de San Bernardo, Christopher White (PS), advirtió en Cooperativa que la \"falta de decisión\" por parte del Estado ha facilitado la expansión del crimen organizado en nuestro país, e instó a desplegar a las instituciones en el territorio para ponerle freno.\nEn Lo que Queda del Día, aseveró que en el caso de su comuna, \"estamos en estado de alerta y siempre preparados para cosas que a vece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-22T22:37:10+00:00"
+    },
+    {
+      "titulo": "“Me iban a hacer la vida imposible”: Claudio Orrego revela advertencia de Republicanos y acusa una ofensiva en su contra",
+      "link": "https://www.theclinic.cl/2026/10/22/claudio-orrego-republicanos-vida-imposible-tricel/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "En conversación con Entender es Todo, de The Clinic, el gobernador de Santiago aseguró que republicanos le advirtieron que le harían la vida imposible porque lo consideraban un peligro político. Además, vinculó la acción presentada en su contra ante el Tricel con sus posibilidades de explorar una candidatura presidencial.\nThe post “Me iban a hacer la vida imposible”: Claudio Orrego revela adverten",
+      "categorias": [
+        "TRICEL",
+        "Candidatos",
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-22T22:33:25+00:00"
+    },
+    {
+      "titulo": "\"Muy fructífera\": Chile y Perú tienen primera reunión formal de cancillerías bajo Kast y Fujimori - Emol",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbE04bHpDUXZZa1c4aGxLZmk5djBjQ2VRSkJjcnd2NHh4TGpGWld3MU12VEt4dWhlVzZYbDJiNTk4Z09Ga21vbF85enRpZkpvUXh1NGR6YzNHcllIeU9Oc2x5RmFERHA3NXNrQXlkVE4wN3ZkcTNxbkZEU283NnpXZ0pDcTVJdXdsU1RpS2wydFV1U2Y3WlFMOXMtbmJ5eUtQUlBKQnBRTQ?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Muy fructífera\": Chile y Perú tienen primera reunión formal de cancillerías bajo Kast y Fujimori&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-22T22:31:15+00:00"
+    },
     {
       "titulo": "Se declara el 7 de enero de cada año como el Día de la Amistad y Solidaridad con Palestina",
       "link": "https://www.elciudadano.com/chile/se-declara-el-7-de-enero-de-cada-ano-como-el-dia-de-la-amistad-y-solidaridad-con-palestina/10/22/",
@@ -5599,39 +5634,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-19T15:36:38+00:00"
-    },
-    {
-      "titulo": "Parisi dice que Bachelet es \"una tremenda candidata\" que haría ver más extremos a Boric y Kaiser - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPc0RiRXJPODJKa2pETXMxSlRzNmxjUmx1ME4tLW83MXUyRzVkcktYR2Jab2o4dDgxOHh1MDhtUlpVc21leE40bjhraFlTb0tNS214S3J6ZkFRRXEzUnZhVGx2Zkh4MWN5Tl9lQzRsWmh5MmRfSmcwbUp3Tjgta1VZc0l0SHpoQkQ3WW8yV3BZXzhGcU5uVURJck5vQ3FRS0h3TlZoR2lmMGRrTTE5OWlTUXZEd3pKVXh5RlRsLTRubEFtbjZtQlQzZDFCTzZnRkNBTWJLZDV4Wjgta1NQY1A1TDE4YXd2aVhkOXgyZVlSSDktQlJ2?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parisi dice que Bachelet es \"una tremenda candidata\" que haría ver más extremos a Boric y Kaiser&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-19T15:33:48+00:00"
-    },
-    {
-      "titulo": "Brasil: Investigan al candidato presidencial Flávio Bolsonaro por sospecha de lavado de dinero - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdDhOeVJYcGVNeXYyTXFGaVh5Y3RnZkpnWXoyOUJualZMX1BtQXpDRjRjcFp0VHlwVmF1NVF4ZHRscTlWV3k0ZmlORmhwOTdodnFTTnlOTmZydXZ2bDE1VFhDMmRpb3FPRXhKdl85dFBuVzkzN0ZhT2RFOGRBc0ZBOFJPSXd0OXVuZ1ZPMEthaFdJX1FuRThsaFdvTGVLWUlHNDdNWFZKY1R4MTBNa3FvZWdYZ29BdF9wcTdB?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Brasil: Investigan al candidato presidencial Flávio Bolsonaro por sospecha de lavado de dinero&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Candidatos"
-      ],
-      "fecha": "2026-10-19T15:31:36+00:00"
-    },
-    {
-      "titulo": "Desde la Redacción: entrevistas a Enrique Bassaletti, Raúl Soto y Karla Rubilar - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORlhFcU9zYUZWUDF0QkQwN1hJVjNudXA3bFZJNGdxMVkzUmE1ekRHZlJYU1dSSFVJa0FQLWkwWDdtcGlZZkdudm8tUjExWTB2RHdIRXM0NTB2ajhhdV8zclk3eWJtZUF0MHY3ckVYWmFjMUhrVzNPT1V6YlBpekQ5LWxBdjVaTjEzdm81cS1FdEROX1laeW1BR1I3U3VuX3JTZUxRekFjNk1QcDRzRjV4aUl6azA3aXUzMlhr0gHcAUFVX3lxTE55eko2aUhCY2JaekdEQVhQRmstQk90LVpPR1Bhc0R2QTRvZDMxSXhiOHZDRGlVWFR3eVgtcmNOOGtzV3hnTTFySVh0aDNiY1E1Um5OTzJab3ROaUNueUxRbldwbEFXNkg0SEhuN2NjWWRfWlpFNHlzeXViWkdxQ20wNFdOV29WbHEtUzVwMEhDWDN0SUV5LW1kOS0xa3VESHVWRGlyRWVvSUdpMVZPZlFPN09fRFVHUkk5eXhVbjZzX0drR016ZkFpUTBPQ19HbktKOVFNQkpGREY1RDg?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Desde la Redacción: entrevistas a Enrique Bassaletti, Raúl Soto y Karla Rubilar&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-19T15:27:36+00:00"
     }
   ]
 }
