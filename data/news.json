@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T11:16:29.672235+00:00",
+  "actualizado": "2026-10-22T11:21:22.085687+00:00",
   "total": 500,
   "items": [
     {
@@ -1827,6 +1827,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-21T10:32:00+00:00"
+    },
+    {
+      "titulo": "SER VEL - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3lKVG12c25KLXJTbktacGZiM1NQdXhUR210VF9yMmg4OF9ncXBLLUNOV3VYaG5SZzNaREx5Q28wTTlTbGlyS3hhX3ZlUGVHd21sVm9qcEtFd3JDMG5TMlMtR0p5bFRGUDFMcG1xUGduaUVsbGJmb09vM25mNWZISzNkN3F5UG04Ul9qTHJKU2FVUUJ3Yk4wc25JQlVfdzF6cEM3b1QxNko?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "SER VEL&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-21T10:29:02+00:00"
     },
     {
       "titulo": "Presidente Kast nombra a Gonzalo Arenas como nuevo vocero de Gobierno - BioBioChile",
@@ -5612,17 +5623,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-18T17:47:00+00:00"
-    },
-    {
-      "titulo": "TV Chilena no informa: El pueblo de Estados Unidos se movilizó masivamente en jornada “No Kings” anticipando voto contra Trump",
-      "link": "https://www.elciudadano.com/actualidad/tv-chilena-no-informa-el-pueblo-de-estados-unidos-se-movilizo-masivamente-en-jornada-no-kings-anticipando-voto-contra-trump/10/18/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\n«No Kings: Vote Early»: Masivas marchas en EE.UU. impulsando el voto anticipado contra Trump Miles de mítines y marchas organizados por la red No Kings se celebraron este sábado en ciudades y comunidades de Estados Unidos para impulsar el voto anticipado de la ciudadanía contra Donald Trump y el Partido Republicano en las elecciones de [&#8230;]\nLa entrada TV Chilena no informa: El pu",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-18T17:19:01+00:00"
     }
   ]
 }
