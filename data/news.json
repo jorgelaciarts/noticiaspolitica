@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-22T00:01:31.142712+00:00",
+  "actualizado": "2026-10-22T00:16:38.497920+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Los cinco diputados de Ñuble respaldaron ley para agilizar expulsiones administrativas de extranjeros",
+      "link": "https://ladiscusion.cl/los-cinco-diputados-de-nuble-respaldaron-ley-para-agilizar-expulsiones-administrativas-de-extranjeros/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La unanimidad de los cinco diputados de Ñuble marcó la votación del proyecto que perfecciona el procedimiento de expulsión administrativa de extranjeros, una iniciativa que, pese a las reticencias iniciales de sectores de la oposición frente a algunas de sus disposiciones, terminó concitando un respaldo casi transversal en la Cámara Baja. La propuesta, que modifica [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-22T00:06:06+00:00"
+    },
     {
       "titulo": "En medio de caída en encuestas, Kast asegura que el próximo año “será extraordinario” - La Tercera",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc25DRzlZZm5UX2l1RjR4Wl9Tc1ZOa2ZhYXdDOHdxWnFQQW93MllaVkIzcXdpcTkxU2NtczBvQkdlQVprSlZadW9nOEZ0X2YwMEZuYTJpV3loaWhxMkc2QlBNamxzeXdLLW1IM1ZrOHRpTExGMjF2cnpSV05iOUprUDBybDhrajl1OXVDelVSMkhVSGFiRlcya3Q0YVEwYTNhaFMzMUgzV21sWUpFaUVReXQwdEd2QlJ3WnlZRWdlYndDUTkw?oc=5",
@@ -58,6 +69,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-21T23:00:00+00:00"
+    },
+    {
+      "titulo": "Alcalde de Arauco acusó demoras en evaluación de socavón que motivó desalojo de 152 familias",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/alcalde-de-arauco-acuso-demoras-en-evaluacion-de-socavon-que-motivo/2026-10-21/195950.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El alcalde de Arauco, Mauricio Alarcón, abordó en Cooperativa la alerta roja preventiva declarada en la comuna por un socavón de 400 metros que afecta a 152 familias en el sector y criticó la demora de las instituciones en la evaluación de la emergencia, intensificada por el reciente sistema frontal.\n\"Nosotros denunciamos y activamos los protocolos de emergencia el día 9 (de octubre), no recién ho",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-21T22:59:50+00:00"
     },
     {
       "titulo": "Parlamentarios de Oposición exigen al Gobierno dar urgencia al proyecto «Devuelvan la plata» para obligar a las AFP a restituir pérdidas millonarias",
@@ -5602,28 +5624,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-18T13:30:08+00:00"
-    },
-    {
-      "titulo": "Alcalde Sichel emplaza a Quiroz: “O cambia o se tiene que buscar otro ministro\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV1JNWjRnTzVETGJTN2tlSGJCSlE1MDVUN3FDd19jRFNOX0JmeU9mZVVYV0lLUWgyZ3dLN0RDdlJ3dGl3NWFHbHE1YWRMbDRoN0pUMGEtQkpsR1dFMUFDVUQ4dkRPb0lyQktwck9qcHdxNUxUMm5nWjQxOGlGUUw5d3hOY0ZGc3NjZ3c0TlZ5dXNyUE1vb0VzakcwTDZYeHlMSHh0SUViTEx3d29RWWw2X2VR?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde Sichel emplaza a Quiroz: “O cambia o se tiene que buscar otro ministro\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-18T13:07:30+00:00"
-    },
-    {
-      "titulo": "Presidente Kast instruye declarar Emergencia Climática Preventiva entre Coquimbo y Biobío - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWJUVXpRdm9jLTI1SGdSSEZjQkx1Z2JLZzZtRXN3d0Ywd0RUQ21DNldTaF9xSEJvX0pub2V2Q0VRYk8xek9yenhwNFl6YTJGVnVySVFCbThBMUVKU2dXRmRoMGFhMUpiRTJSazdYWkhxV1IwaDFoX0U0dGItQmdBaXNFek01UE9hTkFDU3dmRVRJb1FBa3JFWTlfMXlRZV9mMTNpekUwMFJuOEdpTVlwanVtQmFUa3dwc3dfOWR0T19uTkU?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast instruye declarar Emergencia Climática Preventiva entre Coquimbo y Biobío&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-18T13:07:30+00:00"
     }
   ]
 }
