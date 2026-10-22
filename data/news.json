@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-22T14:31:39.883577+00:00",
+  "actualizado": "2026-10-22T14:46:28.067143+00:00",
   "total": 500,
   "items": [
     {
@@ -90,6 +90,19 @@
         "Presidente"
       ],
       "fecha": "2026-10-22T12:50:02+00:00"
+    },
+    {
+      "titulo": "Alcalde de Río Bueno va preso por cohecho reiterado y lavado de activos",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/denuncias-de-corrupcion/alcalde-de-rio-bueno-va-preso-por-cohecho-reiterado-y-lavado-de-activos/2026-10-22/094946.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Juzgado de Garantía de Río Bueno dejó sujeto a la medida cautelar de prisión preventiva al alcalde UDI Luis Roberto Reyes Álvarez, quien fue formalizado como autor de los delitos de cohecho agravado y lavado de activos, perpetrados entre los años 2017 y 2022.\nSegún los antecedentes expuestos por el Ministerio Público en la audiencia, en periodos en que se desempeñó como jefe comunal (2008-2021)",
+      "categorias": [
+        "Partidos políticos",
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-22T12:49:46+00:00"
     },
     {
       "titulo": "Alcalde de Río Bueno va preso por cohecho reiterado y lavado de activos",
@@ -5612,18 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-18T23:42:44+00:00"
-    },
-    {
-      "titulo": "Prensa alemana analiza histórica caída de popularidad de Kast: Problemas de gestión, promesas incumplidas y recortes sociales",
-      "link": "https://www.elciudadano.com/actualidad/prensa-alemana-analiza-historica-caida-de-popularidad-de-kast-problemas-de-gestion-promesas-incumplidas-y-recortes-sociales/10/18/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nAgencia alemana DW analiza las razones tras la caída de popularidad de Kast A solo siete meses de haber asumido la presidencia, José Antonio Kast enfrenta una caída de popularidad sin precedentes recientes en Chile, que fue noticia durante la semana reciente tras la publicación de un análisis de la cadena alemana DW, firmado por [&#8230;]\nLa entrada Prensa alemana analiza histórica ca",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-18T23:37:38+00:00"
     }
   ]
 }
