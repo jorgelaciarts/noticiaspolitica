@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-22T19:46:29.631922+00:00",
+  "actualizado": "2026-10-22T19:58:34.930896+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El TC le da un triunfo a La Moneda y cierra la puerta a impugnación de la izquierda contra las RUF",
+      "link": "https://www.theclinic.cl/2026/10/22/el-tc-le-da-un-triunfo-a-la-moneda-y-cierra-la-puerta-a-impugnacion-de-la-izquierda-contra-las-ruf/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El Tribunal Constitucional (TC) desestimó la acción impulsada por senadores de oposición en contra de la ley sobre Reglas de Uso de la Fuerza (RUF), al considerar que el requerimiento fue \"extemporáneo\", a partir del rápido accionar del Ejecutivo para despachar la ley. El resultado fue celebrado por el ministro Martín Arrau: \"La seguridad de las familias chilenas es y seguirá siendo nuestra priori",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-10-22T19:48:28+00:00"
+    },
     {
       "titulo": "Presidenta del Senado y vocero de Gobierno se reúnen y coordinan difusión de agenda legislativa",
       "link": "https://www.lanacion.cl/presidenta-del-senado-y-vocero-de-gobierno-se-reunen-y-coordinan-difusion-de-agenda-legislativa/",
@@ -5623,17 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T14:18:41+00:00"
-    },
-    {
-      "titulo": "Presidente de la Cámara de Diputados anuncia sesión especial tras pérdidas del Fondo E - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSUpUQXRJTjlaZzM4Yzk1UjRkUXBmZzZSMU5Denk2Q3lQbkNCVEVsRFB6RDN6cS1JVWplcnpGV0gwSlhPNWRPaWp1OTFEUmdHMmIwcXJXdTFZOTl4TGJYeHBSTVNzRnA1UHNoMUZ5WEVWTmFURlh1bldSRnB3X1VTaHZ2N3gwZXBGU2VPbTVuWkdNdFZKRzBiRHlzckctTGZ3XzBxWTZsRXNKMVB0N0pUTTlsdDV1RlNIMVFnUzFaY9IB0wFBVV95cUxPVURWNDBycjk0RW1rVzQyQU95Tlg4UGFjbHlyYVVNS2hqTnY4ZnMyTE9tZnhhMGJNY09xNVdPMHhOYVJNQ3BRbkl4VXpjeVN3bVdTVGRtOXh1Ung2SUEtLUVndXhMdkRhZWxJN3RxUFcyZkFxMGtLdUJYeWdORUNiWUlIVl85Tkk5OVJ6UUVhVWk3WnAxeFpuZndrLUhuRjl1SHcyOHB3SkdGVUNQUUEtYnF0S3BlNWdhblZ4MDdIaWE2VUtYSHpUWldQZGNMbFVWelVn?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente de la Cámara de Diputados anuncia sesión especial tras pérdidas del Fondo E&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-19T14:13:40+00:00"
     }
   ]
 }
