@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-10-22T16:46:47.107931+00:00",
+  "actualizado": "2026-10-22T17:01:56.822607+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El renovado interés del PDG por reclutar a Pedro Araya en medio de la crisis desatada entre el PS y el PPD",
+      "link": "https://www.theclinic.cl/2026/10/22/el-renovado-interes-del-pdg-por-reclutar-a-pedro-araya-en-medio-de-la-crisis-desatada-entre-el-ps-y-el-ppd/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La salida de Araya de la comisión más importante del Senado alteró las aguas del Socialismo Democrático y abrió la puerta a presuntas represalias por parte del senador. En el PDG aspiran a que renuncie a su militancia en el PPD y pueda acercarse a la colectividad fundada por Franco Parisi, quien ha tratado de generar acercamientos con él en el pasado. \nThe post El renovado interés del PDG por recl",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-22T16:49:48+00:00"
+    },
+    {
+      "titulo": "Entre La Moneda y el mundo privado: el dispar destino de las autoridades removidas por Kast",
+      "link": "https://www.theclinic.cl/2026/10/22/entre-la-moneda-y-el-mundo-privado-el-dispar-destino-de-las-autoridades-removidas-por-kast/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El reciente ajuste en el diseño de las comunicaciones del Ejecutivo implicó la salida del José Francisco Lagos de la Segegog, quien de todos modos continuará colaborando estrechamente con Kast. El mandatario ha optado por mantener dentro del Gobierno a buena parte de las figuras a quienes les pidió la renuncia en estos siete meses de gestión.\nThe post Entre La Moneda y el mundo privado: el dispar ",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-22T16:49:24+00:00"
+    },
     {
       "titulo": "“Tome su teléfono y llame al Presidente”: El round twittero entre Emilia Schneider y Arturo Squella por la reducción de penas a abusadores sexuales",
       "link": "https://www.theclinic.cl/2026/10/22/tome-su-telefono-y-llame-al-presidente-el-round-twittero-entre-emilia-schneider-y-arturo-squella-por-la-reduccion-de-penas-a-abusadores-sexuales/",
@@ -5428,6 +5451,17 @@
       "fecha": "2026-10-19T13:19:51+00:00"
     },
     {
+      "titulo": "Concejales de Rionegro se fueron de paseo a China y generaron polémica en Antiquia: los políticos aclararon el motivo del viaje - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR1c4VjFwMEplWUJTS0ZwQWhIbUpPRF9zazVDYkl3UHYwRFg0bFZLbXJGS2pkUFdHaVlvRnpFWGltSkRHWjEtRkVVSTRVcGI4dzJuM24zUHBnZDIzWTZVZGhFWllXWTVOSThvQlJQNWpKaGFrNjFMa0RCVWNLeFQ5ZHZvakpKTXRPQVNMLVp2V1RkYnI3VGZyLVViOEE2VFU1ZVhkR1VOVld4anhzMHJUTjdhR21ReFFDUnlGX0tpX0cza3I5cDNjX1dDbjBZWlE3VUJkbjQyVWE3WF9DMjM3RjFUdVZZY0s1dEFmRTJKaXp3aWxkTFNyTjFySTJhWS1FelpDZlpRN21TVDTSAaYCQVVfeXFMTUh4ZGNTS2QxNVA2VGRJNnhWM0RSTmJZV0JrUmhUSWExNDBoVTFRWk5kVnBUMm1FbFFMR09KRTh5QUhUQjhJS0dyMVdhaGpsenluVUpXbkNkUk4zcEN0cmNwU18xZXpWSzFybWFwOEdCaXliaHc2TTJyTVQ2bENaTGZKcUV5a01hSDRHSWRWOHZGbGNXYl9MTzZ5UFFzTlZOTGdzT0xjVmFraG14R1UtUVRTdkZ6V19pUnV0MDdhdVhVSk8xcWhUWEhSUHNSN1lvWTdVYWw4YUo0Nkd4UG9zU0JvdUMyRlFfaW80TzRzQUtNX2UzOGtHMXROX2tQRXFFV2Z1ellUQmsxMV9PV0ZIV2NLbXQ5MFBrZGxnZnFzalJJLUhaR3Vn?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Concejales de Rionegro se fueron de paseo a China y generaron polémica en Antiquia: los políticos aclararon el motivo del viaje&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-10-19T13:08:00+00:00"
+    },
+    {
       "titulo": "Contraloría califica de \"inexcusable\" omisión de alcaldesa de La Cruz por plantas de marihuana - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQcU5PalM5Tlh4OVQ5MS1DR3lkTkw3OHhFd0h3TlBQZ3NfZlpGM01yNVhtVXFmaDRtV2c1V3pnald5RWpqSzl0RDZmV0RROUxBWTRCdmZzVjVyWmpTNUJ3X1Z4SXk3RFV0YnRFcXctZC0xUm1xWjBTaWhkc1hvdGptV1hFaXBwb2ZZUnZOamNDZmYwbXRIQjFybjMycFhZaWFKSTVCTTZvaDY2NUZJTHUyUXp3WXVXUkE3b2p4Z3BBNncwYUlyc28wcG9nbFZrTV9TZ2dHQ0lmdExfbDlpbTcyTTNWaFVMQTJ6bnhtcDZhWU1SU2JJWkdPa1RqZDJqckNkdzF1bUlB?oc=5",
       "fuente": "BioBioChile (vía Google News)",
@@ -5595,39 +5629,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T10:00:58+00:00"
-    },
-    {
-      "titulo": "Crisis en Francia: Macron reconoce \"fallos\" en respuesta policial, pero descarta salida del ministro del Interior - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVlMdVB5UHBZYkhDUFRISjJLdXJuQjg0ZWgyWlAtMlV1dHdVSmZzeFl0QU9Oa0JwSXdhYWZDdjJ1VkRfcjJ5WmZOaDB5Ri13T21ZNEtHd3JrTXBvRjlzOF9jTWtINDZsYVBpenF3OTZCMkQ1cHd3bjEwZUEwMHpKdGlHcmhBdXpxUk4xRXJybmdaOWlEYTdqUU15bzhsaGxNcmc?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Crisis en Francia: Macron reconoce \"fallos\" en respuesta policial, pero descarta salida del ministro del Interior&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-19T09:45:11+00:00"
-    },
-    {
-      "titulo": "Estado de catástrofe para Lota: las distintas posturas de los diputados del Biobío - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDJITnZvSW02TnpPMUNrcGlfdlhDS2JmeTlOdkYyX2NZcE14VXRLVDc0RVZiMl9oQUdES2s0N21LTFhKQlQtOHdwa0U1RXZqTnJTYnRGMTNneGt5V3dULU1qaUdmWkRKRDJzdExQT1ZORmtxNDk0YUZKblBGZng5aGp1NDhCUmt0YWowWjJRTjBBMERiVEFfdEdR?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Estado de catástrofe para Lota: las distintas posturas de los diputados del Biobío&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-19T08:37:30+00:00"
-    },
-    {
-      "titulo": "Municipalidad de Talcahuano oficia a SEC por caseta de combustible abandonada en sector Higueras. - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVFdybEQzUHRYUlVmOVRZNFZMQlcwTWtBNTRYZHFkV1J0NEZBaGtpQ1dSelA0TnhOZHV0MFFuSVFMTWdXWENTbGFZWW9wVEM3eXZhMVlScnhUT3RYbDNoaWhZX00wN1VxNk0wTHVnTE5DQXhsWlJBcXEzWkV0TDFWc2FiTnJFaTktU0xwYlFvLVRkOFpuc3hRNzBMQUpqSE12T1R5UGZZTG5wTXZfX1o4a2xQNXdJSTB2bDVnOXExcU83NkdJUGZXakRfQXM2VmxEMmRnQUN3U3ZaWUhfQ3k1eEJ2aG1UUdIB7gFBVV95cUxNQTg3QS1oa2dWQkYwZjFucXlqNGVfLTdrZDh6OTc3WlhtTUNvRm45b2tqa19Hc1lrTGtwSEpudTUtUGFYRmNMWDJPT2IwVTVrcnQ5Q0lnMkNmMVR4TFRxblV5T2poNTBOS3h4ZkR2TExUbHQ2S2V1UldKaFE5ZW5Tb3RDVlg5UzdFdVlZc3RwYnVNVXoweVNYMVJqNHhEUzVUVjFzWkRCRzU0UDhiWE9qT2JBU0owSDB4c1VVSWdVakljcmxFLURxTkVmZ01Fa29UMmZ2UEJPRmFtS2xBMkp1NGFfMDR5S18zdU82ZkhB?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Municipalidad de Talcahuano oficia a SEC por caseta de combustible abandonada en sector Higueras.&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-19T08:37:30+00:00"
     }
   ]
 }
