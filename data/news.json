@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-22T21:01:42.176964+00:00",
+  "actualizado": "2026-10-22T21:16:37.985119+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ministro Arrau valora fallo del TC por RUF: “Una buena noticia para nuestro país”",
+      "link": "https://www.lanacion.cl/ministro-arrau-valora-fallo-del-tc-por-ruf-una-buena-noticia-para-nuestro-pais/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Tribunal Constitucional (TC) cerró la vía para que senadores de oposición impugnaran artículos de la nueva Ley de Reglas del Uso de la Fuerza (RUF). Esto luego de declarar inadmisible el requerimiento presentado contra la normativa por haber sido ingresado fuera de plazo. El ministro de Seguridad, Martín Arrau, valoró la decisión. Sostuvo que [&#8230;]\nThe post Ministro Arrau valora fallo del T",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-22T21:06:11+00:00"
+    },
+    {
+      "titulo": "Presidente Kast tras remoción de Araya de Comisión de Constitución: “Nos duele que por pensar distinto alguien sea sancionado” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTE1GTm9tTnN6WTl2a0NkQmFtSWtEbUFEWUNudHVBT3k5MDNUcXpUMFNkRjhwV3U1RVVRLUd6Q0JTMkFQMDhUaEpzZXZ1QVl6aFhtcGZaS0lCRHlTc3l2eDdTdndydzJwTU1BY2FMVE1zQi05OGlJbFVXdGlkeW14eU9WWXYxSkhmRVFMcHRPRU9VUDR2SGxyWWY0NGplT1VBR1RhUUZCRDBuYVkzcnBjM1pJbmlHWGdEaDZlOWxESEd6MldBT1hGN3RuMGxOcGJnQm5LZ3AxNmhnQU10NEpIRVJtQ2JuT2dHYkE?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast tras remoción de Araya de Comisión de Constitución: “Nos duele que por pensar distinto alguien sea sancionado”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-22T21:03:04+00:00"
+    },
     {
       "titulo": "Alcaldes AMUCH y autoridades nacionales se reunirán para enfrentar temporada de incendios forestales - El Rancagüino",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX29jUGJ4Y0E5U1REdFhMbUV6a01XSFFraG52bjl3UFFxclZiYzBQbVRROUE2SmRHMFU5TmVUSi1yQ3ZTOXBvbXF3TmlZNEQxeDMyYW13ZW12RlBJV0tFSExRUnVQT0VHQk5URkgtSFZKNHdDUG13X01GRGNUQnBaSE5idlh2UVE3RmdWOGhKdVV5ZTRzdzBITksyaUhGRGxNUFFzODVCbmpPeW5lTFhSTEF1Rm5iV0dXdW1jVWROZEYwa04wODE3VXhiaWxPRk5wV2hzNnpsOA?oc=5",
@@ -161,6 +183,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-22T18:59:20+00:00"
+    },
+    {
+      "titulo": "Rebaja de penas golpea al Gobierno: La lectura de La Moneda al criterio de la Suprema y la ofensiva Boricista - Emol",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVBCZy10SC1hMWZYS2V5bzJZbEprRDd6VkxFZDRxSWMtSmpGY2dtWjZ4eUpQUjA3NlFXbUxXZlQ4dWNqZGl5djM1RGEwTVJWLW1xLXdIT2NSd29hTW4tUlNQRHhXYnJ5cklIMEkwcUU0aVJwMFFDOGd1QUVUR1ZScjBMTkxpZkY1OEcyZGptS0xJZkJBN0JEUlVZMl8yVFhtZVRBa3RlQQ?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Rebaja de penas golpea al Gobierno: La lectura de La Moneda al criterio de la Suprema y la ofensiva Boricista&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-22T18:58:58+00:00"
     },
     {
       "titulo": "Rabat vuelve a defender criterio que benefició a condenados por delitos sexuales y revela que en era Boric hubo 275 casos - La Tercera",
@@ -5598,39 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T15:08:05+00:00"
-    },
-    {
-      "titulo": "Inminente cambio en subsecretaría Segegob: El nombre surge como favorito de La Moneda para colaborar en la vocería - Emol",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVDBlWTkweFFCNTlIOHdZRFdhR3VfMkJaNWYxWEJZMUliWFBkdEZXOVVkcE5CZHBkdzZGNGxwemNkVXhWY0V2b1I2UTgxMEY1OC1WT0NLdEprWDZFYlB4UDhaazVOZ200Ynlsb3p4TU81bUZfeHRsNkRpSzNGX3Zvakt6WDRXeG9FU0x0ajJONkFXZmRlZWdvVTFMU3NMVWNhUDhzVExLTFZlQ0hE?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Inminente cambio en subsecretaría Segegob: El nombre surge como favorito de La Moneda para colaborar en la vocería&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-19T15:08:00+00:00"
-    },
-    {
-      "titulo": "A 7 años del 18-O, Solari dice que \"la idea de que el país va por mal camino nunca ha sido tan alta como ahora\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/a-7-anos-del-18-o-solari-dice-que-la-idea-de-que-el-pais-va-por-mal/2026-10-19/115935.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "A siete años del estallido social, el presidente del directorio del Instituto Igualdad y exministro del Trabajo, Ricardo Solari (PS), manifestó en Cooperativa que -de acuerdo a las últimas encuestas- la imagen futuro del país está en su peor momento.\nEn El Primer Café, Solari dijo que \"en Cadem, la cifra de imagen del futuro es la peor de la encuesta, es decir, la idea de que el país va por mal ca",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-19T14:59:35+00:00"
-    },
-    {
-      "titulo": "Karla Rubilar dice que la falta de vocero y errores comunicacionales le están pasando la cuenta a Kast - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbUo5QnBKY1hhYTdUV0J3d3pUMUpvakZTMWVaRVBHYUxKQzZ6RmVSZHdyTEhmdnp2dThjRnY4VWdIU05uaERwUW5XY1U1clhndjh3T1VjeGJYUmpMZ09EdnpPSDdnMzN6TFQ2SFZ4aXRIdWt6MGZOVzFOV0xuQmtnZDVlYjhIZXNELXd3SGhtbEVUeGVnQ2Z3TWV5VnJ2cUhYY1dBVExYTlRJekdiZWVJMXBFNHBGcGM0OThTLUF3Ym4tTzEwWmJzb0xOWHRWY1hYclVjUXNwYkR0ZVpxV0Q3SGJCVUxyWTBtSWZLamEzM1lDd3FNNTlMNVhLb0VLYW8?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Karla Rubilar dice que la falta de vocero y errores comunicacionales le están pasando la cuenta a Kast&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-19T14:55:49+00:00"
     }
   ]
 }
