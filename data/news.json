@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-22T11:46:38.846051+00:00",
+  "actualizado": "2026-10-22T12:01:45.413403+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Concejo de Porvenir aprobó modificación  presupuestaria para indemnizar a secretaria",
+      "link": "https://laprensaaustral.cl/2026/10/22/concejo-de-porvenir-aprobo-modificacion-presupuestaria-para-indemnizar-a-secretaria/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Con una modificación presupuestaria aprobada por la mayoría de los concejales (sólo con la abstención de Marisol Andrade y la del propio alcalde, Gabriel Parada), en su sesión del pasado martes, el Concejo Municipal de Porvenir aceptó la propuesta del jefe comunal con miras a indemnizar a la destituida secretaria de ese municipio, Nataly Vivar...",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-22T11:53:37+00:00"
+    },
     {
       "titulo": "De $70 mil a $248 mil: el salto aprobado en  el Congreso para alumnos de Carabineros",
       "link": "https://laprensaaustral.cl/2026/10/22/de-70-mil-a-248-mil-el-salto-aprobado-en-el-congreso-para-alumnos-de-carabineros/",
@@ -5611,17 +5623,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-18T18:59:58+00:00"
-    },
-    {
-      "titulo": "partido nacional libertario - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KckZvNnpfV3hKZ1doQUdVTU9zbVUwMEJFQ1doZ0lvV3p4a3hxbC1EbkNya0xadV9yUDBab3F3WGg0SHNKeXpCLUtwTE9yLUluQ2x5UTlrNVo3bEQ0Vmc3SVpPLWhHelJPbjhGazh1aVg2MkxyMXVXcE9Wcw?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "partido nacional libertario&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-18T18:54:27+00:00"
     }
   ]
 }
