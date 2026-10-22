@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-22T01:46:37.870327+00:00",
+  "actualizado": "2026-10-22T02:01:21.941955+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senadora Núñez anunció proyecto para impedir rebajas a condenas por delitos sexuales",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/senadora-nunez-anuncio-proyecto-para-impedir-rebajas-a-condenas-por/2026-10-21/220041.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta del Senado, Paulina Núñez (RN), anunció este miércoles un proyecto de ley para quitar la excepción que permite rebajar condenas por delitos sexuales contra niños, niñas y adolescentes, y ofició al ministro de Justicia, Fernando Rabat, tras conocerse el otorgamiento de beneficios a condenados por este tipo de ilícitos.\n\"Las leyes deben proteger a las personas más vulnerables. Detrás d",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-22T01:00:41+00:00"
+    },
     {
       "titulo": "Lo que está en juego en Brasil: Cinco claves de una elección con impacto mundial",
       "link": "https://www.elciudadano.com/latinoamerica/lo-que-esta-en-juego-en-brasil-cinco-claves-de-una-eleccion-con-impacto-mundial/10/21/",
@@ -57,6 +69,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-22T00:06:06+00:00"
+    },
+    {
+      "titulo": "Pasajes aéreos superan los $320 mil: Senadora exige revisar tarifas - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWlwZHI0NGVUd3NiTXQtX2VFVTVMTDQtUG9zdWxWNF9RUEdBWThHbVlvc0NTX3NadzVsbi1vRzlIS3lPVVYycjVoTS1GcVFBdWxnanAxVHl6TlMtRko1bWJUX1dFcV9iQkR4YVY4Vll4VER4ZDFqVC1KRVJLYmtqS0YzYWJvRFJRU3FxWGxtN3hRRGpjWXBQaWRHWWQtN1dkcmQ4bEdRRlh1YUZibTBmZ2JIcVlBaWM?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Pasajes aéreos superan los $320 mil: Senadora exige revisar tarifas&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-22T00:03:12+00:00"
     },
     {
       "titulo": "En medio de caída en encuestas, Kast asegura que el próximo año “será extraordinario” - La Tercera",
@@ -5603,28 +5626,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-18T14:51:26+00:00"
-    },
-    {
-      "titulo": "Kast contra la naturaleza - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XS0NSVUVDQmg5WC1nS1RWWUMxVWM3QmYtTHZldUhRTW83RFZMOWpVY0U0TmFZaHkzdFhXcDJELVloQTdkSFVIRV85UkNHMzcyN2ZwZXpsdFI5bmFMMmN5ZEVzeWR2TWJKYWFQZnJIamw5cmZsTFpz?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast contra la naturaleza&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-18T14:45:00+00:00"
-    },
-    {
-      "titulo": "Nuevo aniversario del 18-O: Kaiser emplaza al presidente Kast a patrocinar ley de indulto a carabineros y “cumplir con compromisos previos” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNXYtNUhEZDhRTDlOS1RjeUxRZEF2b21xQ1ZMdjFQa3F4WVczR2NNcGpYaHhTTG9Qb0QzVU1RNkR4dlhkbXFkaXgybWxMam9mdDVvV2wyU1pSUGNXY01LQjkyaVF2TElxenEzWlRoa2xwNXVEVmVfQ1dqME5GQjBkU0h0UW94ZHZZLU85Yzk4WVJTZDUwS2cyZDIyTXdkNWxId2xDZHE2djBoR3VIYzQzZWNOU0syRW8wVXRzeEwxV1hBZEQ1NUlNYmRkMkI3YjNnaGlQOVRhcXdaNVFMeDdmcm40c0NhajZaZXhHUmZrTHY5RmN3OTI2bUNPdw?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Nuevo aniversario del 18-O: Kaiser emplaza al presidente Kast a patrocinar ley de indulto a carabineros y “cumplir con compromisos previos”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-18T14:39:32+00:00"
     }
   ]
 }
