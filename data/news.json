@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-23T21:01:28.074547+00:00",
+  "actualizado": "2026-10-23T21:16:38.733871+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast: Queremos que la atención en cualquier hospital público sea igual a la de uno privado",
+      "link": "https://www.cooperativa.cl/noticias/pais/salud/hospitales/kast-queremos-que-la-atencion-en-cualquier-hospital-publico-sea-igual-a/2026-10-23/180758.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En el marco de la inauguración del nuevo edificio Médico Quirúrgico del Hospital Parroquial de San Bernardo este viernes, el Presidente José Antonio Kast subrayó que una meta de su Gobierno es equiparar el nivel de la atención médica entre centros públicos y privados.\nAl comenzar su discurso, el Mandatario señaló que, en los últimos 20 años, ha acudido varias veces a este recinto asistencial, y ag",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-23T21:07:58+00:00"
+    },
+    {
+      "titulo": "Senador Iván Moreira expresa profunda decepción y desilusión con gobierno de Kast tras reducir penas a pedófilos y abusadores: \"Rebaja de penas colmó el vaso\" dijo",
+      "link": "https://cambio21.cl/pais/senador-ivan-moreira-expresa-profunda-decepcion-y-desilusion-con-gobierno-de-kast-tras-reducir-penas-a-pedofilos-y-abusadores-rebaja-de-penas-colmo-el-vaso-dijo-6adbc9033c93f257d61a57f3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-10-23T21:01:40+00:00"
+    },
     {
       "titulo": "Polémica por dichos de exgeneral argentino sobre Puerto Williams: alcalde exige respuesta de Cancillería - ADN Radio",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZlpRZHJoRkRMWFVEZF9sa2MxMHM3eVlKTlhHbGE5ektKUEVodE81WnY3Sms0V2xhbV8tVGNSeUh5a3lwUTFsSU5XS3FlOHNnTkdVLVQ1Um5JNWN5QUhrX1kzWEI2UUd0TTFZNWE0cnFGR3lsZlo0VDZLa3Y4WHlhSnVaaDg4M0staTk4QVVzWllfamxpSUV2UXludktaQ3loSU83cC04MTJJOTl2WmROMENMTHd3RHFSNmlxdFEyclRscnVhQlFCNWhfQnVpQVlQTkNnOFpn0gHqAUFVX3lxTE9ucjdaVnZZNVRXV1ljV2RoQkhWTGZiVG1ULV92OFVWU0hUNGFoUmhMWGdrNjVSVG9aSWlDWUg2Uk9DV3ZSZ3FSWWlsMHlMVndleXdmbHl5TTFMY2dJUXFjM1E5eVZyc0pReThvUnRhdzQ1S2UzVXZnM1Baajc2ejFjOTZHT0dHaERCd2ZFSy10TGI5TFhiR2hWZnFYblpselBUZ3BQUGFqdV9tdlRSQmprREstc2dqNzRIMkU4OTRVcU5XU0h4ZW5UWjM4bXBRQzhyREcyeTRSVVcwS0t2aUZDUTNZM0V0NkNKQQ?oc=5",
@@ -5601,29 +5625,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-20T13:27:26+00:00"
-    },
-    {
-      "titulo": "Consejo Directivo del Servicio Electoral se reunió con Senadores por ley de presupuestos 2027 - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTVXWkpQd282Qlc0aDhxR1oxamtSZlpGaWhUUEMxZGQ4TmJmUDRwdlJlbnlRQmFIOVZ1TllxWHFabThWX1NoTUpPeXZpN0tFOXNMbkpZUDk3M1RMVWdwc0lVWnBsU2NqNzBXTnVHc01mY2tNWVh5UVZKcVRQZ3N5SXV3MW9kQnlxUERKUnVqVE5vblNLeGJsMU5zczVxNXBfOFN1NGtsVUFUX0EwWDE1Q2pscEloMUVMWFF0OVB1YlRieFA5aG5GNW1YY1hhay10WmtN?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Consejo Directivo del Servicio Electoral se reunió con Senadores por ley de presupuestos 2027&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral",
-        "Senadores"
-      ],
-      "fecha": "2026-10-20T13:20:51+00:00"
-    },
-    {
-      "titulo": "Alcalde de Peñalolén acusa al Gobierno de incumplir promesa de maquinaria para limpiar quebradas ante inminentes lluvias - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUmhQWFZiWVJ0RXFPVlowRF9tTHFNS01nejV5UDd1Q2hvQUphNER2Wk5QY1FTZzRoRnhELWRqQ213UmVCcEtJeE9qbDFVU2RqeHdDQkY3dGx6cDBzeXBZelVJd3E2djZzMnJoRmJMU1FVMlRWZTlfeEhPZDQ5ZXJ5cGVwRG4tSm9YWURVNXVFZXUxZ19QWGlYZVg0QzFnblV1a2gyT2tDMGYxV2Q2b0FTNzVPenRjckRJa1VFa3JoaVlQMWxUeHFpV3c1NF9UTFlNYVFxanRzcFF2SDE3dzBrYmw4bFZVVHFrU2ZXedIBgAJBVV95cUxQbWtJSzB4SF9sVVVMOGhTeHhIQXduanlfeDd2TXhHN01ndzlYVDUyNVZoaXFLUUdHSkR0OGtTUnQtRkg1YUZKZWtKdktXYllwXzFBTk5MZ0NBTjFBdGg1OF9kUER1cDRWVmdHcUlSZWhCMVUzNnRzalFVd0s3ZGdNcW1TUWthalVHdlBUcFhlaFFma3BqUW9qWmdUOEhCQ2pVTVRrbWlETG4wUTkzMUd6bkUxbm9jbC1ZSWR1ck15eUFkQWdVaVpxU1VzTzZGZWtxQUdham51TWprV0trZlBLYkFOZnY3Wkh4LTlkSXNwbmdGYXFtdXVxODVwVThLQVZI?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Peñalolén acusa al Gobierno de incumplir promesa de maquinaria para limpiar quebradas ante inminentes lluvias&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-20T13:18:02+00:00"
     }
   ]
 }
