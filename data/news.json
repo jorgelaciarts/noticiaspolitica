@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-23T13:31:31.591506+00:00",
+  "actualizado": "2026-10-23T13:46:41.252142+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Castro por remoción de Araya: “Fue una decisión dolorosa, pero inevitable”",
+      "link": "https://www.lanacion.cl/castro-por-remocion-de-araya-fue-una-decision-dolorosa-pero-inevitable/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El senador socialista y jefe del Comité del Socialismo Democrático, Juan Luis Castro, afirmó que la remoción de su similar PPD Pedro Araya desde la Comisión de Constitución &#8220;fue una decisión dolorosa, pero inevitable&#8221;, debido a sus acuerdos con el Gobierno sin representar al sector. En entrevista con 24 Horas, Castro expresó que &#8220;fue una [&#8230;]\nThe post Castro por remoción de ",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-23T13:41:25+00:00"
+    },
     {
       "titulo": "(VIDEO) 🔴 Carolina Tello, Pdta del Frente Amplio, exige renuncia de ministro de justicia por beneficios a violadores de menores",
       "link": "https://www.elciudadano.com/reels/video-%f0%9f%94%b4-carolina-tello-pdta-del-frente-amplio-exige-renuncia-de-ministro-de-justicia-por-beneficios-a-violadores-de-menores/10/23/",
@@ -13,6 +24,18 @@
         "Diputados"
       ],
       "fecha": "2026-10-23T13:30:08+00:00"
+    },
+    {
+      "titulo": "Emilia Schneider (FA): \"Solicitamos al Presidente Kast que se haga cargo del daño causado y saque al ministro Rabat\" - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeC1VbVdJOTQ1djJ3SzFrdFVnREY2ekt5UF9CTVdHSWI1cHJma0UzdkY2dEZSQjNKbHYzRFRmSkV5alZGNnU3dnd1OF9aMkRzZnZzeXdQdnBDaVBjSW9KblpRUHNSR20xNTg4bGEycDJnTGxMSjdQOE0wNXYyMnFmU2x1RWZGakNiTkpnYTNaY3BIckc2ZkdaQmlUSHhiTnZaekZ3R2RiMjB4Q2g5X0U0RHdYcjNWWmROTVVETnMtSUZXOThoNWtaZTMyQVM1bk9xUDlqUk1VZE9sOGk0cmI4eQ?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Emilia Schneider (FA): \"Solicitamos al Presidente Kast que se haga cargo del daño causado y saque al ministro Rabat\"&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-23T13:30:02+00:00"
     },
     {
       "titulo": "Republicanos piden congelar militancia a alcalde de Mulchén, sumariado por apostar en casino - BioBioChile",
@@ -5603,28 +5626,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T20:59:37+00:00"
-    },
-    {
-      "titulo": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027 - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTA0ekEtN3l0UHRoT3JrNGd6Z1RaV0ZqUmt6MVFxc2VIcnA0U3BsZU9mWmJwdERta0t3U2VSRF9IMTBMZC1ha2tQNDlsSk9nN05EcWY1VEw5RHJIVkpDTUFhRndTNVQxNUFxVTdHSl9MazZjMXk1SDJ3Mm1ZZVd5aVpTSlFGWWVNLXI1bk53ZzVSeU8xT1lERG9taVNiWUota1J0VmpqY2NkMVJhN3M2VUpMTEVSaHp3TFk3SnBn0gHfAUFVX3lxTE1HeUNyTU1CSXRqb0RCNmlabW96QjM1OXdaLWw1Znl4ckxhbkFkaE41STVidWc5eVFULVJkLUdaM0szV09vUzhYXzBUWmtrdjVNT0tQdTh4bXRCNzM3SGtLbDFLMmdrNWhhVzhLRldTR25tcjgxOWNqcE1GZHlaU05uQ0g3RjNOTnEyR1VXMkFfYWhjVTJCWkg5amZlcnViR1FZZjFKbWtrbjNUaGtEajluSXZySi1tZ1FlcTMzZEV0WndtY3YxQ18tdkgySmxLdi1wMEdQSHA3elpVZUtrbWM?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-19T20:57:56+00:00"
-    },
-    {
-      "titulo": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027 - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNTA0ekEtN3l0UHRoT3JrNGd6Z1RaV0ZqUmt6MVFxc2VIcnA0U3BsZU9mWmJwdERta0t3U2VSRF9IMTBMZC1ha2tQNDlsSk9nN05EcWY1VEw5RHJIVkpDTUFhRndTNVQxNUFxVTdHSl9MazZjMXk1SDJ3Mm1ZZVd5aVpTSlFGWWVNLXI1bk53ZzVSeU8xT1lERG9taVNiWUota1J0VmpqY2NkMVJhN3M2VUpMTEVSaHp3TFk3SnBn?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldes advierten recortes en salud y programas sociales en Presupuesto 2027&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-19T20:57:56+00:00"
     }
   ]
 }
