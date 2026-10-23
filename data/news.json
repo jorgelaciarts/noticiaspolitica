@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-23T23:23:40.147964+00:00",
+  "actualizado": "2026-10-23T23:31:46.097725+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Rebaja de condenas a abusadores enfrenta críticas transversales de diputados de Ñuble",
+      "link": "https://ladiscusion.cl/rebaja-de-condenas-a-abusadores-enfrenta-criticas-transversales-de-diputados-de-nuble/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Las rebajas de condena concedidas por el Ministerio de Justicia a personas sentenciadas por delitos sexuales contra menores, y a condenados por graves violaciones a los derechos humanos, abrieron un nuevo foco de cuestionamientos al Gobierno, con reacciones transversales desde Ñuble que apuntan tanto a la legalidad de los beneficios, como a la responsabilidad política [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-23T23:25:48+00:00"
+    },
     {
       "titulo": "Rabat obtiene apoyos del PDG ante ofensiva opositora por AC - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1dRbGNZTXJEUG9faEFmSGE2NTRsSUpxX3EzLWVlNjBVUjRIbVNQNjBVN1U4Ym1rTnVTTDBlbGZfWjlNS3Y3YVUyQ0hRaGVCYU9LVWMtOE9rcmlnT281cG5FSV9kdDFpNkMwMW56NlJodGcwOTNtNkxTaWU0VjRVQQ?oc=5",
@@ -181,6 +192,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-23T20:46:53+00:00"
+    },
+    {
+      "titulo": "La visita al Papa León XIV que prepara el presidente Kast junto a Pía Adriasola - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjlWY2JraVhtOXhIZDdSVmhYLVJrR0JiYXZaeUxMVGtoVkh4WTNIdVdFU1pBRTFNWTYzSHZKNXhhOFlrUWxvMnpDMC1DOHNqZ1NacmlZWmM4VkRRMXNNeGY1ZVlKb0RWdU9nOW1YYXZXaUVDRVExLU5oS2luSk1rcnFFOW45RGh5VDdWMlpPeUJhUDI1Tm51RmxXcnVjVnZSbzdGOFI2UW9YSk1BQnc?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La visita al Papa León XIV que prepara el presidente Kast junto a Pía Adriasola&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-23T20:17:07+00:00"
     },
     {
       "titulo": "Polémica por dichos de exgeneral argentino sobre Puerto Williams: alcalde exige respuesta de Cancillería - ADN Radio",
@@ -5601,28 +5623,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-20T14:21:26+00:00"
-    },
-    {
-      "titulo": "(VIDEO) 🌐 🇧🇷 #Brasil | META interfiere en las elecciones presidenciales de Brasil",
-      "link": "https://www.elciudadano.com/reels/video-%f0%9f%8c%90-%f0%9f%87%a7%f0%9f%87%b7-brasil-meta-interfiere-en-las-elecciones-presidenciales-de-brasil/10/20/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nRazonamiento: El título indica una noticia o discusión sobre la intervención de META, la compañía detrás de Facebook, en el proceso electoral de Brasil. El enfoque probable del contenido es analizar cómo esta intervención pudo haber afectado las elecciones presidenciales, evaluando la influencia de las plataformas digitales en la política brasileña. El tipo de video [&#8230;]\nLa entra",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-20T14:15:08+00:00"
-    },
-    {
-      "titulo": "Kast instruye iniciar procesos de expulsión contra siete extranjeros detenidos en incidentes del 18-O - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0hhckswVl96anltTGcwemYzdVU0MmVNaVFKd0F5TXhUXzdXQWFKaThwcFlrOVFfVExNZjFfRUhzT2lVZHdRZFZQTndLX2ZQM3dHeW5NVmFBNUVsdmEyLWJzZmhRTG1MMFZWNEFaaXBQNlRyQUF0elR3R1ZUYnZqWWZjQy1wZF9Tam1fdnRwdXY2Q0w0WGJBaHhuMW1ycDhkNGFoMkg2TjNraERpQmViZS1rZU1SNGwyY1ItNjZaZXRKd3BrbFQxWGlRdEQ5Y2s3SjdN?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast instruye iniciar procesos de expulsión contra siete extranjeros detenidos en incidentes del 18-O&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-20T13:59:22+00:00"
     }
   ]
 }
