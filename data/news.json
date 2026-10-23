@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-23T00:31:44.113231+00:00",
+  "actualizado": "2026-10-23T00:46:12.106973+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast entregó nuevo armamento al GOPE: Dijimos que íbamos a proteger a Carabineros",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-entrego-nuevo-armamento-al-gope-dijimos-que-ibamos-a-proteger-a/2026-10-22/212518.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast participó este jueves de la entrega de nuevas armas para el Grupo de Operaciones Policiales Especiales (GOPE) de Carabineros, como parte del proceso de modernización del armamento institucional.\nEn concreto, se trata de cerca de 300 subfusiles CZ Scorpion EVO 3 A1, que reemplazarán las actuales subametralladoras Uzi, cuyo prolongado uso ha generado mayores costos de",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-23T00:25:18+00:00"
+    },
     {
       "titulo": "Rabat confirma que Gobierno redujo penas a dos exmilitares en Punta Peuco condenados por secuestro y torturas: “Así lo establece la ley”",
       "link": "https://www.theclinic.cl/2026/10/22/rabat-confirma-que-gobierno-redujo-penas-a-dos-exmilitares-en-punta-peuco-condenados-por-secuestro-y-torturas-asi-lo-establece-la-ley/",
@@ -5625,17 +5637,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-19T16:30:00+00:00"
-    },
-    {
-      "titulo": "Formalizan por fraude al fisco a alcalde de Chillán: decretan arraigo nacional por caso “Medialuna” - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRzNqZjRZdzRRSC1oS3FqT2I5VzJVU09sTTVNZkV0bXFBM3BNZ3g1UzE3U2haLWlVS2RleWxJaHktWE5YSkkzS1B2dWoxbE4wQXI2QWRQWDV2d0tXem1sS3Zrc2YtTThHNmQtLS1VckNDcXVIY2MyYV9wWUdTcndWb1ZPS1RwTy1XbUhDeTRDQ1lWQTFZcHpOeQ?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Formalizan por fraude al fisco a alcalde de Chillán: decretan arraigo nacional por caso “Medialuna”&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-19T16:28:23+00:00"
     }
   ]
 }
