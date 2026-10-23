@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-23T10:46:36.800115+00:00",
+  "actualizado": "2026-10-23T11:01:32.361564+00:00",
   "total": 500,
   "items": [
     {
@@ -24,6 +24,28 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-23T09:00:00+00:00"
+    },
+    {
+      "titulo": "Lo que nos prepara la izquierda de Bachelet y Boric - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON0UzWWF1S004c0VPb3NxRnBZVzlJLVlUQ0FsMVRGS2ZJRkR1NzJ3OGFDNUZ6VUxIelJrNHRDTnhEUE1WMUQ4bHFiTU9VdnVqMzBEYTFJYU5Qbnc1N0Y0T0pRWjFUZ28zYzJTS3NwNzFlOElUb0l2WGtaTlZza08zdWFucW4ycFk?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Lo que nos prepara la izquierda de Bachelet y Boric&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-23T07:25:00+00:00"
+    },
+    {
+      "titulo": "Republicanos bancada diputados - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUFIyY0VrVFpGYTUxdWhZWUJnajhWdjlGc1hHZWwxQk1jalgzT3AxOWZubXFzcnMwZ0VEd0hrTXlSdmJmcTktQmVIdGtvTjVQdUpnbGsyRndVYWdWZzc0dmRUTTBsNkVVSC11ejNpamxzRy1MWVM4VXJYZWlLZXUxMWpUanUxVWg3S0E3emE5UFhrd0Vm?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Republicanos bancada diputados - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-23T06:56:27+00:00"
     },
     {
       "titulo": "(VIDEO) Diputada Tello rechaza dichos del Presidente de Nacional Libertarios Johannes Kaiser sobre Dominga",
@@ -5603,29 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-19T18:38:23+00:00"
-    },
-    {
-      "titulo": "Las transferencias a su cuenta personal que complican al alcalde de Río Bueno en causa por corrupción - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcW9seTdFZnZJRUQyMlNSdldGV3ZhV3lFRnFzTFVXRVI4djl6cjBiS0pFUzhYUXg5YVVVV3FGd2d0a3VSM2VSOENCeDVPS29FeUhLb1pkWlRlc3I2Z2pwYUNua3IzVzU2bFNKY2YtNndzOUxKUUpsMXkwelJ2dHcwUG9uSjdubjBpNURmTVQwaWFwRFVpX19haDNBQV95RE5zSkY3OG4wVWhkblFSeTBQdXR2RHQwbUNOc2RqYWlmQ3YzRW5hS1lvN1BEMHQxVk1oc19qUWtLWjE2b1pXOERibnBTY2ZqTDZ4Nm9TbmE2ME40Z0s4N1hHQW85TUZYblVJVEx3Z1BnQVJoVnN0UjZF?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Las transferencias a su cuenta personal que complican al alcalde de Río Bueno en causa por corrupción&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-19T18:31:46+00:00"
-    },
-    {
-      "titulo": "Parlamentarios PC presentan proyecto “Devuelvan la plata” para obligar a las AFP a restituir pérdidas millonarias de los fondos de pensiones",
-      "link": "https://www.elciudadano.com/politica/parlamentarios-pc-presentan-proyecto-devuelvan-la-plata-para-obligar-a-las-afp-a-restituir-perdidas-millonarias-de-los-fondos-de-pensiones/10/19/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa iniciativa del senador Núñez y el diputado Cuello busca que las AFP compensen a los afiliados del Fondo E, por las pérdidas derivadas de operaciones financieras vinculadas a las tasas de interés de Estados Unidos.\nLa entrada Parlamentarios PC presentan proyecto “Devuelvan la plata” para obligar a las AFP a restituir pérdidas millonarias de los fondos de pensiones se publicó primero",
-      "categorias": [
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-19T18:07:16+00:00"
     }
   ]
 }
