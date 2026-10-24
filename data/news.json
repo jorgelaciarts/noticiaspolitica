@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-24T14:46:35.965597+00:00",
+  "actualizado": "2026-10-24T15:01:50.130970+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Segunda vuelta presidencial brasileña, ¿la última reinvención de Lula? - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNXy1YWlBwNDVPZm12WFBOd3k5T3YxaS1Da1RKM0VnMVQ0LU5BaDdLcFB6ZW95VEF5Y0pndFM5bjVyVHN3aHgxQVRQVEhSWU9OQTFrdHNCX2dXb0RVd09IN3duU0xyM29nMkZJVWt6c2gtdlV3enAwYXdzVjE4WGYzc3ZmWGpmd19maHhqd3N4NV9GSFRZbUZvYUJ2ZVAyN1hKeFdwOTJ1RFE0MHM?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Segunda vuelta presidencial brasileña, ¿la última reinvención de Lula?&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-24T14:45:00+00:00"
+    },
     {
       "titulo": "“Espero de todo corazón que Lula gane”: Expresidente Boric expresa su apoyo a Lula antes del balotaje en Brasil - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk5EWmdjdzI3V2VXQzA1emRFMlQ3UHFweEVjeHFQY2h4SVhVMktNSHdJdk9xLUp2M3UyMEVpdXo5THIwS0lGdW44RFgxUTRWNE8wU3BHLXlMY0FJRzNfd19jcU12UEdEOTExMXUtWVg1T0xGUk9QZElaUjQtYXR1Rl9mVVhXMGJrb3hj?oc=5",
@@ -124,6 +135,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-24T12:07:36+00:00"
+    },
+    {
+      "titulo": "diputados argentinos citan embajador chileno - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2Vwb3VyNnNtajhfLTRvTkR4MlZ0cExXdGFmOE41akIxLS1QY0c3NVlPSGtrbGJvM2dtY0V4UXRwME40RFEwUzVwUXo4Ulh0bENjN3dhR0NaTVdfZEdpd3pGeFlZNkJOejU4a3ZUTWt5Y29sM1dWMVVEYzQwcFhuV1p0QmxpUWZEalMzRmFqNkRleDViWWNSZGNSSVRNUzg2RWgySlFiVUpQQQ?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "diputados argentinos citan embajador chileno - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-24T12:01:52+00:00"
     },
     {
       "titulo": "Oposición pide que Kast remueva a Rabat y prepara una acusación constitucional por rebaja de condena a pedófilos",
@@ -5596,28 +5618,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-20T19:11:16+00:00"
-    },
-    {
-      "titulo": "El estallido social desde el interior de La Moneda",
-      "link": "https://www.ciperchile.cl/2026/10/20/el-estallido-social-desde-el-interior-de-la-moneda/?utm_source=rss&utm_medium=rss&utm_campaign=el-estallido-social-desde-el-interior-de-la-moneda",
-      "fuente": "CIPER Chile",
-      "region": "Nacional",
-      "resumen": "La entrada El estallido social desde el interior de La Moneda se publicó primero en CIPER Chile.",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-20T19:08:51+00:00"
-    },
-    {
-      "titulo": "Caso Kathy Yoma: Condenan a ex alcalde de Antofagasta y esta es la medida que deberá cumplir - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdVhVUXVOdUFXcUVaMlgwclViT3N4MUEtbEJYRDhHaTRpeDZqRW9pM1FqN2p3aUxpeDNTb2dDdWs0dlJadERhcENKUzlfc1F3MzlDMUQyYWNGTGFjVERreW1IdXdCZnNZMU5PNmFHU0tlZG4xNG5vTEVqQklPYmo3Nm5nbkZ1LUZsbExoT09IXzZUQzJVdWlkXzE3a3VQbVFYVTV5VnlRdDJsa05WdXlLTER6SnVOU0dTdElSWFZBcnMxN28?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Caso Kathy Yoma: Condenan a ex alcalde de Antofagasta y esta es la medida que deberá cumplir&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-20T18:19:12+00:00"
     }
   ]
 }
