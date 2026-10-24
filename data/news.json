@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-24T04:01:58.845082+00:00",
+  "actualizado": "2026-10-24T04:16:23.389613+00:00",
   "total": 500,
   "items": [
     {
@@ -317,6 +317,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-23T20:17:07+00:00"
+    },
+    {
+      "titulo": "Gobierno de Kast rebajó condena a autor de uno de los últimos secuestros en dictadura de Pinochet - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWkZqam5vOHhMRnRPYS1PTHJBQjVVbm1lWkYxY3FhVUFxSjFoM21aUjY5U1ZqcEgxVS1iNzlEN2dlc3R5SG1CYmI4ODZhbl9FeDlPWHV2VzZxbVBCYVNfTEVXTlRkYkRmRnN4MHhhY0hEbUI5U01tRG1aWW1tYW9SZWk2Z1BmM1lPMkc4TUkzcFR5M0RBQkVHb3RJZHRBZmR0Zmp6R0NlMXpVc1FpMWVLNFJYSENmNTVZa2RweHRnaDZMTnNP?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno de Kast rebajó condena a autor de uno de los últimos secuestros en dictadura de Pinochet&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-23T20:11:24+00:00"
     },
     {
       "titulo": "Polémica por dichos de exgeneral argentino sobre Puerto Williams: alcalde exige respuesta de Cancillería - ADN Radio",
@@ -5611,18 +5622,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-20T15:34:22+00:00"
-    },
-    {
-      "titulo": "Presidente Kast eleva el tono contra parlamentarios por leyes de seguridad: “Los que voten en contra, que se hagan cargo”",
-      "link": "https://www.theclinic.cl/2026/10/20/presidente-kast-eleva-el-tono-contra-parlamentarios-por-leyes-de-seguridad-los-que-voten-en-contra-que-se-hagan-cargo/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Con esa advertencia, el Presidente José Antonio Kast endureció el tono frente al Congreso, en medio de la discusión de reformas para enfrentar el narcotráfico y el crimen organizado.\nEl mandatario emplazó a los parlamentarios que se oponen a las iniciativas de seguridad y los llamó a no “cobrar cuentas políticas con cargo al dolor de los chilenos”.\n“Es muy fácil acusar a un Gobierno y decirle ‘hag",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-20T15:29:38+00:00"
     }
   ]
 }
