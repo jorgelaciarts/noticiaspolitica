@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-10-24T00:46:17.189434+00:00",
+  "actualizado": "2026-10-24T01:01:42.223243+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Hasta el propio exministro de Justicia de Piñera, Hernán Larraín (UDI) contradice versión de Rabat por rebaja de condenas a pedófilos firmada por \"orden de Kast\"",
+      "link": "https://cambio21.cl/politica/hasta-el-propio-exministro-de-justicia-de-pinera-hernan-larrain-udi-contradice-version-de-rabat-por-rebaja-de-condenas-a-pedofilos-firmada-por-orden-de-kast-6adbf961573dd61af460e9c3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-24T00:41:45+00:00"
+    },
+    {
+      "titulo": "Gobierno firmó decretos de expulsión de extranjeros detenidos en desmanes del 18-O",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/gobierno-firmo-decretos-de-expulsion-de-extranjeros-detenidos-en/2026-10-23/213533.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno concretó la firma de las órdenes de expulsión de los seis ciudadanos extranjeros detenidos en Santiago por su presunta participación en desmanes durante la marcha de conmemoración de los siete años del estallido social.\nLa resolución administrativa se ejecutó luego de anular la residencia definitiva a cinco de los imputados, en el marco de las instrucciones instruidas por la Presidenci",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-24T00:35:33+00:00"
+    },
     {
       "titulo": "Alcalde de Río Bueno intentará dejar la cárcel: apelará prisión preventiva por presunta corrupción - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdHpJSjk2R3pFMWd6NHNDdjRGX3ZYQXZEZXZnc0EwQmhoRy1zMGlLUm5kUkJoUjV1SzlfdjFuWWlqaFB0MDBBVUJVY1BTQXFSOS1JTXB0eEV0QzVoekZCZWZ1U2NtVmwwdFJvRklZTHBSZVM3aFlaaExNSklSRkxNeFhManZUSUd3Z2tMaFFORDZDbmp0RWFjTzk0ckdGeFRHdFNXNXlLUktOYVJUTkM2anhPOHFsa1NES0JZcVhKZm93OUZ5M3NUREJQMml0TkxpQUt4RGVOdmtBVXBlSlhkaXJoVkZGZU5lWTdUN3BXNHFDSlQzcW44Xw?oc=5",
@@ -191,6 +215,19 @@
         "Presidente"
       ],
       "fecha": "2026-10-23T21:03:06+00:00"
+    },
+    {
+      "titulo": "Senador Iván Moreira (UDI) expresa profunda decepción y desilusión con gobierno de Kast tras reducir penas a pedófilos y abusadores: \"Rebaja de penas colmó el vaso\" dijo",
+      "link": "https://cambio21.cl/pais/senador-ivan-moreira-udi-expresa-profunda-decepcion-y-desilusion-con-gobierno-de-kast-tras-reducir-penas-a-pedofilos-y-abusadores-rebaja-de-penas-colmo-el-vaso-dijo-6adbc9033c93f257d61a57f3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-10-23T21:01:40+00:00"
     },
     {
       "titulo": "Senador Iván Moreira expresa profunda decepción y desilusión con gobierno de Kast tras reducir penas a pedófilos y abusadores: \"Rebaja de penas colmó el vaso\" dijo",
@@ -5587,41 +5624,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-20T15:07:20+00:00"
-    },
-    {
-      "titulo": "A punta de ensayo y error: Gobierno de Kast registra 45 seremis entre salidas, cambios y nombramientos fallidos en siete meses",
-      "link": "https://www.elciudadano.com/politica/a-punta-de-ensayo-y-error-gobierno-de-kast-registra-45-seremis-entre-salidas-cambios-y-nombramientos-fallidos-en-siete-meses/10/20/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEn solo siete meses 45 seremis, tres ministras, seis subsecretarios y un delegado presidencial, han abandonado sus puestos dentro de la administración del mandatario de ultraderecha, quien enfrenta cuestionamientos sobre su capacidad para conformar equipos, especialmente en las regiones.\nLa entrada A punta de ensayo y error: Gobierno de Kast registra 45 seremis entre salidas, cambios ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-20T15:03:51+00:00"
-    },
-    {
-      "titulo": "Alcaldes advierten a partidos políticos que Presupuesto 2027 podría afectar programas y servicios municipales - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkdDQktVZW5RYy1GNTN2bEw4akQ3VVkyRDhPR185S19wVGdrcUhMUXZfN2RmV0lrU1RhblBpWndwRG9JQTdQZ04zT0l2TmsyQ0hqd0Q0WUh2VnZQR3pIeExDcXNlczNJdV9DLWxsd3RidHFvSlY4SHphZnRLRnpHNUNaTk9UN28wNEMySTI1RkRUcGg1Z3BzSHRBMzZXdlF3ZERtb0NSblZITDlVOWYzNFNodWZmM1o5RnFPTlhrc2ZUdjg?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Alcaldes advierten a partidos políticos que Presupuesto 2027 podría afectar programas y servicios municipales&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-20T14:58:49+00:00"
-    },
-    {
-      "titulo": "Alcaldes advierten a partidos políticos que Presupuesto 2027 podría afectar programas y servicios municipales - El Observatodo",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSkxKWWxyZjJfTHo1VlFqcFpUSVZhYTFXUmpQbEZEd21wczF6OHFBaTFFUFo4YjVuQTd4blpGUTdnZFMzME9MbWpPZDQ3RDJWckppOWZ4TUY0QjFTbk4zb1FNa0pCOVZBMHZEQi1fcms0Y2JSUVlJV2ZLbmJ0OXNBQkFKZTV5QmMySk95OUxCb0Q4NlM2cktOUE1JaUxabU9teV90UHlNWTFXTTJDUk0xaDhSd0VRMGk4RTdrcXNGZnNjV3FTZnVSXw?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Alcaldes advierten a partidos políticos que Presupuesto 2027 podría afectar programas y servicios municipales&nbsp;&nbsp;El Observatodo",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-20T14:54:21+00:00"
     }
   ]
 }
