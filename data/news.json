@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-24T01:01:42.223243+00:00",
+  "actualizado": "2026-10-24T01:16:38.300095+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Desfonde total: Encuesta asegura que casi 8 de 10 chilenos considera que Gobierno de Kast ha sido peor de lo esperado. Y sólo un 19% lo valora",
+      "link": "https://cambio21.cl/politica/desfonde-total-encuesta-asegura-que-casi-8-de-10-chilenos-considera-que-gobierno-de-kast-ha-sido-peor-de-lo-esperado-y-solo-un-19-lo-valora-6adc02e9c5b05171ad435cd5",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-24T01:07:29+00:00"
+    },
     {
       "titulo": "Hasta el propio exministro de Justicia de Piñera, Hernán Larraín (UDI) contradice versión de Rabat por rebaja de condenas a pedófilos firmada por \"orden de Kast\"",
       "link": "https://cambio21.cl/politica/hasta-el-propio-exministro-de-justicia-de-pinera-hernan-larrain-udi-contradice-version-de-rabat-por-rebaja-de-condenas-a-pedofilos-firmada-por-orden-de-kast-6adbf961573dd61af460e9c3",
@@ -5613,17 +5624,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-20T15:08:58+00:00"
-    },
-    {
-      "titulo": "Codina responde a alcalde de Peñalolén: MOP determinó que quebrada no \"concentra sedimentación\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYjZkaWhJLUFIUGtYZUdFNkJudVQxckJ4YmpHTEtvcVFRTlA2eVhMN1dTLWNCNFZfeHZtX0xLdGRrMTFuaTRkOW5CNl9VSE5BS0E4OEN4NGtKUjVtSURtWnBOR2ZOQVlUMmdBbDlCSnBMUkJ4N3ZEdGFwU1R3bUs1SEtyaXhxMHpxSTRxZjJjakkwdDhjQXBfZ1l5OXI4WkZHcGVndw?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Codina responde a alcalde de Peñalolén: MOP determinó que quebrada no \"concentra sedimentación\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-20T15:07:20+00:00"
     }
   ]
 }
