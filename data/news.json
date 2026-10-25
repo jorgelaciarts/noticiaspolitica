@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T02:05:40.297536+00:00",
+  "actualizado": "2026-10-25T02:17:07.074767+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-25T02:03:20+00:00"
+    },
+    {
+      "titulo": "Camila Vallejo llega a Brasil en la previa de la segunda vuelta - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVUFoT3poZ09YeHRFdXhnUGQ4REFUSGkzRk1kbEVKY2VTYk1WX0lrc1VtN2M2dV9YdUlyeVNaazVyN0ozb3pzcGwwUnFjcUdKSE0xQXVYLXdYUlpybGpvM0VveDN0aWpRUDRNQUZ1U2M2a3NtcUFOaTZQWW5oWnQ4bGF0TnM5SGtLUHlnSEZTV3NGSmJUcjMtSTNXWjR5Z3VCZElIQ1U5Slg2Nk1wZk1hTVZuUnpORDhNNFEwZVBMT1dJUm90MUt1QTMtOGc?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Camila Vallejo llega a Brasil en la previa de la segunda vuelta&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-25T01:50:00+00:00"
     },
     {
       "titulo": "\"Ignorancia\": Diputados rechazan dichos de exgeneral argentino sobre Puerto Williams y emplazan a Cancillería - Emol",
@@ -260,6 +271,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-24T18:18:20+00:00"
+    },
+    {
+      "titulo": "Karla Rubilar pide a Kast reconocer error por rebajas de condena: “Detrás de esta decisión hay familias a las cuales les costó muchísimo lograr esta condena” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVhSMmU0WGJZUGtkUTJ2cWdvNXcwbWhleVNUSEJseWtIQktfNDJFX3d2cXNVWF9uMFZEeUhCQlFXM0FBd1BRODdXRnJ6NmdUZkZYSGdNdDFrUnBLcnZSOXRlc1ZVcUtxVVBTaEUzLXJybHpOQXlIcDJzemNKQUltenpKTENWYkw2cXp0OFBOSDRhX1dkbmpxMzBDMA?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Karla Rubilar pide a Kast reconocer error por rebajas de condena: “Detrás de esta decisión hay familias a las cuales les costó muchísimo lograr esta condena”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-24T18:10:23+00:00"
     },
     {
       "titulo": "Diputado Ossandón denuncia colapso en morgues regionales - Radio Agricultura",
@@ -5601,29 +5623,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-20T23:46:51+00:00"
-    },
-    {
-      "titulo": "Presidente Kast encabeza monitoreo por sistema frontal que mantiene a siete regiones en emergencia preventiva",
-      "link": "https://laprensaaustral.cl/2026/10/20/presidente-kast-encabeza-monitoreo-por-sistema-frontal-que-mantiene-a-siete-regiones-en-emergencia-preventiva/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El Presidente de la República, José Antonio Kast, encabezó este martes una reunión de monitoreo en el Palacio de La Moneda para revisar la evolución del sistema frontal que afecta a la zona centro-sur del país y coordinar el despliegue de recursos estatales ante posibles emergencias. En la cita participaron presencialmente el ministro de Vivienda...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-20T23:40:22+00:00"
-    },
-    {
-      "titulo": "Matthei por eventual llegada de Gonzalo Arenas como vocero de Gobierno: \"Ojalá me equivoque, pero no va a funcionar” - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcGVMTXZTeWFpbGFZalZ2MkdTeXppMzd3bWh1UjI4cnRPLUZHRk5mQTlrdWoxZ2JSZW1RU3l4UkNFZno4UGxNNmc4aU1BZ0t2T0pwTGYyTnFxLWFkMVpNQ3BDTjIyN1Z6dnFtbmdJV2VZYTU5S0U3SHJlWjgzVGNjU2tkU2JpZXU1el9aNHlXaVl1QWhQVzh6NDJ5Nk8zc09JcmxYdGJjUmhZMmd1ZzdvdQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Matthei por eventual llegada de Gonzalo Arenas como vocero de Gobierno: \"Ojalá me equivoque, pero no va a funcionar”&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-20T23:40:00+00:00"
     }
   ]
 }
