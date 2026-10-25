@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T20:31:41.342199+00:00",
+  "actualizado": "2026-10-25T20:46:38.421366+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,19 @@
         "Elecciones"
       ],
       "fecha": "2026-10-25T20:14:21+00:00"
+    },
+    {
+      "titulo": "Kast reúne a ministros para definir la incorporación de Chile a la coalición anticárteles de Trump",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/kast-reune-a-ministros-para-definir-la-incorporacion-de-chile-a-la/2026-10-25/170815.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast convocó a su gabinete a una reunión este domingo para evaluar el posible ingreso del país a la Coalición de las Américas contra las Organizaciones Criminales (A3C), impulsada por su par estadounidense, Donald Trump.\nEl encuentro está pactado para las 19:00 horas en el Palacio de La Moneda y contará con la participación del biministro del Interior y Segegob, Claudio ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-25T20:08:15+00:00"
     },
     {
       "titulo": "Presidente Kast convoca a ministros para evaluar ingreso de Chile a coalición contra el crimen organizado impulsada por Trump - ADN Radio",
@@ -5624,17 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-21T14:06:58+00:00"
-    },
-    {
-      "titulo": "Comisión de Economía de la Cámara acordó citar a la Superintendencia de Pensiones  y a la CMF por pérdidas en el Fondo E",
-      "link": "https://www.lanacion.cl/comision-de-economia-de-la-camara-acordo-citar-a-la-superintendencia-de-pensiones-y-a-la-cmf-por-perdidas-en-el-fondo-e/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Comisión de Economía de la Cámara de Diputados aprobó por unanimidad citar al superintendente de Pensiones, Joaquín Cortez. Esto con el objetivo de obtener antecedentes sobre las pérdidas asociadas a inversiones de las AFP que impactaron al Fondo E. La instancia también extenderá la convocatoria a la Comisión para el Mercado Financiero (CMF) y [&#8230;]\nThe post Comisión de Economía de la Cámar",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-21T14:03:34+00:00"
     }
   ]
 }
