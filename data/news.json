@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-25T16:46:29.317409+00:00",
+  "actualizado": "2026-10-25T17:01:27.757461+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta Criteria: Desaprobación del Presidente Kast llega al 64% y aprobación cae al 27% - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQnNPWkw2dHRoOXNXZ3RvUC1JNHRkMF9SY1lZaWhZb095UXhvaHVCZnlyaHBYbnMxSC1QUm5sYkhpWE1uR3FBR2FCSWtZc3QxZmxLUWJBY0VNZTdiU3FscV9qMGxSbktfRFctU0hkZ1VUVkNUQzlPWEcyQlNDZjhDME10WUZqUWgyTjB0dFVLQlpCdHpSNlowMjZHZVhPaGxMeW1UelZaeWNTd0RVZ0ttblNnVEFUaFUwd2NodXpiU19hYkFobHZwTQ?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Encuesta Criteria: Desaprobación del Presidente Kast llega al 64% y aprobación cae al 27%&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-25T16:47:19+00:00"
+    },
+    {
+      "titulo": "Senador Mirosevic advierte que diálogo sobre seguridad con el Gobierno será \"en la medida que no presenten locuras\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOTNyRjk3dDBMbWFMem1DUTJENUdnbWx5ZGYxd3l3YWtyWVdzVmVWRnFDcHJCZ2RGcUNKTmN2RDYyUjJUeWFmNHdMc0llWnJNejhWcHZxNmR1cGl0TnF1bzhRUUFNdTFMTlFYck9aLWkzbFFxQ2dXOVpmSFl1QWpSZTNySG9QNWtQYlVOYzZjUy0zRjc3OF95WGRqTTNRaVZZaDZ2bnZnNHNtMG9uRUtKZjc5QzZmMHBsRTc4RzVsUGYwNjlN?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Mirosevic advierte que diálogo sobre seguridad con el Gobierno será \"en la medida que no presenten locuras\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-25T16:40:00+00:00"
+    },
     {
       "titulo": "Ministro de Justicia: \"No he pensado en renunciar\"",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/ministro-de-justicia-no-he-pensado-en-renunciar/2026-10-25/131727.html",
@@ -5612,28 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-21T12:12:26+00:00"
-    },
-    {
-      "titulo": "Gonzalo Arenas, el exdiputado que será el vocero de La Moneda - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTng5bDlSXzhFeWZ1dHhnalBuZFl4dkN1ZjRBWGJaWVVsRENJMktuR0RBUHRZdFBHbEJIX2RHd0J4WE9rQ2tiZXlWVGxUOHRYU3pWMmxKeW1lMmg2bks0ZE1JcGR2bDh6N3NSaUFlZkcxTEtCZ2w0UmhOUy16MHA1dVFXV1l2LXMySzBieGdEaGR6NGxWVXZtMXctY3J6V0ZKTmJB0gG3AUFVX3lxTE5VTE8xVG1QOV9CbV9uNkEzNVRqakJybV9hZ0JDYkJodURuX09kZXlYYmlJWUpDaHh0OE9LbDFhdTBDdUVEenpaczFJMkNNeDlhU0JKY1R6YTFSY00yeE04YkpTem4xblpUcjIzdVVuRUhsMXdJOE11MndmbmtoU1JZVXpQWGxyNEdXYWRWcG1QbWVEa2MyZXpNRFpXeDRCQzh2V1pDWDhYVjNWdXV0a1ZPUld0MXZIYw?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gonzalo Arenas, el exdiputado que será el vocero de La Moneda&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-21T12:11:35+00:00"
-    },
-    {
-      "titulo": "La ciberseguridad",
-      "link": "https://ladiscusion.cl/la-ciberseguridad-3/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Señor Director: Durante octubre siempre he visto como diversas campañas internas y externas hablando sobre la ciberseguridad. Y siempre mi duda más grande es: ¿qué quedará cuando termine el mes? Las empresas deberían poder responder quién lidera ante un ataque, cómo mantendrán su operación y cuándo probaron sus respaldos. Son preguntas que también corresponden a directorios [&#8230;]",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-21T12:04:42+00:00"
     }
   ]
 }
