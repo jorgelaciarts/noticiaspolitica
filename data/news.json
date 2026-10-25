@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-25T01:32:29.958069+00:00",
+  "actualizado": "2026-10-25T01:46:52.231166+00:00",
   "total": 500,
   "items": [
     {
@@ -227,6 +227,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-24T18:28:47+00:00"
+    },
+    {
+      "titulo": "\"Declaraciones injuriosas e inaceptables\": Presidente de la UDI cuestiona a Squella por ataque a Hernán Larraín - Universidad de Chile",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IYnBpa0ZYNU8yV0h3STVFRFh0N1VVc0pvSnMtdXJsdXdyakx2d1ZEX3hmYnVjR05VeFFFRnJvdXI2OHBuVzhCVg?oc=5",
+      "fuente": "Radio Universidad de Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Declaraciones injuriosas e inaceptables\": Presidente de la UDI cuestiona a Squella por ataque a Hernán Larraín&nbsp;&nbsp;Universidad de Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-24T18:19:29+00:00"
     },
     {
       "titulo": "\"Declaraciones injuriosas e inaceptables\": Presidente de la UDI cuestiona a Squella por ataque a Hernán Larraín - Universidad de Chile",
@@ -5613,17 +5624,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-20T23:36:48+00:00"
-    },
-    {
-      "titulo": "UDI golpea la mesa: Exige salida de ejecutivos y compensación con cargo a AFPs por desplome de Fondo E - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOa0Z4NU95MXhNWXpsZUZINWVvTWdnU01rVk9zOUZyTjRPOW5Wa0dPYktMbFVBSmMzeS1qUVZBNHh2ZldDWjBYYkFOZmh2VWIyTVp5cXlleVJyOUpqRktQdDNBMFJHUlNsNGFVQUlMeUZZOXpSVTg1NVFndGtDUFBCNlQ1NDlESDdKcUdEWml0eDB1M19WWUZuTU1uVnZBdjVlOUdIZEJCN3B2NW05UnZVcS1zX0s3YXlySENtZDUwbVJMT2NZdUpNWTVzTEhSQXRwVWxWMHVQZlQwcDdSWFFoSWJpREV1dXBUc0VkWkU1VVRuSHphTFRuSzNjWW9Wdw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "UDI golpea la mesa: Exige salida de ejecutivos y compensación con cargo a AFPs por desplome de Fondo E&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-20T23:35:12+00:00"
     }
   ]
 }
