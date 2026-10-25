@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-25T11:17:10.525713+00:00",
+  "actualizado": "2026-10-25T11:32:54.839994+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El gobierno de la desprotección",
+      "link": "https://laprensaaustral.cl/2026/10/25/el-gobierno-de-la-desproteccion/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Michelle Peutat Exseremi de Justicia &#160; El Ministerio de Justicia y Derechos Humanos tiene la misión de promover un sistema judicial mediante políticas públicas que garanticen el acceso a la justicia y protejan los derechos fundamentales. Sin embargo, esta semana hemos comprobado que para el Gobierno de José Antonio Kast este objetivo ha sido desplazado...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-25T11:30:32+00:00"
+    },
     {
       "titulo": "Benjamín Moreno (REP): “Si hay un sector que no puede venir a dar lecciones, es el que tenía a un subsecretario acusado de violación”",
       "link": "https://www.theclinic.cl/2026/10/25/benjamin-moreno-rep-si-hay-un-sector-que-no-puede-venir-a-dar-lecciones-es-el-que-tenia-a-un-subsecretario-acusado-de-violacion/",
@@ -5617,17 +5629,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-21T07:30:00+00:00"
-    },
-    {
-      "titulo": "La visita de Kast y las relaciones pendientes con Bolivia - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVo0TUVLUFhqSFRsRF94UW9YdW1rQ3NuTzFBUW9TazFDTE4wb0hZVC11bHIwZWVQSENFMEhrUWR5d3VFakNveEdjLUVJbGJpcEV5N0ZZTnZFN1NzaWthVEtPODJZeVVsNU9GeGpyLTg1RGRhMG5GQUNuSUZxMjhUbEFuVlRFTkpfVmpPd29ubw?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La visita de Kast y las relaciones pendientes con Bolivia&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-21T07:20:00+00:00"
     }
   ]
 }
