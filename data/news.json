@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-26T20:46:39.565416+00:00",
+  "actualizado": "2026-10-26T21:01:36.737534+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "San Carlos lanza la “DOM en línea” para más de 80 trámites",
+      "link": "https://ladiscusion.cl/san-carlos-lanza-la-dom-en-linea-para-mas-de-80-tramites/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Durante la mañana de este lunes, en el Patio de Luz de la Municipalidad de San Carlos, se realizó el lanzamiento de la Dirección de Obras Municipales en Línea (DOM en Línea), una nueva herramienta tecnológica que permitirá facilitar el acceso a trámites relacionados con obras y desarrollo urbano, fortaleciendo el proceso de transformación digital [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-26T20:49:42+00:00"
+    },
+    {
+      "titulo": "Diputados aprueban por unanimidad crear comisión investigadora por pérdidas de los fondos de pensiones y apuntan a fiscalización de las AFP",
+      "link": "https://www.theclinic.cl/2026/10/26/diputados-aprueban-por-unanimidad-crear-comision-investigadora-por-perdidas-de-los-fondos-de-pensiones-y-apuntan-a-fiscalizacion-de-las-afp/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La solicitud busca revisar la actuación de los ministerios del Trabajo y Hacienda y otros organismos públicos frente al desempeño de las AFP entre 2018 y 2026 con especial atención en el comportamiento de los fondos más conservadores. La Comisión Especial Investigadora tendrá un plazo máximo de 60 días para entregar su informe.\nThe post Diputados aprueban por unanimidad crear comisión investigador",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-26T20:48:59+00:00"
+    },
     {
       "titulo": "Tras la derrota de su aliado Bolsonaro: la relación que Kast ha construido con Lula pese a la distancia ideológica",
       "link": "https://www.theclinic.cl/2026/10/26/tras-la-derrota-de-su-aliado-bolsonaro-la-relacion-que-kast-ha-construido-con-lula-pese-a-la-distancia-ideologica/",
@@ -5629,30 +5651,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-22T16:49:48+00:00"
-    },
-    {
-      "titulo": "Entre La Moneda y el mundo privado: el dispar destino de las autoridades removidas por Kast",
-      "link": "https://www.theclinic.cl/2026/10/22/entre-la-moneda-y-el-mundo-privado-el-dispar-destino-de-las-autoridades-removidas-por-kast/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El reciente ajuste en el diseño de las comunicaciones del Ejecutivo implicó la salida del José Francisco Lagos de la Segegog, quien de todos modos continuará colaborando estrechamente con Kast. El mandatario ha optado por mantener dentro del Gobierno a buena parte de las figuras a quienes les pidió la renuncia en estos siete meses de gestión.\nThe post Entre La Moneda y el mundo privado: el dispar ",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-22T16:49:24+00:00"
-    },
-    {
-      "titulo": "“Tome su teléfono y llame al Presidente”: El round twittero entre Emilia Schneider y Arturo Squella por la reducción de penas a abusadores sexuales",
-      "link": "https://www.theclinic.cl/2026/10/22/tome-su-telefono-y-llame-al-presidente-el-round-twittero-entre-emilia-schneider-y-arturo-squella-por-la-reduccion-de-penas-a-abusadores-sexuales/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Los decretos firmados por el Ministerio de Justicia que derivaron en la reducción de penas a condenados por abuso sexual y violación encendieron un debate en redes sociales entre el senador y presidente del Partido Republicano y la diputada frenteamplista. Squella anunció un proyecto de ley para excluir a condenados por delitos sexuales de reducción de condenas, y Schneider le recriminó que pudo h",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-22T16:41:43+00:00"
     }
   ]
 }
