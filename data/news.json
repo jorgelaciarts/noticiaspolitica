@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-26T21:31:25.351549+00:00",
+  "actualizado": "2026-10-26T21:46:21.298543+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Exescolta de Boric y Bachelet asumirá la Prefectura de Carabineros de Viña del Mar - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUmRKLWhUc1FDVDAxbGpSSk5sQ24walI1eGRJdzJvVDJadHVTMWFMNFVJcWFWSV9DWDJHMlFFMW1iWWloelZidnRCRUh1X0swS1RkOWJfd2ZHNDE2ZkVvN3ZGb2NXeWtGSk9ydjZjWWt5THN5aHh4Nzd4THJpTTBLSFBvTlBWR1FSdWRjSW93N2pOTk9yZ1RLZElMWUd6UVFUTDJOX3B2cUhrZm52U2I0aURqcw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Exescolta de Boric y Bachelet asumirá la Prefectura de Carabineros de Viña del Mar&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-26T21:30:58+00:00"
+    },
     {
       "titulo": "Tras respaldo a ministro Rabat: Senadora Gatica abandona del comité político ampliado en La Moneda - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQlhqVVB2Q05CQVl6M1E4eTR6ZVI4dThrU1BOenYzb2FKWjJ3T1BLY2hOZ0JwY0o3a2I2TVhsbTZtQUo2dWQyZnlJcFV1aFdmRmhRc0VxMEJRS1hpZkFteWc5dkxob1ZKYTRndWhuVWdmQjJjdmNQYVpWVHd0TDF1VkhpMkhVdnJpNlNVcGNEUXhHdXgtT09VMm43MUVXUFY4SEo2bGhBR2pJZWk5SWFFSlpBd0J2VXBnUjlTdUp6Rm1TQWY4?oc=5",
@@ -24,6 +35,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-26T21:19:50+00:00"
+    },
+    {
+      "titulo": "Cámara aprobó comisión investigadora sobre caídas de fondos y pérdidas millonarias de las AFP",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/camara-aprobo-comision-investigadora-sobre-caidas-de-fondos-y-perdidas/2026-10-26/180805.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Cámara de Diputadas y Diputados aprobó crear una comisión especial investigadora sobre la caída de los fondos D y E y las millonarias pérdidas que registraron las AFP entre enero y septiembre de este año.\nLa instancia reunirá antecedentes sobre la fiscalización de las AFP y el ejercicio de sus funciones entre 2018 y 2026.\n\nLa sala de la Cámara aprobó crear una comisión investigadora sobre las p",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-26T21:08:05+00:00"
     },
     {
       "titulo": "Freddy Ramírez, alcalde de Concón: \"Es imposible decir que Enap es un buen vecino\" - BioBioChile",
@@ -194,6 +216,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-26T18:10:14+00:00"
+    },
+    {
+      "titulo": "Kast califica de “error” la rebaja de la pena a 56 pederastas, pero mantiene a Rabat - EL PAÍS",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWjg3MXpSTTBTSzdBLWowaUlZYkpiTTNKbmYzV0wwbGZ3V3BTZ3NaSjZmRC1VRVU0ZHhzcmh0b25XamRmSG5tRFFsbmxtdmdnNXJ6MURIQ202bVhqYjY3WkE3NlNjbWhpcUNxXzZHa01OLUVJdHRnaHdvM1ZESmJnclZ3VDdFSV9RbmhxNmJHakI0ZlZlYWc5LTg0ZFR3R2g0b2dfMWZiSldkeDNPejJvY0hMWWhFRkczdXRkUlIwTQ?oc=5",
+      "fuente": "El País - Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast califica de “error” la rebaja de la pena a 56 pederastas, pero mantiene a Rabat&nbsp;&nbsp;EL PAÍS",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-26T18:03:08+00:00"
     },
     {
       "titulo": "Kast califica de “error” la rebaja de la pena a 56 pederastas, pero mantiene a Rabat - EL PAÍS",
@@ -5613,43 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-22T17:25:00+00:00"
-    },
-    {
-      "titulo": "\"Nos duele la discusión que se ha generado: Kast cuestiona sanción a Araya (PPD) por pactar con la derecha - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeXZPczMwd2NyV0N4c0x1dEZHV3dUSlhrb0lIZVNZX01PLWtRMEpFOThTdjhGeWtySWNkc0RkcS03bHJUU3lpMWUtWndDd0FaODNXMXV1WWhnVjYwNGU3TFhSY2N5U2d3M2JvYjlzRjlMZV9qa0hIZjRNUDMtZEs0Z01hNmJxbU1wQ3E2QzFWcU5aTmpub3ZEVGlqaEVRMmN1TE1vbTFR?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Nos duele la discusión que se ha generado: Kast cuestiona sanción a Araya (PPD) por pactar con la derecha&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-22T17:25:00+00:00"
-    },
-    {
-      "titulo": "Fondo E: Gobierno pide \"no tomar decisiones apresuradas\" y esperar a la Superintendencia",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/fondo-e-gobierno-pide-no-tomar-decisiones-apresuradas-y-esperar-a-la/2026-10-22/141310.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno pidió a los pensionados esperar las eventuales sanciones que defina la Superintendencia contra las AFP tras la caída del fondo E, en vez de \"tomar decisiones apresuradas\" sobre sus dineros.\nEl ente regulador dio a conocer el martes el inicio de un procedimiento sancionatorio contra las siete adminstradoras de fondos luego que el E -supuestamente el más conservador y seguro- se desploma",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-22T17:13:10+00:00"
-    },
-    {
-      "titulo": "Marco Enríquez-Ominami: “Si yo pongo una urna en Chile hoy, José Antonio Kast vuelve a ganar la elección”",
-      "link": "https://www.theclinic.cl/2026/10/22/marco-enriquez-ominami-si-yo-pongo-una-urna-en-chile-hoy-jose-antonio-kast-vuelve-a-ganar-la-eleccion/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Este jueves Marco Enríquez-Ominami presenta \"Espejo para príncipes\", un libro que escribió con Daniel Flores sobre comunicación política que será comentado por Daniel Mansuy, Patricio Navia y el excandidato presidencial peruano Roberto Sánchez. En conversación con The Clinic, el excandidato presidencial analiza las continuas derrotas de la izquierda, cuestiona a quienes no participaron de la elecc",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-22T17:07:00+00:00"
     }
   ]
 }
