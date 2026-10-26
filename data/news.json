@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-26T12:31:44.945200+00:00",
+  "actualizado": "2026-10-26T12:46:35.777868+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Municipios de Ñuble exigen frenar recorte a programas de atención primaria",
+      "link": "https://ladiscusion.cl/municipios-de-nuble-exigen-frenar-recorte-a-programas-de-atencion-primaria/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Los Departamentos de Salud Municipal de la región de Ñuble enfrentan un escenario financiero crítico de cara a la discusión del Presupuesto 2027. Ante esto, veinte de los 21 alcaldes de la región firmaron una solicitud dirigida al Gobierno y al presidente de la Comisión de Salud de la Cámara de Diputados, Eduardo Durán, para [&#8230;]",
+      "categorias": [
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-26T12:38:02+00:00"
+    },
     {
       "titulo": "Apuntado por diversos sectores, el cuestionado Rabat llegó a La Moneda",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/apuntado-por-diversos-sectores-el-cuestionado-rabat-llego-a-la-moneda/2026-10-26/092749.html",
@@ -89,6 +101,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-26T11:56:39+00:00"
+    },
+    {
+      "titulo": "Bolsonaro no reconoce derrota y pedirá anulación por prórroga de votación",
+      "link": "https://www.lanacion.cl/bolsonaro-no-reconoce-derrota-y-pedira-anulacion-por-prorroga-de-votacion/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El candidato ultraderechista a la presidencia de Brasil, Flávio Bolsonaro, anunció que no reconocerá los resultados de la segunda vuelta de las elecciones celebradas este domingo. Y que pedirá la anulación de los comicios, tras la polémica prórroga del horario de votación. En una declaración pública, tras confirmarse la victoria de Lula con el 51,79% [&#8230;]\nThe post Bolsonaro no reconoce derrot",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-26T11:53:00+00:00"
     },
     {
       "titulo": "Cadem: aprobación de Kast baja del 30% por primera  vez y 92% rechaza rebajas a condenados por abusos",
@@ -5626,28 +5649,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-21T19:03:09+00:00"
-    },
-    {
-      "titulo": "RN fija “encuentro nacional” con autoridades para poner la experiencia del partido “al servicio de una mejor gestión” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdkhOZE5EM3J3NU5NMlIwcGZDTDdSNzk3WFRUVjA2ZUh2aGxSbS1Xc3MwWlpZR19IcVZaX2x4MkdIal9HcjdYUjE4OExoSHJGQ09ORVZiRUViYkZHU19IQnFMb3l2Z0h1N3lmeUZsWGs5WWRJeGM3VVdZT0NlanVFZFM0UEZKT3Q4YnJDUS1rQWc2N0tqekdObWlMdFBNOXJ4X3dpcGpGQy1UZmptVzQxZW1Cc2k4X2dTQ1l0THhXLWdmaTFEUkVwQzAwS1p1aHFOeWQ4dDRmUFlUVlcyRmdPaGtDYlVYa2haVUs3RFh30gGPAkFVX3lxTE1FNHVmQ2RMcXpoVUFNdm5EVkEzcXljM1IzSWp2RHN2TzFYU29WTmFEZUNYSlRwbHV2T0pYeVBWTkJBNGkwYkRGSlVIZ0o4cEtHNmVOVW1MN2Z2b1Z5eTRFNDVzbVBSWng0RW1CUXRsbW01b2Y3dm5PenpINDRISklOczk5d2IyUmYwMjNsSmlFZDZqdFNtVnpXYkF6Vm5Bbjk2TEc0QUpmc1d3NmdQOUJpVV9jM0NKV3ZIS3NfVHdacW9GU2FXZkRVOHhtakx2eER1Vl95aGRzejhJZkxZc1o2WkwtNC1NSXRhVS1EMXBRb0U2dUxwbjZSZlBkLWdLeVRUYmRobE56RERDVWhZLWc?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "RN fija “encuentro nacional” con autoridades para poner la experiencia del partido “al servicio de una mejor gestión”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-21T19:03:09+00:00"
-    },
-    {
-      "titulo": "Dos carabineros infiltrados, una causa cerrada y preguntas sin responder: diputada Pizarro exige esclarecer incendio de la USS durante la revuelta popular",
-      "link": "https://www.elciudadano.com/justicia/dos-carabineros-infiltrados-una-causa-cerrada-y-preguntas-sin-responder-diputada-pizarro-exige-esclarecer-incendio-de-la-uss-durante-la-revuelta-popular/10/21/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa parlamentaria pidió al Ministerio de Seguridad Pública que informe si  mantiene la negativa de levantar el secreto respecto a los antecedentes de la Dipolcar relativos a la actuación de los dos carabineros implicados en el incendio y , cuestionó el por qué la declaración del entonces director de seguridad de la USS Jorge Barraza, ante la PDI no consta en la carpeta investigativa.\nL",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-21T19:01:55+00:00"
     }
   ]
 }
