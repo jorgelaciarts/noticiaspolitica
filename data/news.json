@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-27T11:16:25.869931+00:00",
+  "actualizado": "2026-10-27T11:31:40.882184+00:00",
   "total": 500,
   "items": [
     {
@@ -45,6 +45,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-27T11:06:45+00:00"
+    },
+    {
+      "titulo": "Vocero de Gobierno: Una AC contra Rabat no procedería, pero hubo errores humanos y políticos graves",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/vocero-de-gobierno-una-ac-contra-rabat-no-procederia-pero-hubo-errores/2026-10-27/073429.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En entrevista con El Diario de Cooperativa, el nuevo subsecretario de la Secretaría General de Gobierno, Gonzalo Arenas, abordó este martes la eventual presentación de una acusación constitucional (AC) contra el ministro de Justicia y Derechos Humanos, Fernando Rabat, por la rebaja de condenas a personas sentenciadas por delitos sexuales contra menores de edad.\nEl vocero de La Moneda afirmó que, a",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-27T10:34:29+00:00"
     },
     {
       "titulo": "Vocero de Gobierno: Una acusación constitucional contra Rabat \"no procedería\"",
@@ -5625,18 +5636,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-23T00:58:09+00:00"
-    },
-    {
-      "titulo": "La Senadora Paulina Núñez (RN) nos visita en La Caja Política - Timeline.cl",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb1dzQlcyeFlYUTFFVVp1OWZ0TG5pN2J6NS1mSlRnZjdQc2FPZFZkUDJWeUdQM3NVTmNyTUV3TDRjN2Z6aTJ4VmJPVmNNUy0yYUl5R0t1MnF4cjJWZWdlZ2NaMmlMNHFULWFoVGEzUzdwa2RzQU92UGhnUDJZTV9GN0U5c2xEdmNJRDltSA?oc=5",
-      "fuente": "Timeline.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La Senadora Paulina Núñez (RN) nos visita en La Caja Política&nbsp;&nbsp;Timeline.cl",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-23T00:36:07+00:00"
     }
   ]
 }
