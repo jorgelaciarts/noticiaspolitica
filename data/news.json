@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-10-27T17:01:31.407978+00:00",
+  "actualizado": "2026-10-27T17:16:33.694133+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Brasil cancela los pasaportes de Flávio Bolsonaro y se desconoce su paradero",
+      "link": "https://www.lanacion.cl/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-y-se-desconoce-su-paradero/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Las autoridades brasileñas cancelaron los pasaportes de Flávio Bolsonaro luego de que el senador no cumpliera una orden judicial para entregar sus documentos. La medida se adoptó tras su derrota electoral frente a Luiz Inácio Lula da Silva, mientras la Policía investiga si abandonó el país rumbo a Argentina. Una fuente policial brasileña confirmó este [&#8230;]\nThe post Brasil cancela los pasaport",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-27T17:07:52+00:00"
+    },
+    {
+      "titulo": "Presupuesto 2027: Gobierno no contempla aportar recursos al FAPP que paga beneficios adicionales de la reforma previsional y pide reinterpretación a Contraloría",
+      "link": "https://www.theclinic.cl/2026/10/27/presupuesto-2027-gobierno-no-contempla-aportar-recursos-al-fapp-que-paga-beneficios-adicionales-de-la-reforma-previsional-y-pide-reinterpretacion-a-contraloria/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "“Estamos en una consulta con la Contraloría para determinar efectivamente cuál es el año (de realizar el aporte). Hay dos interpretaciones efectivamente, una sería en 2027 y otra 2028”, indicó el subdirector de Presupuestos, Claudio Martínez, en la primera subcomisión ante una consulta de una senadora.\nThe post Presupuesto 2027: Gobierno no contempla aportar recursos al FAPP que paga beneficios ad",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-27T17:02:22+00:00"
+    },
     {
       "titulo": "Oposición presiona para presentar AC contra Rabat sin los votos asegurados, pero DC pide reunir más antecedentes",
       "link": "https://www.theclinic.cl/2026/10/27/oposicion-presiona-para-presentar-ac-contra-rabat-sin-los-votos-asegurados-pero-dc-pide-reunir-mas-antecedentes/",
@@ -623,6 +645,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-27T11:06:45+00:00"
+    },
+    {
+      "titulo": "Alcaldesa de Quilpué acusa trabas para aprobar recursos destinados a 406 funcionarios - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1YxRDJUT1FnemcxRTNIa3ZjNGQ1eHlnVGp5dUZBZjJpN3YxWHZqSnRqMmNEeHk3REdKWi03ZHlqOWwycFNUQWNRWDctOHZmLXZyZDNtS1ZCeUVtOEJkZTZoRXBQNW90TUxzN2UybmJmMEJzVU5Sd0RNVkhKSzR0Zm5EN1ltUXFuSUlScGZFYVViT2F4cmpyYVRQV1FDTGNHVUIzaURzcmtILVgyVXF1Uw?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Alcaldesa de Quilpué acusa trabas para aprobar recursos destinados a 406 funcionarios&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-27T11:00:58+00:00"
     },
     {
       "titulo": "Vocero de Gobierno: Una AC contra Rabat no procedería, pero hubo errores humanos y políticos graves",
@@ -5608,40 +5641,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-23T15:11:08+00:00"
-    },
-    {
-      "titulo": "Alianza contra los cárteles de Trump: el llamado de la UDI y Republicanos al Presidente Kast para que Chile se sume - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMDM1bWdVWXA2TU1wdUdLNVhSdGNsM1c2a1ZyM2pPSzNGb2dKZTQzSGxGN2JBTXM5SGNaaXloZXFYQTB4N2lwWDJhcW5rQ05SbUVUV25TOVo0MHJZUTJfRWFWN3lGTG1UNlJBMDNwdkQ4a1FKTnpkVXh2TWlyWDNYQl9Da0ZfOTNOWlR5TkVuN0pSQ3FsblRPYVZMV3BXaHhxeFFyLVhickFEb0p5SFA1MExSQnFBZGIwMWNTSjZqaE5aVjBpcnJDdERIaWF5SVRNSlREaThyN0tZRnBJV0toenBoSDDSAfgBQVVfeXFMUFA5YzJzSmRsVG12LU5oVy1DTjlfS1h5VVVURFlHOGVfcEtvMF9LQXF5VFpqMl9mcXNDYzdKTTE2eFZmeGNkQ0t4Z2FhZU9kSlhxN2trRG5kcnExamFMS1gzaGNlN1EwU19FMXpMVFc4eVVPTzlWRGI0NXVBNEtTbGFxb3YzODBxLXAzWE9TT1VuOFROQjUxWFJvTlJxNjJqOXRCd0lOeTVSZkR4Tm5GSGFSc0kzbGV0bThQWXlmSWlaZXZnUEhFcGFacUI0RnBFazlSSmludXlnLTBHY1lMcTZIdVNsUjIyby1NU1d1MU01Mjc5WUpUYjk?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alianza contra los cárteles de Trump: el llamado de la UDI y Republicanos al Presidente Kast para que Chile se sume&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-23T15:03:38+00:00"
-    },
-    {
-      "titulo": "PC refuerza el “trabajo de masas” y se declara en “resistencia estratégica” contra gobierno de Kast - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FcFlpT05ZbzgySm9IYTFrRmlfTGowTmgzT05QU1BoMHAtdHRFQzVZbUNlTTEzX3dCQnNzdDlvdzFfc2hrekRnQmVsT2YtRV9lWXhHcU1peUIwX3VRNHd5SjRST0NXLVpXWm1IZ2xWSUZVc3lHb2RHNA?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "PC refuerza el “trabajo de masas” y se declara en “resistencia estratégica” contra gobierno de Kast&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-23T14:59:12+00:00"
-    },
-    {
-      "titulo": "Kast aborda con partidos oficialistas polémica por rebajas de condenas y timoneles cierran filas con Rabat - Emol",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVlTNnFpRk1TMndLRUVrbVJITzRmTm9SUlpmejNZcEx6ZVl4Z0I3alVnRmdTY3dhUXBhdnNDT0h5a2VzY0NFbnVVSXltTzhPRU1NSUN2clo3Z1cyV3FuZnUzdTIyZEpIMjEtQlQ2RW1BOUg1NmpwTHhETXBVZHltb1pvNlRJdGstYXFEQ01XVjhPNUEzbmhmYVZFdU8yM1k?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast aborda con partidos oficialistas polémica por rebajas de condenas y timoneles cierran filas con Rabat&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-23T14:49:48+00:00"
     }
   ]
 }
