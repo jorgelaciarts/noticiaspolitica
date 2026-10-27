@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-27T17:16:33.694133+00:00",
+  "actualizado": "2026-10-27T17:31:45.446266+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "SMA formuló cargos contra ENAP por manipular datos de emisiones",
+      "link": "https://www.cooperativa.cl/noticias/pais/medioambiente/contaminacion/sma-formulo-cargos-contra-enap-por-manipular-datos-de-emisiones/2026-10-27/141037.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Superintendencia del Medio Ambiente (SMA) abrió un proceso sancionatorio contra la Empresa Nacional del Petróleo (ENAP), a la que imputó cuatro infracciones al Plan de Prevención y Descontaminación Atmosférica de Concón, Quintero y Puchuncaví, dos de las cuales fueron catalogadas como \"gravísimas\".\nEstas faltas de mayor gravedad apuntan a la ocultación, alteración e imprecisión de antecedentes ",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-27T17:10:37+00:00"
+    },
     {
       "titulo": "Brasil cancela los pasaportes de Flávio Bolsonaro y se desconoce su paradero",
       "link": "https://www.lanacion.cl/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-y-se-desconoce-su-paradero/",
@@ -12,6 +24,18 @@
         "Senadores"
       ],
       "fecha": "2026-10-27T17:07:52+00:00"
+    },
+    {
+      "titulo": "Diputados UDI exigen la salida del ministro Rabat por \"error garrafal\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/diputados-udi-exigen-la-salida-del-ministro-rabat-por-error-garrafal/2026-10-27/140222.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los diputados de la Unión Demócrata Independiente (UDI) Omar Sabat y Marlene Pérez se sumaron a las presiones para que el ministro de Justicia, Fernando Rabat, deje su cargo, en medio de la controversia por las rebajas de condenas a personas sentenciadas por delitos sexuales.\n\"Creo que el ministro Rabat tiene que dar un paso al costado, porque esto está perjudicando al Gobierno en general y nosotr",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-27T17:02:22+00:00"
     },
     {
       "titulo": "Presupuesto 2027: Gobierno no contempla aportar recursos al FAPP que paga beneficios adicionales de la reforma previsional y pide reinterpretación a Contraloría",
@@ -58,6 +82,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-27T16:47:58+00:00"
+    },
+    {
+      "titulo": "Antofagasta suma nuevos buses eléctricos para la línea 114",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/antofagasta-suma-nuevos-buses-electricos-para-la-linea-114/2026-10-27/133653.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Siete nuevos buses eléctricos se incorporaron formalmente al transporte público de Antofagasta para renovar parte de la flota de la línea 114 del TransAntofagasta, gracias a una iniciativa financiada con recursos del Gobierno Regional y aprobada por el Consejo Regional (CORE).\nLa adquisición fue posible mediante el programa \"Renueva Tu Micro 2025\", permitiendo que el GORE destinara más de 924 mill",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-10-27T16:36:53+00:00"
     },
     {
       "titulo": "Crisis de Rabat enreda tarea autoasumida de la UDI de ser el partido más leal del oficialismo - La Tercera",
@@ -490,6 +525,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-27T12:29:05+00:00"
+    },
+    {
+      "titulo": "Condenado por torturas agradece a Kast rebaja de pena y niega crímenes por los que fue sentenciado - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZFV6cnB6THp4RF91ZXdJdExuSW9vMmFWWFFieUVzc01yd2JuZnJobC1hS2RSZXFKemt2V2pIby1UUlhqdkNDeUNXNmY1VHJlbThaQXBpczMyTlJ1eExNRHBHRDBVU1dNZkxwRG5VUHplN003UVpWR3lOMjF6QlY4cnRWT2MzZzBWY3ZHeWctSmJncTB2QkN0VC15a2wtTWV3UHZjdy1SVEdlaTVVTGQ0dHB4RjF3RVpxYlZxOUVKdjAyXzFSX0JyMWxiNmxNWkVHMUxlMnd1WkM4cHlVZVlFNFZlSGo3QQ?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Condenado por torturas agradece a Kast rebaja de pena y niega crímenes por los que fue sentenciado&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-27T12:26:48+00:00"
     },
     {
       "titulo": "“Es un error político brutal”: Ximena Ossandón reconoce “impericia” por polémica que golpea a Rabat - Radio Agricultura",
@@ -5594,53 +5640,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-23T15:26:12+00:00"
-    },
-    {
-      "titulo": "San Carlos invertirá $187 millones en reposición y mejoramiento de veredas del centro de la ciudad",
-      "link": "https://ladiscusion.cl/san-carlos-invertira-187-millones-en-reposicion-y-mejoramiento-de-veredas-del-centro-de-la-ciudad/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La Municipalidad de San Carlos comenzará en los próximos días los trabajos de reposición y mejoramiento de veredas en distintos sectores del centro de la ciudad, una intervención que busca recuperar pavimentos deteriorados y entregar mejores condiciones de desplazamiento y seguridad a peatones, especialmente a las personas mayores y a quienes presentan dificultades de movilidad. [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-23T15:16:43+00:00"
-    },
-    {
-      "titulo": "En reunión con el Gobierno: presidentes de partido piden a Kast sumarse a Coalición contra los Carteles de Trump",
-      "link": "https://www.theclinic.cl/2026/10/23/en-reunion-con-el-gobierno-presidentes-de-partido-piden-a-kast-sumarse-a-coalicion-contra-los-carteles-de-trump/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Tras conocerse que La Moneda consideraba restarse el grupo que funcionará bajo el alero del Escudo de las Américas, los timoneles del oficialismo plantearon sus aprensiones a la decisión del Ejecutivo. \"No tiene sentido rechazar una iniciativa que, si Chile se suma, serían 19 países que combaten el crimen organizado\", aseguró el líder de la UDI, Guillermo Ramírez. \nThe post En reunión con el Gobie",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-23T15:16:30+00:00"
-    },
-    {
-      "titulo": "Senador de EEUU pide destitución de altos funcionarios de Trump - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeGRRRWFZNUwxTDlHWXBGaWk5aW1QaUxYOFlsN0hqYTZoLVZ6RWFza3F0em1NMXFXU25jbUhpS0hPUFFBTUJwWklkc0dzZDJGa1JBRHpBR2pwR0hjM29qeDJTUDEzN25vYVNmclhiX1VpQWI4Y0tDaWluT2o3dURrWVVwdHVONUhVWWt2eFlDWi1BbW5r?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador de EEUU pide destitución de altos funcionarios de Trump&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-23T15:14:09+00:00"
-    },
-    {
-      "titulo": "Concejales acusan revés de la Fiscalía en caso por fraude al Fisco contra alcalde de Chillán - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTmM0MENFaGlHVzg2TWtka3dQLXlwaVdYMWI5RFpFQmJNVm4wNEx5cTFoUG9UTHVIZU9WaGUtUkNYZ3VFblI4QkllWVFMOGV0Z2RJT0xHMzN6QVhwRnZpVk43N0N4MDdVdXZBNWN5dzZDMUhmNTVyNmNmMHZHZDdaNE5NZVZwc2poUTM0OXNPWWZDM3FCQUliaHZ6em9RTlNvSzEwMC1YU1BuZDJxR3lTMVRHLV9GdXZVdW40SlpNN0dNS3BQUGFQUklrTlpCYTBnbHp5SjRYc1JUMlM4eGtwdXB4N1BoSDR6bzZMYV8wZ2JhVWtOaE1xVkxxWDNBcWc?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Concejales acusan revés de la Fiscalía en caso por fraude al Fisco contra alcalde de Chillán&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Concejales",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-23T15:11:08+00:00"
     }
   ]
 }
