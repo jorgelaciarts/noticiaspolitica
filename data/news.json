@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T14:31:36.258700+00:00",
+  "actualizado": "2026-10-28T14:46:49.457101+00:00",
   "total": 500,
   "items": [
     {
@@ -163,6 +163,17 @@
       "fecha": "2026-10-28T13:15:21+00:00"
     },
     {
+      "titulo": "Gobierno de Chile expresa condolencias por choque de trenes en España: cifra de fallecidos aumenta a 64 - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObk1fUF9Xd3FVYkNVM1Y4bDl3Sm5YUjR2bHFsTXptTkdobC1ZeFFFajFjam96X3RvbFhjcUx3MmpOVGd0ZE9rcm8yU0x1d1YtbzVfMFFGZjl2TVNFV2U3U0V3YlAyMGJ5Q0h2aWJIZ1JKcGUwUUk5NTN2OWVNYkpTTEQtR2pNZ0RxWmJPTkhJUUF4X2xuTHJYM05wMlg0bUVmVEtyVW0xd29VSEpBbGdNUGNSR3hmMkJURFNKVFJNQVpaaG9sWlE0Y3V1Sl9zLS1fVVZWMjJjUFp1cjlqU1dBc3BiMFA4Ri13WnBuRFNZT2NTdHpsMDZTRWl0bw?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno de Chile expresa condolencias por choque de trenes en España: cifra de fallecidos aumenta a 64&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-28T13:08:41+00:00"
+    },
+    {
       "titulo": "Quiroz fijó meta de crecimiento de 4%: \"No tengo miedo a equivocarme por ambicioso\"",
       "link": "https://www.cooperativa.cl/noticias/economia/crecimiento/quiroz-fijo-meta-de-crecimiento-de-4-no-tengo-miedo-a-equivocarme-por/2026-10-28/100008.html",
       "fuente": "Cooperativa - País",
@@ -296,6 +307,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-28T11:58:00+00:00"
+    },
+    {
+      "titulo": "Municipalidad de Peñalolén clausuró sede de la ANFP por irregularidades",
+      "link": "https://www.lanacion.cl/municipalidad-de-penalolen-clausuro-sede-de-la-anfp-por-irregularidades/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "Un nuevo y tremendo problema enfrenta la ANFP. Es que el edificio del organismo de Quilín fue clausurado por una millonaria deuda con el municipio de Peñalolén. Para seguir leyendo esta nota haz clic aquí, en el sitio web de Triunfo.\nThe post Municipalidad de Peñalolén clausuró sede de la ANFP por irregularidades appeared first on La Nación.",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-28T11:46:00+00:00"
     },
     {
       "titulo": "La «mano dura» de Kast contra el crimen organizado: Rabat esquiva preguntas por rebajas a condenados que invocaban al Tren de Aragua",
@@ -5616,28 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-24T18:33:00+00:00"
-    },
-    {
-      "titulo": "De \"premios de consuelo\" a repaso por \"austeridad\": Segundo piso crea nuevo flanco en gobierno de Kast - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNR1dSMXhqeFdrOV9FRXpRRW51YmN4MWptbHljZUxaMmxmMHdtNWhHNlNsVGhLM01PN1ZMZWIxZ2V3SXJQeVV4VmNKNE9uOHFhR0pkRExLUnd5S25iWmpVYURLSUo3dmVrNF9xUkl2ZUo2d1N6V3hEQXRCZlJsTXZ2ZWE4T0ZBQlFfWE10OUtsR2ttQ0h1d0ZPOWx0RXpWVFlScEU2VlA1MVd6SFVjcFAybW9IbmdnVGZjZTlnTFBweWlQb3FVOFFzbHh5ZXlfZGVyS3Z0aERXWGdUeVNKWUh1X09KWDdlQUR6endMTFUyT2FVYUtjaC1fdw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "De \"premios de consuelo\" a repaso por \"austeridad\": Segundo piso crea nuevo flanco en gobierno de Kast&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-24T18:32:04+00:00"
-    },
-    {
-      "titulo": "“Viejo lindo, y espero de todo corazón que Lula gane”: Expresidente Boric expresa su apoyo a Lula antes del balotaje en Brasil",
-      "link": "https://cambio21.cl/pais/viejo-lindo-y-espero-de-todo-corazon-que-lula-gane-expresidente-boric-expresa-su-apoyo-a-lula-antes-del-balotaje-en-brasil-6adcf82aceecdf1f2e583103",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-24T18:28:47+00:00"
     }
   ]
 }
