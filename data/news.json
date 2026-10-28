@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-28T12:31:28.911599+00:00",
+  "actualizado": "2026-10-28T12:46:40.174955+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Arpillera de Violeta Parra se despide de Chillán este jueves",
+      "link": "https://ladiscusion.cl/arpillera-de-violeta-parra-se-despide-de-chillan-este-jueves/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Este jueves 29 de octubre llegará a su fin la exposición temporal “Un viaje de Violeta a Chillán”, que durante las últimas semanas permitió al público conocer la arpillera “La Brujita”, perteneciente al Museo Violeta Parra. La muestra, organizada junto al Museo Claudio Arrau León y la Unidad de Patrimonio de la Municipalidad de Chillán, [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-28T12:45:46+00:00"
+    },
     {
       "titulo": "(VIDEO) Las Condes se arrepiente: las promesas de Kast no resistieron la lluvia",
       "link": "https://www.elciudadano.com/reels/video-las-condes-se-arrepiente-las-promesas-de-kast-no-resistieron-la-lluvia/10/28/",
@@ -12,6 +23,18 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T12:30:07+00:00"
+    },
+    {
+      "titulo": "Kast designó al general Máximo Venegas como nuevo jefe del Estado Mayor Conjunto",
+      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/kast-designo-al-general-maximo-venegas-como-nuevo-jefe-del-estado-mayor/2026-10-28/092531.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast designó al general de Aviación Máximo Venegas Raggio como nuevo jefe del Estado Mayor Conjunto (EMCO), cargo que ejercerá durante los próximos dos años.\nLa autoridad, de 59 años, reemplazará al general Leonardo Romanini, quien asumió como nuevo comandante en jefe de la Fuerza Aérea de Chile (FACh).\n\n\n\n\n\n\n\n\n\n\n\n\nVer esta publicación en Instagram\n\nUna publicación compa",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-28T12:25:31+00:00"
     },
     {
       "titulo": "El primero del oficialismo: diputado Teao votaría a favor de una Acusación Constitucional contra Rabat - Universidad de Chile",
@@ -5618,29 +5641,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-24T15:51:41+00:00"
-    },
-    {
-      "titulo": "Presidente de la UDI critica a Squella por dichos sobre exministro Larraín: “Esas declaraciones nos parecen injuriosas e inaceptables” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZk5fSlJsVVotNlhhOEk2WU5hTmVYRnhLTi12RGJJUC1DNGtEbWVHSU5hV1V0Uk9OQU1kTTFLaFc3Tlp3bHZUdG5mMEk3T3RwMnpzT1pBTEJybzhMaWZQY29OWE9tMXF0YXpoRFVxcGVmRUEwMjFYMkVDbmRGcTUtd0x0ZFZmcVhQeGdUemp1X0RCTkh1clR2RUp4YlJxSTUtaDZzeTVBVHQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente de la UDI critica a Squella por dichos sobre exministro Larraín: “Esas declaraciones nos parecen injuriosas e inaceptables”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-24T15:40:48+00:00"
-    },
-    {
-      "titulo": "Premios Nacionales critican reforma de Kast al INDH: \"Pone en peligro condiciones básicas de su operación\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/premios-nacionales-critican-reforma-de-kast-al-indh-pone-en-peligro/2026-10-24/123950.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Veintidós Premios Nacionales firmaron una declaración pública expresando su preocupación por el proyecto de reforma del Instituto Nacional de Derechos Humanos (INDH) del Gobierno, texto que -aseguran- \"propone cambios que ponen en peligro condiciones básicas para su operación de acuerdo a los estándares internacionales\".\n\n[Lea también] La propuesta de Kast para \"modernizar\" el INDH: Quitarle atrib",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-24T15:39:50+00:00"
     }
   ]
 }
