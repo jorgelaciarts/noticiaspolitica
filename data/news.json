@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T08:01:42.330707+00:00",
+  "actualizado": "2026-10-28T08:16:41.161179+00:00",
   "total": 500,
   "items": [
     {
@@ -1957,6 +1957,17 @@
         "Senadores"
       ],
       "fecha": "2026-10-26T23:10:20+00:00"
+    },
+    {
+      "titulo": "Camila Flores denuncia fiscales - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjVjZXJLMXMzV3BjV0txcFItelFDR0xVTGRDVW1KbzNPQnd4ejdVN29RTi03aFIzNVZZSFBZb0dnclZpaXd6TXRxSF9zejZYb2RIWWV4RW5QWHJuUEdDOElDalh4b3BDVExDV2NTWGVKejVRd1cxTTJZamY5dGF2QVdzaFRqaVBpSHU2ZW9uMXZheFltbHZVSA?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Camila Flores denuncia fiscales - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-26T22:55:26+00:00"
     },
     {
       "titulo": "Empieza x Acá: Lula remonta en Brasil y Kast cae al 29%: dos señales para la política chilena - El Mostrador",
@@ -5631,17 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-24T12:28:32+00:00"
-    },
-    {
-      "titulo": "Diputado republicano: \"Es importante sostener al ministro Rabat\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/diputado-republicano-es-importante-sostener-al-ministro-rabat/2026-10-24/091026.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Más información en instantes...",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-24T12:10:26+00:00"
     }
   ]
 }
