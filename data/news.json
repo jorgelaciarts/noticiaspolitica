@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-28T23:31:40.907682+00:00",
+  "actualizado": "2026-10-28T23:46:15.576324+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Minvu tapará hoyos y reparará calles en cinco comunas de la RM",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/minvu-tapara-hoyos-y-reparara-calles-en-cinco-comunas-de-la-rm/2026-10-28/203240.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Ministerio de Vivienda (Minvu) anunció el plan \"Chao Baches\", que destina mil millones de pesos para reparar más de 10 mil metros cuadrados de pavimento en cinco comunas de la Región Metropolitana. \nLa iniciativa se implementará en Quinta Normal, Independencia, San Miguel, Estación Central y San Joaquín por el plazo de dos meses, que podría extenderse por las condiciones climáticas.\nEl plan fue",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-28T23:32:40+00:00"
+    },
     {
       "titulo": "Rebaja de condenas: Oposición anuncia primera acusación constitucional contra un ministro de Kast - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyMlFMcHZfRWlNS0Q5dUh6MTkyd3Z1V1lEQ1J6cy1FSE5INFY1a0YwalFWUFVNRU1uVHFKV0xCYWY0NFMzRkVHSDJqWGNQS3NjWE9Vay1vRXVMVUhnWG1pTl94Ymsya2JlS19TaUFFaEVTSDJtR0V1MGVsT1g?oc=5",
@@ -14,6 +25,17 @@
       "fecha": "2026-10-28T23:24:25+00:00"
     },
     {
+      "titulo": "Datavoz: Es arriesgada la apuesta de Kast a que la presión pasará cuando mejore la economía",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/datavoz-es-arriesgada-la-apuesta-de-kast-a-que-la-presion-pasara-cuando/2026-10-28/202316.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-28T23:23:16+00:00"
+    },
+    {
       "titulo": "Regantes de Ñuble se oponen a proyecto “Un comunero, un voto”",
       "link": "https://ladiscusion.cl/regantes-de-nuble-se-oponen-a-proyecto-un-comunero-un-voto/",
       "fuente": "La Discusión (Chillán)",
@@ -23,6 +45,29 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T23:11:44+00:00"
+    },
+    {
+      "titulo": "Cámara de Diputados aprueba pedir la renuncia al ministro de Justicia, Fernando Rabat - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWI4ekI5U1R4aFFGazE3R3had1I5c3hOOHMtU1lSdEtDU2Q1OFJTbUJxN1JnUjJxUTRTRkFqc3M0c0wzVzhHamhNRVVFM01YMlpHX1FxMXp6WGFaRGV2d2V0Z01mOHVkY1p0OWxSODRzbEU4WUdKNmNxR25LU1VmYnBlTlR6MXl1Q01iOFF0b3hTS2dObHpJYXBNM0RPS3lJZFZJRC1NUEVMcnFoNlI3REhuR0xqdUxLRGNib9IB0AFBVV95cUxPbzdkTGlQLTRja1UtSDdaM3B1SGhRZE1sYkZaRlZENHJfcTBJenMyczl5YXpuZTNEZE0xenJSbTBVZm5aelZBZDBwSU80eUJBeFEtUzU3b09mN2JGT1ZjNEpOV0Y2RTJyc2xGaEhDbFRlbDdPNEc2cXZCNnBGdDB3dENzVC0yd3RvZ3ZzVFdYYmhhVTlVOEJkTEttYmtDU0pFZjF5XzJuUW5jX0JSSld2aE5Mc3RqeHZNS2lZeUE4TnZMRTZwYVJybk1pTEtvbE1Z?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cámara de Diputados aprueba pedir la renuncia al ministro de Justicia, Fernando Rabat&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-28T23:08:30+00:00"
+    },
+    {
+      "titulo": "Jorge Alessandri (UDI) llama a evaluar acusación constitucional contra ministro Rabat: “Hay que pensar si esto ayuda en algo a las víctimas” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS3Zua2JPTnh5UG9JdWdzRFFXckwweGhNUWxVcFdjQXY0dnFteWM1MnpCdmxXS0hpYkhmUG5oT3dRMkhpNDNra1FaOWRrU3dxWGE1R0VfNmZMX3kxRjBrVnZBNHlRXzhMdE9jMWVIT1h2QWJoVEYtV1F0LWg3M09xMGZGSHQ4SUZKc0p0TkVPSW1kTHhhcnJfdVVlR19zX0VYamwzVFBpTnhiMXhIcEFTYjBPWnZWNTRYSldPY3BtR0VpaTJ1T1JKa2dGd3ltU0o5ekdCdC1Qclg5OW1oQTNmN1B1TnBkQWF3eGl6blBQa2c0RklsaWtqRnNB?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Jorge Alessandri (UDI) llama a evaluar acusación constitucional contra ministro Rabat: “Hay que pensar si esto ayuda en algo a las víctimas”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-28T23:04:58+00:00"
     },
     {
       "titulo": "Kast llega a Ñuble y Biobío en medio de la negociación por los recursos regionales",
@@ -776,6 +821,17 @@
       "fecha": "2026-10-28T15:50:43+00:00"
     },
     {
+      "titulo": "Presidenta de Servel participó en seminario sobre amistad cívica y formación democrática de las juventudes - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdG9KaHlMd2FJcEdLVGNvcnpTQUVIRDY3Vm93b1JfSzZSaGJzSUM5OFZkVDE0WEt3V3FaTzNfZXVpNDRCcjFiUXhhcmJHSHFrUnlKLU5TQ0JYdDBKX2RnTENDdEJaZlRnZDhXMU15QlZsM2VFVzlyaWxmSi1wa3lKTHBwTkhyTUQ1dlpOSThwOEN0RVBRX3VJMDF5dW1mMWhvUk04a25KU1ZpSFM1UlpnYy1WbHQtQkZlT1dsOXc2cjBacTBkYkkwUDlKMzRlMUloYW9FdkpCdGgyUkZKNGlHNUJPTmQ?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidenta de Servel participó en seminario sobre amistad cívica y formación democrática de las juventudes&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-10-28T15:47:16+00:00"
+    },
+    {
       "titulo": "Servel colabora con Comisión de la Cámara de Diputadas y Diputados sobre plataformas digitales - Servicio Electoral de Chile",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTk80N0VUbDdYSGR0RWR6bjVMbW9XcnlCbUo2ZGNFeVhfX3ZrNGM2cW1xTW1iUHdqemdHY1ZobzNaVWdjYjU4dU51RVJiclR0UWg2WEZjS25ZZDFXRTVNRElCLVhSNnAzWEJ4RmN4eTdya0k4ZzcwdWxnYWp4QklVNUVDcFF6OUEydUZ5RGJqR2hTZmlqYV80ZHN4TzQzenZLa3pZVlBEQmRfYjEzeWlLTzFjRGJNSGhNUjVadWRNRVJvNHJYS2NwR0ctYWJfM1pXMDFLbw?oc=5",
       "fuente": "Servicio Electoral (Servel, vía Google News)",
@@ -1323,6 +1379,18 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T11:42:02+00:00"
+    },
+    {
+      "titulo": "“Es mucho más grave que los indultos de Boric”: Senador Walker y rebaja de penas a condenados por abuso sexual a menores - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdlNyWmNCd3hYTUwzZ2lfY0ZHblQtelAzaEtmaTVqVS1QSENoZnc5bHdPb0VTcl8xNnRHdWswalNxTkpCclJTNWNJbUFFOFdRZ3lRRF9YTU82TWZmQkRBZWZvQmVoUE44R0dzSkZXWk92a3pwa1dDVGdFMmJmUDZHSDZkZ3J2aWVnR2RnY2sycEN3UzBDaHM1Y3J6YW5wX005c3hIanZaSlFDQlZCX3B4bHF0SjFQTHRTLWpQTjJZQQ?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Es mucho más grave que los indultos de Boric”: Senador Walker y rebaja de penas a condenados por abuso sexual a menores&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-10-28T11:25:00+00:00"
     },
     {
       "titulo": "“Es mucho más grave que los indultos de Boric”: Senador Walker y rebaja de penas a condenados por abuso sexual a menores - Teletrece",
@@ -5562,79 +5630,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-25T20:48:56+00:00"
-    },
-    {
-      "titulo": "Reforma de seguridad: García Ruminot reconoció que calcularon mal los apoyos parlamentarios",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/reforma-de-seguridad-garcia-ruminot-reconocio-que-calcularon-mal-los/2026-10-25/172653.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Las dificultades para conseguir respaldo a la reforma constitucional de seguridad llevaron al ministro secretario general de la Presidencia, José García Ruminot, a reconocer errores en la estrategia legislativa del Gobierno.\nEl secretario de Estado admitió que el Ejecutivo no explicó suficientemente los alcances de su propuesta y que esperaba contar con apoyos parlamentarios que finalmente no cons",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Candidatos",
-        "Senadores",
-        "Diputados",
-        "Elecciones"
-      ],
-      "fecha": "2026-10-25T20:26:53+00:00"
-    },
-    {
-      "titulo": "Brasil en la segunda vuelta: ¿por qué estas elecciones son el resultado de dos décadas de fractura social?",
-      "link": "https://www.elciudadano.com/actualidad/brasil-en-la-segunda-vuelta-por-que-estas-elecciones-son-el-resultado-de-dos-decadas-de-fractura-social/10/25/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nColumna / Brasil en la segunda vuelta: ¿por qué estas elecciones son el resultado de dos décadas de fractura social? Por: FYODOR DANILIN: Politólogo ruso, experto en comunicaciones políticas, analista electoral, miembro de la RAPC (Asociación Rusa de Consultores Políticos). El 25 de octubre Brasil elige presidente en segunda vuelta y, a las puertas de [&#8230;]\nLa entrada Brasil en la",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-25T20:25:14+00:00"
-    },
-    {
-      "titulo": "Brasil extiende hasta las 19:00 horas la votación de la segunda vuelta en todo el país - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLW1ZQXMtRkljMWZNWmp6S0l1Q2d2bW1OaWJnOWtqSEtzNlQ5U28tS3h1SVFiWkhoeFZoYTg3eGxnUEVFXy0yUVJBa00xYUZqQ2ZUbkZORUFnREQxcW5xYm83NFpiNDNGVnEzeUtMR2Y5SGcyY2VkS25mZ3RIZzFUWW5RbDhKU3Q3cmJrTGp5bHBKNFJvNkdsZVdkX0dacDNOOF9SZk4ycE5SQTlJa3ZmSQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Brasil extiende hasta las 19:00 horas la votación de la segunda vuelta en todo el país&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-25T20:14:21+00:00"
-    },
-    {
-      "titulo": "Kast reúne a ministros para definir la incorporación de Chile a la coalición anticárteles de Trump",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/kast-reune-a-ministros-para-definir-la-incorporacion-de-chile-a-la/2026-10-25/170815.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast convocó a su gabinete a una reunión este domingo para evaluar el posible ingreso del país a la Coalición de las Américas contra las Organizaciones Criminales (A3C), impulsada por su par estadounidense, Donald Trump.\nEl encuentro está pactado para las 19:00 horas en el Palacio de La Moneda y contará con la participación del biministro del Interior y Segegob, Claudio ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-25T20:08:15+00:00"
-    },
-    {
-      "titulo": "Presidente Kast convoca a ministros para evaluar ingreso de Chile a coalición contra el crimen organizado impulsada por Trump - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOczFSUDdYTzlUWGFZb0ZDcm9PYmZacE1oZm5sS0JoaUJ2dHcycy0tSmtfMlRZU2x3eXpvYmFvMkJwRXVMSm9fdHdHeUM0Yk1Wb0VxbTJ5aUZKb2JoVnNRUEYtOWo0N0VVekt3LUNWdXRzbE5nWm5PcTRsNHVUTURXZnc1V0JlbW01eEF2b0Uta2QtMks1cjg2RjJ2RmxuLXE0T3NOY0Z3UGVLTzZPQ2FYOHRRQXZqcHQ0YnBIdTlRX09fbFJJRGJkc1cwV1R6c0RuZEotcUhxY0FuS0U2d0V4c3p5SVFpVTdhekxORjJEOWFUalXSAYcCQVVfeXFMTlAyR2k1eXIxUG5pUWZ2QmVvMmZmd0ptRlhpR1lKSW1JR19JOEtTNmEtMFIxZ0E5Q19KQVZOc19IVm1sYVRpalJwWXR0MVlueHRNWEphTUVMeTBRNXZDa0E4WTFsM2VzTnJaWXdnek96M1l3MEFRMnYxQXZ0d3B6VWVWcEtGcVRPWGVIZU1nZlhoM0pyVWJ1dFVmUDZWVW1wa1Zkb1Jvc1dDZmJKRGFlQ3UxNW5kY3NrYXh1OC14NEtMSnZnRlE1OUY3c0lxM1BDNGpsX0lRNVdmWkg3MGhyQTFSZEpjZ1FjNkhRWHlQWFNrYi04RTEyam4zMlcyal9VdTR0bVdLUlE?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast convoca a ministros para evaluar ingreso de Chile a coalición contra el crimen organizado impulsada por Trump&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-25T20:07:36+00:00"
-    },
-    {
-      "titulo": "Senador Mirosevic marca distancia del pacto de seguridad: “No tengo por qué suscribir un acuerdo en el que no participé” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeTY5RnkwcDRCaFBnSlgteFVJYjNRdE96anNYYXM4YVQ3Z3hIeDNvdlo4OGdGZkg0V0dKaThXYUlMYlRmSHhRdkRVVXUzWWNOVjZzWjNfSUdGOHZoOUtRcmxna2htenpXR1JsTUFmMGR2bFI3QmRlWm13RGhiUllUa3NJd1Q2NnphMllQaVZuaVdUbkVuQm0xM2hTS3N1SDFVVWZvQlkwVmNJSmNaanhHdk54ZE56SHBMd3RvdEdGWnFUMjZOMm1XVldBUVZELWdUWVAtQk5scGxMTl8tajUxRGh3?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Mirosevic marca distancia del pacto de seguridad: “No tengo por qué suscribir un acuerdo en el que no participé”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-25T19:29:40+00:00"
     }
   ]
 }
