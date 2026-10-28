@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T17:31:47.810609+00:00",
+  "actualizado": "2026-10-28T17:46:14.510969+00:00",
   "total": 500,
   "items": [
     {
@@ -57,6 +57,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T17:15:00+00:00"
+    },
+    {
+      "titulo": "CFA: La probabilidad de sobrepasar el umbral prudente de deuda en tres años supera el 50%",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/cfa-la-probabilidad-de-sobrepasar-el-umbral-prudente-de-deuda-en-tres/2026-10-28/140232.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Este miércoles, el Consejo Fiscal Autónomo (CFA) presentó ante la comisión especial mixta de Presupuestos su informe semestral sobre finanzas públicas.\nEl organismo independiente destacó que la Dirección de Presupuestos (Dipres) proyecta cumplir las metas de balance estructural para 2026 y 2027, lo que permitiría alcanzar el primer cumplimiento en cuatro años.\nPara 2026, Hacienda estima un déficit",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-28T17:02:32+00:00"
     },
     {
       "titulo": "Alcalde de Chillán vuelve al tribunal: revisarán sus cautelares por presunto fraude al fisco - BioBioChile",
@@ -5621,18 +5632,6 @@
     {
       "titulo": "Exministra Karla Rubilar (RN) y rebaja de penas a pedófilos: Pide a Kast reconocer “error gravísimo” y exige disculpas públicas de Rabat",
       "link": "https://cambio21.cl/politica/exministra-karla-rubilar-rn-y-rebaja-de-penas-a-pedofilos-pide-a-kast-reconocer-error-gravisimo-y-exige-disculpas-publicas-de-rabat-6add84d3a780862399385dab",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-25T04:27:02+00:00"
-    },
-    {
-      "titulo": "Exministra Karla Rubilar (RN) y rebaja de penas a pedófilos: Pide a Kast reconocer “error gravísimo” y exige disculpas públicas de Rabat",
-      "link": "https://cambio21.cl/pais/exministra-karla-rubilar-rn-y-rebaja-de-penas-a-pedofilos-pide-a-kast-reconocer-error-gravisimo-y-exige-disculpas-publicas-de-rabat-6add84d3a780862399385dab",
       "fuente": "Cambio21",
       "region": "Nacional",
       "resumen": "",
