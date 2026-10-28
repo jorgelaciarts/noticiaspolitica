@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-28T22:46:36.400727+00:00",
+  "actualizado": "2026-10-28T22:54:03.485099+00:00",
   "total": 500,
   "items": [
     {
@@ -113,6 +113,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-28T21:28:44+00:00"
+    },
+    {
+      "titulo": "Con abstenciones de RN y la UDI: Cámara aprueba resolución que pide la salida del ministro Rabat y sus subsecretarios - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbWwzdVFlb050YVdOTnR6OEtMaFc3Ykc0SHhJQm4xNmVGdmU5Q1ZvZGxDTk1ldVF6dHlnTDBTS2sxMG0yTXZuaFNDb25aNHBLZG5iX0RqemQ2TnhQY1U0TllWRF81MUVjYi01TDI4NVd0d1UyMVhFcWlVTzZCVktXTktzWVBqbXM4Mm9UaEVTRzVueldPaklwczZVMFU1NXRLNGxabzAxRXJpb0RYYjlRUzdWTVFpS2RTanV4cUR4dmVSSi1xQzM0SkluZU51N1BvWVJWTHFJUk5YcXRGNzZIZw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Con abstenciones de RN y la UDI: Cámara aprueba resolución que pide la salida del ministro Rabat y sus subsecretarios&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-28T21:24:14+00:00"
     },
     {
       "titulo": "Rabat rinde tenso “examen” en el Congreso y Kast resiste las presiones para removerlo de gabinete",
@@ -5623,20 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-25T18:34:00+00:00"
-    },
-    {
-      "titulo": "Asociación de AFP y la caída de fondos: Si hubo errores, se tienen que sancionar",
-      "link": "https://www.cooperativa.cl/noticias/economia/sistema-previsional/afp/asociacion-de-afp-y-la-caida-de-fondos-si-hubo-errores-se-tienen-que/2026-10-25/152947.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El presidente de la Asociación de AFP, León Fernández, se pronunció sobre las indagatorias en curso por el desplome del 10,39% del Fondo E y apuntó a \"sancionar como corresponda\" en caso de que se establezcan eventuales errores por parte de las administradoras. \nEn entrevista con canal 13, el dirigente enfatizó que cualquier \"duda, incluso si efectivamente se cometieron errores, se tiene que saber",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-10-25T18:29:47+00:00"
     }
   ]
 }
