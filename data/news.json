@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-10-28T13:31:43.094351+00:00",
+  "actualizado": "2026-10-28T13:46:34.176705+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ministro Quiroz en Enade 2026: “Impugnar cada decisión del Gobierno ante el TC puede traumatizar la vida social”",
+      "link": "https://www.theclinic.cl/2026/10/28/ministro-quiroz-en-enade-2026-impugnar-cada-decision-del-gobierno-ante-el-tc-puede-traumatizar-la-vida-social/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El ministro de Hacienda, Jorge Quiroz, cuestionó el uso del Tribunal Constitucional (TC) para impugnar decisiones de política pública del Gobierno, en medio de la controversia por los cambios a la Ordenanza General de Urbanismo y Construcciones (OGUC).\nDurante su intervención en Enade 2026 –organizado por Icare–, el secretario de Estado expresó su respaldo al organismo, pero advirtió que “no cualq",
+      "categorias": [
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-28T13:37:44+00:00"
+    },
+    {
+      "titulo": "Lula presidente y Brasil sigue soberano",
+      "link": "https://www.elciudadano.com/columnas/lula-presidente-y-brasil-sigue-soberano/10/28/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Javier Molina Johannes[1] Hemos vivido una segunda vuelta histórica en Brasil. Nunca antes había votado tanta gente. Nunca antes se había conseguido movilizar más de 10 millones y medio de votos del primer turno al segundo; nunca antes habían quedado tan pocos indecisos. Nunca se había bajado tanto la abstención, el voto blanco y [&#8230;]\nLa entrada Lula presidente y Brasil sigue",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-28T13:32:31+00:00"
+    },
     {
       "titulo": "“Un error político de proporción”: Alessandri aborda situación de Rabat y prevé acusación constitucional",
       "link": "https://www.lanacion.cl/un-error-politico-de-proporcion-alessandri-aborda-situacion-de-rabat-y-preve-acusacion-constitucional/",
@@ -13,6 +36,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T13:26:45+00:00"
+    },
+    {
+      "titulo": "Senador Sanhueza crítica llamados oficialistas a salida de Rabat: “No puedo estarle mandando mensajes al Presidente a través de la prensa” - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNclZqZUdqYWxJemtHeGtxTjNScEY0R0F4cENCMDFDZVU4Z0RGZVdaOHN3R1VydkdUU2hic0g4S3FCVi1mN2lLc243WGV2Ri1sTFhpLV9IVWpMSWsxdkNBMzljSHNJQTY5Yy1FbTBaaWJSb29rX1dqU3NNdEdqS3M2cEh0eDBvT2M2TUdNM0k5cm1OdmY3VDhETExFYW1jQjhaNGlJejdHSnJ6RHhqZFcxbnZxWXl4bDJrUThsU191Ulp4ck5uZzgyN0RkQVFlTUNkejRrcDZIVGN0OEV1VU85ekozV0cwRHY5MGJ0Mk9uUF9xS0Z6SFhLdW9TWTJEY2FmNVRjY0hreTBNVzTSAawCQVVfeXFMUENDbkJCZnVfVWczQ3lMdjhhcEFkb1lKUUJqak54eElzTlVZS1hYeFh2LVV5MFZMS0lZZlFNbDdsLTN2ZXV2eVVYcGxqSXRwS1BkemxhaEh2SS1QZ1dORW5RZzRMS0M3Q25KMXVNbkRKNlhqNXRmWmVkNkN1cnpvSzJlVzMzeWJfb2JvZEt6aHJpUlhydmtnU2h3T0dVU1J4SVdtMXNab2o5aDJMa0lRb0djdFkyWHg5TEZBZ0RUdTdvMGwyTXkyY1FRQnZmV1hjQXhGVHJJQk43YlFCbGFkTXFqQXJsMFMxeDNUXzI5VGpRalFUQ0w0c3pRQzB0dHRubkIzaGNxZGV2MmNCNW8xblRNWDlUSDltVTAxWnBWOVdFNFg0aGl4X3ROQmxk?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Sanhueza crítica llamados oficialistas a salida de Rabat: “No puedo estarle mandando mensajes al Presidente a través de la prensa”&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-28T13:24:15+00:00"
     },
     {
       "titulo": "Jorge Alessandri alerta por costo político de mantener a Fernando Rabat y anticipa posible acusación constitucional - Radio Pauta 100.5",
@@ -5605,42 +5639,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-24T17:12:09+00:00"
-    },
-    {
-      "titulo": "Arturo Squella arremete contra Hernán Larraín por rebaja de penas y alude al caso de Paul Schäfer - El Observatodo",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQalV0V3l1Y0Y3LTR5cURDMmNyS2JIczJfclFiNUZuQmpBcVJaMkwwTjhxWFJTeGc4bjRCRHRkZk9iRmdHS0dpT092ejVucHJpNmszN2FrZklFaXVrSEdjUHBUejMxck1XN0xKcGdibVMxN0JtYnNSajZ6UjFZOFI2RnlXMTR0VFFwUXFXM2ZYM3Nub3VTRjdjQ0hFdGxKc3VMSVl6VThMNDhLcDB4Yml3cGtnZGwyME5RenBjRVZBbTkyWDNIX19zeA?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Arturo Squella arremete contra Hernán Larraín por rebaja de penas y alude al caso de Paul Schäfer&nbsp;&nbsp;El Observatodo",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-24T17:07:35+00:00"
-    },
-    {
-      "titulo": "Chile entrará como \"observador\" a la coalición anticárteles de Trump",
-      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/ee-uu/chile-entrara-como-observador-a-la-coalicion-anticarteles-de-trump/2026-10-24/140543.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno resolvió no suscribir el ingreso formal de Chile como miembro pleno a la Coalición contra los Cárteles de las Américas (A3C), iniciativa promovida por el presidente de Estados Unidos, Donald Trump, y de momento participará solo en calidad de observador, a la espera de examinar sus implicancias operativas.\nLa decisión se conoce a días de la cumbre de ministros y autoridades de seguridad",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-10-24T17:05:43+00:00"
-    },
-    {
-      "titulo": "“Le está causando un profundo daño al Gobierno”: UDI emplaza a timonel de Republicanos por sus dichos contra exministro Larraín",
-      "link": "https://www.theclinic.cl/2026/10/24/le-esta-causando-un-profundo-dano-al-gobierno-udi-emplaza-a-timonel-de-republicanos-por-sus-dichos-contra-exministro-larrain/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El presidente del Partido Republicano recordó la antigua defensa del exministro de Justicia a Colonia Dignidad, luego de que este cuestionara la interpretación legal utilizada para reducir las condenas de abusadores sexuales de menores. Desde la UDI, Guillermo Ramírez calificó sus dichos de \"injuriosos\" y advirtió que este tipo de enfrentamientos debilitan al Gobierno.\nThe post &#8220;Le está caus",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-24T16:28:15+00:00"
     }
   ]
 }
