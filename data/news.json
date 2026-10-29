@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-29T21:01:48.158304+00:00",
+  "actualizado": "2026-10-29T21:16:26.875718+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kaiser despliega agenda en Magallanes en plena tensión con Argentina y revela que intentó embarcarse rumbo a Malvinas",
+      "link": "https://www.theclinic.cl/2026/10/29/kaiser-despliega-agenda-en-magallanes-en-plena-tension-con-argentina-y-revela-que-intento-embarcarse-rumbo-a-malvinas/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El diputado llegó este jueves a Punta Arenas junto a la directiva del Partido Nacional Libertario, con una agenda centrada en la soberanía chilena, la proyección antártica y las diferencias con Argentina. En medio de la polémica por el buque que viajará a las Malvinas, revela que intentó sumarse a la travesía, pero que la naviera le informó que no estaba autorizada para transportar pasajeros.\nThe ",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-29T21:14:27+00:00"
+    },
     {
       "titulo": "Detienen en Chillán a mujer por amenazas de muerte contra el Presidente Kast en redes sociales",
       "link": "https://ladiscusion.cl/detienen-en-chillan-a-mujer-por-amenazas-de-muerte-contra-el-presidente-kast-en-redes-sociales/",
@@ -59,6 +71,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-29T20:25:16+00:00"
+    },
+    {
+      "titulo": "Delegado presidencial del Biobío renuncia a RN en medio de acusaciones de violencia psicológica - La Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcm13RVlXa3BURjNRQkpjdlcycTlVU0ZyUTM5TkJuQ1g3ME1aT0FxUkJBUmNJZWZNQUY0czdMMmhIemNRa2I1VkhQdE5YR2I0YzZ0VnNVaUdNTWNPRWhfTG9nbTBVTHhqR1dtbGFCV2FIb19RU0xfMGVGS2M1Q1RyOXRIakhoVXpETWtIR2hEVGxFei0wRkNrMlJVQ25TQTB1MlRzN2N6eU10dzRNRW0xT01SVTJyWnNwS2NCSEE3Q2lmY0NDb05KdFh2Q29aWG41YVJncHBSYW80aUwyd1HSAeYBQVVfeXFMTUY0WGRmX1FpYzhmTVVuQXpEUjEyRWFUMEJLMG9nNFZsY1ItNnFfdmtOUnI3XzhKa3BuNTZRT3lSc0ZKNUNMNlFrRXE5ZmV6NnFNWDFxalpaY1JTM095Z3NHWVVwWk9VQlVlelpwVm9nalR3bW43YlBxajl3U2hobFNhdG9QNDRnVzgzR1JxWUFmekNkMWVnaGR2X0xURW41eVBKWTRXU2tLcmtQcnFjT29IMFdMY1dtUGlXWU1VQzhHZU9MYmhfRDJPVmhDX1lrYXlkUDE3aW8zcG9lN0U2OVhJWXk0ZHc?oc=5",
+      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
+      "region": "Biobío",
+      "resumen": "Delegado presidencial del Biobío renuncia a RN en medio de acusaciones de violencia psicológica&nbsp;&nbsp;La Tribuna",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-29T20:25:05+00:00"
     },
     {
       "titulo": "Caso Rabat/Silva: La ideología jurídica de clase como manto de estupidez",
@@ -5608,38 +5631,15 @@
       "fecha": "2026-10-26T19:01:16+00:00"
     },
     {
-      "titulo": "Gobierno confirma que Kast asistirá a ceremonia de cambio de mando en Brasil",
-      "link": "https://www.lanacion.cl/gobierno-confirma-que-kast-asistira-a-ceremonia-de-cambio-de-mando-en-brasil/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El subsecretario de Segegob y vocero del Ejecutivo, Gonzalo Arenas, confirmó que el Presidente José Antonio Kast asistirá a la ceremonia de asunción de Luiz Inácio Lula da Silva, en Brasil, el próximo 5 de enero. &#8220;Nosotros respetamos la institucionalidad de los países. La institucionalidad ha dado por victorioso al presidente Lula y no tenemos [&#8230;]\nThe post Gobierno confirma que Kast as",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-26T18:49:29+00:00"
-    },
-    {
-      "titulo": "Gobierno chileno confirma que Kast asistirá en enero a la toma de posesión de Lula - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGs0Y0dZSlVONFNwR0pScjM5YWc0ZmNDcGJjYUJFVW5QVXkxRUpKc0RzSG56VjJ4UTljQnNmQk1keDVEMFhIVk5OMEtLNG9pQmZmY29GX004LXg0djExWUN1eC1xUHZvOW4xajJVYjhTZWpWUWJ3ZGdJaVNTeUJjaVRyUEU4cE9yVnZ2WWk3eFdWcmVUdkFxamhGaHV4R1FTYlIxWHNveTNCVXBTd1JMRDZ6Y2lZaFB3UFJKYkF4TWJMWHBySTRpdWFtN1FZcWE00gHrAUFVX3lxTE5pYWlMR0VBa0h5dGdzOEdiaUZuN0hmYnE2V0VPOFFSUHVYekQyR3RPdzRxQi1HMUt4WHl3SkgyWmg0TXNDcXBpQzZOVjRYX05QRXB4UUE0bHhEVzBVcVFrSFdBUm1ObC1pUk02MU4tWUJDSTdjcUt3TWFIdXA2T0hubVRlMFhIMm54TTAxaDY0WmJRcVl5NGxKdFFDNUVBYVU1ek5uWjNZa0l1ZkFWSGJFaXVCQXdaRC02ZS1reXg2Q0RsR3o0SElxWTdrblg5bXhrSGd0dkNBalNpVkozSE9uanczWXFOYUNJbVU?oc=5",
+      "titulo": "Kast se reunió con sus ministros para analizar adhesión de Chile a la coalición contra los carteles de Trump - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWlZqaXpzeG1fZUdSbUNHVTZZNFZlX21vdlU2ZENKdkhCaGZSSDhwOWlKSWh5MjhacHJ1ZDBuNHZndHRYZUV4endiRmNSSjZjdXlnZnVVeHlhd05JN0lPUmp2RmpPNndsZ1pKN2lZVzBqeHhkcnM4WlRwS29ReVdXUkFpdkxmeXlMVzNqZGVmTjZTY3hhM0h2RTNxT2JiMU5SdC1RMHVJcmZObkk0blJwWEd3NkVfRjhtdnZWU0RXd0tJeFFDZkhjWHdlSG1CZGJPNzVWQVNrbmhVQV90R3pzMWZSaU14bXJvTF9veVhqSjAyLWtxZVFZZUdZd9IBlgJBVV95cUxQRkl5Q29xUTZVT2lTOGIwSExTdGUybDdKVlNzeVEzWHlRaFV0T1JDNmNoMmNleEtnbmZmbUtBZURxeWhKdXhEZk1aR0M1ZXc4T2ZrM0kzMElVemtwTUtNUUdLYTJXaGFyMGpxd1djdm1USDZrY3UyOXlQQ0trei1tLUxnbHJvbl8zR1NGaXV0blRzbVlabXhPSGthZHVMMXh6ai1LZGY1UUg4YUJMbVFBdjNJRGd2RTh2bEc0QmM4TFVjT2xYUDl4dHFTTUVkcTg4MEY3ckpVWHoxT1JDV1pDMlZmWUlDSE1ZTURiOVg2TFpidEZfak5nVDVlbFNtZzZ6b3F2RndWc05GUWhja3p0TVhmUGU5dw?oc=5",
       "fuente": "Infobae - América/Chile (vía Google News)",
       "region": "Nacional",
-      "resumen": "Gobierno chileno confirma que Kast asistirá en enero a la toma de posesión de Lula&nbsp;&nbsp;Infobae",
+      "resumen": "Kast se reunió con sus ministros para analizar adhesión de Chile a la coalición contra los carteles de Trump&nbsp;&nbsp;Infobae",
       "categorias": [
         "Presidente"
       ],
-      "fecha": "2026-10-26T18:38:27+00:00"
-    },
-    {
-      "titulo": "Gobierno ratifica triunfo de Lula en Brasil y confirma asistencia de Presidente Kast a cambio de mando - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdEFFZldLU2ZoLTM1WEY4Z0FYV1lxaVZjNk96RVdSNkhIMlFuaXBpM1lqNFEtSTZsRnAzLXdraFlaWHg5LXhKLWFDbm16Yl9JZzVKTHYwS0prNTNRXzBOQjhDZVdtSDlFd1lqZzh4RnZaSi1EWWlQSjhGUEpMaEVnODFrYmNlZTFMUXo4TlN2Q2Y2bVJZNGNyQTh2MVZyQnFfNUNucHJmVlc4MTRhaW8yalFBcE42VDRjOXRLN01DR1JqTjAwSUNJTVJBYkF6U2QyWnV4MtIB6AFBVV95cUxPWFpwelpIeHJsSkxWYWQ4Q1o0el85WXpsUmxkUnBMS0lVaEZhLXZQLTVPRWtaOE5zaUFPU1o1U2pCOTlVcGM5ekV2LWs1QmhsNG9ZLXJZTG9MTjNlVHViMnFjbHlBNGl6YWk3Y05FU2l1bnlWbGNZQldua1VJNDNLX3liQndjZWRVcFpycGt1b3hMUkNQUGFyQ0ZkdGJZRXg3R0RWSm41enlTaVdaOUxlZWt4MzVBOGNtZXVIa0E0bkNLeTNUXzZfdGNGbkhtRVhoN2xQX2hrUGNTV1d0WlVCenJXNm81WXhO?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno ratifica triunfo de Lula en Brasil y confirma asistencia de Presidente Kast a cambio de mando&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-26T18:28:10+00:00"
+      "fecha": "2026-10-26T18:54:00+00:00"
     }
   ]
 }
