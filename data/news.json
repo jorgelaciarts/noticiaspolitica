@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-10-29T13:16:19.568817+00:00",
+  "actualizado": "2026-10-29T13:31:19.872768+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Video | Brutal pelea en el Parlamento de Armenia: Diputados se trenzaron a golpes y sillazos - Emol",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVpzZ3BGUV9EekRxMmEwemtOeDhxcFNpMHBXUkM4SzhFQTZUWUg3Mk9vMWExNFpENUtMV2RiQ3otZ01RRWhQaDgwTGoyN3llbFFKcnJTQWt5bExIMGZSY0FBUnFGYXQxZV9QUjd1V3o5WnBHOWFiR0w0SXF6QmNFdkVLRE1YS1BLaHhzQ0RPSkNJSDhMSUR2NzNYRW9TLUhHdV9aZms1UnIwS2Rz?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Video | Brutal pelea en el Parlamento de Armenia: Diputados se trenzaron a golpes y sillazos&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-29T13:19:09+00:00"
+    },
+    {
+      "titulo": "Vocero de Gobierno sobre respaldo a Rabat: \"No es una decisión marcada en piedra\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/vocero-de-gobierno-sobre-respaldo-a-rabat-no-es-una-decision-marcada/2026-10-29/101444.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El subsecretario de la Secretaría General de Gobierno, Gonzalo Arenas, reconoció que el Ejecutivo enfrenta \"una crisis grande\" por las rebajas de condenas otorgadas por el ministro de Justicia, Fernando Rabat, y admitió que el respaldo del Gobierno al secretario de Estado podría cambiar.\nEn conversación con Radio Duna, la autoridad sostuvo que \"hoy día la postura del gobierno es respaldar al minis",
+      "categorias": [
+        "Presidente",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-10-29T13:14:44+00:00"
+    },
+    {
+      "titulo": "Crisis por rebaja de penas: Hoffmann acusa a la izquierda de buscar “desestabilizar” a Kast y lo compara con era Piñera - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMzlBTHhibFhfeHdiUEpjcjhQYXI2TmFUakt3enB3WmFKempYWmtQRFpLWldkZjJHN3Q0eUpQY1VTMGhJY0xfd0ZtLWVUQlNkbVYtc2g4OUYwSmY3RHR4ZkZ6OFVCUnBqYVJray1QdDVYaUlVU2h0aTF0THlCcDhnYTY4eHpJMzI2YTloRHRpUTRyNUlnanZjM01ZdlJMTURJWXJoeHlLLU9UYndBNE5YMUNNVm16VTVWaTEyX01LVFpjQUlLVkNoazZrY2pWUjJHeTlIMFBjSjEwVGxKbWlkMGdSUTVkQUkxZVJnWVkwRUk3d9IBkwJBVV95cUxQTXVsMnBmVUViN2tSQ0VTcGY0N2FXX0drTENTM2ZJWWQwZlRwd1lSUDR5R2RPNTQzbmpFcmJWSXBzUzdOY1pjYkU4SGdJQUJoSm4wM0FZeUs3TG9qdFlHQl9nLWRWTGJsOG9GOGI5RjQtUGpFWWpyZ0o0RnR3Ul9MVGM3c1ZObmVyY0pSUWVzblpxZVdoZ2hvazhPVHJYa0ZiR2EwY2ZfczNOOXBrQ0pIYVFyU1ZqZjhOSjM5VFhBSmxUMHF2ekdXcTBxSHhDWEY2NTFMM3Ewa29URlVNTU9nYkRqeUJGbmdqY21xekN0VXQ3RDFlY3l4MDlPY19GamIwei1YNzJscVNyd3pLbXdRaV9YZw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Crisis por rebaja de penas: Hoffmann acusa a la izquierda de buscar “desestabilizar” a Kast y lo compara con era Piñera&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-29T13:12:28+00:00"
+    },
     {
       "titulo": "Ministro de Justicia se querellará contra diputado Jaime Bassa por vincular rebaja de condenas a “red de pedofilia internacional”",
       "link": "https://cambio21.cl/politica/ministro-de-justicia-se-querellara-contra-diputado-jaime-bassa-por-vincular-rebaja-de-condenas-a-red-de-pedofilia-internacional-6ae3442340319012254462f3",
@@ -5593,39 +5628,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-26T12:17:05+00:00"
-    },
-    {
-      "titulo": "Senador Pedro Araya cuestiona su salida de Comisión de Constitución: “Mi único pecado fue llegar a un acuerdo” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNZ3drWlh6UUFiS1ZQV1p3V20xRElJcGJfeGtZcUxGVmo0djFlcklEUUxQRzZ3bldqd191M2xsUFp1U2FiYTd0NGNtQjJfRmlLLU5YMHNGWkhRMzZ2TWxZMF9vQWNTQTdMaTlMS1FPZWgzY0JOM3g0aUFnLUt3TEdkdXlMWTF5cmhvdzcwZWpjZTdDMm91SW1PdjhaSzRYVk5SZ2ZTVEIxRm1BNWRVOEI1cjJ1c09Sd3BHY21HNUZKRWZEcWJ0MHVKRlptX0xtQlVVQTgzS3JjUWRJamZMNkFmX1lhX0JQbnljT1lraU5TZzI?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Pedro Araya cuestiona su salida de Comisión de Constitución: “Mi único pecado fue llegar a un acuerdo”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-26T12:12:16+00:00"
-    },
-    {
-      "titulo": "“Humanamente pudo haber sido mucho mejor hecho”: Vocero Arenas reconoce falencias en rebaja de condenas, pero descarta error del Gobierno",
-      "link": "https://www.theclinic.cl/2026/10/26/humanamente-pudo-haber-sido-mucho-mejor-hecho-vocero-arenas-reconoce-falencias-en-rebaja-de-condenas-pero-descarta-error-del-gobierno/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El vocero de Gobierno defendió la legalidad del procedimiento, aunque admitió problemas en la comunicación y participación de las víctimas. Además, anunció un proyecto para modificar el sistema.\nThe post &#8220;Humanamente pudo haber sido mucho mejor hecho&#8221;: Vocero Arenas reconoce falencias en rebaja de condenas, pero descarta error del Gobierno appeared first on The Clinic.",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-26T12:03:37+00:00"
-    },
-    {
-      "titulo": "Lula celebró su triunfo en el balotaje: “Esta elección ha sido una derrota del negacionismo”",
-      "link": "https://www.lanacion.cl/lula-celebro-su-triunfo-en-el-balotaje-esta-eleccion-ha-sido-una-derrota-del-negacionismo/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El presidente reelecto de Brasil, Luiz Inácio Lula da Silva, celebró su victoria en la segunda vuelta de las elecciones presidenciales. En su discurso reivindicó el triunfo de la democracia frente al &#8220;negacionismo&#8221;.Lula, que este martes 27 cumple 81 años, delineó las prioridades de su nuevo mandato. La regulación de las plataformas digitales. La educación [&#8230;]\nThe post Lula celebr",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-10-26T11:56:39+00:00"
     }
   ]
 }
