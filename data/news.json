@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-29T13:46:35.116062+00:00",
+  "actualizado": "2026-10-29T14:01:46.680671+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast se reunirá con el papa la próxima semana",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-se-reunira-con-el-papa-la-proxima-semana/2026-10-29/102624.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El papa León XIV recibirá en audiencia en el Vaticano el próximo 4 de noviembre al Presidente José Antonio Kast, según confirmó este jueves la Santa Sede.\nEl primer encuentro entre ambos tendrá lugar el próximo miércoles en el Palacio Apostólico a partir de las 9.00 hora local (5.00 de Chile).\nUn cuarto de hora antes, Kast será recibido por las autoridades del Vaticano en el Patio de San Dámaso, r",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-29T13:26:24+00:00"
+    },
     {
       "titulo": "Video | Brutal pelea en el Parlamento de Armenia: Diputados se trenzaron a golpes y sillazos - Emol",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVpzZ3BGUV9EekRxMmEwemtOeDhxcFNpMHBXUkM4SzhFQTZUWUg3Mk9vMWExNFpENUtMV2RiQ3otZ01RRWhQaDgwTGoyN3llbFFKcnJTQWt5bExIMGZSY0FBUnFGYXQxZV9QUjd1V3o5WnBHOWFiR0w0SXF6QmNFdkVLRE1YS1BLaHhzQ0RPSkNJSDhMSUR2NzNYRW9TLUhHdV9aZms1UnIwS2Rz?oc=5",
@@ -25,6 +37,21 @@
         "Diputados"
       ],
       "fecha": "2026-10-29T13:14:44+00:00"
+    },
+    {
+      "titulo": "Cumbre con Kast: Alcalde de Concepción gritó \"todos los corruptos van a caer\" y se largó",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/cumbre-con-kast-alcalde-de-concepcion-grito-todos-los-corruptos-van-a/2026-10-29/101257.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un tenso y confuso momento se vivió este jueves durante la Cumbre de las Regiones, realizada en el Gobierno Regional (GORE) del Biobío, en Concepción, con la presencia del Presidente José Antonio Kast.\nEl alcalde de Concepción, Héctor Muñoz, manifestó públicamente su respaldo a la concejala de Talcahuano Elena Retamal, a quien pidió ponerse de pie para recibir el aplauso de los asistentes.\nPosteri",
+      "categorias": [
+        "Presidente",
+        "Diputados",
+        "Gobernadores regionales",
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-29T13:12:57+00:00"
     },
     {
       "titulo": "Crisis por rebaja de penas: Hoffmann acusa a la izquierda de buscar “desestabilizar” a Kast y lo compara con era Piñera - La Tercera",
@@ -5606,28 +5633,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-26T12:25:30+00:00"
-    },
-    {
-      "titulo": "Presidente Kast llamó a Lula y lo felicitó: \"Chile y Brasil tienen mucho futuro en común\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOFpXaUpQTWlOTG9yeG0xVHRIZk5iNkN4ZnktdUdMUFhNczlPVDJCZ3FTVEZTeFBfaEpuTVdBS2tRSjBia1FSZG42MUhjaFZqR0RnLXNjNVNpS2xiWVd0TE42WjVhdUtPUGxZcV93YmNxLVlONkQ1cEdIQndNMG1WdXhQb1VMZVlUZ2I3RTRfMFpseGRyUklnV2thZ2RnTFJIZWZxVGxmZ1hyV2RfQXp1QUFFQ2tQTHJxZGNqZ3ZCUQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast llamó a Lula y lo felicitó: \"Chile y Brasil tienen mucho futuro en común\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-26T12:17:32+00:00"
-    },
-    {
-      "titulo": "“Creo que el país no está preparado”: Jeannette Jara por debate sobre indultos prometidos por el Presidente Kast - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR1hoRnJvN0pIVmlOV2JhNVFxblZZdEJzY3ZHZkhSLU9OeUxwZVRnUF9tSVdzZHdEb3ZqMThHWVBHLTExSXVLOTZGU3dCUnpTSlJEd0N3Tkw0bzlDWnlkNTM0S3pfQXFXZEJidEdEcG1BemsxQ0s5c0o5OUpXZTRKRENJcl82NHlDeDYzUVpXbGR5U0ZJYXRSSl9sUGNTSVoxczlVUWRLdGExQ1hLNkdaaHhWTGRKemFsNmZZM1MtNVQ3dXlndHppQXllQUt6aS1PcXRZaXpTQlFMWGpfVWfSAfIBQVVfeXFMUDJoelFJaGU2NW14Q20wOEd1bHJSdnhhd2ZXdk5Uc3ZGR3NQT2lOX01FY0N0MEtDcXZPQi1ZVmRwbW9ZenJ6MHpnUXJ2bk9MUUxQTGI4bzRYLVBCU0NBNHNTMXREWXFrQTIya1lvemN1VEkxYTRuam4yeVNOdHFjVlAxRl9jOTVzM0x4a3d2cHlxRXBtWEd2VzN5RnJDQks1Tm8xNnVJcGtGT2ZSZXliaXVkNllHSzh3eHp0N0FIcUpXam1pbFVJUmR2UUJyQlZFOTBpaWRtVWo3Z2NEQ0tsSTFISUVic0Vmd2xIbFNuamJxeWc?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Creo que el país no está preparado”: Jeannette Jara por debate sobre indultos prometidos por el Presidente Kast&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-26T12:17:05+00:00"
     }
   ]
 }
