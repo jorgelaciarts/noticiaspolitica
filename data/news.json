@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-29T12:46:16.037151+00:00",
+  "actualizado": "2026-10-29T13:01:46.383748+00:00",
   "total": 500,
   "items": [
     {
@@ -4092,6 +4092,17 @@
       "fecha": "2026-10-26T22:28:33+00:00"
     },
     {
+      "titulo": "El silencio de los partidos políticos - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObjAtNXRYN2Z3WklXQTlLUjU0RHpldmhoVTZYdFg3UVEyc0dWbHlEYm1rNHdpb3NQUGRQRWlRSzZ2azk2WHV0UHFJWFRPbGFCMEt6emMyWkJ2bDdyWHRJS1FPT2VyMGlBLXZzMFlqRVhpTDhtejl4YVRZSDMtX3VlNXRPeGM3VUsxNnB5ZW9ZeU5XZw?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "El silencio de los partidos políticos&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-26T22:19:56+00:00"
+    },
+    {
       "titulo": "Seremi de Economía se desmarca de Kast y postea videos rechazando la elección de Lula en Brasil - El Mostrador",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOG0tS1RRWjg3S29jVUtuS29HR3VTN2Q1M0g0UUdsS05JNzF0cUFtMjNTVjk1VGpLTzB5dVJmYTdYYnRqNnZnOUFBb3dBNldXVTZRY2RHRUJCTGI1aHljTC1RUWNRQjFEOFpnYTZJNGgxRlI2VF9VcEFOQ2pjbm1HXzZrZG1hY1FRVWVwVTMwMUNfS3l0eFVVX2R5aHFhazJVbVEtZXE1TWo3N3lpLWVDSHZBWm85UDNCOWhrMmRaQUVwZDFzVXY1aG1RQkpPVm02YXU5N08wQnRzVEpfeHZZYXFB?oc=5",
       "fuente": "El Mostrador (vía Google News)",
@@ -5618,18 +5629,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-26T11:19:27+00:00"
-    },
-    {
-      "titulo": "Lula vence a Bolsonaro en el balotaje  y asegura un cuarto periodo en Brasil",
-      "link": "https://laprensaaustral.cl/2026/10/26/lula-vence-a-bolsonaro-en-el-balotaje-y-asegura-un-cuarto-periodo-en-brasil/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Asumirá su cuarto mandato -segundo consecutivo- el próximo 5 de enero en Brasilia con 81 años de edad. El Presidente brasileño, Luiz Inácio Lula da Silva, ganó este domingo la segunda vuelta de las elecciones con el 51,77% (64.169.977 votos) de los sufragios, frente al 48,23% (59.789.320 votos) del senador ultraderechista Flávio Bolsonaro, en una...",
-      "categorias": [
-        "Senadores",
-        "Elecciones"
-      ],
-      "fecha": "2026-10-26T11:16:18+00:00"
     }
   ]
 }
