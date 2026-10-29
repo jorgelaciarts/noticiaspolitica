@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-29T23:01:36.610110+00:00",
+  "actualizado": "2026-10-29T23:16:28.685085+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos",
+      "link": "https://www.ciperchile.cl/2026/10/29/desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos/?utm_source=rss&utm_medium=rss&utm_campaign=desempleo-sube-a-98-camioneros-de-san-antonio-inician-el-primer-paro-del-gobierno-de-kast-y-corte-confirma-prision-preventiva-para-alcalde-de-rio-bueno-por-cohecho-y-lavado-de-activos",
+      "fuente": "CIPER Chile",
+      "region": "Nacional",
+      "resumen": "La entrada Desempleo sube a 9,8%; camioneros de San Antonio inician el primer paro del gobierno de Kast, y Corte confirma prisión preventiva para alcalde de Río Bueno por cohecho y lavado de activos se publicó primero en CIPER Chile.",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-29T23:09:32+00:00"
+    },
     {
       "titulo": "Organizaciones advierten riesgos para la protección de comunidades frente a impactos de la actividad empresarial por reforma al INDH",
       "link": "https://www.elciudadano.com/chile/organizaciones-advierten-riesgos-para-la-proteccion-de-comunidades-frente-a-impactos-de-la-actividad-empresarial-por-reforma-al-indh/10/29/",
@@ -5627,17 +5639,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-26T21:03:52+00:00"
-    },
-    {
-      "titulo": "San Carlos lanza la “DOM en línea” para más de 80 trámites",
-      "link": "https://ladiscusion.cl/san-carlos-lanza-la-dom-en-linea-para-mas-de-80-tramites/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Durante la mañana de este lunes, en el Patio de Luz de la Municipalidad de San Carlos, se realizó el lanzamiento de la Dirección de Obras Municipales en Línea (DOM en Línea), una nueva herramienta tecnológica que permitirá facilitar el acceso a trámites relacionados con obras y desarrollo urbano, fortaleciendo el proceso de transformación digital [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-26T20:49:42+00:00"
     }
   ]
 }
