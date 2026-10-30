@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-30T12:31:34.960459+00:00",
+  "actualizado": "2026-10-30T12:46:34.292713+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Halloween",
+      "link": "https://ladiscusion.cl/halloween-2/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Señor Director: El mes de octubre termina con Halloween, celebración que hace ya varios años hemos adoptado, así también las campañas publicitarias de golosinas y dulces cobran especial protagonismo, la mayoría de ellas dirigidas a niños y adolescentes. En una fecha donde estos productos ocupan un lugar central, las marcas deben cuidar cómo los promueven: [&#8230;]",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-10-30T12:40:13+00:00"
+    },
     {
       "titulo": "Chile Vamos marca distancia de Republicanos  por continuidad del ministro Fernando Rabat",
       "link": "https://laprensaaustral.cl/2026/10/30/chile-vamos-marca-distancia-de-republicanos-por-continuidad-del-ministro-fernando-rabat/",
@@ -5634,17 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-27T10:04:38+00:00"
-    },
-    {
-      "titulo": "Presidente respalda a Rabat y oposición avanza hacia acusación constitucional / Auth valora que Kast reconociera triunfo de Lula - El Líbero",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQeW4wUGhIZ3hZNFhqVnN1R28tUlhZajhFUFdOSnVzdXJkdnZMek9GZUtQQ0g3WkJINjlUNTMxdUlwdXFlYkQ5SVRTYkFReUNOdzhNT2M5amVuVWdhVXc0OUpXa0RZbE8xMzNzMlZ2RUlxUk1XWVVNdDB4Y2NCY2M0dXJFTEozUnhjc1Fxajh1WlRCTXNXMUE5M1JHejQ1YjctaXROOTI0LWxzc19aZ0VwRFZZR1lhRGQ1MXhaaHVENjRFUWd0MklpaGhjZEYzOWZ2eXhjMF9vVUZsVEpiZTBMdmYzWExZSVRMUEE0WjhvZlVqN2FOUUVoVTdXcEdRc2VmVF8ydG1zSFg?oc=5",
-      "fuente": "El Líbero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente respalda a Rabat y oposición avanza hacia acusación constitucional / Auth valora que Kast reconociera triunfo de Lula&nbsp;&nbsp;El Líbero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-27T08:57:47+00:00"
     }
   ]
 }
