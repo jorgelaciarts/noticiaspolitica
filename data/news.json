@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T12:01:20.510706+00:00",
+  "actualizado": "2026-10-30T12:16:15.749492+00:00",
   "total": 500,
   "items": [
     {
@@ -14,6 +14,20 @@
         "Diputados"
       ],
       "fecha": "2026-10-30T11:50:35+00:00"
+    },
+    {
+      "titulo": "Delegado del Biobío renunció en medio de denuncia por violencia intrafamiliar",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/delegado-del-biobio-renuncio-en-medio-de-denuncia-por-violencia/2026-10-30/084220.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El delegado presidencial de la Región del Biobío, Julio Anativia (ex-Renovación Nacional), presentó su renuncia al cargo en medio de la controversia generada por las denuncias cruzadas de violencia intrafamiliar entre él y su exesposa, Javiera Aroca.\nLa polémica se desató tras una entrevista concedida por la mujer a Patagual Radio, en la que reveló haber presentado una acción penal por presuntos m",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados",
+        "Concejales"
+      ],
+      "fecha": "2026-10-30T11:42:20+00:00"
     },
     {
       "titulo": "Le robaron siete terneros, buscó durante semanas y los encontró a la venta en Marketplace: PDI investiga posible participación de excandidato a concejal San Pablo",
@@ -5631,17 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-27T08:57:47+00:00"
-    },
-    {
-      "titulo": "Quinta postergación en 2 años: rechazan sobreseimiento y aplazan cautelares de alcalde de Coronel y otros cinco imputados - Diario Concepción",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjczdGRTOGV6VXZfZy1MUUUzbGxDcktNV1pGT3A4dnVnNDNMRlBqbzd1MjVUdjQwdV9DZUNMNnJ1Q2tZWVJhVmJveUZmdzJtTnJGaElON2s5M1lHWG5OMmh4bmFmYk5nTWdacUdLT0cwbjRnNmQ1NTJUX3NqdEVKbWxWSVptRzZmd3VPMGNuYkhUa1U0cGhfRDlMRElULW9PU3JEQVNJUXhpY3Zmc0h6Q0owc0VMUQ?oc=5",
-      "fuente": "Diario Concepción (vía Google News)",
-      "region": "Biobío",
-      "resumen": "Quinta postergación en 2 años: rechazan sobreseimiento y aplazan cautelares de alcalde de Coronel y otros cinco imputados&nbsp;&nbsp;Diario Concepción",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-27T08:35:34+00:00"
     }
   ]
 }
