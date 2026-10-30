@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-30T03:16:34.084878+00:00",
+  "actualizado": "2026-10-30T03:31:34.995016+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Detienen a mujer de 22 años acusada de amenazar de muerte al Presidente Kast por redes sociales",
+      "link": "https://cambio21.cl/pais/detienen-a-mujer-de-22-anos-acusada-de-amenazar-de-muerte-al-presidente-kast-por-redes-sociales-6ae40b112c1c0f07f65661b5",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-30T03:14:23+00:00"
+    },
     {
       "titulo": "Olmué: Tribunal desechó querella de alcalde contra concejala que lo llamó \"machista\"",
       "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/olmue-tribunal-desecho-querella-de-alcalde-contra-concejala-que-lo/2026-10-29/235333.html",
@@ -5629,17 +5640,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-27T00:57:10+00:00"
-    },
-    {
-      "titulo": "Kast regresa a Santiago para monitorear emergencia por lluvias en la RM - El Día",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUtaN3Y3eFlGRHM0eHd1Zk90ZFQ3Y2Zvb1hpTkpXUHdDX1RlTGdLYWlPTGVJNFdpNHo5X0h3XzRLTi14NnQ1R2NxTFdrbE85dnpVcHlERlRnemVNMlc1Nnp3T0ZXRjVUQUpyQUlhSEJreG5jYlRmSUFXejN5TEJLS2g4WlcwU1NTVmw1ZTRQNUIyc3FrU2hRUXlLd295REI2OEJQREtSSGNOSkFraHhsWVVRWFVSUjBSRGZsaVJfUGhmRGs?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Kast regresa a Santiago para monitorear emergencia por lluvias en la RM&nbsp;&nbsp;El Día",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-27T00:42:45+00:00"
     }
   ]
 }
