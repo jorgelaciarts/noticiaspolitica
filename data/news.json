@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-30T04:01:25.025622+00:00",
+  "actualizado": "2026-10-30T04:16:39.472877+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senadora Yasna Provoste y la cifra de más de un millón de cesantes: \"Es clave reactivar la inversión pública y eso no se ve en presupuesto 2027 del Gobierno\"",
+      "link": "https://cambio21.cl/politica/senadora-yasna-provoste-y-la-cifra-de-mas-de-un-millon-de-cesantes-es-clave-reactivar-la-inversion-publica-y-eso-no-se-ve-en-presupuesto-2027-del-gobierno-6ae41673c806906f3c0260b4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-30T04:05:15+00:00"
+    },
     {
       "titulo": "Papa León XIV confirma que recibirá a Kast en el Vaticano. La cita será el próximo miércoles",
       "link": "https://cambio21.cl/el-mundo/papa-leon-xiv-confirma-que-recibira-a-kast-en-el-vaticano-la-cita-sera-el-proximo-miercoles-6ae414916efba857bb278d68",
@@ -12,6 +23,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-30T03:55:02+00:00"
+    },
+    {
+      "titulo": "Diputado Guzmán respalda a ministro Rabat pese a error en rebaja de condenas: \"Tengo una buena apreciación jurídica\" - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZmdtSHZHRkc0c0FQNGpYNG1SY1NIanNxMmdHUmpMV196TzFuWE5hRDkzWmVUemRQQmJfd2pOYjdfUnNEWi0zUnIycTd5Ym8wRzN0MEtLRTh6eWNvcHl2eDUyOFdrdmMxWldURF9uUnZvR2F6dDVhdjVkSDFtemlJeUJFbEZoTFJPLVN0VF9pazVmYUpPZUtFaWUwR2JKY1Z5cWE2RmdSNkZTQQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Guzmán respalda a ministro Rabat pese a error en rebaja de condenas: \"Tengo una buena apreciación jurídica\"&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-30T03:30:00+00:00"
     },
     {
       "titulo": "Detienen a mujer de 22 años acusada de amenazar de muerte al Presidente Kast por redes sociales",
@@ -5616,29 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-27T02:26:10+00:00"
-    },
-    {
-      "titulo": "Alcalde de Lo Barnechea: No nos alertaron sobre la intensidad de la lluvia; no podemos seguir así",
-      "link": "https://www.cooperativa.cl/noticias/pais/tiempo/alcalde-de-lo-barnechea-no-nos-alertaron-sobre-la-intensidad-de-la/2026-10-26/231919.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El alcalde de Lo Barnechea, Felipe Alessandri, criticó en Cooperativa que las autoridades correspondientes no advirtieran a tiempo el carácter del intenso sistema frontal de este lunes, que ha generado estragos en el sector oriente de la capital.\n\"Ha sido sumamente intenso, y no fuimos alertados de que iban a precipitar 20 milímetros en cerca de una hora 15 minutos\", fustigó el jefe comunal, remar",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-27T02:19:19+00:00"
-    },
-    {
-      "titulo": "Guillermo Ramírez (UDI) defiende al ministro de Justicia, Fernando Rabat: “No tiene que renunciar... es una revelación” - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUGZvZTM1Um5zdll2OVhJUWozZ2VqOWQtWWx2R2x0VzRGYWh6aXlEcXJmSngwQ2hOUzAzN2s4Z01lS0NfZW1zdC05UlUyN3RIbG1WNVZiVHFPTG9CLUxIOW4zc1N4RWJlSV9CbEZOS1U1b2tKdG9HMlI4T29UclZaTFh6bGFOU2xCQWcwNmxHOUEtSG9wR1ZVTlFMMDdyRWZ4ajVFMDVqenFqUHJXTkdBQXlZM09ZRjY2SC1GUHlUUVhzV1E?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "Guillermo Ramírez (UDI) defiende al ministro de Justicia, Fernando Rabat: “No tiene que renunciar... es una revelación”&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-27T01:12:16+00:00"
     }
   ]
 }
