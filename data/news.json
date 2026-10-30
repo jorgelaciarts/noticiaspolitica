@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-30T00:31:46.732663+00:00",
+  "actualizado": "2026-10-30T00:46:39.548065+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Estoy seguro de que estamos muy cerca de llegar a un acuerdo”",
+      "link": "https://ladiscusion.cl/estoy-seguro-de-que-estamos-muy-cerca-de-llegar-a-un-acuerdo/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Presidente José Antonio Kast llegó este jueves a Concepción con una señal para los gobiernos regionales en medio de la discusión del Presupuesto 2027: el Ejecutivo está disponible para alcanzar un acuerdo que permita acercar posiciones frente a los recortes planteados para el próximo año. “Estoy seguro de que estamos muy cerca, más cerca [&#8230;]",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-10-30T00:41:11+00:00"
+    },
     {
       "titulo": "Presidente inaugura Centro Teletón financiado con fondos del GORE en medio de negociaciones por recortes a ese mismo presupuesto",
       "link": "https://ladiscusion.cl/presidente-inaugura-centro-teleton-financiado-con-fondos-del-gore-en-medio-de-negociaciones-por-recortes-a-ese-mismo-presupuesto/",
@@ -5626,17 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-26T22:36:00+00:00"
-    },
-    {
-      "titulo": "Formalizan al alcalde de Coronel por fraude al Fisco: Fiscalía estima perjuicio de más de $1.300 millones - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3lFaFVHenNmNE11bmZ2UVZUMEQxYy11NjdhOEFlYjFuTnZxUFhFNjJfTzhwdU1kekdFbnhycUpJRDduWnVWTk55LXZqbTZYbGhuWkpLbk92Y3NPTzFTU2Y2amJpWnhJeVFjQlpaTlBoaFQtckdFMjBscUZ5Wk81RHhHMnZLWWlIczVSQ1QwU3B2ZDJyeVhuU3dEOTRTWXR6NU54VnBwUVN0MW1UWlFCclpNaGRJMW1VRVJNV0h2ZXVBSkY3X3ZlR1ZFUURmNDRmMjVTQzh1VW8xdw?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Formalizan al alcalde de Coronel por fraude al Fisco: Fiscalía estima perjuicio de más de $1.300 millones&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-26T22:31:58+00:00"
     }
   ]
 }
