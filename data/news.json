@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-10-30T02:46:25.416399+00:00",
+  "actualizado": "2026-10-30T03:01:44.151023+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Olmué: Tribunal desechó querella de alcalde contra concejala que lo llamó \"machista\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/olmue-tribunal-desecho-querella-de-alcalde-contra-concejala-que-lo/2026-10-29/235333.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Juzgado de Garantía de Limache declaró el abandono de una querella por el delito de injurias y calumnias que el alcalde de Olmué, Jorge Jil, presentó en septiembre pasado en contra de Beatriz Apablaza, concejala de la misma comuna.\nLos hechos objetados por la acción legal ocurrieron durante el Concejo Municipal del 17 de agosto, oportunidad en que la edil acusó al jefe municipal de levantarle l",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-30T02:53:33+00:00"
+    },
     {
       "titulo": "Caso Dominga: Ambientalistas piden que Kast no convoque al Comité de Ministros",
       "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/mineria/caso-dominga-ambientalistas-piden-que-kast-no-convoque-al-comite-de/2026-10-29/223301.html",
@@ -2140,6 +2152,17 @@
       "fecha": "2026-10-28T22:26:35+00:00"
     },
     {
+      "titulo": "cfa gobierno quiroz kast hacienda - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSlhTNDNjSmgyVE9fSEgycFZmVk1zbVpzOHlhUFZ5aVMxZk03U2Q0U3pvZldUeGJEOGRMR0pyX1UxV25mZGhZOTlqa2xtUUlZT2wyU2dpLUlHMlA4b21RdGxsdlRTeW1Za2FmYm5IRXllLVM0Yjd6a3JzM2FaMl8xWVU2R2xLUVhWN1FKSGI2dFZCWF9ORklkNA?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "cfa gobierno quiroz kast hacienda - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-28T22:25:37+00:00"
+    },
+    {
       "titulo": "Concejala Villarroel llama a organismo pertinente a reparar rejillas en mal estado que en algunos casos \"no dejan dormir a los vecinos\" - El Divisadero",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQOFl4NktJeWFQSUNmNEhvOGYwOHpCZEFnSzBlTHZSak9WQkVFc01pdnRHclZ1b0NkdllxWUwtcnV1UGdWTXVGQ0d5QlVtTTlOUThfZ1JSMEIyZkoyNFRyTzBuY2Y1YlM0WjBnTzlHRW9rRUMwamxCRHc4R19QZ0NkWlh4TUdmZ1E5RWlRS2VkSVVGd2FfNDdtMkVZNGFTaFJRSVVTUzktOGJGaW9pU1ZYZkhFZjRJMG1heDRPSE9xWHF6bWxsdEpKU1FxZjZHa2RaSEd0V2lXaU9aVHA1cGZqWXZrQUhodWFSM3NuTTVfU1ZuMjZaVTA1b2ZZemtWMHMxZWsxVlMwcG1sbm8?oc=5",
       "fuente": "El Divisadero (Coyhaique, vía Google News)",
@@ -3143,6 +3166,17 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T14:45:32+00:00"
+    },
+    {
+      "titulo": "Ximena Ossandon peor crisis gobierno - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYlc5ZGd2eEd1QUJFSGRXSU5tWVA0UW81a1NaaEJpRnJzNzdGWk9EQnBITV9FLXZzN1N3WEdWQWxhU2prWmRKY19xZEZBbFlkVFNOWTM1cTBYOUxJTHBwd3JfZnV6Tmg2S05FbFc3Y0hzY2pheEQzVV9XWHB6RlMxbHNQNUU2bU94OUh6a0FhYTdMOV9qXzFoUUphelNYcjQ?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ximena Ossandon peor crisis gobierno - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-10-28T14:26:06+00:00"
     },
     {
       "titulo": "“Por supuesto”: Rabat asegura que mantiene la confianza del Presidente Kast pese a cuestionamientos transversales - Universidad de Chile",
@@ -5606,40 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-27T00:36:00+00:00"
-    },
-    {
-      "titulo": "Diputado Moreno (REP) acusa a ministros de Boric de rechazar beneficios a agresores sexuales para \"blindarse políticamente\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3g1WC03YjNTLVFGbGJtNkhLVy1iazNkcXJ2aWdyLWg0dzJicWJ3bnd1NXhfdXNIR0h6ejF6ajZEUUtldVIyNGhIRFVjaFdDRFBEUEtlOWU3eEJRankyQ0wzLVJTMlFSMVBBT3JEV1FfZ3ZqOFVFTnJpM01RdkVqSkpNbmU1UlRQbzRjNVFNcGlKMkZIbkZ2VlVjMHlMNXlndXRsV1lLVlhacmlValBDMTZGbl9EQTl2cWc4TzdUZ0tpSjdDTXfSAcYBQVVfeXFMTUd4NVgtN2IzUy1RRmxibTZIS1ctYmszZHFydmlnci1oNHcyYnFid253dTV4X3VzSEdIenoxemo2RFFLZXVSMjRoSERVY2hXQ0RQRFBLZTllN3hCUWp5MkNMMy1SUzJRUjFQQU9yRFdRX2d2ajhVRU5yaTNNUXZFakpKTW5lNVJUUG80YzVRTXBpSjJGSG5GdlZVYzB5TDV5Z3V0bFdZS1ZYWnJpVWpQQzE2Rm5fREE5dnFnOE83VGdLaUo3Q013?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Moreno (REP) acusa a ministros de Boric de rechazar beneficios a agresores sexuales para \"blindarse políticamente\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-27T00:36:00+00:00"
-    },
-    {
-      "titulo": "Kast regresa a Santiago desde Atacama para monitorear emergencia por intensas lluvias en la RM - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZmxuakpOWkRoTGkybmYtY3hHdXRvUWcxRmNVUlA1N3VDT1FfVVVUSzFnV0JRcVpjOXV0Ny1uaXNUeVZ6N3g3T0w3Z01fcHV5dXV0YVFCMWtERkZHems3b2JVZHpkdVFMQlVZdnlqZFJGSzFscElPbUQ5N3pLenZ5VEd3bDREQkJNenB5TkZzRTM1UGpOakpXWklubnBsTzlyS2M0REpOWmhTVzZ0UjFxbk1Zb2ZINkI5Ym1tTUNjVy1QT1E4dDJfRU13bkFCVzR6VTN4UjNqak13ZlE2LU51U2o2MFlIWXRjOXl0Y1dZRWZmOFNU?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast regresa a Santiago desde Atacama para monitorear emergencia por intensas lluvias en la RM&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-27T00:17:14+00:00"
-    },
-    {
-      "titulo": "La apuesta de Kast por una relación pragmática con Brasil tras la reelección de Lula - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaXBuc3JJNTdCWE93ZUpuUUpOWDFDWDVIN3ZBbnIyMTB5N1dhUzU3aFV2LTF4TUszNEF2M2VTcUw3WkRFUTFyZWNILTU5VVdwdXRMUG8zSHNMamduNDZjZzF6TnQwRW5mODQzWFRUVTVmM0ZKVlp0T3lIVFo0a3VsdmxTblZlMmJFdXhlV1Utdm0tNDZ5SGwtZmZXTElIZGxzYUpSTEd0TWprWFhRdlA1elRBMEJ2LWZGQkIzbFNESTh6Qld2UGxN?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La apuesta de Kast por una relación pragmática con Brasil tras la reelección de Lula&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-26T23:51:06+00:00"
     }
   ]
 }
