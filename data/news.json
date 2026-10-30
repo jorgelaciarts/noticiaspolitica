@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-30T19:46:36.626855+00:00",
+  "actualizado": "2026-10-30T20:01:17.624634+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Recuperan espacio público de Villa Doña Rosa que era foco de delitos e incivilidades",
+      "link": "https://ladiscusion.cl/recuperan-espacio-publico-de-villa-dona-rosa-que-era-foco-de-delitos-e-incivilidades/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Un sitio marcado en el pasado por delitos, incivilidades y falta de iluminación en Villa Doña Rosa, es un espacio recuperado para las familias. Se trata del proyecto Espacio Recreativo Las Torres, que será inaugurado próximamente luego de que culminaran los trabajos encargados por el municipio chillanejo. El alcalde Camilo Benavente Jiménez, destacó que “esta [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-30T19:48:29+00:00"
+    },
     {
       "titulo": "Fiscalía Centro Norte abre investigación contra ministro Rabat y subsecretario Silva tras denuncia de diputados Cuello y Santana",
       "link": "https://www.elciudadano.com/chile/fiscalia-centro-norte-abre-investigacion-contra-ministro-rabat-y-subsecretario-silva-tras-denuncia-de-diputados-cuello-y-santana/10/30/",
@@ -5640,17 +5651,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-27T17:10:37+00:00"
-    },
-    {
-      "titulo": "Brasil cancela los pasaportes de Flávio Bolsonaro y se desconoce su paradero",
-      "link": "https://www.lanacion.cl/brasil-cancela-los-pasaportes-de-flavio-bolsonaro-y-se-desconoce-su-paradero/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "Las autoridades brasileñas cancelaron los pasaportes de Flávio Bolsonaro luego de que el senador no cumpliera una orden judicial para entregar sus documentos. La medida se adoptó tras su derrota electoral frente a Luiz Inácio Lula da Silva, mientras la Policía investiga si abandonó el país rumbo a Argentina. Una fuente policial brasileña confirmó este [&#8230;]\nThe post Brasil cancela los pasaport",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-27T17:07:52+00:00"
     }
   ]
 }
