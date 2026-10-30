@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-30T01:16:16.802410+00:00",
+  "actualizado": "2026-10-30T01:31:38.994300+00:00",
   "total": 500,
   "items": [
     {
@@ -1697,6 +1697,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-29T11:09:46+00:00"
+    },
+    {
+      "titulo": "Camila Flores denuncia fiscales - La Segunda - La Segunda",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjVjZXJLMXMzV3BjV0txcFItelFDR0xVTGRDVW1KbzNPQnd4ejdVN29RTi03aFIzNVZZSFBZb0dnclZpaXd6TXRxSF9zejZYb2RIWWV4RW5QWHJuUEdDOElDalh4b3BDVExDV2NTWGVKejVRd1cxTTJZamY5dGF2QVdzaFRqaVBpSHU2ZW9uMXZheFltbHZVSA?oc=5",
+      "fuente": "La Segunda (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Camila Flores denuncia fiscales - La Segunda&nbsp;&nbsp;La Segunda",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-10-29T11:09:22+00:00"
     },
     {
       "titulo": "El fugado Flavio Bolsonaro se declaró como “verdadero Presidente electo” y “líder de Brasil”",
@@ -5628,17 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-26T23:19:46+00:00"
-    },
-    {
-      "titulo": "U. de Chile pidió en la Cámara reponer fondos para la Gran Sala Sinfónica Nacional",
-      "link": "https://www.cooperativa.cl/noticias/cultura/arte/u-de-chile-pidio-en-la-camara-reponer-fondos-para-la-gran-sala/2026-10-26/201853.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Ante la Comisión de Cultura, Artes y Comunicaciones de la Cámara de Diputados, la rectora de la Universidad de Chile, Alejandra Mizala, y la directora del Centro de Extensión Artística y Cultural (CEAC), Dominique Thomann, pidieron a los legisladores \"reponer la glosa que financia las actividades y la programación de la Gran Sala Sinfónica Nacional\", detalló la Casa de Bello.\nSegún la universidad ",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-26T23:18:53+00:00"
     }
   ]
 }
