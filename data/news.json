@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-31T15:31:45.297332+00:00",
+  "actualizado": "2026-10-31T15:46:38.231962+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ñuble refuerza coordinación con municipios ante pronóstico de tormentas eléctricas para este sábado",
+      "link": "https://ladiscusion.cl/nuble-refuerza-coordinacion-con-municipios-ante-pronostico-de-tormentas-electricas-para-este-fin-de-semana/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con el propósito de anticiparse a eventuales emergencias producto del sistema frontal pronosticado para este fin de semana, el delegado presidencial de Ñuble, Diego Sepúlveda, sostuvo una reunión de coordinación con alcaldes, equipos municipales de emergencia y el director regional (s) de Senapred, Cristián Matus. La instancia permitió revisar las condiciones meteorológicas previstas para la [&#82",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-31T15:42:21+00:00"
+    },
     {
       "titulo": "Hombre murió tras ser arrastrado por una ola mientras pescaba en Zapallar",
       "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/hombre-murio-tras-ser-arrastrado-por-una-ola-mientras-pescaba-en-zapallar/2026-10-31/111731.html",
@@ -5642,17 +5653,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T05:21:45+00:00"
-    },
-    {
-      "titulo": "No es que les falló el Estado: les falló el Presidente Kast - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVEt1QWo2ZGpGTGIzb0l2UXBja0s5ZGZPWDdJUGpEcURSZGNkX1pTclBZbjl2N2RsOEY0M0xUOER2RE02aHBTSkhVeUJUV0NIUzQtUDM5Rm1Bd2tSblIzUUZFTHFsVl9PbHVpdTl3Sms1YklEbFpmZzM1am1tUWpidWJXYmpULXhvbVl6RGlldEo3UllDMnNwVVZqUTRKRUVoVU14UFZjSC1nRVZzV3JPME0zNTV3X2V5RkJ2TkhzOXQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "No es que les falló el Estado: les falló el Presidente Kast&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-28T04:02:58+00:00"
     }
   ]
 }
