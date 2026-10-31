@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-10-31T15:01:40.798843+00:00",
+  "actualizado": "2026-10-31T15:16:20.390443+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Hombre murió tras ser arrastrado por una ola mientras pescaba en Zapallar",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-valparaiso/hombre-murio-tras-ser-arrastrado-por-una-ola-mientras-pescaba-en-zapallar/2026-10-31/111731.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un hombre de 35 años falleció tras ser arrastrado por una ola mientras practicaba pesca recreativa junto a un grupo de personas en el sector de Piedra Blanca, en las cercanías del cerro La Cruz, en la comuna de Zapallar (Región de Valparaíso).\nDe acuerdo con los primeros antecedentes, el accidente se produjo cuando una ola irrumpió y alcanzó sorpresivamente a dos de los integrantes del grupo, arra",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-10-31T14:17:31+00:00"
+    },
     {
       "titulo": "Diputado Araya: La AC contra el ministro Rabat debe seguir incluso después de que renuncie",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/diputado-araya-la-ac-contra-el-ministro-rabat-debe-seguir-incluso/2026-10-31/105703.html",
@@ -5642,17 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T04:02:58+00:00"
-    },
-    {
-      "titulo": "Senador Iván Flores por ministro de Justicia luego de conocerse que también se le rebajaron condenas a delincuentes del Tren de Aragua: “Ya no tiene espacio político para seguir en el gobierno; es imperdonable”",
-      "link": "https://cambio21.cl/pais/senador-ivan-flores-por-ministro-de-justicia-luego-de-conocerse-que-tambien-se-le-rebajaron-condenas-a-delincuentes-del-tren-de-aragua-ya-no-tiene-espacio-politico-para-seguir-en-el-gobierno-es-imperdonable-6ae15a0de9d1574ed75ca9e3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-10-28T02:21:55+00:00"
     }
   ]
 }
