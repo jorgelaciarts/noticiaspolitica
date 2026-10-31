@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T10:31:17.028689+00:00",
+  "actualizado": "2026-10-31T10:46:28.772706+00:00",
   "total": 500,
   "items": [
     {
@@ -157,6 +157,17 @@
         "Presidente"
       ],
       "fecha": "2026-10-31T00:02:49+00:00"
+    },
+    {
+      "titulo": "La última clase del profesor: El ascenso y la caída de Luis Silva en sus 233 días en el Gobierno de Kast - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmtmVHBobDM5RkVpcUZETXlmMTk4c0FGZExmZFZXTmNzOG9mT283ZW04bGVuT3FxNmtSQ1NhbzJjbjlaaExfSktkamt0T2kwdjFuU1VIM1dKcGVzZ3N0U2NyT2N0WnhGZVhXUTVlR3FBV3VvNXRkYk9HUkRmVXBKTHk4TzJ1eE04ZXJ0SzY4dGNiUTdQc3oycE1Pb01scTV3X3JyemtRN3hTTmNUVlF5cURtZ0RTdnF2ZGd2cXl2eG55MWEzS3Nv?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La última clase del profesor: El ascenso y la caída de Luis Silva en sus 233 días en el Gobierno de Kast&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-31T00:00:42+00:00"
     },
     {
       "titulo": "El sacrificio de Silva y el blindaje a Rabat: los mensajes de Kast para ordenar sus filas - BioBioChile",
@@ -5634,18 +5645,6 @@
         "Senadores"
       ],
       "fecha": "2026-10-28T00:07:17+00:00"
-    },
-    {
-      "titulo": "Legisladores de Ñuble piden cautela al Gobierno antes de definir adhesión a coalición impulsada por Trump",
-      "link": "https://ladiscusion.cl/legisladores-de-nuble-piden-cautela-al-gobierno-antes-de-definir-adhesion-a-coalicion-impulsada-por-trump/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La decisión del Gobierno de José Antonio Kast de mantener en evaluación la incorporación de Chile a la Coalición de las Américas contra las Organizaciones Criminales (A3C), impulsada por el Presidente estadounidense Donald Trump, abrió un debate que cruza la seguridad pública, la política exterior y las atribuciones del Congreso. La definición quedó pendiente luego [&#8230;]",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-28T00:06:44+00:00"
     }
   ]
 }
