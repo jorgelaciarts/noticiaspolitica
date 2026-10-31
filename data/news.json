@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-10-31T20:16:13.087682+00:00",
+  "actualizado": "2026-10-31T20:31:38.224780+00:00",
   "total": 500,
   "items": [
     {
@@ -46,6 +46,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-31T19:37:37+00:00"
+    },
+    {
+      "titulo": "Parlamentarios PDG exigen a Kast suspender gira a Europa por crisis de rebajas de condenas - Emol",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcVEwOXN4c29JQU1BSkVDejlyaS1EYzBDNXlxVXpuallLQzdfdlFucnp2YWgxTHVBUlM5S25EUGxTcDd0ckw5ODdOTGlaV2hkcS1BVGp6c2xXVG5IQ0xGaXU2MTk5TnR6ck5vbVFGTlpVR1lDN3ZWeEY5anAyUFpNQ25jUVVDVlpvQVIydll0SzBCZlBNX2c?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Parlamentarios PDG exigen a Kast suspender gira a Europa por crisis de rebajas de condenas&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-10-31T19:37:00+00:00"
     },
     {
       "titulo": "(VIDEO) CAOS INTERNO EN EL MINISTERIO DE JUSTICIA ⚖️ Acusación Constitucional y decisiones críticas",
@@ -5647,17 +5659,6 @@
         "Elecciones"
       ],
       "fecha": "2026-10-28T12:48:13+00:00"
-    },
-    {
-      "titulo": "Arpillera de Violeta Parra se despide de Chillán este jueves",
-      "link": "https://ladiscusion.cl/arpillera-de-violeta-parra-se-despide-de-chillan-este-jueves/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Este jueves 29 de octubre llegará a su fin la exposición temporal “Un viaje de Violeta a Chillán”, que durante las últimas semanas permitió al público conocer la arpillera “La Brujita”, perteneciente al Museo Violeta Parra. La muestra, organizada junto al Museo Claudio Arrau León y la Unidad de Patrimonio de la Municipalidad de Chillán, [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-28T12:45:46+00:00"
     }
   ]
 }
