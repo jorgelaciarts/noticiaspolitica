@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T15:46:39.445670+00:00",
+  "actualizado": "2026-11-01T16:04:56.266832+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,18 @@
         "Senadores"
       ],
       "fecha": "2026-11-01T15:29:06+00:00"
+    },
+    {
+      "titulo": "Aprobación de Kast se desploma a sus mínimos históricos en medio de crisis en Justicia",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/aprobacion-de-kast-se-desploma-a-sus-minimos-historicos-en-medio-de/2026-11-01/121423.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La aprobación al Gobierno del Presidente José Antonio Kast cayó a su registro más bajo desde el inicio de su administración, alcanzando un 22,1% según la medición de Pulso Ciudadano y un 25% de acuerdo con Agenda Criteria, en un escenario político marcado por el desplome de la confianza pública y el rechazo ciudadano a la gestión de la crisis por beneficios penitenciarios a pederastas por parte de",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-01T15:14:23+00:00"
     },
     {
       "titulo": "“Es incomprensible que siga respaldando a un ministro que ha mentido”: Vallejo arremete contra Kast por continuidad de Rabat - La Tercera",
@@ -5632,17 +5644,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-28T18:08:11+00:00"
-    },
-    {
-      "titulo": "Presidente Kast en Enade 2026: promete \"borrar del diccionario\" la permisología y pide priorizar la inversión sin ruido electoral - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTcwT2xNRXFvSWs5SzB0a1RUeHdPZTlpWDFzTWVIaWhkZjFuajRLbkZ1R1NGNUI4SUZrS1RBekQwaXctUTJQcmpGeENQTXZkUjZ4dHQwQW1zeEd6WW9GZk5OamIwY0txRkRJLW0zeEFFajEwREZBS2xFTjJ6LVVnTk1XZlRkUjcwRGl3MXJ5eHBfOC1WSUtFVVRxbThydDd0VngzMkY4R05Dem1SYzJYWFFn0gG3AUFVX3lxTE1zeTZMYmtKVnVONS1oczVINFktbWhVMktOdTNVb0p3RnhnZUVkdVhMUDYwM2J1eTVoVHpENG56Q2ViU1BDbnlvVFE4ZENESFVIdHBwQkNUeFVRcGxJX1FOTkVZbWp2Y3h6MmRsZ1BjYS1HNjZOZ1Y1eGg3RGl5bmR4R01CNGlQZXppd2NNUlpFb3lvalRqS3FDbHByY1F6SkxFQTFXNE4wcnBnVDFwNVNTT1dKcEt2bw?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast en Enade 2026: promete \"borrar del diccionario\" la permisología y pide priorizar la inversión sin ruido electoral&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-28T18:08:00+00:00"
     }
   ]
 }
