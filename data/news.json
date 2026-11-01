@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-01T11:46:53.347440+00:00",
+  "actualizado": "2026-11-01T12:01:20.321014+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Familiares y funcionarios de San Gregorio  despiden a Luis Aguilera",
+      "link": "https://laprensaaustral.cl/2026/11/01/familiares-y-funcionarios-de-san-gregorio-despiden-a-luis-aguilera/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Este sábado se realizó la despedida para el amigo y colega de la Municipalidad de San Gregorio, Luis Aguilera Millapel. Desde el municipio, a través de su Servicio de Bienestar, se dispuso un bus con salida a las 11,30 desde el terminal de Villa Punta Delgada con destino a Punta Arenas, para atender al velatorio...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-01T11:50:37+00:00"
+    },
     {
       "titulo": "Pulso Ciudadano: Kast alcanza mínimo histórico con 22,1% de aprobación y 67,5% de desaprobación - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTW5GaUtKcmQtUVJIQXN3bjR0WnVGclB0RHJHVzRaeS1Za2pnTUVsWGFWRUpoY3g3eHA4di1XVDMwRUNuLXNKWnFQdUxsMlNUWGhpckNQWldEd3R5cVhKdzc2VktvODJXeUtkRzg2X2hxMVRWWGlXbjFtb3NwZmo0NXBPaUd1NnRGekdQX3h3SHUzOGhETHdhZWUyYkU2aV9Ld183cXJqNWd5YVhyRC1pS3J0U3JnWE5zSWpaTmVzc0NMVzhFYmY3bk9Cc3drM1F2Tk1MT0ZEckFNSlVGbTdPeC1SUzJXWlpZS2c5LXVHYw?oc=5",
@@ -5636,17 +5647,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T16:47:16+00:00"
-    },
-    {
-      "titulo": "Tras ocho meses de atraso: empresa que remodelaba la Plaza Perú de Concepción no logra completar obras y acumula $41 millones en multas",
-      "link": "https://www.theclinic.cl/2026/10/28/tras-ocho-meses-de-atraso-empresa-que-remodelaba-la-plaza-peru-de-concepcion-no-logra-completar-obras-y-acumula-41-millones-en-multas/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El atraso en el proyecto, que debía terminar en febrero, no solo ha provocado una caída de turistas en el sector, si que también millonarios perjuicios para sus locatarios comerciales. Ahora, la empresa no logró completar el plazo final de prórroga para completar las obras, acumulando $41 millones en multas. \"Lo más probable es que el municipio y la empresa se enfrenten en un proceso judicial\", af",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-28T16:37:20+00:00"
     }
   ]
 }
