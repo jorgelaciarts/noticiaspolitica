@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T19:31:18.219604+00:00",
+  "actualizado": "2026-11-01T19:46:38.853975+00:00",
   "total": 500,
   "items": [
     {
@@ -236,6 +236,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T14:43:00+00:00"
+    },
+    {
+      "titulo": "Kast inicia su primera gira por Europa como Presidente con paradas en Roma y Madrid - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWRoMWdnNjlsVVk1NDFtblhwTzVFMFBGU1M4QVliQVBCakZIbzZGMzZUNTE0dTFiMktWa0I2TWp1WlY1R244M051MU1sVzE4aGRoNjhjX2k2NG5fUXhDRWd1WG9EZVFPcV8zWWdFTVEzR21ZSE1BT1BYXy1BWTdGTGRZSkpaamw5TWpkSzd4R0lrVFNqekpWanc0TFI3SEZvMUVZQjh1NUhDUmJucDVqQk9oRmpFcm5xUE5WU09EUzFRUFpqQy0wOGRFeVlmUHh4S1E?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast inicia su primera gira por Europa como Presidente con paradas en Roma y Madrid&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-01T14:33:19+00:00"
     },
     {
       "titulo": "Encuesta Criteria: Kast cae a 25% de aprobación y el rechazo sube a 65%, sus peores registros desde que asumió - CNN Chile",
@@ -5633,17 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T19:54:59+00:00"
-    },
-    {
-      "titulo": "Las principales cifras de las elecciones legislativas de mitad de mandato en EEUU del próximo martes. Demócratas ganarían por 11 puntos al partido republicano de Trump",
-      "link": "https://cambio21.cl/el-mundo/las-principales-cifras-de-las-elecciones-legislativas-de-mitad-de-mandato-en-eeuu-del-proximo-martes-democratas-ganarian-por-11-puntos-al-partido-republicano-de-trump-6ae24f3209bc2e487855517b",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-28T19:42:26+00:00"
     }
   ]
 }
