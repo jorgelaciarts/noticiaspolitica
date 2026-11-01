@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T07:31:20.325064+00:00",
+  "actualizado": "2026-11-01T07:46:32.611939+00:00",
   "total": 500,
   "items": [
     {
@@ -35,6 +35,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T00:00:42+00:00"
+    },
+    {
+      "titulo": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQT1Z2MllveHZ6T0V1a2J0VEVyWnZfNzBVcFFRN3p6cmY0aDNySXF3NTAyU29MYTkzdm92ZlpWSlV1TjFDVWJTUW5aS0VibU9YbS1QV3VFSUZkWEYycGNOcnJVQktSWFBMaV9aQ3NHN0R5al9kdTlfczIzcHVYZTJmcmgtckdjSDZYRU1WZnB1MkVHT2hqQnpTUEpB?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La tragedia del Callejón Rabat: Kast, al borde de su voto duro&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-01T00:00:00+00:00"
     },
     {
       "titulo": "UDI pedirá a la Comisión de Ética sancionar a Bassa por dichos sobre \"red internacional de pedofilia\" - BioBioChile",
@@ -193,6 +204,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-31T19:37:00+00:00"
+    },
+    {
+      "titulo": "Tras dichos sobre supuesta “red de pedofilia”: UDI lleva a Jaime Bassa ante Comisión de Ética - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOU45SVhWTFgya1lGUFNJUDhtSFRmdlNCUjZYaVoySENMNFV6NHRDTFg5dEk3SktxY2Z1dzBLOHU4LWYtbHNwUVBpdVpTdlQzU2JtNS1UZHgxN2s0YXlLREViZUZIT2FONmFuNGkzMmMzVDRlTGFGU2JTb2pTd1UzOQ?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Tras dichos sobre supuesta “red de pedofilia”: UDI lleva a Jaime Bassa ante Comisión de Ética&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-10-31T19:34:57+00:00"
     },
     {
       "titulo": "(VIDEO) CAOS INTERNO EN EL MINISTERIO DE JUSTICIA ⚖️ Acusación Constitucional y decisiones críticas",
@@ -5624,30 +5647,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T15:29:55+00:00"
-    },
-    {
-      "titulo": "Oposición exigió al Gobierno entregar detalles de las rebajas de condenas a delincuentes sexuales",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/oposicion-exigio-al-gobierno-entregar-detalles-de-las-rebajas-de/2026-10-28/122725.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En la antesala de la sesión especial de la Cámara de Diputadas y Diputados por la rebaja de penas a condenados por abuso sexual y violación contra menores, los partidos de la oposición exigieron al Gobierno entregar todos los detalles de los decretos firmados por el ministro de Justicia, Fernando Rabat.\nParlamentarios opositores advirtieron que la instancia es una prueba de fuego no solo para el m",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-28T15:27:25+00:00"
-    },
-    {
-      "titulo": "Alcalde de Peñalolén clausura sede de la ANFP y acusa millonaria deuda con el municipio - El Día",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOck5RZDJXVzlNd0E4NEQwdy1ycjNlQ3BUejN1UGhxLU9FQ1RqWUozN2l5M1VlUEJBdG5xVVNoalZTT1Z4VWVTdXZTaHhGNjRweGdNdGNvYUZOUjJkOFRMTHBOSklUNHhfeUFPbVprZjl0YWtMVGpoTWhqSlozQnJ3ejhmUkRBRVZZRXFHUWhRekxNRElDTmFDUTRIbGZqVXlVbEpFQ0V2VHVBS1R5VjloRUQ2ZVZsT192eXJ4QzNTN3pLdmxwX3NpbEVzYWNnSnliMjNPbWliVjY?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Alcalde de Peñalolén clausura sede de la ANFP y acusa millonaria deuda con el municipio&nbsp;&nbsp;El Día",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-28T15:23:05+00:00"
     }
   ]
 }
