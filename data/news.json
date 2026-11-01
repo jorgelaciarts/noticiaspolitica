@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-01T22:46:34.199080+00:00",
+  "actualizado": "2026-11-01T22:58:20.405260+00:00",
   "total": 500,
   "items": [
     {
@@ -124,6 +124,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T20:11:14+00:00"
+    },
+    {
+      "titulo": "¿Caldo de cultivo? Cuáles son las principales emociones que despierta el gobierno de Kast en los chilenos: Encuesta señala decepción y rabia",
+      "link": "https://cambio21.cl/pais/caldo-de-cultivo-cuales-son-las-principales-emociones-que-despierta-el-gobierno-de-kast-en-los-chilenos-encuesta-senala-decepcion-y-rabia-6ae7952600925709b7190b63",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-01T19:47:17+00:00"
     },
     {
       "titulo": "¿Caldo de cultivo? Cuáles son las principales emociones que despierta el gobierno de Kast en los chilenos: Decepción y rabia",
@@ -5632,18 +5643,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-10-28T21:37:36+00:00"
-    },
-    {
-      "titulo": "Tres años menos de cárcel: la trama judicial del hombre que abusó a su hija de 11 años y obtuvo la mayor rebaja administrativa de condena firmada por Rabat",
-      "link": "https://www.theclinic.cl/2026/10/28/tres-anos-menos-de-carcel-la-trama-judicial-del-hombre-que-abuso-a-su-hija-de-11-anos-y-obtuvo-la-mayor-rebaja-administrativa-de-condena-firmada-por-rabat/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Treinta y seis meses menos tras las rejas, gracias a un decreto firmado por el ministro de Justicia, Fernando Rabat. Es, hasta ahora, la mayor rebaja identificada entre los 56 condenados por delitos sexuales contra menores que recibieron beneficios administrativos durante el gobierno de José Antonio Kast.\nThe post Tres años menos de cárcel: la trama judicial del hombre que abusó a su hija de 11 añ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-10-28T21:30:00+00:00"
     }
   ]
 }
