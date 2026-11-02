@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T05:31:31.025204+00:00",
+  "actualizado": "2026-11-02T05:46:29.963145+00:00",
   "total": 500,
   "items": [
     {
@@ -2613,6 +2613,17 @@
         "Elecciones"
       ],
       "fecha": "2026-10-30T16:30:16+00:00"
+    },
+    {
+      "titulo": "Feria Secretos de La Araucanía llega al Centro Cultural La Moneda con entrada gratuita: revisa fechas y actividades - Radio Pauta 100.5",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcmxiM183S1luOU9tRzRSaXRESmVaczNZRWFHVVBsOFVpUWw5bFpuSVZZTDNIbnBqb2JhREg4cVFhTGFfNDRwbDRXNDNqUlh2cDEwTEhWS0lZOWRtWmdTRXlaTld2a0FBaDFqbENocEtWMFp5VW1YUG9FSlQ3ckZaZHpLMGNIMTR0QUtCaU1nbzVrSFJXT0pYSVNyVFF6SVpTb09ZOUdnbFFsa3hYakZKeG0wNTh2YzVvQVh4blNyM2lRR2NDeU9kdWhGSjhPYjBsYTRjSTJwNThKRVJmOEtWZWUwQkVnVGNQZnBGeWZfcDZUUWsz?oc=5",
+      "fuente": "Pauta.cl (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Feria Secretos de La Araucanía llega al Centro Cultural La Moneda con entrada gratuita: revisa fechas y actividades&nbsp;&nbsp;Radio Pauta 100.5",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-10-30T16:27:03+00:00"
     },
     {
       "titulo": "Lo que dejó el cónclave del Partido Comunista de China: Más de 30 altos funcionarios fueron expulsados - Emol",
@@ -5630,17 +5641,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-28T23:23:16+00:00"
-    },
-    {
-      "titulo": "Regantes de Ñuble se oponen a proyecto “Un comunero, un voto”",
-      "link": "https://ladiscusion.cl/regantes-de-nuble-se-oponen-a-proyecto-un-comunero-un-voto/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Organizaciones de regantes de la región expresaron su rechazo al proyecto de ley conocido como “un comunero, un voto”, que modifica el Código de Aguas y que está pronto a ser votado por la Sala de la Cámara de Diputados, advirtiendo los efectos negativos que podrían ocasionar en la administración de las organizaciones de usuarios [&#8230;]",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-28T23:11:44+00:00"
     }
   ]
 }
