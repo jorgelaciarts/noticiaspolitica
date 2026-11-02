@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-02T00:46:36.775738+00:00",
+  "actualizado": "2026-11-02T01:01:42.631158+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta Cadem: Aprobación del Presidente José Antonio Kast baja a 26% - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWFhRkFLOVg1QlBQaFNSWF8zQ3ZING5XMFI5UEZqbkdBZmNNU29QdG1jWmtiT2hMZVlET2MzcF9tQnpkRFU4YUdDMnpaU3d1QzVsQ1BvMFdldDlNRkRFVm1PbTI5ZVZjaU5MeWJ1UHhmcTZHQUFSQ0UwNV91cEJHSVU0NVRtX2MteW9DVzNSTlptY2lQUWRienhvMFNwY2RTT1dVS0VzdEk4S3Q3VVpCNmk2LWk?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Encuesta Cadem: Aprobación del Presidente José Antonio Kast baja a 26%&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-02T00:41:59+00:00"
+    },
+    {
+      "titulo": "Cámara de Diputados respalda iniciativa para impulsar inversiones, conectividad y zona franca en Aysén - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNeWVkVXhWbEh2NDcwSlNCQkdvc0stR1V1czhyWFREVGZCM2g1VnhGOUtpbnliZEZWdVktYmlkMDFUNFpJZVg2VkxZV0FDeUJTZVd5dVhuRmUtOXpBd2xzSHJGbnEwN3lRWnVLZFp0bEY4eFRPQ2R0elZ3STczNTk1VFktUEpEb2h1d3BQOXd0Skg2TlJhc2lXZlh6V2UzemdiRERHanFjRUdQTnhIYjI3OFR2ejRmNlNHSTh2MTFzZTl1UE51SzkxSFpTcExpa3JhcGNNNHMyLTNEZE9fOEJNbXB1OG93bm9rbTlfeQ?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Cámara de Diputados respalda iniciativa para impulsar inversiones, conectividad y zona franca en Aysén&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-02T00:09:12+00:00"
+    },
     {
       "titulo": "Presidente Kast se reunirá con Santiago Abascal en Madrid al inicio de su gira por Europa - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzd4WEF0cTNVNzRlVEVITHFJYl9rWmE4TDcwYkM4Y2VuUGVGY0t3YXpjUGNrVmx2U005dlNjRGtfTmdnbkZaemZpQ1FleFB0a0I3eENkZGhHWXlzNllmcWxuU0c3cnJURTMxbVcyLVdDU2JNSjUxRGg4YXN6aGJJWjFuaHo1T2xzOXRKSDcycXZiOHI1Ul9KOTFJV0tzSGViM0ZRSHZ4b2c4Z3VqbDdmVDhpUGh0WDFaVHROZg?oc=5",
@@ -5621,28 +5644,6 @@
         "Concejales"
       ],
       "fecha": "2026-10-28T22:40:51+00:00"
-    },
-    {
-      "titulo": "Después de 33 años y por primera vez, Gobierno de Chile se abstiene de votar contra el embargo de Estados Unidos a Cuba en la ONU",
-      "link": "https://cambio21.cl/videos-y-galerias/despues-de-33-anos-y-por-primera-vez-gobierno-de-chile-se-abstiene-de-votar-contra-el-embargo-de-estados-unidos-a-cuba-en-la-onu-6ae278ac9e1b605c2921c3d6",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-28T22:37:51+00:00"
-    },
-    {
-      "titulo": "Después de 33 años y por primera vez, Gobierno de Chile se abstiene de votar contra el embargo de Estados Unidos a Cuba en la ONU",
-      "link": "https://cambio21.cl/politica/despues-de-33-anos-y-por-primera-vez-gobierno-de-chile-se-abstiene-de-votar-contra-el-embargo-de-estados-unidos-a-cuba-en-la-onu-6ae278ac9e1b605c2921c3d6",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-28T22:37:51+00:00"
     }
   ]
 }
