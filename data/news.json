@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-02T12:31:20.705724+00:00",
+  "actualizado": "2026-11-02T12:46:26.088842+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-02T12:22:27+00:00"
+    },
+    {
+      "titulo": "Diputado Leiva: La acusación constitucional no es contra el Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/diputado-leiva-la-acusacion-constitucional-no-es-contra-el-gobierno/2026-11-02/091921.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El jefe de la bancada de diputados del Partido Socialista, Raúl Leiva, insistió en Cooperativa en la necesidad de presentar una acusación constitucional en contra del ministro de Justicia, Fernando Rabat, por la decisión de rebajar las condenas a un grupo de abusadores y violadores de menores de 14 años.\nEn conversación con El Diario de Cooperativa, el diputado manifestó que \"nosotros tenemos la c",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-02T12:19:21+00:00"
     },
     {
       "titulo": "Diputado Leiva: AC a Rabat no es contra el Gobierno, es hacer efectiva una responsabilidad constitucional",
@@ -5627,17 +5640,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-29T11:16:49+00:00"
-    },
-    {
-      "titulo": "Oposición confirmó acusación  constitucional contra Rabat",
-      "link": "https://laprensaaustral.cl/2026/10/29/oposicion-confirmo-acusacion-constitucional-contra-rabat/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "La oposición confirmó que impulsará una acusación constitucional contra el ministro de Justicia y Derechos Humanos, Fernando Rabat, luego de expresar insatisfacción ante su desempeño durante la sesión especial en la Cámara sobre la polémica rebaja de condenas a autores de delitos sexuales contra menores. La presidenta del FA, Gael Yeomans, dijo en un punto...",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-29T11:16:08+00:00"
     }
   ]
 }
