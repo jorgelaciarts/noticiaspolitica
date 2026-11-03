@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T12:16:30.386301+00:00",
+  "actualizado": "2026-11-03T12:31:34.930907+00:00",
   "total": 500,
   "items": [
     {
@@ -659,6 +659,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T21:46:15+00:00"
+    },
+    {
+      "titulo": "Diputado Sánchez a senador Moreira: “No veo a nadie en el suelo, veo al oficialismo trabajando en algo muy complejo” - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMjlVVDVUS1M2TWJ5dHJVWkVtZkxOUm90RVc0bXN5SHQ1WmgtWjhDZkJDYmVBcWJibTRoTFFsVkMweXlwVy1TSlRTSGhaR3VfZzMzU3hSckljY2xzNmd2RnNKOV96UElkQzBYN1FZZTdCaVg3N3RBTHBmNGx3VzNmMkU3R1dMT1RrVWFlTUFLcFloWE12ZDJTdWxLUnZ0MFp3OGNPd1RJLTA3dWpILVBOT1hmYmZDSy1QZC14bjIwSQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Sánchez a senador Moreira: “No veo a nadie en el suelo, veo al oficialismo trabajando en algo muy complejo”&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-02T21:46:00+00:00"
     },
     {
       "titulo": "Diputado propone congelar el precio de las bencinas por tres meses: pide US$2.000 millones adicionales - Radio Agricultura",
@@ -5622,17 +5634,6 @@
         "Concejales"
       ],
       "fecha": "2026-10-30T11:30:00+00:00"
-    },
-    {
-      "titulo": "Tragedia carretera enlutó al municipio de San Gregorio  por fallecimiento de uno de sus funcionarios",
-      "link": "https://laprensaaustral.cl/2026/10/30/tragedia-carretera-enluto-al-municipio-de-san-gregorio-por-fallecimiento-de-uno-de-sus-funcionarios/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Profunda consternación generó la noticia del accidente automovilístico que en la mañana de este jueves cobró la vida de un funcionario de la Municipalidad de San Gregorio, y que dejó lesionado al conductor de un camión de transporte de combustible que impactó frontalmente con el vehículo menor. Este último era conducido por Luis Aguilera Millapel,...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-30T10:01:02+00:00"
     }
   ]
 }
