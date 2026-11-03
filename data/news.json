@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-03T01:46:34.872786+00:00",
+  "actualizado": "2026-11-03T02:01:44.239226+00:00",
   "total": 500,
   "items": [
     {
@@ -733,6 +733,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-02T17:24:21+00:00"
+    },
+    {
+      "titulo": "Term browse - Resultados de elecciones - Archivo Histórico Servel",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTTRXYU5McURJRnZSQ05DZWVGeEt4R0xmeXVJMkxPSEpXSzhTTE1IZ0hWYjBWSnFqVjB2NmJtTVVnb3hRRXhQWXprQ1dHY3dzdUpVbWpvckEzaUk1eUJfbWUySUJDbE9IQWx6dm1JZFVuMlVvSHRjXzN2M1NWQzBBMk1aTVBoOGxGMnFUeDJYTWhQWnRrcnFLWFo2UG1pbjZQWDhrVVlpUjN3el9GRmxiWDItUXRFOFRjMFAwWHpicEg0MlpyTDFUMDBmaVJkQ01PNDRyRkdPY0w?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Term browse - Resultados de elecciones&nbsp;&nbsp;Archivo Histórico Servel",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-02T17:21:52+00:00"
     },
     {
       "titulo": "La inusual presencia del ministro García en la gira de Kast por Europa que levantó críticas en la oposición",
@@ -5620,17 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-29T21:45:56+00:00"
-    },
-    {
-      "titulo": "“Si quieren que abandonemos el Gobierno, que lo digan”: Sube el tono entre la UDI y Republicanos por cuestionamientos al ministro Rabat - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazhRSlJIYTFfT1lxUW10LXFjYmp5OTl6NWVtbEpEU2w3eTJuZk4xNGxiNzlxNUhaOVVPNFdUNW5aRTJROUV3cjZGclhqVzRFMmRSTXhNcThhUkNXOEVqbDZLbWRERllla1ZmSjlVZTJPWWFXMnpJS0J6cHdiQWhHZW1GOVVTNUFwQnExRm93NW1OellHazRvQzZpanJHT1MzcTVhTE53MHk0ejI3Vm5V?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Si quieren que abandonemos el Gobierno, que lo digan”: Sube el tono entre la UDI y Republicanos por cuestionamientos al ministro Rabat&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-10-29T21:29:12+00:00"
     }
   ]
 }
