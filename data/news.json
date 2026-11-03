@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-03T15:31:18.012576+00:00",
+  "actualizado": "2026-11-03T15:50:25.264461+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast se reunió con el Rey Felipe VI en el Palacio Real y viajó a Roma",
+      "link": "https://cambio21.cl/tendencias/kast-se-reunio-con-el-rey-felipe-vi-en-el-palacio-real-y-viajo-a-roma-6ae9fd681fe16357a7120206",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-03T15:32:29+00:00"
+    },
     {
       "titulo": "Chile Vamos eleva presión por crisis de rebaja de penas tras reunión con Alvarado: RN y Evópoli mantienen críticas - ADN Radio",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPMmNYXzBlQ3U0WFNwOWxzUVVxQ3NrdWZlaGR2d0RQWmd3VVNGSG1FRjJybXpGVm1ad0RJSmZsV2JXekI2d2N2SUY4NDdUd3hMdnlHZVp2UGVKV2FaSDJNa2NuVWhjZExHTWVNS29Bc25uRl9HOTBhZUNnb1BSRzgwZHU4aDI1eEl1WUcxaTVKQTA1MDNIZ1lRaEJMcFRabkpHMGFlSXE2N1loVU9ZaTU2UUppd1dESHB2VHYzNF84S3NyR19HNkZwajBHeGppckppSTRrM042YXpoM1VYNDhSOXpDONIB9wFBVV95cUxPM2FZZ282SWJnUWd6TlBGbGotZFJRcUpsWmhaRXM3TlBtV2lqejJXU1BQUFc0T3RZUzZwcHZsbkU3bUJCX3pKZzVtWXBWVF9TQU1VZmVXWFBzdWJ4UEk0ZF9aZG8zUGcxd1ItY1p2akQ5Z0VjMXAwcU5ad3ZEcjR4emY3VGo0YVdQeTNYbEZvUFVjMmRuUXZ1b09zUVFJRmNWWE81NkR5S1ZHRlRFeVdLVUtSaG40a3h4TE1XblNRdElrazRaOUpyaE5GQ2lnaDJpVVdybW9BUzdrUldCalJvdGtiX0F5NEQ0ZGFtWE9hODFwLWxLTHA4?oc=5",
@@ -24,6 +35,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-03T15:25:31+00:00"
+    },
+    {
+      "titulo": "Matthei comparó a Rabat con la gangrena y dijo que votaría a favor de la AC",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/matthei-comparo-a-rabat-con-la-gangrena-y-dijo-que-votaria-a-favor-de-la/2026-11-03/121954.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La exministra Evelyn Matthei (UDI) dijo que, si fuera parlamentaria, apoyaría la acusación constitucional contra el ministro de Justicia, Fernando Rabat, en medio de la polémica generada por los decretos con que rebajó condenas a violadores y abusadores de menores de 14 años.\nEn \"Tolerancia Cero\" de CNN Chile, la excandidata presidencial confidenció: \"La (AC la) votaría a favor, y no porque crea q",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-03T15:19:54+00:00"
     },
     {
       "titulo": "Timonel PPD: \"La crisis se está empezando a hacer generalizada\"",
@@ -5612,29 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-10-30T16:07:13+00:00"
-    },
-    {
-      "titulo": "Sin previo aviso a Palacio y en medio de la crisis: la trastienda del video con que Luis Silva rompió su silencio y descolocó al Gobierno",
-      "link": "https://www.theclinic.cl/2026/10/30/sin-previo-aviso-a-palacio-y-en-medio-de-la-crisis-la-trastienda-del-video-con-que-luis-silva-rompio-su-silencio-y-descoloco-al-gobierno/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El subsecretario de Justicia subió anoche a sus redes una grabación de 4 minutos en la que se refirió por primera vez en extenso a la crisis que ha impactado al Gobierno, en la que buscó explicar el proceso detrás de las firmas que permitieron entregar beneficios a condenados por abuso sexual. Se trató de una iniciativa personal orientada a entregar su versión a sus seguidores, que no tuvo mayor c",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-30T16:02:28+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Controversia política por liberación de agresores sexuales de menores en Chile y crisis en el Ministerio de Justicia",
-      "link": "https://www.elciudadano.com/reels/video-controversia-politica-por-liberacion-de-agresores-sexuales-de-menores-en-chile-y-crisis-en-el-ministerio-de-justicia/10/30/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa diputada y presidenta del Frente Amplio, Gael Yeomans, critica duramente al ministro de Justicia, Fernando Rabat, tras la liberación de 56 agresores sexuales de menores, calificando las explicaciones como &#8216;aberrantes e injustificables&#8217;. La polémica destaca la priorización de trámites administrativos sobre la protección infantil, generando un llamado a la transparencia t",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-10-30T16:00:19+00:00"
     }
   ]
 }
