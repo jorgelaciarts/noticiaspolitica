@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-03T04:16:18.900465+00:00",
+  "actualizado": "2026-11-03T04:31:55.511043+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Destacada acádemica y analista internacional Paulina Astroza destroza gira en Madrid de Kast: “Absolutamente reprochable“; ”Y con dinero del fisco\"",
+      "link": "https://cambio21.cl/pais/destacada-academica-y-analista-internacional-paulina-astroza-destroza-gira-en-madrid-de-kast-absolutamente-reprochable-y-con-dinero-del-fisco-6ae95c77378734700b2a4e92",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-03T04:16:17+00:00"
+    },
     {
       "titulo": "Senador Moreira la tiene clara: Admite que hay una gran “crisis” en el Gobierno y oficialismo por firma de decretos para abusadores sexuales de menores: “Estamos en el suelo”",
       "link": "https://cambio21.cl/politica/senador-moreira-la-tiene-clara-admite-que-hay-una-gran-crisis-en-el-gobierno-y-oficialismo-por-firma-de-decretos-para-abusadores-sexuales-de-menores-estamos-en-el-suelo-6ae9552cc3e76f1a89179ba5",
@@ -1497,6 +1508,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T12:51:19+00:00"
+    },
+    {
+      "titulo": "Herrera por caída de Kast: “Si el Presidente no es capaz de conducir al país, nada va a estar bien” - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDhpRmpUZkZfU2RNVjdvd09NUEZRamxKY3hXSXlDWHFfZW54aGFIOXZBZUFYY1FyQU95eV80cWdDMFFIU0dYT0dieFQ3dTYzZG51TFNfdkhNa1ZTVDNWQnhjQ1V3Mno1dENSYVVQbHFaNTNqaUxDSkpjSFhmVjQ3RXVHZ01udG1LelM2d0hCVkhVaUpjVVJOUk50OEZvdnMwei16djZYMlpqaWhsQ2RkbnZYTXNUd2JIVTZud1Q5bmNuY1JwTXJYLVFzTjBOaEdXOFlKTW5zdnJ6eGlTcEVvLVZ3?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Herrera por caída de Kast: “Si el Presidente no es capaz de conducir al país, nada va a estar bien”&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-02T12:50:18+00:00"
     },
     {
       "titulo": "Avión del Presidente Kast aterrizó en Madrid con problemas de freno - Teletrece",
@@ -5610,28 +5632,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-10-29T23:05:34+00:00"
-    },
-    {
-      "titulo": "Diputada Yeomans (FA) apunta contra Rabat y Silva: \"Si no transparentan los decretos hasta ahora, es por algo\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWVEWjZXa01KR2FRZ2c5VnJjZlhoQmdBSXJxYURSc3pubDRiYVgycmM5UXVDM1NrVWtMTHBNOWs2WVFvYjJSQjNWdlRTUWZ3OVB4ek50ZU9YR2NVb3kyTHNMbkZmRlBRTmV1TjJPbXBuRndmNG41TGFidlJyOHd5T2RaTFNUZVY2RE9hUjhmQ1VDMWYzOUFZVUc4ejlzWDcydWZLQVNaUjFvZTAyTjYzU2tqd3NXeFQyQkZVUEx2VDRLMjTSAcMBQVVfeXFMTjllRFo2V2tNSkdhUWdnOVZyY2ZYaEJnQUlycWFEUnN6bmw0YmFYMnJjOVF1QzNTa1VrTExwTTlrNllRb2IyUkIzVnZUU1FmdzlQeHpOdGVPWEdjVW95MkxzTG5GZkZQUU5ldU4yT21wbkZ3ZjRuNUxhYnZScjh3eU9kWkxTVGVWNkRPYVI4ZkNVQzFmMzlBWVVHOHo5c1g3MnVmS0FTWlIxb2UwMk42M1NrandzV3hUMkJGVVBMdlQ0SzI0?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Yeomans (FA) apunta contra Rabat y Silva: \"Si no transparentan los decretos hasta ahora, es por algo\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-29T22:59:00+00:00"
-    },
-    {
-      "titulo": "Diputada Yeomans (FA) apunta contra Rabat y Silva: \"Si no transparentan los decretos hasta ahora, es por algo\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSlBnZFhYajBZNGN5aGJjdnB5S0NIVlVjR05EdVU4b1JrLXI4Sk1CLXpMQl8ySHdCRThKTEVIWEpKYnpKSGxWRzFTRVM4anRESlMyZ2NuWk1IU3ZaWVRtQVA3eWVKZGM4M09fVjRFX0IxWUE1ajI4Yy02a2plOV9qckI5VWxONU1WWkFBanFBTi1vc2JBdG5OQjFmTTRYR0pubXN0WnR4SUw5c0wtRGtMdk41Q2Z5eXRKUU5neWRB?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Yeomans (FA) apunta contra Rabat y Silva: \"Si no transparentan los decretos hasta ahora, es por algo\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-29T22:59:00+00:00"
     }
   ]
 }
