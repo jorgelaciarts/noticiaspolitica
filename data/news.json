@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-03T11:16:16.723263+00:00",
+  "actualizado": "2026-11-03T11:31:27.787837+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Un ministro de Justicia bajo investigación penal: Rabat figura como imputado en caso de rebajas de penas y Kast lo mantiene en el cargo",
+      "link": "https://www.elciudadano.com/justicia/un-ministro-de-justicia-bajo-investigacion-penal-rabat-figura-como-imputado-en-caso-de-rebajas-de-penas-y-kast-lo-mantiene-en-el-cargo/11/03/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa Fiscalía Nacional confirmó que el ministro Rabat  tiene calidad de imputado en la causa por presunta prevaricación administrativa, tras la denuncia penal presentada por los diputados Luis Cuello (PC) y Juan Santana (PS), mientras la oposición exige su renuncia y Kast insiste en no existen causales jurídicas para destituirlo.\nLa entrada Un ministro de Justicia bajo investigación pen",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-03T11:26:36+00:00"
+    },
+    {
+      "titulo": "Juez no dio a lugar  escrito de alcalde  Parada por caso  de exsecretaria  municipal",
+      "link": "https://laprensaaustral.cl/2026/11/03/juez-no-dio-a-lugar-escrito-de-alcalde-parada-por-caso-de-exsecretaria-municipal/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Un escrito enviado al Juzgado de Porvenir por el alcalde Gabriel Parada, por el que expone la imposibilidad de reintegrar a su secretaria municipal, Nataly Vivar, al municipio -como lo ordenara la Corte Suprema- no tuvo la aceptación esperada por el jefe comunal. En el texto, Parada menciona “dificultades” para devolver su puesto a la...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-03T11:16:27+00:00"
+    },
     {
       "titulo": "Kast afirmó en Madrid que “Chile está de vuelta  en el mundo” por la seguridad y Estado de derecho",
       "link": "https://laprensaaustral.cl/2026/11/03/kast-afirmo-en-madrid-que-chile-esta-de-vuelta-en-el-mundo-por-la-seguridad-y-estado-de-derecho/",
@@ -362,6 +385,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-03T00:32:00+00:00"
+    },
+    {
+      "titulo": "'La recibe nuestra nación': Kast recibe condecoración en Madrid - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGVFQ0liaDE3U25jRlRuckxpQjYtaG5NTWxpbTJjZUtiWGt5b2Jobl90VXYxQTFuUG5NTl9WV2t1bklQem5fZktmSFZqYWhkQ2tmVnBWQXR1d2s2N3ZuUnRSOFUxVEFuMXg4Qk00YnZXeWtvZHpodmpTTmlnemVzUjJVdGk5LV9EU3k1NWREeHpqSU9QaUU2Rk14QmtUWHVSbjJVYkRJLVMzSDd1WWxhdVNiX3VLcFJSdDlWd0NNY9IBxAFBVV95cUxNQTlCSVdHLUVLTnRlS3dFRlEyQld0bTZLWkQxamw2ZUwtLXUyRzg4YnpUX1FfamZFM0JxT1ZsMjFjd01UR0ZsOVhGcTNPN0tKZEpfaW1WYWhRcm1XSTZIMHU2cTdoUjJWNXNXUVVYM0R1ZDBUVTZ2WFJJcW9rcEFPb3BEQkJWekkxc0MwSW1ad1ppRHp5bkVQUXpzcXRKTDlIZk1UZnZvMGoxOHJDdWo4cU1EdGVaOWtwM2ExbWt5aHpOT3hp?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "'La recibe nuestra nación': Kast recibe condecoración en Madrid&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-03T00:04:00+00:00"
     },
     {
       "titulo": "«Devuelvan la plata»: Cámara aprueba admisibilidad de proyecto que obliga a las AFP a restituir las millonarias pérdidas de los fondos de pensiones",
@@ -5595,39 +5629,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-30T03:30:00+00:00"
-    },
-    {
-      "titulo": "Detienen a mujer de 22 años acusada de amenazar de muerte al Presidente Kast por redes sociales",
-      "link": "https://cambio21.cl/pais/detienen-a-mujer-de-22-anos-acusada-de-amenazar-de-muerte-al-presidente-kast-por-redes-sociales-6ae40b112c1c0f07f65661b5",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-10-30T03:14:23+00:00"
-    },
-    {
-      "titulo": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQazN3YWVZcUpZdU8zMzlmdEVsQUQ2aFNrRW1WcndONmpWUGYyWDN0dlpOR0V6eHBta2pXeGp3S01FSEEzM2tpX2dHeWdYdGpEQlZWOU9IUHp0cFNMWERzQ25mQnhDNnlIUEhCMWtZbVFWMkVvUGpZMUhNS0lqR1VlUTlPN254NUdUUVU5b013ejdqYmlTSDRQZldDMHBmY2RrdjVHUEdTLXBYVU40b2NHbWZXcnNQRkhjN1FrX2dkdmdNSEp6VWhmQmY2eHdwMnJMWnRpVWZoRGc?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cuarta subcomisión mixta rechazó partida presupuestaria de Servel propuesta por Ministerio de Hacienda&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-10-30T03:08:54+00:00"
-    },
-    {
-      "titulo": "raul soto ricardo lagos humilla - La Segunda - La Segunda",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU29WSHVZUGxSTzJRLUxZZTZLX180b0JpNXBXem5UZXE1YnRaeXExNTlXOF9SNEh4MkNlRXQxZnZXSGhmaTBNZ0w4dEE1QVdYM3EtcEV4R0hBM1RyTkR2eVlSZlFTMGRlUWdnRlJrOFVBLWUwbER0QzZuWVl6dzE2TC1jZlBBVTdEVmZ4b2xmbDZWYVlCeVNoSA?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "raul soto ricardo lagos humilla - La Segunda&nbsp;&nbsp;La Segunda",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-10-30T02:56:24+00:00"
     }
   ]
 }
