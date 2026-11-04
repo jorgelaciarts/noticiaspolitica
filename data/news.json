@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T04:16:32.323561+00:00",
+  "actualizado": "2026-11-04T04:31:31.646092+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-04T02:51:00+00:00"
+    },
+    {
+      "titulo": "Ximena Ossandón (RN) cuestiona respaldo de Kast a Rabat y advierte que todo el sector está pagando el costo político - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNWdLRVRLM2JJS21NQVVINEdTZHg3MzRNek5vTWxPU1FkMkZqc0lYRzB4d284YkNrQnBINmNHYllwQ3Z1UTBudjRINFl2ZXJLaktGbXVQX0dqTW4ydU9ZZEZIZlc0TmZZZExaT05TS1loN2FXbEhLVWFoQUxiXzlReW1mVVRWaEZpZU80dUQ1cnlmX1VGdWFTM3VqZ2wtN1hyck9XY091ZmUtVUF6OWdzZmRzTUZBVXBKYUpEa0JWNnBHYXpXY0Y3TXNVbTRXNHRrU1QwYXBUa3hiVDN2QU5aMmJTNTdxd215ZXRIX2Jfdw?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ximena Ossandón (RN) cuestiona respaldo de Kast a Rabat y advierte que todo el sector está pagando el costo político&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T02:40:58+00:00"
     },
     {
       "titulo": "Ximena Ossandón (RN) cuestiona respaldo de Kast a Rabat y advierte que todo el sector está pagando el costo político - La Tercera",
@@ -5618,18 +5631,6 @@
         "Diputados"
       ],
       "fecha": "2026-10-31T19:15:08+00:00"
-    },
-    {
-      "titulo": "Corte de Apelaciones de Valdivia ratifica prisión preventiva para el alcalde de Río Bueno Luis Reyes (UDI) por cohecho agravado y lavado de activos",
-      "link": "https://cambio21.cl/tendencias/corte-de-apelaciones-de-valdivia-ratifica-prision-preventiva-para-el-alcalde-de-rio-bueno-luis-reyes-udi-por-cohecho-agravado-y-lavado-de-activos-6ae6383bedb3bd4a1478f451",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-10-31T18:53:47+00:00"
     }
   ]
 }
