@@ -1,7 +1,53 @@
 {
-  "actualizado": "2026-11-04T15:01:37.276009+00:00",
+  "actualizado": "2026-11-04T15:31:30.107173+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diego Schalper (RN) y apunta al diseño de La Moneda: “Ha tenido sus virtudes, pero creo que ese modelo se agotó”",
+      "link": "https://www.theclinic.cl/2026/11/04/diego-schalper-rn-y-el-rediseno-de-la-moneda-pasa-por-modificar-las-estructuras-del-gobierno-que-son-precisamente-el-segundo-piso-y-el-gabinete-ministerial/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "En medio de la crisis que enfrenta La Moneda por las rebajas de condenas autorizadas por el ministro de Justicia, Fernando Rabat, el jefe de bancada de Renovación Nacional, Diego Schalper, plantea la necesidad de introducir cambios en la estructura del Ejecutivo. En conversación con The Clinic, el parlamentario advierte que el actual esquema de toma de decisiones está agotado y apunta a la necesid",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T15:23:09+00:00"
+    },
+    {
+      "titulo": "\"Kast quiere hundirse con su ministro\": Soto cuestiona permanencia de Rabat en el Gobierno - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTEVqMGlBRGIzQ0pBSkJPLVN4N00wYURWSktmOFNNb1dYUFg4OWI4WjQxN19raE1ienhwcTVDZmVNR3JDZkJfeGh0TlpMc0xiUEJGaXRLX1RPdkR6aGNSN3NUZ3pCSWxGSjRoanZjSXN4WFo1Q2FQcF9mMHFfSnl6NTFkTEtlTEVaWmllNG4tbkU2Um5XUUVPTXhn0gGfAUFVX3lxTE04ekRhWm1VTFRsbXZxRXBfLS1BM25WOGF2WDRURzNyZE5YNmVWNDJrSGQ4UE9tOXNMbU5JZmlzMEJ4R01QOHpBVXdaZFM2WEN1bi1QS0RSV2FmT0JYTUE5Tlh3OERTb2prYWFPLVN0T1pyUUxBUjU1TEROTERqWjN4TjJuTC1ld0ZuM2hVMDZjVFZ2Rk9VZkxoU3NMNHNrYw?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"Kast quiere hundirse con su ministro\": Soto cuestiona permanencia de Rabat en el Gobierno&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T15:13:00+00:00"
+    },
+    {
+      "titulo": "Kast abordó con el papa León XIV la crisis de natalidad, la migración y los desafíos por la paz mundial - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPeGN6NEpZd2tTWEMyYjBxNTVCUXE1Q1BhWEZYbzhEZGhGZ2xGX2dTWlJWeHRhLTFyQVRhYTZHdmlhX29WbDhheUEzZmpSQnZlYk5BdS1IdGlMTWhveEgtUFNkUzZxZTd6dGRLQlhMMFlGT0tZV0xKcE92b2N0Q3QwTjMxVlVmbjltdkRwM25FYURyVV9CeGh4Tm90LXNYbERlb2J0aDZCTnRxemk3LXBaYjd3aVRpeGRZaVFfTWZUcEJsQzNLZFNYZDBkeW1IOE9ncFlQNDBGTjRPYUN5bDVjV0g0a2R4VEU3MGdnMGFkQVFPTGPSAY4CQVVfeXFMTkZPckpXUXV5TUtMY0ZiU29JNjUyVTdKTHVjZnZnTXZIT295TFE4TUdpOEwxWENkQUhHQ2dqTUxNX1dMX1dHV2QzbDBKbnVicnplOU9XdE9KcXpheHRmSUVkd2RSbmZnV3NaOFF2X0ZzUVRBVzR6UkVWZHFTVE1ycXhOS3BGbnBibGk3SXRaSkxlQUF3MHJoTUN2aXg2OUdXSDNFdDNBeUtNTTJCVmJveFBHOTJ5MmplWHIxU1VEUEY5ejREMXNEYkNMU0JrbEdiSXY5LWhWcHpmYmU1ZW4tN3N3cERObmZNdXlFQnU5XzRWOVNpTEZsblNPSEkwbm4zNEE2bkJwdkVnMFhNT0h3?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast abordó con el papa León XIV la crisis de natalidad, la migración y los desafíos por la paz mundial&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T15:11:00+00:00"
+    },
+    {
+      "titulo": "Ahora en DF | Kast tras reunión con el Papa León XIV: “El Santo Padre ha manifestado su preocupación por la paz” - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmZIWE9GUFdDMGUxb1djSGM3SWVRaEJYeUhnQzI5eHJGOTVFTlBuTWx6UnBBZnZfdE9LMUtqc25lelZtdWZmY0czVklWcjNlaVNiTHEtUFRBWFBERndDc0FXZW5GNFpBM3Z2a0F2ZnBOTFhhcEFYajVCLXRXQkRuU0l2TXllUW5YSmYtSHh3V1F0RERIUTNIWUpIdTlRQXlqemZyaG53?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ahora en DF | Kast tras reunión con el Papa León XIV: “El Santo Padre ha manifestado su preocupación por la paz”&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T15:10:00+00:00"
+    },
     {
       "titulo": "Entregan $104 millones para limpieza de canales obstruidos por temporal en Portezuelo",
       "link": "https://ladiscusion.cl/entregan-104-millones-para-limpieza-de-canales-obstruidos-por-temporal-en-portezuelo/",
@@ -5592,50 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T16:50:33+00:00"
-    },
-    {
-      "titulo": "Los vínculos de Kast con Meloni y por qué ella es referente - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfUHN4SVhGVFBSTF8zOUdtWmxLTklETGdiUVNqX2pQWDloNUNwRTl6OHlIN3VpbFdVRHFOZFRZR2p6bkVaSzg3V3BhOTlnUnM3LUVBX2Juck9lbzRnZTdGVU5kWVJ3YzF0cTNKYnZCanNvLWY4TGdiUmdHVWcyQQ?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los vínculos de Kast con Meloni y por qué ella es referente&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T16:10:34+00:00"
-    },
-    {
-      "titulo": "Vocero de Gobierno aborda crisis por rebajas de condena: critica a Silva, apunta a un “ataque político” y reconoce error de Rabat, pero descarta su salida",
-      "link": "https://www.theclinic.cl/2026/11/01/vocero-de-gobierno-aborda-catastrofe-de-crisis-por-rebajas-de-condena-critica-a-silva-apunta-a-un-ataque-politico-y-reconoce-error-de-rabat-pero-descarta-su-salida/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El subsecretario Arenas transparentó que la crisis era una \"verdadera catástrofe\". Sostuvo que la salida de Silva se debió al video que subió, que fue leído como un deslinde de responsabilidades, pero que no había una intención de aplacar la crisis. Y pese a que reconoce que el ministro de Justicia, quien recibió advertencias sobre las consecuencias políticas de cambiar el criterio por las reducci",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T16:05:13+00:00"
-    },
-    {
-      "titulo": "Cadem: Presidente Kast llega a un nuevo máximo de desaprobación y un 70% cuestiona la continuidad del ministro Rabat - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQMk9WWEJDakxmaU1xV1RSOU5wN3BzUHBFeFluUmFiNS1RZUVVZ3N2OC12M09XSm9xd1pIS3lmRWFlemJGUGtwMXhONXVSZFA3MlBkcTI0dC1FLUh4akRQN3JqSEVIYjhXclktVXpjS0ZJVmVBMzktZEtoelhCNVFfUEViU1FQZmxBZEx3ZmpabVRfVkUyeGdtR2txSlZ5WWwwY1czUUtva3NiX01iTWF5TldDM0Jkb1NYRFMyb194YUFRSU5QWTRDMkhZNkM2N3RWTkdaWHlNOHpsY1Vaa1VkblBqdnZ3MnRESkZKTmpra0YwTm9RZVJxTGhfVlN3ZHlrckdTS1Rnc3JlaGp4UlYyMVdFZ2tfVVNIN2JVVDFB0gGjAkFVX3lxTE9sNmtOcE9PM2hnaU5JVkNsdU94M3lfS0hVZE9HNWY0NGwzb1JYM2RZOWhpSFBrYklPWmUteFNKUy1EMklUVVNZNnBOXzJRbVdYMVFMcDYwclZoYjN4RWJNZWlfdkNOcmtmd1BUb3dLV0lRR3lvLVZseW4tclJDeTFlQ3BHRkMyamhKTEJxYVJpY0lXdndJWGsyZHFUUWRnakNKLUJ6OHduajFjNzRDbFFRR0RINkE2MzJnZlVOQ1YybWRoRUpvb2ZKcHNZYU8xTU5UZU1RRFRIbHdLOWRQY1V2VDVHVmxWQ3ctOHhqZGhmRWpHYjY0dHltcTVRSWV4enJWOXRCM3FmYmlYRy16Mk1qNG8wLWJvcDZVNjBDNlozTXZKQQ?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cadem: Presidente Kast llega a un nuevo máximo de desaprobación y un 70% cuestiona la continuidad del ministro Rabat&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T16:00:00+00:00"
-    },
-    {
-      "titulo": "Diputado Leiva y AC contra ministro Rabat: \"Es muy difícil establecer que actuó con prevaricación\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTZ2UlB3cDl6X1hMMTg5ZmtaU19hQU4yS1JrLTJrLXk1UENISE1qR3NmVjV5ajJMTE1jMTBMN1RZOWJTOUhCYVlkZndHSW1CVUJ0ZHJ1ckNKMTRaYnBWeHdIWFJqYnUtWDVteVJ1Z0NZZmRyZ2RqQVlaOGxkTHdSSWYxVnRhMXhVZldibEdKbjRFNDlZMFBqZGNRUFoxN0pYR05BSWVFbXpTcE9reG1peVhjTTZNQkpGd0cwMmVHR0Z1ejA?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Leiva y AC contra ministro Rabat: \"Es muy difícil establecer que actuó con prevaricación\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-01T15:58:00+00:00"
     }
   ]
 }
