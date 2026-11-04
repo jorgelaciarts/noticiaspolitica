@@ -1,7 +1,42 @@
 {
-  "actualizado": "2026-11-04T21:16:27.606883+00:00",
+  "actualizado": "2026-11-04T21:31:28.640205+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Papa León XIV expresó su cariño por Chile en audiencia con el Presidente Kast",
+      "link": "https://laprensaaustral.cl/2026/11/04/papa-leon-xiv-expreso-su-carino-por-chile-en-audiencia-con-el-presidente-kast/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Presidente de la República, José Antonio Kast, sostuvo este miércoles 4 de noviembre una audiencia con el Papa León XIV, en el Vaticano, encuentro en el que abordaron materias como la paz internacional, la familia, la baja natalidad y las relaciones entre los países. La reunión contó con una delegación chilena integrada por representantes...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T21:24:14+00:00"
+    },
+    {
+      "titulo": "Diputados gobiernistas presionan por cambio de gabinete. Ministros de Kast lo descartan e incluso se entregan nombres de los que saldrían",
+      "link": "https://cambio21.cl/politica/diputados-gobiernistas-presionan-por-cambio-de-gabinete-ministros-de-kast-lo-descartan-e-incluso-se-entregan-nombres-de-los-que-saldrian-6aeb9d4304dadb197f6b8b03",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T21:17:56+00:00"
+    },
+    {
+      "titulo": "El nuevo rol que tiene Daniel Jadue en la Municipalidad de Cerro Navia - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWmJFVWJjZ3pyY2pzVlN0RVZvbVgxRHJON1NVOG5CS0E2SXZBVm9MNHVoVUVRdnRFYXBuXzZLV015a2h0MjRUUzNaWVpOMUotOG1QTmNxdmtiQ0l4cW1kLXd6aTc1WjlUQW45YzA5QnBnUkdqWWR0SnlWQ21MNWVtaWtleG5DbkRFV28wRUxCR1hWb0dZbHI1OUZuTVRkNmtaVXQwb0tB?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El nuevo rol que tiene Daniel Jadue en la Municipalidad de Cerro Navia&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-04T21:11:00+00:00"
+    },
     {
       "titulo": "Gobernadores doblan la mano a Hacienda y llegan a acuerdo con Quiroz para evitar un recorte de los recursos a regiones en 2027",
       "link": "https://www.theclinic.cl/2026/11/04/gobernadores-doblan-la-mano-a-hacienda-y-llegan-a-acuerdo-con-quiroz-para-evitar-un-recorte-de-los-recursos-a-regiones-en-2027/",
@@ -646,6 +681,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T15:23:09+00:00"
+    },
+    {
+      "titulo": "Kast prepara amplio cambio de gabinete que incluiría salida de Rabat y ajustes en el Segundo Piso - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLTdlVEg4ajIwMmFYaFR5OEtDR1hQZ0JuTnpYbllXUlpsN1FMSFBjVGdIdm8yaEp5NDdNMmowMkFrLUpteldyUjlxaTRCcklBQ3ptbTl1TTVKQnd2SlpuNGl1RG9SSnhGdFdUOTQtTzhDR2FnUUZUVjNUbkt5SkJvZDZ0dkI4RDAzT3VXeHJCVWVROEVhTkROM21Fem42bUVVY2VWa3hYOGEydWcwN2laYjdnZ2ZwSG5jTU9aY0kwX1BPUlc2WXhMYUlGV1h3V2VKYmZRZkNIR1RVZ1RNTDk4UktjTVY?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast prepara amplio cambio de gabinete que incluiría salida de Rabat y ajustes en el Segundo Piso&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T15:21:23+00:00"
     },
     {
       "titulo": "\"Kast quiere hundirse con su ministro\": Soto cuestiona permanencia de Rabat en el Gobierno - 24horas",
@@ -5596,53 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T12:34:22+00:00"
-    },
-    {
-      "titulo": "El presidente José Antonio Kast de Chile llega a Madrid para la Cumbre Iberoamericana - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlh0VzFaQ2dtODBBdkJvNVVJT2t4REEzeEZnN3JVLWloMHhVekVmbnZmdzRVazEyWi1sMWV6WE1mUWxta212V2R4NGdlc1V6SGhiUkhGV2ZrbFNqRWZzbUtGeGppWHl6VlUwakgzUGdocWh3LU5LZ25CMndlLWxzRFFiMzl5aThRY0NZSGdkWE9MQVBhZmh2cFJYaGY3WlVDakZyZEZ6UFZ4eDFHdVdwUVFlT0stX3NHQUdpelVzeUFaVXZmNk1VSFI0VGZ5Q0QyM2piY9IB7wFBVV95cUxQS2xhSXVrc09RZVQ2NnQtbGtUenlsd0Q2YWNFTEFzVGpzMjYxMnBYa1VKTnZYUWJxUXRvamFIaTJWMzUxVkNyc1BGQ1JVcG9PdE1uVlJKRXJac3RDcFowRTk5X1FOZTlOX2psTkx6YVRUSVdOVzNiSzMwOG0tZUFESGdwY001MmZXNUd2dkw3Q2VLaDZSWUcwTWNqYWdLSGhkNURFSFJ0NUp4dEwwLW14MExia3I5N3ptUVFtb0g1QzEzTFBLbTJfZDBnalBHSEk0MTFVdkhtWFAzQVRSQXpZTEpSUEJkQ1dpSmNscjBVOA?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El presidente José Antonio Kast de Chile llega a Madrid para la Cumbre Iberoamericana&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-02T12:30:00+00:00"
-    },
-    {
-      "titulo": "titulo seo Agustín Romero advierte a Chile Vamos por eventual apoyo a acusación contra Rabat - Radio Pauta 100.5",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxONzZadmJaVXZvTy1IdW1USVlyMmVFS0RsbXp5SUZXRXJ1bDE2SjhaY09aQkRaVjU4Qzh0MlpoZ0ZmdHhESlI1Z3dCdEJSUFo5NlRVb1ZWYTdxNVdHSUdiR0VtZTVuS2IyaHNYUzlnNUhUOVNpcmlLNXpibnRDcldOa21CWXJwbVpSc2hXSkZSVUtaRWZZeU5xbjZ6T1lfWUh1T25PWEFFVi1jLWp1ODJqVXR1VVhnWEN3aUlaNG5Hdm1kNjNiT3RxVzdGNE1MWFM3SGt4OTAxMmI1LWlXZXNFcXVCQ3JUWThOQW5sU0FuM0tzSUVPT012SWkwYlNMR0dPYmZwNmlJR2hRN1lpbWhYVzJJRQ?oc=5",
-      "fuente": "Pauta.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "titulo seo Agustín Romero advierte a Chile Vamos por eventual apoyo a acusación contra Rabat&nbsp;&nbsp;Radio Pauta 100.5",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-02T12:29:43+00:00"
-    },
-    {
-      "titulo": "Franco Parisi apunta a Presidente Kast por Rabat: “Si no se soluciona este problema, no se saca nada yendo al Vaticano” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcV9ieDVzNU9uLWZXT0hFSk5YcGhwNXkzN0YxTmdrRHFRZDREX3lReExoajZNMFMwODBEQXZoWHJxajdFY0dlSlE2STVfaUNKd1B1SWJIblZkVzRGU3dtdG9LdEhhMWdKRkNkVkh4c1JNbVNyMmJmY19RbVdKclhSY3VpZVB4N3M5RmwtcGZMTnhfemE3OEtrQXFJcGxuQUt6VmhYajN4Qko3QjVmdWlYaFZMajB3VkYzQWxzNWVjZmFkQ0hlY01QNmE0bG5BM0F2clJPV25YYVc2dS1oMEw2SWhMN2hycGtiVGktN0ViUmJmbzl0T1VJcWhCQ2RjeUJsaUI5aVBn?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Franco Parisi apunta a Presidente Kast por Rabat: “Si no se soluciona este problema, no se saca nada yendo al Vaticano”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-02T12:22:27+00:00"
-    },
-    {
-      "titulo": "Estados Unidos: los votantes republicanos que pueden dar la victoria a los demócratas - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcW9WTXVhTThHSVJVZ1pQLThzcV9NaXhPSURSMzV2MWVWMktyM1FmZGlEUks4am1rbkd5MlpsTGZJb2ZSSVNVY2ZWcXVMMnlWVDNUaHhmdjdvcjF4dDBJYVgybTM4YmlEOGRiRUVmN2RwZjNyZXE2NzhEYUFlLXp3N0w3MkdwOEREYnNlRzhQN3I1WEJ6V204b1VlcE9PUm9LbjJfNkZfdVEzTEhRMFBpM0ZxSmJNelY0aWI0dg?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Estados Unidos: los votantes republicanos que pueden dar la victoria a los demócratas&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-02T12:21:40+00:00"
     }
   ]
 }
