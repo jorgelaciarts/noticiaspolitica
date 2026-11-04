@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-04T20:46:22.915356+00:00",
+  "actualizado": "2026-11-04T21:01:36.928509+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Un justo homenaje”: Municipalidad de Santiago inaugura el Centro Comunitario Presidenta Michelle Bachelet - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnJJUlRtcVg3aFZQUElOU2hkNWxoWkxsaTdReTRyNDZXVUhuWGpVVF9sUHRaaHZtSVFHaW5xeWViOXpZcl9ZdGc3UE9mc3R2alhVVkhGdTQ1LUFBWXRhcFA0S01Wc2dpaTV1WEJ5QVMwc004bmlTVkpvV3EwU0s4LS1WY3V6dVJnU2V5OW1FUXR3WE9xaVUwc2lkZjhCVDEtRmtROXN4MjNNWi1UQkRxOW5LX0ZPTnM?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Un justo homenaje”: Municipalidad de Santiago inaugura el Centro Comunitario Presidenta Michelle Bachelet&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-04T20:54:27+00:00"
+    },
     {
       "titulo": "Municipalidad de Santiago inauguró Centro Comunitario Presidenta Michelle Bachelet",
       "link": "https://www.lanacion.cl/municipalidad-de-santiago-inauguro-centro-comunitario-presidenta-michelle-bachelet/",
@@ -34,6 +45,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T20:30:24+00:00"
+    },
+    {
+      "titulo": "Presidente Kast participa en la inauguración de la XXX Cumbre Iberoamericana en Madrid - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON3VSSHprUjJQMmh2M2UzQ1BNZzhIX3lnazdhSVBrUGZ1VklQcTRUS1FsbnE0OEhLVXlUcndzdThxbE9tS1FaNFdsX2Y0d1RoM2VvTVdkb0xnV1JXa1V5UlA0ZW1YVHJ2TzJYak9Kd1AtQmlCeF9iZVVmMHgtMFd4NWE2WkNTU1l4U3pqa3BxUGdleVF0WHdCR01aTHZDOENELXg1NWtPLXlPVGRQY0k4c0FhWlN4eXJXT19Yc3pIVkFzdExoMFF0dmxR0gHrAUFVX3lxTE9uV21MMS05aGxhMXdQZ0F0REZOeWRSa3haMVlkTllTR2hZTEF2dTRaMUlRMjJLR0FEbVFiSkRTNUg1QURhRWkxOGRoNnpVZDNESmpaV05qNkFuNmFSV2pNektrdTRRdXJYa200QnU2SFRqLUZSMW9nRnNoQkxzSXpzS2hyWS1DYktmbUpfclJFVld2V19SVE55S1VkMkpBS083cG80SFhEUTVwRF9yQ2xSYVg2RDBSVjdMZFgxMy1fajQtZWdCc0xTSUM1blY3YzRCNmJnblBBbFZabGkydWtXS1BteUJabFVpZjg?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast participa en la inauguración de la XXX Cumbre Iberoamericana en Madrid&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T20:26:21+00:00"
     },
     {
       "titulo": "VIDEO: Donald Trump reconoce que la guerra en Irán influyó en los resultados de las votaciones de medio mandato",
@@ -282,6 +304,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T17:57:03+00:00"
+    },
+    {
+      "titulo": "cambio de gabinete Kast - elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTazlROUtDLVEtRHBXbUNyVmM5eHMwRVF4allIYmFYUjg1MHdNSWNIMnhtakFpdkRoYWxCUkNpeE5CeHQ1bUE2ZnhLTVZxR2poMlFTMEFJZXdNZVNQbTlIaFE2TE8taV9wVjlxRnhqSQ?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "cambio de gabinete Kast&nbsp;&nbsp;elobservatodo.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T17:56:46+00:00"
     },
     {
       "titulo": "Kast prepararía cambio de gabinete para la próxima semana: Rabat sería uno de los ministros que saldrían - www.elobservatodo.cl",
@@ -5613,39 +5646,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-02T12:19:21+00:00"
-    },
-    {
-      "titulo": "Alcalde de Lanco valora futuro retiro de peaje troncal y reemplazo por cobro electrónico - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOalhyOW1vX2JIUHdZQVdMQ3MzY1RDT09XZzk5aGtaYWdOYmhXY2N2OGNUSmdpb2IyUEo1WjlGem1uMHBpLW8xRE5jWmdrSjF5QlpReDFPM05NQTRyMDQ5T1NzRmVaZkFpZzVlWGM3blFGRDduZ28xT0I1WGxZai1RQ19CdUNybXdmM0tvSEZDOHdyS3VJRHFIWjRVSGwtYVV6bmxEdWxmQUdfTnY1SEF0WVE2WnFPd25KdnlRM0YwSjl5b041SmJqSnJQelJWMTVIcjhGZ09zcFI5eGhDYWNZQUZsR3VTZEU4VjF0eDQzSlNrVlA2T0U1YkxlMUs2UQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Lanco valora futuro retiro de peaje troncal y reemplazo por cobro electrónico&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-02T12:18:43+00:00"
-    },
-    {
-      "titulo": "Estados Unidos: los votantes republicanos que pueden dar la victoria a los demócratas - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcW9WTXVhTThHSVJVZ1pQLThzcV9NaXhPSURSMzV2MWVWMktyM1FmZGlEUks4am1rbkd5MlpsTGZJb2ZSSVNVY2ZWcXVMMnlWVDNUaHhmdjdvcjF4dDBJYVgybTM4YmlEOGRiRUVmN2RwZjNyZXE2NzhEYUFlLXp3N0w3MkdwOEREYnNlRzhQN3I1WEJ6V204b1VlcE9PUm9LbjJfNkZfdVEzTEhRMFBpM0ZxSmJNelY0aWI0dg?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Estados Unidos: los votantes republicanos que pueden dar la victoria a los demócratas&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-02T12:15:30+00:00"
-    },
-    {
-      "titulo": "EN VIVO: El Presidente Kast aterriza en la Base Aérea de Torrejón de Ardoz, Madrid - Emol TV",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFA3RS1ndHczUTZ4T185SnhPY3NMcW1JQ3ZSRXBDTTd3aVZYRDdvblJxRFkxR0VHRzJ6M2ZBUVJrdUxFTE9IQVRETEJ5M0ltaGdpZDRPMFV6X0dYbDVIdE1oRFA4dWJjLVNlMlFNZFprUDZqQ0tVRmx3LUE5dGpRakJWX2ktY1hfbkpKb0xGdzBvVWI5T0hLb0FuY2dvbHlwZ1JSY2wtRkR0N3lMNVVCUTY3SWJhdGlBdXRzcnN5TmlJNEk?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "EN VIVO: El Presidente Kast aterriza en la Base Aérea de Torrejón de Ardoz, Madrid&nbsp;&nbsp;Emol TV",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-02T12:09:20+00:00"
     }
   ]
 }
