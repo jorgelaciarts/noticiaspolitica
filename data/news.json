@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-04T18:01:35.783462+00:00",
+  "actualizado": "2026-11-04T18:16:25.903326+00:00",
   "total": 500,
   "items": [
     {
@@ -69,6 +69,18 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T17:24:47+00:00"
+    },
+    {
+      "titulo": "Puente Alto: Entregan de urgencia 148 viviendas sociales luego de saqueos y demoras burocráticas",
+      "link": "https://www.cooperativa.cl/noticias/pais/vivienda/viviendas-sociales/puente-alto-entregan-de-urgencia-148-viviendas-sociales-luego-de/2026-11-04/141801.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un total de 148 familias de la comuna de Puente Alto recibieron este miércoles las llaves y escrituras de sus nuevas casas, correspondientes a la primera etapa del proyecto habitacional La Platina Lote 31, proceso que debió adelantarse luego de que las viviendas terminadas fueran blanco de saqueos y amenazas de tomas ilegales en los últimos días.\nVecinos denunciaron que delincuentes ingresaron a l",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-04T17:18:01+00:00"
     },
     {
       "titulo": "Gobiernos regionales logran acuerdo y frenan recorte en presupuesto 2027",
@@ -5631,17 +5643,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-02T00:09:12+00:00"
-    },
-    {
-      "titulo": "Presidente Kast se reunirá con Santiago Abascal en Madrid al inicio de su gira por Europa - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdzd4WEF0cTNVNzRlVEVITHFJYl9rWmE4TDcwYkM4Y2VuUGVGY0t3YXpjUGNrVmx2U005dlNjRGtfTmdnbkZaemZpQ1FleFB0a0I3eENkZGhHWXlzNllmcWxuU0c3cnJURTMxbVcyLVdDU2JNSjUxRGg4YXN6aGJJWjFuaHo1T2xzOXRKSDcycXZiOHI1Ul9KOTFJV0tzSGViM0ZRSHZ4b2c4Z3VqbDdmVDhpUGh0WDFaVHROZg?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast se reunirá con Santiago Abascal en Madrid al inicio de su gira por Europa&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T23:59:33+00:00"
     }
   ]
 }
