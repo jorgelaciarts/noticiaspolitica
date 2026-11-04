@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-04T23:20:42.365414+00:00",
+  "actualizado": "2026-11-04T23:31:28.062431+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Chillán tendrá dos jornadas de música, danza y actividades solidarias",
+      "link": "https://ladiscusion.cl/chillan-tendra-dos-jornadas-de-musica-danza-y-actividades-solidarias/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con una amplia programación artística y diversas actividades solidarias, la Municipalidad de Chillán se prepara para sumarse a la Teletón 2026, convocando a la comunidad a participar de dos jornadas que reunirán música en vivo, danza, gastronomía y entretención familiar en la Plaza de Armas de la ciudad. Las actividades comenzarán este viernes 6 de [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-04T23:24:44+00:00"
+    },
     {
       "titulo": "(VIDEO) ¡Terremoto político en Estados Unidos! Los demócratas se imponen en las elecciones de medio mandato, arrebatan el control del Congreso a Donald Trump y marcan hitos históricos en el mapa electoral.",
       "link": "https://www.elciudadano.com/reels/video-terremoto-politico-en-estados-unidos-los-democratas-se-imponen-en-las-elecciones-de-medio-mandato-arrebatan-el-control-del-congreso-a-donald-trump-y-marcan-hitos-historicos-en-el-mapa/11/04/",
@@ -5628,17 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T14:05:00+00:00"
-    },
-    {
-      "titulo": "Pulso Ciudadano: aprobación de Kast cae al 22,1% y 74,2% cuestiona continuidad de Rabat - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWnZicWwwVGlFRm9sTi1UUlVobFRhSUJadlhsc2V4ZEZmcjJIbHh1MnhSbHUxbjdVT1RvOEt6enRaVHhyZE1oVHNzYzhid3dYRnZIUTVGb0VGSktaVThlRXcwRy1xV1Z1eFByTHgySk1fQzNHa0x6REdDOFh3bFZEN3dadmFmNTF3Z1dndmNnTFVfeUhYNzI4c2xNMDl6ZEg3MlllZW5TMU1WNHNN?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Pulso Ciudadano: aprobación de Kast cae al 22,1% y 74,2% cuestiona continuidad de Rabat&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-02T14:04:03+00:00"
     }
   ]
 }
