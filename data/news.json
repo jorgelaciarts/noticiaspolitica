@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-11-04T13:01:44.651330+00:00",
+  "actualizado": "2026-11-04T13:16:36.791691+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La ofensiva del Frente Amplio contra las granjas de bots y el uso de IA en campañas electorales que fue respaldada por el Servel",
+      "link": "https://www.theclinic.cl/2026/11/04/la-ofensiva-del-frente-amplio-contra-las-granjas-de-bots-y-el-uso-de-ia-en-campanas-electorales-que-fue-respaldada-por-el-servel/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Gonzalo Winter y Constanza Schonhaut visitaron la sede del Servel el viernes pasado para presentar al órgano un proyecto de ley que busca darle mayores atribuciones de fiscalización en elecciones, tras el polémico caso del consultor argentino Fernando Cerimedo. La iniciativa surge cuando el propio ente electoral busca modernizarse ante la emergencia de nuevas herramientas digitales para utilizar e",
+      "categorias": [
+        "Servicio Electoral",
+        "Partidos políticos",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-11-04T13:04:55+00:00"
+    },
     {
       "titulo": "Kast se reunió con el Papa León XIV en el Vaticano",
       "link": "https://cambio21.cl/pais/kast-se-reunio-con-el-papa-leon-xiv-en-el-vaticano-6aeb2aa0e068ae0264742774",
@@ -5623,17 +5637,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T12:48:25+00:00"
-    },
-    {
-      "titulo": "Hijas del general Prats emplazan a Kast por indultos a criminales de lesa humanidad: “La impunidad corroe la conciencia moral de una nación”",
-      "link": "https://www.elciudadano.com/actualidad/hijas-del-general-prats-emplazan-a-kast-por-indultos-a-criminales-de-lesa-humanidad-la-impunidad-corroe-la-conciencia-moral-de-una-nacion/11/01/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nFamilia Prats enfrenta a Kast por eventuales indultos a violadores de DD.HH.: En una carta abierta entregada en el Palacio de La Moneda, las hijas del general Carlos Prats González y de Sofía Cuthbert Chiardini manifestaron su rechazo a los indultos presidenciales anunciados por el mandatario para agentes del Estado condenados por graves violaciones a [&#8230;]\nLa entrada Hijas del ge",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T12:40:14+00:00"
     }
   ]
 }
