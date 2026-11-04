@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-11-04T17:16:22.445544+00:00",
+  "actualizado": "2026-11-04T17:31:42.244992+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Celis admite que presentación de AC contra Rabat “se ha demorado más de la cuenta”",
+      "link": "https://www.lanacion.cl/celis-admite-que-presentacion-de-ac-contra-rabat-se-ha-demorado-mas-de-la-cuenta/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El senador Ricardo Celis (PPD) se refirió a la presentación de la Acusación Constitucional contra el ministro de Justicia, Fernando Rabat, y al emplazamiento del Presidente José Antonio Kast a la oposición. En conversación con Desde la Redacción de La Tercera, Celis manifestó que “si tú anuncias algo tienes que hacerlo. Entonces se han demorado [&#8230;]\nThe post Celis admite que presentación de A",
+      "categorias": [
+        "Presidente",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T17:24:47+00:00"
+    },
     {
       "titulo": "Gobiernos regionales logran acuerdo y frenan recorte en presupuesto 2027",
       "link": "https://ladiscusion.cl/gobiernos-regionales-logran-acuerdo-y-frenan-recorte-en-presupuesto-2027/",
@@ -12,6 +25,29 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-11-04T17:15:00+00:00"
+    },
+    {
+      "titulo": "Demócratas continúan ampliando su ventaja en Congreso de EEUU - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRVVJT2hLUHVjMFA0M3pGUk9SLW9UeUtwMU9kVUoyd3dBckd1QWNCWlNiUEVGeG9fY2dQcUR1ajVjR01aQkdGeFlqdEE3aXNva2s0TEhnb1U5LXRReWRQVmRUVlp3ZXF3SGxMSEVVN1I2QmFYdVd1Y01tMW9TWE05dnprU2JMTzUxRTFkSVluVUZEdw?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Demócratas continúan ampliando su ventaja en Congreso de EEUU&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-04T17:13:25+00:00"
+    },
+    {
+      "titulo": "Dólar y petróleo cayeron tras el histórico triunfo de los demócratas",
+      "link": "https://www.cooperativa.cl/noticias/mundo/ee-uu/elecciones/dolar-y-petroleo-cayeron-tras-el-historico-triunfo-de-los-democratas/2026-11-04/141102.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los mercados internacionales reaccionaron al histórico triunfo de los demócratas en las elecciones de mitad de mandato en Estados Unidos, con efectos también en la economía chilena.\nEn nuestro país, el dólar descendió hasta ubicarse en torno a los 970 pesos, luego de cerrar la jornada anterior por sobre los 981 pesos.\nMientras, el petróleo Brent cayó un 7,7%, situándose bajo los 96 dólares por bar",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-04T17:11:02+00:00"
     },
     {
       "titulo": "Schalper por carta de RN: “Queremos que el Presidente vuelva a un Gobierno de emergencia y unidad”",
@@ -192,6 +228,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T15:33:00+00:00"
+    },
+    {
+      "titulo": "Caso Rabat: Contraloría llegó al Ministerio de Justicia para recabar antecedentes",
+      "link": "https://www.cooperativa.cl/noticias/pais/organismos-del-estado/contraloria/caso-rabat-contraloria-llego-al-ministerio-de-justicia-para-recabar/2026-11-04/123220.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Funcionarios de la Contraloría General de la República se constituyeron este miércoles en dependencias del Ministerio de Justicia para recabar antecedentes relativos a los decretos de rebajas de condenas otorgadas a personas sentenciadas por delitos sexuales contra menores de edad.\nLa diligencia responde a múltiples requerimientos que ha recibido el ente fiscalizador para pronunciarse sobre los cr",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-04T15:32:20+00:00"
     },
     {
       "titulo": "Diego Schalper (RN) y apunta al diseño de La Moneda: “Ha tenido sus virtudes, pero creo que ese modelo se agotó”",
@@ -5595,50 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-01T22:30:07+00:00"
-    },
-    {
-      "titulo": "Núñez llama a avanzar “en paralelo” con proyecto de rebaja de condenas durante gira de Kast por Europa - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdkJweUhySTZhY21zR2ZZMXdPa08yZVhlbEJPaVVrTEtfMnR2YlRXZVBiSVF1ZFpxY1RwRzdUM0FzX0NOQmM5bkYwLVpYcXhaMjZzdDFsMnJQUm9ETzhzbHNadDFhWE8tM09GdVJFZjBkeTNWbWlzSjEtR1BDY3hGNEhmR1FMcEdvc0hVZlhHcDZHMzljQmExdk13SmNSWHNxRHFCRmtzSllDa09Nb3dWRUtvNHVCU1lGNzVKVW5QX3NBcVlIMkNxRHVRaF9MTjVXdFI3OGNfNVNMM2Zl0gH-AUFVX3lxTFBnZ3U5a0RsUEY0UjFIUlkzYnJrX2phMHVHNXRnOXJtX1NjMUxfd2FwcDR2c3ZlMWh5YzhwbE5IZG5yWldYSEFhdGU1UUJzRV9fb1oyT0drRk9Sdzhncm54bjBndl85S0FJZXN6WnhPYjNtR1BOVHVaUHJlaHVrTGtnaG9jRVFfYmw3QzQtRDFJaVVVenExdEc5VmVLT1NaNkMzN1FKOFJSTmIzcWpPX19iN0c4R3pLTEoxVU43WWt5cWVhNWlhMDRSZlh4SmIwUDhfTjdQdmpjZWlkNlhFUFpYMzE2YlJnSzY2LUR4ZHFjMV9jaUllUmRLVm9PYkVR?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Núñez llama a avanzar “en paralelo” con proyecto de rebaja de condenas durante gira de Kast por Europa&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T21:52:11+00:00"
-    },
-    {
-      "titulo": "Jaime Araya (ind-PPD): “Las bandas criminales están felices con el discurso del ministro Arrau” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMmptejdOOTVzWkQ4bmxrUUZtQWFDLWxaZ19kTGFjWUhBdmRpdm5jUFFJMEtOdFVseHZBUzdHbFpKUEp2TU5TMzhxRkRYMDBGYi1fa3ZlcFpOaDlTczVxZm9fbVp2N0RIZ3dfMm1jUFdaVlk3TmRNOTdfQ2FPQXd1TTJ5MUxiVWtMYlNBVk9WWVFrUm93eDVhWnRtOWdsVFRHM2NrYW9Md3RqMEozOVVXQ3dodVhZdTBUOGowV0NVWFNlN3pR?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Jaime Araya (ind-PPD): “Las bandas criminales están felices con el discurso del ministro Arrau”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-01T21:43:42+00:00"
-    },
-    {
-      "titulo": "Audiencia con el Papa: Presidente Kast y su fe católica - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QbjJwR3dKU3ptSUxuM1EzUjZxNVJ0VzV0NmQzY2E4Y1hDSzg4SFJoSWRmRXVuMWxpR0hPSGZMVEppNmRSVXZlc3BkRU1HX3dCdVVuQzdjdUd5Z1hRX2tSQnA3ejNhbk1yZElLRVluN0tyVy1QdDZXbw?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Audiencia con el Papa: Presidente Kast y su fe católica&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T21:30:37+00:00"
-    },
-    {
-      "titulo": "Diputada Macarena Santelices impulsará proyecto de «Turismo Seguro» tras accidente en el río Maipo - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQazI3MmRmb0JlcEl2dXB1X2hXTnJfXy1TYi1TQnNOSmJtbHo0T2xPMXB3dHl5dzZDM2FLTF9ob2dCX0N1OVlZQ2IzbGVWTHR3QU1wQXJDbnJXLW5zcTRjemRfcUhqeTBDZlZUN1BYTng5YU9hblMyTWJDZGRweFh0Y0dMNUltYlhpeWk5YnAtWjZyRDlOdlRlWUZNRHRWaGtWZU9xbGpBMmlpZDhTNlZqLWk3WkNySTBsdXNXVjE2RVA?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputada Macarena Santelices impulsará proyecto de «Turismo Seguro» tras accidente en el río Maipo&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-01T21:26:52+00:00"
     }
   ]
 }
