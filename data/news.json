@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-04T16:46:34.413864+00:00",
+  "actualizado": "2026-11-04T17:01:31.508918+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcaldes del Limarí plantean dudas ante futuro traspaso al SLEP - www.diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHQ2a1N3dm5wRWpjUjNSeFdHWFRzU2tubXpGQXNNZVgyS19VSHFkVVd6WFBBWVlUWUd1dXJ1OUFjRXNLMzg1R0wtcmpSc1hsUkMtWUp0aEh5dkZlemVTZXVvNzFiQVE2TmVRUHpFSXVwcVgxRXNyNjFycldjXzIzby12ZFJ5eTdpd3dhdEhzV2NPNU9JaVVVRGFacGRwRHNjU2luamNUdklsdjRzMHFXNUlmRW9uSUNZ?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Alcaldes del Limarí plantean dudas ante futuro traspaso al SLEP&nbsp;&nbsp;www.diarioeldia.cl",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-04T16:51:56+00:00"
+    },
     {
       "titulo": "A meses de que Kast lo pusiera como ejemplo a seguir: Crisis financiera desata caos político en Paraguay",
       "link": "https://www.elciudadano.com/chile/a-meses-de-que-kast-lo-pusiera-como-ejemplo-a-seguir-crisis-financiera-desata-caos-politico-en-paraguay/11/04/",
@@ -467,6 +478,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-04T12:38:30+00:00"
+    },
+    {
+      "titulo": "Kast continúa su gira europea con audiencia ante papa León XIV en el Vaticano: envió “bendiciones” - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc2ZmTzVqVmdiOVlDWTR1cV92MFJPdklzTFUxc1BkSldxZ1NkdHRsSG1wemV4Q0F2NVRSTVJwU2lGNVZFOWhTZW1iTGhOa2Z4VnhOMUlVRVhBUlJvVU9PWnhPc1JURjRUcXNudkZGakZmTk9jU1ZCLS1NRC1VV2UzQVdnSXNMQzBGbk91d0pkeEFlU29nQlhMWWpXUUZBOUZkblpHUUN5SG9EeHFvdW83MkhoOTVPZXNRMGpVOVNmVVZyVm56MWJZWDdXd2xOQXBrQXRZT3ZJdXRYRjFUcnF5VTZB?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast continúa su gira europea con audiencia ante papa León XIV en el Vaticano: envió “bendiciones”&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-04T12:31:03+00:00"
     },
     {
       "titulo": "Crisis política",
@@ -5616,28 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-01T21:06:26+00:00"
-    },
-    {
-      "titulo": "SER VEL - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5aXzYwNHBlUDFRSHZLVVk0Ul9qZ0ZFS09Ma1c3dEl6ZmZjRkJhLXNuWFVKMUIzMHJYeTNHYUZfNGhBWHJZZVZUSUxULW1OOVNQcWVwbFZBN1pDTURhRjdEeGNJR0I1b0cxd2Z5R1JzZ1N3cDZLTF9GdDVR?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "SER VEL&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-11-01T21:04:46+00:00"
-    },
-    {
-      "titulo": "Vallejo cuestiona continuidad de Rabat y emplaza a Kast por su respaldo al ministro: \"Incomprensible\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTTJCWWZLYkRNTnhjV1Q2T1N3QnNoNG15a0x6bXdUSGV2XzB6dkVzdk5Yc3hOWEZYMnpYdGV5V29CZmlyX1R6OU5yUzJUOWV3TmYzcnU5REYzdV9ZcWYzcl95VEgwLS1BQ3lsbFJaWDMxNzdKMV83RDRuM0o2R0dFMFRYV01KLVljV0d5MWY4Tm1odm5Md3RaYUMwLUY4ZUl2Q1pnVmozU0UyRXFuT3MtTGxoTGhGbFRIeUJYVzZPRHhZdXByQUFWd2hiN1o0ZVhsWC1LQ1lENEJWcS0xMWtSQlZ0TGxVaW9yVmVudkM5QkJld013R0c0Q1Z3?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Vallejo cuestiona continuidad de Rabat y emplaza a Kast por su respaldo al ministro: \"Incomprensible\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-01T20:44:09+00:00"
     }
   ]
 }
