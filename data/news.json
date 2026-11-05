@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-11-05T19:31:37.281164+00:00",
+  "actualizado": "2026-11-05T19:46:32.484948+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente Kast descartó nuevamente un cambio de gabinete",
+      "link": "https://www.lanacion.cl/presidente-kast-descarto-nuevamente-un-cambio-de-gabinete/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast descartó este jueves nuevamente la realización de un ajuste en el gabinete ministerial tras los cuestionamientos al ministro de Justicia, Fernando Rabat, por la rebaja de penas a condenados por abuso sexual. En declaraciones a la prensa, tras intervenir en el plenario de la XXX Cumbre Iberoamericana en Madrid, donde [&#8230;]\nThe post Presidente Kast descartó nuevam",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-05T19:33:36+00:00"
+    },
+    {
+      "titulo": "Alcalde de Puente Alto emplaza al Gobierno tras cierre de Cesfam por balacera: “Faltó a un compromiso” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVFJldUgtQ29FXy1PNHN3Q3o3ZU1tYUZvS0NyeTY2bW00NFFFWkRzMU5GaWNTWldKWHczNnE0QmpPaktwMlV3WjNqaTg4TjNkWEJ6NG9hUFR1eWVGbVpEZEVEckhZdkdPckttaTB1WHp3NVdDUVFQTWh2TGZXNXNHMVhqWUVKUUxmSTBldzRRNmN1NWFfMG1Cb2VqOG1zY0tRUnhEZ2ZZUmZOdVJwZHM3NUI2ZU5tMHcwT1RBa2RiUzlxTHZsVUllc0Nn?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alcalde de Puente Alto emplaza al Gobierno tras cierre de Cesfam por balacera: “Faltó a un compromiso”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-05T19:32:18+00:00"
+    },
+    {
+      "titulo": "Kast tras renuncia de Santiago Peña: \"Es una noticia en desarrollo que debe ser determinada por el pueblo paraguayo\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcjdsajB0eTl3MWMwYXdUTmhESVJBUmttckZqLUhNVEp5MU1sZFJ5WDdXM1daMUYwWjFSdGZoX05CSkpRNWJyMXMtdndSTlJtRm55dW9zaE5ZbDN1MUxDQzhCZFF0NXVBY3htMHQ1TDlGcU9Uby1DNWVGdFp6OHVNNVZZX1F0VVE5ZUdfbkF2WWNyTTU5VDJhTUNhUE40M0tWcWRta1VWbDFQRTFoX3FyWk1ZT2pXWFhPS3BubHlUTVlJUQ?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast tras renuncia de Santiago Peña: \"Es una noticia en desarrollo que debe ser determinada por el pueblo paraguayo\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-05T19:32:00+00:00"
+    },
     {
       "titulo": "Kast vuelve a descartar cambio de gabinete: Remarca que diseño ministerial es resorte del Presidente y no de los partidos - Emol",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlVjOWpOWEZXVFNQeHBVbTVZNWhmYWk0UXFXREJfQmE4OVhMRTZRLTlkSUhRYUNTTHp5NUxWNHlzWlhvX1ZBTkEwcm9UZ1NaRU5DRTdLT2UySmRacHc5QjNwSTNaamt5eG5vcEJhZGVfQ0ItX1p2QUV2TFJZUGhBVkV6MTFRWjR5eE42cUoyUnA5NHVjSGhUTlVzQzNLOW1CMXJERGFSTmVNNDA5?oc=5",
@@ -5605,40 +5639,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-03T03:06:57+00:00"
-    },
-    {
-      "titulo": "RN cuestiona “conducción política” del gobierno por rebaja de penas y pide revisar responsabilidades de asesores del Presidente Kast - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRzFpVWxRbWRzbXpGX2xGbk1GMkJDZ1N6YUhRSFZpV3ZYMTZxS1JnV0VmbHZtMjNyckVrZHp3bTNQUmRfUEh4bmRzT1d2TThOMEsyaDdxbFdIVjc0Znp3SlhKSzU5VHM5T3laU2N6Zl9qQUdBUDY3cldtSXg0dHpOZU9mbFVReTFDTnA4b3I1LUVSLWgtMEZMdkxqM2lMcmJ5UXFTaU1jcmJ2R09rVnNVMkN4RjVFWERuUWstbXd3Q1pwX0duZjVFcmdVX1JNLUptSWRYWlkzSXU4ZDVzQ196b2h0cXM2OVF0YmpiT2pFb24wR0pPTldwY3JCSnphNWF2N3AzbdIBpgJBVV95cUxPdi1Nc18tTGpQc2VLc0VlbC1pZE94NkZ1SmU4N0luaDJ0c1g4NktXRFgycVFGbmNmLUNSNWwwRHVDc3pudjYtZjNyVWJnbVM5aWowYnJZMUNaSjl6bmhwRkhMaWhjQk5ucHZUVFdvZ0xDSGhueTVMblNZY3NqX3NLQXd3ZzJHNks1SGZFSTVTMUM5bTByVDRlQVhTaWVialNKS3Z0OVlTUzd3LUFrNWFxTTdudVhGcVFHbmNSdmxjN2ZubFg2SlpPQTdMX3ZKaDF1RmFpSmFjWnMya1FDQkpucDhla0JNS0VST0k0UXpXeHplS0hZczRnM2dNUmxWTmRVOXFVWkZPaXFPd3NnN3dhWkVTVkdpRXdhZ1dLQzY0TFVacjlvMVE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "RN cuestiona “conducción política” del gobierno por rebaja de penas y pide revisar responsabilidades de asesores del Presidente Kast&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-03T03:03:43+00:00"
-    },
-    {
-      "titulo": "Empieza x acá: Kast ata su autoridad a Rabat - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHVjaEJqbnFkVlcwakp0LUM1QVV5akhYcVc3OFI0dHREWDc5TmQwQ1l0cmpFNVVPZFRnN0kzQngzWnl3bzZremhRTV9adXNKbHQ4REtwdmFkYmpYb0pVMlJZakc2VE1iQ1k3aTgybHNDaDVXSUk2X0ttc1lTaVVna0ZsQldhTDQyV1o0SXdoYkl0Q1B6T0ZaTGE4amxtQW9BQjdPN0Q2S2Z5S1J3UU94RHBtMm9BZnM?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Empieza x acá: Kast ata su autoridad a Rabat&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-03T02:42:19+00:00"
-    },
-    {
-      "titulo": "¿Quién negocia el Presupuesto? Viaje de García Ruminot con Kast genera críticas en el Congreso - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWnVObHZfQm5jZGs2aWdmeU9Yejk0QUVuUlJoeHpjOEp5aUFpNXNWOWdYd2JkWmQ2bGFzZFhtbmg4TXBzSVpTRjVpdDI5RnFVLTFXSl80M2JUdC04TW0zY0tWa2p2UG5qY3hSaUU5cnJNZXJBdkhKYXRyc2dQWHN2Y0RHUXBCS1VhZkJpMTVkNFI5TFB3ZUNNQlBLZFJselpXQk13YUhiOUNCUktLbXBLWGhBVEc0NFR6dDBZMVNUX1g4Skdrd3haMjFIY0hwSG41MThsMm9Hb0dQV1BqWm02Y1NFRzlTbEhaZ0NIclBEZGxVQQ?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Quién negocia el Presupuesto? Viaje de García Ruminot con Kast genera críticas en el Congreso&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-03T02:36:21+00:00"
     }
   ]
 }
