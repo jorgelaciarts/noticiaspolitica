@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-05T10:16:08.570781+00:00",
+  "actualizado": "2026-11-05T10:31:32.937792+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ley Ricarte Soto: Chomali criticó a parlamentarios por generar \"daño emocional\" a pacientes",
+      "link": "https://www.cooperativa.cl/noticias/pais/salud/ley-ricarte-soto-chomali-critico-a-parlamentarios-por-generar-dano/2026-11-05/072442.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La ministra de Salud, May Chomali, cuestionó las declaraciones de parlamentarios sobre la continuidad de los tratamientos cubiertos por la Ley Ricarte Soto y sostuvo que generaron temor entre los pacientes, durante su intervención en la Comisión Mixta de Presupuestos.\nEn el marco de la discusión del Presupuesto 2027, la secretaria de Estado defendió las medidas de financiamiento propuestas por el ",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-05T10:24:42+00:00"
+    },
     {
       "titulo": "Lautaro Carmona, aborda las autocríticas tras el gobierno de Boric y los desafíos frente a Kast: “Se puede ser leal, pero no obsecuente”",
       "link": "https://www.elciudadano.com/portada/lautaro-carmona-aborda-las-autocriticas-tras-el-gobierno-de-boric-y-los-desafios-frente-a-kast-se-puede-ser-leal-pero-no-obsecuente/11/05/",
@@ -5620,18 +5632,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T16:05:00+00:00"
-    },
-    {
-      "titulo": "Franco Parisi critica gira de Kast en medio de la crisis y asegura que su partido apoyará en bloque la acusación contra ministro Rabat",
-      "link": "https://cambio21.cl/tendencias/franco-parisi-critica-gira-de-kast-en-medio-de-la-crisis-y-asegura-que-su-partido-apoyara-en-bloque-la-acusacion-contra-ministro-rabat-6ae8b2114f656d61f34d8d34",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-02T15:59:38+00:00"
     }
   ]
 }
