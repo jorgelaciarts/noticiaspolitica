@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-05T14:16:27.782358+00:00",
+  "actualizado": "2026-11-05T14:31:25.762251+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-05T14:12:07+00:00"
+    },
+    {
+      "titulo": "Indignación por persona que viajaba con un monito en micro de Antofagasta",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-antofagasta/indignacion-por-persona-que-viajaba-con-un-monito-en-micro-de-antofagasta/2026-11-05/110508.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Una insólita situación se dio a conocer en un video difundido en redes sociales, donde se puede ver cómo una persona transportaba a un monito dentro de una mochila, mientras viajaba en un microbús de la línea 114 en Antofagasta.\nEl hecho fue denunciado por el diputado de la región, Sebastián Videla, quien informó que tomó contacto con el Servicio Agrícola y Ganadero (SAG) para que se investigue lo",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-05T14:05:08+00:00"
     },
     {
       "titulo": "(VIDEO) 56 Aniversario de la Presidencia de Salvador Allende: Celebración y Legado",
@@ -5628,18 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-02T19:49:00+00:00"
-    },
-    {
-      "titulo": "Presidente Kast se reunió con el líder del partido español de ultraderecha Vox",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-se-reunio-con-el-lider-del-partido-espanol-de/2026-11-02/163611.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast se reunió este lunes con el líder del partido español de ultraderecha Vox, Santiago Abascal, en el marco de su viaje a Madrid (España) para participar en la XXX Cumbre Iberoamericana.\nEl Mandatario, que viajó ayer en la tarde a Europa, se fotografió sonriente con su esposa junto a Abascal y su mujer, marcando su primera actividad desde que arribó esta mañana a Españ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-02T19:36:11+00:00"
     }
   ]
 }
