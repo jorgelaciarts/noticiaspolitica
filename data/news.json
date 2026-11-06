@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-06T00:16:30.594670+00:00",
+  "actualizado": "2026-11-06T00:31:33.537290+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "\"La bancada va a votar como la gente lo exige\": Pamela Jiles anticipa postura del PDG ante eventual AC contra ministro Rabat - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUQxUUw2MnRaeTZyYWREeHJGSFpWWVlDODl1bjNpMkJVRGlSTXA4VFl6c0t0YkJsYldfMUxPOFhYa0pnb0l2ZnNBUl9iRGxKUmU4VG1mS3RXb2VQVUdGNndmQ1Nza0x2eXlIeGMxS29YZjc0S01RVHVxam1zdktKV3FyNWFSNkRrZ0JTNVNWa2NtZkM5RHp3VG1PQ2tHbUxkaHk3TE9CRzg5U09kT0QwZGtFTVllSXNIcGpSaGJSZw?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "\"La bancada va a votar como la gente lo exige\": Pamela Jiles anticipa postura del PDG ante eventual AC contra ministro Rabat&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-06T00:15:00+00:00"
+    },
     {
       "titulo": "“Devuelvan la plata”: la ausencia de Sara Concha que generó cuestionamientos",
       "link": "https://ladiscusion.cl/devuelvan-la-plata-la-ausencia-de-sara-concha-que-genero-cuestionamientos/",
@@ -599,6 +611,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-05T18:54:40+00:00"
+    },
+    {
+      "titulo": "Derrame en la División Andina de Codelco amenazó con llegar al río",
+      "link": "https://www.cooperativa.cl/noticias/pais/empresas-del-estado/codelco/derrame-en-la-division-andina-de-codelco-amenazo-con-llegar-al-rio/2026-11-05/154521.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Corporación Nacional del Cobre (Codelco) reportó este jueves un derrame de relaves en su División Andina y advirtió el riesgo de la llegada del material al cauce del río Blanco, en la zona de cordillera en la región de Valparaíso.\nSegún informó la cuprífera estatal a través de un comunicado, la emergencia se produjo luego de una obstrucción en el sistema de transporte del material \"producto de ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-05T18:45:21+00:00"
     },
     {
       "titulo": "Presidente Kast por renuncia de Santiago Peña en Paraguay: “Había una situación que iba a ser llevada al Congreso” - ADN Radio",
@@ -5615,28 +5638,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-03T13:08:28+00:00"
-    },
-    {
-      "titulo": "Diputado Juan Santana: Es una vergüenza para el país que su ministro de Justicia tenga categoría de imputado - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOTdxbXRrd1lYZDlpQ1MzOWFFbHVpTmhwSF9mRzNfM1hOaWxOWmZ6aFRTQVhCYTcxWE96UnZ5WnVWclM0ZDNaRk5CNVFmemNBcmFudTEzR3paNzhOTEo5akxraVdUZXNyeDNSMFRseHN0dGV0NjRpNE14OFNzalJOV0dRRF9mTDJkOFNXZW9WYnhvT0h5a2NTMVlPZUsxeHVTX2E0LURMZVgyV3g4Ri1QSDZKYkFYZVpENGxPVF9SaEJvZ01zbDBHVjc2VkJ5dTFUeEtrRFJ4RDVMUQ?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Juan Santana: Es una vergüenza para el país que su ministro de Justicia tenga categoría de imputado&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-03T12:58:12+00:00"
-    },
-    {
-      "titulo": "Rabat confía en respaldo oficialista ante acusación por rebajas de penas",
-      "link": "https://ladiscusion.cl/rabat-confia-en-respaldo-oficialista-ante-acusacion-por-rebajas-de-penas/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El ministro de Justicia, Fernando Rabat, aseguró que tiene el respaldo de su sector de cara a la acusación constitucional en su contra por la decisión de aprobar rebajas de condena a abusadores y violadores de menores de 14 años. Según reveló radio Cooperativa, tras haberse reunido con el ministro del Interior, Claudio Alvarado, y [&#8230;]",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-03T12:47:46+00:00"
     }
   ]
 }
