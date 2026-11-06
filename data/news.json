@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T21:01:21.024298+00:00",
+  "actualizado": "2026-11-06T21:16:11.479397+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-06T21:00:16+00:00"
+    },
+    {
+      "titulo": "Gobierno pondrá discusión inmediata a proyecto para derogar \"de raíz\" la ley de rebajas de condena",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gobierno-pondra-discusion-inmediata-a-proyecto-para-derogar-de-raiz-la/2026-11-06/175825.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno confirmó este viernes que otorgará discusión inmediata al proyecto de ley que busca derogar por completo la ley de rebaja de condenas, con el objetivo de eliminar este beneficio carcelario en medio del debate generado por la reincidencia de internos beneficiados y los cuestionamientos dirigidos al ministro de Justicia, Fernando Rabat.\n\"Las personas que se han acogido al beneficio de re",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-11-06T20:58:25+00:00"
     },
     {
       "titulo": "Jefe del Comando de Combate asume como segundo hombre de la FACh",
@@ -5627,17 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-03T21:24:41+00:00"
-    },
-    {
-      "titulo": "Duras críticas por respaldo de Kast a ministro de Justicia: «Su gobierno ha abierto una disputa con el país»",
-      "link": "https://www.elciudadano.com/chile/duras-criticas-por-respaldo-de-kast-a-ministro-de-justicia-su-gobierno-ha-abierto-una-disputa-con-el-pais/11/03/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nMúltiples críticas generó el respaldo expresado públicamente por el Presidente José A. Kast al ministro de Justicia, Fernando Rabat, apuntado en la actual coyuntura como responsable por las rebajas de condena que dejaron libres a más de medio centenar de delincuentes, entre ellos violadores y criminales de lesa humanidad. Tal como informó El Ciudadano, el [&#8230;]\nLa entrada Duras cr",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-03T21:21:54+00:00"
     }
   ]
 }
