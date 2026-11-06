@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-06T11:46:13.895700+00:00",
+  "actualizado": "2026-11-06T12:01:34.281664+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidente paraguayo contra las cuerdas por cierre de banco",
+      "link": "https://ladiscusion.cl/presidente-paraguayo-contra-las-cuerdas-por-cierre-de-banco/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El gobernante Partido Colorado de Paraguay respaldó este jueves, poco antes de la instalación de una sesión extraordinaria en la Cámara de Diputados, un juicio político contra el presidente del país, Santiago Peña, a raíz de la intervención del privado Ueno bank. Así lo anunció, en un comunicado difundido en X, el presidente de esa [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-06T11:46:17+00:00"
+    },
     {
       "titulo": "La fuerza de las regiones",
       "link": "https://ladiscusion.cl/la-fuerza-de-las-regiones/",
@@ -5621,17 +5632,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-03T16:27:47+00:00"
-    },
-    {
-      "titulo": "Alvarado convoca reunión de emergencia con Chile Vamos tras duras críticas de RN al Gobierno - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTjhDWF9PdThFaDduZlJ5dHlYT0pxOE1haVBiZ0hTMlFheDNTYU9waUJUN2czM1JtZE9Oc185REZ1N1RIR2s5cnBtd2VRVDlvY2FQUmtOaE1YWFVGVVFFaDVFdkhGV3h3TVdoM3lHSmpvc2gwQjB0WU9HUzNjSFpYTEZXWldnUlhJaGlGM3JOdG5sSDJzOGhYbXQ2cjJXaTlsNGF4MW03dGx0WlJYQmZBVzhiZmNYRHZxSENkdG9TMDlqMjg4VFE0YW1zSHM2OVBlaHRick10US15YWduYXc?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alvarado convoca reunión de emergencia con Chile Vamos tras duras críticas de RN al Gobierno&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-03T16:13:26+00:00"
     }
   ]
 }
