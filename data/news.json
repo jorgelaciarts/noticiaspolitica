@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-06T11:31:25.814478+00:00",
+  "actualizado": "2026-11-06T11:46:13.895700+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La fuerza de las regiones",
+      "link": "https://ladiscusion.cl/la-fuerza-de-las-regiones/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La discusión del Presupuesto de la Nación 2027 dejó una señal: cuando las regiones actúan unidas, tienen mayores posibilidades de incidir en las decisiones que históricamente se han tomado desde Santiago. El acuerdo alcanzado entre el Ejecutivo y la Asociación de Gobernadores Regionales de Chile (Agorechi), que permitió revertir buena parte del recorte inicialmente propuesto [&#8230;]",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-11-06T11:43:57+00:00"
+    },
+    {
+      "titulo": "Municipalidad de Olivar entregó $6 millones en becas deportivas para 13 deportistas locales - El Rancagüino",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDVKdXNFejQ1SG9vZGZwWVl4OTRuOF9tYTFXdi1PWnlSZXVPOTIxUTFUeDhWRGlpcnBmaVhTN3ppVEs1Nm9LSXV5dGZ0eDg5TTVxdmdwWUVsV28yTXBhbWozN2paYWRqT1VRdUI3YWw5Qzd6ZDZCZm16V0dUMVpkc0swdE5ZcDFHTm1CM093YmVuT1VvYWU2SUw3MFBjZ09TbmZjdFZVZXp6aTR2TTd0M0I4ejdnUEs5VlkzSG9rUWhDVzVxRm1ncF9R?oc=5",
+      "fuente": "El Rancagüino (vía Google News)",
+      "region": "O'Higgins",
+      "resumen": "Municipalidad de Olivar entregó $6 millones en becas deportivas para 13 deportistas locales&nbsp;&nbsp;El Rancagüino",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-06T11:30:00+00:00"
+    },
     {
       "titulo": "De querellado a querellante: consejero Arecheta arremete contra Flies por compra de propiedad",
       "link": "https://laprensaaustral.cl/2026/11/06/de-querellado-a-querellante-consejero-arecheta-arremete-contra-flies-por-compra-de-propiedad/",
@@ -5610,31 +5632,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-03T16:13:26+00:00"
-    },
-    {
-      "titulo": "Seis meses después, el jefe del Segundo Piso vuelve a estar al centro de las críticas",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/seis-meses-despues-el-jefe-del-segundo-piso-vuelve-a-estar-al-centro-de/2026-11-03/130618.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Dirigentes de Chile Vamos llegaron este martes hasta el Palacio de La Moneda para reunirse con el vicepresidente de la República, Claudio Alvarado, y manifestar su \"disconformidad\" por el manejo político y comunicacional del Gobierno frente a la crisis generada por los decretos de rebaja de condenas a sentenciados por delitos sexuales contra menores de edad.\n\"Hemos venido a señalarle al vicepresid",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-03T16:06:18+00:00"
-    },
-    {
-      "titulo": "“Bancada de las AFP”: Santana dispara contra republicanos y el PNL por rechazar tramitación de proyecto para restituir ahorros previsionales perdidos",
-      "link": "https://www.elciudadano.com/politica/bancada-de-las-afp-santana-dispara-contra-republicanos-y-el-pnl-por-rechazar-tramitacion-de-proyecto-para-restituir-ahorros-previsionales-perdidos/11/03/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPara el diputado Juan Santana (PS), la discusión de «Devuelvan la Plata» dentro de la Cámara \"será el momento de ver quiénes están disponibles para defender los ahorros de las y los trabajadores y quiénes prefieren seguir protegiendo a las AFP y su industria\".\nLa entrada “Bancada de las AFP”: Santana dispara contra republicanos y el PNL por rechazar tramitación de proyecto para restit",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-03T15:58:01+00:00"
     }
   ]
 }
