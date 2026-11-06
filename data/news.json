@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-06T10:50:06.510970+00:00",
+  "actualizado": "2026-11-06T11:01:30.552370+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Nuevo tiroteo en menos de 24 horas reaviva la crisis de seguridad en los Cesfam de Bajos de Mena",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/nuevo-tiroteo-en-menos-de-24-horas-reaviva-la-crisis-de-seguridad-en-los/2026-11-06/073106.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un nuevo tiroteo afectó al sector de Bajos de Mena, en la comuna de Puente Alto, donde un joven de 27 años ingresó herido a bala al Centro de Salud Familiar (Cesfam) Karol Wojtyla durante la noche del jueves.\nLa víctima fue trasladada por conocidos desde un parque cercano con una lesión de bala en la clavícula.\nAnte este hecho, el alcalde de Puente Alto, Matías Toledo, denunció la ausencia de vigi",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-06T10:31:06+00:00"
+    },
     {
       "titulo": "Aprobación del Presidente Kast (20%) ha caído 15 puntos en dos semanas y la desaprobación se disparó al 68% - Emol",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT3NqekR0SjlaSjNvbUstZVNZWVZmeDV3dG5vd1FhZTMtSHBtUkFCNEhGdHRyeHU0dl9iRlUzS2FsQ2xXMU95OUIta19VTzNPSFMyRUVqbW1zMzZsREtoXzdOY0NPZ0d6STBVWUJxeVdPbzE0bTNvTXFRNGt5U1FyZWlLQkRKNWlRT1NNbVhUbjZhREFxWU9wXzdJNzVUMGhD?oc=5",
@@ -5627,18 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-03T15:11:10+00:00"
-    },
-    {
-      "titulo": "Ley Ricarte Soto: pacientes evalúan marcha ante posible recorte del 14%",
-      "link": "https://www.cooperativa.cl/noticias/pais/salud/ley-ricarte-soto-pacientes-evaluan-marcha-ante-posible-recorte-del-14/2026-11-03/120342.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Alejandro Andrade, presidente de la Federación Chilena de Enfermedades Raras (Fecher), afirmó en Una Nueva Mañana que la organización evalúa convocar una marcha ante la propuesta de reducir en un 14% los recursos del Fondo para Diagnósticos y Tratamientos de Alto Costo de la Ley Ricarte Soto, contemplada en el proyecto de Presupuesto 2027 del Gobierno de José Antonio Kast.\nLa federación impulsa un",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-03T15:03:42+00:00"
     }
   ]
 }
