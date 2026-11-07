@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-07T11:16:10.694416+00:00",
+  "actualizado": "2026-11-07T11:31:33.806457+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Nueva ley de patentes mineras: un impulso para el desarrollo de Magallanes",
+      "link": "https://laprensaaustral.cl/2026/11/07/nueva-ley-de-patentes-mineras-un-impulso-para-el-desarrollo-de-magallanes/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Oscar Basualdo, seremi de Minería de la Región de Magallanes y de la Antártica Chilena &#160; La minería necesita reglas claras, menos trabas y mejores condiciones para crecer. La publicación en el Diario Oficial de la Ley N.º 21.853, impulsada por el gobierno del Presidente José Antonio Kast, representa un avance concreto en esa dirección....",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-07T11:21:31+00:00"
+    },
     {
       "titulo": "Columna de Danilo Herrera: Dios proveerá",
       "link": "https://www.theclinic.cl/2026/11/07/columna-de-danilo-herrera-dios-proveera/",
@@ -5625,18 +5637,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T00:32:35+00:00"
-    },
-    {
-      "titulo": "Pablo Longueira advierte a diputados UDI por acusación constitucional contra ministro Rabat - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTU2d3NIUkNsdHZNZUJ2QnRqUXZTTWJkVzNHWjZUVXNfMF9KVWotTmJOcTlCa3ZlbFRMREs5LVVocUV3bTN3bGRNZGZ0d0ZuSFk1Vzh2Y0Iwck5JWGstNUNRakdJd1d1U25yY1NBOE9GNGlqRV9VMUtJS1J3aVB1THJ0M3hOc3JjYktUUElvS2t1VzMzVjA3YWNPX1ByTVFEUXpiTXJadWc5TjIwamk0OFhkdDc5R0Fab0U4bG9aUQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Pablo Longueira advierte a diputados UDI por acusación constitucional contra ministro Rabat&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-04T00:32:17+00:00"
     }
   ]
 }
