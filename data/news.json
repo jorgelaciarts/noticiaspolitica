@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-07T23:16:29.411989+00:00",
+  "actualizado": "2026-11-07T23:31:22.066592+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Tras frenar el recorte, gobernadores van por más: descentralización pasa a ser la nueva batalla regional",
+      "link": "https://ladiscusion.cl/tras-frenar-el-recorte-gobernadores-van-por-mas-descentralizacion-pasa-a-ser-la-nueva-batalla-regional/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La negociación por el Presupuesto 2027 dejó una señal política que los gobernadores regionales no parecen dispuestos a desaprovechar. Después de conseguir, mediante una acción coordinada y transversal, que el Ejecutivo desistiera del recorte que amenazaba la inversión de los gobiernos regionales, la Asociación de Gobernadores Regionales de Chile (Agorechi) prepara una nueva ofensiva: conseguir [&#",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-11-07T23:26:18+00:00"
+    },
+    {
+      "titulo": "Con urnas y vocales de mesa: La inédita experiencia electoral que vivieron jóvenes en Antofagasta - www.elnortero.cl",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcU1CV2RyOHI4MHlKQTVtSFJFam5DbkFfR3NSX2JNdEhGdWl2YWpVNkxOTkZkXzUydTF4VllENDRPQ0RURzFiREVMN2NQUTRuZjEtejNhbEVMelhrbmhLSGRFOWozLVMzQVg2UU5pYWJ3aWx3WFdCVEJVRnRIclloSl9UNXZZWjlVa3RiVUs0Tk1QalV2YkJhcl92Mmp3UFFCN19zdm5pY3RWOTBlTUUyMGFibnlpQ3k0N05oMHMtb1Y4d3c?oc=5",
+      "fuente": "El Nortero (Antofagasta, vía Google News)",
+      "region": "Antofagasta",
+      "resumen": "Con urnas y vocales de mesa: La inédita experiencia electoral que vivieron jóvenes en Antofagasta&nbsp;&nbsp;www.elnortero.cl",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-11-07T23:25:13+00:00"
+    },
     {
       "titulo": "Alcalde de San Antonio informa que niño de 11 años sufrió grave fractura en accidente de Santo Domingo - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYXE2T3J1dzNuLUdjQ3J2WWx1TUFlNmFJa01DOFF6eXhBQTlPQXdOOHRSWUEwV0dmYlJRZHB1QkJmZTlaZTBIWk5aV0syNEZJT0hxNjQ3T1M5VzhWYWJlTXhNaEJSeEpOTExnR3FnMTRvbUlucHlac0VDVzBHc0tYdmVXZmxkZG1zX2E0UkRkTFJzU1NVS3Q2VXhVLXFLSkZiRFlnSHAxRDVqbElRUnFxSmpmYkxxYTRhQjNKbFpJRkplYkJQcEMtbnUxNU4tYkszX0Yyc3VNcDF3bV9ER3BEMTJ1T3YwUTdySVEzVUdjeF8zOXlqM25iaHMyOXRydW1TQ1lHRG12TllvR2F0bi16STJvOA?oc=5",
@@ -5609,28 +5631,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-04T10:50:00+00:00"
-    },
-    {
-      "titulo": "Golpe para Trump: demócratas se quedan con la Cámara y el Senado tras las elecciones en EE.UU. - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYjc4c0o0VUNzLThEamhTS3YtZkFUUUd5Y3JoWlV2RWhFZWczeG9oeldhMUdIUGpOWHMxU1hLTURRd3k4SE4ycnNnTkZIdVhhUjZ3Q0VXSi1Ya1FLNGdvNVc2UlVpSjlaWnFsODA2TFY4NU9VUHJnUDBaWDR4Q1pnT1k3ZjQyODJyN1hHdHoxU0tReDlPeExPWXluX0JfelVWM0h3a2Fmbzd0elZIZFNtOTN2OWFVWjhZYWhXV0ZhekdkR2ZhQk9yQnMtdE1Rb1dSRlhnemxFMHlaOFE5ZFhOWVVJeGtDeTZHUDB1andR?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Golpe para Trump: demócratas se quedan con la Cámara y el Senado tras las elecciones en EE.UU.&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-04T10:40:30+00:00"
-    },
-    {
-      "titulo": "Los dos regalos que le dio el Presidente Kast al Papa León XIV en su visita al Vaticano - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFY2ck9FOGVKRElJSE9ETlRtMy1oeUNFU3cwU0dveThydmRNckllS2w0RVlJQkJET2xlY2NUZDhuVDNZSjF0MGN1ZjVCOVdtTTc2R1lJVDAxSFlrQ0FmeWxWODZlZkVsc0ZpMzNmaWRJeGxWMlBxU1ZORlAyaXFRZW5JNTM0SVRrRFMzZ3VucGd5TTYwOE9QZ2VHa3M5b2NFaGFoX2xFVEdiZTRyZVM3VjRSektrVjBKeTNINEdGcjQ?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los dos regalos que le dio el Presidente Kast al Papa León XIV en su visita al Vaticano&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T10:35:25+00:00"
     }
   ]
 }
