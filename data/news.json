@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-07T11:01:23.891788+00:00",
+  "actualizado": "2026-11-07T11:16:10.694416+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Columna de Danilo Herrera: Dios proveerá",
+      "link": "https://www.theclinic.cl/2026/11/07/columna-de-danilo-herrera-dios-proveera/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Danilo Herrera cuestiona la estrategia de José Antonio Kast de apelar al optimismo y la fe mientras se acumulan las cifras económicas negativas y las crisis políticas. Entre promesas incumplidas, empresarios que no contratan y una confianza ciudadana en caída libre, el columnista argumenta que el Presidente parece confundir la esperanza con la gestión y las plegarias con un plan de gobierno.\nThe p",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-07T11:07:00+00:00"
+    },
     {
       "titulo": "PwC Chile presenta: Kast apuesta por derogar ley y da nuevo espaldarazo a Rabat / El Presidente desafía a Chile Vamos - El Líbero",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQenRnY0V2RWhUTE1ZRDNHVUlLZkFsRlJUYzc0T2FzV1hUWkc5cEU3VFZvalBZTG9STVZObV9jei1RT2g5WnVXZnFkam1OMHlDc1VETkN0dzR1TEYtMmdaam9wWEJ2UzV2VWNvbERtOC1RLUkyTHNpbnhSR3FycXFqSFV5eDRwMXduaktzQzl3TnVwdmlPYWpJdElDMWJ2QzZUOVFCbHJZTXZWbTFNdEJMMFF5V2JXZEE2MWN6aFN3Tms3RmhyNUZkOVRNWDlralp3Z2NXaG5EeDVXbUJHZ0J3?oc=5",
@@ -3018,6 +3030,17 @@
       "fecha": "2026-11-05T11:52:13+00:00"
     },
     {
+      "titulo": "Kast sostiene reunión bilateral con Pedro Sánchez en medio de gira por Europa - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0RVaHcza1kwNWVBSm03Skl0Q2VzN3VTTlV6ZVE5RzdMNFVLTS1YMkxqWmxRQVlQeG9VUm1HQV9zdkNLdUJkeE9KZzN6RVRGcldGcFNZQmYwY095eDhxc0NOMDlYOWRsc2hkV0hLQUJkNGRiMi1NUkV4ekQyNG44enFzLWxkUGF6NU5Yd09UdjhWdERPX2R3Wkt6ZUIzRXJoT25RX1daUHZtR1BwR0E?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast sostiene reunión bilateral con Pedro Sánchez en medio de gira por Europa&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-05T11:50:05+00:00"
+    },
+    {
       "titulo": "Gobiernos regionales logran acuerdo con Hacienda tras semanas de tensión por recortes presupuestarios",
       "link": "https://laprensaaustral.cl/2026/11/05/gobiernos-regionales-logran-acuerdo-con-hacienda-tras-semanas-de-tension-por-recortes-presupuestarios/",
       "fuente": "La Prensa Austral (Punta Arenas)",
@@ -5614,31 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T00:32:17+00:00"
-    },
-    {
-      "titulo": "Organizaciones feministas exigieron la renuncia del ministro Rabat frente a La Moneda",
-      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/organizaciones-feministas-exigieron-la-renuncia-del-ministro-rabat/2026-11-03/212655.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T00:26:55+00:00"
-    },
-    {
-      "titulo": "Caso Rabat marcó tensa aprobación del presupuesto de Justicia en comisión mixta",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/caso-rabat-marco-tensa-aprobacion-del-presupuesto-de-justicia-en/2026-11-03/212609.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La polémica rebaja de condenas a 56 abusadores sexuales y violadores de menores por parte del Ministerio de Justicia -presidido por Fernando Rabat- marcó la discusión y la posterior aprobación de la partida de la cartera en la Comisión Mixta de Presupuestos.\nLos recursos propuestos tuvieron el visto buena de la derecha -que tiene mayoría en la instancia- y del PDG, constituyendo 16 votos favorable",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-04T00:26:09+00:00"
     }
   ]
 }
