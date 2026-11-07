@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-07T20:31:33.224542+00:00",
+  "actualizado": "2026-11-07T20:46:19.675181+00:00",
   "total": 500,
   "items": [
     {
@@ -167,6 +167,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-07T14:42:13+00:00"
+    },
+    {
+      "titulo": "Tragedia en Santo Domingo: Choque de camión, microbús y auto deja 11 muertos",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/tragedia-en-santo-domingo-choque-de-camion-microbus-y-auto-deja-11/2026-11-07/113352.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Once personas fallecieron en un choque que involucró a un camión tolva, un microbús y un automóvil durante la mañana de este sábado en la Ruta 66, a la altura del sector La Atalaya, en la comuna de Santo Domingo, Provincia de San Antonio (Región de Valparaíso).\nEl delegado presidencial Manuel Millones confirmó el balance de víctimas fatales y reportó 13 heridos, de acuerdo con la información propo",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-07T14:33:52+00:00"
     },
     {
       "titulo": "Tragedia en Santo Domingo: Choque de camión, microbús y auto deja 12 muertos",
@@ -5622,17 +5633,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-04T10:06:30+00:00"
-    },
-    {
-      "titulo": "Presidente Kast se reunió con el Papa León XIV en el Vaticano - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTlk3Um5jMXZMRzlGTG1zcEp3UDZhbU41RDBQbE1yeXYwMmFhVlA1T1FSUkN6Nm5zQlR5X21pNWd0RjhIQjlhbFQ1WVI2Z1VtNUhmOFBBRVpkNngyUk5nZ3lldU11V3VpTXVUSXAyUmZoX01VdXpIVUhZQkdpb1RJeldPN1hadDlGNDBzUnFVR21SNXY3WnZDek93?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast se reunió con el Papa León XIV en el Vaticano&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T10:05:00+00:00"
     }
   ]
 }
