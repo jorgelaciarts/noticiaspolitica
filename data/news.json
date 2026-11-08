@@ -1,7 +1,33 @@
 {
-  "actualizado": "2026-11-08T18:01:35.427460+00:00",
+  "actualizado": "2026-11-08T18:16:26.310989+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Acusación contra Rabat: RN descarta \"órdenes del partido\" y pide ajustes políticos",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/acusacion-contra-rabat-rn-descarta-ordenes-del-partido-y-pide-ajustes/2026-11-08/150007.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta de Renovación Nacional, Andrea Balladares, dejó en manos de los diputados de su partido la definición sobre la acusación constitucional que prepara la oposición contra el ministro de Justicia, Fernando Rabat, y llamó a evaluar su contenido antes de resolver una posición.\nLa senadora también sostuvo que la crisis por las rebajas de condenas dejó en evidencia problemas de coordinación ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-08T18:00:07+00:00"
+    },
+    {
+      "titulo": "Aprobación del Presidente José Antonio Kast se sitúa en 24% mientras crece la percepción de improvisación gubernamental - La Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY3o4amlHSVdYdlo3VUp1MkVyVG9nNGc5MjZUVWdRQ1ZfVk5HMlFDczg4S0k1U1hSd0VPdGpxWGpJd1h1VGVfUjNfcW5QRmRFVjVlbTk1Mm9vRUN3clhGaFQwMmpTcTNLQWZxX3RoakFHaWU4VEdnalAtSk5QSklBcG45dUFzbTEySHlRZU9QYWlZM0FRaXd3Q21qanpDR20xbUFObHBSV29GZkZtcVlqQ1F3THgyNFZTTFhIMzB6M2ZpVlJubHo0cldHYjFaNzExSGVlMHlFSkJEenU2djlJZTc4WHJsTUNON3d0OXRjcGQyTjFEaVJzNThvRHnSAYQCQVVfeXFMTW1jQVVhbzQtUzg2dzZyMHM5NVZNcVpjdGFhMXJvdE9GSU9QdVNkeDNRa1Z3WWpadTJvT29uNFFpbjk5UElsZ3BVd0NJMnQyV3FzWW5MbkV6NS1Ib3B1T3Z3NmF2SGFfSlExY1h4NFJGZVBZZUFSRWQ1Z1NlVjUxWTl4b3IzTEMtSjdzNjdXWTg4bllsUzI0OWk1ajQyNUdveGxlaG9vbC1WQXQwUkhSallsQW16NERGaHFac0hLTE8yUUFfNG1OTERxSy1Vc3UtenVueU1RSWw3cTMwWkZsUmpEei1fUTFQN0ZJVjdzZzFFUEVsQkRsYndEODZLb2JzVk10UE0?oc=5",
+      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
+      "region": "Biobío",
+      "resumen": "Aprobación del Presidente José Antonio Kast se sitúa en 24% mientras crece la percepción de improvisación gubernamental&nbsp;&nbsp;La Tribuna",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-08T18:00:00+00:00"
+    },
     {
       "titulo": "Va a tener que cambiar la fracesita: \"Todo va a estar bien\" de Kast provoca decepción y rabia entre todos los ciudadanos, según encuesta",
       "link": "https://cambio21.cl/pais/va-a-tener-que-cambiar-la-fracesita-todo-va-a-estar-bien-de-kast-provoca-decepcion-y-rabia-entre-todos-los-ciudadanos-segun-encuesta-6af0b6bf35114104734440e4",
@@ -345,6 +371,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-08T12:04:11+00:00"
+    },
+    {
+      "titulo": "Ley de Incendios: senadora Sepúlveda plantea que Conaf limpie predios e indemnización a propietarios sea última opción - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxORWpLQ2ZveVJwX2JMTlhONXAxb2lRcDZEeUxPZzNUSHg3QkM1QUpQbVpPM0RmQnRjMy1BQklDQ2lHMlc1SURmSXhUV05WV20zN0lLYldyc3V5LUUwTkxuNG93SDZYWGdhYVFmcXItQndKbHZJQVZ1cUxvS3EweGdpNFBFZ01jRzFQVUJJZE1FRzdXd2NxV2NsN1E3c1pJSUNoaUdNNXJvelV6QVJQTkhYZnllRHFBRHF2WjZlZldXTHNzZGRzTTVOdTVGZ1Z3VXU0ZjlpTDhrQ29vcmMzVUVVVlZtM3pBZGN5c2dVTnYwZ2IyWWZs?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Ley de Incendios: senadora Sepúlveda plantea que Conaf limpie predios e indemnización a propietarios sea última opción&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-08T12:00:00+00:00"
     },
     {
       "titulo": "Un gobierno sin timón y con rumbo a los arrecifes",
@@ -5590,39 +5627,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-04T14:45:52+00:00"
-    },
-    {
-      "titulo": "Año Nuevo en Valparaíso: trasladarán actividades fuera de Plaza Sotomayor por remodelación",
-      "link": "https://www.lanacion.cl/ano-nuevo-en-valparaiso-trasladaran-actividades-fuera-de-plaza-sotomayor-por-remodelacion/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Municipalidad de Valparaíso confirmó que este 31 de diciembre no habrá escenario ni artistas en Plaza Sotomayor, debido a las obras de remodelación que mantienen cerrado el sector. Sin embargo, la tradicional celebración de Año Nuevo en el mar y los fuegos artificiales se realizarán de todas formas. Los trabajos consideran una inversión cercana [&#8230;]\nThe post Año Nuevo en Valparaíso: trasla",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-04T14:40:52+00:00"
-    },
-    {
-      "titulo": "Rabat respalda decisión de Kast de mantenerlo en el cargo: \"No soy comentarista del señor Presidente\" - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVmZ4YldpcDY0U1NyWHltaDdUUTZsMjZWMnpIU1M0dGJZUmMxTE52eUpCb2RGWDZGeDNGTmFmck1vcUU1akNlQWl6am03V3hxbTJTR2FKYy1lcDBUenFEaFN6R1RaalhPYVg1MGdUSmoyd191QklodmlKbVdYNnJUT1ZVMNIBiAFBVV95cUxPOXVQSzJ5VThLMzJ1VnViQjFPNVBNcGlGUWtXb1FCZVhsb1Ztem5qZ1NqRUFCV0dPMVhyUWNPTXp3NVhkQ08ydm5QNzA1WnBIOGRHR3NjR0tRekFJaGF0bjd3S0s4SmwyTnlFQ3dqdXJCSFpDWXk3LXBVSTZUcHB3SmdfVWNzUXpv?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Rabat respalda decisión de Kast de mantenerlo en el cargo: \"No soy comentarista del señor Presidente\"&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T14:38:00+00:00"
-    },
-    {
-      "titulo": "Alcalde de Concón pide salida de plana mayor ENAP tras presunto ocultamiento de información ambiental - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPeDQ3VUt6dk9SRGJ0eWxVZl84Q2VaQ3BWYjMwZ0h1aFNXWUZrT0NWOVlMbW5wbEhYQ05Cc0pBcndLUS15aE02bElxNnNHaDJqTE1mSmVnYjBES1g2R1E5aXFLTTNCa2VubWYzekRISkJrOHMxMklXTmF2MDFwaTh1djJkV0kxcTF6YVJTdG5MU0VyVDd2V1Y2MUFVVnNUNkNqSDlxMnAxYWtLb3dESXMtVU9xS3V0V3hJUnN3Ry1mVzl2SXJ2VGNUUFFzdVg0MWo0UjR4TjE3QXNhVHZWTDE2dmFCT1NDRURQazdkbF9BNVZMNTlNblNUQ3lNbFMtanV3TERGazBmQVdmUTBweklIRlhB?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Concón pide salida de plana mayor ENAP tras presunto ocultamiento de información ambiental&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-04T14:34:51+00:00"
     }
   ]
 }
