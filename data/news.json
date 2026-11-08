@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T22:31:25.388616+00:00",
+  "actualizado": "2026-11-08T22:46:26.672168+00:00",
   "total": 500,
   "items": [
     {
@@ -3351,6 +3351,17 @@
       "fecha": "2026-11-05T17:28:03+00:00"
     },
     {
+      "titulo": "Presidente Kast vuelve a descartar un cambio de gabinete: 'No sé por qué se genera tanta controversia' - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTUpZRnpRTzA2bEFWUmtKZ1BPUmU3ZUZDYktuNFBkV2wxR053UERyREFna1BaN0ZPa29pN2R6OWVJSG9xeUZ4TE9GTnVoQk0yZmVVeHhnOGF1eU1vV3JjM3pHTUdUUFlzQ2R3OGZzVEk4bE85Y2FNang5a1hqbFQ5a3hQajNxWjBBN3ZoaEZPZUhpNmtncWRBSGxfNEVva0hpVmVxUdIBqgFBVV95cUxQby1oLTFKX1Rnc2g3SW5PRHA4am5UY09XQ01FLTd1RWtySkRpZVFHTjg4d1RCQmpvNzRwMEFOOVdmVERrRm9NcHRLd2RSODBLOERSYXFxeS02bFRFc2p2V2pVNUdDamxpa29mcmlaQmpUZkR2ekpaLUNrQXN0clI1OC1naVM2V2l4VTJKQzFxN2pScmlqeTRVWFludGcwOVdQZHAwTGxYM3dKZw?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast vuelve a descartar un cambio de gabinete: 'No sé por qué se genera tanta controversia'&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-05T17:28:00+00:00"
+    },
+    {
       "titulo": "El día en que el Presidente Kast puso a Paraguay y a Santiago Peña como ejemplo de modelo económico - ADN Radio",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNk9sQ2p4LU9IN3VKRy1ONzFSSXlzbDVaVVNZb3czSHNkMndVcjl5U0hrMkU0MDhkcUZyS1I2Mm5icF9MQkhjQ0J6VlVNczNwQVFhSXk0SHBHSk12SmtXYXo4TThPSWVEaDBGZm5ZUjUwcUJUWVpGcmVERW10WldMQWhSdUh3c3l1LUJOcjN1cy1xRjBsVnV3cFJfZk0yazFxZ2RCcW1IYjNDQ3M0MFRGclFxR1N6N1VRWjVYLWFCTzF2emZHeUVOY1hCa1NlbDhF0gHkAUFVX3lxTFBKUUFlSWx0T1lvZUJGMUR6dnozeUtxUG1hTXlPUEt4Z3lIS1FxYzlFeHp4bVBNMDMybldUcUwtaGJLdFA0N0YxQllDQWJtM2RtVlhOZFVEU1RIMG44OEFOSnZCOVVnX3Y1SVZ5eTFTTFlzQVdJekt2bEFGZDdNZmlRaFJ4VGFkSnhIb1Q4ZnVlNjJlalluS2w0amJLWW1Yb3VMajhPS3gydlV2djB0OS1HNFlpVmxLejlINHg1ZHdWcVhOdGFyQlF2bDA4amlVX2lTazNPalQtd3lzdHVXek1GdmpsVQ?oc=5",
       "fuente": "ADN Radio (vía Google News)",
@@ -5615,17 +5626,6 @@
       "resumen": "Kast emplazó a la oposición por la acusación constitucional contra el ministro de Justicia&nbsp;&nbsp;Infobae",
       "categorias": [
         "Presidente"
-      ],
-      "fecha": "2026-11-04T15:37:00+00:00"
-    },
-    {
-      "titulo": "Inundaciones en Galápagos dejan 2.000 familias afectadas: alcaldesa de Santa Cruz descartó desaparecidos - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUWp3R19wVHZaMF9fS05nOXlXV0NmVE5CRUdtVzlMN1NLY01Ta3l5OHdKWkp2MFdlVVJYOXQxSUVIV0dmc05zYkZ0SmlvNURUTUZlZjdQem9RMmlqaDc5TzV1ZHlUb2F0UWIzX1ZTcTVMR0dZSjFBaTBwOHZ0Wmk5SlNacXNVSWZFaWFLUF9mTjNuTGFKakxCbzZFQi1ENTNVRzdzbm9tY2ZTa2RTUGNBa19wNHA0TXByMll0TzBXcnBlSzhINE83bGRHSjB6NFBrUUV1VEZTRHFtLVhxTTBCRWs2SlFpb1lmZC0xX2ZyR2JCRzjSAY4CQVVfeXFMTm5qcDB1YW1HOGlFUVRXa1BoR3NuMWZoVHJJRzM2VHZhTzlqcW5HQzU0akRSd1FoR01MYlhjY0lPLXJYSG9lbUhBa01NZFJKQ2xZazlDSlhod0ZWSXNFMDFSZ2FnR0E0ajdraUtsdUpJZVZLVFhEZnRVczR3Z2hBUC1BMGpoRFUwQU9hVFJEbVh5Y1pydm04N3pSaW5JeHlyM3d4UEV0MmlkOGhoMHUyMmM5QndpODJ2MmpFVTNOOXFKZUdvdHdTSWtpU1BzYmpCRy1USTV1VXRlS2I0WWdLdlJnYTI2U2V6aXRGWTE5NUdEWnZLS1lSMG5WMzB1VEFiWXd6X3BHRTcyOE9nLV93?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Inundaciones en Galápagos dejan 2.000 familias afectadas: alcaldesa de Santa Cruz descartó desaparecidos&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Alcaldes"
       ],
       "fecha": "2026-11-04T15:37:00+00:00"
     }
