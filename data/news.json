@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-08T17:16:36.275553+00:00",
+  "actualizado": "2026-11-08T17:31:31.547772+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La peligrosa transición en Estados Unidos: ocho semanas del terror",
+      "link": "https://www.elciudadano.com/actualidad/la-peligrosa-transicion-en-estados-unidos-ocho-semanas-del-terror/11/08/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEditorial: La peligrosa transición en Estados Unidos: ocho semanas del terror Por Javier Pineda Olcay Donald Trump perdió las estrepitosamente las elecciones de medio término. El Partido Demócrata, a partir de enero de 2027, controlará la Cámara de Representantes y el Senado. En el Senado contará con 56 de 100 senadores y en la Cámara [&#8230;]\nLa entrada La peligrosa transición en Es",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-08T17:19:55+00:00"
+    },
     {
       "titulo": "Encuesta Criteria: la desaprobación de Kast supera los dos tercios de la población - Crónica Digital",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSks3TkctRG0wTGdDeENmTm5GVy1za3Atb19jRnRZNC1OR1hLZXJheUlmUnJEeGV3YTRLVlNkVEljWURueF9NTVk5RGRiemlJUnBrYUtjX1hWV2xYdVo0RmVRc2pITVppUXJSM1EtUWtldmVPUjJRS2pwSWlMR2lDNkxOTUFRelFSOGJKeTFjNHM2Z2diRnpsVVRPam5jRDdlbG85WE92dkFfcW1M?oc=5",
@@ -1718,6 +1729,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-06T13:37:10+00:00"
+    },
+    {
+      "titulo": "Kast llega de su gira y se encuentra con la peor crisis de su gobierno y con las peores notas a su gestión: Encuesta asegura que solo el 20% lo aprueba y el 68% lo rechaza. Y un record: 82% de los jóvenes lo desaprueban",
+      "link": "https://cambio21.cl/cambio21/kast-llega-de-su-gira-y-se-encuentra-con-la-peor-crisis-de-su-gobierno-y-con-las-peores-notas-a-su-gestion-encuesta-asegura-que-solo-el-20-lo-aprueba-y-el-68-lo-rechaza-y-un-record-82-de-los-jovenes-lo-desaprueban-6aedcdc62225b50e643d11c3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-06T13:17:39+00:00"
     },
     {
       "titulo": "Kast llega de su gira y se encuentra con la peor crisis de su gobierno y con las peores notas a su gestión: Encuesta asegura que solo el 20% lo aprueba y el 68% lo rechaza. Y un record: 82% de los jóvenes lo desaprueban",
@@ -5603,28 +5625,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T14:20:29+00:00"
-    },
-    {
-      "titulo": "“La crisis ya no resiste más”: alcalde de Concón exige la salida de toda la plana mayor de ENAP por el caso de la refinería Aconcagua - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdU5tVTFVT2tiejRVd3BpSnVPalNvVEdzTG45UVYyaXNuM2Q4amF5NnV3QjVYYkFwbHRYanN3MjU0cUtabWt5M0pEZHhqVDh1d2VIWXZCRWJjOU81dU1zaXEwTTRtbjJ4akZaM2xaTnFsNXd6NUUycGplQTMyUTUzOWdSQk9BY3VtYmFSemRjYWRjY3FmMG9uWmhLZ2JVbXBicTZrNjFPT2twLVZ3Y2VVcXJNNzhtbUVPNHV3?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“La crisis ya no resiste más”: alcalde de Concón exige la salida de toda la plana mayor de ENAP por el caso de la refinería Aconcagua&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-04T14:20:00+00:00"
-    },
-    {
-      "titulo": "El regalo del Papa León XIV al Presidente Kast: Conoce cómo es la medalla que recibió en el Vaticano - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQkpCNWZneGNsVnJva1lidW9BS1lvQmJKejl3Zl9fRUtaR0lCbWs1RHZnOVdTcHNERk5GZ1g0QzJZSWJDeWpjV0xXaE9HQ0lGOWQyUkJkM2YtTEZtUU9TU2MybUt1dGNMWjVicHRMWTZReThkZ1JDN1RsYzNheUVVQ3pvMmZKZFBNNDQwdGNJYmhmSmVMSzZodEtXOFBsSFlWNDBManM2MHhSUm5EbTBwLV96YmNNS0pudy1xNno4Y1Q2ZS15b0JBUnJKLTRiZzlyWW9LazZiQUFXYWJoR0HSAeMBQVVfeXFMTi0xY3ZlQ25JN0NESDgtNVlfU1FkMXpUeVNFeTZrWWgxN3JIcDBfMy1fbkh5c1Y2MWxMYnpmZm9HbGxRMUNBOEtvd0tGTmg3Y1Fld0tFTkZlaGdrSVI2a19yREVOYUV4SzQ4Y2l4OTBTUjJTNGZrRWVYMFVWWmk2T0hDWm9JdjFWSDZ5VklpbkhMdHp5OExWN1FYdkdILWgtVkhzWmZ0bnc2ekxBdU0ta1VDbzZWTl9VZlh5akpaWlJZMExYNUVHSEoxRzEyOXdJZHp1RXQzUEVDTFlfWGFCNUlBMjg?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El regalo del Papa León XIV al Presidente Kast: Conoce cómo es la medalla que recibió en el Vaticano&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T14:20:00+00:00"
     }
   ]
 }
