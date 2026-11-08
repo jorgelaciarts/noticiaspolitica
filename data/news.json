@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T18:59:43.301329+00:00",
+  "actualizado": "2026-11-08T19:01:23.945630+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,19 @@
         "Presidente"
       ],
       "fecha": "2026-11-08T18:24:22+00:00"
+    },
+    {
+      "titulo": "Soto: Acusación contra Rabat está al 99% y tendrá votos oficialistas",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/ppd/soto-acusacion-contra-rabat-esta-al-99-y-tendra-votos-oficialistas/2026-11-08/152309.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado Raúl Soto, presidente del PPD, aseguró que la acusación constitucional contra el ministro de Justicia, Francisco Rabat, se encuentra \"casi lista\" y contaría con votos oficialistas.\nEn conversación con \"Estado Nacional\" de TVN, el parlamentario abordó la acción que prepara la oposición contra el secretario de Estado en respuesta a la rebaja de penas a personas condenadas por abuso y vio",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-08T18:23:09+00:00"
     },
     {
       "titulo": "Alcaldesa de Hijuelas advierte por derrame del relave en el río Aconcagua: 'Nos podría causar mucho daño' - Meganoticias",
@@ -5615,18 +5628,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T15:10:00+00:00"
-    },
-    {
-      "titulo": "La Moneda descartó cambio de gabinete pese a presiones del oficialismo",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/la-moneda-descarto-cambio-de-gabinete-pese-a-presiones-del-oficialismo/2026-11-04/120750.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Gobierno descartó este miércoles la realización de un cambio de gabinete en el corto plazo, pese a las presiones de sectores oficialistas para ajustar los ministerios y el equipo del Segundo Piso.\nLa postura oficial se conoce en medio de la crisis política provocada por la controversia sobre la rebaja de penas a pederastas, que generó fuertes fricciones internas en la coalición.\nMientras el Pre",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-04T15:07:50+00:00"
     }
   ]
 }
