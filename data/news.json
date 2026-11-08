@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-08T17:46:18.228649+00:00",
+  "actualizado": "2026-11-08T18:01:35.427460+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Va a tener que cambiar la fracesita: \"Todo va a estar bien\" de Kast provoca decepción y rabia entre todos los ciudadanos, según encuesta",
+      "link": "https://cambio21.cl/pais/va-a-tener-que-cambiar-la-fracesita-todo-va-a-estar-bien-de-kast-provoca-decepcion-y-rabia-entre-todos-los-ciudadanos-segun-encuesta-6af0b6bf35114104734440e4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-08T17:58:49+00:00"
+    },
     {
       "titulo": "La peligrosa transición en Estados Unidos: ocho semanas del terror",
       "link": "https://www.elciudadano.com/actualidad/la-peligrosa-transicion-en-estados-unidos-ocho-semanas-del-terror/11/08/",
@@ -5612,19 +5623,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-04T14:34:51+00:00"
-    },
-    {
-      "titulo": "UDI pide que, superada la crisis, Kast instaure una coalición política formal",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/udi-pide-que-superada-la-crisis-kast-instaure-una-coalicion-politica/2026-11-04/112029.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El diputado Eduardo Cretton, vicepresidente de la UDI, abogó en El Primer Café por que, una vez superada la crisis de las rebajas de condena a pedófilos, el Presidente José Antonio Kast instaure de manera formal una \"nueva coalición política\" con los partidos que lo apoyan.\nEl parlamentario afirmó que el error cometido por el ministro Fernando Rabat \"ha tenido un costo evidente para el Gobierno\", ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-04T14:20:29+00:00"
     }
   ]
 }
