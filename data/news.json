@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-11-08T13:01:31.746149+00:00",
+  "actualizado": "2026-11-08T13:16:29.746263+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El votante fiel se reduce: Apoyo sostenido a Kast cae al 20%",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/encuestas/el-votante-fiel-se-reduce-apoyo-sostenido-a-kast-cae-al-20/2026-11-08/101239.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La proporción de personas que ha aprobado de manera sostenida al Gobierno del Presidente José Antonio Kast bajó del 30% al 20% entre junio y noviembre, según un estudio de Panel Ciudadano de la Universidad del Desarrollo (UDD), publicado este domingo por El Mercurio.\nLa investigación encuestó a las mismas 1.010 personas durante los primeros 240 días de administración, con 16 mediciones entre marzo",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados",
+        "Elecciones"
+      ],
+      "fecha": "2026-11-08T13:12:39+00:00"
+    },
     {
       "titulo": "«Esta era la forma soterrada de ponerlos en libertad»: Diputada Fries acusa al Gobierno de usar rebajas de penas para liberar a criminales de lesa humanidad",
       "link": "https://www.elciudadano.com/actualidad/esta-era-la-forma-soterrada-de-ponerlos-en-libertad-diputada-fries-acusa-al-gobierno-de-usar-rebajas-de-penas-para-liberar-a-criminales-de-lesa-humanidad/11/08/",
@@ -5619,17 +5633,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-04T12:14:26+00:00"
-    },
-    {
-      "titulo": "Los detalles del encuentro de Kast con el Papa León XIV: regalos chilenos, una bendición familiar y un cumpleaños inesperado - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ3ktcjNUcGRSUjBJUk9BUVJ2TDJZUEJLMlBieG9pS0RzMkxmU1d0YUVncnpJbkxlaEctbE1oOTMxajg2NWMyb0c3V2NkZlVuU0FaeFZtYmRNaHV0cEFPc0R2ZThLTWNoeW1FaGUyaFNITC02MHhqcjNDOUFCa1JMajNEa3U2eDRBbmg1ZGFMcWZVZUEtWWN4a2lxOGE0ZlpEUkplSm1RVEM3TXNGbjlWLXpkQVdVWC1WTi1nV0NR?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Los detalles del encuentro de Kast con el Papa León XIV: regalos chilenos, una bendición familiar y un cumpleaños inesperado&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T12:01:00+00:00"
     }
   ]
 }
