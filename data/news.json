@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-08T15:31:32.300643+00:00",
+  "actualizado": "2026-11-08T15:46:11.149377+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Encuesta Criteria: Desaprobación de Kast sube al 67% y aprobación cae al 24% - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNGtpeW5RdnNHclJUaklfUFFCd0xiSEgzM3VRRXdMWUZfVmxad0tPay1LbTRFR1F1R2FjaVNkTmVJNmN3OXFZdkI3LVNwYjVabndscnRUZlhrYWpLYzJJYUNLQ2xIZXI4UnZwN1FNYjdpRjBwOFEyU1JxU1U2a2NxVnVfeFlfcWQ2Q1VmZTBkNDZUQUZsWEZhbnlxMk9tSGliNDVmTEU2QQ?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Encuesta Criteria: Desaprobación de Kast sube al 67% y aprobación cae al 24%&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-08T15:40:08+00:00"
+    },
+    {
+      "titulo": "Un Presidente en caída libre. Encuesta ratifica los malos numeros de Kast: Según Criteria tiene el registro más bajo desde que asumió. Y trae un dato muy complejo: 74% cree que no es el líder que Chile necesita",
+      "link": "https://cambio21.cl/politica/un-presidente-en-caida-libre-encuesta-ratifica-los-malos-numeros-de-kast-segun-criteria-tiene-el-registro-mas-bajo-desde-que-asumio-y-trae-un-dato-muy-complejo-74-cree-que-no-es-el-lider-que-chile-necesita-6af0939612c57462200aa723",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-08T15:26:41+00:00"
+    },
     {
       "titulo": "Un Presidente en caída libre. Encuesta ratifica los muy malos numeros de Kast: Según Criteria tiene el registro más bajo desde que asumió",
       "link": "https://cambio21.cl/politica/un-presidente-en-caida-libre-encuesta-ratifica-los-muy-malos-numeros-de-kast-segun-criteria-tiene-el-registro-mas-bajo-desde-que-asumio-6af0939612c57462200aa723",
@@ -5605,29 +5627,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-04T13:51:19+00:00"
-    },
-    {
-      "titulo": "Presidente Kast se reúne con el Papa León XIV y fortalece las relaciones entre Chile y el Vaticano - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQ2NIUEx3MkdVT1Q4SHNHaTAzU2lLWWdfT203dHZQWFZucFJUS3JLc09lNGNNV0dKWWktWGNxa1BRUy1ObjEydDdwb1hMSmZSSzNZSG1ZS1hKZ1doZGl6N2hvdXYzYWV1RkNycEVBTzVLWkVXX2RUZHlNZEExOEVFQ1MzcURUZU9wX2d2Z1VreC1GZWlMeUllOVJIUWRxWkswTFlIci1jV1cwV25jNVRDX1AyamFpai15MW5QLXlYb2Z6YS1jRFVGN3Z5NTJNanQxd2dnT3N6bzZBc3JrUFR0NURXS3JoWG1ONFdZdVh0Q3daUFV5eFVUSVlEWDFueDhUb0JvZk13cw?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast se reúne con el Papa León XIV y fortalece las relaciones entre Chile y el Vaticano&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T13:37:40+00:00"
-    },
-    {
-      "titulo": "Fenómeno de El Niño: Diputados UDI de regiones piden al Sernatur adelantar temporada turística ante pronósticos de altas temperaturas - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNmM3WU5TT1NpM0xoenJicG5vb1RCM1l5Z3JiQVdnbHB2WkY4ZV9EZmtyRkJVMkpKS1lPOEFHVWFBeDlKRkU1SXptcjBQTGpnNnhxT2Z1M3NzZXdmT2xhdTh4cjVoNmJuVEJQTkV1RThnX29BSlRYRk9nU3VmaDR0YkpSUUtLMVJRWXU2SUpzSW5lV3BNN25wU3NqU3VkV2VJWlJZTXFvTDBOVGVoekhiUzBnUjNKVkVXaUpwZnBWb2ZqcnpJUkN6VFdBclFaNW5wT3VSelVPYzFURjI2ZnJMZ3MxNWp4SjN4TVZfY3Q5NA?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Fenómeno de El Niño: Diputados UDI de regiones piden al Sernatur adelantar temporada turística ante pronósticos de altas temperaturas&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-04T13:35:30+00:00"
     }
   ]
 }
