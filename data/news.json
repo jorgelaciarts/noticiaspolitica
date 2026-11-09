@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T23:16:20.275677+00:00",
+  "actualizado": "2026-11-09T23:31:24.464573+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-09T22:57:27+00:00"
+    },
+    {
+      "titulo": "Incendio afecta a campamento de Cerrillos en medio de desalojo",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/incendios/incendio-afecta-a-campamento-de-cerrillos-en-medio-de-desalojo/2026-11-09/195605.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un incendio de proporciones afecta la tarde de este lunes a diversas viviendas del campamento Nuevo Amanecer, ubicado en la comuna de Cerrillos, en el mismo sector donde durante la mañana se dio inicio a la primera etapa del masivo desalojo ordenado por las autoridades, que abarca una extensión de 2,8 hectáreas.\nEl operativo contempló la salida de aproximadamente 817 personas y la desocupación de ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-09T22:56:05+00:00"
     },
     {
       "titulo": "La conversación personal de Rabat con Kast en medio de especulaciones sobre su renuncia - Ex-ante",
@@ -5619,18 +5630,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-05T11:19:42+00:00"
-    },
-    {
-      "titulo": "La UDI se pone del lado del gobierno de Kast y rechaza la AC contra Fernando Rabat: hablan de mezquindad - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOczRPVHdDXzlfek1jcDgwd3M4LTB1SDE3eDZzQk5TQURrZElsZEhVM3ByTmFBbkxMZ1paMEZ3V1dGaW53ZjJqYjlmVERPY3lEeXdCdW13VlBScDhkeEQ3cFhlekFDM3BxTkU1bC1GWEdRc1NXRVBfOXJWMHBrSUpmNGp5NDBLVVlkc3pkd1FvUU9ITFVkdENxUF91UkhoaW11MDczdTBmZll5d3AtRTRRbmZtUmp6dUFaa1RYY1F1TGVNSHJKeGRHMVRTeGZSRkFyTXY4bk5UcG44Q2c?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La UDI se pone del lado del gobierno de Kast y rechaza la AC contra Fernando Rabat: hablan de mezquindad&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-05T11:19:00+00:00"
     }
   ]
 }
