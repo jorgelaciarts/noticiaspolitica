@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-09T17:16:51.545819+00:00",
+  "actualizado": "2026-11-09T17:31:36.301792+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Club de Leones enfatiza que sus centros de rehabilitación  pertenecen a Magallanes y son autónomos de Teletón",
+      "link": "https://laprensaaustral.cl/2026/11/09/club-de-leones-enfatiza-que-sus-centros-de-rehabilitacion-pertenecen-a-magallanes-y-son-autonomos-de-teleton/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Club de Leones Cruz del Sur emitió una declaración pública para precisar el origen y la dependencia de los Centros de Rehabilitación que funcionan en Magallanes, luego de la mención realizada a la institución por el presidente José Antonio Kast durante la transmisión de Teletón. Francisco Barría Presidente del Club de Leones agradeció el...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-09T17:19:01+00:00"
+    },
     {
       "titulo": "Crisis por Rabat: Kast redobla esfuerzos para ordenar al oficialismo antes de su gira a Asia, pero los partidos mantienen la presión por cambios",
       "link": "https://www.theclinic.cl/2026/11/09/crisis-por-rabat-kast-redobla-esfuerzos-para-ordenar-al-oficialismo-antes-de-su-gira-a-asia-pero-los-partidos-mantienen-la-presion-por-cambios/",
@@ -12,6 +24,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-09T17:11:27+00:00"
+    },
+    {
+      "titulo": "Camioneros valoran anuncio del Presidente Kast por combustibles, pero advierten: “No es suficiente” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSkNHemR3Z0l2NXBibVlmWmluV3NZc2haMG42SXd0Tng0RUthemJqVGN1TVFoRnZBOGdIQ29IUkxmSWd6cWM2a1RHaVlUUmVFTE1uT01TZF94bU1wcG1Ddm1WUnZXejZPWWNxYlBkUzFFQUpld1JCLTBNY1NNaTNMb3ZfXzBnQ2hONGlveF9zOEVPVmNWU1ZXQ243SlJyTkROVFdhWEZNblpGbWJMV2FEMGY0bjBPNjZKWnR6akFlNTJjeDVSUTludmFfb9IB3wFBVV95cUxQZUJYMzVMdFM1RWZRMTdycllvZ1Z5SkdLdXRGNWl2TXFTdFBZb0RTbkc5RTZ4Z01VclZZcE5tZW1qZUdMM2t2clNnd2NNWkprYkZDTi1VTGY3QlJJQmVxeDdsdlBWOURUNHJTbVNRWkFnY3NCdTFrbk5KZkZMTDRkTFd0c3pyLXRJNlBwYkw2aVFOTGZkd2dsbzkyc2tmTVFHQTdoYnRhUGcxMkFmcjEyeG1mX1RfOXZJV3k1eHVSc3hGcnJ0bG9vOTJTZjI0cDFlQ2RqTEttc19QX3JUU0hv?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Camioneros valoran anuncio del Presidente Kast por combustibles, pero advierten: “No es suficiente”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-09T17:10:41+00:00"
     },
     {
       "titulo": "Al Pan Pan: nuevos antecedentes en caso Rabat fortalecen tesis de un cambio de gabinete en La Moneda - El Mostrador",
@@ -5602,28 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T22:21:37+00:00"
-    },
-    {
-      "titulo": "Partidos oficialistas incrementan presión por cambio de gabinete y Kast se mantiene como el único defensor de Rabat - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nSnV4RHlDaHFYeXdhS1h1aW9aUFhFbkQtcmlXWEdNenFVSC12VTRVVGhjTlVzYnRGQU9MSFpTQVJvbnFsZ0htbGVEV2djOHp3bkJ4LUI5a1R2aDd2RzFmR0hFT0RncnlfZkdUMFNhU003emJnRjFR?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Partidos oficialistas incrementan presión por cambio de gabinete y Kast se mantiene como el único defensor de Rabat&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T22:18:45+00:00"
-    },
-    {
-      "titulo": "Reunión de emergencia en la UDI aumenta presión por futuro de Rabat - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVdBUlk4ejRXRkFJNGxiT3MxSkZqQXR3X0pRb3JDVlc5aVJJcy1DUlJhNVFlVlJ1QmR3ck1nd2k2TUxnM1o2eE0zRFkwNjRKa3VocFdxd2EzVjlwS2xYU2oyc2lrcGNBY3dSYWttWXlyNDVlcllPWWNQaV9tei1nY1AxeGRVZC1JYmFsTFNSNGtBUC14YlNndmRXaWNfYWVmSlR5OXBoSGV0OVV0T3hKdW1DMnItS2w5S2JqdA?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Reunión de emergencia en la UDI aumenta presión por futuro de Rabat&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-04T22:17:48+00:00"
     }
   ]
 }
