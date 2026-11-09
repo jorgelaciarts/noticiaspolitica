@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-09T21:31:32.546842+00:00",
+  "actualizado": "2026-11-09T21:46:26.078021+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cobran \"antigua factura\": Oposición no permite ingreso del director de Presupuesto a la Cámara. Los parlamentarios de Gobierno no permitían ingreso de la funcionaria del Gobierno de Boric",
+      "link": "https://cambio21.cl/politica/cobran-antigua-factura-oposicion-no-permite-ingreso-del-director-de-presupuesto-a-la-camara-los-parlamentarios-de-gobierno-no-permitian-ingreso-de-la-funcionaria-del-gobierno-de-boric-6af23845601d7762fa2e6aa3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-09T21:31:12+00:00"
+    },
     {
       "titulo": "Carta a la directora: Representar el sentido común para volver a conectar con las mayorías. Respuesta a Senador Ibáñez",
       "link": "https://www.theclinic.cl/2026/11/09/carta-a-la-directora-representar-el-sentido-comun-para-volver-a-conectar-con-las-mayorias-respuesta-a-senador-ibanez/",
@@ -202,6 +213,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-09T18:53:45+00:00"
+    },
+    {
+      "titulo": "Encuentran sin vida a padre y su hija de cinco años que cayeron río en Cunco",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-la-araucania/encuentran-sin-vida-a-padre-y-su-hija-de-cinco-anos-que-cayeron-rio-en/2026-11-09/155029.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un hombre de 32 años y su pequeña hija de solo cinco fueron hallados sin vida este lunes en las aguas del río Curacalco, en la comuna de Cunco, Región de La Araucanía, lugar donde sufrieron un accidente durante el fin de semana.\nDe acuerdo con la información entregada, la niña cayó al torrente de las aguas en el sector Garganta del Brujo, por lo que el padre se lanzó para rescatarla. No obstante, ",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-09T18:50:29+00:00"
     },
     {
       "titulo": "El Gobierno de Kast anuncia un proyecto de ley para reducir las futuras alzas de los precios de los combustibles - EL PAÍS",
@@ -5609,29 +5631,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-05T10:20:47+00:00"
-    },
-    {
-      "titulo": "Ahora por balazos: suspenden nuevamente la atención en Cesfam de Bajos de Mena",
-      "link": "https://www.cooperativa.cl/noticias/pais/policial/ahora-por-balazos-suspenden-nuevamente-la-atencion-en-cesfam-de-bajos/2026-11-05/071017.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La atención de salud en el Cesfam Cardenal Raúl Silva Henríquez, ubicado en el sector de Bajos de Mena, en Puente Alto, fue otra vez suspendida este jueves luego de un nuevo episodio de violencia que afectó la seguridad de sus funcionarios.\nLa decisión se adoptó después de que cinco personas heridas a bala llegaran al recinto durante la noche, acompañadas de otros individuos que habrían amedrentad",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-05T10:10:17+00:00"
-    },
-    {
-      "titulo": "Lautaro Carmona, aborda las autocríticas tras el gobierno de Boric y los desafíos frente a Kast: “Se puede ser leal, pero no obsecuente”",
-      "link": "https://www.elciudadano.com/portada/lautaro-carmona-aborda-las-autocriticas-tras-el-gobierno-de-boric-y-los-desafios-frente-a-kast-se-puede-ser-leal-pero-no-obsecuente/11/05/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEn un Chile que vuelve a mirar el rumbo con vértigo, Lautaro Carmona, Secretario General del Partido Comunista de Chile, no esquiva las preguntas incómodas y aborda las autocríticas tras el gobierno de Boric y los desafíos frente a Kast: «se puede ser leal pero no obsecuente», señala. Tras la Conferencia Nacional del Partido Comunista, [&#8230;]\nLa entrada Lautaro Carmona, aborda las ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-05T09:57:45+00:00"
     }
   ]
 }
