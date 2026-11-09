@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-09T04:16:27.680388+00:00",
+  "actualizado": "2026-11-09T04:31:26.024887+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Estudio revela el porque del rechazo y el desplome de Kast. Mandatario en caída libre entre sus propios votantes fieles y apoyo cae al 20 por ciento",
+      "link": "https://cambio21.cl/politica/estudio-revela-el-porque-del-rechazo-y-el-desplome-de-kast-mandatario-en-caida-libre-entre-sus-propios-votantes-fieles-y-apoyo-cae-al-20-por-ciento-6af147ec98d28507c05a73e3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-09T04:14:21+00:00"
+    },
     {
       "titulo": "Cadem: Desaprobación a Kast llegó al 68% marcada por rebaja de penas y economía",
       "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/cadem-desaprobacion-a-kast-llego-al-68-marcada-por-rebaja-de-penas-y/2026-11-08/215813.html",
@@ -5618,17 +5629,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-04T16:24:00+00:00"
-    },
-    {
-      "titulo": "Subsecretario Arenas por postergación de AC contra Rabat: “Tenemos una oposición que está tratando de montar un verdadero circo político”",
-      "link": "https://www.theclinic.cl/2026/11/04/subsecretario-arenas-por-postergacion-de-ac-contra-rabat-tenemos-una-oposicion-que-esta-tratando-de-montar-un-verdadero-circo-politico/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "En su vocería de este miércoles, el subsecretario Gonzalo Arenas se refirió a la posible acusación constitucional que la oposición ha anunciado contra el ministro de Justicia, Fernando Rabat, por las rebajas de condenas a violadores y abusadores de menores.\nAllí, realizó un llamado a la oposición a sumarse a la ley Nunca Más y a que \"no se dedique solamente a tratar de dar expectativas de una acus",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T16:20:19+00:00"
     }
   ]
 }
