@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-09T12:31:27.824880+00:00",
+  "actualizado": "2026-11-09T12:46:11.498781+00:00",
   "total": 500,
   "items": [
     {
@@ -58,6 +58,18 @@
         "Diputados"
       ],
       "fecha": "2026-11-09T11:47:32+00:00"
+    },
+    {
+      "titulo": "Cadem: desaprobación de Kast llega al 68% y aprobación sube al 29%",
+      "link": "https://www.lanacion.cl/cadem-desaprobacion-de-kast-llega-al-68-y-aprobacion-sube-al-29/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "La rebaja de penas a condenados por delitos sexuales y el deterioro de los indicadores económicos aparecen como los principales factores detrás de la evaluación negativa del Presidente José Antonio Kast, según reveló la última encuesta Cadem. El sondeo, correspondiente a la primera semana de noviembre, mostró que un 68% de los consultados desaprueba la [&#8230;]\nThe post Cadem: desaprobación de Ka",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-09T11:45:00+00:00"
     },
     {
       "titulo": "Timonel DC: Esta semana se va a presentar la acusación contra Rabat",
@@ -5613,17 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-04T17:56:46+00:00"
-    },
-    {
-      "titulo": "Kast prepararía cambio de gabinete para la próxima semana: Rabat sería uno de los ministros que saldrían - www.elobservatodo.cl",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbHlQREs2REdFeklVclpOOWZyZVhscUNtZ3N3cTlvYnZqOWZyempjZk5UUktCc1ctQ29rVGZ0cE1lRlZIakhGMHdEbDRJbjZuSDREbGVNZFNiSUE5YnE3MG4xa0ZWM3FNcE9td01mMUQ1QTQ3YWVCY2tXaDZ3d0IwbEgzREJjSUw1SWpId3NJR25nXzhXLVhUSTZQd2tPYjRYZG85cG1iRi05djM1enVrdUZFSWc0cmh1QmJWOE9UWjBnYkhKTXBzTw?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Kast prepararía cambio de gabinete para la próxima semana: Rabat sería uno de los ministros que saldrían&nbsp;&nbsp;www.elobservatodo.cl",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-04T17:45:14+00:00"
     }
   ]
 }
