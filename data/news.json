@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-09T11:31:20.969326+00:00",
+  "actualizado": "2026-11-09T11:46:27.019253+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Timonel DC: Esta semana se va a presentar la acusación contra Rabat",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/timonel-dc-esta-semana-se-va-a-presentar-la-acusacion-contra-rabat/2026-11-09/083035.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente de la Democracia Cristiana, el diputado Álvaro Ortiz, confirmó en Cooperativa que esta semana se presentará la acusación constitucional en contra del ministro de Justicia, Fernando Rabat, por la polémica firma de decretos para reducir condenas de abusadores y violadores de menores de 14 años.\nEn conversación con El Diario de Cooperativa, el parlamentario dijo que \"una acusación const",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-09T11:30:35+00:00"
+    },
     {
       "titulo": "Las rebajas que Rabat sí pudo frenar: seis fallos avalaron sus rechazos antes del giro de doctrina",
       "link": "https://www.elciudadano.com/justicia/las-rebajas-que-rabat-si-pudo-frenar-seis-fallos-avalaron-sus-rechazos-antes-del-giro-de-doctrina/11/09/",
@@ -5614,17 +5625,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-04T17:18:01+00:00"
-    },
-    {
-      "titulo": "Alcaldes del Limarí plantean dudas ante futuro traspaso al SLEP - El Día",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSHQ2a1N3dm5wRWpjUjNSeFdHWFRzU2tubXpGQXNNZVgyS19VSHFkVVd6WFBBWVlUWUd1dXJ1OUFjRXNLMzg1R0wtcmpSc1hsUkMtWUp0aEh5dkZlemVTZXVvNzFiQVE2TmVRUHpFSXVwcVgxRXNyNjFycldjXzIzby12ZFJ5eTdpd3dhdEhzV2NPNU9JaVVVRGFacGRwRHNjU2luamNUdklsdjRzMHFXNUlmRW9uSUNZ?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Alcaldes del Limarí plantean dudas ante futuro traspaso al SLEP&nbsp;&nbsp;El Día",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-04T17:15:54+00:00"
     }
   ]
 }
