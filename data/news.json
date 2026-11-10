@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-10T23:16:07.832895+00:00",
+  "actualizado": "2026-11-10T23:31:32.492556+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Quién es quién en el dividido gremio de los camioneros y sus diversas posturas ante el gobierno de Kast - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYOUhkaV9NanRNRkFFN2hsUmlxM3dNaElWeFg2SkdEQzgxaE8xXzNoYmFZc3ZHQWRMbjBBTmo2YkNKWHRjemxfTW9KaVlQbzdUQ2hUV190V3dVdFA4YUp4cmJqVXc4TFJoNVpBeThwMGdzRlY5?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Quién es quién en el dividido gremio de los camioneros y sus diversas posturas ante el gobierno de Kast&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-10T22:52:20+00:00"
+    },
     {
       "titulo": "Ante el alza de precios: UDI propone reducir en un 50 % el impuesto a los combustibles - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFBKS2VGWE05MHRYSFVtbG1QRktEc0MzUm5FcjFUMFBuaGg1VEJzTHFBOWx0M0V0d183MkMxTWZfdXh3cHdhZU92NG1nSVVZNEdPNDhadHJVSXdINFQ4Z2lWbmVhZWJoa3BpanAtZlo3RDd0R2xtTmUwN1dINW5ST0JQZXdCZ1lFS2s5X2J1Rl9rVU4zdnhJRGItMW05Q2RWNEdMampXWGVrRC1WZ0s2UmR0Q3U?oc=5",
@@ -23,6 +34,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-10T22:35:00+00:00"
+    },
+    {
+      "titulo": "Fenatrac: \"Somos pymes, no grandes transportistas, y estamos muriendo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/fenatrac-somos-pymes-no-grandes-transportistas-y-estamos-muriendo/2026-11-10/192838.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta de la Federación Nacional de Transportistas de Carga (Fenatrac), Patricia Angulo, marcó distancia de las principales organizaciones del gremio y aseguró que las actuales movilizaciones representan a pequeños y medianos empresarios del transporte, quienes, afirmó, atraviesan una compleja situación económica por el aumento de los combustibles y los costos operacionales.\nEn conversación",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-10T22:28:38+00:00"
     },
     {
       "titulo": "Presupuesto: Cámara rechazó partida del Ministerio del Interior por recortes a emergencias y Ley Cholito",
@@ -5613,29 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-05T22:30:00+00:00"
-    },
-    {
-      "titulo": "Senadores ofician a Superintendencia de Pensiones para aclarar si AFP tienen inversiones expuestas tras crisis en Paraguay - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUllR1BKZDRFd203NHEyTUZUZzRhZ2RucUZucl9wNUFXa3V3dlFqb2ZNaGZYbG84SDRodE1qanhKa21oYnp2MnlsM1Uxcy1pR0JfVTAtME9HRmNQYUh0QmZyZnpTcXlLT3kyM1Q3aU4zVXhOYndNM2E1V0hvUWx1SEZrSFlTZkd4dU1CeGVlbTFyNnVRMFQ4SHVrMzE1emdBaEN1R1BsSkh6b0lrZDFXZUxjeEQ5QzRycjhyTUsyWkRpb3PSAcgBQVVfeXFMUG1wWjhLdmNpTXZ0TjdncW1KekRDZnNTWUxoMVZxQXNIT3hIa2FHZ2RMT1gxVG9kOFFtOVk0MXZMVEQ0Rm9SZG5tNnJlcjZWbzlsU3VsbTZ5MDJIVnFoMUFNNnRwN3NZOVlwdURaRVVRd2FKUkk5Z0VFOFhFRGJEVE5zaFVYZnFVeEhQRFhsa3RYVlhkTy1hNEtFRmVDaDh2SU9Hc1BmQU00QXJqWV8yUW1XSDU4M3VGbWswZElCa3djem9haGFueEc?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadores ofician a Superintendencia de Pensiones para aclarar si AFP tienen inversiones expuestas tras crisis en Paraguay&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-05T22:28:00+00:00"
-    },
-    {
-      "titulo": "Diputado Kast y crisis por rebajas de penas: \"El ministro Rabat es un excelente abogado y ha sido un excelente ministro\" - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOclMxV1Y2OUZxR2xnLUg0WmNNRVRGTUlwd2tZQ2J5U2VmWm1jODZMSnZhT25QV1o3bkMxMDlKMXdvR0U5YlZTMnE2NFJkQXpkS09HLTZ1OVh3NVNMdFJLeGhacnpIVF9RQ0hnY0tLVDlNZWxxZmJCUlQ2elpQSXI0S3k2a0NCR21fTWN4aF9sWEFNSFdkWXRVb3BjUEZqVjlReEJBN0NScDhjZklHSjRfRGtXRUdLeHQyaFQzWi1R0gG-AUFVX3lxTE5yUzFXVjY5RnFHbGctSDRaY01FVEZNSXB3a1lDYnlTZWZabWM4NkxKdmFPblBXWjduQzEwOUoxd29HRTliVlMycTY0UmRBemRLT0ctNnU5WHc1U0x0Ukt4aFpyekhUX1FDSGdjS0tUOU1lbHFmYkJSVDZ6WlBJcjRLeTZrQ0JHbV9NY3hoX2xYQU1IV2RZdFVvcGNQRmpWOVF4QkE3Q1JwOGNmSUdKNF9Ea1dFR0t4dDJoVDNaLVE?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Kast y crisis por rebajas de penas: \"El ministro Rabat es un excelente abogado y ha sido un excelente ministro\"&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-05T22:27:00+00:00"
     }
   ]
 }
