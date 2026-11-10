@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-10T02:31:25.908539+00:00",
+  "actualizado": "2026-11-10T02:46:13.057282+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Riña derivó en balacera en una playa de Penco",
+      "link": "https://www.cooperativa.cl/noticias/pais/policial/rina-derivo-en-balacera-en-una-playa-de-penco/2026-11-09/233543.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Una riña que involucró a más de 15 personas derivó en balacera en una playa de la comuna de Penco (Provincia de Concepción, Región del Biobío), en un momento de alta afluencia de público.\nLa pelea dejó un saldo de cinco heridos, pero, providencialmente, nadie \"ajeno\" a ella se cuenta entre los lesionados.\n\"Como municipio ponemos a disposición de las policías todos los antecedentes y medios probato",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-10T02:35:43+00:00"
+    },
+    {
+      "titulo": "Kast se reúne con el oficialismo sin abordar crisis por Rabat y prepara cita clave en Cerro Castillo - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdnVXOXVaX29aM3A5X1R4VW1rOXRMUWdSWmRCSXRWeHE1Ri1PU0ZNVkY5RlFacVV0amV2UUpYLVFqaHJGU3hKUklFaDljUGhwYmtnYS1VRF8zeDdCOVdEeW13VXZCWWhjb19VVVM4enVYanYyaDNidFI3UFBNNG5VM2VsSnlCeEhJM1Y4a1Zrb2RnUWFYbzJDYnRvOWlNS3JlUnRWdDF6bXB6WnJSdUNydzlENVdzVWJoUDBMb1lxclVOd0tqZXpDWGtTdF9GZEUtbnpsRTkwdmRfU2FFeEdrcUYwRkh0bFQxbVdlWlM5cjk3NEsxQkpxaE9rWVM?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast se reúne con el oficialismo sin abordar crisis por Rabat y prepara cita clave en Cerro Castillo&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-10T02:33:11+00:00"
+    },
     {
       "titulo": "(VIDEO) Carolina Tello critica severos recortes en el Presupuesto Nacional",
       "link": "https://www.elciudadano.com/reels/video-carolina-tello-critica-severos-recortes-en-el-presupuesto-nacional/11/09/",
@@ -5602,28 +5624,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-05T12:26:23+00:00"
-    },
-    {
-      "titulo": "Presentan la exposición “De Cordillera a Mar” con obras de estudiantes",
-      "link": "https://ladiscusion.cl/presentan-la-exposicion-de-cordillera-a-mar-con-obras-de-estudiantes/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Hasta fin de mes permanecerá abierta la exposición de pintura “De Cordillera a Mar” en la Sala de Arte Mercado. La actividad exhibe trabajos elaborados por estudiantes de las comunas de la Región de Ñuble cuya presentación es posible por la alianza entre la Seremi de Educación y la Municipalidad de Chillán. “Desde la Sala [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-05T12:23:39+00:00"
-    },
-    {
-      "titulo": "Ola demócrata arrebata el Congreso a Trump y a los republicanos",
-      "link": "https://ladiscusion.cl/ola-democrata-arrebata-el-congreso-a-trump-y-a-los-republicanos/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Una ola azul, el color de los demócratas, barrió este martes a los republicanos del control del Congreso de Estados Unidos y derribó bastiones conservadores como Texas, en un duro castigo al presidente, Donald Trump, que afrontará los últimos dos años de su mandato con una oposición capaz de bloquear su agenda, informó la agencia [&#8230;]",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-05T12:22:51+00:00"
     }
   ]
 }
