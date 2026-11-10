@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T18:37:15.320417+00:00",
+  "actualizado": "2026-11-10T18:46:22.031747+00:00",
   "total": 500,
   "items": [
     {
@@ -124,6 +124,19 @@
         "Presidente"
       ],
       "fecha": "2026-11-10T17:50:09+00:00"
+    },
+    {
+      "titulo": "Presupuesto 2027: Dichos de Quiroz tensan debate en la Cámara",
+      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-2027-dichos-de-quiroz-tensan-debate-en-la-camara/2026-11-10/144709.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El proyecto de Presupuesto 2027 comenzará su discusión en particular en la Cámara de Diputadas y Diputados en medio de tensiones entre el Gobierno y la oposición, tras las críticas del ministro de Hacienda, Jorge Quiroz, al nivel del debate y el bloqueo al ingreso del director de Presupuestos, José Pablo Gómez, a la Sala.\nLa corporación aprobó en general la propuesta de erario nacional este lunes,",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-10T17:47:09+00:00"
     },
     {
       "titulo": "Yerko Puchento lideró las denuncias ante el CNTV: rutina sobre José Antonio Kast recibió 29 reclamos",
@@ -5621,17 +5634,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-05T20:45:13+00:00"
-    },
-    {
-      "titulo": "Zandra Parisi defiende proyecto de castración química: “No estamos hablando de reducir condenas” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlhvM093TGpiQ0NzcG84dklPU0JwMFhsUFQ0WWlibzlNVFdPY0JQVkVuajk1SHptX3dfQ0kxM0xHaVVicnBfbUNNN0xEUFdwMERVazRaZU1mQXB0eDZ4dmJfYmJMcndqbU1qT2x2MG8zRjJ1dUNBTjZra0pkVURYblpTUmdHZFJ0ZnlXM3djUWVTbExrNWFKbVIxYWh1N0k3YWo3ZXhaaTBYWUVVR2c0WjFVUUpYbUpvSHJlTXY1ZkpMeWxKSU9zOXVLZ0w1N1JvY3lvWG10WVpKekh1Y2hpZGhjX0FGc3NJ?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Zandra Parisi defiende proyecto de castración química: “No estamos hablando de reducir condenas”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-05T20:40:55+00:00"
     }
   ]
 }
