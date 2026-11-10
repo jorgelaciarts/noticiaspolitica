@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-10T04:31:35.608493+00:00",
+  "actualizado": "2026-11-10T04:46:22.350946+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Editorial Cambio21. Del país triste, al gobierno fome y que Kast no es el líder que Chile necesita",
+      "link": "https://cambio21.cl/politica/editorial-cambio21-del-pais-triste-al-gobierno-fome-y-que-kast-no-es-el-lider-que-chile-necesita-6af286f7498ead24b0611d7c",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-10T04:04:06+00:00"
+    },
     {
       "titulo": "Editorial Cambio21. Del país triste, al gobierno fome y que Kast no es el líder que Chile necesita",
       "link": "https://cambio21.cl/pais/editorial-cambio21-del-pais-triste-al-gobierno-fome-y-que-kast-no-es-el-lider-que-chile-necesita-6af286f7498ead24b0611d7c",
@@ -5614,17 +5625,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-05T12:49:07+00:00"
-    },
-    {
-      "titulo": "Kast y Pedro Sánchez se reunieron en España: abordaron relación bilateral e inversiones - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPLXdQTEw1ZWVhSl94aUZ5MDE5c0ZoUUszMTNXNmxzLVFQR3Rncy1GQ3FnM0xMMm84cXdPV3hrWWtCQ2pKbWdpR0ExcFkzYTBheDluNjVSN3pLMlRBenJqaTVKQ3pDcW1JWGEydlVuRmxiOGMyTWNJVlJrNDA4SlhpTW1aV2d1SFdNeGdLU2VPQk5DZ1RtZUZqV3VpbWxIZjBMRmY2aVMyUEdQVU1DZDdMRnNuVFFqOW9IMklaLWFGdU9ScUVwelFhM2IxbVZBWXZHRHIybzNSQUF4MnZLV2YyNG13aGJzbnpjMG5sdkNaSjBKdURsWUJ5bA?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast y Pedro Sánchez se reunieron en España: abordaron relación bilateral e inversiones&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-05T12:48:11+00:00"
     }
   ]
 }
