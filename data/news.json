@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-10T04:01:38.029883+00:00",
+  "actualizado": "2026-11-10T04:16:12.896193+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Editorial Cambio21. Del país triste, al gobierno fome y que Kast no es el líder que Chile necesita",
+      "link": "https://cambio21.cl/pais/editorial-cambio21-del-pais-triste-al-gobierno-fome-y-que-kast-no-es-el-lider-que-chile-necesita-6af286f7498ead24b0611d7c",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-10T04:04:06+00:00"
+    },
     {
       "titulo": "Rebajas de condenas: Rabat decidió \"parar cualquier decreto ante las nuevas circunstancias\"",
       "link": "https://www.cooperativa.cl/noticias/pais/gobierno/rebajas-de-condenas-rabat-decidio-parar-cualquier-decreto-ante-las/2026-11-10/002856.html",
@@ -5614,17 +5625,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-05T12:48:11+00:00"
-    },
-    {
-      "titulo": "Héctor Barría - elobservatodo.cl",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZOGxsTGhHTlBaWUZKcXFjS3RJSzlEQnhWWmRmX2hSUWpKNnRqNHczc28zREtNUzF3LWxjZ2lMeDQ5cEUtRUJtTkpqblJmdlpxbGRLaGRveGoyaGw1S2MyNUlR?oc=5",
-      "fuente": "El Observatodo (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "Héctor Barría&nbsp;&nbsp;elobservatodo.cl",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-05T12:47:45+00:00"
     }
   ]
 }
