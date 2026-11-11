@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-11T11:01:23.519976+00:00",
+  "actualizado": "2026-11-11T11:16:13.133201+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "EN VIVO: Diputado Moreno (Republicano) analiza la contingencia política y nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORU1fSW9remxERG9fMTItdTdNSVQyUFlTNDFWV1htaERvYVoxQXM4Y0laRWtWdXZFRFEwSTJFbW1GTlZoajlnTV8teFd4N29ZajlFMVZMT0V3ejMxeC1oUzVhMnhpX0RITmRHY2ZvcXB4RW03RVc0dUQxd1p3Z2xKUkU3RFBxcVBNdXNMVF9PT1gxRzNhZ2tSamdEbTdZMmtjdDJyblEwQkl4M0xfV3Z6c0JSZXNFYTNuckltSXV2Z2JwQQ?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Diputado Moreno (Republicano) analiza la contingencia política y nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-11T11:11:04+00:00"
+    },
     {
       "titulo": "Por incumplir fallo judicial que ordena la reincorporación de secretaria  municipal destituida, decretan el arresto del alcalde de Porvenir",
       "link": "https://laprensaaustral.cl/2026/11/11/por-incumplir-fallo-judicial-que-ordena-la-reincorporacion-de-secretaria-municipal-destituida-decretan-el-arresto-del-alcalde-de-porvenir/",
@@ -5625,17 +5636,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-06T11:15:19+00:00"
-    },
-    {
-      "titulo": "Santiago Peña renunció a la Presidencia de Paraguay pero  el Congreso no la aceptó para avanzar con el juicio político",
-      "link": "https://laprensaaustral.cl/2026/11/06/santiago-pena-renuncio-a-la-presidencia-de-paraguay-pero-el-congreso-no-la-acepto-para-avanzar-con-el-juicio-politico/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Un plenario del Congreso no aceptó la dimisión del mandatario, que es acusado en un juicio político quefue aprobado por la Cámara de Diputados. El Senado avanzó con el juicio político y lo convocó para este viernes. Ueno Bank ya no existe. La entidad bancaria que en sólo tres años consiguió captar 2,9 millones de...",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-06T11:12:52+00:00"
     }
   ]
 }
