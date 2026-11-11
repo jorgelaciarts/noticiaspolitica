@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-11T04:01:19.481280+00:00",
+  "actualizado": "2026-11-11T04:16:18.606767+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diputado Manouchehri (PS) cuestiona recorte del 86% a Ley Cholito: “¿Qué le hicieron las mascotas a Kast?”",
+      "link": "https://cambio21.cl/pais/diputado-manouchehri-ps-cuestiona-recorte-del-86-a-ley-cholito-que-le-hicieron-las-mascotas-a-kast-6af3e4a8ed35a1411e0d8fe3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-11T03:52:35+00:00"
+    },
     {
       "titulo": "Diputado Manouchehri (PS) cuestiona recorte del 86% a Ley Cholito: “¿Qué le hicieron las mascotas a Kast?”",
       "link": "https://cambio21.cl/tendencias/diputado-manouchehri-ps-cuestiona-recorte-del-86-a-ley-cholito-que-le-hicieron-las-mascotas-a-kast-6af3e4a8ed35a1411e0d8fe3",
@@ -13,6 +25,20 @@
         "Diputados"
       ],
       "fecha": "2026-11-11T03:52:35+00:00"
+    },
+    {
+      "titulo": "UDI: El Presidente decidió enfrentar la acusación constitucional con Rabat para ganarla",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/udi-el-presidente-decidio-enfrentar-la-acusacion-constitucional-con/2026-11-11/003605.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Este martes por la noche, en Cerro Castillo, el Presidente José Antonio Kast buscó cerrar las diferencias al interior del oficialismo y contener las críticas a la conducción política de su Gobierno, en medio de las presiones por un cambio de gabinete y la controversia en torno al ministro de Justicia, Fernando Rabat, por las rebajas de condena a agresores sexuales de menores y a narcotraficantes.\n",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-11T03:36:05+00:00"
     },
     {
       "titulo": "Presidente Kast se reunió con el oficialismo en Palacio de Cerro Castillo - 24horas",
@@ -35,6 +61,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-11T02:53:05+00:00"
+    },
+    {
+      "titulo": "¿Broma o amenaza? El traspaso de datos de Meta a la PDI tras mensajes contra Kast reabre debate por privacidad - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUdIbGF2Mjdxa3p3bk16bmRCOXBnamZfOWM4SHBVX2pNc2VRUGFBVklQT1lrZ3Zjenc3VHp0a0MxTWdWOWxWZzhtd1RJdGswaG4wTmNDR2FUdF9sYkRQd2lTZHRzZkswcXRlbWdYdHdheVFlS3pOZ3pYZTZKcXprMjJKOTlPY0hpN25kV0VQQV82bjBwZTl6R3FpdjB6VEo1VjZ3QmlpTzN3cDlUSjdyNnpyRFJtM2xDTEd3YjVaNldBcUd0ZkJKdF8yNEN2a0JWS0kw?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "¿Broma o amenaza? El traspaso de datos de Meta a la PDI tras mensajes contra Kast reabre debate por privacidad&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T02:45:32+00:00"
     },
     {
       "titulo": "El Panul tiene fecha límite: cinco municipios y el GORE buscan solución antes de 2030 - El Observatodo",
@@ -5598,40 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-06T07:35:00+00:00"
-    },
-    {
-      "titulo": "Boric la tiene clara: Triunfos de Lula y de los Demócratas en EEUU no garantizan un cambio en Latinoamérica",
-      "link": "https://cambio21.cl/politica/boric-la-tiene-clara-triunfos-de-lula-y-de-los-democratas-en-eeuu-no-garantizan-un-cambio-en-latinoamerica-6aed5d36fe3ff903f66019e4",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-06T04:57:57+00:00"
-    },
-    {
-      "titulo": "Concejala pide indagar hostigamiento y Partido Cristiano alista querellas por corrupción en el Bío Bío - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPNFM0RFliZTN6VXVaMHpOLVIzTnFERHRhX2N4d3NXNnRQR3hwNW1rOThaNldiY2MtVHR3cWhLT3dSVDRJVlNCdHRiajdBeHFSUUlYb3UyeGZYQzM5c0lFbnVTYnc2QUxkRGZJUGhfQkFhX2pVV09BY01kZnRnME5CYi0xTENxYnhKNzNCMmlTMWZ5Znd0VlpzN2FYUDlXZHpoVFRyTEpjQTdrZjJTNmdnbGpCQ1NJREJCdU5wRmtBakFiMFZOX2JZTjdQc1E0QTZTam9OeWFTRERDZ2J0S19XLUttcnBGckNpVXgzS1p0WG5ZOXNJbEJDcWhTdjNqZ05rZjU5TXlDcWtHYkpNN3o2Uw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Concejala pide indagar hostigamiento y Partido Cristiano alista querellas por corrupción en el Bío Bío&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-11-06T03:16:02+00:00"
-    },
-    {
-      "titulo": "Rojo Edwards cuestiona al Segundo Piso de La Moneda: \"La estructura tiene que tener tonelaje político\" - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVUsybEtibFlFTVpUOXhxVlhvblQ5QVdncmpqc0w1Ty1GYzBhelJJZzIzWmZYM1QycWFGU3FVSnZTN2x2N1Z2THhlTmtlbTlLRXhYY0dJeU5hd2F1dlk4ZlBUQS1qMjgzVkIzV3kwVmxTcEhUR1VXQWxWbF82WGNhTWRwWUttQXoxSlRNbTRWYmhjbmd5QmJ2d0YtYWJXNEp5WDZB?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Rojo Edwards cuestiona al Segundo Piso de La Moneda: \"La estructura tiene que tener tonelaje político\"&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-06T03:13:00+00:00"
     }
   ]
 }
