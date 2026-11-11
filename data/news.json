@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-11T17:46:21.385253+00:00",
+  "actualizado": "2026-11-11T18:01:42.062939+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Carta de científicos al Presidente Kast - El Nortero",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUXZLODYwNG9vUnBfTjVaR0ZVdE9tdmVBSTQ4NndWTVZkN0hwVXE0eFJiZmNoRWxNQ01XdEVQUUI4cVV4NXNnTDNrcExuZVQ3b3BacFZUMjZ4Zjg0a3pFNHY0ampjRzgtUWdYOFcxZE1wMjBjdFdNbUtwaHFua0tJOThWMUlMYUR0?oc=5",
+      "fuente": "El Nortero (Antofagasta, vía Google News)",
+      "region": "Antofagasta",
+      "resumen": "Carta de científicos al Presidente Kast&nbsp;&nbsp;El Nortero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:47:58+00:00"
+    },
     {
       "titulo": "Carta de científicos al Presidente Kast - www.elobservatodo.cl",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhuVDFzdnVrOWRkNHVVSDBsMllGX1A0WjFxdkRnZDIxVEJyaGhRLUZKZk1TcXZZUzhDeTFYSnlzbERWYW1mOGxSYXpwU1hIZGNmRmVVcW5kMVFLalNySF9yeXdJZE9lX3Z6cHY5cGlfNE9PR3dEMUdWRmRGZG9FMFJTamgxWFhjRXU1U0t3?oc=5",
@@ -23,6 +34,29 @@
         "Presidente"
       ],
       "fecha": "2026-11-11T17:26:41+00:00"
+    },
+    {
+      "titulo": "Cámara rechazó la partida de Educación y Quiroz ofreció una alternativa a \"Yo Elijo Mi PC\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/camara-rechazo-la-partida-de-educacion-y-quiroz-ofrecio-una-alternativa/2026-11-11/142154.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Cámara de Diputadas y Diputados rechazó este miércoles la partida del Ministerio de Educación durante la discusión en particular del Presupuesto 2027. La propuesta obtuvo 73 votos a favor y 73 en contra, por lo que no alcanzó la mayoría necesaria para su aprobación.\nEl fin de \"Yo Elijo Mi PC\", programa que entregaba computadores a estudiantes de séptimo básico, marcó el debate. Antes de la vota",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-11T17:21:54+00:00"
+    },
+    {
+      "titulo": "La Moneda en situación comprometida: Camiones de todo tipo, entre ellos los que retiran basura, taxis, grúas, autos, motos, buses urbanos e interurbanos, vehículos especiales: Paro de transportistas sigue aumentando y se pliegan otras organizaciones",
+      "link": "https://cambio21.cl/pais/la-moneda-en-situacion-comprometida-camiones-de-todo-tipo-entre-ellos-los-que-retiran-basura-taxis-gruas-autos-motos-buses-urbanos-e-interurbanos-vehiculos-especiales-paro-de-transportistas-sigue-aumentando-y-se-pliegan-otras-organizaciones-6af49ebafbe89f4532782ef4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:20:19+00:00"
     },
     {
       "titulo": "¿Tiene Chile los combustibles más baratos del continente? Los datos matizan a Kast: la bencina está entre las más caras de la región - CNN Chile",
@@ -5606,40 +5640,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-06T19:42:43+00:00"
-    },
-    {
-      "titulo": "Kast invitó al ministro Rabat a ceremonia de izamiento de la bandera",
-      "link": "https://www.lanacion.cl/kast-invito-al-ministro-rabat-a-ceremonia-de-izamiento-de-la-bandera/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast recibió esta mañana en La Moneda al ministro de Justicia, Fernando Rabat. El Mandatario lo invitó a la ceremonia de izamiento de la Gran Bandera BicentenarioKast regresó a las 7:30 horas al país tras su gira a Europa, acompañado de la primera dama María Pía Adriasola, el canciller Francisco Pérez [&#8230;]\nThe post Kast invitó al ministro Rabat a ceremonia de izamie",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-06T19:15:36+00:00"
-    },
-    {
-      "titulo": "Alcalde de Calama anuncia recurso ante la Corte Suprema por campamento de Chuquicamata - Timeline.cl",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjNnUGN3MFN0b1VVMTE0U3QwLWVleVRXUzRURmZtZ2ZhQ0dhb3l2RnQ1U0RsVmtiVVRqZFlUWlpmZ0tHWmhyMUE2VUYxRUZNV0ZCTjU1VHRRMTUzTzF0VkduUmMwMk9YNUkyd1NycUZUVUlWcU5jOWY1NDA4X1p4WkpQZWI2cGN5dzlBTVZxVHpBbkNRVkh5cmc3bEJkbHJBNWU5eHJoRWhlbmhUbHR1Ug?oc=5",
-      "fuente": "Timeline.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Calama anuncia recurso ante la Corte Suprema por campamento de Chuquicamata&nbsp;&nbsp;Timeline.cl",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-06T18:40:12+00:00"
-    },
-    {
-      "titulo": "El conflicto camionero escala y presiona a Kast: transportistas del norte convocan paro nacional desde el martes",
-      "link": "https://www.elciudadano.com/transportes/el-conflicto-camionero-escala-y-presiona-a-kast-transportistas-del-norte-convocan-paro-nacional-desde-el-martes/11/06/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\n\"El constante incremento de los combustibles ha absorbido por completo los ingresos del sector\", indicaron desde la Confederación Fuerza del Norte al anunciar la paralización y denunciar \"la nula voluntad de las grandes empresas para reajustar las tarifas de flete acorde a la realidad de los costos actuales\".\nLa entrada El conflicto camionero escala y presiona a Kast: transportistas d",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-06T18:34:30+00:00"
     }
   ]
 }
