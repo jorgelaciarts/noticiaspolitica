@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-11T22:31:34.594041+00:00",
+  "actualizado": "2026-11-11T22:46:19.812811+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diputada Hube y paro de camioneros: \"Confío en la capacidad del ministro Alvarado para desactivar esta crisis\" - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSzhQTHRTQ0tTQlZXUnNZb1FCai13MkxPcXZBS01PcENhbzFWdXRkNFZMTU4xOURNSVZ3aENnVVQ4Wm01MnpWcEhkTHY5QVg3RWFNSjJaMWs2Q3p5S21VYzB6cHhJV3FmZmthR0JvVUpQak5GS3dvVWdxeGxmRXFMY0dFblVhanNGa3JETVRHdjJ4REVxSGd5MFBnYTZmNTRvb1otUkppQTEzNVp4MVJURlpCcEQ?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputada Hube y paro de camioneros: \"Confío en la capacidad del ministro Alvarado para desactivar esta crisis\"&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-11T22:30:00+00:00"
+    },
     {
       "titulo": "“Necesitamos que lo entreguen formalmente”: Comités presionan por terreno militar en La Reina pensado para viviendas sociales que será un polideportivo del Ejército",
       "link": "https://www.theclinic.cl/2026/11/11/necesitamos-que-lo-entreguen-formalmente-comites-presionan-por-terreno-militar-en-la-reina-pensado-para-viviendas-sociales-que-sera-un-polideportivo-del-ejercito/",
@@ -12,6 +23,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-11T22:30:00+00:00"
+    },
+    {
+      "titulo": "Grandes gremios de camioneros descartan sumarse al paro, pero exigen congelar el diésel por seis meses",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/grandes-gremios-de-camioneros-descartan-sumarse-al-paro-pero-exigen/2026-11-11/191657.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Las grandes confederaciones de transportistas del país, encabezadas por Juan Araya, presidente de la Confederación Nacional de Dueños de Camiones (CNDC), y Sergio Pérez, representante de la Confederación Nacional de Transporte de Carga (CNTC), se reunieron este miércoles en San Pedro de la Paz, Región del Biobío.\nAunque ambas organizaciones descartaron adherirse oficialmente al paro de los pequeño",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T22:16:57+00:00"
     },
     {
       "titulo": "Cámara despacha presupuesto de Economía con más de $2.300 millones menos para la Pesca Artesanal",
@@ -5618,28 +5640,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-07T14:42:13+00:00"
-    },
-    {
-      "titulo": "Gobierno de Chile decreta dos días de duelo por el fallecimiento de Sebastián Lelio - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN0JycjRJbjhjZFhwRjR4VGR4enVyREd3ajVDdjJwRVBSSVVKTk9YOEFsSTFoNkQ4Q21mQkRXczFXM0FUU2JPQmNleVRkMnd2QmVGTU9ldkxfY3FSWjkyQ25jc0xXenYwRl9CV1E1NzlIX01mRm5uRkxYbEtJZ29YS3VUY0Zwb19wendraHd2ZWVPc18xa3J2Y2dPdzFNM0hKQXJBeU5wemRDWTU1YllIR2NxSzVTQTRROFptd3JrWW5lQQ?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Gobierno de Chile decreta dos días de duelo por el fallecimiento de Sebastián Lelio&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-07T14:34:14+00:00"
-    },
-    {
-      "titulo": "Tragedia en Santo Domingo: Choque de camión, microbús y auto deja 11 muertos",
-      "link": "https://www.cooperativa.cl/noticias/pais/policial/accidentes-de-transito/tragedia-en-santo-domingo-choque-de-camion-microbus-y-auto-deja-11/2026-11-07/113352.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Once personas fallecieron en un choque que involucró a un camión tolva, un microbús y un automóvil durante la mañana de este sábado en la Ruta 66, a la altura del sector La Atalaya, en la comuna de Santo Domingo, Provincia de San Antonio (Región de Valparaíso).\nEl delegado presidencial Manuel Millones confirmó el balance de víctimas fatales y reportó 13 heridos, de acuerdo con la información propo",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-07T14:33:52+00:00"
     }
   ]
 }
