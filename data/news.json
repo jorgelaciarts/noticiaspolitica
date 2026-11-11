@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-11T17:31:39.659866+00:00",
+  "actualizado": "2026-11-11T17:46:21.385253+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Carta de científicos al Presidente Kast - www.elobservatodo.cl",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNkhuVDFzdnVrOWRkNHVVSDBsMllGX1A0WjFxdkRnZDIxVEJyaGhRLUZKZk1TcXZZUzhDeTFYSnlzbERWYW1mOGxSYXpwU1hIZGNmRmVVcW5kMVFLalNySF9yeXdJZE9lX3Z6cHY5cGlfNE9PR3dEMUdWRmRGZG9FMFJTamgxWFhjRXU1U0t3?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Carta de científicos al Presidente Kast&nbsp;&nbsp;www.elobservatodo.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:44:08+00:00"
+    },
+    {
+      "titulo": "Alvarado toma el control de la crisis de los camioneros tras el desorden inicial de La Moneda - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1naWF5LW9JUHpwbFdpa3BhM0hpbG1uR2tseXl1SGRXSGphOW1VVGs3Y2xid3ZpUTczeWd2Y0c0eHlvY2NpckJkWkNWWXVZTm5hek9NX3NEb0E3S2ZnOF9hZ29ib2gtVTRPZlFjRVhNTkZxeHV1WGc?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Alvarado toma el control de la crisis de los camioneros tras el desorden inicial de La Moneda&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:26:41+00:00"
+    },
+    {
+      "titulo": "¿Tiene Chile los combustibles más baratos del continente? Los datos matizan a Kast: la bencina está entre las más caras de la región - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXRqVFJ0djBIR2pGX3BTY1VBdVN4R3lXUlVaMjlXTlJtNThNWHoyeGlTR1VRSFRhM2twZWw4WTRyeXl4SG45UkI2TVY4ZFZUYXk2dHJ5eGZZMGNvTVBSUFNweDlyOFNuT0ZiYjJTd19rZm84TUVRYlVGZjF0WlZzZl82cGo1S2hsSzZQbkxxN3FUdGlMTHhzYnBXblZtWU1IT2pBaWt5eFlZUFJWSGZfekN3?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "¿Tiene Chile los combustibles más baratos del continente? Los datos matizan a Kast: la bencina está entre las más caras de la región&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:18:41+00:00"
+    },
     {
       "titulo": "Gobierno retira proyecto que fijaba tope de $20 en alzas del combustible",
       "link": "https://ladiscusion.cl/gobierno-retira-proyecto-que-fijaba-tope-de-20-en-alzas-del-combustible/",
@@ -13,6 +46,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-11T17:10:27+00:00"
+    },
+    {
+      "titulo": "“Chupalla...”: Camila Vallejo se la juega y elije entre Michelle Bachelet y Gabriel Boric - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOWs0OWZXbTBPUy0tQ1Q4bXhoYUpYaW5Ua3hSdFhsRi16ZWtYYXdGQUREc2dVU0R5c2dhZlprb3FaTXZLM2ZRYjMzTFdZci12MWtSOENfeUJtcWlKODl5aXJYYzF6XzZzUnluQ3kxZWZLZXJCVTVQUEMtalNjVngtOVpvMFlqYk54TXZ0anpFV3VRRjdkQ3M0TVBWX21JY0dNNzdXVzlmYm5WSVVLcjc2eGJLem1KNHVOU0U40gHPAUFVX3lxTE0xOFljT1hlWEcwZVF2dXVuQUVGdEk1YkZBN1ZSeTYzaU82aVpXUnRwS09PaUZLcjY4eUJpYkw2cFNDbXVhdWxfZTV2TTZ5N3BzV0RZTHBKR0F4ZWJLUjhvV2Q3MkktdldUV2k0dGYwZzhmeEJ2cDlsQ2JzYW9mSHdINWEzaExwSERpQllCSTdtY0EtUU9sSVNoRjFCSUdOdkdkVHc0NXdlVjVCd3VlaHpMTzZRa1RUNDhTLVE2eFo1Q2N4NGRDVklhcVJmWV9Rcw?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Chupalla...”: Camila Vallejo se la juega y elije entre Michelle Bachelet y Gabriel Boric&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T17:08:43+00:00"
     },
     {
       "titulo": "“Prende las alarmas en el mundo entero”: Kast advierte por bloqueos en medio del paro de camioneros - La Tribuna",
@@ -5596,51 +5640,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-06T18:34:30+00:00"
-    },
-    {
-      "titulo": "Encuesta Black & White da 20% de aprobación a Kast, con caída de 15 puntos en dos semanas",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/encuesta-black-white-da-20-de-aprobacion-a-kast-con-caida-de-15/2026-11-06/153246.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La aprobación del Presidente José Antonio Kast cayó al 20%, acumulando un retroceso de 15 puntos porcentuales en las últimas dos semanas, mientras que su desaprobación alcanzó el 68%, según la última encuesta Black &amp; White.\nSegún el sondeo, difundido este viernes por Emol, la aprobación del Mandatario cayó cuatro puntos porcentuales respecto de la semana anterior, en que ya había retrocedido o",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-06T18:32:46+00:00"
-    },
-    {
-      "titulo": "Kast aprueba conformación de Alto Mando de la FACh para 2027: cinco oficiales generales pasan a retiro - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcEVROXdHenNQcEdEenV4ZmtCdUFzSXkzcDZPZk9OZTF1MUktNkp0ZlMwU0Z1ZzNYUUM2Q0RPTkFrdzcwX2pkUTNOMEItLWptS1Y5VnNhRGJfWlVydWs2YktfSDZ2T1ZSWEVmakVxRjJLeGo2Yl9SSDBZV3h0TkM3RVVZMmVwMDRSNWRrdnI2b2tKTENrdDZ5UC1jSTAtNTBrdUFjMERBTl9QZUFPa1AyaGZpXzY3T2FNWkZkNGRYRXJKREhPeWlITkF6WThZcG9BWTBMZW9VcHZNMl80dlBQaENoTkFYay0zdW9iNGI3UDV5bmNFaHNZMzV0SlV6dw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast aprueba conformación de Alto Mando de la FACh para 2027: cinco oficiales generales pasan a retiro&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-06T18:31:35+00:00"
-    },
-    {
-      "titulo": "Irregularidades en Codelco: diputados piden acciones judiciales y cuestionan eventual ingreso de privados - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMzkzMHNPc3MxaVg0YmdJY2tGT3lzRWVfczhmbmlsQm0tVHp1bjlzaXN2ekpvTmtsSWstbEpQUDJZQXV5X0dPR1NYU1U2NHFMeXBVY1libGtoQ2JQaFhIZjh0dW40YlQ5SFQ0QjhVY1hUOWx4TV9SdWFNcjhnLThEN0NKcnpXdXVsaEhDdnBGSDdCNjZVc0VZUzBYVTRrMlc3R0lSZ1h4V2w0VzFGeGZWRGx2UUNHNWVjYmZRTTVTbEExOUNBZEk1WTYtWXp6VmdiQ1A1MTQ2WQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Irregularidades en Codelco: diputados piden acciones judiciales y cuestionan eventual ingreso de privados&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-06T18:29:28+00:00"
-    },
-    {
-      "titulo": "Chile: el gobierno de Kast avanza en la puesta en marcha del Corredor Bioceánico con Brasil - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcFg4YnBCU2NfR0RxVnF4ZjJRTlp2WHByZ3dYSllUUzdzMnJYMmZMbVFQYlBmVzc4VTZURzFLUWtEM0lvWk1Sc3prb1RiajFXcE1FZTBtMmlSWmZEaXR5WllUUV8ydUZVOTRXM1JuQ3dRZkdsM213aEtTMFVnSTEyVGs0OV9YM3Z5SzZoU3pNemxlYXVGR0N0S1NpM0xUMkdfQW40bUhtZTVNZUR0QXFpb1BkOGxlZHNPN3hXZEhzWGJtM3BmUDVUZjQyUy1oeDFkS3FrNnRxREo2QzA2RVJQem5mRQ?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Chile: el gobierno de Kast avanza en la puesta en marcha del Corredor Bioceánico con Brasil&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-06T18:08:00+00:00"
     }
   ]
 }
