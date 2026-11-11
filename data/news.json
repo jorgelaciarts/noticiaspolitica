@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T22:46:19.812811+00:00",
+  "actualizado": "2026-11-11T23:01:41.248102+00:00",
   "total": 500,
   "items": [
     {
@@ -78,6 +78,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-11T21:48:28+00:00"
+    },
+    {
+      "titulo": "Kast asegura que Chile tiene combustibles más baratos que el resto de América: cifras lo contradicen - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNEVQWnROZC1PVmVTbjl6MDlHY1BRYVpGT0tITFBWRU91NngxSlUtQmpxaHcyZWpJZnF0WWdueW1yT0FEWmhJUHNNdkl3OGppWTl2ODhQZk1OQ2x2U0U3REFBeEJzTFg2Sjg5d2huNlRBUUdaZ0FuUkVzOC12U2lTYkxOM0psU0FySjl1TDJ4OFZONEdhZ0pDUXdMR2hleHRYNzl6YVBWdXVWdlQ4b2txc3lhN2c1SzBlX253MGxrNE1JYm90TnJYZU5BVlZoZnEzaTZ5S08yeGFESWJCLV8xTDFrUDBBdG8?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast asegura que Chile tiene combustibles más baratos que el resto de América: cifras lo contradicen&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T21:30:38+00:00"
     },
     {
       "titulo": "Gobierno y Fuerza del Norte negocian en La Moneda en busca de una salida al paro",
@@ -5629,17 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-07T15:05:16+00:00"
-    },
-    {
-      "titulo": "San Carlos reconoce a 10 hijos ilustres por contribuir al desarrollo comunal",
-      "link": "https://ladiscusion.cl/san-carlos-reconoce-a-10-hijos-ilustres-por-contribuir-a-su-desarrollo/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Con un Centro Cultural San Carlos de Itihue repleto de público, la Municipalidad de San Carlos desarrolló la ceremonia de reconocimiento a Hijos e Hijas Ilustres de la comuna, actividad enmarcada en la celebración del Santo Patrono y que reunió a autoridades, familias y vecinos en torno a una jornada dedicada a destacar a personas [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-07T14:42:13+00:00"
     }
   ]
 }
