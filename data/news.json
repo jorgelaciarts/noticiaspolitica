@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-11T18:46:13.318596+00:00",
+  "actualizado": "2026-11-11T19:01:40.149865+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-11T18:41:03+00:00"
+    },
+    {
+      "titulo": "Estudiantes universitarios y secundarios se manifestaron contra medidas del gobierno de Kast",
+      "link": "https://www.cooperativa.cl/noticias/pais/educacion/estudiantes-universitarios-y-secundarios-se-manifestaron-contra-medidas/2026-11-11/151449.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-11T18:14:49+00:00"
     },
     {
       "titulo": "Kast viaja con Frei y empresarios a China, Vietnam y Japón en busca de nuevas oportunidades comerciales - Diario Financiero",
@@ -5629,18 +5640,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-06T20:58:25+00:00"
-    },
-    {
-      "titulo": "Jefe del Comando de Combate asume como segundo hombre de la FACh",
-      "link": "https://www.cooperativa.cl/noticias/pais/ff-aa-y-de-orden/fuerza-aerea/jefe-del-comando-de-combate-asume-como-segundo-hombre-de-la-fach/2026-11-06/173747.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Presidente José Antonio Kast aprobó el nuevo alto mando de la Fuerza Aérea de Chile (FACh), que ahora lidera el general del Aire Leonardo Romanini, oficial que el pasado 30 de octubre recibió el cargo del ahora general (r) Hugo Rodríguez.\nEl principal cambio para 2027 está en la jefatura del Estado Mayor Conjunto de la FACh, el segundo cargo de la institución y que ocupaba Romanini, y que ahora",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-06T20:37:47+00:00"
     }
   ]
 }
