@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-11-12T02:01:24.704907+00:00",
+  "actualizado": "2026-11-12T02:16:37.073508+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Presidenta del Senado pide solución al paro camionero antes del nuevo viaje de Kast",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/presidenta-del-senado-pide-solucion-al-paro-camionero-antes-del-nuevo/2026-11-11/225455.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La presidenta del Senado, Paulina Núñez (RN), hizo votos por que el paro de los camioneros que se inició el martes quede resuelto antes del nuevo viaje internacional de José Antonio Kast.\nEl Mandatario parte el viernes a una gira por Asia que lo llevará a Vietnam, China y Japón, y evitando plantear que la suspenda debido a la crisis, la parlamentaria enfatizó la urgencia de que el Gobierno encuent",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-12T01:54:55+00:00"
+    },
     {
       "titulo": "Alcaldes y gobernador analizaron en detalle el presupuesto aprobado para Ñuble",
       "link": "https://ladiscusion.cl/alcaldes-y-gobernador-analizaron-en-detalle-el-presupuesto-aprobado-para-nuble/",
@@ -5633,17 +5647,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-07T22:40:45+00:00"
-    },
-    {
-      "titulo": "Alcalde de San Antonio informa que niño de 11 años sufrió grave fractura en accidente de Santo Domingo - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYXE2T3J1dzNuLUdjQ3J2WWx1TUFlNmFJa01DOFF6eXhBQTlPQXdOOHRSWUEwV0dmYlJRZHB1QkJmZTlaZTBIWk5aV0syNEZJT0hxNjQ3T1M5VzhWYWJlTXhNaEJSeEpOTExnR3FnMTRvbUlucHlac0VDVzBHc0tYdmVXZmxkZG1zX2E0UkRkTFJzU1NVS3Q2VXhVLXFLSkZiRFlnSHAxRDVqbElRUnFxSmpmYkxxYTRhQjNKbFpJRkplYkJQcEMtbnUxNU4tYkszX0Yyc3VNcDF3bV9ER3BEMTJ1T3YwUTdySVEzVUdjeF8zOXlqM25iaHMyOXRydW1TQ1lHRG12TllvR2F0bi16STJvOA?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de San Antonio informa que niño de 11 años sufrió grave fractura en accidente de Santo Domingo&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-07T21:27:18+00:00"
     }
   ]
 }
