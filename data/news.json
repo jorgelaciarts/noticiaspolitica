@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-12T14:31:10.628063+00:00",
+  "actualizado": "2026-11-12T14:46:24.546794+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast mantiene su gira por Asia en medio de paralización de camioneros y sostiene reunión con Alvarado, Quiroz y Arenas",
+      "link": "https://www.theclinic.cl/2026/11/12/kast-mantiene-su-gira-por-asia-en-medio-de-paralizacion-de-camioneros-y-sostiene-reunion-con-alvarado-quiroz-y-arenas/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El mandatario dejará el país este viernes para desplegar su agenda por Japón, Vietnam y China. Aunque existían dudas de que las visitas se concretaran por el actual paro de algunos gremios de camioneros, desde el Gobierno ratificaron que se realizarían. El subsecretario del Interior, Máximo Pavez (UDI), planteó que \"hoy el ambiente de diálogo que hay con los camioneros no ha generado las condicion",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-12T14:45:03+00:00"
+    },
+    {
+      "titulo": "PDI allana dependencias de la Municipalidad de Chillán Viejo",
+      "link": "https://ladiscusion.cl/pdi-allana-dependencias-de-la-municipalidad-de-chillan-viejo/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La mañana de este jueves detectives de la Policía de Investigaciones (PDI) realizaron allanamientos en dependencias de la Municipalidad de Chillán Viejo. El Ministerio Público ha declarado la causa como secreta, por lo tanto, no es posible entregar información al respecto. Sin embargo, trascendió que la unidad encargada de los allanamientos fue la Brigada Investigadora [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-12T14:39:05+00:00"
+    },
     {
       "titulo": "Gremios nacionales de camioneros descartan sumarse al paro y acusan “anarquía”",
       "link": "https://www.lanacion.cl/gremios-nacionales-de-camioneros-descartan-sumarse-al-paro-y-acusan-anarquia/",
@@ -46,6 +69,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-12T13:57:25+00:00"
+    },
+    {
+      "titulo": "Paro de camioneros: cómo comenzó, qué exigen los gremios y qué ha ofrecido el Gobierno de Kast - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSzNmOGlhb1hveFkxWjFNMVF3Y3R5elVsdWNRLW9Tc3dXUTdhTG1Tby1sVllveWFsUTlOVk51UVkwNmdCWXEwY2gxM2Z5VXpOTzBQYkk4U1NzSk9BcGRLb3Y3Z1d0VElLV2g2N05FR3g5dDZzNlVfNFdGNTRnS1FOQkVGdXd6MkZZRUVBNG1BdFJvT3BKRXB4VWRyNTRiem1KZUZxbndmd2tpMUFEeWFFbTBPWnhMb3E2bUYtYU5aVU9SbGtobTB1aXZUOFdjY1V6Ymo3RjVoUGxyb3o4NVE?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Paro de camioneros: cómo comenzó, qué exigen los gremios y qué ha ofrecido el Gobierno de Kast&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T13:56:07+00:00"
     },
     {
       "titulo": "(VIDEO) Paro del transporte se extiende por Chile: camioneros, motociclistas y otros gremios desafían al gobierno de Kast",
@@ -301,6 +335,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-12T10:51:32+00:00"
+    },
+    {
+      "titulo": "Paro: Transportistas del norte rechazaron oficialmente propuesta del Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/paro-transportistas-del-norte-rechazaron-oficialmente-propuesta-del/2026-11-12/073801.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A pesar de que el Gobierno accedió a retrotraer los incrementos -que se aplicarán a partir de hoy jueves- de 38 pesos por litro en las bencinas y de 42 pesos en el diésel, y a congelar dichas tarifas por 90 días, los camioneros paralizados mantienen la protesta, al parecer, de manera indefinida.\nDespués del fracaso de la negociación este miércoles, la Confederación de Transportistas Fuerza del Nor",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T10:38:01+00:00"
     },
     {
       "titulo": "Pese a concesiones del Gobierno, transportistas mantienen paro por tercer día",
@@ -5590,52 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-08T20:00:28+00:00"
-    },
-    {
-      "titulo": "El partido de Mandela obtuvo sus peores resultados en elecciones municipales en Sudáfrica: “El pueblo ha hablado” - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdkh6VmtaNnFtR3dhalo3a2xRTjBabXFFWlhSUExEd0xWQlA3dUJjLW5IMHdtX29hckRldXZFSXJZX0FIMjJ2Z25CUUZwb1FzTkxZU3FoeHlrY3A0V05DZlV6WXNrM2YwWHAyT3duMTd3UWRKZFBCdGExaFE3RWp3U2U2b3RzbWxJTjlzNDY4S2FSWUNVVUZ4c1FhUFhrRk9yRnpUd3NwRlFkZ3BrTUc5Y1hYRzc1bUZqcnFmekxrQ0I2QmFpVURlWkl4QVlDdmFkQzJEQVRyZWNoaXhHVS04dWR3VWRFTzA3amtWSk9MZzJXQdIBjAJBVV95cUxNazh5U3RLOWdrc2ZyclBXUGE4WXVJZi1nbDIyaGdJd1pkOVMwU1RIa0RRR0phak9xaV83VjFJWlRSZGwycmlXVlliZlNDYldQdUIwQWNwRzZEZWkxa0lGZmdwVW5sTWZGVW91TjJxenJyZ2V6ZlN3OExSclRvV1pENXp4UnRZeEVGMVZMRDAxTENyZ1ZQeFgyckI0UlpWRlI5M08zYTJTNTV0S1FtMi1nLU1ORG1CcS1jUnpMcjF6TXVDMFJCUFAxS0VMSDhmTEYwdF9sdzRreHFEaGQyZ3dMdXZGNkg2ZGJKMWR2QnpQc25yMUFVUS0zVnRUaFJYNUdrUzBYcEpBQ0toNk5p?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El partido de Mandela obtuvo sus peores resultados en elecciones municipales en Sudáfrica: “El pueblo ha hablado”&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Elecciones"
-      ],
-      "fecha": "2026-11-08T19:09:00+00:00"
-    },
-    {
-      "titulo": "Cruz-Coke asegura que Kast ya asumió el costo de mantener a Rabat en Justicia: “Es costo hundido” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcmhwNml5aU5ObndkdW9iMHJjeE1TVHcwY1BMLW5PNU12QWJvMzZnZlltZHF4VzFOUllMYm5qanQzTDNtcUtkWVdMNmJYSlBQSzl3c3NoQW83QlRTaTkxVHltZnF6a2hfOTFHdDFENEpWMFRFSkk5eE1IZ0xVbDhNWk5wTWR6aXd4azhZ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cruz-Coke asegura que Kast ya asumió el costo de mantener a Rabat en Justicia: “Es costo hundido”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-08T18:24:22+00:00"
-    },
-    {
-      "titulo": "Soto: Acusación contra Rabat está al 99% y tendrá votos oficialistas",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/ppd/soto-acusacion-contra-rabat-esta-al-99-y-tendra-votos-oficialistas/2026-11-08/152309.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El diputado Raúl Soto, presidente del PPD, aseguró que la acusación constitucional contra el ministro de Justicia, Francisco Rabat, se encuentra \"casi lista\" y contaría con votos oficialistas.\nEn conversación con \"Estado Nacional\" de TVN, el parlamentario abordó la acción que prepara la oposición contra el secretario de Estado en respuesta a la rebaja de penas a personas condenadas por abuso y vio",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-08T18:23:09+00:00"
-    },
-    {
-      "titulo": "Alcaldesa de Hijuelas advierte por derrame del relave en el río Aconcagua: 'Nos podría causar mucho daño' - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR2JndG5ZSHlGMU5wZ2hiV05rVnd4cEVrR09IRUlXMUhNVC1Ed3FjU1BpZzVOek16ZUZsNmFSa19uNER6dW1RcGR2aFVDUDN0MDYycXN2ZUlwcThlYThUeGFZXzBVWURjRjJfZm1Rd3RkNEI1Q0RZakVPWVVIUXpEYWoyeTZqc2xVLWNRMDlyVEI3Z1BEbGpIZE0xX2wteGxzbHB4Qnc4c29fU2tmZEJkenV2RXhwbUh3dGt6RWxzYkMwbWJvZWtfUWRjeXLSAdIBQVVfeXFMT3hFb2NoeEI0TE4xWG9wMnVoaDYwM1lwM2Z6OVdiQVNwOGRON1laRUlJWnEyd3E2V0JjX1pKLVk0N2RmaEx6eHE2Y0pzWUJZRkVhX21mREd3MTN2aDBMZGtVUWRSTXg2TFE3S1YtWUh4VENlM2tsekEwc2tKUUVwemZ2Zkg0TUNLMy1XTHhYaFk0MV9Ec3dtdUxyaFZJNU1yZTJkdzJWVlB4NGg5MVBOT2FrN0JzeEttOGl3ZkdjYm92ZlFQZUZnRnZfUkFuQ2ZHaG5n?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldesa de Hijuelas advierte por derrame del relave en el río Aconcagua: 'Nos podría causar mucho daño'&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-08T18:18:00+00:00"
     }
   ]
 }
