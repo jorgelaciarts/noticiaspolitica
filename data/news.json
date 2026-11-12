@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-12T14:01:41.669230+00:00",
+  "actualizado": "2026-11-12T14:16:11.568427+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast aseguró que Chile tiene combustibles más baratos que en toda América. Los datos y las cifras lo contradicen y desmienten nuevamente",
+      "link": "https://cambio21.cl/politica/kast-aseguro-que-chile-tiene-combustibles-mas-baratos-que-en-toda-america-los-datos-y-las-cifras-lo-contradicen-y-desmienten-nuevamente-6af5bfd4605cbc77095b4583",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T14:06:46+00:00"
+    },
+    {
+      "titulo": "Oposición repudia \"grave falta de respeto\" de diputada republicana que arremetió contra DD.HH.",
+      "link": "https://www.cooperativa.cl/noticias/pais/dd-hh/oposicion-repudia-grave-falta-de-respeto-de-diputada-republicana-que/2026-11-12/105725.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Un grupo de partidos de oposición manifestó su \"enérgico rechazo\" hacia las palabras de la diputada republicana Javiera Rodríguez, quien ayer miércoles acusó al mundo de los derechos humanos de actuar como una empresa lucrativa.\nDurante el debate de la partida del Ministerio de Justicia del Presupuesto 2027, la oficialista expuso su \"repudio a quienes se han arrogado la propiedad de los derechos h",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-12T13:57:25+00:00"
+    },
     {
       "titulo": "(VIDEO) Paro del transporte se extiende por Chile: camioneros, motociclistas y otros gremios desafían al gobierno de Kast",
       "link": "https://www.elciudadano.com/reels/video-paro-del-transporte-se-extiende-por-chile-camioneros-motociclistas-y-otros-gremios-desafian-al-gobierno-de-kast/11/12/",
@@ -100,6 +123,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-12T12:36:53+00:00"
+    },
+    {
+      "titulo": "UDI respalda al Gobierno ante paro de camioneros y pide despejar carreteras - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTTNVSHQydEw5OFR4N3pwaGtSYTdTX3h5RllTdlpjNjRiNG5TOE5fV0dUUDgtbkdZU2h4Q2R5d2UzOGg2WTJNNUg2MG81c2JmemZEMXNRMUVsTGxNNUtZVkFJV2V2TlR2MFhsQi0yMlRmVl9ESGdZN3hVTkhGa3NIVHUtb09vSF80X3dhbkpjMmxCRW5qNEJZYndVZUtqc0RRM1NoblFKUGhQN2YtLVhoa3JwZldGY3VpSkZ2TEJhVW1yMTMyY1pxQkdGNlRmS2hC?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "UDI respalda al Gobierno ante paro de camioneros y pide despejar carreteras&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-12T12:23:24+00:00"
     },
     {
       "titulo": "“El 90% votamos por Kast”: Presidente de confederación de dueños de camiones confiesa desilusión del gremio con el Gobierno - CNN Chile",
@@ -5606,39 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-08T18:00:00+00:00"
-    },
-    {
-      "titulo": "Va a tener que cambiar la fracesita: \"Todo va a estar bien\" de Kast provoca decepción y rabia entre todos los ciudadanos, según encuesta",
-      "link": "https://cambio21.cl/videos-y-galerias/va-a-tener-que-cambiar-la-fracesita-todo-va-a-estar-bien-de-kast-provoca-decepcion-y-rabia-entre-todos-los-ciudadanos-segun-encuesta-6af0b6bf35114104734440e4",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-08T17:58:49+00:00"
-    },
-    {
-      "titulo": "Va a tener que cambiar la fracesita: \"Todo va a estar bien\" de Kast provoca decepción y rabia entre todos los ciudadanos, según encuesta",
-      "link": "https://cambio21.cl/pais/va-a-tener-que-cambiar-la-fracesita-todo-va-a-estar-bien-de-kast-provoca-decepcion-y-rabia-entre-todos-los-ciudadanos-segun-encuesta-6af0b6bf35114104734440e4",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-08T17:58:49+00:00"
-    },
-    {
-      "titulo": "La peligrosa transición en Estados Unidos: ocho semanas del terror",
-      "link": "https://www.elciudadano.com/actualidad/la-peligrosa-transicion-en-estados-unidos-ocho-semanas-del-terror/11/08/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nEditorial: La peligrosa transición en Estados Unidos: ocho semanas del terror Por Javier Pineda Olcay Donald Trump perdió las estrepitosamente las elecciones de medio término. El Partido Demócrata, a partir de enero de 2027, controlará la Cámara de Representantes y el Senado. En el Senado contará con 56 de 100 senadores y en la Cámara [&#8230;]\nLa entrada La peligrosa transición en Es",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-08T17:19:55+00:00"
     }
   ]
 }
