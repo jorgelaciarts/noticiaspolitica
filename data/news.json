@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-12T01:16:24.188534+00:00",
+  "actualizado": "2026-11-12T01:31:19.336564+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Alcaldes y gobernador analizaron en detalle el presupuesto aprobado para Ñuble",
+      "link": "https://ladiscusion.cl/alcaldes-y-gobernador-analizaron-en-detalle-el-presupuesto-aprobado-para-nuble/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con el presupuesto 2027 resguardado en $84.581 millones, el Gobernador Óscar Crisóstomo, los alcaldes de Ñuble y los consejeros regionales se reunieron para analizar la defensa conjunta que, logró revertir el recorte propuesto por Hacienda y asegurar los recursos de las 21 comunas. En la cita, realizada en el salón Próceres del Gobierno Regional, el [&#8230;]",
+      "categorias": [
+        "Alcaldes",
+        "Consejeros regionales"
+      ],
+      "fecha": "2026-11-12T01:25:06+00:00"
+    },
     {
       "titulo": "«No vamos a permitir que privaticen Codelco justificándose en los errores que el gobierno ha cometido en materia económica»: Sindicato Chuquicamata",
       "link": "https://www.elciudadano.com/chile/no-vamos-a-permitir-que-privaticen-codelco-justificandose-en-los-errores-que-el-gobierno-ha-cometido-en-materia-economica-sindicato-chuquicamata/11/11/",
@@ -57,6 +69,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-12T00:20:28+00:00"
+    },
+    {
+      "titulo": "Máxima tensión en la Cámara: diputados rechazan partida de Educación y debate de presupuesto de Justicia termina a gritos - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQR3dMWXROTHNTOElpaXQ1SmtreUlHdWpmS3R4QU5fUks3R1hXR1pDTHBEclF6VTVKMnBnMzI3ODRQdWZ4bnRBUFhKLVZ0UFlJT3p2Q0FCOXpEZER0Q2g5OGhZNUtnYngzYnFLMTBPWWt6M18wYV81bGxyUWc4dXpiUWRTTEdzUVBySVlRSmp0OEM3bUJnVHlXbVRkYk1KSFRuRVl0SHF1cHQ4cHJQa1hGMU1BQnJwWGp3ck8wbjZZQ3VFbzhmUGo2QkRqR19xQnppQmIxdTZvd09WeW5mYnZZNURtNkM5OHJFWXhIMnN3dGZjT1lLc0Nz0gGYAkFVX3lxTFBUZHNWTzNuZWNkckN6ZDN4b05GUmFwNWlyczJPdzA2eTJHc0JJUDdYeWt2b0loblZXek56Wmhnd184MFd0aC1HTHhoejBCT0FKQy1nVXctTGFlUDNYZjNySXM3YkFzWVlRMlZ1dEEtQ29LcjN4VXB2ejdHM2xlUDJUdlJtdjdxZFJKajJfUVBsN0hvMTB2QzA2Z3JMdFlBSGN4MWQ0T0ozcFluLURoTXA5OE9CMFZBUTJNUTZWRjd5NDlpU25vTmhBQ09zbVJ0MjNXSGdKNTNoakE5RkVyVVJrQ1BkVDZyLUNZdGw4MUhsdnAzdW8xV05VVVJrT3NxbzdOalk0a3M4Tko5WGtlbmZkZzhlR3FmVDY?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Máxima tensión en la Cámara: diputados rechazan partida de Educación y debate de presupuesto de Justicia termina a gritos&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-11T23:57:55+00:00"
     },
     {
       "titulo": "Paro de camioneros sigue pese a acuerdos puntuales con La Moneda con proyecto para congelar alzas - BioBioChile",
@@ -5614,28 +5637,6 @@
     {
       "titulo": "“¿Qué será de mi violador?”: Terrible y profunda carta de Javiera Vallejo, hermana de la exministra Camila Vallejo, donde revela que fue víctima de abuso sexual cuando era niña. Cuestiona rebaja de condenas de la administración Kast",
       "link": "https://cambio21.cl/cambio21/que-sera-de-mi-violador-terrible-y-profunda-carta-de-javiera-vallejo-hermana-de-la-exministra-camila-vallejo-donde-revela-que-fue-victima-de-abuso-sexual-cuando-era-nina-cuestiona-rebaja-de-condenas-de-la-administracion-kast-6aef8747f6749373a7108c05",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-07T20:24:02+00:00"
-    },
-    {
-      "titulo": "“¿Qué será de mi violador?”: Terrible y profunda carta de Javiera Vallejo, hermana de la exministra Camila Vallejo, donde revela que fue víctima de abuso sexual cuando era niña. Cuestiona rebaja de condenas de la administración Kast",
-      "link": "https://cambio21.cl/tendencias/que-sera-de-mi-violador-terrible-y-profunda-carta-de-javiera-vallejo-hermana-de-la-exministra-camila-vallejo-donde-revela-que-fue-victima-de-abuso-sexual-cuando-era-nina-cuestiona-rebaja-de-condenas-de-la-administracion-kast-6aef8747f6749373a7108c05",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-07T20:24:02+00:00"
-    },
-    {
-      "titulo": "“¿Qué será de mi violador?”: Terrible y profunda carta de Javiera Vallejo, hermana de la exministra Camila Vallejo, donde revela que fue víctima de abuso sexual cuando era niña. Cuestiona rebaja de condenas de la administración Kast",
-      "link": "https://cambio21.cl/pais/que-sera-de-mi-violador-terrible-y-profunda-carta-de-javiera-vallejo-hermana-de-la-exministra-camila-vallejo-donde-revela-que-fue-victima-de-abuso-sexual-cuando-era-nina-cuestiona-rebaja-de-condenas-de-la-administracion-kast-6aef8747f6749373a7108c05",
       "fuente": "Cambio21",
       "region": "Nacional",
       "resumen": "",
