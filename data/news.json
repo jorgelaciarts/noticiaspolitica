@@ -1,7 +1,41 @@
 {
-  "actualizado": "2026-11-12T11:31:26.578127+00:00",
+  "actualizado": "2026-11-12T11:46:36.060775+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El parche de Kast no convence: camioneros mantienen el paro y Santiago vuelve a las cacerolas",
+      "link": "https://www.elciudadano.com/actualidad/el-parche-de-kast-no-convence-camioneros-mantienen-el-paro-y-santiago-vuelve-a-las-cacerolas/11/12/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl presidente de la CTFN, Cristian Sandova planteó que los camioneros aspiran a que “las tarifas sean congeladas por 120 días” para poder recuperar las pérdidas que han sufrido en estos últimos 7 u 8 meses por el alza de los combustibles y señaló que todo lo que el Gobierno ha ofrecido “es para largo plazo, no es para ahora”.\nLa entrada El parche de Kast no convence: camioneros mantie",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T11:42:05+00:00"
+    },
+    {
+      "titulo": "Presidente Kast se disculpó con el Club de Leones por confusión sobre centros de rehabilitación",
+      "link": "https://laprensaaustral.cl/2026/11/12/presidente-kast-se-disculpo-con-el-club-de-leones-por-confusion-sobre-centros-de-rehabilitacion/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El presidente del Club de Leones Cruz del Sur, Francisco Barría, informó que el Presidente José Antonio Kast, lo contactó para ofrecer disculpas por la confusión generada en torno a los centros de rehabilitación de Magallanes, situación que había motivado declaraciones públicas de la institución durante los últimos días. Según Barría, la conversación se produjo...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-12T11:39:39+00:00"
+    },
+    {
+      "titulo": "Paro de camioneros suma nuevos apoyos: dueño de grúas bloquean ruta y amenaza con llegar a La Moneda - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMnJOR1ZlbHZJLUhPcV9FQl9tal9QdDBxUk5MZTU4WlNTQzZIRzNGeEh0ZEE2VG5aSDJPc1FHWTBhUGNpcDNnd3R4ZVhqYVhvd0s2RHBzU19kbnFzeTlZazFWek9VY2xCQVdlOGZGV0VMdzlyaEU1bmlDWlhHNWF2cDJxVTBXZ1JOc0dGUldVYW5TdWU3MzY4YXN1amMtOGJTQVAyeEF6c2FhelA4cm90Q2lxbmxiUHZCdGIxbnRvSjJiMVQ3elR2cmZmWUNXNEc50gHkAUFVX3lxTE9oaHNKdTk3dTF2T255eDE2T0dZaTY1cnlXRWtuTHl1TnYwelhzai1MTnlhckNjZmNxS3liakROcUsxQ2NTbGlGZ09yWjJoYW5QTkxoZloxZVRUa0NtTGZFZHFLclVhcFFvbHY3MmViTnBOajNuZkNpUWRjT25GWGx3eENuYW5LelA3Rk1xR3BqcDZ3ZjNnTWpFTGRMR0lHXzlrX0xnZ2wxekc5MEREZEZzVVJTV3d5QzhOMnNOVDE3VmRVdE55TkxEdW8tdUpmYWNQZTZVdHRMRGt6eE8ya0k0WDFKZA?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Paro de camioneros suma nuevos apoyos: dueño de grúas bloquean ruta y amenaza con llegar a La Moneda&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T11:39:19+00:00"
+    },
     {
       "titulo": "EN VIVO: Senador Squella (Republicano) analiza la contingencia política y nacional - Emol TV",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbVEyZzRESEIxd29KRm5zdTU3ak1DQnhoZ2stZDJqVmZ5V1NjQkJtbE1iU3lxczVDYkFRZkxmUTJDOHVVVEN6aHNFQkJFVE5GYW04QXNESS1Ya3ZTeWtuMXZkUG5ocnhTYmRqb1NjaTVCeXlCSFBpZWdFVVFrQk51ZjRSaFF4YWJncDRxY0gxQ3NXY0lhZkFhRUdBNVFhbDVpRWV1ZFRyM3VYRzB5U0FQeVpiaUhHS1pzOU9SNFpEODIzUQ?oc=5",
@@ -5605,39 +5639,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-08T14:47:35+00:00"
-    },
-    {
-      "titulo": "Diputado Soto y AC contra ministro Rabat: “La decisión es presentarla en los próximos días” - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc0NiVlFrNUwxelVYem0wc29TTXllVm53NmtvTG5GbXdNYWF3Mjg5eDlBS3g2QmJIVkZWNDRjU3dOeGNGY1VtRHpwZ0RnTlZfWkhLTGs5enZmRDExdWpwRnNRLXpuVFBLR1RqYlFLUEE5bjRhZVhRUk80N2tBejd3MGZOajgzdlMzYUlqOXo1ekdQOGRNQmsxNFZWSDg5Y0otazBRdmJVUDI3TkFSMklWTlN1R1JzLW1MWkYxZG5uRQ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputado Soto y AC contra ministro Rabat: “La decisión es presentarla en los próximos días”&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-08T14:46:00+00:00"
-    },
-    {
-      "titulo": "Andrea Balladares advierte que crisis por ministro Rabat amenaza con \"condicionar la gestión del Gobierno\" - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTVpLVTJ0MXpIaENKY2J1bVNCQktsSWxnLUs4TXhieEpBc25mNlo1cF8ySGtqZEFVeUlFQ2pLaDFhSmxyUEJ3SklXZ08wdUQ3cFF2clNtSTAzbXh0dzd3aml5Q21HeHVCQXFIbjNNWGFsZDFqOUxfZFBQZXA1LTc3ZjlNMkdub19tQW9kTDNaNU5EMGlkUTVSdjRwVGV1RXUzLUtSZ09BcW9zTVlYSVRXUzdMZ0ZROEEtRWNGTFVUMTRQWnRkdy1jcWtUdEttWlFiZWlhcnNUQQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Andrea Balladares advierte que crisis por ministro Rabat amenaza con \"condicionar la gestión del Gobierno\"&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-08T14:44:53+00:00"
-    },
-    {
-      "titulo": "Soto (PPD) asegura que AC contra Rabat “está lista en un 99%” y acusa a Kast de prolongar la crisis por rebaja de penas - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOcTRXOUY2R0pUa2NWdlg1Y2UzazJNN0EzdGlXX0FHNWhUeE8zTTZHUlpYMXVmS1Nid0Zlek1zRDhEZUFuUjNpQ2ZzRFpXMllvVVlXOW9QT3luYmxPWGxESzNWLVk1OTBEemN6MVpLNlVGdTNWU0UwWGdIbXRRbldEU0EyVnNqcEhiNUYwMnVRaTdzZGlhQmRDQVFfUFNnSlc0a1JMTXhKM1lhbzNlRWhGbERHem9YNXdGM3FIVzlCSVN0Wk1xQngySzR3UHpDdEE1SmFpYXRncV90UFZ2WDg5bm5VZ1RiRm1uRnl6Y1dwa9IBkAJBVV95cUxOS3JjMDQ2MUdTZXNqZkxYZ3pXU0pjNnVPb0lZendlYUZMTlNEYmNtQTN6T2d1NW83YkNuX0xQZmRSMjhuVDA0YjREZnBFS2dtTXZRcGg1Z3VOaWhkdFZfck50Sm5sSVQ5MmlmQXlRdU9JVkp5Umxua1hwUjVaVHJ1MC1KdjZwRDdVTUVnS3NfNFZ4b1hISkNSTW9ZZzd0UE5MbUd0WGczcUxsbXFObFlvMUprOGZmajdESklpck40dnhDVXZGUVdnd0Zmem5PeUxuanRDSUt3NXNTTDE4cTJmVFZVdVp6VGlaeDRHZXUwbm5ZVFNnYXVoSGZWRk5GbTVlUXkzeV9wanc1QjgxZXZyVA?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Soto (PPD) asegura que AC contra Rabat “está lista en un 99%” y acusa a Kast de prolongar la crisis por rebaja de penas&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-08T14:44:11+00:00"
     }
   ]
 }
