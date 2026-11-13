@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-13T00:31:25.468866+00:00",
+  "actualizado": "2026-11-13T00:46:21.412832+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "«El blindaje del Presidente Kast no da para más»: Presentan acusación constitucional contra ministro de Justicia Fernando Rabat",
+      "link": "https://www.elciudadano.com/chile/el-blindaje-del-presidente-kast-no-da-para-mas-presentan-acusacion-constitucional-contra-ministro-de-justicia-fernando-rabat/11/12/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nParlamentarios y parlamentarias de oposición ingresaron la noche del jueves 12/11 la anunciada acusación constitucional contra el ministro de Justicia, Fernando Rabat, por su responsabilidad en la rebaja de condena a delincuentes, incluyendo algunos sentenciados por delitos sexuales contra menores y criminales de lesa humanidad. Según consignó la prensa nacional, el documento consta d",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T00:35:09+00:00"
+    },
     {
       "titulo": "Grandes gremios camioneros acuerdan con el Gobierno, pero otras agrupaciones mantienen el paro",
       "link": "https://laprensaaustral.cl/2026/11/12/grandes-gremios-camioneros-acuerdan-con-el-gobierno-pero-otras-agrupaciones-mantienen-el-paro/",
@@ -57,6 +68,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-12T23:24:34+00:00"
+    },
+    {
+      "titulo": "Los argumentos de la acusación constitucional al ministro Fernando Rabat",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/los-argumentos-de-la-acusacion-constitucional-al-ministro-fernando-rabat/2026-11-12/202314.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A 15 días de haberla anunciado, la oposición ingresó a la Cámara Baja la acusación constitucional contra el ministro de Justicia, Fernando Rabat, por las polémicas rebajas de condena que concedió a pedófilos y criminales de lesa humanidad sin órdenes judiciales que lo obligaran.\nEl libelo, presentado a las 20:05 horas de esta jornada, tiene 189 páginas y se compone de tres capítulos: el primero y ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-12T23:23:14+00:00"
     },
     {
       "titulo": "Fin al paro: Gobierno y camioneros llegan a acuerdo tras última reunión en La Moneda - Emol",
@@ -5607,31 +5630,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-09T17:46:14+00:00"
-    },
-    {
-      "titulo": "Caso Rabat: Kast pide unidad, pero persisten críticas en el oficialismo",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/caso-rabat-kast-pide-unidad-pero-persisten-criticas-en-el-oficialismo/2026-11-09/142631.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El llamado del Gobierno a la unidad tras ratificar la continuidad del ministro de Justicia, Fernando Rabat, no ha cerrado las críticas internas en el oficialismo, donde persisten los cuestionamientos al manejo político del caso.\nDurante esta jornada, el Presidente José Antonio Kast posó para una fotografía junto al ministro y dirigentes oficialistas. En el comité político, el Mandatario insistió e",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-09T17:26:31+00:00"
-    },
-    {
-      "titulo": "Club de Leones enfatiza que sus centros de rehabilitación  pertenecen a Magallanes y son autónomos de Teletón",
-      "link": "https://laprensaaustral.cl/2026/11/09/club-de-leones-enfatiza-que-sus-centros-de-rehabilitacion-pertenecen-a-magallanes-y-son-autonomos-de-teleton/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El Club de Leones Cruz del Sur emitió una declaración pública para precisar el origen y la dependencia de los Centros de Rehabilitación que funcionan en Magallanes, luego de la mención realizada a la institución por el presidente José Antonio Kast durante la transmisión de Teletón. Francisco Barría Presidente del Club de Leones agradeció el...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-09T17:19:01+00:00"
     }
   ]
 }
