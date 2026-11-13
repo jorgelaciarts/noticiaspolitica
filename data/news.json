@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T02:46:39.623007+00:00",
+  "actualizado": "2026-11-13T02:57:14.040115+00:00",
   "total": 500,
   "items": [
     {
@@ -13,6 +13,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-13T01:31:51+00:00"
+    },
+    {
+      "titulo": "Camioneros de Temuco, Rengo y buses interurbanos desconocen acuerdo y siguen paro",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/camioneros-de-temuco-rengo-y-buses-interurbanos-desconocen-acuerdo-y/2026-11-12/220053.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Yuri Sobarzo, dirigente de los camioneros de Temuco y Cautín, se desmarcó del acuerdo anunciado esta tarde de jueves en La Moneda y declaró intención de seguir adelante con la protesta.\n\"En Temuco no se levanta el paro\", dijo Sobarzo en la Ruta 5 Sur: \"Nosotros queremos una solución con la rebaja del combustible para todos, pues no solo el transporte por carretera está sufriendo; están sufriendo l",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T01:00:53+00:00"
     },
     {
       "titulo": "Dirigente camionero: \"En Temuco no se levanta el paro\"",
@@ -5618,17 +5629,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-09T18:50:29+00:00"
-    },
-    {
-      "titulo": "El Gobierno de Kast anuncia un proyecto de ley para reducir las futuras alzas de los precios de los combustibles - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVmowemF5Wm5aeGNGMzZ3eFhFVm1kODBRa2R1LXB6cVh1bEZtYnVfcVREcS0zVmRkb2t6UWtxYXExSVhaMVI2U3JpQzdWbzVTUWY3UEZ5c01Eb1d1d3FBVXFZT085RGV0QWtLQjI1VVE0RXJMVGdrSHZRQlFDcUdObGpPcHFlTnlTV21JV3B4Y3pITXk0anYzSXVnanJWZlFxcEpXRW1UQzNYRGx3dlBOc2lwcWtwZDFvUy00VFpLSkNJR1VLMUFZSFNvWFpQMkdLalBjRHhwZm5GTW9yaEVQVWxVRGNTaUtt0gH8AUFVX3lxTE5OMlppMTV3dmN4WUFtWXB0NmhXem1JYWFGaGxEbGJfdU9laEM5aXUxcjV2QTg1X19jMllrZThRMVpjZWJYTzBrTjduS05rV05kVXVyd3NGY2hDSmJkOW9QOVFaODc5OFg0OEh3bzRVdEVmRXIxNlZLY1BZa0JKN01jb29PQ0p2MmQzaEZ4S21YR0h5MVBYNEkyQTloLXFKS0FYNGlCSlNYQkhlSmlTUTkxbEV6UXdKNnYwY0tQQ1VtSDBfY25CV0liSDc4NG10cjZlaUdTR0ZMWTE4LUVvcVVLTUJxRkY1eWNoUjFLNVFxckhmLVVyN0dseGduMA?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "El Gobierno de Kast anuncia un proyecto de ley para reducir las futuras alzas de los precios de los combustibles&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-09T18:49:42+00:00"
     }
   ]
 }
