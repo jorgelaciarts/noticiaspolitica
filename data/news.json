@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T18:31:17.254879+00:00",
+  "actualizado": "2026-11-13T18:46:36.547946+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-13T18:28:33+00:00"
+    },
+    {
+      "titulo": "A tres años de operar y alcanzar 850 formalizaciones, equipo ECOH emprende \"nuevo modelo de trabajo\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/ministerio-publico/a-tres-anos-de-operar-y-alcanzar-850-formalizaciones-equipo-ecoh/2026-11-13/151613.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "A tres años de iniciar sus operaciones, el equipo ECOH de la Fiscalía ha logrado desarrollar 850 formalizaciones y registrar más de mil causas investigadas, y ahora pretende \"dar forma a un nuevo modelo de trabajo\" en conjunto con la Fiscalía Supraterritorial.\nDe acuerdo con La Tercera, las cifras fueron dadas a conocer este viernes en el marco de un nuevo aniversario de la entidad, creada en 2023",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T18:16:13+00:00"
     },
     {
       "titulo": "Paro de camioneros: Por qué esta vez Kast privilegió lo político y apoyó a Alvarado - Ex-ante",
@@ -34,6 +45,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-13T18:03:25+00:00"
+    },
+    {
+      "titulo": "Gobierno cerró filas en defensa de Rabat y acusó \"falta de mérito\" en acusación constitucional",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/gobierno-cerro-filas-en-defensa-de-rabat-y-acuso-falta-de-merito-en/2026-11-13/144816.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno acusó este viernes \"falta de mérito\" en la acusación constitucional presentada por la oposición contra el ministro de Justicia, Fernando Rabat, volviendo a respaldar su actuar \"legal y constitucional\" frente a los cuestionamientos por su gestión.\nDesde el comité político del Ejecutivo salieron al paso del libelo presentado la noche previa por las bancadas opositoras, el cual busca dest",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-13T17:48:16+00:00"
     },
     {
       "titulo": "Kast se reunirá con Xi Jinping en medio de molestia china por candidatura al Tratado de Alta Mar",
@@ -418,6 +441,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-13T13:03:24+00:00"
+    },
+    {
+      "titulo": "Venegas cuestiona gira de Kast a Asia en medio de tensiones por combustibles y acusación constitucional - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbnhJZUJlMDBjV21VaVdGa25XVkZtMzk0Uk5KZE1yX3NZdW1Bb0xKNWlybG1oZng4QXg3Q2VCa0JoV05zNTh4aWotZTdDVG9UeFhoSG4temlJeC16TlI3T3YwYTczWC1QQTFjaGNFdmlVN2w2TDZCS3N6MlBwYnJLN1kzc3EzRjZYajQybThtVTRobTFJX0J3WWlONEdlWnlvUmRucXkyR0Jsc2YzYzllRnRUS19PU3NZQTN0Z2FtclNQd2F4aWYyNw?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Venegas cuestiona gira de Kast a Asia en medio de tensiones por combustibles y acusación constitucional&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T13:02:48+00:00"
     },
     {
       "titulo": "Bencinazo de Kast: cuánto han subido las bencinas y el diésel desde marzo y qué pasará con los precios - El Desconcierto",
@@ -5600,39 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-10T13:35:38+00:00"
-    },
-    {
-      "titulo": "Ñuble inicia estudios para proyectar la reposición de cinco hospitales comunitarios en la región",
-      "link": "https://ladiscusion.cl/nuble-inicia-estudios-para-proyectar-la-reposicion-de-cinco-hospitales-comunitarios-en-la-region/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Un nuevo avance en la planificación de la infraestructura de salud pública regional se concretó con la firma del convenio que permitirá iniciar los Estudios Preinversionales Hospitalarios (EPH) de cinco establecimientos comunitarios de Ñuble, iniciativa impulsada por el Servicio de Salud Ñuble (SSÑ) y financiada por el Gobierno Regional (GORE). Este acuerdo marca el inicio [&#8230;]",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-11-10T13:33:15+00:00"
-    },
-    {
-      "titulo": "\"Cometió un error\": Alessandri reprocha comentario de Quiroz sobre uso de RR.SS por parte de diputados - Emol",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcU9HNVBxRHVacGJ3bFFlc3ZsRldmOGpneDVmcXFNLXhkeW1LaUNlODVqUHNqTUdEYS1GOXlWanBCX05naERodHZmdmt0VzdMVkZoUDNaS3Vxd1NoRTBIdEIzWW1fRWZTbVNxaVhFUnVZLXp5aDNsWVQ1Wm9ta0VJVk9PekxJRDNWeUN3SlE3dTd0bVU3UnZHNHJuSzdNVDNKQmZBVXZZaw?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Cometió un error\": Alessandri reprocha comentario de Quiroz sobre uso de RR.SS por parte de diputados&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-10T13:27:43+00:00"
-    },
-    {
-      "titulo": "Senador Walker por rebajas de condena: “El ministro Rabat tiene que dar un paso al costado” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNDVKNXlrbjdlLWpaUFlMS3BfemU3cXF6a0Q2dEl3VEN2aEFhRkNlUmdjLWFTWG84OTRtTlVaVTVHSEp1clVVME45Z05QVC1iUmFKU0ZYRnRqQThDdkhtaFZteExkdDRIaDNfSksyTWkyelpZZFlCQ2pBWnlCXzltZjk0aE9NU1RIQUIwOHVJWFJCbGY4UUcwS1RvZ1hFLTRjYTlmckM0Tk9LS3MxYjRlWkttNFRtM2g2MTdFVzVuUm1vQQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Walker por rebajas de condena: “El ministro Rabat tiene que dar un paso al costado”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-10T13:23:44+00:00"
     }
   ]
 }
