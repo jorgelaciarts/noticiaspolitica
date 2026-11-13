@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-13T13:16:25.899129+00:00",
+  "actualizado": "2026-11-13T13:31:29.717145+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Juan Santana defiende acusación constitucional contra Rabat: Las víctimas no pueden ser moneda de cambio - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMTdJTExxbjZrT1VGN1BnbWdrOVBrY0llTjBldVd5akw1R2ZtRVFDMXFVZGtaenJxUUhzQ3pUYVhIRUpZd2xYOEtKYXBvZGRzQ29ZaVlfd2hPdm9kdndyZVdQbTM4SGUyOXR3X2RtYnVlRl80aG9nYkxiSnBoUFU4RGpHT3NYQ0dGWDdOQ3RqN2hHdDBWbFdNc25XX3Vodko0N1RwUGtDc2kwbTY1U0tXMlh6NUMxQThET20wM21GQlVaUDlHdGdaY2Fsenk2YWV5NEZJUGJmTzhON2kxSk1v?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Juan Santana defiende acusación constitucional contra Rabat: Las víctimas no pueden ser moneda de cambio&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-13T13:21:23+00:00"
+    },
     {
       "titulo": "Rabat decía tener las manos atadas, pero Justicia rechazó 22 rebajas tras su giro de criterio",
       "link": "https://www.elciudadano.com/justicia/rabat-decia-tener-las-manos-atadas-pero-justicia-rechazo-22-rebajas-tras-su-giro-de-criterio/11/13/",
@@ -12,6 +23,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-13T13:03:24+00:00"
+    },
+    {
+      "titulo": "Bencinazo de Kast: cuánto han subido las bencinas y el diésel desde marzo y qué pasará con los precios - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZmRDS0pDVlRZS2JicjRPVmQ1RWJQSXJqV0xjNUZ4NkxoV0U4NmlFREd6SDgzSXdvZ1ZHWTdNaDhCQ1hRenlLT3poOFVsNDBvUFh0OXhoWXc2Qmpka0Zublh6czJ1VEpUVmxjM2x2eWIwd2JBVE5DeVdnTXliWkpkcnYzUWJsQ2g4cllQWDNURzA4c0F2a0RQWFIxcWRFX2RxeDVyZ3BCdzA3b0o2NlppZ2pQaW12T0xiMHE4aVk4OEJ1YnIwUjUyeEJWYnFjWUE?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Bencinazo de Kast: cuánto han subido las bencinas y el diésel desde marzo y qué pasará con los precios&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T12:59:00+00:00"
     },
     {
       "titulo": "Arenas refuerza importancia de gira de Kast por Asia: “Tenemos reuniones con nuestro principal socio comercial, que es China” - La Tercera",
@@ -5611,28 +5633,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-10T01:45:08+00:00"
-    },
-    {
-      "titulo": "Ofensiva contra Rabat altera planes del progresismo y posterga cita clave con Bachelet y Boric - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPa2J4UjFXUnhxb1lzUWZWa2R4QVVMOE1ITDlycTF2MGxFWXcyYmN6ZlNoeHhkZ1pnRGZSOVdla01DbVlyN05qNUkyNkl4MlZ3VF9JbV94cnJGNjRlMmRCdFVqX3FDRGVQSXlkYXNHZ2hlRkNSY2F1VXJCeUxTa1ZEa3BRckpRdUJrQWhobnJPTFo3SmJyaHN4MGstYU54WDRsWTVua1Rrcm9feVk3bE5uYTgtcEI1WTVDcW1OYnljQXFSUjdfN3pzbzFXRHdpSzQyUTdiS041ajFfN0sxbUU3MlROSGsxLThXeDFDdXAtMnpLdVQz?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Ofensiva contra Rabat altera planes del progresismo y posterga cita clave con Bachelet y Boric&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-10T01:31:59+00:00"
-    },
-    {
-      "titulo": "Kast anuncia un proyecto de ley para contener el alza en el precio de los combustibles - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcVY4V2ZIT1NZSXM0WkUwaG1IRlN6RTY2ekZGRjBSOVMxT0ZGaGgzMWh3RElsYUZSWXRsVWZjQ0hyREcxWEl0Q2FzcEpWb093dXN3WmxvMDZILXJtVlJzaGRjR3VrbXNuREEwWlFoN3R2T3FPbmRNb1ZsczZWa0E3U0FQel9mNG1YOHFRMWtHbFNtUnhocTZqQ2s0ckRQSkloUUFVcERSSXFCUFpVYmZpMXgtS3JucFJFOHRVbWwwREdhYmhBcWZSZDRmWGZJcU0xbThGSU5n?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast anuncia un proyecto de ley para contener el alza en el precio de los combustibles&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-10T00:47:00+00:00"
     }
   ]
 }
