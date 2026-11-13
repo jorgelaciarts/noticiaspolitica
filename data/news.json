@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-13T02:01:28.468879+00:00",
+  "actualizado": "2026-11-13T02:16:16.554056+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Acusación constitucional a Rabat: Desafiante, la UDI anticipa triunfo holgado del oficialismo",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/acusacion-constitucional-a-rabat-desafiante-la-udi-anticipa-triunfo/2026-11-12/223151.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El presidente de la UDI, el diputado Guillermo Ramírez, manifestó su confianza en que la acusación constitucional contra el ministro de Justicia, Fernando Rabat —presentada este jueves y dos semanas después de su anuncio—, no prosperará en la Cámara Baja.\n\"Ya era hora. Esto es como el cuento del lobo. Llevábamos semanas esperando la acusación constitucional y eso le dio tiempo al Gobierno para pod",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-13T01:31:51+00:00"
+    },
     {
       "titulo": "Dirigente camionero: \"En Temuco no se levanta el paro\"",
       "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/dirigente-camionero-en-temuco-no-se-levanta-el-paro/2026-11-12/220053.html",
@@ -5617,18 +5629,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-09T18:49:42+00:00"
-    },
-    {
-      "titulo": "Presidente de la SNA califica de “error político gravísimo” actuar del ministro Rabat",
-      "link": "https://www.lanacion.cl/presidente-de-la-sna-califica-de-error-politico-gravisimo-actuar-del-ministro-rabat/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El presidente de la Sociedad Nacional de Agricultura (SNA), Antonio Walker, calificó como un “error político gravísimo” la actuación del ministro de Justicia, Fernando Rabat, por las rebajas de condenas, y sostuvo que el episodio ha perjudicado al Gobierno y al Presidente José Antonio Kast. Llamó al Ejecutivo a acelerar la creación de empleos y [&#8230;]\nThe post Presidente de la SNA califica de “",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-09T18:45:08+00:00"
     }
   ]
 }
