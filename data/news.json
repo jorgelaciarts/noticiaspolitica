@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-13T14:01:30.421549+00:00",
+  "actualizado": "2026-11-13T14:16:37.595349+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Quién lideró la apuesta de Amazon para poner en marcha tres data centers en Chile (y que inauguró Kast) - Ex-ante",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PNF9xai1kaVl4cFNmaDJaNWg1RUZYZGUxVlFYbGJZU2pKbnVMUlJSU1BaTzNyX3dTU0JlSVZ3VC13aTEzSTF1SFJkMHQ1NmpqRy02ZGFHUnlGOGs2SjZKTmt5RDREWW92TkxZYjdhNjIxZWE4WGhaVkJGTQ?oc=5",
+      "fuente": "Ex-Ante (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Quién lideró la apuesta de Amazon para poner en marcha tres data centers en Chile (y que inauguró Kast)&nbsp;&nbsp;Ex-ante",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-13T14:05:59+00:00"
+    },
     {
       "titulo": "“No va a haber más acuerdos”: Gobierno le cierra la puerta a nuevas negociaciones con camioneros que siguen movilizados",
       "link": "https://www.theclinic.cl/2026/11/13/no-va-a-haber-mas-acuerdos-gobierno-le-cierra-la-puerta-a-nuevas-negociaciones-con-camioneros-que-siguen-movilizados/",
@@ -1224,6 +1235,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-12T16:22:21+00:00"
+    },
+    {
+      "titulo": "Kast emplaza a camioneros en tercer día de paralización: \"No volvamos a ese pasado donde se destruyó nuestra nación\" - Emol",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaHpXVEJwb2ZYaHdkYXIzR0I0Z2k4RWpaZUd3aGNGYkhOaUNQcEsxeXk2cUlHV25WSDZleHZuRzEzMzB3eUd0WXBjTzlwcV8wZjBlREdBTGFzNmRBUDBMelFZUE5WN0lhS0QyNHRnWmR2QktYaXFJT3VLcEQtUXAtWFJYeVJDc2ktS1lhSVN1NA?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast emplaza a camioneros en tercer día de paralización: \"No volvamos a ese pasado donde se destruyó nuestra nación\"&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T16:22:00+00:00"
     },
     {
       "titulo": "Kast arremete contra “el que baila, pasa” en manifestaciones de camioneros: “Es inaceptable y nadie puede estar sometido a eso” - La Tercera",
@@ -5610,29 +5632,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-10T04:04:06+00:00"
-    },
-    {
-      "titulo": "Editorial Cambio21. Del país triste, al gobierno fome y que Kast no es el líder que Chile necesita",
-      "link": "https://cambio21.cl/pais/editorial-cambio21-del-pais-triste-al-gobierno-fome-y-que-kast-no-es-el-lider-que-chile-necesita-6af286f7498ead24b0611d7c",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-10T04:04:06+00:00"
-    },
-    {
-      "titulo": "Rebajas de condenas: Rabat decidió \"parar cualquier decreto ante las nuevas circunstancias\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/rebajas-de-condenas-rabat-decidio-parar-cualquier-decreto-ante-las/2026-11-10/002856.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El vocero de Gobierno, el subsecretario Gonzalo Arenas, defendió nuevamente este lunes el procedimiento de rebajas de condenas en medio de la dura crisis política que enfrenta el Ejecutivo por el denominado caso Rabat.\nLa controversia se intensificó luego de conocerse que el ministro de Justicia, Fernando Rabat, firmó hace menos de una semana un nuevo decreto que rebajó la condena de un reconocido",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-10T03:28:56+00:00"
     }
   ]
 }
