@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-13T07:01:39.684397+00:00",
+  "actualizado": "2026-11-13T07:16:09.266605+00:00",
   "total": 500,
   "items": [
     {
@@ -56,6 +56,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-13T02:28:31+00:00"
+    },
+    {
+      "titulo": "Nuevo episodio de tensión en el oficialismo: Dichos del diputado Araya generan altercado entre Schalper (RN) y Moreno (REP) - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObkdwS2JzcFFwOF9iTWh6LWE0Q0kzbXJxM0xQT0IxT1pSYXJ2UHhqTVp6YnYwMFBkZUdQQTRiQzB2SklVTVQwQVlDelpwcGNycGhGLVNrWUtEd01yR0NvWlZLVmFyYjNUempOcW84RjV1VUlsVVBPSV9nSUtiX1M1eWozWHpEV2RBQkpwWENCLTRsMlVqMkV0dEZsUnNHRGo1RkJqSDk5YUFwd3JTRThpRnJ5M2pTQkUzTkthb1VuNUc4WXd0WTRPM3dwVEFCbGFEWHFBVUljUEdkMkl3eHBPbmswdw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Nuevo episodio de tensión en el oficialismo: Dichos del diputado Araya generan altercado entre Schalper (RN) y Moreno (REP)&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-13T01:47:53+00:00"
     },
     {
       "titulo": "Acusación constitucional a Rabat: Desafiante, la UDI anticipa triunfo holgado del oficialismo",
@@ -730,6 +742,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-12T16:35:22+00:00"
+    },
+    {
+      "titulo": "En plena crisis con camioneros: Quiroz abandona el Congreso y viaja a La Moneda para reunirse con Kast - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMm1mUXREYUdaNGZrVEdjSERlLUE5b1BZZGRYSFBuMG80cjRyVFk4QWxGN01zM1V6Q2QzWS00ZW1TNHlEWDBab19iLWhIMUx0NmEwOGlBWUlrWHZUTllrS0pSOTFRdU5FUVdjUUgxQ29IWGN2Z29Vc3RtMTFuOFN4d3JiTWsxVS1FZ2toQ0tmV3pBdw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "En plena crisis con camioneros: Quiroz abandona el Congreso y viaja a La Moneda para reunirse con Kast&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-12T16:32:26+00:00"
     },
     {
       "titulo": "La Moneda evaluó ajustar gira de Kast a Asia en medio de emplazamentos del PDG y la izquierda para que se quede en Chile - La Tercera",
@@ -5606,28 +5629,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-09T20:32:39+00:00"
-    },
-    {
-      "titulo": "Irregularidades en Codelco: RN y Evópoli solicitan al CDE informar acciones judiciales y recursos recuperados para el fisco - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOQXpiaEFWb0h6TDVVTTFXLXN5dzFxSUNBY04xREhmVUgyb3NZTUpPMXJGZUdVa3ZQekh3a0FPbFUtOXJ1VGwwdkk1Y0lKalNETXE5THI2eENqVXRWTWVSWU5SU1NUU0FoeG5NZ1U3MVR0MWlGZE5yaVltV3lCbDhUTldkbGVRMUp0cFFSVURMWjRmZEMwb1dIVXJwSlZ5Z3F2bDNrRVYyZlRLR3lxN1J5TFlmcG9LSl9HekN0bk5uLVlHc2ZrMmpmcWhrdzdQamxSZVRtbWZ1bHVfcUpSSktsb2o0RjZyVXd4N0xjYnA4TQ?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Irregularidades en Codelco: RN y Evópoli solicitan al CDE informar acciones judiciales y recursos recuperados para el fisco&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-09T20:25:05+00:00"
-    },
-    {
-      "titulo": "Presidente Kast anuncia proyecto para limitar alzas de las bencinas a $20 durante los próximos 90 días - La Tribuna",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVNsRnJwMTI2SlRGa0pISTVUR3lOU3Y0c2hWLWVEUHl1VjZ2dlg2WDlxWm9tZGQ4NVRpNXBBRW1kSU50QkZzMFdxZnhmdmI5eVlONDFlVnRCWVdpc0FwRURVanF3UU9OQkpmNHRpRjhLTW5selhZOXpOWENZbDlZcFdjTU9ST0xWUUZpVWZJQXpqaHl3QmFhaWVJOHVWM0pROUJEaGZnRWVPenRIb0RXa3Z3YktnUzM0UUMxbUpLdDRkcHA3SVRzU3FsVk1lTXJXNjVSU1duMm1MOWFZejdnMG1wRHBUd9IB7gFBVV95cUxQa0J4aGtEdXhWcnl0eUlCWUZhU3JlOFNjR2dvQkFXWDFwQUlPODdFelk1SklYNDd6Z2ZnUUlqUzEzTlpNR2xIdWZGZDh0amJha3N1dmtDeTRhSXI0TXF2c0s1cVF1Yk1tVE1PU0ZhcUdldHNZTjRzNTg4Qk1Mc1RndzVPWEFSYkFBVnZ1UzRlakt2T3lsQVhkdEUyZDRZQWYzTzQwNnRmUThyUWM4M19DRmM4NTgtbGhlNGRxZzdRRjNsTUpmX0F2b3lqc3hiRUZwX256WFY3OHdyWG8wUV9CYkhEQWdzZUhxZFlrZFNB?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Presidente Kast anuncia proyecto para limitar alzas de las bencinas a $20 durante los próximos 90 días&nbsp;&nbsp;La Tribuna",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-09T20:03:45+00:00"
     }
   ]
 }
