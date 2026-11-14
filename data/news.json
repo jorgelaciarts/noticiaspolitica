@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T16:46:25.330326+00:00",
+  "actualizado": "2026-11-14T16:58:46.280599+00:00",
   "total": 500,
   "items": [
     {
@@ -56,6 +56,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-14T16:02:33+00:00"
+    },
+    {
+      "titulo": "Senapred envió alerta SAE para evitar acercamiento al Río del Carmen por peligro de crecida",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-atacama/senapred-envio-alerta-sae-para-evitar-acercamiento-al-rio-del-carmen-por/2026-11-14/121931.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred) envió una alerta SAE preventiva para evitar acercarse al Río del Carmen en la comuna de Alto del Carmen (Región de Atacama), debido a su peligro de crecida. \n\n🔴 #SENAPREDInforma ¡ATENCIÓN! Por alerta de crecida EVITE acercarse a la ribera del Río del Carmen en la comuna de #AltodelCarmen, Región de Atacama. Para reforzar el a",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-14T15:19:31+00:00"
     },
     {
       "titulo": "Rodríguez responde a Ossandón y acusa \"perjuicios\" tras duro cruce con diputada Pizarro por DDHH - BioBioChile",
@@ -5621,17 +5632,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-10T20:45:00+00:00"
-    },
-    {
-      "titulo": "20 militantes renuncian al Partido Republicano en la región - El Día",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQlFMbGQtd1VHYlFmVGc5QS1OT1NadTJ1UkNkd24yRlVzMndVdEduRkpEY0dlOGxIR1o1eHZtMHJpQkJXZWxBTVNQNEZWTVBEdVNiMW94eFQ5cFFBTnBsWXExN2V0Y3o0aVp0NWFQMHNuTXNJOG82T1VRMElBa3E4bllXVUN0WWtLVEVQUGRWVWNLN082R01lZVJSbVljbTlhc0twT2sxdUwySy1ZQWl1TFpvYw?oc=5",
-      "fuente": "El Día (La Serena, vía Google News)",
-      "region": "Coquimbo",
-      "resumen": "20 militantes renuncian al Partido Republicano en la región&nbsp;&nbsp;El Día",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-10T20:00:58+00:00"
     }
   ]
 }
