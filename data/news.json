@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-11-14T12:01:24.076422+00:00",
+  "actualizado": "2026-11-14T12:16:19.816365+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senador Núñez: El Gobierno no cuenta con los recursos para financiar acuerdo con camioneros",
+      "link": "https://www.cooperativa.cl/noticias/pais/transportes/senador-nunez-el-gobierno-no-cuenta-con-los-recursos-para-financiar/2026-11-14/083158.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador comunista Daniel Núñez acusó que el Gobierno no tiene los recursos necesarios para financiar el acuerdo con los camioneros -que contempla una rebaja de 142 pesos del diésel y el congelamiento de su valor hasta el 31 de marzo de 2027-, por lo que pidió a Hacienda postergar por un año la entrada en vigencia de la megarreforma.\nEn conversación con El Diario de Cooperativa, el parlamentario",
+      "categorias": [
+        "Presidente",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-14T11:31:58+00:00"
+    },
     {
       "titulo": "Agresor de humorista Luis Slimming fue  despedido de la Municipalidad de Arica",
       "link": "https://laprensaaustral.cl/2026/11/14/agresor-de-humorista-luis-slimming-fue-despedido-de-la-municipalidad-de-arica/",
@@ -5620,18 +5633,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-10T17:47:09+00:00"
-    },
-    {
-      "titulo": "Yerko Puchento lideró las denuncias ante el CNTV: rutina sobre José Antonio Kast recibió 29 reclamos",
-      "link": "https://www.lanacion.cl/yerko-puchento-lidero-las-denuncias-ante-el-cntv-rutina-sobre-jose-antonio-kast-recibio-29-reclamos/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La rutina de Yerko Puchento en El Club de la Comedia recibió 29 denuncias ante el Consejo Nacional de Televisión (CNTV) y encabezó el ranking de programas más reclamados durante octubre. La presentación, emitida el pasado 29 de octubre, estuvo a cargo del personaje interpretado por Daniel Alcaíno. Durante su rutina, el comediante hizo una [&#8230;]\nThe post Yerko Puchento lideró las denuncias ante",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-10T17:34:32+00:00"
     }
   ]
 }
