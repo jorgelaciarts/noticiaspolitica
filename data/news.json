@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T10:46:09.702348+00:00",
+  "actualizado": "2026-11-14T10:59:19.795123+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-14T09:46:09+00:00"
+    },
+    {
+      "titulo": "Sergio Silva Alcalde - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DalRaWFhIYklzS3RUbzNJOTJjWmNjQ1RpVUY0dXlyR2ZpdHFJNngtc2xZRm1fZV9VVVJ2N1owc0NCTVc4ZTRhT19ETmpkWTdsNG9Qbw?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Sergio Silva Alcalde&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-14T07:25:00+00:00"
     },
     {
       "titulo": "Socialistas acusan “matonaje político” a integrantes del partido republicano. Exigen a Kast condenar sus conductas: “Lo emplazamos a poner orden”",
@@ -5621,17 +5632,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-10T17:22:21+00:00"
-    },
-    {
-      "titulo": "Kaiser cuestiona mezquita de Coquimbo y alcalde Manouchehri responde: “La ignorancia tiene solución” - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVJjXzRlX3h3Z2tubE9pWmowdTlEWWgySHdNeHlySmRFNEtsS1VLQzdONTJJWGFoT2dpQ3BOYVFpdVJFTWZJSWhQQ2hQcWtBb3YyOGRwTE9zUkU0SHpWM3dZTWRPUXNnYnBXUjhUTUpkZlpKMk81UE0wNFRFVVFJSGNGai1SV05QLXVfd1p4Y1c4Smp3bjU5Y3UtRGtnOHNSclZTZW9xdDlsUFQzR2RDcVdOQ2NNdDdldXZxS1JfN3hyTVlmeThJbDZGQzFQZ9IB4gFBVV95cUxQU2RodVlSMWlfdnpoc1d2WmVVVndyUlFEUzMtcF83UVJJZFI1YmJxV3hVcWJxamlHczBDUE9IWU1nS1B0bFpNbUQ0eFhVdFJYMXVPbWNNY1o3NmhuUU9zXzJiTG9zRndlY0ZBcFIyQzhDWkh0bFVhcHpBc2NDYVpwVkt0N0Nqc2RMdDBIREtqSHhWN3VxM2wzTUNCR1ZsNUFwcXJrNnhvSlZTZW1VZ3p4LWRrdTZzVDN3dFpaNGVmZl9DTEptVndsRUZnanNzdUJYcFVHenN3T0k5M1BtdnF0X2R3?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kaiser cuestiona mezquita de Coquimbo y alcalde Manouchehri responde: “La ignorancia tiene solución”&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-10T17:21:32+00:00"
     }
   ]
 }
