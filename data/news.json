@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-14T16:31:26.004327+00:00",
+  "actualizado": "2026-11-14T16:46:25.330326+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Mirosevic acudirá al Consejo para la Transparencia por los decretos entregados por el Gobierno",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/mirosevic-acudira-al-consejo-para-la-transparencia-por-los-decretos/2026-11-14/134100.html",
+      "fuente": "Cooperativa - Política",
+      "region": "Nacional",
+      "resumen": "El senador Vlado Mirosevic (PL), presidente de la Comisión de Constitución de la Cámara Alta, confirmó que recurrirá al Consejo para la Transparencia tras la entrega de los decretos relacionados a las rebajas de condenas firmados por el Ministerio de Justicia, los que llegaron en estado reservado.\nLa cartera entregó esta semana más de 300 decretos relacionados a la disminución de penas, correspond",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-14T16:41:00+00:00"
+    },
     {
       "titulo": "Expertos valoran gira de Kast por Asia pero advierten desafíos en la relación con China - BioBioChile",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSzBYOEtKWkVBdFM2aHRvMW1idDNSZDhlZEx6NEdmZ3Vnd1VLaUpxWkpMa3lya2lURzhYMFlFUktjdEhRTDlLZ29TcjNscTZ0d3RPald4d2dQZ2V4UG81R0x1NzE2aXpscy0tU2JPRjl2SWw0WTJCTGdGM2o0R3ZVek0yZkVaRWJLVHRrTW9tMFJlRm9SbDl6NWYwR3hydUpwcU03V3F5MldLNl9qMEdRVHlNcTFxbU82enVTMVhraHRFdEloN3kxdHRXajFlR0Z5YWN1NEZYRXRPWHJEN1hfZnQ1VTdKNm1HenU4?oc=5",
@@ -1406,6 +1417,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-13T11:35:02+00:00"
+    },
+    {
+      "titulo": "Cámara de Diputados aprueba el Presupuesto 2027 y lo despacha al Senado - Radio Pauta 100.5",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbW5ETVFIUGI2WmU4dm5WMjhsQVV1dFYxVW5rb29uUldERDFiMzdiWmhyQlF1MWdZTXdoWG8yY1NBM0Vma19vRHlkZUk2cnloYTh1RWFvRDVaRTNYZlZFSWlweVl5TWlLUU1NWkdzMVY3andGbERDTVhUcXJHenlGR2RKXzFnVHBCdnE0eEl0THJ2VEtqN1RQQUJJRWZ0RlN2TmtDSmlaSXRFRU9vc2RSczBlMUhyMjRfVHJJ?oc=5",
+      "fuente": "Pauta.cl (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Cámara de Diputados aprueba el Presupuesto 2027 y lo despacha al Senado&nbsp;&nbsp;Radio Pauta 100.5",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-13T11:12:26+00:00"
     },
     {
       "titulo": "'Vamos bien encaminados': Cámara de Diputados despacha Ley de Presupuesto 2027 con dos rechazos clave para el Gobierno - Meganoticias",
@@ -5610,30 +5632,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-10T20:00:58+00:00"
-    },
-    {
-      "titulo": "Cómo el Gobierno de Kast enfrenta su primera rebelión de los camioneros y los primeros flancos que abrió el conflicto",
-      "link": "https://www.theclinic.cl/2026/11/10/como-el-gobierno-de-kast-enfrenta-su-primera-rebelion-de-los-camioneros-y-los-primeros-flancos-que-abrio-el-conflicto/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El Ejecutivo ha desplegado a distintas reparticiones y al propio Presidente para contener la paralización, que ya tensionó la relación con un gremio cercano al oficialismo. Los dichos del ministro de Agricultura, Jorge Campos, contra los transportistas también abrieron críticas dentro de la derecha.\nThe post Cómo el Gobierno de Kast enfrenta su primera rebelión de los camioneros y los primeros fla",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-10T19:59:10+00:00"
-    },
-    {
-      "titulo": "Presupuesto: Cámara rechazó asignaciones para gastos y personal de expresidentes",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/presupuesto-camara-rechazo-asignaciones-para-gastos-y-personal-de/2026-11-10/163108.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En el marco de la discusión particular de la Ley de Presupuesto, la Cámara de Diputados aprobó este martes las tres primeras partidas: Presidencia de la República, Poder Judicial y Congreso Nacional, pero rechazó, dentro de esta última, los recursos destinados al financiamiento de las asignaciones de los expresidentes de la República.\nEl pleno resolvió apoyar la propuesta del diputado Javier Oliva",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-10T19:31:08+00:00"
     }
   ]
 }
