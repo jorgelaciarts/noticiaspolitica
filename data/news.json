@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-14T10:59:19.795123+00:00",
+  "actualizado": "2026-11-14T11:01:26.857068+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Columna de Marco Moreno: El Gobierno que se quedó sin agenda",
+      "link": "https://www.theclinic.cl/2026/11/14/el-gobierno-que-se-quedo-sin-agenda/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "\"Un eventual acuerdo con los transportistas puede despejar las rutas y aliviar las molestias, pero no devuelve automáticamente la iniciativa política. Tampoco la continuidad de Rabat resuelve el problema de fondo. La pregunta es si Kast conseguirá recuperar capacidad para ordenar prioridades y evitar que cada nueva controversia vuelva a desplazar las anteriores\", comenta Marco Moreno en su columna",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-14T11:00:00+00:00"
+    },
     {
       "titulo": "Por estimar “desproporcionada” la medida, la Corte de Apelaciones  anuló la orden de arresto en contra del alcalde de Porvenir",
       "link": "https://laprensaaustral.cl/2026/11/14/por-estimar-desproporcionada-la-medida-la-corte-de-apelaciones-anulo-la-orden-de-arresto-en-contra-del-alcalde-de-porvenir/",
@@ -5621,17 +5632,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-10T17:25:01+00:00"
-    },
-    {
-      "titulo": "Tras tildar de \"miserable\" a la izquierda: UDI replicará proyecto del Gobierno por rebaja a pederastas - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZDZnZTgwLVhETHg4Z1VwNnlEeW03UXlxclRSaXpSZHpyNFpSTkxXREZUejJoUExUU05tdXg2MGttUVJUUXBrbTBNdG5IbDdBVDlLdUdpbE13R09qd2o1RjI0UjBkLVJILW9ybENPMEF6TkxnUFM1ekVPSXk3R0tiQjE2czNiT0R0aDdYTlI0RHF1RE9BVTNFOFNQYTRqREw4bFZSaEZVb2hRZU9wMW9vanpuYlI3QnI5eGExRjVjMnFacko5YlAtZk9SVEc2U2Q1UHMwQ1dvQVZPZnNfUGEwRmFSYkcyczFTdWFTYWdMTnN2TS1fTEhubjFPYw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras tildar de \"miserable\" a la izquierda: UDI replicará proyecto del Gobierno por rebaja a pederastas&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-10T17:22:21+00:00"
     }
   ]
 }
