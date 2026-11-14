@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T12:46:29.003421+00:00",
+  "actualizado": "2026-11-14T13:01:40.692539+00:00",
   "total": 500,
   "items": [
     {
@@ -25,6 +25,20 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-14T12:41:46+00:00"
+    },
+    {
+      "titulo": "Senador Sanhueza: Falta empatía en la oposición con las víctimas que vieron salir a sus abusadores",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/senador-sanhueza-falta-empatia-en-la-oposicion-con-las-victimas-que/2026-11-14/094144.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador Gustavo Sanhueza (UDI) criticó en Cooperativa la acusación constitucional que presentó la oposición en contra del ministro de Justicia, Fernando Rabat, por la reducción de penas a condenados por abuso y violación de menores de edad, apuntando a que el sector busca transformarlo en \"un gallito político\".\n\"Aquí primero ha faltado empatía por parte de la oposición en transformar esto en un",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-14T12:41:44+00:00"
     },
     {
       "titulo": "Senador Núñez: El Gobierno no cuenta con los recursos para financiar acuerdo con camioneros",
@@ -5621,18 +5635,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-10T17:52:31+00:00"
-    },
-    {
-      "titulo": "Diputados de la UDI proponen reducir en un 50% el impuesto específico a las gasolinas ante alza de combustibles - Emol",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGpRRURqVVF4VWJJNm1hNzNKSkNpS1VLYlJXbXlSdFpoc1VkNDVmSWJBb3BwZ1pWNF9IYnJUeXRoZzFneHE2dTV3dlZnM0hOWUtyMmRJTTFMYUVpcFh6RlRlZEJPRTA1bHpranlneWRuaXBubUxqREVTU25uWnhNcFpvT1dvYldONG5NaDBLckVVSUFMdUVWS2pGM1lSOTlaUGFjMA?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados de la UDI proponen reducir en un 50% el impuesto específico a las gasolinas ante alza de combustibles&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-10T17:50:09+00:00"
     }
   ]
 }
