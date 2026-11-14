@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T09:01:25.797928+00:00",
+  "actualizado": "2026-11-14T09:16:14.246567+00:00",
   "total": 500,
   "items": [
     {
@@ -83,6 +83,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-14T00:27:48+00:00"
+    },
+    {
+      "titulo": "Acuerdo con los camioneros: los detalles inéditos de la tensa negociación de 10 horas en La Moneda - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaE9sdVdKbW8tM3R3LVVvQmJVZ21hQkRDdlBNYlRUSG1Tb0RrTU5PZnM0YUZtQU80WXpTd3o1MTdOcDFKbzFrQ0dUU3AxQXdnQ3lQOW5vajVZa18wRi1sc0JHRVZQa2NqbDJjVUdRYU1ybWVzREEzc0JlYVBqeW91dEpuNlduZzJnQjZwWUhFSnlGNUNQREZyVHEzSlAxbjRoSFZ2ZVRHYUZISXA0NWNzSzh4QlNoUjdrZ2otLU9fZGVtZXc?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Acuerdo con los camioneros: los detalles inéditos de la tensa negociación de 10 horas en La Moneda&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-14T00:05:00+00:00"
     },
     {
       "titulo": "Gonzalo Rojas: “Me gustaría que las alocuciones (de Kast) fuesen más de estadista que de padre de familia” - Diario Financiero",
@@ -5623,18 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-10T16:54:21+00:00"
-    },
-    {
-      "titulo": "Los exfuncionarios del gobierno de Boric detrás de la redacción de la AC contra Rabat",
-      "link": "https://www.theclinic.cl/2026/11/10/los-exfuncionarios-del-gobierno-de-boric-detras-de-la-redaccion-de-la-ac-contra-rabat/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Nicolás Facuse y Elisabeth Matthei son los indicados al interior de la oposición como los \"líderes técnicos\" de la acusación constitucional que se presentará contra el ministro de Justicia, Fernando Rabat. Abogados de profesión, ambos tienen un pasado de cuatro años en la Segpres de Gabriel Boric y actualmente se desempeñan como asesores del comité socialista en la Cámara Baja. Matthei es sobrina ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-10T16:43:44+00:00"
     }
   ]
 }
