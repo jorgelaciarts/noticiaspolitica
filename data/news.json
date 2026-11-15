@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-15T11:16:18.995225+00:00",
+  "actualizado": "2026-11-15T11:31:30.151887+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Afonía de Lula obligó a cancelar acto  de campaña con Pedro Sánchez",
+      "link": "https://laprensaaustral.cl/2026/11/15/afonia-de-lula-obligo-a-cancelar-acto-de-campana-con-pedro-sanchez/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Partido Socialista Obrero Español (PSOE) canceló el acto de campaña que el presidente del Gobierno, Pedro Sánchez, y su homólogo brasileño, Luiz Inácio Lula da Silva, tenían previsto realizar este lunes 16 de noviembre en Madrid, debido a una afonía que afecta al mandatario sudamericano y que le impide intervenir en público. Sin embargo,...",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-15T11:23:05+00:00"
+    },
     {
       "titulo": "“A partir del tercer trimestre de 2027 empezaremos  a tener cifras cercanas a la meta del Banco Central”",
       "link": "https://laprensaaustral.cl/2026/11/15/a-partir-del-tercer-trimestre-de-2027-empezaremos-a-tener-cifras-cercanas-a-la-meta-del-banco-central/",
@@ -5620,17 +5631,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-11T01:30:21+00:00"
-    },
-    {
-      "titulo": "ENAP bajo la lupa: diputados piden Comisión Investigadora por presuntas irregularidades ambientales - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVDE0WE8zNk5OYXBXVnhjZDVfVG9xX1N4UkNNTFBDTDRULWxJeDJjbnl3Z1J1cHotQkV6bmdNQndJOEw2eGhlMTdfdUtkeXJic0FjeV9YYWJIM0JSUkk1aGV0bTVFTTBWMkZURzdKNmlBaHpWaDNtRnRZdW1mTm5abnV4aTk5WnNCZmcwdDBFd2t1LTNLd2FWRG5BWkxXc3hSTXdWVTVpR3ppY05Yb0FaejgwenJ2RHZraUhQb0JaWlFJUmQ4UGNxalRrSElsTzZOQmNLRWc0RTNHRzJZX1Z4cGJvTTFrQzRTYVdTZ3U0cw?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "ENAP bajo la lupa: diputados piden Comisión Investigadora por presuntas irregularidades ambientales&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-11T01:23:35+00:00"
     }
   ]
 }
