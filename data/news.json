@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-15T12:46:12.329894+00:00",
+  "actualizado": "2026-11-15T13:01:23.617361+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,20 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T12:30:09+00:00"
+    },
+    {
+      "titulo": "Presidente Kast arribó a Vietnam con la mirada puesta en intercambio comercial",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/presidente-kast-arribo-a-vietnam-con-la-mirada-puesta-en-intercambio/2026-11-15/091729.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast ya arribó a Vietnam -la primera parada de su gira por Asia, que también incluirá la visita a China y Japón- tras 26 horas de vuelo y una escala en Sudáfrica.\nLa gira presidencial tiene como objetivo potenciar el intercambio comercial con los países mencionados, por lo que la comitiva está conformada por autoridades de la Confederación de la Producción y del Comercio",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-15T12:17:29+00:00"
     },
     {
       "titulo": "Más de un centenar de inscritos para la 12ª edición de la Vuelta del Estrecho",
@@ -5619,17 +5633,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-11T02:53:05+00:00"
-    },
-    {
-      "titulo": "¿Broma o amenaza? El traspaso de datos de Meta a la PDI tras mensajes contra Kast reabre debate por privacidad - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUdIbGF2Mjdxa3p3bk16bmRCOXBnamZfOWM4SHBVX2pNc2VRUGFBVklQT1lrZ3Zjenc3VHp0a0MxTWdWOWxWZzhtd1RJdGswaG4wTmNDR2FUdF9sYkRQd2lTZHRzZkswcXRlbWdYdHdheVFlS3pOZ3pYZTZKcXprMjJKOTlPY0hpN25kV0VQQV82bjBwZTl6R3FpdjB6VEo1VjZ3QmlpTzN3cDlUSjdyNnpyRFJtM2xDTEd3YjVaNldBcUd0ZkJKdF8yNEN2a0JWS0kw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Broma o amenaza? El traspaso de datos de Meta a la PDI tras mensajes contra Kast reabre debate por privacidad&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-11T02:45:32+00:00"
     }
   ]
 }
