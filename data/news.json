@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-15T01:46:28.262886+00:00",
+  "actualizado": "2026-11-15T02:01:36.480346+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Todo está mal",
+      "link": "https://www.elciudadano.com/chile/todo-esta-mal/11/14/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Paula Acuña Ojeda «¡Hey Chile, todo va a estar bien!». Así decía uno de los singles de campaña de José Antonio Kast. Durante meses, distintas autoridades de gobierno repitieron la misma consigna en sus redes sociales, acompañando fotografías de reuniones. Todo muy optimista. El problema es que la realidad no siempre coopera con las [&#8230;]\nLa entrada Todo está mal se publicó pri",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-15T01:55:36+00:00"
+    },
     {
       "titulo": "Chillán proyecta recuperar y poner en valor terrenos municipales no concesionados en Las Termas",
       "link": "https://ladiscusion.cl/chillan-proyecta-recuperar-y-poner-en-valor-terrenos-municipales-no-concesionados-en-las-termas/",
@@ -5621,17 +5633,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-10T22:35:45+00:00"
-    },
-    {
-      "titulo": "Alcalde de Cali aseguró que la totalidad de la boletería para ver a la selección Colombia ante Chile será destinado a las víctimas del terremoto - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNanYyNG44YzZiVEMzQ3YwelR1YjdwNmttcV9pMW9CYTRGNVZuVlZqYXpFU25DOXRMTkN6dTUtbHdNa21na29QR3RFaHFWLWxvdG9jVHBYUUM3UzFwS3Q2aXVVc0xUeUZJa2lPNWg0eHpCN1o5WnBzSFNpbWl6b29VejRUaWJtY0JhSEJXN1N2el9VUG4yX08tWWVjYjR4X3ZQeWdVQlI4RmR1YmRTcXRCaF9mczZwcjR0WlZjVE9kLUcwcEk4MXBXbmlJSTJSYklINWhmb2kyS2YxVE92LU9hdGV0dk84VXZqTHdwR1FLcFhYenB6cVhLYlpRYVA4WG0zdEFOdUdNaVRiSE92QzQ1d2M2d0gtSm9kZ3pXY2lrZS1ocDVX0gG_AkFVX3lxTE5MeVNpOTZlV19hZkJXTFpNam9HaURHbHlJTmpTWHQxNklkN1lyNGNEUVJLNVk5WXVLOEVGR0o1akwzVDFzQzNDM1E1RVlFMU14SENXbEZfZ3IxNFlxU1pQZ0d6dVY4cXE3YkNrQmF5eERleU4xUVRuM2hKTmZTcXd6U19NWWowWTV3M0VMeDJjNmhXcDcxSi1iU1lYRHp0N2puYzd0ZkhkOWw2c3BqTnpaM3dVcnNIRnJCN3pRN3BYdlhCODBER1lKYlJyNjlMUmtLVnUydUxvT1dyU0VFYW1ZUmdfZkpaSUlfMWs0OUxMbERVLWgweUhCSTZDdmIya1VieGlpQzFodlRKS2o3WGU2RjFLaWtVS0JhWHUxTnc3b1ppSGhRcXFYQkF2WmtmUmlHTElYYVJGQ0k1R2JMZVE?oc=5",
-      "fuente": "Infobae - América/Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Cali aseguró que la totalidad de la boletería para ver a la selección Colombia ante Chile será destinado a las víctimas del terremoto&nbsp;&nbsp;Infobae",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-10T22:35:00+00:00"
     }
   ]
 }
