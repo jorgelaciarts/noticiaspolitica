@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T00:19:39.360391+00:00",
+  "actualizado": "2026-11-16T00:31:21.783271+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T23:00:00+00:00"
+    },
+    {
+      "titulo": "Encuentro comunitario de seguridad congregó a mil dirigentes en Puerto Montt",
+      "link": "https://www.cooperativa.cl/noticias/pais/seguridad-ciudadana/encuentro-comunitario-de-seguridad-congrego-a-mil-dirigentes-en-puerto/2026-11-15/192014.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Carabineros, el Gobierno Regional y la Municipalidad de Puerto Montt (Región de Los Lagos) encabezaron la inauguración de las Jornadas de Integración Comunitarias 2026, que contó con la participación de mil dirigentes de la comuna y se abordaron diversas materias orientadas a la seguridad y la prevención del delito en los barrios.\nEn la instancia destacaron los módulos sobre la nueva Ley y de Segu",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-15T22:20:14+00:00"
     },
     {
       "titulo": "PDG arremete contra Vlado Mirosevic tras críticas a Franco Parisi: “Fanatismo, trincheras y oportunismo” - ADN Radio",
@@ -5616,17 +5627,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-11T18:00:00+00:00"
-    },
-    {
-      "titulo": "ONG valoró decisión judicial que frenó sondajes de \"Pascua Lama 2.0\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/medioambiente/ong-valoro-decision-judicial-que-freno-sondajes-de-pascua-lama-2-0/2026-11-11/145946.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El Observatorio Latinoamericano de Conflictos Ambientales (OLCA) destacó que el Segundo Tribunal Ambiental acogiera una medida cautelar respecto al proyecto Prospección Minera El Alto, de Barrick Gold, solicitada por comunidades de Alto del Carmen a raíz de perforaciones \"en el área clausurada de Pascua Lama cercana a los glaciares Toro 1, Toro 2 y Esperanza\".\nLa ONG ambientalista dijo que \"por ah",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-11T17:59:46+00:00"
     }
   ]
 }
