@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-16T13:16:32.942729+00:00",
+  "actualizado": "2026-11-16T13:31:20.228757+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Siempre hay un tuit o un video: Kast homenajeó a Ho Chi Minh, líder, estratega y revolucionario marxista al que hace solo unos años llamó \"genocida\"",
+      "link": "https://cambio21.cl/politica/siempre-hay-un-tuit-o-un-video-kast-homenajeo-a-ho-chi-minh-lider-estratega-y-revolucionario-marxista-al-que-hace-solo-unos-anos-llamo-genocida-6afb007b1f6595293d3e5346",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-16T13:25:37+00:00"
+    },
     {
       "titulo": "Tras el paro camionero, las protestas no paran: CUT, Confech y feministas convocan cacerolazo y marchas contra los recortes de Kast",
       "link": "https://www.elciudadano.com/actualidad/tras-el-paro-camionero-las-protestas-no-paran-cut-confech-y-feministas-convocan-cacerolazo-y-marchas-contra-los-recortes-de-kast/11/16/",
@@ -70,6 +81,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-16T12:48:14+00:00"
+    },
+    {
+      "titulo": "Kast aboga por reforzar intercambios comerciales entre Chile y Vietnam desde Hanói - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTF9YZU05YWdTUkw2RmJuQ3BHSFlSU1p6TjItaWJOa2F2dVJKZ0lGN3hfeDVwbnN5MTl1TG5TRjlqTUpSaGxUbmljbzhCdlZzYXNfS0ZMVjVDNkVsa0NNLXo4UWN3dmI3YmtPMlowaWVXN2p3WjEzbmpPUGttd3JtbHNLTG1TZWVTbmF3RnZYQndJOTdzbUVFUVlPTkdWSmhtQklzRldzNm84bndKcFE1NkxfMVZoVTdKdHI3Q0xIOW9mS3hLS1h5Wk90NHdacHhy0gHrAUFVX3lxTFAzZEpxNDZSN1ZvMmhiRnpjNkg3b09pUTNqVml4czNfM1hWTUZueWwzR09MdkhJMmhvVHIxY0R4Rm0zMHk4OGV2WUlfM0RETGhvR1Y2T1NEeDhfdjI2X0kzT3lRbjF6WlJENGNDMDFwMkh6Z0wzZWtOMWdWRlpjeDcwMDRrc19nOFZTaDVHUXpoemNsVktqdlZTLWxWUlpuR0xudDhBcTRFWU1UdjVDVmR6LUtmdzB0WlRqWGxEcHgxMjRmWW1YMk04V0xWaFRrQm5RSkhVbTN3QmZJR3otTy1oM2lOS1lZQm9PTjA?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast aboga por reforzar intercambios comerciales entre Chile y Vietnam desde Hanói&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-16T12:33:00+00:00"
     },
     {
       "titulo": "Caída histórica de Kast y el intento de privatizar Codelco/la ceguera de la élite chilena. - Crónica Digital",
@@ -5613,28 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-11T23:57:55+00:00"
-    },
-    {
-      "titulo": "Paro de camioneros sigue pese a acuerdos puntuales con La Moneda con proyecto para congelar alzas - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdVVaekl5aEhmZTIwV0c2UE1WMDBEU29TUzJyYlZUUjljdkUwdDNHaE1kazFIY1RfaE9GcUR2ZTFOOUE1d094MUhNa1FFTGp3YnE1RmRRZjNSd045d0FYdWxCQnlFcnF4c3RxOVNITlRGdlJ4ak5rX3ltT09nWi1CS01ZbWp3aFpPaDFiZVRkWHVuclZ0Q0NqdXo2cDlLX05zTWJGRWZMd0JPLV9mZEtiRnJzNFRyRmRJYVlsUlFrek1WTG9rM0M5WGRZRkRxcm1OUWxwNTk0NWRXVjZmUE1DRVE5V1hNNXp2VUtudndpWE91LTdzWjFTSzFB?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Paro de camioneros sigue pese a acuerdos puntuales con La Moneda con proyecto para congelar alzas&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-11T23:53:40+00:00"
-    },
-    {
-      "titulo": "Paro de camioneros sigue tras reunión sin acuerdo entre transportistas y Gobierno en La Moneda - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdlo2b1hLZzAzdWNNcjlxRWtMX25ZbDJrdU1zdGtPTF9rS1liSGpUbUZtR0xYWGJtM2RHNUZVZDlYM0dGYkJNdmhKREw1bTgtamNpTG1nYW1aN0xjdDNYYnNSQ25wWE9ZRko4dHM2cHp1bmh3UDFjQTI4UFh4R0tHSmhRdUJtbW45OUs5V3lmRk0tZFJYTHNraVRjRmlia2xRVEhZUVU0b2N4S0xLM2FBSkJIbEF4cVhpR1NMQ2paRzdLWUxORk56blQ0UUZPb3ZUQ2VJejBqWHNtbjhjbHJZaGxBcDFWUi1sRlE?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Paro de camioneros sigue tras reunión sin acuerdo entre transportistas y Gobierno en La Moneda&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-11T23:50:46+00:00"
     }
   ]
 }
