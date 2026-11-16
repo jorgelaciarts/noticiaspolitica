@@ -1,7 +1,65 @@
 {
-  "actualizado": "2026-11-16T22:01:34.899063+00:00",
+  "actualizado": "2026-11-16T22:16:19.568099+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La fuerte señal política en la inclusión de Camila Nieto (FA) en la gira de Kast por Asia",
+      "link": "https://www.theclinic.cl/2026/11/16/la-fuerte-senal-politica-en-la-inclusion-de-camila-nieto-fa-en-la-gira-de-kast-por-asia/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La alcaldesa de Valparaíso es parte de la delegación que acompaña al Presidente en su visita por Vietnam, China y Japón. El Gobierno buscó dar un mensaje de transversalidad al convocarla junto a Mario Desbordes (Santiago), quien se restó por problemas de salud. Pero su participación también responde a las últimas gestiones que la Cancillería busca dar para que su comuna se convierta en la sede del",
+      "categorias": [
+        "Presidente",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-16T22:10:33+00:00"
+    },
+    {
+      "titulo": "Bancada UDI acusa “falta de imparcialidad” en comisión revisora de AC: Advierten que Rabat “no tiene garantías de ser escuchado” - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbUEyc1FGc1dwRUVwWUtULThKbFdrSlVtdUdiZkZ3a1pHZFZCSzVUSGJKM3JWSWNrSTNSajRuSmJwWkZkNzZaYlAyd1ZPcWpQekxUNmNNTnBIMmNHRmJZbTRPUzBvcjhZQk9DSmNCSXRRSkJwbXV1SDZuNTI2S044Vlh4dXNrelJ0d3R5X0lkTTh1UnNTSmpoOUhDWURLcVNkX3ltaUhlbUFJSDExX0RtSw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Bancada UDI acusa “falta de imparcialidad” en comisión revisora de AC: Advierten que Rabat “no tiene garantías de ser escuchado”&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-16T22:00:48+00:00"
+    },
+    {
+      "titulo": "Caso Rabat: Senador Mirosevic solicita al Consejo para la Transparencia evaluar si 56 decretos deben ser públicos - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMzlMbjcxVHNKNVYtTFNfcnVtYUE4WkwtRURfOTlzcHo4eTF1WDZoamd3QUgxUW1zVFEzWXYyUF9fWXBfeXJyZU1pNjNmaU9nTkFlVmo5ZTZIcUoyWlpkSHd1djVVR2tac0xCSFE1d29mQ29sRzMwTWpVUy1aazBXdXFrZzhTbGtzT1N4TFNFUHhSdDhBeF9qX1o5NWZkNlZKS0VvM2o4ZTBCRVFDOFE3VnV4eFpNN3BPQkV2VWx5dXBBaDNTYV91aDhINWFiTHgwOXpvZ3BhWElLd0taSTc4czhvX2x5VWY0?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Caso Rabat: Senador Mirosevic solicita al Consejo para la Transparencia evaluar si 56 decretos deben ser públicos&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-16T21:55:26+00:00"
+    },
+    {
+      "titulo": "Desde $1,1 millones a $3,7 millones mensuales: lo que gastan en traslado los diputados, diputadas y senadores del Biobío - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXJFMi1iUk5PVWtfZ0hxRzBYSnhlekEtZkhUbHp5ZlQwZWFDQXhkX1AzdzBhWDBXWmtTQjg4dXJXamR5UWl1c251UFdtQ0ZsVjZFY0VIeFZ6anBDcU1fMHpwbHMycm5WdGdrRWNKNjlaT1ZLSWk4TXFTVnpBWEllakNuS1dkUlBkMGhXRGxvM25fRXd1ZUNDWmE5d1ZqRWxCaWNrRENjdy1EeGpERXZudzdZRE0?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Desde $1,1 millones a $3,7 millones mensuales: lo que gastan en traslado los diputados, diputadas y senadores del Biobío&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-16T21:54:17+00:00"
+    },
+    {
+      "titulo": "Senador Núñez: “En esta defensa enfermiza del Presente Kast al ministro Rabat el Gobierno se está suicidando políticamente” - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbXlpdWdrZlQ0Q2pFNy1Sd0hKRVVzc1Q4YWhKT2Nsc1FPTHpmNy1zRnFSMnpIQmYwUDUwdzlCWmVoYV9EZERmUnFBRzJYYUhhN3FVbXYxZXhjTldpcHJ2QzFUNUNkRy1aWXZKSUZfcjBEWS03dkg4VGdOZjY2bHdiMGdBdndFYy1DSlloVnNodFlWeWxra3hiX1VRMDVoRGZXR3VRX1dCU1FSd0xGZVM4NUg0d3F0eWM?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Núñez: “En esta defensa enfermiza del Presente Kast al ministro Rabat el Gobierno se está suicidando políticamente”&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-11-16T21:53:00+00:00"
+    },
     {
       "titulo": "Senadora Sepúlveda (IND): “La falta de diálogo y la tozudez del Gobierno han marcado este Presupuesto 2027” - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTUzS1YwZkdTZ2Y5dTVGOV9tdkFDZUpxWjR6UXk2WU5mUkEwOVEwQUhPOHliVndYS2w5cVJXRV9VRjVianVZeGQ3RVNCbkcxZVc5ZkxldVFHZms5eWd2dlIzTXB0UkNScjROdEJMV05tLVRlSTdmaEpNaWNsdDI5dTdsVkM0MjVfOFo2SzA5LU02SEVGeklQSUZremNSTzhpZTRsUmo3UEpRLThRNDQ0RV81clFndXVCeTVLSDdMbnp5bi1KRzV5SkN1SldyejhmWmdkRA?oc=5",
@@ -191,6 +249,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-16T20:18:44+00:00"
+    },
+    {
+      "titulo": "Encuesta Cadem: aprobación del Presidente Kast cae al 27% y desaprobación llega al 69% - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNVVMZFJrck84SUwxWDdZV01jVmpBSVdJUUlScmZOZlBPSGN4bnJMOXN2aFBHbmVINXBudkszbzRubVM2WUlpU09hMTdpT1J5WmRUWGdPRXcxRTdpc2ZYZUg4ZmRSd3ZGVGljZ3lsd3NyQkJwRFcyUkgwUURUVG5tUWh5dmdvTFVuVV82ZXdVTmZDdHEyV0dEUWdkY3k0aWVPZ21aVFdhVXFtOFZ0NDRVZVJkZFZFYUhqSDNpZjhybXZnRXZnaUpxbw?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Encuesta Cadem: aprobación del Presidente Kast cae al 27% y desaprobación llega al 69%&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-16T20:18:30+00:00"
     },
     {
       "titulo": "Definen a los diputados que revisarán acusación constitucional contra Rabat: Ministro ya tiene abogado - Meganoticias",
@@ -1022,6 +1091,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-16T14:45:36+00:00"
+    },
+    {
+      "titulo": "¿Qué está pasando con Kast? Cadem revela caída en su aprobación y un resultado sobre los camioneros - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN29LUlFKaGFDWXZpZ3RpZjV4anVLVTd1OGJoS19hdDlpVk9udl9NSk40Z2tsT3pWT3ZvQm9XTGtqcVpudWZYZGlTbEtJWF9oQWo5WGFHQVV4QmpoWmRmb0RicnZIX01XSU1wYV81Y3V6bmhfWFo4aVY1d3VzWXJMcV9iQU8zTkhVajlBSDh4VEhhREJKTEdtVmFsb1hFWHhHdEJjMDBpS1dfd1NwcnhiRmtvQVdNWVhnelV0NnQ4c3otZHQxM0xfNQ?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "¿Qué está pasando con Kast? Cadem revela caída en su aprobación y un resultado sobre los camioneros&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-16T14:35:07+00:00"
     },
     {
       "titulo": "Kast anuncia asociación estratégica con Vietnam: busca abrir mercado para carnes, cobre y litio - El Mostrador",
@@ -5559,87 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-12T21:00:00+00:00"
-    },
-    {
-      "titulo": "Gobierno descartó \"letra chica\" en el anunciado congelamiento de los combustibles",
-      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/gobierno-descarto-letra-chica-en-el-anunciado-congelamiento-de-los/2026-11-12/175555.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En medio del paro de camioneros y transportistas —que continúa sin una solución definitiva—, el Gobierno, a través del delegado presidencial de la Región Metropolitana, Germán Codina, salió a aclarar los alcances del congelamiento de los precios de los combustibles, asegurando que \"no hay letra chica\" y eventuales bajas internacionales también se traspasarán a los consumidores.\nEn una rueda de pre",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-12T20:55:55+00:00"
-    },
-    {
-      "titulo": "Diputados PDG piden a Kast cancelar su gira por Asia: “Chile necesita un Presidente que se quede” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNNEsweWc4MFotOXpJdFhzaFFRSGl3Ym8zNTdaX05pOXotTXRRNUNlX19GdXFzQjF5WllVNzlucXBPaXVJZzZzY3JQT2lIY01jUlEzMExWeWF6aTF1dklUNEd6d1A4YzlwVEtEZHRJLTZfTG5HcFBCQWlRZnlWek5wNUpIdXpGVEVBMlJNQUhkYkp0eTFqTF9kelJOVkJJREtoQW9QdjBqczNXSWFCT0V5NmQ5dXk4SkxyYkE4RnJPemtzbUdJMzk2cnlPSUNfUmozTTk1Y0YtWXJoblpULWVucUE4alplN2EzVGc?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputados PDG piden a Kast cancelar su gira por Asia: “Chile necesita un Presidente que se quede”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-12T20:53:50+00:00"
-    },
-    {
-      "titulo": "Diputada Tello impulsa prórroga del retiro municipal y bono reparatorio tras reunirse con dirigentes de Coquimbo",
-      "link": "https://www.elciudadano.com/chile/diputada-tello-impulsa-prorroga-del-retiro-municipal-y-bono-reparatorio-tras-reunirse-con-dirigentes-de-coquimbo/11/12/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa diputada por la Región de Coquimbo, Carolina Tello Rojas (FA), junto a Fedefum y la Asociación de Municipalidades de la Región de Coquimbo, están impulsando una solicitud de resolución para que el Presidente de la República ingrese un proyecto de ley que permita postergar voluntariamente el retiro municipal hasta dos años, «conservando el cupo [&#8230;]\nLa entrada Diputada Tello im",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-12T20:47:10+00:00"
-    },
-    {
-      "titulo": "Kast por paro de transportistas: \"No volvamos a ese pasado donde se destruyó nuestra nación\"",
-      "link": "https://cambio21.cl/politica/kast-por-paro-de-transportistas-no-volvamos-a-ese-pasado-donde-se-destruyo-nuestra-nacion-6af620d1f67ecb32aa633db3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-12T20:30:06+00:00"
-    },
-    {
-      "titulo": "Tormenta editorial: Qué dice la biografía de Vargas Llosa que desató el repudio en su entorno (y la mención a Kast) - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQTZ4WW9PT2Mwa3NLdU9mZEQ5ZzlqZWc3T0JmV1M3Nl9pc0FmdFcyTzNoMlBLUkRHY1ZjdVloaHhhY0xqOVZjRkdSY3daUHQxaVpjTHpyQW41R1NIT1J4OWFwNEhvT0UtMl9LdFM4M3NRblJGZDV5T2czN0tiVVFHUQ?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tormenta editorial: Qué dice la biografía de Vargas Llosa que desató el repudio en su entorno (y la mención a Kast)&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-12T20:22:43+00:00"
-    },
-    {
-      "titulo": "Empresa vinculada a jefe de asesores de Kast enfrenta cobros millonarios por derechos de agua - Radio Pauta 100.5",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcmZQOU9zMW5ZQ0s0UWtWWnloWHFhQnlTSlFCTzhidDBTbzZWaUV2S3ktRWQ1U3NUMU5YcEQ2NzlDZXRkb1dsS1BWSlFZV1BDQjVGMW9ZX1o0UG5uNDJRR2JMOXFjOWEtQWNVT0c3MUg4WUVXRmxGRzh1anphWXYzeHZTenBfT0JwSXdNdURzY0xOTXYxQlRtQmxRbGVObVdTTVRDeC1fVktGNHJRZEN0R2tqZUVnOXBzZkUzcHJVUjF5VzlqZjZRVHM3QkJfeUpDajN0MHZxbGg?oc=5",
-      "fuente": "Pauta.cl (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Empresa vinculada a jefe de asesores de Kast enfrenta cobros millonarios por derechos de agua&nbsp;&nbsp;Radio Pauta 100.5",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-12T20:13:07+00:00"
-    },
-    {
-      "titulo": "Meta y PDI bajo la lupa: 12 ONG exigen transparentar alertas a la policía por amenazas al Presidente Kast - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0NnMUxIQUZnZUNXam4zVDctUTRUNjNpRWNkWFBMd2FFQWxZOFA2MzlVRS1LYnVEc3RXdnc5a2JOdG9ZSF91cURsalpxQTJWdG41N2FtNFlIWjZGUDFkM1RsQ3I3RWVTcU04RHJfSS0wc3J2UzJGMWRNVFdPd0REbEZVNE1PQUs1b0J1UTdNaTVnamF6XzhJTnVnTFc3d0JiQUNXMnUxQlNfeElrY3hBalBsMXVNWFBSVVNjWWZwbTRQV3IxZWfSAdoBQVVfeXFMUFA0aEpNVW0zVDhqWE9rT09zZlYyc2Y1ZUV4d3F3TTl4cm1QOGpVWWFHLVU2VWtiTU43LUQwM2JUVm1GM3dENVdRNTRaS1Vlcm1uelB6YnpLeHBhSDRzRGl3anA4LUdCNTByMVk2OVVSYmhOaUYzWG9tRFRaRlJIcktWcXlsUVFJX0FjTWpOUVE1NTY0ejNkZWsxeEZIR2NvN21zOXk0ckN6UkUyQ2psNXF4aE1sNklZT1pKNmlkdUVTaUM0cXJtRXAtYjFfTHRjQUVNZ1ZpVkdEU1E?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Meta y PDI bajo la lupa: 12 ONG exigen transparentar alertas a la policía por amenazas al Presidente Kast&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-12T20:10:31+00:00"
     }
   ]
 }
