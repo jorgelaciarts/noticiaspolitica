@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-17T21:01:32.126208+00:00",
+  "actualizado": "2026-11-17T21:16:25.373470+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Partido Socialista en la dura: Critica gestión del Gobierno y exige renuncias \"inmediatas\" de ministros Quiroz y Rabat. \"Este gobierno no gobierna\"",
+      "link": "https://cambio21.cl/politica/partido-socialista-en-la-dura-critica-gestion-del-gobierno-y-exige-renuncias-inmediatas-de-ministros-quiroz-y-rabat-este-gobierno-no-gobierna-6afcc01b398022012a44ee53",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-17T21:05:23+00:00"
+    },
+    {
+      "titulo": "“Quizás es mejor que vuelva Mara (Sedini)”: PDG emplaza a Arenas y exige nuevas disculpas del vocero tras polémicas declaraciones",
+      "link": "https://www.theclinic.cl/2026/11/17/quizas-es-mejor-que-vuelva-mara-sedini-pdg-emplaza-a-arenas-y-exige-nuevas-disculpas-del-vocero-tras-polemicas-declaraciones/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Tras las polémicas declaraciones del subsecretario de Gobierno, Gonzalo Arenas, quien sostuvo durante una entrevista que el PDG no es realmente un “partido” político sino más bien un “cúmulo de deseos”, la tienda fundada por Franco Parisi apareció este martes en respuesta. Según sostuvo parte de sus miembros, “el vocero tiene que hacerse cargo de lo que dijo” y “debe retractarse” pidiendo disculpa",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-17T21:02:41+00:00"
+    },
     {
       "titulo": "Kast inaugura ChileWeek en China y llama a fortalecer los lazos comerciales",
       "link": "https://www.lanacion.cl/kast-inaugura-chileweek-en-china-y-llama-a-fortalecer-los-lazos-comerciales/",
@@ -62,6 +85,29 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T20:42:00+00:00"
+    },
+    {
+      "titulo": "Contraloría: hay más de 300 funcionarios públicos con condenas vigentes",
+      "link": "https://www.cooperativa.cl/noticias/pais/judicial/contraloria-hay-mas-de-300-funcionarios-publicos-con-condenas-vigentes/2026-11-17/172813.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Contraloría General de la República (CGR) dio a conocer un nuevo Consolidado de Información Circularizada (CIC) N°29, en el que advirtió que más de 300 personas que trabajan en la administración del Estado tienen condenas por crimen o simple delito, incumpliendo la prohibición expresa para continuar ejerciendo un cargo público.\nEl análisis se realizó a partir de un cruce entre las bases de dato",
+      "categorias": [
+        "Servicio Electoral",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-17T20:28:13+00:00"
+    },
+    {
+      "titulo": "Seremi de salud inicia campañas regionales con énfasis en seguridad alimentaria y salud mental - Diario Concepción",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWHZQQ2tGRWZIS3JPdXFJR0hPMzJyd0s5YXR6REhraGpoYlNQOXVnNWtFZkRoU1BWRU1KZDJXMjQ5OWRycTlVWmg2OW1pS1RwN203b3VvbU15bEFQWXFXTWFYSlN0Vy1mUXBoNGVJdElLS1ZfV0w2MVpfV2VHNFBzSzQ3SzBLNnNmNHI3R1lKcjIxQUJuSlVtMklsV2laVjJEN1pHNdIBrAFBVV95cUxQSHNxQ19uNDNiM24wTFp6X0tPN0cwMk5BUGlWX2stb1MxUndsQjRCU3c0cWd5MVl0N25yRGZvR2U1TTRSc1dXdk43QnhqbkRGdTNQa1FuNUp1UjlManlmSy1IV29CRFM4aWVxX0otNG0wdlpEMjN6Y1FvdlRGSF84NlQ0cnlpdlc4RlN1eEZBOGNvUlNjbWhrRTRnbjRtTG1YR2JfblYwYjFzQVVE?oc=5",
+      "fuente": "Diario Concepción (vía Google News)",
+      "region": "Biobío",
+      "resumen": "Seremi de salud inicia campañas regionales con énfasis en seguridad alimentaria y salud mental&nbsp;&nbsp;Diario Concepción",
+      "categorias": [
+        "Elecciones"
+      ],
+      "fecha": "2026-11-17T20:21:55+00:00"
     },
     {
       "titulo": "(VIDEO) Paz Charpentier ve octubrismo hasta debajo de las piedras: ¿El Gobierno de Kast elude responsabilidades?",
@@ -940,6 +986,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-17T14:20:33+00:00"
+    },
+    {
+      "titulo": "“Flor de vocero…”: Pamela Jiles arremete contra Arenas tras sus dichos sobre el PDG, a días de acusación constitucional contra ministro Rabat - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQVTdURElBNzY2Ymdqd05nZG5KbW55XzJVRDVsQVFXQW1MTjhxWG1JRU1vQjV3T3dDRUZfXzhvc3Y1MXpFb2tEd1JmaFpnYTJ6NVVVUklTZjdkU1Y4UEUwZ1JrcDRmaFBVdVQ1R0tRdDNrMGtkSkVfcWdBVG9ZNmY2M3NQMC1JQ191Y0V2T3dUSWFlcUIteThHZ0pTMlJMTUhvSXdTRFNYcThaRzJxMlplcGF1OU1rdDk1OFhDaHlKdHRNcEVneVYzMHhjclJONEFwQ3RORDY1X0pNdmNHT21vTkhxU284dHo4YURfZXYyZHFrQUw3cWEwdEZraw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Flor de vocero…”: Pamela Jiles arremete contra Arenas tras sus dichos sobre el PDG, a días de acusación constitucional contra ministro Rabat&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-17T14:19:42+00:00"
     },
     {
       "titulo": "“He escuchado parlamentarios de la UDI”: Diputado Durán (RN) revela dudas oficialistas ante acusación contra Rabat - CNN Chile",
@@ -5591,63 +5649,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-15T03:59:28+00:00"
-    },
-    {
-      "titulo": "Senador Gastón Saavedra dispara artillería pesada contra ministro de Hacienda: “Ministro Quiroz, por el bien del país, renuncie”. \"Usted prometió crecimiento y nos entregó recesión\". \"Este un modelo de colusión, de eso algo sabe\"",
-      "link": "https://cambio21.cl/politica/senador-gaston-saavedra-dispara-artilleria-pesada-contra-ministro-de-hacienda-ministro-quiroz-por-el-bien-del-pais-renuncie-usted-prometio-crecimiento-y-nos-entrego-recesion-este-un-modelo-de-colusion-de-eso-algo-sabe-6af92a0064205b3e73500034",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-15T03:59:28+00:00"
-    },
-    {
-      "titulo": "Todo está mal",
-      "link": "https://www.elciudadano.com/chile/todo-esta-mal/11/14/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPor Paula Acuña Ojeda «¡Hey Chile, todo va a estar bien!». Así decía uno de los singles de campaña de José Antonio Kast. Durante meses, distintas autoridades de gobierno repitieron la misma consigna en sus redes sociales, acompañando fotografías de reuniones. Todo muy optimista. El problema es que la realidad no siempre coopera con las [&#8230;]\nLa entrada Todo está mal se publicó pri",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T01:55:36+00:00"
-    },
-    {
-      "titulo": "Chillán proyecta recuperar y poner en valor terrenos municipales no concesionados en Las Termas",
-      "link": "https://ladiscusion.cl/chillan-proyecta-recuperar-y-poner-en-valor-terrenos-municipales-no-concesionados-en-las-termas/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Convertir los terrenos municipales de Termas de Chillán en nuevos espacios de encuentro, esparcimiento y desarrollo de actividades deportivas y recreativas es uno de los objetivos que se ha planteado la Municipalidad de Chillán a través del Plan Bicentenario. La propuesta apunta a ampliar las alternativas de acceso a la cordillera de Ñuble, con una [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-15T01:38:47+00:00"
-    },
-    {
-      "titulo": "Senado se prepara para una semana clave en el debate del Presupuesto 2027",
-      "link": "https://ladiscusion.cl/senado-se-prepara-para-una-semana-clave-en-el-debate-del-presupuesto-2027/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El proyecto de Ley de Presupuestos 2027 enfrentará la próxima semana uno de sus principales obstáculos legislativos, luego de que la Cámara de Diputados lo despachara al Senado con siete partidas rechazadas y una serie de controversias por la disminución o eliminación de recursos para programas sociales, educación, empleo y sitios de memoria. La Cámara [&#8230;]",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T01:24:04+00:00"
-    },
-    {
-      "titulo": "“Todas merecemos respeto”: parlamentarias del Frente Amplio acusan “maltrato” de republicanos contra Ximena Ossandón - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQ0Y1azd3UTh4M3ZJZlRCSDhEbnVoaEl3a0hQcWprU01rWjRqUjBpNi1Zanp0bDdqQlRiTXpCdDJreDlwOEZlVnJhRjVCdzIyTmxoSUZINzhibEQydWtkZ1FNN1VkdlU2UVM1bC0xVHJSYzlhMHNxX2Z2ZWhUVHV6YmxHYk5DNEVWTTZIeE1IU0tNOWQ1NHktRnZxYVFyLVR3YXRYSEZQNTBvVksyUk8wTlhzUDRLYnJsZVhLRlRDbHRjN3ZxN1hBa1l4TU9NVTBGMXV4VjFwUXlBUUtQQXZMa9IB9AFBVV95cUxQT1MzdUtwLTRSN0JyNjlQTHVsU2hXd2tXaVM0bUN2OVBLOHJnWFRHbUpzc0ZiOUMtSWhYVGJlX2J5UWh5UjBESXJtUDV0WEVVd0UyZUVVRF9GclEyWmgtZjZCUGVaS2tUV0RUdVRRSGZMX0xRdDk1cGw0cEpXXzJfaFYwcVR6dXpIRE42WDl5ZURzVFctcVhFVFNybnNqNENEc0hYcnlUdkVSVFRsNjhhRHVjUTV3UHZKQS1odUJuZ0JFRVJxeDNpMFd2eXBCUkliNzdBOE9VM2JHRWlLbXVsR0pIWXFVaUpreVZLM0J3Mm02bF9R?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Todas merecemos respeto”: parlamentarias del Frente Amplio acusan “maltrato” de republicanos contra Ximena Ossandón&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T01:02:34+00:00"
     }
   ]
 }
