@@ -1,7 +1,20 @@
 {
-  "actualizado": "2026-11-17T13:31:16.628237+00:00",
+  "actualizado": "2026-11-17T13:46:27.243243+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "\"La ideología a un lado\": Romero defendió el pragmatismo de Kast en su gira por Asia",
+      "link": "https://www.cooperativa.cl/noticias/pais/relaciones-exteriores/china/la-ideologia-a-un-lado-romero-defendio-el-pragmatismo-de-kast-en-su/2026-11-17/103536.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado Agustín Romero (Partido Republicano) defendió en El Primer Café de Cooperativa el pragmatismo del Presidente José Antonio Kast durante su gira por Asia y sostuvo que su responsabilidad es atraer inversiones y abrir mercados, aunque ello implique relegar sus posiciones ideológicas.\nEl debate se produjo a propósito de la reunión del Mandatario con Xi Jinping en China y del homenaje que r",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-17T13:35:36+00:00"
+    },
     {
       "titulo": "Diputada Jiles anuncia apoyo de mayoría del PDG a AC contra Rabat",
       "link": "https://www.lanacion.cl/diputada-jiles-anuncia-apoyo-de-mayoria-del-pdg-a-ac-contra-rabat/",
@@ -5632,19 +5645,6 @@
         "Elecciones"
       ],
       "fecha": "2026-11-13T16:00:08+00:00"
-    },
-    {
-      "titulo": "El rechazo a la farmacia comunal de Las Condes que gatilló un duro enfrentamiento entre San Martín y Hadad que anticipa la disputa por el sillón municipal de 2028",
-      "link": "https://www.theclinic.cl/2026/11/13/el-rechazo-a-la-farmacia-comunal-de-las-condes-que-gatillo-un-duro-enfrentamiento-entre-san-martin-y-hadad-que-anticipa-la-disputa-por-el-sillon-municipal-de-2028/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Cuatro concejales de RN y la UDI rechazaron los recursos destinados a habilitar la primera farmacia comunal de Las Condes, un hito de la administración San Martín, en una discusión que terminó con un tenso intercambio entre la alcaldesa y el concejal Luis Hadad. El episodio volvió a evidenciar la creciente pugna local: mientras el militante de RN busca posicionarse como eventual carta de su partid",
-      "categorias": [
-        "Partidos políticos",
-        "Concejales",
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-13T15:53:44+00:00"
     }
   ]
 }
