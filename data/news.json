@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-17T21:16:25.373470+00:00",
+  "actualizado": "2026-11-17T21:31:30.608522+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cómo Ho Chi Minh puso fin a la tregua entre el Partido Nacional Libertario con La Moneda",
+      "link": "https://www.theclinic.cl/2026/11/17/como-ho-chi-minh-puso-fin-a-la-tregua-entre-el-partido-nacional-libertario-con-la-moneda/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El homenaje que Kast hizo al histórico líder comunista en Vietnam —durante su gira por Asia— abrió un flanco con los militantes libertarios. Desde la colectividad cuestionaron los argumentos del mandatario para justificar el acto, quien apeló a que cuando criticó a la figura homenajeada era candidato y que hoy, como Presidente, \"representa a una nación\". \"¿Somos consecuentes con las palabras que p",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-17T21:28:48+00:00"
+    },
     {
       "titulo": "Partido Socialista en la dura: Critica gestión del Gobierno y exige renuncias \"inmediatas\" de ministros Quiroz y Rabat. \"Este gobierno no gobierna\"",
       "link": "https://cambio21.cl/politica/partido-socialista-en-la-dura-critica-gestion-del-gobierno-y-exige-renuncias-inmediatas-de-ministros-quiroz-y-rabat-este-gobierno-no-gobierna-6afcc01b398022012a44ee53",
@@ -108,6 +120,17 @@
         "Elecciones"
       ],
       "fecha": "2026-11-17T20:21:55+00:00"
+    },
+    {
+      "titulo": "Servel inauguró el III Encuentro de Organismos Fiscalizadores del Estado - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRl9mRjhjYURHSmwwSDR0QVZ0ajJHbkotemFDODY1bmlpdzJTaGV2UkdRQ1dZOHJTeTQ0X0gtN1ZjYjhhTnVpV2hPSE9PSlpfblh6M2lzcG1CVG5YazFkd2UwdGdLczFSM0NicVowaXZ3VmZIbjhlMHg2N1dlTkRVaURjQVUzb1FlX09uRjRDbTdLcllkTWVVQ1VGalpHUVNMXzF5dW5aM0M3aVAweExkOTc2SllGYms?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Servel inauguró el III Encuentro de Organismos Fiscalizadores del Estado&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-17T20:17:46+00:00"
     },
     {
       "titulo": "(VIDEO) Paz Charpentier ve octubrismo hasta debajo de las piedras: ¿El Gobierno de Kast elude responsabilidades?",
@@ -5627,28 +5650,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T04:15:30+00:00"
-    },
-    {
-      "titulo": "Detienen a \"Chechito\" exparticipante de docureality por amenazas a alcalde de Romeral - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZS1GTFJZOXN1RVdnejlsblc2Szd3LUIybWd1MWthOGVYR1BfLVVFY1pzejZWZ29GSFptNnhoMzdhdENtMXNKS3hHZHRfRzNvTDBDeVluSklfTjhlaXJOQTM5VWdkb0RxNDBxYm9VNnJIWTBJSXdJSHE0UER3Y3Z1OE8zS0VBN0Q3akU4WFhhNk4tOVM2Rk9yUnJjaVczMTdr0gGmAUFVX3lxTFBzaUFuY2ZRdUtwdnlNWHNnbHN3TFVWY2V4RVFKQjBlazB1cE5PbVVqeUprbGFUTFVaR2hPVkhfc0JycnR4ZlhLbXhpMnU3eG9oa19Pck9wdjBBYjNPYVRHeFd2R3FhV2VyLXJkQWVqRzFqWWc3MjBYTldGYTBkdEpkaGtyWXZHUkJYVmI4NlYzUV94dld0anB3WGZsUFJCTGNnYkcxUVE?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Detienen a \"Chechito\" exparticipante de docureality por amenazas a alcalde de Romeral&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-15T04:10:00+00:00"
-    },
-    {
-      "titulo": "Senador Gastón Saavedra dispara artillería pesada contra ministro de Hacienda: “Ministro Quiroz, por el bien del país, renuncie”. \"Usted prometió crecimiento y nos entregó recesión\". \"Este es un modelo de colusión, de eso algo sabe\"",
-      "link": "https://cambio21.cl/politica/senador-gaston-saavedra-dispara-artilleria-pesada-contra-ministro-de-hacienda-ministro-quiroz-por-el-bien-del-pais-renuncie-usted-prometio-crecimiento-y-nos-entrego-recesion-este-es-un-modelo-de-colusion-de-eso-algo-sabe-6af92a0064205b3e73500034",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-15T03:59:28+00:00"
     }
   ]
 }
