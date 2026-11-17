@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-17T22:01:36.269816+00:00",
+  "actualizado": "2026-11-17T22:16:19.859894+00:00",
   "total": 500,
   "items": [
     {
@@ -120,6 +120,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T20:42:00+00:00"
+    },
+    {
+      "titulo": "Bancada del PDG tilda de “tibia e insuficiente” la disculpa de Arenas y lanza advertencia por AC contra Rabat - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzBaODBXaUdQRVVSbWk4ZjNkRWpSVDhWUm1xcnVNY0c2V09ndXBTLWppYjZVYm1BMFpZVEp2OF84RkMxZHhIektBMGoydHU5Q3lsQVBtaDRPV3hlcmI2UG5BS0J4SHJmbHJTRHA3TC1MUDJqTnFNZUdFQUFpdXVWR2dwOGZiT3VWOWV1R1RwYUYwYmgyS21vLW05dHdSRDEycVBULUV0Qk5UMms3ekluRXg2TmVLZVRJd0U1eXJ4aXR3TFdmX09weGNaeTUtTWc3Y3RGUw?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Bancada del PDG tilda de “tibia e insuficiente” la disculpa de Arenas y lanza advertencia por AC contra Rabat&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-17T20:38:34+00:00"
     },
     {
       "titulo": "Contraloría: hay más de 300 funcionarios públicos con condenas vigentes",
@@ -441,6 +452,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-17T18:25:00+00:00"
+    },
+    {
+      "titulo": "Las peleas entre ministros y subsecretarios de Kast no se detienen: al round entre Lincolao y Rossi se unen la de Jorge Quiroz contra Jaime Campos",
+      "link": "https://cambio21.cl/politica/las-peleas-entre-ministros-y-subsecretarios-de-kast-no-se-detienen-al-round-entre-lincolao-y-rossi-se-unen-la-de-jorge-quiroz-contra-jaime-campos-6afc87b403c9ce5c4174e813",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T18:02:39+00:00"
     },
     {
       "titulo": "Las peleas entre ministros y subsecretarios de Kast no se detienen: al round entre Lincolao y Rossi se unen la de Jorge Quiroz contra Jaime Campos",
@@ -5629,29 +5651,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T09:55:27+00:00"
-    },
-    {
-      "titulo": "Test a Alvarado, el giro de Quiroz y un “fantasma” inconfesado: Así se vivió la primera movilización contra Kast - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVTd6RHdPUnZJSkMxSVdzaXJxd0M3M0JfSWRvWjdMazlrTU9jUzc2MF81cUNkVkdGbEVDbUtSVVhyQWZFNnJMMU5INEtVYW44dllIWWNVSUtIanp5WHhSbVRKLVRoMXc5Wnlqa3lVOGd5aFViX0JITlpobW1MUHF3ZFo4U3dZODYwR3MzR1JxbkNfWV9wcmlacW50Smx4N0JBd01LR2hQWklfSmY1NGc1dTNKeWZhOS1PRHIzX0JQamxWVDhsSUcxWTBWeS1UOTdObGxhTlVNSXFvTlhkQjN3dFlJdjU4b2vSAYgCQVVfeXFMUEd1R2N2T2ZZMkt1alNyU3RTWFQ1MlhORzQzS3l2QmpMay03SUlGUlJLZERvT2Vab2pCdTluQnU3T3FSR1pWeE1uZndNTXpOMEFadUVWUTNSQVFFMHBlTy05andPdW1xTVV4Z3QwOUdhT1NsVmpncU1LX0dPVmcwYkw2SlhwSEdQSkNxSTFIV2tFdW1rYWRuNC00enpObzlCSXlXRXZhMFc1akFoX0JxRm9QY1ZGOTZmTE9UelFkcTIxaW5vRnFnbnVUTm9aSnpXdzlSMHhLMFl0aXI2RWpaeloxQ0d1Z3NBbnNxSUtfVXVxd1VKd3NETW9rVzNRWENHX1c1SjBWc0Rm?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Test a Alvarado, el giro de Quiroz y un “fantasma” inconfesado: Así se vivió la primera movilización contra Kast&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-15T09:00:01+00:00"
-    },
-    {
-      "titulo": "Alejandro San Francisco: “El Presidente Kast rechaza la política transaccional con los partidos políticos” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMTIyaXUwaHdUQTVnOXJXdUJlOGsySVRtREtqU09oblZKU2JORlBVcXJXMHJ0dXFZQi1oeDFNV19jR1EzOFZjTzRNem5mV3ZVQXNrQkFPejBTdVA2Q1Z2X3I3UU9Ya2hndHV3WmhjdUhGX200cWlDbV85dWdjWVBHNzI0MXlxUnB1SmhaNTNNMFBHSjlnNVFrUGJzRjkyam9zQkcwcEtxUGlVUy1Gb0VvbzZjYW1UTE4xN1ZsM2cyQlVXNUo4ajhTZ2RMcS1OY0VRRTFWQldxcHVNclNGcFZwZtIBggJBVV95cUxOOVZsdVE0LWFLTkt4anU3dFkwNVBNUS1KbmVXR21HX29KbTFMSUJsQV9GTTlZLTI3WGxsQU1FejB3LVZHNVlYVVI2ai05Tld3TjctMmVYUkhyaU5ZYk5nNl9HeUNKZE5jdmNRcU1faHlFcndFUEFIZlJ5OWtjcHBfaWtndTNwVXZDYWhYTC1ESUhuSHE3RHFWQnZuVjh3am9ueGRzdFdCV2JGa3ktbGh3YjJ5Vm90OXpQSWFMWVY3ek5YQ2FYdGp6MmtpNXpSVjN4UWhwSWE0dlUxVWNaeG9hSmFOSzZxV05lMk9HX1hoNzJwNUNwRmg3cjZYT3RvMFluQ3c?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alejandro San Francisco: “El Presidente Kast rechaza la política transaccional con los partidos políticos”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-15T09:00:00+00:00"
     }
   ]
 }
