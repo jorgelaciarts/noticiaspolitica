@@ -1,7 +1,62 @@
 {
-  "actualizado": "2026-11-17T10:31:28.945902+00:00",
+  "actualizado": "2026-11-17T10:46:16.545381+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "EN VIVO: Diputada Rodríguez (P. Rep.) analiza la contingencia política y nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQWxtaHVrZ0RwX2JOZ1E4ZDEzVmxUUERGTFBCb2lNbU5DTHFDMW5Ub2FaMHRuU3BERFVrS3B4Q1BoT1hnUXU3a2lvWkJIZmRGZHZncDZ4VGN3SnRDX3BDemY4WHJvWDhJMTBfZWxiU1ZsQU1SY3pVeGhadnlNdmszU01PNExGU0VXcGJWWTZyenpzUkxXcnlERWp6cDRQSk9PRWp2WTE1ZUEyczFYelQ3R2RaUmNWbkp0Z1JkN2xn?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Diputada Rodríguez (P. Rep.) analiza la contingencia política y nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-17T10:38:00+00:00"
+    },
+    {
+      "titulo": "Presidente Kast se reúne con Xi Jinping en Shenzhen en el marco de la APEC - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLWVYX0dxTFBsNkhNOElYM2lZWTR1XzhFbFhuQ014NUFsR0x0UFJCb0NKdGUzdmxyMmJvRDF0NFJBQ2pGOVhuWldmOUM2dzZwdWpua0MtdENIZXQ5TDRyMlNITVZuTWFmekNjMjZ0OWpNZWFCbjZmLXZOSnQtNDFHaGZ6LUNtUTdRT0s3aHh1SFVhSlJyOVEyd18xODlZMUVac0lSV0V2V3k?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast se reúne con Xi Jinping en Shenzhen en el marco de la APEC&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T10:35:52+00:00"
+    },
+    {
+      "titulo": "“No ponga palabras en mi boca”: Mónica Rincón protagoniza tenso cruce con vocero de Gobierno en plena entrevista - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMDZMTXlETGtOOGdqOHZlRWRUTW5qNHZOdXZWWjMybmVTZ0ZmODNuVkdBbXl6TzlwVlhJaDd2OW9ZQ2s1eHFMLWt6VjU5bmdZbXVIQVhHMzFVeE9OV0I1WFhCU21HZzVvM2xrRFM3UUFpX1hjTTVHQWlWdUZHMkhBanJrZy02ekJKYnljRDVwQU5yamtXMHlqOFlnZUtMNWVuOVh3UXVhMGJOSVNZMFJSZlJWRlkxUEZ2MzBJRk9ZcldHY3Fodm9ReE5mLXY4cWJnb0xObXJPeHVaQkUydWc?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“No ponga palabras en mi boca”: Mónica Rincón protagoniza tenso cruce con vocero de Gobierno en plena entrevista&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T10:32:17+00:00"
+    },
+    {
+      "titulo": "ClicAM: ofensiva por Rabat, rebaja de combustibles y Kast en China - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEVZcnNKVWlNRWYzNDZxaHAyVjNlWlJtbElOQTBlQ0dUeEcwb0ZWSnNNd2owSC1UVTVRMmpmeE1aSGV2Snk2Y1RLU3QwOTE3eW02cjEzSGxyQzJUbTJGN0JwUlBORDBUWGQ2ZUg0LWRmQnV3M0lOLTAwRFZia0g3d3lIRzVVMXMxR2d0TVZDVEhUc2taNlZTR1pVYlNHYUNpLVgzVmE4Z2d4alhzQXY3ZDF3MEFNbXpJ?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "ClicAM: ofensiva por Rabat, rebaja de combustibles y Kast en China&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T10:31:22+00:00"
+    },
+    {
+      "titulo": "Presidente Kast se reúne con Xi Jinping y destaca vínculo comercial: “Represento al Estado, no a un sector político” - ADN Radio",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUJOYUdGaGJ2bkVBRVZjWGFjZEhiZ0VGb044RElnTHdYb280aEtyOEhpLXhNRHVlNW1vSjFqdUwwYnk1NWYyaGVOZ3VKc0VYcGJxV2k0VmZxQ0ZWNU0zSjFlQzJhd29NY1h6UEJKQWNpcmpaQzFqb2s0UTM0SlR4Z2NFTkU0b0tyQUt2WkF4aFVCVWp0ZlVXbjBUbTd4SkF4cEJuZFRCVHZncWNTQ21lS0hkT1EwSEhXamNnczJMbWVvbnRENHlRUzdfT3BIZERVa1V3X2lIbXNKR2xyUWs4RFZ30gH2AUFVX3lxTE8tclhjcWprMWlJeGRQNVRSeW9yX1RPNkVuUHowcjJlREI5X01ldjgtZFV3ZUVJN29zRk92Z1BNNVhnV0NQOE55MjFTaU05cVNza3ZZWUNPZ2EwX1pFRGJJd0FpVXRLdnloalJFcjVHSlBUcUdMV1g4VTBkMVYyQlBNcHQ4WkxJVnVVZ2tQNFFBQk5HNzZHemZOZTc2Ukw0WGowVVZyS1JTQS0wRjZFSlN4eHFPaDAxZGdOcllDU2pJUDBvb3pmNjh5SWF0NWN0U2E2QW1PalFwZkdkTVFFRktfODRwN0VBaWVFRXNraTYxcGRmZzR4UQ?oc=5",
+      "fuente": "ADN Radio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast se reúne con Xi Jinping y destaca vínculo comercial: “Represento al Estado, no a un sector político”&nbsp;&nbsp;ADN Radio",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T10:25:47+00:00"
+    },
     {
       "titulo": "“Respetamos las organizaciones políticas de cada nación”: El primer encuentro de Kast con Xi Jinping y su mensaje a los empresarios en China",
       "link": "https://www.theclinic.cl/2026/11/17/respetamos-las-organizaciones-politicas-de-cada-nacion-el-primer-encuentro-de-kast-con-xi-jinping-y-su-mensaje-a-los-empresarios-en-china/",
@@ -5583,62 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-13T11:12:26+00:00"
-    },
-    {
-      "titulo": "'Vamos bien encaminados': Cámara de Diputados despacha Ley de Presupuesto 2027 con dos rechazos clave para el Gobierno - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY3pVVjNyWTZOMFNhV0l0ME5MX2pxTDh1MlNBb2diel83dkNleENwdENycnRiRVVkM3F4YWVyWlU1VUJlSURNbDZHRWZTRVpKektkUW9EMEZQTnhpNkdkOGNBcHdaZjd3RUNna2hBSUhldlVMRktfQ2JqU2tvSXk2YXFzbmZTOGgyRmtJZGFNZzZLSGVBV3J2TGMxMzBqWktyY1FuQVlvU1BaQmZCaG5uSEx2WG1JQjNmVUNwQTEyNEtoNFdmeDNmN29keVVMV05hNWtTOFpn0gHbAUFVX3lxTE9QanNWcy14R29URmhrZU9FOW1WTFNxdlFnVm8tRHI1RVAyNUJBNnJLeDJMcE9zZm8zZnFXNElYZDFyV2dWRzl5RzZHenJsdGpRblFPYkt4NElPNFhhSmNQZ09PTG9kbGt1WFJkcVVoZzQteUlOeDZvRGNGa2doekxiVk8weXlfZlFvUDlHVHVCUWt5VHNRSGRLM0VBenc0dTBOeXlyRThPajdlbmlCb0NTempKb3F6N0c0YTNqbF9Ib2c0NXlHQ0VLeVpFTHlhdEpPamVnN2lHWVI3OA?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "'Vamos bien encaminados': Cámara de Diputados despacha Ley de Presupuesto 2027 con dos rechazos clave para el Gobierno&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-13T11:12:00+00:00"
-    },
-    {
-      "titulo": "Porvenir: alcalde sigue sin ser ubicado tras orden de arresto por incumplir fallo judicial - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOc3FPTktzV1lwSFQwVkNkVkxReV91ZS1ueXNYOXN4U0xkYUpBNlg3cFhSdFVFdDdEUTZPVmREd2xlVVBCVkxjbm9XRWh0RzRZblNKRU5EYVNOQmFwcmhrSWJub0tHekc2d01ZMExHLWNTNXhySE9pYm9Nejd4OWlOcXZ1eFBCM2lVaUJqMS1PTXFiWGU0QndhSW1NblBXaEtnSElXbk0xWlpBSERiRjlVc2NDM2lqY0h6S3JWaHZwbUQwWlpqdldnZXhuVWhZVm16VllWcVBNRzg3aG5sTFdzMExCSHZPdm1lbGdlckVzQ3NpdTBfVGFWRDlQY1E1blU5eVE?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Porvenir: alcalde sigue sin ser ubicado tras orden de arresto por incumplir fallo judicial&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-13T11:11:00+00:00"
-    },
-    {
-      "titulo": "Alcaldesa de Valparaíso, Camila Nieto, viajará a Asia y participará de gira del presidente Kast - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcW1NdUpEWDl6aGVKRDlVbTAyQ1ZrSTRpTW0zZkxteGx6N0x1ZV9zN25WVzdlS0laeUxwT1E4RnRLZjlJU0JKdS1oeFhPZzg2SDQ3SUlSSkVBZVBLMDEydEx1UTdvMFlycnllYzk2TWZQT1pwU3VKb2R3a0dPazQ2RHRxTDI4Q3lMY2FIRnMzU1dZYWt5azlzN1lNRjNVT1Y1bFExbXZSa0NadW9MQVJuVUNTbVp6R0ZyRFJnM3lOdWtUSmMta3lFWU5KZDRLZS12RzlPYXpZYVp4bGZuZ05VemVvREtwU0ZvcERjYjVDUGZTNkZTcVBWWHRXbUwwSVNZdFJtYWdGaw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcaldesa de Valparaíso, Camila Nieto, viajará a Asia y participará de gira del presidente Kast&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente",
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-13T11:01:53+00:00"
-    },
-    {
-      "titulo": "Tras maratónica jornada: Cámara de Diputados despacha Presupuesto 2027 y gobierno pierde siete partidas - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTUJxMXJLbEFfbDVsUFJuN0xtY3ljazJBaWM2WkM3UEQxdnc3S19jb20tMThSVmM3UnBfNFg0aDFGR3hBeVVmX2tzYl9BM193d3NtTEdabEhZY3RaLXNNRUMwVC05aFdncWNDUjJkMExXbTZwaVB3enJVeEpYMzgzWnEtV0xma0tGbmpYM1BtRkI1Z1hySG1QWmhOQWl6NzhOamc1UHJ4UVBnbHBkOE1Mai11dEUwRmlrRzRvT1gxdVQyLXZwMkR4c0pLVTBpX0VScWZWS2Q1YTlta1hyYmZF0gGAAkFVX3lxTFBtTG1mUEo3aUNJVkxQRHJqN29ET0ZGcGdVY2hFWFJ3eTlsMDUxaGxFLTBaNTdJOTNBV29RNzIwVE14YXg1dFk4MVFrR1FuT2NnVEVwa1NaaE1DaWFUcnhka0U2VEYtdWg4ZnptbS1xMW42OHFqcHc5ZlU1NEdDTnQwY1g1ZHdMS0FyYWNPdjh6ZHZFNzVDbkFacWJ0SHFITXEyaXJSLUhOSzMwU3FDUlJLRHlPY2E1MlpDVkE3YUIzV1M4RjNkMjdVRm82TWNMb1ZCc04yd3JoUndRUE5vQkRULTNOUUU5TG45UVlYVVNLN056WDlWajBKMkhzbDZrZ0o?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras maratónica jornada: Cámara de Diputados despacha Presupuesto 2027 y gobierno pierde siete partidas&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-13T10:40:30+00:00"
-    },
-    {
-      "titulo": "Cámara de Diputados despacha Presupuesto 2027 tras más de 21 horas de discusión y proyecto pasa al Senado - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSGVzT3BRSDRzWTBSa0FxYjJpTzBnalVzX1VLeXVFQUNoWm9hTXRSVFV3aTJma3d1ekswUTZ6ZWhaa25xa2p3eFB2MUpFVFpiSEwyQnBSY0RHVDhkcEl3Rzh6bVcyZjJibmI5QzVXdEZHVjQxMDFQRjl5ajNtVjJoU2RFZ1JiWko2YThTZlVSLURHYUFZOURpSWxPcXlpN1pYZllwSWRKbGNGenZ5TV9rb1ZvdWxnWkpuYXhOR1dyNF8tUUdNN1dMNWtnU0lORzlpWmV6SFREUUk?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cámara de Diputados despacha Presupuesto 2027 tras más de 21 horas de discusión y proyecto pasa al Senado&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-13T10:33:39+00:00"
     }
   ]
 }
