@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T01:16:17.108342+00:00",
+  "actualizado": "2026-11-18T01:31:27.963373+00:00",
   "total": 500,
   "items": [
     {
@@ -68,6 +68,19 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-11-18T00:10:56+00:00"
+    },
+    {
+      "titulo": "Voluntad para Chile busca constituirse como partido ante el Servel",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/voluntad-para-chile-busca-constituirse-como-partido-ante-el-servel/2026-11-17/210607.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El nuevo partido de izquierda Voluntad para Chile inició su proceso de constitución legal ante el Servicio Electoral (Servel) con la presentación de más de 150 firmas, en una actividad que reunió a su directiva y marcó el comienzo para avanzar en la conformación de la colectividad.\nLa presentación fue encabezada por su presidente Álvaro Ramis, exrector de la Universidad Academia de Humanismo Crist",
+      "categorias": [
+        "Servicio Electoral",
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-18T00:06:07+00:00"
     },
     {
       "titulo": "La Moneda en alerta: Arenas abre flanco con el PDG en acusación a Rabat y no logra contener las críticas pese a disculpas - La Tercera",
@@ -5640,18 +5653,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T13:56:55+00:00"
-    },
-    {
-      "titulo": "Presidente José Antonio Kast llega a Vietnam e inicia su primera gira por Asia antes de participar en la APEC - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcGgyRFc5WC1NclpzazBtb25fWEpKeEhONl9ZUTMtSy0wSFh2XzhEdUVkM0VHSE82Y0ZWOXdVZUNRTS1vNUJ0NWpFY1JxRXJjM25ReUtEeTl1MzJITjJ3b1Z0Vkt2cS0walBmelBya290T094N2lURVNfU0h4VHRubjNyaVREcEtCOUpxZHNvcG1PWjF6N3dHWDhWaEJSX29GWFlwTzljY1p4b1h1NGRaZTFsRkNIT2NiSkVub0pvY0FJRXQtRnlyR0EyM1ZmYTFEcHBkMURWMXNxbzdSenlYT1k3NjFYWElrZ05JY2ZwMHZpTEsyQVhvLTFZMXpmdw?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente José Antonio Kast llega a Vietnam e inicia su primera gira por Asia antes de participar en la APEC&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T13:52:43+00:00"
     }
   ]
 }
