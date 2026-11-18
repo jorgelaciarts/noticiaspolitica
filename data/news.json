@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-18T06:46:11.080408+00:00",
+  "actualizado": "2026-11-18T07:01:24.032091+00:00",
   "total": 500,
   "items": [
     {
@@ -2517,6 +2517,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-17T00:54:43+00:00"
+    },
+    {
+      "titulo": "Caída en encuestas impacta en gira a Asia: Senadores lo atribuyen a ministros, pero Kast asume responsabilidad - Emol",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3JRMlBXRktGR1RhT0dHWDJhRUZSUlVhclBSeFl0ZGVoNEtxcWttWDRPaGVzaXBWa21GY0RuSjZGLWxhaXBHaXhoanRxM0h3RU1tQWlwLUZtU1J1elIzWHFQWmNuOG9jbkpfVWV6bk9KWGRVYUpCRmY4UHhZRExqRThtYjVORF9MOUdwZDJqUGhZWWNEQzhzSTliTWlKeURIMmtJcWdn?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Caída en encuestas impacta en gira a Asia: Senadores lo atribuyen a ministros, pero Kast asume responsabilidad&nbsp;&nbsp;Emol",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-11-17T00:45:00+00:00"
     },
     {
       "titulo": "Con votos de la derecha: Cámara rechaza proyecto que entregaba permiso laboral a cuidadores de personas mayores de 18 años con enfermedad terminal",
@@ -5639,19 +5651,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T15:10:28+00:00"
-    },
-    {
-      "titulo": "Parisi advirtió que en el PDG hay tendencia mayoritaria a apoyar la AC contra Rabat",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/parisi-advirtio-que-en-el-pdg-hay-tendencia-mayoritaria-a-apoyar-la-ac/2026-11-15/121022.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El excandidato presidencial y secretario general del Partido de la Gente (PDG), Franco Parisi, aseguró que existe una mayoría dentro de su colectividad que apunta a apoyar la acusación constitucional presentada por la oposición contra el ministro de Justicia y Derechos Humanos, Fernando Rabat, en medio de la controversia por la rebaja de condenas a personas sentenciadas por delitos sexuales contra",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T15:10:22+00:00"
     }
   ]
 }
