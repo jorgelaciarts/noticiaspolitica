@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-18T01:01:31.919308+00:00",
+  "actualizado": "2026-11-18T01:16:17.108342+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) Senadora cuestiona al ministro Quiroz por omisión de fondos en el Presupuesto 2027",
+      "link": "https://www.elciudadano.com/reels/video-senadora-cuestiona-al-ministro-quiroz-por-omision-de-fondos-en-el-presupuesto-2027/11/17/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa senadora Daniella Cicardini critica al ministro de Hacienda, Jorge Quiroz, por excluir US$150 millones del Fondo Autónomo de Protección Previsional en el Presupuesto 2027. Esta decisión contradice el respaldo de Contraloría e impacta negativamente en beneficios solidarios de pensiones, especialmente para mujeres. Cicardini advierte que el conflicto refleja una tendencia ideológica ",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-18T01:15:10+00:00"
+    },
+    {
+      "titulo": "Presupuesto 2027 llega al Senado con siete partidas en disputa y exigencias de Ñuble sobre la mesa",
+      "link": "https://ladiscusion.cl/presupuesto-2027-llega-al-senado-con-siete-partidas-en-disputa-y-exigencias-de-nuble-sobre-la-mesa/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Presupuesto 2027 aterrizó en el Senado lejos de la tramitación expedita que esperaba el Ejecutivo. Después de más de 20 horas de discusión en la Cámara de Diputados, el proyecto cruzó al hemiciclo de la Cámara Alta con siete partidas rechazadas, diferencias que todavía deben resolverse y una negociación que obligará al Gobierno a [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-18T01:03:07+00:00"
+    },
     {
       "titulo": "Rechazan presencia de empresas militares israelíes en la Exponaval 2026: Advierten posible vulneración de obligaciones internacionales de Chile",
       "link": "https://www.elciudadano.com/chile/rechazan-presencia-de-empresas-militares-israelies-en-la-exponaval-2026/11/17/",
@@ -35,6 +57,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-18T00:11:59+00:00"
+    },
+    {
+      "titulo": "Senado aprueba recursos para los gobiernos regionales, Servel y Energía en primera jornada de Presupuesto 2027 - La Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPU1ZyenhUd3BqYlZmWExLbW91NDdRZEtkNml1X0xGXzJscktEc3FUSk5zY0RDZ1g1UFdyNEVPd3BRM2dacjl0UFdvU3hteUc4c2NwWmRadG9PM1pMdGp1YlBTb2puNUtPSzl6RW04WFlaYWkyRFJYSkJIRjQ0WEF0aFhQcUpRMWRQTVRBQUw2aVAxMVRGMDN6WjFhVFp3aFpuUVpXNlg3eFRKdGY5OWFEOTcyZkZnMGJmdEtaSEhqNlZmVl8wd1BuVl9IVmNHS3dYWUJkMkZnYjFRWWtnTW5hcXRETzFTNkFMa19BcmR4LVbSAfgBQVVfeXFMT2FzMHVJaXBaVlJhV2RDWjVrM0pNMWVVVlF3TEhGQ3BLWkpsbHh0c295aGtkOVJvb0NiOWloTk5mMzUxZmF4NUtCNDV0aFlwb181dFMxREpCa2wxcEZOd1g4MVc5VEduWlBYaHkxR21yXzZlWE5UN19iSHBUZW53M2lMcFJMcHdhTF9IaHlPT0ZSalQtQ2RDdGV1U1FlUEpnSWltQjFlSHJ1ZEFJYWktT3o4NE5BRWZ1T1RYZWhvVlQzUTdxellwRHdBdWVrcXlycHFadjhMRWNmZjZ4aVVLMkRSRDduVlphdk9PWWJSWWtkaDRaU1pRQ2c?oc=5",
+      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
+      "region": "Biobío",
+      "resumen": "Senado aprueba recursos para los gobiernos regionales, Servel y Energía en primera jornada de Presupuesto 2027&nbsp;&nbsp;La Tribuna",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-18T00:10:56+00:00"
     },
     {
       "titulo": "La Moneda en alerta: Arenas abre flanco con el PDG en acusación a Rabat y no logra contener las críticas pese a disculpas - La Tercera",
@@ -5619,39 +5652,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-15T13:52:43+00:00"
-    },
-    {
-      "titulo": "Núñez (RN) anuncia rápida tramitación de rebaja de combustibles para camioneros - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcTJrbjBTNE9fNHE1aDZaenR0XzA1bjJ6SFZLQnE0RDZmeUduQUxkejRyYXNaZDByM1NiMFhidm5TUHZ5MmFvWHRWZWQ0MnI0ODRiaGI1QlVLWnd3XzF5eWNQOUJ5RHVRaHA5Y2dNVkNmZndrM25hdGw5NHNJcUY4dGhnQk5WNVJIdi15bGhHSzk5QUM2WEUzWjdCQlZ2QjNiYW1UeklxbndfS05WdnJVckx5NA?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Núñez (RN) anuncia rápida tramitación de rebaja de combustibles para camioneros&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-15T13:39:35+00:00"
-    },
-    {
-      "titulo": "Criteria: Aprobación a Kast cae a 18% tras semana marcada por paro de transportistas - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlFVbE8xQmhWQ3BtNFEtUHFlVnZFeFFNU0VSdlg1R0JoOVY2N3RWdjVyT1JCcEM0bFpEQ0tMT2hDU3E5T3Q1YkpJa0VLbUQ2SGZ5b3dFSUVXR2g2UWpoTG9BNU5DSWxCQ01sM29ZTGE1N2g3eUdZQ2cwZS1SWmc1T3JXNUFlX3dPZlNlYWZHR0pjLXl1Y3AzbUZtbkdkSmVqbEUtS3JxNmREWW9nMXhtOHlabDlKQW9VQmlNRFgxdw?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Criteria: Aprobación a Kast cae a 18% tras semana marcada por paro de transportistas&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-15T13:30:00+00:00"
-    },
-    {
-      "titulo": "Kast llega a Vietnam en visita oficial antes de su viaje a China para la APEC - Diario Financiero",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcDBGOUFjLWtaZlEzYkYwZVV5dGtvdWF5bEE5ZEJyTHRkTm1ULUg2ZFZsTUFUVHctQVBMV2wzeXprZWNBZTFlYndHRWI5amR5Ull5bXdmR19mQmVrUHJ4eEM1ekY2Z2h6WVRtRnpKbm1nM2lyWWVIUHRSRllCRExsMkphUzFZYnJLcVU5Q0V3c19jNC0yYzRBUnZCbWZzajNTSVptamdVajRMaHFwWVJ0c0xWcU0zZEpqNWY0?oc=5",
-      "fuente": "Diario Financiero (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast llega a Vietnam en visita oficial antes de su viaje a China para la APEC&nbsp;&nbsp;Diario Financiero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-15T13:26:00+00:00"
     }
   ]
 }
