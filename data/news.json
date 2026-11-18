@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-18T18:46:25.451857+00:00",
+  "actualizado": "2026-11-18T19:01:29.580446+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Falta de quórum en Concejo Municipal pone en riesgo proyecto de agua potable para 400 familias de Las Mariposas",
+      "link": "https://ladiscusion.cl/falta-de-quorum-en-concejo-municipal-pone-en-riesgo-proyecto-de-agua-potable-para-400-familias-de-las-mariposas/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La frustración de los dirigentes vecinales marcó la jornada de este miércoles en el Concejo Municipal de Chillán, luego de que la sesión ordinaria debiera suspenderse por falta de quórum, impidiendo la votación de la adjudicación de un proyecto de agua potable y alcantarillado que beneficiará a cerca de 400 familias de la comuna. La [&#8230;]",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-11-18T18:56:38+00:00"
+    },
+    {
+      "titulo": "Comisión de Agricultura de la Cámara oficia a Kast y pide su intervención para que Campos se disculpe por dichos de exportaciones - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX0I2RDRhN1RsMnBJT2lVTEo4QWRLZkFPbHFKeEZtZkx2SWNDa1hRTkdhLXZRZEUwalNFN3JZQWFxOE5CeTVRX3p0U0hIZS1lbXlmdlN1X3AySHZydFA0MzJYVkUxSTgza2g0MGo2VDc2RV9iVEN2bzRDTzFnSVpYNXh1MXZfc0JCMFp2akcyazM1UndJVGZiU0dheUpaNWlaQWMtV3ZzY1RqaDNKYTZBeGh4NFB6cV9FRkpHWHlHUHlGOEV3ekNRam42VlU2YmhGZlVzSzBmRVpiNlU3OFlLRTZhTDNrNXVmYkd2Rlg2SklWd25NMzlxcWlEWC1wNmFsVjJN0gGkAkFVX3lxTFBkOHlvYnViMDRpVE55czJzWWZtTW9USmdDbVZLOGE3TWc3WWpGb2tsbjdxMUlBdk5lak1HRS1oc0xvLXhTTjV5aVZSRUpuMmZXeFgza25ITTl1cHZkbXloU2d5WFROVm8zTW8td0lLbXQxVW9mM2t6b25zcG10WUFpQ2EwVzA4YmQ5VlVUN1VhOGsxaDRYYmoycFR0bDR5d0MyRTMyenZOMk8yUGs5WmVwejhMTzBmN1l4REtSd196b0cwQkYxcTM5amV5bHlqSk1saTB0R3JDbEFFMnJGRHpRTlBQbkdQTjNfTWJjSjgtQnp5ZmlmclFGRzZ1ZUN5NkdIOVg4dkxKVXpYQjcxUG1lWWZWQncxSGM0dXdmR2dJQXdldm8?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Comisión de Agricultura de la Cámara oficia a Kast y pide su intervención para que Campos se disculpe por dichos de exportaciones&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-18T18:52:34+00:00"
+    },
     {
       "titulo": "Director del Museo Nacional de Bellas Artes de Argentina aterriza en Chile con conversación sobre las contradicciones del arte actual",
       "link": "https://www.theclinic.cl/2026/11/18/director-del-museo-nacional-de-bellas-artes-de-argentina-aterriza-en-chile-con-conversacion-sobre-las-contradicciones-del-arte-actual/",
@@ -168,6 +190,17 @@
         "Elecciones"
       ],
       "fecha": "2026-11-18T16:15:00+00:00"
+    },
+    {
+      "titulo": "Entre OpenAI y las críticas del vocero de Gobierno: Lincolao niega citación de Alvarado a La Moneda - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQXZkdS0wd0VWeE4xVWYtMF8wdzJxZDQxZ3JCODJVLVd1NS1FVXVEQ3lxaVhRRXA4dU9iVlRLZTl3aEdtcGlXeEFqN3Awc1otS3RGWFZMUDU2MFpvcF83NjExUkxfUmZiMjNEZEpia25hRGc5YmRWbGNsZEgxbU5LX096WkxLel84bXNKcWpiVEQ0N2l2QjM0Q28zVDdUSDdqRUxjaGNCTmxPSHZFa2ZyRWNmYk9mWlYzZjZSWUd1eFFMM0xmdU1Nb01PX0JfMHJwYnU2bEJMdHA4Q0tyZ0xkeXh2UjlFUnYtSE5VcG5VZERfTXBvMGxNcWtR?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Entre OpenAI y las críticas del vocero de Gobierno: Lincolao niega citación de Alvarado a La Moneda&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-18T16:14:08+00:00"
     },
     {
       "titulo": "El patrimonio del jefe del segundo piso de La Moneda: 49 propiedades y más de $2.000 millones - El Desconcierto",
@@ -5610,40 +5643,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-16T13:06:33+00:00"
-    },
-    {
-      "titulo": "Formalizan a concejal de La Serena por presunto acoso en la Plaza de Armas de la comuna - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaGFqdkV1eXgtdzY0WDhreVM2bGg5a1pzODMyaWFGZTM3ZXNaQkk1Q2diQXdDaHlKNXZPWlJFM0R4bVpLWUtXd1d2aTBQWDhNLTFhY3FqX2ZNZG05OWNldGJNdF9uOEVvdTAwTXVRNnJCVlliRGtxNGxEMDZWN1ZFTDdiWGNwQmpWbXpWNUtfeXVGQUhtV0hBQ2pB?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Formalizan a concejal de La Serena por presunto acoso en la Plaza de Armas de la comuna&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-11-16T13:05:13+00:00"
-    },
-    {
-      "titulo": "Declaración conjunta: Kast y Tô Lâm anuncian decisión de elevar relación de Chile y Vietnam a asociación estratégica - Emol",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd2VxVnFkMXliV1o0R0xQdFVtdVdGZkhnamJIUW9zbmRSUDRINXdwQ05qZ1ZacmxQclRISkFERTNmMzR6OF9WelU5N19KMmRYREl3eHhqMXdLZExYa2pUVy03bGNSSi1YSE9rQ25Eck5wS1EyeHI2TzBoMzU5OGxDWU9HTDJxVHdTYURrSDc5eEpERWlpeTJTZGpaYnl3RzB0aDRndTlsMnA?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Declaración conjunta: Kast y Tô Lâm anuncian decisión de elevar relación de Chile y Vietnam a asociación estratégica&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-16T13:00:59+00:00"
-    },
-    {
-      "titulo": "Pamela Jiles adelanta la postura del PDG ante la acusación constitucional contra Rabat: “Nos gustaría que la bancada completa la aprobara”",
-      "link": "https://www.theclinic.cl/2026/11/16/pamela-jiles-adelanta-la-postura-del-pdg-ante-la-acusacion-constitucional-contra-rabat-nos-gustaria-que-la-bancada-completa-la-aprobara/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La diputada del Partido de la Gente aseguró que hasta el momento solo dos de los once integrantes de la bancada están en duda, mientras los otros nueve ya resolvieron aprobar la acusación. Pese a no conocer aún los argumentos, Jiles advirtió que ya \"hay base sólida constitucional y legal para aprobar\". \nThe post Pamela Jiles adelanta la postura del PDG ante la acusación constitucional contra Rabat",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-16T13:00:20+00:00"
     }
   ]
 }
