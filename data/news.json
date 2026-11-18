@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-18T10:01:23.876100+00:00",
+  "actualizado": "2026-11-18T10:16:21.189858+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Ministro vocero de Gobierno Gonzalo Arenas afirma que el buque  Danstar debe solicitar permiso para navegar hacia Malvinas/Falkland",
+      "link": "https://laprensaaustral.cl/2026/11/18/ministro-vocero-de-gobierno-gonzalo-arenas-afirma-que-el-buque-danstar-debe-solicitar-permiso-para-navegar-hacia-malvinas-falkland/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "Varios traspiés ha acumulado esta semana el ministro vocero de Gobierno, el gremialista Gonzalo Arenas, quien llegó al cargo con la misión de ordenar y solucionar los problemas comunicacionales del Ejecutivo. En entrevista con CNN, cuestionó la forma de hacer política del Partido de la Gente, en medio de las negociaciones del gobierno para evitar...",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-18T10:02:31+00:00"
+    },
     {
       "titulo": "Abandonan mil litros de aceite quemado  y 31 baterías en el Parque Chabunco",
       "link": "https://laprensaaustral.cl/2026/11/18/abandonan-mil-litros-de-aceite-quemado-y-31-baterias-en-el-parque-chabunco/",
@@ -56,6 +68,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-18T08:54:29+00:00"
+    },
+    {
+      "titulo": "El dilema del PDG frente a la acusación constitucional y por qué toma fuerza la libertad de acción - El Líbero",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdTNSVEt1aG1HbFFtV3BpMHhGTmlHSzFGdlNfMzRqUll2aGl1aEdTRnhCeW45aF90Z3JmV05sWUNrbVNiYzhYQ09TMWJyVG5Oc3dfQ05VLU9nd0ZPcTdnM1Z5akdDTmdzTUo1WE1yOWY2WUIzcUdqNG5WRmR5QUNCNHBmdHhWS3VubW5tVXd2WnVKbmdoMXFEY3E5ZnhzaWw1OFJrQm5xQXZOWXpZQUdHR01vcW51SnJEVHNVM19JSF9XcWdvZlBnbFFB?oc=5",
+      "fuente": "El Líbero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "El dilema del PDG frente a la acusación constitucional y por qué toma fuerza la libertad de acción&nbsp;&nbsp;El Líbero",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-18T08:00:00+00:00"
     },
     {
       "titulo": "Embajador chino valora reunión entre Kast y Xi Jinping y evita referirse a controversia por el Tratado de Alta Mar - La Tercera",
@@ -5628,28 +5651,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-15T15:43:18+00:00"
-    },
-    {
-      "titulo": "Vocero de Gobierno descarta influencia del Segundo Piso en las decisiones del Ejecutivo y califica cuestionamientos como “un mito absoluto” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTTBIZHFBMEJUcW1oanhlOEd5Q2lGWFdOZTNjRmE0UmNCajBJTzFNRks5RmRoYmRmU1hSSndtUWlMMkJUekhUQlktZjduaGhUWl9VTkk2MXpyalRPNEdRMFhrV05VbUsxWmV0aF9lNjc0cWNNYmVLUmJoWnhzVExlcm1yLXBlemJiUXdIOVVwTnF0YlYwYnBPSVRqMEFBRkt6WnFiU0N1VjJ5aU1FWkUzbm5lQXJNbC13YTFOa1VIaWdseEVhbG1tdTdsOTZiblZELXp5ZlR0NWlTTWFlV1JhZU9BTTVrc1BuX0N3bFhwc2pKX1FUOXBVY1ZueXc?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Vocero de Gobierno descarta influencia del Segundo Piso en las decisiones del Ejecutivo y califica cuestionamientos como “un mito absoluto”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-15T15:36:21+00:00"
-    },
-    {
-      "titulo": "Guillermo Ramírez admite momento difícil del Ejecutivo: “Para que al gobierno le vaya bien es necesario hacer una autocrítica” - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa2VWNk9KaUo0X1F6SzI5TDFwZWNBb0VFUU1iUXFSeG1ibUlpYV9IX1hFT3JvSmFxSUIxSVVPSTc1b29IWEFObi1RUlpJenpYdTRFRW5NV2U3M3R3bkNDWEFBOGV5SjlYbkFKdWp4WUxtUzQ5SXladHRTa0hkeGdUc2N6OUlHa2hIa3phX3M4bkRjZjRsWDdlYVBkYmk0Zw?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Guillermo Ramírez admite momento difícil del Ejecutivo: “Para que al gobierno le vaya bien es necesario hacer una autocrítica”&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-15T15:33:00+00:00"
     }
   ]
 }
