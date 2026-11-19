@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-19T20:16:20.338079+00:00",
+  "actualizado": "2026-11-19T20:31:21.400214+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Essbio reconoce rebalse de planta elevadora en Chillán Viejo pero descarta vertimiento al canal",
+      "link": "https://ladiscusion.cl/essbio-reconoce-rebalse-de-planta-elevadora-en-chillan-viejo-pero-descarta-vertimiento-al-canal/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Una denuncia por un presunto derrame de aguas servidas hacia un canal desde una planta de elevadora de aguas servidas, se presentó en la última sesión de concejo municipal de Chillán Viejo. El caso fue planteado por el concejal Francisco Hernández, quien señaló haber recibido un video de una vecina que mostraría la situación y [&#8230;]",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-11-19T20:26:49+00:00"
+    },
     {
       "titulo": "Partido Republicano pide a ministra Chomali frenar financiamiento público de tratamientos hormonales para menores de edad - CNN Chile",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOd0lvdjg0V2lvanNVaWNTYldCUTVYeUo0cXF6UDYtdnVoY2JhVHJRNjZUSTJfamlVazV2aERSLXJGZXY2OWpaU1Zhd3F6NUdIZ3p3aFRNYnc5Q0VZNkdYUnVWaVlJZHd0cEc3M01MTDRqcWE4V3dNRXBEMjFtYWVGYnk5SndIaXFPU2pvaW9BcGFUYXpjcDMwNkk0RVlWc2Zzb1lMS1JEWUFTekU1LWRTY0I2M3hxZmxkYUZKSkRwcTFUNVF1Z2kxeUZRNG9vMWZqWVFFVFNYQ19KeV9FSFJNY1B3VV93Mnc?oc=5",
@@ -12,6 +23,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-19T20:02:13+00:00"
+    },
+    {
+      "titulo": "Funcionarios a contrata se tomaron la Municipalidad de Quilpué en rechazo a modificación presupuestaria",
+      "link": "https://www.cooperativa.cl/noticias/pais/manifestaciones/funcionarios-a-contrata-se-tomaron-la-municipalidad-de-quilpue-en/2026-11-19/165047.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-19T19:50:47+00:00"
     },
     {
       "titulo": "Las últimas horas de Carolina Rossi en el Ministerio de Ciencias: un último correo a Lincolao y una carta de renuncia lista desde hace una semana",
@@ -5622,28 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-17T10:20:58+00:00"
-    },
-    {
-      "titulo": "Presidente Kast sostiene encuentro bilateral con Xi Jinping: “Represento al Estado, no a un sector político” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcDI5ams2V01HOVVxdUZZb0lMMUdTSmdrUXg2Z1FHdjNLb19KcnROaGpDekVuVGRvVzNKMWsteTZqdVZKaG5yQXNJVzdfclY2Ql84akNiTE5BQUE3Vi03WTZaR3ViNUNXTjQ5TmJqSU9SY2Q4XzZ6TEg2QktZM0UxOFFxRk5Ea0h2Wnk5OWY0MzZRZWlDQWMwOGVKNXZQX1J0eGxXZERDa01ENldNME1RZUI3LXdUS2pfM1VtZ1UydkNvWUc4UDdTRlFxSS1ta3QyVDNVLTlISVVic2ZYdVVFaHNB0gGDAkFVX3lxTE5yMzlvTGNaVHlSQXBpTE92X21KbHFLNUxuXzNRZURjLUxKVVg5X0RZVzJJMzlGSVNZXzI5Vk1GTklCWi1oOTV3bEpwcmRkdHdSOHE2enoxNjVJS1FvMFV1MWR3YUpmTTlDbXZ5UjV6YkdJd3RlUTROUmc4aWd2amRwMFV0Szd3RTJCUEFPVE41eDhMWndvU0RzSTkyWWRYamljVVl1cEIyNWltcWlLbUFxWU1udGxmRjdBaXBkOWNwQTV6dm1mdlNObHFrU1J2cV9DZlViXzhSckEydGl3bThBX3RpeTE2RjQ3aU9Uc2RfN09PUkNjVjBqYldYQ184R3haOFU?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast sostiene encuentro bilateral con Xi Jinping: “Represento al Estado, no a un sector político”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T10:10:16+00:00"
-    },
-    {
-      "titulo": "“Sin desarrollo nada es sostenible”: el mensaje del Presidente Kast en China sobre crecimiento económico y medio ambiente - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPN1dNM21QVFQxVE5wZHpJLThNQURZTDgwYXZqdE90b1YyNVMyVDR6eS1lUFg2TXN2eFEybHNtUEFISUJGODAtWTEyVmwtMzJueDhOZzRTSG9ubGZZdWdSdjJRMU9rOEotZHU3allGMUlnSC05RWhqLVBkOUhpMF81Y1ZJVlFPMHFGQUZKOGFkZDVSbzdvTEhfSktLdURxSTM4T2J1R1V3TWR1S21GRUxLLTBEWDB4U2EtS3VHbWZZdGF3NXlRQVlMOGRuX05WUkxvdHU0S3M4U0ZjMWx3djBmMW9uck1VMklhZWfSAf4BQVVfeXFMTllNVWF2NFVnWFZkdk9iQTg4aHVtZC0xTS1mQklaV0YxSHBqdzlMdnlMY1FXSE5NSHpZZkVBY0xPSEY2RThDZDA4b1JFQVdfVTk1Y1hlc1FVa0htUnBZYWlDVFVZNEJNeW4tLWhvN0YyLWVmaXpiMnBXQnZIWWJYcEFxQ3VHWU9jNTZKUS13MlF2cWI2QTFIODRfbzRXZDFSSTdNbGdKWW9XbWM2UHRYdEI5WmY5blNiTWJHckpWckdqLUNjaGNsRXBSd2xSTVZhZy1VcVlqQThuczlaeERXamdOSFhVZWFDSm9CYUlvdnpTdFBxQjd3MVlGR1p1V3c?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“Sin desarrollo nada es sostenible”: el mensaje del Presidente Kast en China sobre crecimiento económico y medio ambiente&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T10:07:14+00:00"
     }
   ]
 }
