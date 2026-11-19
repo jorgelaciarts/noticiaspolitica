@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-19T22:31:25.421729+00:00",
+  "actualizado": "2026-11-19T22:46:14.807094+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "\"Estamos cansados de que se cuestione todo\": Gatica arremete contra concejales tras denuncia por festival - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSkd0cGdGZmZBb0VvOTUtb3cwTUFLOU44UlluUTlZN0paQkstbHFHa05jZXcxUWt1MGh4NzJwUzBLN2kxRmpmUWtCUkY0OURzUVZmakRMR0U5ZHEtaTNUSEpucmVXMlJ5RFE2dUpLSmNOMExRT29WVmRyU2MyNHAyWGRiRXhTOVd0aFg3MU14bnJvYmM3eEhNV09HMW1PVzZwYUE3MEhfMWx6eHFqbDdiLXVVVHVac28zMU5fWjAybHc5czNTZUZqN2o5N256SHliLTJ4Ympfc0pRRXU2ejFRTQ?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "\"Estamos cansados de que se cuestione todo\": Gatica arremete contra concejales tras denuncia por festival&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-11-19T22:31:14+00:00"
+    },
     {
       "titulo": "Sigue crisis en Ministerio de Ciencias: Subsecretaria Carolina Rossi renunció tras polémica con Lincolao por despidos",
       "link": "https://www.elciudadano.com/chile/sigue-crisis-en-ministerio-de-ciencias-subsecretaria-carolina-rossi-renuncio-tras-polemica-con-lincolao-por-despidos/11/19/",
@@ -124,6 +135,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-19T20:33:50+00:00"
+    },
+    {
+      "titulo": "Presentan querella contra senador Juan Luis Castro por presunta falsificación de firma en el Senado - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1dSRnBwY3ZSSkdtRHlLaEZENnVVRGdrWkRGbVpyQ1ZaQ3pYVU9TVnJXeWZJMDNOdjR2TU1OT1FBZHAtaGN4SnI2ZGpoVmZHRDU1ZDQ1MXJNZk1pRDRNM1NQVmRkT3NfcjhmOHVKUWRIaC1TRW1GU1RNbmlkTlc2dE5kV25OZnJueUtSLUVEeXBFejBxdXNoQk5vZTc1aXJya1dLTjUtejY2d091NGRRVlRCd0VCc181dVB6ZVRHYzZTLU5rZkhVRVc3cDRfbXVHS2dFX3pvQ1g1X3N4V1pXeGxhQ1Z1WU9LSEVSUmItYUY?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presentan querella contra senador Juan Luis Castro por presunta falsificación de firma en el Senado&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-19T20:32:40+00:00"
     },
     {
       "titulo": "Essbio reconoce rebalse de planta elevadora en Chillán Viejo pero descarta vertimiento al canal",
@@ -5623,28 +5645,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-17T11:42:15+00:00"
-    },
-    {
-      "titulo": "Zandra Parisi por AC contra Rabat: “Acá se quiere correr sangre como sea” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQTBFcEZjdVBXck1rLXlQNnpwcXFnUjFvbFM0OGFxWXJieW9lMG9LanBqQUhvZ3NRYlRqSEhLQjBjMlNvYnhPX0FDUW42TTNMRHBjdUYyeDZSQ2x0czRkQTZPS0xuWF8yY0RBNVJjR052VEpOampneThUamFtVENybFJ6OWs3Nm55Ti1wdm1HYnBhWjVCajV2bm5BOERCMkozVDY4VnBIaldoOHAxbzNQY2ZyZmVzWEp5bTdubzJIY0hzRVV2U0MtS1hB?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Zandra Parisi por AC contra Rabat: “Acá se quiere correr sangre como sea”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T11:42:07+00:00"
-    },
-    {
-      "titulo": "Se postergó retorno  de la destituida  secretaria municipal  al cargo que ocupaba",
-      "link": "https://laprensaaustral.cl/2026/11/17/se-postergo-retorno-de-la-destituida-secretaria-municipal-al-cargo-que-ocupaba/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "A tempranas horas de la mañana de ayer llegó hasta la Municipalidad de Porvenir la destituida secretaria municipal, Nataly Vivar, junto a su abogado Max Müller, con el fin de ésta reintegrarse a su cargo, tras el acto ilegal de su exoneración, como lo determinó la Corte Suprema al cerrar un juicio laboral contra el...",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-17T11:41:56+00:00"
     }
   ]
 }
