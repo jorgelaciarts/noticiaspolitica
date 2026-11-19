@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-19T15:46:28.841176+00:00",
+  "actualizado": "2026-11-19T16:01:36.700630+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Cómo el retiro de permisos constitucionales terminó con una denuncia de falsificación de firma y una querella contra el senador Juan Luis Castro",
+      "link": "https://www.theclinic.cl/2026/11/19/como-el-retiro-de-permisos-constitucionales-termino-con-una-denuncia-de-falsificacion-de-firma-y-una-querella-contra-el-senador-juan-luis-castro/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "La decisión de retirar los permisos constitucionales de dos senadores de oposición frustró los planes del ministro de Hacienda, Jorge Quiroz, para aumentar el endeudamiento público por un día. Sin embargo, la maniobra abrió un nuevo conflicto cuando Ximena Órdenes, desde China, llamó a Pedro Araya para pedir explicaciones y posteriormente envió una carta desconociendo haber autorizado el uso de su",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-19T15:54:46+00:00"
+    },
+    {
+      "titulo": "Los empresarios no le están creyendo a Kast: economista de Fundación Sol cuestiona sus medidas para reactivar la inversión",
+      "link": "https://www.elciudadano.com/economia/los-empresarios-no-le-estan-creyendo-a-kast-economista-de-fundacion-sol-cuestiona-sus-medidas-para-reactivar-la-inversion/11/19/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\n \"Al parecer, el ecosistema empresarial no le ha creído\", sostuvo el economista Gonzalo Durán, de Fundación Sol, al analizar la caída de la inversión en Chile, asimismo, el investigador cuestionó la efectividad de las medidas impulsadas por el Gobierno de Kast para reactivar la economía y advirtió que sus resultados ponen en entredicho el manejo macroeconómico del Ejecutivo.\nLa entrad",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-19T15:47:45+00:00"
+    },
     {
       "titulo": "Jaime Araya: «Los diputados deberán decidir si están de parte de las víctimas o del lado de los violadores de niños. De eso se trata la AC»",
       "link": "https://www.elciudadano.com/chile/jaime-araya-los-diputados-deberan-decidir-si-estan-de-parte-de-las-victimas-o-del-lado-de-los-violadores-de-ninos-de-eso-se-trata-la-ac/11/19/",
@@ -25,6 +47,18 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T15:41:53+00:00"
+    },
+    {
+      "titulo": "Gobierno volvió a defender el acuerdo con OpenAI: \"El miedo no nos puede paralizar\"",
+      "link": "https://www.cooperativa.cl/noticias/tecnologia/industria/ia/gobierno-volvio-a-defender-el-acuerdo-con-openai-el-miedo-no-nos-puede/2026-11-19/123943.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno volvió a defender este jueves el bullado memorándum de entendimiento firmado entre el Ministerio de Ciencia y la firma internacional OpenAI, descartando los reparos levantados desde el Congreso sobre un eventual acceso a datos personales de la ciudadanía y llamando a no frenar la modernización del país.\nLa controversia surgió a partir de las dudas formuladas por parlamentarios respecto",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-19T15:39:43+00:00"
     },
     {
       "titulo": "Kaiser dice que Kast fue electo para \"solucionar los problemas y no para ser comentarista\" - BioBioChile",
@@ -5602,39 +5636,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-16T22:10:00+00:00"
-    },
-    {
-      "titulo": "Bancada PDG podría tener libertad de acción en AC contra Rabat - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcWt4R1FtbUNMOWtBOENSRV9iYklEXzl2clQ0Nlp6Wm9OdDhIanlXUjBCYnh5QjJaWnhoZjE4WERveVJQLU5MZ0ZrWkF6RHZ1VGhyWDZ4bjBHWnpBOFRnVWNYeWhzUmE0aXU4RUlDUGRKSEJVRFBKTDE2YXZwQ21xTjdPNlllY0JxUVVjWXBGTFY2bDB3WHVxN2s0NFFqQTRjWVhCNmt2R04?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bancada PDG podría tener libertad de acción en AC contra Rabat&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-16T22:10:00+00:00"
-    },
-    {
-      "titulo": "Kast reconoce responsabilidad por baja aprobación y espera mejorar los indicadores económicos a comienzos de 2027 - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMlMxcnAxcGtIcjl4Zmh0YlNlQVR6WW5vUGJrdUs1MEE5UW4yMXg0Tmc2ejRpcW4xSll2cDRJVUl1c3lCTjhaMlZjb21wUG11YzllOVhvdGdEUjU5ODRzU2VycUx0RElvc2dOUmtxazRHSWpkVENzUng1WUZZWjlaVVBUaFpNYW8wQU4yQVNGRzFWSXNzaHk1ZzduM2Z5ZS1hby1tdHItdV9EUVBFU3FIYWJfbTdTa2luSkgyempoRTBocy1LLW5BZkRoZVdBS0ZHMmg5dHJB?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Kast reconoce responsabilidad por baja aprobación y espera mejorar los indicadores económicos a comienzos de 2027&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-16T22:05:07+00:00"
-    },
-    {
-      "titulo": "Bancada UDI acusa “falta de imparcialidad” en comisión revisora de AC: Advierten que Rabat “no tiene garantías de ser escuchado” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaXhJYWpSR2Z3eHVNRl9oRU1iTzZ3Sl9EMEUwb2QzalJaZUlHcUhscGZUcGdmaEdXc1c1cG1zaEI1R0ZOWkZPWG55elowTF83dnlsNldRRWhNMHBQaTdGWWF2VGdEc0VLcTVXUnlIREtPcUdRRVlrOWNmMVVwOGw5bk0tcDdxT0NRZEhKS1hvZ0h6d3ltN3QzNFVoWnlBYkJudHlaQ3dvdjB1emhqemh6UVl4NGlwcXFLUHpwT1BadVdhaXJDZnVsSXp5WElqOS1lLUFhSzE2RHJHazYtWVdqeHRSZWQ5dVk2cmc?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bancada UDI acusa “falta de imparcialidad” en comisión revisora de AC: Advierten que Rabat “no tiene garantías de ser escuchado”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-16T22:00:48+00:00"
     }
   ]
 }
