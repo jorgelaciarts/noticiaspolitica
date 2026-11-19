@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T12:01:25.194959+00:00",
+  "actualizado": "2026-11-19T12:16:16.328300+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-19T11:55:26+00:00"
+    },
+    {
+      "titulo": "Diputado republicano: \"Cuando la gran mayoría de los chilenos está sufriendo porque no hay empleo, uno debe ordenar sus prioridades\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/diputado-republicano-cuando-la-gran-mayoria-de-los-chilenos-esta/2026-11-19/085430.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Más información en instantes",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-19T11:54:30+00:00"
     },
     {
       "titulo": "Kast en APEC 2026: acuerdo con Filipinas y viaje a Japón - Radio Pauta 100.5",
@@ -4601,6 +4612,17 @@
       "fecha": "2026-11-17T08:08:38+00:00"
     },
     {
+      "titulo": "EN VIVO: Alcalde Sichel analiza la gestión municipal y la contingencia nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaU8yM0R0Nk14ZGJIZk9xdHR4UjF0SFp2aGxicXduSlpqa2FvQmRnMkxpNnV2MTNMMzN5cDJlaHB3VHRsaWJVYk1DME9UQmttQ3c1TE5aN005QTJxSTJpU0s1Y1hKamJubU1SUlB6M0lUTnNKckpGa3JwT05IUlRVaUoyeFZiWXpRNGZNTGg1QmdOUzN4ZXl2a0hJb2pZdGhLX2s0ZnZrTmp5aGlGc3VZX1BzaUFwY1gteXlQYWRnV0k?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Alcalde Sichel analiza la gestión municipal y la contingencia nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-17T08:00:00+00:00"
+    },
+    {
       "titulo": "Kast pide en foro empresarial de APEC que países mineros también procesen sus minerales - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVlBZmJERVVTRjVIeFdwOVpjSGpTZ1E5TlY2SzJmMWdSTUdJaWFQRldUOWd2N2cwamxmMWV1b2E0TDNpS19YUTRVTGhVZ08tTlZjX2prSTBsMDJxX2hfcExadlFWRjlJZndDR2FLQmtGcEhXbG9idVU1R2NyUVNRUmxTdkQwbFYtQVlyRUxWcV9hUlI4RVlUYkt6ZkZBYmxiNVB0Sk1YajdJNW5ZbHA1UnlkbERnUWhFbXNreDdwMU5WZ1RVallmR1RhMmRwMjJPc1NLNGg5TdIB8gFBVV95cUxPYlBqencxSTRNTl9DcUhPa2RfR25TVUhtUVV2QkN6dkp6MlRSaXJQU2FpcFBPZmhHNnJ1V3FXZUItLXVwTTNfTmxXRHBGaFVDS3BDaGlyN21TOWtrVUZmZXlkR0JGdjRaVUhBcURYWlE5ci1QR0dCTzd2YmNLMERsdTY1YVh4OVhJdXU0UmxrdFJyY3hiSnVpYWtNbnNLVW1YQVpualVEaUVSUGk1TDQxY1lMNkdJMzFoWThOb1dxcldwZDNhaDl1T2o2U2w2Y1NfXzY3ckVMNTRRZlpGZ2duM1pRYW1ZalVWS0hkMTlOLWVEZw?oc=5",
       "fuente": "Infobae - América/Chile (vía Google News)",
@@ -5611,28 +5633,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-16T17:53:02+00:00"
-    },
-    {
-      "titulo": "¿Quién fue Ho Chi Minh? Figura generó controversia tras el homenaje de Presidente Kast - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXdmZ2Z2aDhEaEV0SWlmb1BjZGk1UE1BS1J2WXZUeFFLOEZBMUhSSEhub0RCLXdYR093UE1qWWJ0Z0N2dWVCQ2QwcURQUktkRk1NWXdYVGpYdGlvTk02NXlaTnYwSmtzaVVLa3hWM1lfbmV3RDlaT2NmUkRKSXRNaEJkSWtpNTUtMDl0Z0tGVHJOMXRRbnRZU1dwREhsa05QNGo5REw4ZDA4OHV5dU8waXpqMNIBuAFBVV95cUxQQS1wVUZzVHU1dWFoY2FaTU1CNEdLRmRqVTR1U0hRTXBTMWFCd3RIQzlUbUtkQXB3NkJKNHQ1SmdOa0tQTFZGV19vSV83MW83WXJQU2FpZGpvNzMtVWVCcHVhWWZ6YjBMNENjR2k3TVNBVGJYUlNhcV9GUE5Bc2xKY2w1bi1xem1RaUhhTHhGcDJaOVJhTVJpanpKc0gxWHBNMUhMd0Z3UmJqaUJaa3dYMVR3VUlBeGNs?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "¿Quién fue Ho Chi Minh? Figura generó controversia tras el homenaje de Presidente Kast&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-16T17:46:00+00:00"
-    },
-    {
-      "titulo": "Kast “explica” homenaje a revolucionario vietnamita Ho Chi Minh al que tildó de asesino: “Era candidato” - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQmJCc0VTVGVGVjY5ejN6eG5UOHIwbmllc0tFeF9KTHp2ODZRU2VXWXFxeHJQTVlsdGhBNGg2NHhzNHFjZkZNMy1KNlVBT0kwdk1rRXNOY0FlRl9scC0xY2YtYnJyeUlaYlZ0ZmREQ1piRmtBS2tPMEplSzE3enExbDZLMkpJLVFOY2sxTUtoNEYtVjBkZGVyS2FpaldqUkdiQ3VPRGw3MGFTRmZBTE9fVTZmTGhsUWU3RXoxVWNCY2ZlRjFQ?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast “explica” homenaje a revolucionario vietnamita Ho Chi Minh al que tildó de asesino: “Era candidato”&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-16T17:45:54+00:00"
     }
   ]
 }
