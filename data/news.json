@@ -1,7 +1,29 @@
 {
-  "actualizado": "2026-11-19T17:01:35.079990+00:00",
+  "actualizado": "2026-11-19T17:16:32.035439+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Orrego dice que el Gobierno está abriendo paso a un populismo inédito en Chile",
+      "link": "https://www.lanacion.cl/orrego-dice-que-el-gobierno-esta-abriendo-paso-a-un-populismo-inedito-en-chile/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El gobernador de la Región Metropolitana, Claudio Orrego, acusó al Gobierno de incumplir sus promesas y carecer de un plan para enfrentar los problemas del país. Afirmó que su gestión está abriendo espacio para “un nivel de populismo que Chile no ha conocido”. “Yo creo que el Gobierno está jugando con fuego. Porque no le [&#8230;]\nThe post Orrego dice que el Gobierno está abriendo paso a un populi",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-11-19T17:11:40+00:00"
+    },
+    {
+      "titulo": "Kast blindó a Quiroz y Campos: \"Algunos se concentran en detalles; nosotros, en lo grande\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-blindo-a-quiroz-y-campos-algunos-se-concentran-en-detalles/2026-11-19/134907.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-19T16:49:07+00:00"
+    },
     {
       "titulo": "Los conflictos al interior del gabinete del Presidente Kast | Hablemos a las 12 - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNclZSMGhac3B4LUhIQldLTEtNejJkcTZGdGRXazRncjM1YURXcHlUNHBMVk9nRjd6b1Bya1JaM2tHb2VzQjZWX29ScVFPZ3ltMVZmcVhESmt4SktfN1kwNWxwVGFWM2psTDM1X0hJNGx5X213dncwYjctVk04ejhmZlNHVU5fQmY2aTJEWmdoTGtmR3FpUU9IbVNjR0lNWnNDVEpvcmN4T1BtbE85LVhVQVBsWExIZjBYV0YtMnhlWWpvUjBzZDZOTA?oc=5",
@@ -417,6 +439,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T13:57:55+00:00"
+    },
+    {
+      "titulo": "Presidente Kast destaca acuerdo comercial con Filipinas y nuevas oportunidades de inversión tras cumbre APEC 2026 - El Observatodo",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQN0xqZzZaMGpLQmJmb2FXR0p5UmZBRXFrQ25fWl8xaHhLazFpZ3IyNUNQSkhERkVNekI3elZEZWlUVkFsR1UwMHRKeG9VMk13LWZveDZqVXRNYnBCMjN6Uy1WV2daUkJZdkM2WWF3ZndVMThGbkQ5cjFwaVRZaU04Y1RlMHFnQ0djcXdfc0hHQjlQWnJhZUlhWVlsU3g5aW5ac2NZcW1IM25ZcW82NjVLTjl4Y0xPV1hyZUpySHpRQTVTQ0xld2FhMQ?oc=5",
+      "fuente": "El Observatodo (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Presidente Kast destaca acuerdo comercial con Filipinas y nuevas oportunidades de inversión tras cumbre APEC 2026&nbsp;&nbsp;El Observatodo",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-19T13:48:46+00:00"
     },
     {
       "titulo": "Kast defiende a Lincolao tras acuerdo con OpenAI: \"Algunos que quieren quedarse anclados al pasado\" - Teletrece",
@@ -2367,6 +2400,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-18T12:30:45+00:00"
+    },
+    {
+      "titulo": "Kast se reúne con Keiko Fujimori en China y acuerdan avanzar hacia un Gabinete Binacional en 2027 - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPc2NaQTBjbjMwUUpvNUtHd2dXZ2kzSkw1VWlOQXFBaURpdGY0d08xd2JyaGVQTWtRRGdyNTVQUUNna2l3UGxnRjhFMUxpcUxHR1hiUE9yTm8xRWFYTXVTX3BsSmV1anNSa1ZFazdlc0NnYm9wdzVRTGozR1c2QnVmRTA0RGNWWXRuNUo0U1BEdG1VbFl0S0tCbWczc1ZYa1Z4eXFzZXZuNWNZUVRoamZoSEtvYUtqYkR6ZExBall5SU9YbFd6ZnhickJDdlJsX19aQzFNVUpqOXAyUHZjMVJrQVFZQm8?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast se reúne con Keiko Fujimori en China y acuerdan avanzar hacia un Gabinete Binacional en 2027&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-18T12:27:03+00:00"
     },
     {
       "titulo": "El PDG considera insuficientes las disculpas del vocero Gonzalo Arenas y exige que se retracte - Radio Pauta 100.5",
@@ -5581,59 +5625,15 @@
       "fecha": "2026-11-17T00:11:00+00:00"
     },
     {
-      "titulo": "Senadora Sepúlveda (IND): “La falta de diálogo y la tozudez del Gobierno han marcado este Presupuesto 2027” - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcTUzS1YwZkdTZ2Y5dTVGOV9tdkFDZUpxWjR6UXk2WU5mUkEwOVEwQUhPOHliVndYS2w5cVJXRV9VRjVianVZeGQ3RVNCbkcxZVc5ZkxldVFHZms5eWd2dlIzTXB0UkNScjROdEJMV05tLVRlSTdmaEpNaWNsdDI5dTdsVkM0MjVfOFo2SzA5LU02SEVGeklQSUZremNSTzhpZTRsUmo3UEpRLThRNDQ0RV81clFndXVCeTVLSDdMbnp5bi1KRzV5SkN1SldyejhmWmdkRA?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senadora Sepúlveda (IND): “La falta de diálogo y la tozudez del Gobierno han marcado este Presupuesto 2027”&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-16T23:54:04+00:00"
-    },
-    {
-      "titulo": "Acusación contra Rabat se torna impredecible: Jiles anuncia su apoyo y la UDI y RN mantienen focos de disidencia - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWtJNjdHbDdMOVNmbXEyc1c3b1ZWS3o5QTVNWXhDd2J1V2RYVVh3Zk9USFYzRkNiSVRVb3VtT08xOGNMaUZndVVadE9iTy1LMXg0enZMeUI4WlBIRXdNSWk5UGcxU1FtU1hjSDc1Q3dPSmduV3A2azh4NHRDWV9qNHNUSGNmZlVWM2dDYzVMM1A1ZkZNWmxEZl9VdVBObXVhQ1NOOHVvVXNHTHdQWTBqV0RTbzJkYVdRT3VOeWQxWnZ5TllGQU5ncWRlRkw5aGFXX0JlWVA0YVVCM01uenVFYnBYZ21lcWR3WXI00gGMAkFVX3lxTE01bHRoclF1YTZYLVpaYkNoT20wWU9QQXRPM2cydTlPZl9JY3h3dExtSjZQWDR6ZHM4QjlhRlhUZXdvMWZEVEZkcDNzSkZhT0F1WjZ5ejNvS04xc0dNZkxWRkd3YndRNk9nTzRwRElDNmxUS2tKcUc4ZFE3bmZUWDYwbmdXOXNycHBRQ21ZakkyakJLc21YX3g0WDhhSFA5ZVRpbjN2X1IyeElaalFGTkFCZkx3WjJCY1BZZ0t4TTJHOGc5eWgzT3Q5V1YyT2lDdEl4aDRUcXFUaHpzUUQwQ0FOaGRSTVVmNUtSWjJlZ25XVDRHdXRvQUFCVExKTThhS3k0Zm5JVFJ2WnFJdkE?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Acusación contra Rabat se torna impredecible: Jiles anuncia su apoyo y la UDI y RN mantienen focos de disidencia&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-16T23:28:00+00:00"
-    },
-    {
-      "titulo": "Acusación contra Rabat se torna impredecible: Jiles anuncia su apoyo y la UDI y RN mantienen focos de disidencia - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcWtJNjdHbDdMOVNmbXEyc1c3b1ZWS3o5QTVNWXhDd2J1V2RYVVh3Zk9USFYzRkNiSVRVb3VtT08xOGNMaUZndVVadE9iTy1LMXg0enZMeUI4WlBIRXdNSWk5UGcxU1FtU1hjSDc1Q3dPSmduV3A2azh4NHRDWV9qNHNUSGNmZlVWM2dDYzVMM1A1ZkZNWmxEZl9VdVBObXVhQ1NOOHVvVXNHTHdQWTBqV0RTbzJkYVdRT3VOeWQxWnZ5TllGQU5ncWRlRkw5aGFXX0JlWVA0YVVCM01uenVFYnBYZ21lcWR3WXI0?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Acusación contra Rabat se torna impredecible: Jiles anuncia su apoyo y la UDI y RN mantienen focos de disidencia&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-16T23:28:00+00:00"
-    },
-    {
-      "titulo": "Presidente Kast rinde honores a Ho Chi Minh en Vietnam - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb2E2LUVaUEdLUmFlWlQ4ZFphQ2tSXzFYUmlSQlp3THYwZ0xfMU16SDQ2d05JLWdHU0ZnMWMzdGl6MDBVbVFhWmN6SGtoMy1KckV5OHo1WFNEZUtNMXFsNDI0VktCdG5kNUFGbG10U1VDRi1YSlo1WWZsUzZWMVpOWDJJdmEtYnIy?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast rinde honores a Ho Chi Minh en Vietnam&nbsp;&nbsp;Crónica Digital",
+      "titulo": "Boric y Paula Carrasco esperarían su segundo hijo: matrimonio estaría programado para enero. - La Tribuna",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWkNaRDZVaF8xWE5uQzJsdGJhVktxajJxc0xpU2lPbnJSMGN1Y2dWa2NWRklQSmpiVGJmSDJsMWRmUW1jbnl4em82a0pCWnRRY205eE1mX2xQUWQzdk1vMHB2dGdhVExmcmJaZ0JpSnAtRHZxdVhfYnBzWlZWanhWZ1lMUC1zdDM4MWpXVGFxUkNQRmM2TU4tUXBjRDB4YVBYbDZTVktaOTdraC1kS1NhTmRDcFEtLU1Tb0toQng4ZENBbHA2THBEa1plY3ExbGVYSWVDTmFkaWNQcWhvSlRFVlJsa9IB6wFBVV95cUxNRndYWEEzS0lkbUJnVFJzQzQzRXc5NmF3dmxiQ0VENXhlUUgxS2M3bm1mY29SczVBM2ZfUHFxS2Zra0liVzFKSU9ucGNjS3E5U1gxd1V0Tm15cGFBczU5V3ZZZGFOU3pvTm9ob2RPWk4tWnJNbG96a2pzRFdlaUE2NnEzNE5iQ0xGSEVpUERPdmwzSGt6b2dYMXJqQm9ORjRnZUlMQzRQT19NbURBal9KdTNoWEpZLUFGWVNiOC0wQVN2NGVwcjhtQ3c1WXlyTDhROG9pZW1GNHpBUjQwMG9hLXBzd01wQUN6Vk1v?oc=5",
+      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
+      "region": "Biobío",
+      "resumen": "Boric y Paula Carrasco esperarían su segundo hijo: matrimonio estaría programado para enero.&nbsp;&nbsp;La Tribuna",
       "categorias": [
         "Presidente"
       ],
-      "fecha": "2026-11-16T23:23:23+00:00"
-    },
-    {
-      "titulo": "\"Terminamos devorándonos\": UDI alerta por peleas internas y exige ordenar al oficialismo - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUGFJRVpzWHd0ZllsS1g0aHppM001djdxMUNhbFFKSlN6eGhtUWVzWEFOT2FSMFZXMl9wT0FNekhXUkhDR29ZTmZRU3ZYT1VUOERMSzlaaUcwcjhXMm5XSjh6LWZSLUtIa3pqdUZTb05TSUk0WUNRRkVhM0dzalU4bXpPVGJTXzdmbE5uMVg4X3JhWjg3R3d2N3pHQkp1eFdUQ1ZwZWVMbzY1M2pNTzRnZHdibkt4Y2NvUEtBZXJVUGNoSjBJcXZZenpROEdUbFh5bkY0TlRPQURFZ3gwQlA3RTJwbTJJVVpP?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Terminamos devorándonos\": UDI alerta por peleas internas y exige ordenar al oficialismo&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-16T23:09:04+00:00"
+      "fecha": "2026-11-17T00:01:25+00:00"
     }
   ]
 }
