@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-20T15:31:18.256531+00:00",
+  "actualizado": "2026-11-20T15:46:17.364857+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Denuncian ante Contraloría a funcionarios de Carabineros que recibieron regalos de diputados republicanos",
+      "link": "https://www.elciudadano.com/actualidad/denuncian-ante-contraloria-a-funcionarios-de-carabineros-que-recibieron-regalos-de-diputados-republicanos/11/20/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl abogado Luis Mariano Rendón denunció ante la Contraloría General de la República a funcionarios de Carabineros que recibieron donativos por parte de un grupo de diputados del Partido Republicano. La acción apunta contra los diputados Sebastián Zamora, Ignacio Urculllú y Javiera Rodríguez, quienes difundieron en sus redes sociales videos y fotografías que los muestran [&#8230;]\nLa e",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T15:37:51+00:00"
+    },
     {
       "titulo": "Nuevas renuncias en el Gobierno: Seremi de Salud y directora del Senama en el Biobío dejan sus cargos",
       "link": "https://www.lanacion.cl/nuevas-renuncias-en-el-gobierno-seremi-de-salud-y-directora-del-senama-en-el-biobio-dejan-sus-cargos/",
@@ -5601,6 +5613,17 @@
       "fecha": "2026-11-17T16:32:33+00:00"
     },
     {
+      "titulo": "La cita PS en la que se terminó de imponer el tono duro contra Kast con peticiones de renuncia a Quiroz y Rabat - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY04taFhFOEVVUGQtaXRqZTFwdjBkTmswckVkUTY5SFMzS1JjdHhOcGFUR3lVOEg0dUh1QUU0cllNdENnNDhOckhxSnVzRE1MNktBSFV5V29kZ3pFQjVSb3phMTJYSGVXYmFjWGhPblQzLVpKaTRuOExWWVYzQlo2R2VwTG5HTDJ2MV93a0w2OHZrSE9QLWdQbmo2REVteDVDSTVKbUpTMTlnVTVFak5iX1poX3NvSVhXdV91bVVNR3NBcDZBalVsQlA5a3BveTBLcHFYRElrTFZ0YmgwM1lmSXpUdnlHMEY4b05r0gGMAkFVX3lxTE9ZM3N6LVJlYXBwVWJpeFFETHc4eGRUMGViLWR5aTFkUkxuNG5oMzZMSGVzVDVoRzRSVndIY3A4cE5SLVE5VEtsZE9IMk9xSDQ1WnhjSTdRR1hWVE11alAwZ096Yjk5NlhWMThBV2YzTHlnNVd4R3NUOXJ2dXRNZWtQb1k0eW0wb1JZTEhIWWphQmRndWpjZmxRN1FUeHpxSmFQcTlESTU0NWw3NUFrYlFSdHhGZXNkUy1zQmhJV1dIcEhnN3V2cG8wU2V2WGJKZFU5NjRwdjhXTUNnLXgxQUVCeVRic0F1WTlEMjZKUHJfeUhkX0QybEd1Y3ZhVFYwZjN0Ml9qTGtjZEN0TDU?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "La cita PS en la que se terminó de imponer el tono duro contra Kast con peticiones de renuncia a Quiroz y Rabat&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-17T16:30:00+00:00"
+    },
+    {
       "titulo": "Conversación sobre Trump y Putin, invitaciones cruzadas y silencio por controversias: el largo diálogo de Kast y Xi Jinping - La Tercera",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSG9zWWhLaUNtMXloY3NDWnhlNGxLYmI2ZnlmemZmYlYyY21ZdG5hZjF0d2ttNnRyNTV6RUdvS0VFNDc4dEpaRy1jcUFPU24xU2NSWHpIT0kyT3RzZjlYZ2U2WFFwVFB6NVpCelpEMk9CdGlTTkZVdkZSb0NvaER5MmlZdWxoVm9ONnN4bWg4U3ZsSWZ0Zm9TSHFVUko0ckozc211Nl9OUHR5UFZpNHl6eFIxZU9IYmYwS2lFOVBSRVI1eTRlb0N4NTBpOUk2SVFnSjlzQ2lhZ0tJdnZRc1pxZ2owM01Nd0tpWERSbDROdmQ1QndpbW9JTjk5T0ZRaFRhQ2130gGkAkFVX3lxTE9EdnZ2cXpPNGFHNjNUd2JQdFBFVFRKMFdaZGRKdG1IazR6eGpSSXJ6elZDNlpacW5XX1dvZFotLWtIY25LbW5OQ2JXZjh5Z0J1Nm9JSkt2djdXbXhkRWxqNm1rcDdnRk1uYTU1ZXJNODU0M0tmTnVqRlpEa05SR0trZkI2aHU0X2NBYkJadlBQYXp4NGlGNUdvckN1Y1FzQmlPQ2NlTFdBRjVzM19BMDBjTkx0dHB1UzVuaTczTU1McmhGMnFKSmhVN1lrdGptellKQ0ZJdDA4RzhOajdOaXdMSFpxR0wwZ01FV0ZodndYQ0xhLWxvUTktdGFSaTZONHZKVVlDU054MFRSWTh6LWNCdnlUVmw3QWpBbzlHbl92VlhYZm0?oc=5",
       "fuente": "La Tercera (vía Google News)",
@@ -5614,29 +5637,6 @@
     {
       "titulo": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos” - La Tercera",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3BGSjNVaFRGSms2azh4MFBKMVV5LTdlOV9ENEhlRURfM01GWl9oRmtiVjNEN2VuMmF4cG40LTd6UUJVb2MxSDVpMUdiaVZNaHg4Y2JLY0dhZXl2bDA5SFh4R1F5ZEtuVjhEek5ZaTcxQ05fMENGMVlSQ05NLW1seWpoakdJQm1hVEVCRGpweVZRNVcxM3ppeWdGSUNfX3F0ZFVLdEh0ZlpJQVpyejFnUkVQQUJZYzNLenFGQmFjVG12Y1Z3YnJoRzhZV3ZEOXpEVHk3V09LcXdKZW1XMHJOT1RlclNPaE9vUzNv0gGMAkFVX3lxTE1ud0plMnJDWUNPNjJXM0d3a1dBMVkxNzZUWVNhd2IwckZMVWkwcDJEQ3VVRUo0YXBsS3RaanlKT3ROT19vUkdGTTF1Z1h5ODJDeE11NmU5UXBjSkVXdVIwcHJvbjhnRmVlM1FDdV9rSmJVLUpQc21KNWVLV2I3SXN4ZGpRODIyenJUNzJ6bjFINkJrSUo3X1Z2YzhzMWtJNFpNdUszNDRxVmdJWjlzZXdrX3lKRTYtanVlR1VpSmlNRGIyWm1hUzVhV3FHVDExWm5xMjdmVGRLUzlQeU85VzRZZVljZ1huZmpkdDZGQmQzc3FxME1vSDF4c09lYkFZX2lxRnFMak8tclJVOXg?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "titulo": "Conversación sobre Trump y Putin, invitaciones cruzadas y silencio por controversias: el largo diálogo de Kast y Xi Jinping - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSG9zWWhLaUNtMXloY3NDWnhlNGxLYmI2ZnlmemZmYlYyY21ZdG5hZjF0d2ttNnRyNTV6RUdvS0VFNDc4dEpaRy1jcUFPU24xU2NSWHpIT0kyT3RzZjlYZ2U2WFFwVFB6NVpCelpEMk9CdGlTTkZVdkZSb0NvaER5MmlZdWxoVm9ONnN4bWg4U3ZsSWZ0Zm9TSHFVUko0ckozc211Nl9OUHR5UFZpNHl6eFIxZU9IYmYwS2lFOVBSRVI1eTRlb0N4NTBpOUk2SVFnSjlzQ2lhZ0tJdnZRc1pxZ2owM01Nd0tpWERSbDROdmQ1QndpbW9JTjk5T0ZRaFRhQ213?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Conversación sobre Trump y Putin, invitaciones cruzadas y silencio por controversias: el largo diálogo de Kast y Xi Jinping&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "titulo": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3BGSjNVaFRGSms2azh4MFBKMVV5LTdlOV9ENEhlRURfM01GWl9oRmtiVjNEN2VuMmF4cG40LTd6UUJVb2MxSDVpMUdiaVZNaHg4Y2JLY0dhZXl2bDA5SFh4R1F5ZEtuVjhEek5ZaTcxQ05fMENGMVlSQ05NLW1seWpoakdJQm1hVEVCRGpweVZRNVcxM3ppeWdGSUNfX3F0ZFVLdEh0ZlpJQVpyejFnUkVQQUJZYzNLenFGQmFjVG12Y1Z3YnJoRzhZV3ZEOXpEVHk3V09LcXdKZW1XMHJOT1RlclNPaE9vUzNv?oc=5",
       "fuente": "La Tercera (vía Google News)",
       "region": "Nacional",
       "resumen": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos”&nbsp;&nbsp;La Tercera",
