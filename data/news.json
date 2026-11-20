@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T15:01:29.062195+00:00",
+  "actualizado": "2026-11-20T15:16:22.602697+00:00",
   "total": 500,
   "items": [
     {
@@ -69,6 +69,20 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-20T14:30:00+00:00"
+    },
+    {
+      "titulo": "Monckeberg propone una coalición abierta al centro que incluya a republicanos",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/chile-vamos/monckeberg-propone-una-coalicion-abierta-al-centro-que-incluya-a/2026-11-20/112056.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El expresidente de Renovación Nacional Cristián Monckeberg planteó este viernes en El Primer Café de Cooperativa que el Presidente José Antonio Kast impulse una coalición que reúna a RN, la UDI y el Partido Republicano, abra espacio al centro y tenga un proyecto que se extienda más allá de los cuatro años de su mandato.\nLa propuesta surgió a raíz de las declaraciones del alcalde de Santiago, Mario",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-20T14:20:56+00:00"
     },
     {
       "titulo": "Denuncian ante Contraloría a diputados republicanos, entre ellos un expolicía, por hacer donativos a Carabineros. Se grabaron entregando energéticas",
@@ -5631,17 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "titulo": "Giro en relaciones con Israel: Kast prepara retorno de militares y organización palestina exige explicaciones - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1lXdFVYTG5ramE5S3VkTFpKd3JoVzhzVjgwY3p3RmYwZWwxam8yd3ZFcG40VlBXZkZFTmJBUy0wVXRvbG1JNHlQMVJZMy05d2lmeDRDY3F2aDhVTXotcHdqV0dOUGRPbExEWTRsOFBKNllISXBScXJfYVcwZ2p0bnhoWFVpZm92OWhVUDhmeHhwWlVKZFRyZW1UdHpnb0dWT3p0ZVFPdi0tRTg?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Giro en relaciones con Israel: Kast prepara retorno de militares y organización palestina exige explicaciones&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T16:20:23+00:00"
     }
   ]
 }
