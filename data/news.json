@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-20T20:46:39.780875+00:00",
+  "actualizado": "2026-11-20T21:01:37.095726+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "(VIDEO) Partido Nacional Libertario amenaza con acusación constitucional tras caída de indicación en Senado",
+      "link": "https://www.elciudadano.com/reels/video-partido-nacional-libertario-amenaza-con-acusacion-constitucional-tras-caida-de-indicacion-en-senado/11/20/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl Partido Nacional Libertario ha lanzado una advertencia de llevar a cabo una acusación constitucional contra la ministra May Chomali después de que no prosperara en el Senado la indicación para restringir terapias hormonales en menores. Johannes Kaiser, notable figura del partido, ha intensificado la confrontación emplazando directamente al Presidente del país, en una escalada [&#82",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-20T21:00:08+00:00"
+    },
     {
       "titulo": "(VIDEO) Contradicciones políticas y fiscales del gobierno de José Antonio Kast según sus antiguos tuits y decisiones actuales",
       "link": "https://www.elciudadano.com/reels/video-contradicciones-politicas-y-fiscales-del-gobierno-de-jose-antonio-kast-segun-sus-antiguos-tuits-y-decisiones-actuales/11/20/",
@@ -5627,20 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-17T18:28:36+00:00"
-    },
-    {
-      "titulo": "Arenas exige mejoras en Ciencia y Lincolao afirma respaldo de Kast",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/arenas-exige-mejoras-en-ciencia-y-lincolao-afirma-respaldo-de-kast/2026-11-17/152816.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La ministra de Ciencia, Ximena Lincolao, aseguró que siempre ha sentido el respaldo del Presidente José Antonio Kast, después de que el vocero de Gobierno, Gonzalo Arenas, cuestionara el funcionamiento de su cartera y los resultados de las gestiones para superar sus conflictos internos.\nArenas abordó la noche del lunes, en una entrevista con CNN Chile, los roces entre Lincolao y la subsecretaria C",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T18:28:16+00:00"
     }
   ]
 }
