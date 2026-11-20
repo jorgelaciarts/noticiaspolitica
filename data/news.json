@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-20T16:01:25.274153+00:00",
+  "actualizado": "2026-11-20T16:16:30.778912+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Los efectos colaterales de las firmas de Juan Luis Castro: el incierto futuro como jefe de bancada, el quiebre con el PPD y sus complejas aspiraciones a presidir el PS",
+      "link": "https://www.theclinic.cl/2026/11/20/los-efectos-colaterales-de-las-firmas-de-juan-luis-castro-el-incierto-futuro-como-jefe-de-bancada-el-quiebre-con-el-ppd-y-sus-complejas-aspiraciones-a-presidir-el-ps/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Aunque Paulina Vodanovic salió en defensa de Juan Luis Castro, entre los senadores socialistas no hubo unanimidad para emitir una declaración de respaldo. El episodio abrió la discusión sobre su continuidad como jefe de comité y reactivó las tensiones con el PPD, cuyos parlamentarios no descartan formar una bancada junto a la DC. En paralelo, al interior del PS sostienen que el caso también golpeó",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-20T16:06:13+00:00"
+    },
     {
       "titulo": "Denuncian ante Contraloría a funcionarios de Carabineros que recibieron regalos de diputados republicanos",
       "link": "https://www.elciudadano.com/actualidad/denuncian-ante-contraloria-a-funcionarios-de-carabineros-que-recibieron-regalos-de-diputados-republicanos/11/20/",
@@ -24,6 +35,18 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-20T15:30:25+00:00"
+    },
+    {
+      "titulo": "Lincolao tras renuncia de su subsecretaria: \"A veces hay un poco de inconfortabilidad\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/lincolao-tras-renuncia-de-su-subsecretaria-a-veces-hay-un-poco-de/2026-11-20/122915.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "\"En momentos de disrupción, a veces hay un poco de inconfortabilidad\", afirmó este viernes la ministra de Ciencia, Ximena Lincolao, al abordar la polémica que afecta a su cartera tras la renuncia de la subsecretaria Carolina Rossi, marcada por tensiones internas derivadas de desacuerdos en el diseño e implementación de políticas públicas.\nDurante una actividad en la comuna de Pitrufquén, en la Reg",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T15:29:15+00:00"
     },
     {
       "titulo": "EN VIVO: Diputado Irarrázaval (P. Rep.) analiza la contingencia política y nacional - Emol TV",
@@ -517,6 +540,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-20T10:04:27+00:00"
+    },
+    {
+      "titulo": "Alcalde de La Ligua realiza gestiones con Subsecretario de FF.AA. para recuperar Concesión Marítima de Pescadores de Los Molles - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSF9jV1I2c2EyNmFEa3VOcUJWOWI4MlFWYUJCMTdLdk13TF9uT1NMdWNUXy1mV0o4OXJObGVuRHNHazdpWGphaVdmNjZBTGhtSjlOUDhFWC1ycllvWV9YbzJfOXIxbDJtS2FZOEdxSF9ZZVBBaWhhTlBMOGtCSm91TnBESUZ6VUcybHJycmt0bUc3WThWQWdvX3FmVWR1MlMxcV9KVkw1MUNHYll4NHljbTdoQloyaGRBN1dNRHlfWDZHbmdPUWVCSF82RnJqRG1CMzJwdElyeXNHMFpIVk1mX2Z6UTI3STA?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "Alcalde de La Ligua realiza gestiones con Subsecretario de FF.AA. para recuperar Concesión Marítima de Pescadores de Los Molles&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-20T09:49:38+00:00"
     },
     {
       "titulo": "Los 10 lugares favoritos del alcalde de Juan Fernández: “No me gusta ir a Santiago; necesito mirar el mar” - EL PAÍS",
@@ -5611,40 +5645,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-17T16:32:33+00:00"
-    },
-    {
-      "titulo": "La cita PS en la que se terminó de imponer el tono duro contra Kast con peticiones de renuncia a Quiroz y Rabat - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY04taFhFOEVVUGQtaXRqZTFwdjBkTmswckVkUTY5SFMzS1JjdHhOcGFUR3lVOEg0dUh1QUU0cllNdENnNDhOckhxSnVzRE1MNktBSFV5V29kZ3pFQjVSb3phMTJYSGVXYmFjWGhPblQzLVpKaTRuOExWWVYzQlo2R2VwTG5HTDJ2MV93a0w2OHZrSE9QLWdQbmo2REVteDVDSTVKbUpTMTlnVTVFak5iX1poX3NvSVhXdV91bVVNR3NBcDZBalVsQlA5a3BveTBLcHFYRElrTFZ0YmgwM1lmSXpUdnlHMEY4b05r0gGMAkFVX3lxTE9ZM3N6LVJlYXBwVWJpeFFETHc4eGRUMGViLWR5aTFkUkxuNG5oMzZMSGVzVDVoRzRSVndIY3A4cE5SLVE5VEtsZE9IMk9xSDQ1WnhjSTdRR1hWVE11alAwZ096Yjk5NlhWMThBV2YzTHlnNVd4R3NUOXJ2dXRNZWtQb1k0eW0wb1JZTEhIWWphQmRndWpjZmxRN1FUeHpxSmFQcTlESTU0NWw3NUFrYlFSdHhGZXNkUy1zQmhJV1dIcEhnN3V2cG8wU2V2WGJKZFU5NjRwdjhXTUNnLXgxQUVCeVRic0F1WTlEMjZKUHJfeUhkX0QybEd1Y3ZhVFYwZjN0Ml9qTGtjZEN0TDU?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "La cita PS en la que se terminó de imponer el tono duro contra Kast con peticiones de renuncia a Quiroz y Rabat&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "titulo": "Conversación sobre Trump y Putin, invitaciones cruzadas y silencio por controversias: el largo diálogo de Kast y Xi Jinping - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSG9zWWhLaUNtMXloY3NDWnhlNGxLYmI2ZnlmemZmYlYyY21ZdG5hZjF0d2ttNnRyNTV6RUdvS0VFNDc4dEpaRy1jcUFPU24xU2NSWHpIT0kyT3RzZjlYZ2U2WFFwVFB6NVpCelpEMk9CdGlTTkZVdkZSb0NvaER5MmlZdWxoVm9ONnN4bWg4U3ZsSWZ0Zm9TSHFVUko0ckozc211Nl9OUHR5UFZpNHl6eFIxZU9IYmYwS2lFOVBSRVI1eTRlb0N4NTBpOUk2SVFnSjlzQ2lhZ0tJdnZRc1pxZ2owM01Nd0tpWERSbDROdmQ1QndpbW9JTjk5T0ZRaFRhQ2130gGkAkFVX3lxTE9EdnZ2cXpPNGFHNjNUd2JQdFBFVFRKMFdaZGRKdG1IazR6eGpSSXJ6elZDNlpacW5XX1dvZFotLWtIY25LbW5OQ2JXZjh5Z0J1Nm9JSkt2djdXbXhkRWxqNm1rcDdnRk1uYTU1ZXJNODU0M0tmTnVqRlpEa05SR0trZkI2aHU0X2NBYkJadlBQYXp4NGlGNUdvckN1Y1FzQmlPQ2NlTFdBRjVzM19BMDBjTkx0dHB1UzVuaTczTU1McmhGMnFKSmhVN1lrdGptellKQ0ZJdDA4RzhOajdOaXdMSFpxR0wwZ01FV0ZodndYQ0xhLWxvUTktdGFSaTZONHZKVVlDU054MFRSWTh6LWNCdnlUVmw3QWpBbzlHbl92VlhYZm0?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Conversación sobre Trump y Putin, invitaciones cruzadas y silencio por controversias: el largo diálogo de Kast y Xi Jinping&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T16:30:00+00:00"
-    },
-    {
-      "titulo": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos” - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNY3BGSjNVaFRGSms2azh4MFBKMVV5LTdlOV9ENEhlRURfM01GWl9oRmtiVjNEN2VuMmF4cG40LTd6UUJVb2MxSDVpMUdiaVZNaHg4Y2JLY0dhZXl2bDA5SFh4R1F5ZEtuVjhEek5ZaTcxQ05fMENGMVlSQ05NLW1seWpoakdJQm1hVEVCRGpweVZRNVcxM3ppeWdGSUNfX3F0ZFVLdEh0ZlpJQVpyejFnUkVQQUJZYzNLenFGQmFjVG12Y1Z3YnJoRzhZV3ZEOXpEVHk3V09LcXdKZW1XMHJOT1RlclNPaE9vUzNv0gGMAkFVX3lxTE1ud0plMnJDWUNPNjJXM0d3a1dBMVkxNzZUWVNhd2IwckZMVWkwcDJEQ3VVRUo0YXBsS3RaanlKT3ROT19vUkdGTTF1Z1h5ODJDeE11NmU5UXBjSkVXdVIwcHJvbjhnRmVlM1FDdV9rSmJVLUpQc21KNWVLV2I3SXN4ZGpRODIyenJUNzJ6bjFINkJrSUo3X1Z2YzhzMWtJNFpNdUszNDRxVmdJWjlzZXdrX3lKRTYtanVlR1VpSmlNRGIyWm1hUzVhV3FHVDExWm5xMjdmVGRLUzlQeU85VzRZZVljZ1huZmpkdDZGQmQzc3FxME1vSDF4c09lYkFZX2lxRnFMak8tclJVOXg?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Macarena Santelices (IND.-UDI): “Hay ministros que son un cero a la izquierda, que no están cumpliendo ni los mínimos”&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T16:30:00+00:00"
     }
   ]
 }
