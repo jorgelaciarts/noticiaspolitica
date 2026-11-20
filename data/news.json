@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-20T20:23:03.029248+00:00",
+  "actualizado": "2026-11-20T20:31:50.644693+00:00",
   "total": 500,
   "items": [
     {
@@ -293,6 +293,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-20T15:37:51+00:00"
+    },
+    {
+      "titulo": "Diputado Luis Cuello (PC) protagoniza confusa persecución en Curacaví - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNODdIakYtbGlZVEVCaTdybzQ4dXc0WWdFYkd3WE1rWEV1QUVpbUtkWklLMVJrX0NqU25VZkFqSDN6dndYOVJWLVJEV2lmQnBuallmSm1XNmVDMTRnWlJQcm9DOUJyU0tNcU9OM0lxSlVCYndwNVlfeW9ISThzYU4xR0JDNzN6X1hDSkR5NGV1bnA2SVhIOFlhVjR2MXRwNDZ1RFlTcVNOWWd1SUJHMGFTVGoxRTRabTlLYUp4cFl6X3dDVVdB?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado Luis Cuello (PC) protagoniza confusa persecución en Curacaví&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T15:37:00+00:00"
     },
     {
       "titulo": "Nuevas renuncias en el Gobierno: Seremi de Salud y directora del Senama en el Biobío dejan sus cargos",
@@ -5629,17 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T18:16:43+00:00"
-    },
-    {
-      "titulo": "Las peleas entre ministros y subsecretarios de Kast no se detienen: al round entre Lincolao y Rossi se unen la de Jorge Quiroz contra Jaime Campos",
-      "link": "https://cambio21.cl/politica/las-peleas-entre-ministros-y-subsecretarios-de-kast-no-se-detienen-al-round-entre-lincolao-y-rossi-se-unen-la-de-jorge-quiroz-contra-jaime-campos-6afc87b403c9ce5c4174e813",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T18:02:39+00:00"
     }
   ]
 }
