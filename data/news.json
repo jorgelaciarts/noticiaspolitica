@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-20T05:16:31.997682+00:00",
+  "actualizado": "2026-11-20T05:31:12.310087+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Todo va estar bien: Gobierno de Kast suma un record de 60 renuncias y despidos de altas autoridades tras remoción de subsecretaria de Ciencia. Entre ellos hay 3 ministras y 46 seremis",
+      "link": "https://cambio21.cl/politica/todo-va-estar-bien-gobierno-de-kast-suma-un-record-de-60-renuncias-y-despidos-de-altas-autoridades-tras-remocion-de-subsecretaria-de-ciencia-entre-ellos-hay-3-ministras-y-46-seremis-6affd5e081bd1e168c0a7ee8",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-20T05:23:04+00:00"
+    },
     {
       "titulo": "Senador Walker asegura que indicación para prohibir tratamientos hormonales en menores es discriminatorio y acusa a libertarios y republicanos de \"extorsionar\" a ministra Chomali",
       "link": "https://cambio21.cl/politica/senador-walker-asegura-que-indicacion-para-prohibir-tratamientos-hormonales-en-menores-es-discriminatorio-y-acusa-a-libertarios-y-republicanos-de-extorsionar-a-ministra-chomali-6affd236b8ae4f632056afd5",
@@ -23,6 +34,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-20T04:44:52+00:00"
+    },
+    {
+      "titulo": "Diputada Ossandón pide pronto regreso de Kast: \"Tiene que venir a ordenar lo que está sucediendo\" - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOblRMQVQ1cWZHZEJpZndsNmN1aWxHRDgwVmhoS19Wdk1YOEZ6bHhxWHBxTEctTHRFeWwtRVJWZFB3T0tHX2w2Tmt2UVc0N055cVU2M2Myb0dCdmpTMHlQWnByRWJKdXI3YVdXNy1KZW9jNkdjVjVOV2tlTDQ0S1ZlVlJnbGtKNnVNem5Qci1uUGlyTmfSAZgBQVVfeXFMTjc1cmhQbzNsQnJackNlOUdMTXFfNzFlTDJzNThMb2ZqZmJNanlCdU1BcWE1N19EcjRJbXR3RnNGVmtEZnJNMGVSUTJTLUNPVkc4S1owdVhWdENEQmRXQVh2VGdGRTdsT2dhNU0wT3R3eGttVl96VUUwT3ZILXdrOS1neWtJLVJ0T3NvNmdLZ09SZ1NNcXJZNzQ?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputada Ossandón pide pronto regreso de Kast: \"Tiene que venir a ordenar lo que está sucediendo\"&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T04:21:00+00:00"
     },
     {
       "titulo": "Sin partidos políticos fuertes, la democracia se debilita - El Mostrador",
@@ -5617,28 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T13:02:32+00:00"
-    },
-    {
-      "titulo": "Vocero de Gobierno reconoce problema en Ministerio de Ciencia: \"No ha funcionado como esperábamos\" - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMk1xT3dEN3c1ZVE5X1NiQXU5c0MzdzdQSTdJMzF1SVZtWG4xYlRqcWN2RkJWLVh4RGVzVlVyQWpsRE4xUHdUUXFJbTFXc0czV2xQU05wSGNjbmZZVWVjREZKZlZQajFIb0k0N09KRkQ4b0ZOQ3JsaEQ5SDdLbzJ6dmh6ZGt0UHh5Znl5LWlpUXZickc4M2NPNzN6azNOQ2NpWHNxd0NuU3FFaldVdmU5MUp1RGxOUjNQeVFlNmc4VmJ5NUhkZmVENDZ0czBpa3pZNTlsZmtPTzc4Mzg2MHQ3aC1wdTdXckgyYnhGRlFDdWVRRmZ2WlE?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Vocero de Gobierno reconoce problema en Ministerio de Ciencia: \"No ha funcionado como esperábamos\"&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T13:00:06+00:00"
-    },
-    {
-      "titulo": "\"Presidente de Chile Gabriel Boric llega en avión...\": el error que marcó comienzo de gira de Kast en China - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYnBoX3BOYUJTSUlXM3RGNVY1V1V6bWZBMDlZUGRIUmxwRm9Jb2xXeVlMV2w2WGRhdl90N1dIWXB1Tzg2OThnUDR3ajd4amJEY3hSSjVfNHdsSDUxUXFiYjhXVDJYckVhdDlEY3BXLXZQRGNPQjFCVG1XZUw5Z01VSjBPanF0NTVUb2I0c0FBcGpqekhZMzBtVWVZOEV3RlR3ejFkbHE5eDJxcTlLR0gxNFBZLUpPWGYzRkxQdURld0dOVVg1eUQyeW9penQ?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "\"Presidente de Chile Gabriel Boric llega en avión...\": el error que marcó comienzo de gira de Kast en China&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T12:59:00+00:00"
     }
   ]
 }
