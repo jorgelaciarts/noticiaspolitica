@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-20T17:31:28.871651+00:00",
+  "actualizado": "2026-11-20T17:46:12.057537+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Tras 20 años de espera, adjudican obras para alcantarillado en beneficio de familias de Monterrico",
+      "link": "https://ladiscusion.cl/tras-20-anos-de-espera-adjudican-obras-para-alcantarillado-en-beneficio-de-familias-de-monterrico/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Con una inversión de $1.670 millones, el Concejo Municipal aprobó la adjudicación de las obras que beneficiarán a cerca de 400 vecinos de seis sectores rurales. La iniciativa fue priorizada por la administración del alcalde Camilo Benavente, logrando superar etapas técnicas y asegurar su financiamiento a través del Gobierno Regional. Una espera de más de [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-20T17:37:14+00:00"
+    },
     {
       "titulo": "Cómo la crisis de las presuntas firmas falsas golpea el liderazgo de Paulina Vodanovic en el PS - Ex-ante",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RWpuWDhkUjFpT0QzSnhDcG1kZU1Ka2tkTnEtd0ZxX2wxdWRWdFJPOFMwZEZkZmFZS0FsZU1QX2p1OXllWnBvYXlvLUJ6WXNJS05iMzktZ0FVdlh5SXgwc0RGWmtKakpsS0RmTmV1Q013Z3Fz?oc=5",
@@ -14,6 +26,19 @@
       "fecha": "2026-11-20T17:23:35+00:00"
     },
     {
+      "titulo": "May Chomali negó \"compromiso\" con libertarios sobre terapias hormonales: No sé de dónde sale la AC",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/may-chomali-nego-compromiso-con-libertarios-sobre-terapias-hormonales/2026-11-20/141741.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La ministra de Salud, May Chomali, descartó este viernes que existan acuerdos políticos con el Partido Nacional Libertario y desestimó la amenaza de una acusación constitucional en su contra, luego de que el Senado rechazara la indicación al Presupuesto 2027 que buscaba prohibir el financiamiento estatal a terapias hormonales en menores de edad.\nAnte la advertencia de juicio político promovida por",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T17:17:41+00:00"
+    },
+    {
       "titulo": "El gobierno de Chile congeló el precio de los combustibles hasta abril de 2027: estos son los valores - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPREpadUYzM1BxUUZ5MWlONG5RX2xPQTYzbEtBWFFYRS1ockMxaUxQVW5ZY3d6OS1FUmpmaWd2MzRxSnc3SndoU2pwRHZ3SUJxeW5BQ1daNkpDdUt0NzNwX1JfSnNNanM2dERyR0hpcGlKaXlEZWgxRnVfRnZUaVRiNEt1b09CRTZwRHZEaFFEZHB4SFJSeE1mV2VSZHloV1AzeWc3OGd6dmFxTjMwMFNYb05BOVVFYXZ5S3hncXEyZDVkN2tJUzNKSy1NYmxKLU8za1JvU3VNQW4ySVVDZ1NIZkVFLXB1X3FZNUFRbDVqZVXSAYsCQVVfeXFMUEp0NUNFaUFQRlpvYVdRNUdzTHNiZUQ5ZjJ4eXlBckJlSlI0RDFnV2R0YlpncVJUNzltejdvYlNFT2ZyQ3BHai1FakFyZm9SY2hPdS1mZno1Q3k3azdNQzFxQW5SVjRIaUJXWk9ad0Jjb0F4QWxlcm1NWktPc1M0Wkl6OUs0TDM0RnJKa3UwZl9WUy0xZGF5anZlcmYyRXZOY1lJaDd0TWZTXzk3QzFNNGYzOXYxSklzeWQ0WWZiUDhzbGVvSWh6NjhwVEtlNEIyUzIwRElHXzQ3Nm1iYUNubzEyOVJrTE5vZVBILVB6T0E2bnFHZzRJeGc4R21FdWhBbXQtckpxZm0xVGZF?oc=5",
       "fuente": "Infobae - América/Chile (vía Google News)",
@@ -23,6 +48,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-20T17:11:00+00:00"
+    },
+    {
+      "titulo": "Gobierno de Kast supera los 1.900 expulsados y cifra aumenta 55,7% respecto de 2025 - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQWItWGtxMlloRkx3WGVjY3J4UUtrT3p2MURvckYzSGF5TWtkRWY5Ty1mekh2MUZVb2xZY090TWRsNjRXWHBrM254aEtMb2U2SWFfQlp6cXZYZVRuSkdiQ2JHSnh5RzBwLXpxSVRPc0Z2X1VfQ29hcVdqU2FiNmM5bk1xQVlHUGx4RHRUNU5WeHNYeEVJSFdSMlBvbVpVeUFfS0FfdzUtMy1HX1lZYWdUZkN1TUphOGtCM3NxeXlJT0U5ay1IekdQZWl0MDJQbVhmSzR6UVo3UFc?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Gobierno de Kast supera los 1.900 expulsados y cifra aumenta 55,7% respecto de 2025&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-20T17:09:33+00:00"
     },
     {
       "titulo": "Diputada Schneider tras dichos transfobicos de Kaiser: \"Cuando un político dice este tipo de odiosidades legitima la discriminación\" - Universidad de Chile",
@@ -5609,40 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T17:09:44+00:00"
-    },
-    {
-      "titulo": "PS abre ofensiva contra administración Kast: acusa deterioro económico y exige salida de Quiroz - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPMF83Y1FMcFp0NHdlSE9nZk5seU5WSHBmZGdyYnJ1Vy1wclNQeHlvQ1owRXg5TF93R29RTUt1SW1lN0w1RmlNaDBYbmFRbTBBTHhwdFZTQ3lfQXRhMXB2SWFTVzczN3AxQkc2TG8xZ2pyNHRSSEE0eGJvOTRUNi1jVHBOT3VUbTFXSkR3Nk1TSUptamRVcWVtTHdjQUVybE1DZ0k4b2N5bDBrazdJQ01mbkNVZlVTdy1fR0JaNzJtdVlDN1l3NjVkdm54UEVGVU5uNXpadWptRjhxY1g3Z0hQbTcza09xZHRETFBiel8wUmlKVGxM?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "PS abre ofensiva contra administración Kast: acusa deterioro económico y exige salida de Quiroz&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T17:08:46+00:00"
-    },
-    {
-      "titulo": "José Antonio Kast se reúne con Xi Jinping en China y firma acuerdos para fortalecer las relaciones comerciales - El Nortero",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHBJQnlXVm5ubGdVNnJvOEZteE1NVDFSQTVqUGRJYlZsazI0VEFnSmFodzBQYXhqTGxiekFHX1NMc3dMRTVuUlFIMUNqRDZxcm5Pc3U2Wm5qeHowVElGa2Y4aHFMMDhvRDBhZGRyRm16WkpLeDFBQk45Q0ZPNWhJY1ZmZm9rcjhWVVlocm9IZmREZF9mMUVLZkppOTE1STRvSks0bEJwRldWS04zdnBqeW8zT1A2VEFDZkVsVDhFREdOTmM?oc=5",
-      "fuente": "El Nortero (Antofagasta, vía Google News)",
-      "region": "Antofagasta",
-      "resumen": "José Antonio Kast se reúne con Xi Jinping en China y firma acuerdos para fortalecer las relaciones comerciales&nbsp;&nbsp;El Nortero",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T17:03:58+00:00"
-    },
-    {
-      "titulo": "Kast llega a China para participar en APEC y reunirse con Xi Jinping en medio de tensiones diplomáticas - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazljYk0xcUFad24tbzJualBuOTFOQjBfemVweWxRMm1sWTgtQVBVQ1AybUhyTlI0TEw3ZHpKc2YxZ2UyRWQyeTFNenZidlZJUmRZRWhzV3pRazF2b2draXZNVFlwTjg5R0I3eEo5elRLX1BnZmt5T1dqOS10VWhucVFWbXoxNGR6Y000cDhFRW1leHhlNTRSdHhRQUNINXBURjRVc1BYeE9faUMzMmUxcy1Rdjh6VExnMWdhUXA3UzEwT0VyZ0lkNA?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Kast llega a China para participar en APEC y reunirse con Xi Jinping en medio de tensiones diplomáticas&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-17T17:03:24+00:00"
     }
   ]
 }
