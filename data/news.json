@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-20T12:31:19.807123+00:00",
+  "actualizado": "2026-11-20T12:46:21.752730+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast se reunió con primera ministra de Japón y celebraron profundización de cooperación bilateral",
+      "link": "https://www.lanacion.cl/kast-se-reunio-con-primera-ministra-de-japon-y-celebraron-profundizacion-de-cooperacion-bilateral/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El Presidente José Antonio Kast llegó hasta Japón, en la última etapa de su gira por Asia. El Mandatario se reunió con la primera ministra, Sanae Takaichi, donde celebraron la profundización de la cooperación bilateral entre Japón y Chile, en el marco de su asociación estratégica, consignó 13. Desde Presidencia, señalaron que ambos líderes confirmaron [&#8230;]\nThe post Kast se reunió con primera ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-20T12:34:04+00:00"
+    },
     {
       "titulo": "Dreams interviene para frenar querella contra alcalde de Talca mientras espera permisos municipales para abrir su casino",
       "link": "https://www.elciudadano.com/chile/dreams-interviene-para-frenar-querella-contra-alcalde-de-talca-mientras-espera-permisos-municipales-para-abrir-su-casino/11/20/",
@@ -57,6 +69,19 @@
         "Diputados"
       ],
       "fecha": "2026-11-20T12:02:23+00:00"
+    },
+    {
+      "titulo": "Caso firmas: \"Me molesté, pero no aprovecharé para hundir a Vodanovic y Castro\", dice Espinoza",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-me-moleste-pero-no-aprovechare-para-hundir-a-vodanovic-y/2026-11-20/085401.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El senador Fidel Espinoza -cuya militancia en el Partido Socialista se mantiene suspendida- admitió en Cooperativa haberse molestado por la presunta falsificación de firmas que lo afectó a él y a su colega Ximena Órdenes (ind-PPD), pero descartó utilizar el caso para \"hundir\" a las autoridades de su tienda.\nLo anterior, dado que \"hace tres meses, viví un episodio personal y familiar bastante dolor",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-11-20T11:54:01+00:00"
     },
     {
       "titulo": "Kast se reunió en Japón con la primera ministra Takaichi y el emperador Naruhito",
@@ -5615,29 +5640,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T14:19:42+00:00"
-    },
-    {
-      "titulo": "“He escuchado parlamentarios de la UDI”: Diputado Durán (RN) revela dudas oficialistas ante acusación contra Rabat - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWVJvcUdxdlZPRUtYV2l6cWhqMGxXcjlwdEpTZ2ItVzhJTF8xUW1JVmdDdV9vLUNZMXh5akptWU9RWER6TTVpbGNJbkgwalgwbUJtM0w3UmdFQjRKc0VDU0VvMkNCZk5oYkNReEtmUFhhTU0wcXluYUFJOXA5enBRRFpUX05sMlU2LXRGZkFUT1pPenEwMTRLanRnMXJCY3BnSzN2WVE2U2FHWVQ2WVpSSUI3VEpTcEx4RTN0enZZZi1BMlNSY0paR0d2VFZscjNIdVFqSGFXVQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "“He escuchado parlamentarios de la UDI”: Diputado Durán (RN) revela dudas oficialistas ante acusación contra Rabat&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T14:17:09+00:00"
-    },
-    {
-      "titulo": "Senador Ibáñez anuncia oficios a Contraloría y Ministerio de Ciencia por acuerdo con OpenAI - El Desconcierto",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOelQxU0pvUXVhZzBKbnRZbF9yVWZmZExWWElNZE9BWHdYeTh4cC1rQm5lRTJFNk5pNnlHNUFNRVJWU0pjSDZDTFBlejM3X2pxSl9naV8teVNHTnRmMWNPcHZQQW9Vdk9odE1NR283dEFxU3YwMjJyNHROR0p0MnJfTkwxc0pJVVB4aXZfTzlyMVB3VWI4OEhKMkJYMFFOSmxmWXRnU2NVNVlodnNGcG9IZXZHUkZGdW8yWmRwenRpRndCZw?oc=5",
-      "fuente": "El Desconcierto (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Ibáñez anuncia oficios a Contraloría y Ministerio de Ciencia por acuerdo con OpenAI&nbsp;&nbsp;El Desconcierto",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-17T14:17:00+00:00"
     }
   ]
 }
