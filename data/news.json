@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-21T04:31:17.649646+00:00",
+  "actualizado": "2026-11-21T04:46:11.776691+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Resumen final de la páliza electoral de Trump: Los demócratas logran la mayor ventaja en el Senado desde 2010 con 56 escaños",
+      "link": "https://cambio21.cl/el-mundo/resumen-final-de-la-paliza-electoral-de-trump-los-democratas-logran-la-mayor-ventaja-en-el-senado-desde-2010-con-56-escanos-6b011e16c70aba4af62a0e5d",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-21T04:32:43+00:00"
+    },
     {
       "titulo": "Diputada Schneider tras dichos transfóbicos de excandidato Johannes Kaiser: Acusa \"discurso de odio y legitimar la violencia\"",
       "link": "https://cambio21.cl/politica/diputada-schneider-tras-dichos-transfobicos-de-excandidato-johannes-kaiser-acusa-discurso-de-odio-y-legitimar-la-violencia-6b01164cc086194d4c047b1c",
@@ -5631,17 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T20:42:00+00:00"
-    },
-    {
-      "titulo": "Bancada del PDG tilda de “tibia e insuficiente” la disculpa de Arenas y lanza advertencia por AC contra Rabat - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRzBaODBXaUdQRVVSbWk4ZjNkRWpSVDhWUm1xcnVNY0c2V09ndXBTLWppYjZVYm1BMFpZVEp2OF84RkMxZHhIektBMGoydHU5Q3lsQVBtaDRPV3hlcmI2UG5BS0J4SHJmbHJTRHA3TC1MUDJqTnFNZUdFQUFpdXVWR2dwOGZiT3VWOWV1R1RwYUYwYmgyS21vLW05dHdSRDEycVBULUV0Qk5UMms3ekluRXg2TmVLZVRJd0U1eXJ4aXR3TFdmX09weGNaeTUtTWc3Y3RGUw?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Bancada del PDG tilda de “tibia e insuficiente” la disculpa de Arenas y lanza advertencia por AC contra Rabat&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-17T20:38:34+00:00"
     }
   ]
 }
