@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T17:31:22.067996+00:00",
+  "actualizado": "2026-11-21T17:46:20.756115+00:00",
   "total": 500,
   "items": [
     {
@@ -363,6 +363,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-21T05:45:28+00:00"
+    },
+    {
+      "titulo": "Resumen final de la páliza electoral a Trump y republicanos: Demócratas logran la mayor ventaja en el Senado desde 2010 con 56 escaños",
+      "link": "https://cambio21.cl/el-mundo/resumen-final-de-la-paliza-electoral-a-trump-y-republicanos-democratas-logran-la-mayor-ventaja-en-el-senado-desde-2010-con-56-escanos-6b011e16c70aba4af62a0e5d",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-21T04:32:43+00:00"
     },
     {
       "titulo": "Resumen final de la páliza electoral de Trump: Los demócratas logran la mayor ventaja en el Senado desde 2010 con 56 escaños",
@@ -5623,17 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-18T01:57:21+00:00"
-    },
-    {
-      "titulo": "(VIDEO) Senadora cuestiona al ministro Quiroz por omisión de fondos en el Presupuesto 2027",
-      "link": "https://www.elciudadano.com/reels/video-senadora-cuestiona-al-ministro-quiroz-por-omision-de-fondos-en-el-presupuesto-2027/11/17/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa senadora Daniella Cicardini critica al ministro de Hacienda, Jorge Quiroz, por excluir US$150 millones del Fondo Autónomo de Protección Previsional en el Presupuesto 2027. Esta decisión contradice el respaldo de Contraloría e impacta negativamente en beneficios solidarios de pensiones, especialmente para mujeres. Cicardini advierte que el conflicto refleja una tendencia ideológica ",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-18T01:15:10+00:00"
     }
   ]
 }
