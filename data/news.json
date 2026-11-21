@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T10:01:18.469459+00:00",
+  "actualizado": "2026-11-21T10:16:36.957290+00:00",
   "total": 500,
   "items": [
     {
@@ -113,6 +113,17 @@
         "Concejales"
       ],
       "fecha": "2026-11-21T03:00:00+00:00"
+    },
+    {
+      "titulo": "Presidente Kast finaliza gira asiática en Japón - 24horas",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkllb0oxV0tLcndjWGxPRlIzWnRUaThJdVZ6ejhkM1VlWlZUbV9vYkFDMzVrX0VWcWNTNWg0Nm1YUWZVdjY3RWt4VnpLN3VlWUtDT2JORDBVRjJzaXBBNmZST014ZzZCbUdJYXgxazJWNndrTVA1VEhwMU84TXNZbHdCWW0xMzZ0ZE5pVmtXNE1kdVJTUTBILUFn?oc=5",
+      "fuente": "24Horas (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast finaliza gira asiática en Japón&nbsp;&nbsp;24horas",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-21T01:33:04+00:00"
     },
     {
       "titulo": "Presidente Kast finaliza gira asiática en Japón - 24horas",
@@ -5627,18 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-17T21:00:08+00:00"
-    },
-    {
-      "titulo": "¿Por qué es cada vez más difícil gobernar Chile? Blumel y Elizalde analizan la crisis de la política",
-      "link": "https://www.theclinic.cl/2026/11/17/blumel-elizalde-crisis-gobernabilidad-chile/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Los exministros del Interior de Sebastián Piñera y Gabriel Boric se reunieron en Contracorriente para abordar los problemas de gobernabilidad que enfrenta el país. La fragmentación de los partidos políticos, la polarización, las expectativas ciudadanas y la pérdida de confianza en la democracia fueron algunos de los temas de la conversación.\nThe post ¿Por qué es cada vez más difícil gobernar Chile",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-17T21:00:00+00:00"
     }
   ]
 }
