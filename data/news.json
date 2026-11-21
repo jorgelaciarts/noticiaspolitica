@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T02:31:16.301303+00:00",
+  "actualizado": "2026-11-21T02:46:24.574218+00:00",
   "total": 500,
   "items": [
     {
@@ -1900,6 +1900,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-19T18:22:42+00:00"
+    },
+    {
+      "titulo": "Paris Parade llega a su 15ª edición con desfile gratuito entre avenida Salvador y La Moneda - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOY2p0aThJYjE3UGpEaWh4WnZrcnlET3h1Wkh2eTZleG5xaFZ4bGhvSVVnT0o0TEZQQWotRDFmdWZ6ZUt4OTZVcFlBbnVmZmFwamRJekkxeGVCdl9xYW5yZVM2dXhsblhFSjlhWUFXWmZiQWU1T0lZR3lRblJIbUl2SjVDYkt0S1dUaWZjMWpVQmQ0UnU1T2tIejdQXzlFVWlkREhwNDBEd3d1V3d0NGtaRXpaVVl6Mk9QeTN1TWpma0ZLaEdtU2x4eWlWWkxPcndDUWk1ZnZVWUgwaTUxR3BCVmljV2JHNWxTbjBBVnpn?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Paris Parade llega a su 15ª edición con desfile gratuito entre avenida Salvador y La Moneda&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-19T18:14:00+00:00"
     },
     {
       "titulo": "Diputada Andrea Parra cuestiona al Gobierno por la situación económica: “El escenario va de mal en peor” - Teletrece",
@@ -5631,18 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-17T20:11:39+00:00"
-    },
-    {
-      "titulo": "Arenas se disculpó con el PDG: \"Tengo la mejor opinión de ellos\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/arenas-se-disculpo-con-el-pdg-tengo-la-mejor-opinion-de-ellos/2026-11-17/170634.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El subsecretario General de Gobierno, Gonzalo Arenas, pidió disculpas al Partido de la Gente (PDG) luego de asegurar que son \"un cúmulo de deseos\" que convoca a \"una clase media que no tiene una visión de país, sino, más bien, una visión de consumo\".\nEn conversación con \"Tolerancia Cero\" de CNN, el vocero de Gobierno analizó que la colectividad acepta \"cosas aunque sean contradictorias entre ellas",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-17T20:06:34+00:00"
     }
   ]
 }
