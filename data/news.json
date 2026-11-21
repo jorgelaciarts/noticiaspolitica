@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-21T11:01:26.886414+00:00",
+  "actualizado": "2026-11-21T11:20:07.765442+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Newsletter Poder: El mayor “éxito” de la gestión de Kast",
+      "link": "https://www.theclinic.cl/2026/11/21/newsletter-poder-el-mayor-exito-de-la-gestion-de-kast/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Los números económicos del inicio del gobierno del Presidente Kast, el candidato favorito para la CPC y el retorno de Elizalde a la cabeza del PS son algunos de los temas que se pueden encontrar en esta nueva edición de The Clinic Poder. \nThe post Newsletter Poder: El mayor &#8220;éxito&#8221; de la gestión de Kast appeared first on The Clinic.",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-21T11:04:00+00:00"
+    },
     {
       "titulo": "Camila Nieto (FA), alcaldesa de Valparaíso: “Tuve dudas de aceptar la invitación del Presidente a su gira por Asia. Pero tengo un deber con mis vecinos”",
       "link": "https://www.theclinic.cl/2026/11/21/camila-nieto-fa-alcaldesa-de-valparaiso-tuve-dudas-de-aceptar-la-invitacion-del-presidente-a-su-gira-por-asia-pero-tengo-un-deber-con-mis-vecinos/",
@@ -5627,18 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-17T21:02:12+00:00"
-    },
-    {
-      "titulo": "Kast inaugura ChileWeek en China y llama a fortalecer los lazos comerciales",
-      "link": "https://www.lanacion.cl/kast-inaugura-chileweek-en-china-y-llama-a-fortalecer-los-lazos-comerciales/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "Con un llamado a seguir reforzando los lazos entre Chile y China, el Presidente José Antonio Kast inauguró en Shenzhen la cena “Sabores de Chile” de la undécima versión de ChileWeek China. Plataforma de promoción comercial organizada por ProChile, que busca fortalecer los vínculos económicos y generar nuevas oportunidades de negocios entre ambos países. En [&#8230;]\nThe post Kast inaugura ChileWee",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-17T21:00:12+00:00"
     }
   ]
 }
