@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-22T16:01:33.154207+00:00",
+  "actualizado": "2026-11-22T16:16:16.455332+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Boric y su mandato: \"Decidimos no dejar que las personas más pobres enfrentaran solas el aumento de precios\". Y preguntó: \"¿Por qué el costo de la austeridad debe recaer sobre las familias trabajadoras\"",
+      "link": "https://cambio21.cl/politica/boric-y-su-mandato-decidimos-no-dejar-que-las-personas-mas-pobres-enfrentaran-solas-el-aumento-de-precios-y-pregunto-por-que-el-costo-de-la-austeridad-debe-recaer-sobre-las-familias-trabajadoras-6b030f3c6f99273b734f6ef4",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-22T15:52:44+00:00"
+    },
     {
       "titulo": "Boric y su mandato: \"Decidimos no dejar que las personas más pobres enfrentaran solas el aumento d precios\". Y preguntó: \"¿Por qué el costo político de la austeridad debe recaer sobre las familias trabajadoras\"",
       "link": "https://cambio21.cl/politica/boric-y-su-mandato-decidimos-no-dejar-que-las-personas-mas-pobres-enfrentaran-solas-el-aumento-d-precios-y-pregunto-por-que-el-costo-politico-de-la-austeridad-debe-recaer-sobre-las-familias-trabajadoras-6b030f3c6f99273b734f6ef4",
@@ -79,6 +90,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-22T15:15:32+00:00"
+    },
+    {
+      "titulo": "Senador Moreira y posible acusación constitucional a ministra Chomalí: \"Es un error político grave\" - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNV1M1YU5XenN5UUVNbzRZWnhVd2NqWWxWWWhJS2J0ZFFTMFFnVDBNa28tMXMwbWtPTDRFOUZXUHNDMnFhblV1dzZuc1BWQUNyY202NkVCdkczbXk0VTVzRWRNVFBlRGxIaTlqOHpBb0hLdVJRSjgxaXRQVXVULTlHWjh0UTBnZURYcG4wNEUtRTl2UzRYcXFYeXFlaUx3c281YkVsRVZDYnhBV1R1bXpiVm5GeEp0RWdHMjBJOW1TUUtYS0xHMVdzLVNPbXl5cHVhWXZzVkQtMERsNEhZQXprWmhsdncxNS1BMkF2T3ZOUVB6a0ZDQlcw?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Senador Moreira y posible acusación constitucional a ministra Chomalí: \"Es un error político grave\"&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-22T15:14:47+00:00"
     },
     {
       "titulo": "Senador Ossandón sobre el Caso Firmas: \"Puede haber una artimaña que hay que descubrirla\" - Teletrece",
@@ -5612,28 +5634,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-18T13:01:26+00:00"
-    },
-    {
-      "titulo": "Alcalde de Río Bueno, Luis Reyes, renuncia al cargo mientras permanece en prisión preventiva - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWmI3OUljTVNJVVRMejNva3RPWUN5RTVyT0JCSS1QM19PUUs4Xy14YlJLd3ZjN1pOT1FvbHpGeDMzeDVEY2VzbElza3g1RV9IV3JGc180Qmp1TUd2U1JQZkdtR21qdDZzd0xlZEpQQWpkZ25mdy1vYzFVRmNoZmljSFhucy02VjQ4ZElCaWJoOFRma1hQUW9udGJ6Y0RsWjY4ZVRPRmp1bzZpWEZsdzJIeHo2T0ZUOGZOUmtrOXVfMlEzZURBZW9lRmhHdzlqakh6ZmZ0Smh2ZEVwZkNhaDljZUZwb25Ea3E4ZU1SdGEtZw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Río Bueno, Luis Reyes, renuncia al cargo mientras permanece en prisión preventiva&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-18T12:58:36+00:00"
-    },
-    {
-      "titulo": "Alcalde de Río Bueno, Luis Reyes, renuncia al cargo mientras permanece en prisión preventiva - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQX3d6UUY3NmN0R3JZcFlsUjE5bV8tWDB0NTdUM1ZvemdOMFVCUVJlcUc1eXhKNEMtN1hJOGpJdEZUSE1sX3dWUnljTXVYWjNMUlFHS2w5OGVGT1VIQjEtbFFDVjBnNmRkR0pYTnBIbjVBZ19UTGxZQTZqOHpMUVpwQzZUWWFKZ3JKczlqbi1mWjNSZFkyRWRNdlZ2OS1LZ0xZRWxXMXQtSW1rRUVnMlJndHBoWnFrak1sRnpqN3FZbUhZdVNwdU9ycmtmYnEzb09qZnVxVURpUWxZUDJyWVRPQjZTZy1LcUlab0x2blVfM0pfN2l2bHhuNzA1ckozMGVG?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alcalde de Río Bueno, Luis Reyes, renuncia al cargo mientras permanece en prisión preventiva&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-18T12:58:36+00:00"
     }
   ]
 }
