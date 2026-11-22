@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T22:01:13.732147+00:00",
+  "actualizado": "2026-11-22T22:16:18.113326+00:00",
   "total": 500,
   "items": [
     {
@@ -82,6 +82,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-22T19:24:06+00:00"
+    },
+    {
+      "titulo": "Senador Araya (PPD) niega venganza política por firma de senadora que andaba de gira con Kast. Pide que Fiscalía y senado investiguen a senadores Castro y Vodanovic, ambos socialistas",
+      "link": "https://cambio21.cl/politica/senador-araya-ppd-niega-venganza-politica-por-firma-de-senadora-que-andaba-de-gira-con-kast-pide-que-fiscalia-y-senado-investiguen-a-senadores-castro-y-vodanovic-ambos-socialistas-6b0339b578ee992f6a277523",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Senadores"
+      ],
+      "fecha": "2026-11-22T18:59:18+00:00"
     },
     {
       "titulo": "Senador Araya (PPD) niega venganza política por fima de senadora que andaba de gira con Kast. Pide que Fiscalía y senado investiguen a senadores Castro y Vodanovic, ambos socialistas",
@@ -266,6 +278,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-22T15:24:05+00:00"
+    },
+    {
+      "titulo": "Encuesta Criteria: Desaprobación de Kast cae al 68% y respaldo presidencial alcanza el 23% - CNN Chile",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUtFTFlGVDdQOFZYYmpMNGpIbWpGcXlDbmotaUNFb3l5dlM2cFJnYzA4TTAzSXRDSmxXbVNhMUZ5X2NZUk94NldtemVtMHZwMzZvSjJZTEVxUGpqZFJiUlJXRmNFZ1c0RXpkMTZXX0RacXZXODlOT2NnUGRGQ2R1U0g2Z1JDNFUtcmxaMXh6WHo2bFZ4S2prUUY2dzJJdk8xNHV1SXpoRzRPczAxQ09lSHdFbmo1VG5qT2c?oc=5",
+      "fuente": "CNN Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Encuesta Criteria: Desaprobación de Kast cae al 68% y respaldo presidencial alcanza el 23%&nbsp;&nbsp;CNN Chile",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-22T15:23:53+00:00"
     },
     {
       "titulo": "Encuesta Criteria: Kast repunta, pero casi 7 de cada 10 chilenos rechazan su gestión - El Observatodo",
@@ -5621,28 +5644,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-18T14:47:00+00:00"
-    },
-    {
-      "titulo": "Expresidente Gabriel Boric se incorpora como comisionado a ONG internacional que impulsa impuestos a los 'súper ricos' - Meganoticias",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcnhJUERwS2VTanRQa3Z4d1RuSGdjV1oxRmkxVG5LV0xQOVdwLV8xYzBndHllaHByLV92Ym5VZlJmVUVzQ2VDNS0tcjBwcFNPdk1nMlMtcUx4ZTVqSVpVVGZuUzRmMDliV0o2cWFzTTBhSnNobkZISGdhTHRBd0NseElDak8tVXJFOTRrN3hNMTJoMTMyVS1Udm1hUUtSRDhyRWJNa0JSMmFxTDBuaFluUDRVSDhvVy1qNVE1SlJUSlc3SHh3SXU5VjlDOUExMDA3dGg00gHYAUFVX3lxTE5vNWh3TmR5bTY0RDNHV2xUZlFoZFJqT0dvTXktOFV6VlNCV1pFZkotakFpUzktNDd3WTJqWXpKVW4wY2hwdmFWSDRUdFFkRzBSM2NGeWRka0dscHNYdzV1VnZ0eDV0Wm1PTDdQTV9tS18tQW9qZEJlMDdHR0k5YlZpMG5WSmNJOXlaZUN4SkhMaHhNcXBhd1B1M29qdjkzMjhjbWRBaWVfN20xVU96VGgxbTJBY3hRYldkUmI5eHV4MXBBZEpaQ0hJNDZ2UWdVSGhRNEtpS2tUUQ?oc=5",
-      "fuente": "Meganoticias (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Expresidente Gabriel Boric se incorpora como comisionado a ONG internacional que impulsa impuestos a los 'súper ricos'&nbsp;&nbsp;Meganoticias",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-18T14:40:00+00:00"
-    },
-    {
-      "titulo": "Parisi señala que “los puentes nunca van a estar cortados con La Moneda” tras dichos de Arenas, pero que podrían afectar AC contra Rabat - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbTFMQzNkazFhSmR2SUlUWVZIMkg3VVdDNXdVWFYzQTJTamZjeE5INWlKTHQyN05IcTU3NmtuT1NUOG11eE1mcG9QeEV5cDFDNkpMUVp5dGFpYjF1OTl4M2ZUUGpsNjdXNWtrTEYwcGVlUXpqbm9WNDd4UFRPUXRwX19mMVk1OGx5VUVlelhENHk3TEFsOWxVQXFjYS00d0Y1b0NRX05mSmdsTEJ4M3A5T0tWaGxYZk1ud0I2dFdOY05jeDZaYjNpNmxBbGNTZ1Z6bDI4cklpYkd5TmdsNXpaSl82NURwVlNYd1BlMGdmekFPNmxvNk5qRm9FV1VJVXNad0RQNS1HZl_SAaoCQVVfeXFMTUpMRWlNRXluNU5tQnlydXUwWXIyTUNKWUZNckN5QWhHX2VnbTE2cjk4ajBoRnpFeFU2TXNjZmdjbzE3UnJucjlBUjdvMkxnVnBwT2lEQ1hqblk1ZmctOHl3NFFTcWNOV0RxajlGVXVSU0taelFqams5YnVTRUxyc0loUkl4d19LWUZlcUlqY1pSc3JxLThxQU10WGtIaVVuV0R3b0pGSmxVR0s4S0F1UlJlNDRHbWZBSEc4ZlZFRmhYZlZtQXNmLXVqSVAtY0ZBNndVRkFQOFBBR0xTYjVyVnpfdXdQZDlqSlVpSFpnTk5YT3hIcjdVT0lJRWxCUmJ3SkJBWDdSei1ES0JZbGs2cE1WOG83OVczUG8xOXN6TDNuQjFfeDlzQlZ6dw?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Parisi señala que “los puentes nunca van a estar cortados con La Moneda” tras dichos de Arenas, pero que podrían afectar AC contra Rabat&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-18T14:35:49+00:00"
     }
   ]
 }
