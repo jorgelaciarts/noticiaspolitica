@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-22T12:01:21.853500+00:00",
+  "actualizado": "2026-11-22T12:16:26.392246+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Excanciller Juan Gabriel Valdés: “No hay una hoja de ruta, no hay una pista de hacia dónde va Chile”",
+      "link": "https://www.theclinic.cl/2026/11/22/excanciller-juan-gabriel-valdes-no-hay-una-hoja-de-ruta-no-hay-una-pista-de-hacia-donde-va-chile/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "El diplomático analiza la conducción internacional del gobierno de José Antonio Kast y cuestiona la falta de un horizonte claro en política exterior. Aunque valora el acercamiento comercial con China, advierte sobre los riesgos que representa para la soberanía chilena la participación en el Escudo de las Américas y critica la presión de Estados Unidos por el proyecto de cable submarino chino. Adem",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-22T11:00:00+00:00"
+    },
     {
       "titulo": "Entre los gestos de Xi Jinping y las crisis en Santiago: el balance interno del Gobierno a la gira más extensa de Kast desde que llegó a La Moneda",
       "link": "https://www.theclinic.cl/2026/11/22/entre-los-gestos-de-xi-jinping-y-las-crisis-en-santiago-el-balance-interno-del-gobierno-a-la-gira-mas-extensa-de-kast-desde-que-llego-a-la-moneda/",
@@ -5626,17 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-18T11:35:51+00:00"
-    },
-    {
-      "titulo": "Presidente Kast continúa su visita en China y encabeza lanzamiento de cerezas chilenas en Shenzhen - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQckhqc215XzFRMzBjajNnSWh2Ui0yQ18xbFVyNGdTWXpqSlhkSUVKdHVHN2w2M0YyQ2dTTUlxT2tETG9NLUtIZkR5d0FNTGg4ZDFCYzJsbGRFZC1VRXhnUnNIU1pndG4yTFR1aE56V3VLc1U3ZDRvclBLdlpLSFNCYWRPWlF3MEVaWE14Z1c2dHE5cExMSnNsbmlvOTVzU0xPdURsTE1VdURDZWplUzI3WF9qYkJ3aG5ER2Y3ckFJZWRMSnJxbDBqZklLRUdsaVnSAeMBQVVfeXFMUE5uTnE0XzlzWktEdFJXNTVxZFdvdWphN2hablY4N2lSLUhXSmJrNHBWdS1uZ055bjd3RXlGR1BYNXFOS2hRQS1Ra3lkSzJTeEJUU0RMR3RnNWt0NEMxckpfZ1Nxc0RkTExuTERWTngtRlVncXBzaHUwaHhfTGFLVGZpckVybFdxTzJqblJ3UnpjWWtzbVl1bWtwNFBPSGdDRVBhZWRYNWF1Wkloa21Iek9oR3BUWlpzUW1sblQxeG9HQVFkOEdTZVBJTkxVZEVsckZoNzVjZ2JveHk0dXRZekd3ZzQ?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast continúa su visita en China y encabeza lanzamiento de cerezas chilenas en Shenzhen&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-18T11:33:27+00:00"
     }
   ]
 }
