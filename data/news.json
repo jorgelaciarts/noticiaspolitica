@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T01:31:23.308726+00:00",
+  "actualizado": "2026-11-22T01:46:28.881623+00:00",
   "total": 500,
   "items": [
     {
@@ -294,6 +294,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-21T13:50:12+00:00"
+    },
+    {
+      "titulo": "Alcalde de Graneros cuestiona falta de estrategia de seguridad del Gobierno - El Rancagüino",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFRzdi02S2w1dElHdmZpVlN5OHZIRG90VEt5TzlNdFFLbS1xLXk1LU1nbi1iOTJ5U01hd0VUREU0WW9DN3UwMDZkSW83NWk4VmVUUktjdUxPajBYVGt1Q1I4c25sd2pkWjRPUURBdXI1cnpla2RGaFlRejlTVnRtRjM1RHJwdjF4cTFfb1NxZnJEYjFjRl83czViSDRuVG5EaE84elRGZnNfNmUwbGFYQ0Y4d1Zvdw?oc=5",
+      "fuente": "El Rancagüino (vía Google News)",
+      "region": "O'Higgins",
+      "resumen": "Alcalde de Graneros cuestiona falta de estrategia de seguridad del Gobierno&nbsp;&nbsp;El Rancagüino",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-21T13:37:00+00:00"
     },
     {
       "titulo": "Juan Luis Castro apunta a Paulina Vodanovic por retiro de permisos en el Senado: “Jamás ha habido falsificación” - ADN Radio",
@@ -5625,18 +5636,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-18T10:09:59+00:00"
-    },
-    {
-      "titulo": "Ministro vocero de Gobierno Gonzalo Arenas afirma que el buque  Danstar debe solicitar permiso para navegar hacia Malvinas/Falkland",
-      "link": "https://laprensaaustral.cl/2026/11/18/ministro-vocero-de-gobierno-gonzalo-arenas-afirma-que-el-buque-danstar-debe-solicitar-permiso-para-navegar-hacia-malvinas-falkland/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Varios traspiés ha acumulado esta semana el ministro vocero de Gobierno, el gremialista Gonzalo Arenas, quien llegó al cargo con la misión de ordenar y solucionar los problemas comunicacionales del Ejecutivo. En entrevista con CNN, cuestionó la forma de hacer política del Partido de la Gente, en medio de las negociaciones del gobierno para evitar...",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-18T10:02:31+00:00"
     }
   ]
 }
