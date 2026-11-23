@@ -1,7 +1,40 @@
 {
-  "actualizado": "2026-11-23T18:16:32.388135+00:00",
+  "actualizado": "2026-11-23T18:31:37.905567+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La venta de humo está \"económica\" en La Moneda. Por Alfredo Peña R. Periodista",
+      "link": "https://cambio21.cl/tendencias/la-venta-de-humo-esta-economica-en-la-moneda-por-alfredo-pena-r-periodista-6b045fd8968bc765c17da6fd",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-23T18:25:26+00:00"
+    },
+    {
+      "titulo": "Kast nuevamente se pone plazos. Se fija 100 días para mostrar resultados de su Gobierno: \"Vamos a rendir cuentas el 11 de marzo\"",
+      "link": "https://cambio21.cl/politica/kast-nuevamente-se-pone-plazos-se-fija-100-dias-para-mostrar-resultados-de-su-gobierno-vamos-a-rendir-cuentas-el-11-de-marzo-6b047c7e8be15f06902634b3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-23T18:14:15+00:00"
+    },
+    {
+      "titulo": "Orrego propone financiar el último tramo de la ciclovía Nueva Alameda",
+      "link": "https://www.cooperativa.cl/noticias/pais/ciudades/santiago/orrego-propone-financiar-el-ultimo-tramo-de-la-ciclovia-nueva-alameda/2026-11-23/144232.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El Gobierno Regional Metropolitano asumirá el financiamiento del tercer y último tramo de la ciclovía Nueva Alameda, luego que el Ministerio de Vivienda y Urbanismo retirara los recursos destinados a su construcción en marzo de este año.\nLa inversión será de más de 7.200 millones de pesos en un tramo restante que comprende 3,8 kilómetros, desde la calle Exposición hasta el eje Pajaritos, por lo qu",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-11-23T17:42:32+00:00"
+    },
     {
       "titulo": "Soto pide a Rabat que \"dé la cara\" ante la comisión revisora",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/soto-pide-a-rabat-que-de-la-cara-ante-la-comision-revisora/2026-11-23/144125.html",
@@ -5613,39 +5646,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-19T10:33:09+00:00"
-    },
-    {
-      "titulo": "Alvarado abordó acuerdo con Open IA con Lincolao en La Moneda y descartó llamado de atención - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeU9VSHNNMkJVVHhtVERrUi1kOUd0RDFydTN2T3NybHlWNW1tNnFOTHFfTVdmaDYwcGJ3ZnVRcHF2YzJ0cnBmZE5TaDFtSVFEazJMdmhSSl84c2hMSjJfaUtTRHJkaW5xS1h4cm1GZ2Juc1FveFZ3ejI0eE1seFh0clZRdkYyVGREUGtpck0tZ0R6Y09lTnAyNzYxSUpnVnJzT3R2akhXSC0xYXBCcHJBbGJFTlNLM0Y1dlo4aFktNklvR3Z3S1RF?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alvarado abordó acuerdo con Open IA con Lincolao en La Moneda y descartó llamado de atención&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T09:56:14+00:00"
-    },
-    {
-      "titulo": "Citando a Trump y Xi : Kast debuta en cumbre APEC y describe alianza como una familia de \"naciones libres y soberanas\" - Emol",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcVEzdnl1N19DRVg3TE5qMDFMSlBLb2gwZDVpSkRPSC16Z0dkNlhUYjZscmQ5X0xhd1l6Q21CS1ZlNUhaSDhsUU5IYkNJeHVvVXJtNWRQdUpvMTBIU19MYUdyclpId3hFcXNsX1FQTVIzWjl2QzR4OThIVUxsZ1NuOXQ4eHZRalNpMWJodnV0UmwzZw?oc=5",
-      "fuente": "Emol - Nacional (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Citando a Trump y Xi : Kast debuta en cumbre APEC y describe alianza como una familia de \"naciones libres y soberanas\"&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T09:53:42+00:00"
-    },
-    {
-      "titulo": "Arturo Fontaine y el momento del Gobierno de Kast: “Estamos ante el riesgo de un vacío de poder” - EL PAÍS",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNM3FNcktOMnUxSVEzMlVZMDIxcjNiRWpqcmNCYXpOQW9nZTVxVFdxSlZlMGp5dUowMkFKOXozMy1uQVBpS05SR0NZbWpOZzRwcktEVFZabEtweERVUVNRVzVPQXlPd2RuR2ZRWjVjMUJISm1iNmtEWWtWV0xwWVNxSmNpblNpZFg0d1h1MG1pXy1iQzlLd2NMbnVfYW9HOWN5N3BpQWFtTk9adDZaaGJqdnlTRVoyaTN6WG1rSlF6ZG50b1RuT19Ob1VfN19EM2_SAeMBQVVfeXFMUEhFZThqMElsOGxHZkl0RnZQdmNRT3VpZlVxdDk5SGFuTHdzYTNvZTR4OXVnZXJpSzBOS1E2QllmLTJuc0hVdHdfcUpSSGI3VC0xSWxrejJaZkRleHVhZ29HR0Z6SUViX212bC1kaFY1NDFoMGZjNldZV3VmOEp6SE1sQ1kxVTY1cEVZdE1rb1dRQ0dNWWNHVmxjOFZhU0pfMkJrNnZTdHNhR3M2c1VneE9WU0VUVmhpNEY0dnJZUnA3VXM3LUxNX1Q2Z3JrbC1PRUVqbU5nLXhhY3cxMUZ0Qm5MWTg?oc=5",
-      "fuente": "El País - Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Arturo Fontaine y el momento del Gobierno de Kast: “Estamos ante el riesgo de un vacío de poder”&nbsp;&nbsp;EL PAÍS",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T09:30:00+00:00"
     }
   ]
 }
