@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T01:16:25.413606+00:00",
+  "actualizado": "2026-11-23T01:31:19.404895+00:00",
   "total": 500,
   "items": [
     {
@@ -56,6 +56,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-22T22:36:43+00:00"
+    },
+    {
+      "titulo": "Municipalidad de Quellón decreta tres días de duelo tras fatal accidente en Chiloé - Teletrece",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM3kxRUZPUWw1cHdDSU1nMjJTb1RWd3ZmYWV5UUpRVEF0UTk2cF9rSDZnS3RVWnZlTVNLMGR2SWpsdjRfVE9MSXZlMmpsbGpMRThPLWR2Nl80bXVUbExjNGw5WmttcVdtN1Y3emQ4NGdWOWRzX192TmVXZVlWMkszZUFpVmVURVYycExUSnlhVGM0MlZ5RnZiVDh0QUhWX1VMZHhPT2NlNldZSjI3RWNWY1BTN2Nlb1h2QTFJMw?oc=5",
+      "fuente": "T13 (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Municipalidad de Quellón decreta tres días de duelo tras fatal accidente en Chiloé&nbsp;&nbsp;Teletrece",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-22T21:50:14+00:00"
     },
     {
       "titulo": "Criteria: Aprobación de Kast sube a 23% pese a rechazo al acuerdo con camioneros - La Tribuna",
@@ -5632,17 +5643,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-18T15:03:41+00:00"
-    },
-    {
-      "titulo": "GORE de Santiago anuncia el primer centro de entrenamiento para inspectores municipales de Chile: costará $350 millones",
-      "link": "https://www.theclinic.cl/2026/11/18/gore-de-santiago-anuncia-el-primer-centro-de-entrenamiento-para-inspectores-municipales-de-chile-costara-350-millones/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El recinto estará emplazado en el Parque Lo Errázuriz y busca capacitar a funcionarios de las 52 comunas de la Región Metropolitana. La iniciativa surge en medio de las nuevas exigencias de formación que establece la Ley de Seguridad Municipal y contempla entrenamientos de defensa personal, conducción especializada y procedimientos de seguridad.\nThe post GORE de Santiago anuncia el primer centro d",
-      "categorias": [
-        "Gobernadores regionales"
-      ],
-      "fecha": "2026-11-18T15:01:15+00:00"
     }
   ]
 }
