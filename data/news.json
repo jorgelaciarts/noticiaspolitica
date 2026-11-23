@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-23T13:31:34.453043+00:00",
+  "actualizado": "2026-11-23T13:46:35.137135+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "En medio de polémica por caso Firmas, Vodanovic se ausenta de reunión opositora",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/en-medio-de-polemica-por-caso-firmas-vodanovic-se-ausenta-de-reunion/2026-11-23/103304.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En medio de la polémica por el caso Firmas, la presidenta del Partido Socialista, Paulina Vodanovic, no asistió este lunes a la reunión semanal de coordinación de partidos de la oposición, que se realizó en la sede del PPD.\nCabe recordar que el senador Juan Luis Castro apuntó durante este fin de semana a la presidenta de su partido como quien tuvo la idea de retirar los permisos constitucionales d",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-11-23T13:33:04+00:00"
+    },
     {
       "titulo": "Juan Luis Castro descarta falsificación de firmas en el Senado pero asume su error: “Yo soy el responsable, el que da luz verde”",
       "link": "https://www.theclinic.cl/2026/11/23/juan-luis-castro-descarta-falsificacion-de-firmas-en-el-senado-pero-asume-su-error-yo-soy-el-responsable-el-que-da-luz-verde/",
@@ -89,6 +101,18 @@
         "Senadores"
       ],
       "fecha": "2026-11-23T13:00:33+00:00"
+    },
+    {
+      "titulo": "Concejales Río Bueno anuncian que aprobarán renuncia de alcalde Luis Reyes: está en prisión preventiva - BioBioChile",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRlZIZnJGM0lwYTdpT0dNNURVa0lIbi1naXdybm5pS1VpLTZhRi1TZzZ1MTNzaHA2bVZOaXgzTm9kN3FydVNacmpqVThnU2dYZVBhSElDU2x6TTdMN083eWFxLTh3cUxqNWhRdXBCUUFiU09fdmZRXzZuWk43MzZkQ0xuNDZPMmdoQ1pLTmtWYUhlUU5fcUFLdFlmS1FZRFhJVmNna1ZPUGRBWWExd1JtZ0hRSDByenpWRXFtbFVXTDd2WnphZDlrRDZpbFFDM011T0JsSWd4MWdhc0RIRmhOeXUwQzlKdUxEV1JiR2YxaF9WZ3RSbVRSazJoWUpuMHhtWm55VVRQTGJCa2NvMVdr?oc=5",
+      "fuente": "BioBioChile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Concejales Río Bueno anuncian que aprobarán renuncia de alcalde Luis Reyes: está en prisión preventiva&nbsp;&nbsp;BioBioChile",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-23T12:56:07+00:00"
     },
     {
       "titulo": "Criteria: Cristián Valdivieso analiza el alza de la aprobación de Kast al 23% - Radio Pauta 100.5",
@@ -5615,28 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-18T20:40:26+00:00"
-    },
-    {
-      "titulo": "Diputadas de oposición se retiran de la Comisión de Mujeres ante asistencia de Rabat - Teletrece",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRWZlMnJWUXc5ZVJyeUtySmZ0ekdaZmhScDBULVVVNHNBMDFFWE1IbDlIU3QxYjRzN3JKY090cVV0NV82R2NxOFNnWmZkNXBrOXc5THEwcHJtcm5wYkVMMkd5WmhMWEducGJ3M0ZfRGJPSUdNNERmNDFwZWJidHRINDhTQjlDUHBkWVVLX2gtVFZ4VnBxT2t6WmI4dHNnZ2NsYUFQOFlkNW5MdzV4TkdjYXJmRTBBblU?oc=5",
-      "fuente": "T13 (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Diputadas de oposición se retiran de la Comisión de Mujeres ante asistencia de Rabat&nbsp;&nbsp;Teletrece",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-18T20:35:30+00:00"
-    },
-    {
-      "titulo": "Gabriel Boric anuncia que será padre nuevamente junto a Paula Carrasco: esperan a su segunda hija - La Tribuna",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUEdRUnhPeWZQOXFQOG5pOXVYVkZ4ZHBub3RqYXpXdEFJdUx3bzlSY0ZjQ0JJazVVaVNOQU41X2xqY2Z2SHZzX1FveFhKV2dFR3laenZiSkMyMEhscU5XME40TUdUYTBpWERrQlFINlRFcmFTWm13S1RQLU05Y2NLRnI3MFlRR0dTQ0x0XzhZeGlSZlhSeWRMTVJtNzdlLTJMTVo3ZHlUeWhUWF9INmVWUHo4dUI0b3NZUjlaUUtRX0EyRWJ1dlJJcWRTQlBGeVhoZVRLRjAtRUI0bWR1RnBpVTZLYTlfdEFPT2ZN0gHzAUFVX3lxTE01bXdhOVhQOGhzZkVSQ2N3VE9mQVdZeTVzdF9RN3hOTXV1MVEyeThNT0thSklQLW5BcHNMeld5UWdDSDI4S1J4WVlPLVdPdkxQdlRURlRWeXlPanFhX1FZT3pVRkx4LXVzM1RJdkREMFYwTUptSGdLc0N3Z2w3ODZiUjhRc1NkRlZsU0VzelpfMVk2LXdJRnNsVms3SzFuS1FIVTlhM1lqeDhMc0ZOUWFZXzhFZnJMNkFRak1WRTEzRUFHYld1QUdLbW5TRlZjc3pWYVAteU90WkdIVDNiV2FSQ0ZGMFpPSUtrcnA4aldGb21Cdw?oc=5",
-      "fuente": "La Tribuna (Los Ángeles, vía Google News)",
-      "region": "Biobío",
-      "resumen": "Gabriel Boric anuncia que será padre nuevamente junto a Paula Carrasco: esperan a su segunda hija&nbsp;&nbsp;La Tribuna",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-18T20:34:42+00:00"
     }
   ]
 }
