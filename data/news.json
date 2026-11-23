@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T00:16:30.811520+00:00",
+  "actualizado": "2026-11-23T00:31:24.419082+00:00",
   "total": 500,
   "items": [
     {
@@ -299,6 +299,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-22T15:45:09+00:00"
+    },
+    {
+      "titulo": "Tragedia en Chiloé: Choque dejó seis fallecidos, cuatro de ellos menores de edad",
+      "link": "https://www.cooperativa.cl/noticias/pais/region-de-los-lagos/tragedia-en-chiloe-choque-dejo-seis-fallecidos-cuatro-de-ellos-menores/2026-11-22/123331.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Seis personas fallecidas -cuatro de ellas menores de edad y dos adultos- y cinco lesionados de diversa consideración dejó una colisión vehicular ocurrida durante la mañana de este domingo en la Ruta 5 Sur, en el tramo comprendido entre Ancud y Castro, dentro de la comuna de Dalcahue, Provincia de Chiloé.\nEl siniestro vial se produjo cerca de las 09:00 horas a la altura del kilómetro 1.152, en el s",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-22T15:33:31+00:00"
     },
     {
       "titulo": "Una figura \"con futuro\": Trasciende el nombre del próximo embajador de China en Chile",
@@ -5632,17 +5643,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-18T14:58:42+00:00"
-    },
-    {
-      "titulo": "EN VIVO: Diputado Santana (PS) analiza la contingencia política y nacional - Emol TV",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU21naXZneFF0MTgyMnUta0NOVTNqdmVwR1FhSUlHS050d3ViM1lhSjEzRXlUWGp0dlpER3pPZ2VSZVBZaXc4ODY3dm54eTFtT2U1MktOeHhxUktCUjQtaXNsSU5reEhsUndhN0lIMmdlLVZPeEpBYWFScERmczg5S3E3LWdpUnd1Vm9kM2tRWWJCSzRxRGhQcXdFczE0V3ZDMTBfYTFhMnJhSVpxQkEzWUpBR1Y5Nnc?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "EN VIVO: Diputado Santana (PS) analiza la contingencia política y nacional&nbsp;&nbsp;Emol TV",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-18T14:54:33+00:00"
     }
   ]
 }
