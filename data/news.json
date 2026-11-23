@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-23T10:46:14.178604+00:00",
+  "actualizado": "2026-11-23T11:01:29.464739+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "La fragilidad del relato gubernamental en Magallanes",
+      "link": "https://laprensaaustral.cl/2026/11/23/la-fragilidad-del-relato-gubernamental-en-magallanes/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La caída de la aprobación del Presidente José Antonio Kast a sus niveles mínimos en las últimas encuestas nacionales no es un fenómeno aislado de la política central. Aunque desde La Moneda se intente desestimar el impacto de los sondeos de opinión pública, las cifras reflejan un desencanto creciente que encuentra un preocupante correlato en...",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-23T11:00:12+00:00"
+    },
     {
       "titulo": "Sobrino contratado, tío ad honorem: así opera el equipo de la diputada PNL Paulina Muñoz",
       "link": "https://www.elciudadano.com/chile/equipo-parlamentario-paulina-munoz-sobrino-tio-ad-honorem/11/23/",
@@ -5626,18 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-18T16:51:36+00:00"
-    },
-    {
-      "titulo": "Diputados anuncian interpelación contra ministro Jorge Quiroz: acusan gestión económica y laboral “desastrosa” del gobierno de Kast",
-      "link": "https://cambio21.cl/politica/diputados-anuncian-interpelacion-contra-ministro-jorge-quiroz-acusan-gestion-economica-y-laboral-desastrosa-del-gobierno-de-kast-6afdd3fea315cc7bff441b43",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-18T16:41:38+00:00"
     }
   ]
 }
