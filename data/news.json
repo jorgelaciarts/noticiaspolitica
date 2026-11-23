@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-23T11:01:29.464739+00:00",
+  "actualizado": "2026-11-23T11:16:23.656541+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "EN VIVO: Senador Celis (PPD) analiza la contingencia política y nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHZKckltYVNkUnZsTW12RkFSSVV0OHBTVGlmVkFtbjdreTRMM2dPeE9SMW5CZHVkV1pBal9sVWhrOVg1TlVCSGsxdFZiWVZiUV9HTWhBajlFeHd0cDE3a3lnRGNmdWZBa2ZPSUtEUWJDa0tmOTAxRm1sOUZiWjBfWFd0N1hWWk5ldDRoWGJlaF9ncFAxMUFzUzdVRzNPQTMxTXNZUjhfbmxlUzJqelVPVnJ0Wk0?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Senador Celis (PPD) analiza la contingencia política y nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-23T11:03:45+00:00"
+    },
     {
       "titulo": "La fragilidad del relato gubernamental en Magallanes",
       "link": "https://laprensaaustral.cl/2026/11/23/la-fragilidad-del-relato-gubernamental-en-magallanes/",
@@ -424,6 +435,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-22T16:57:50+00:00"
+    },
+    {
+      "titulo": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\" - El Divisadero",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbTB6U2t2T0U5T0g1MDFRdi04elRjcDJmSXJWVUk2MkE4SHg2NWJ2SXlqSXF5WGJfTXNRdjNIS2FKMzBwRGlGdVdVVlppSWUyVE5JYkdIdi10NUhSWVdPZEZvbWx1U2x0R3loRTdLNDFyb1NkTldHdmVaODA0dlFybTRHYWdKbzg3OEoybTRPb1U4anpvaF9vY2M2MTl3SzhNeTlhTWt4RlVUYzEyY2RDRXhiVkRocGZfX09QeE1tVHZpNW1heFFkemRuaDdHRVYzcERBeVphZEFFVEgzS1dlZ3RldWU3dDBXN0VKWHBMdw?oc=5",
+      "fuente": "El Divisadero (Coyhaique, vía Google News)",
+      "region": "Aysén",
+      "resumen": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\"&nbsp;&nbsp;El Divisadero",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-22T16:57:18+00:00"
     },
     {
       "titulo": "Pese a críticas: oficialismo destaca gestión de Kast y apunta sus dardos contra la oposición - BioBioChile",
@@ -5613,31 +5635,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-18T16:55:10+00:00"
-    },
-    {
-      "titulo": "Campos descartó disculparse por su \"comer fruta como locos\", pese a gesto previo de Quiroz",
-      "link": "https://www.cooperativa.cl/noticias/economia/sectores-productivos/agricultura/campos-descarto-disculparse-por-su-comer-fruta-como-locos-pese-a/2026-11-18/135146.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El ministro de Agricultura, Jaime Campos, descartó este miércoles ofrecer disculpas por sus declaraciones sobre una eventual baja en el precio de la fruta en el mercado interno, producto de las lluvias que afectaron a los huertos.\nLa controversia surgió luego de que el secretario de Estado señalara en una entrevista en Radio Infinita, en medio del paro camionero, que, a consecuencia de las incleme",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-18T16:51:46+00:00"
-    },
-    {
-      "titulo": "PPD anunció que interpelarán al ministro Quiroz",
-      "link": "https://www.lanacion.cl/ppd-anuncio-que-interpelaran-al-ministro-quiroz/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "El Partido por la Democracia (PPD) anunció que interpelarán al ministro de Hacienda, Jorge Quiroz. Esto a raíz de la situación económica y la crisis de empleo que vive el país.&#160; Según informó T13, el presidente de la tienda, diputado Raúl Soto, dijo que &#8220;estamos preocupados por la situación económica y laboral del país. Hay [&#8230;]\nThe post PPD anunció que interpelarán al ministro Qui",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-18T16:51:36+00:00"
     }
   ]
 }
