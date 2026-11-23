@@ -1,7 +1,21 @@
 {
-  "actualizado": "2026-11-23T22:16:33.464439+00:00",
+  "actualizado": "2026-11-23T22:31:18.029907+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Caso Firmas: Brigada de Cibercrimen de la PDI realizó diligencias en el Senado",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-brigada-de-cibercrimen-de-la-pdi-realizo-diligencias-en-el/2026-11-23/190110.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La Brigada del Cibercrimen de la Policía de Investigaciones (PDI) llegó este lunes por la tarde a dependencias del Congreso Nacional para recopilar antecedentes en el marco de la investigación del denominado caso Firmas.\nEl escándalo indaga el presunto uso no autorizado de firmas para retirar los permisos constitucionales de viaje de los senadores opositores Ximena Órdenes (independiente-PPD) y Fi",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-23T22:01:10+00:00"
+    },
     {
       "titulo": "AC contra Rabat: Minju entregó a comisión revisora más de 1.800 decretos de rebaja de condena",
       "link": "https://www.cooperativa.cl/noticias/pais/politica/ac-contra-rabat-minju-entrego-a-comision-revisora-mas-de-1-800-decretos/2026-11-23/185556.html",
@@ -5631,18 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T13:38:00+00:00"
-    },
-    {
-      "titulo": "Ni 24 horas ni carta blanca: Suprema ordena a Rabat resolver «a la brevedad» solicitud de rebaja de condenado por violar a una niña",
-      "link": "https://www.elciudadano.com/justicia/ni-24-horas-ni-carta-blanca-suprema-ordena-a-rabat-resolver-a-la-brevedad-solicitud-de-rebaja-de-condenado-por-violar-a-una-nina/11/19/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nLa Corte Suprema determinó que el Ministerio de Justicia, encabezado por Fernando Rabat, debe pronunciarse \"a la brevedad\" sobre la solicitud de rebaja de condena  de un sentenciado por la violación reiterada de una niña, de este modo, el  máximo tribunal respalda un recurso de amparo presentado por la defensa ante la inacción de la cartera, ocurrida tras la decisión del Gobierno de J",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T13:27:02+00:00"
     }
   ]
 }
