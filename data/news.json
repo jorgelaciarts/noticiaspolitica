@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-23T23:16:08.686183+00:00",
+  "actualizado": "2026-11-23T23:31:18.190100+00:00",
   "total": 500,
   "items": [
     {
@@ -34,6 +34,19 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-23T22:53:40+00:00"
+    },
+    {
+      "titulo": "Alcaldes celebran decisión del GORE de rescatar y concluir la ciclovía Nueva Alameda",
+      "link": "https://www.cooperativa.cl/noticias/pais/ciudades/santiago/alcaldes-celebran-decision-del-gore-de-rescatar-y-concluir-la-ciclovia/2026-11-23/195218.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los alcaldes de Estación Central, Lo Prado y Maipú valoraron este lunes que el Gobierno Regional (GORE) Metropolitano, encabezado por Claudio Orrego, asuma el financiamiento del tercer y último tramo de la ciclovía Nueva Alameda, luego de que el Ministerio de Vivienda y Urbanismo (Minvu) retirara los recursos comprometidos para su construcción.\nLos jefes comunales criticaron la decisión inicial de",
+      "categorias": [
+        "Partidos políticos",
+        "Gobernadores regionales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-23T22:52:18+00:00"
     },
     {
       "titulo": "Claudio Orrego anunció que el gobierno regional pagará el último tramo de la ciclovía Nueva Alameda. Criticó al gobierno que había paralizado esta obra",
@@ -5634,17 +5647,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-19T13:48:00+00:00"
-    },
-    {
-      "titulo": "Expresidente Boric suma nuevo capítulo a su agenda en el extranjero y participará en la primera cumbre contra la “oligarquía internacional” en Paris",
-      "link": "https://www.theclinic.cl/2026/11/19/expresidente-boric-suma-nuevo-capitulo-a-su-agenda-en-el-extranjero-y-participara-en-la-primera-cumbre-contra-la-oligarquia-internacional-en-paris/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El exmandatario será uno de los oradores de la primera Cumbre de París contra la Oligarquía Internacional, que se realizará este sábado 21 de noviembre. La cita, impulsada por el economista francés Gabriel Zucman, reunirá a figuras como Joseph Stiglitz, Paul Krugman y Thomas Piketty. La participación de Boric se conoce un día después de que se anunciara su incorporación a Icrit, una de las organiz",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T13:44:52+00:00"
     }
   ]
 }
