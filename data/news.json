@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T18:31:27.822695+00:00",
+  "actualizado": "2026-11-24T18:46:23.850730+00:00",
   "total": 500,
   "items": [
     {
@@ -36,6 +36,18 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T17:58:48+00:00"
+    },
+    {
+      "titulo": "Rabat defendió legalidad de sus actos mientras avanza derogación de rebaja de condenas",
+      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/rabat-defendio-legalidad-de-sus-actos-mientras-avanza-derogacion-de/2026-11-24/145012.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "\"Estoy muy concentrado en seguir trabajando como ministro de Justicia y Derechos Humanos (...) tengo la convicción más absoluta de haber cumplido con la Constitución y la ley\", aseguró Fernando Rabat este martes en medio de las críticas por sus ausencias a la comisión revisora que analiza la acusación constitucional en su contra.\nEl secretario de Estado, quien delegó su representación formal en el",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T17:50:12+00:00"
     },
     {
       "titulo": "Senador Castro por firmas: \"Yo hago la política, la responsabilidad administrativa obviamente la tiene el coordinador” - 24horas",
@@ -5630,17 +5642,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-19T21:46:59+00:00"
-    },
-    {
-      "titulo": "Desde $4 hasta $12 millones: cuánto ganan los agregados presidenciales de Kast en el extranjero, cargos que asumirán Steinert y Gnecco",
-      "link": "https://www.theclinic.cl/2026/11/19/desde-4-hasta-12-millones-cuanto-ganan-los-agregados-presidenciales-de-kast-en-el-extranjero-cargos-que-asumiran-steinert-y-gnecco/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "De acuerdo a lo que pudo constatar The Clinic, el mandatario cuenta con siete agregados presidenciales que cumplen funciones en la OCDE, la OEA, y en Ginebra, además de las respectivas embajadas del país en España, Perú y Argentina. Las remuneraciones están establecidas por ley y no pueden superar la retribución que reciben los funcionarios de Cuarta Categoría Exterior planta \"A\", la que correspon",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T21:41:45+00:00"
     }
   ]
 }
