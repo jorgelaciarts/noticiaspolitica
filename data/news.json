@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-24T23:31:24.964976+00:00",
+  "actualizado": "2026-11-24T23:46:26.084581+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-24T23:15:36+00:00"
+    },
+    {
+      "titulo": "GORE invierte más de $936 millones en proyectos para Santo Domingo y San Antonio - UCV radio",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEt5V3p5bURNUG5XaFUxcFp2MjRrMEtyMG5TNHZRclBTZFNUV2RtWTVjY05JWVhlcXA2dGEwTFdNTk5wS2hWb3lpaU8wa1lzMjV2aXhSNGVkblVDR1dOd1o3R3lDN094ZFNYLVFYUkxNX0N1M1BZVXNaYXdReGtWZnVJT3gtMkFBSUVxLWFXOGR4TlRKLWh0NEE2OEtZZEJHNGxiRGFNRmM?oc=5",
+      "fuente": "UCV Radio (Valparaíso, vía Google News)",
+      "region": "Valparaíso",
+      "resumen": "GORE invierte más de $936 millones en proyectos para Santo Domingo y San Antonio&nbsp;&nbsp;UCV radio",
+      "categorias": [
+        "Gobernadores regionales"
+      ],
+      "fecha": "2026-11-24T23:05:06+00:00"
     },
     {
       "titulo": "Senador Juan Luis Castro publica declaración de disculpas dirigida a Ximena Órdenes tras exigencia de bancada PPD - ADN Radio",
@@ -5631,19 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-20T11:22:55+00:00"
-    },
-    {
-      "titulo": "“Kast fue electo para solucionar los  problemas y no para ser comentarista”",
-      "link": "https://laprensaaustral.cl/2026/11/20/kast-fue-electo-para-solucionar-los-problemas-y-no-para-ser-comentarista/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "El presidente del Partido Nacional Libertario, Johannes Kaiser, manifestó este jueves estar decepcionado con las decisiones que ha adoptado el gobierno de José Antonio Kast por la Ley de Presupuesto. Llamó al Mandatario a resolver los problemas y no ser un comentarista. “Como partido estamos decepcionados con la presentación de la Ley de Presupuesto en...",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-20T11:21:33+00:00"
     }
   ]
 }
