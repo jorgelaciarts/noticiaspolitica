@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-24T14:16:23.290053+00:00",
+  "actualizado": "2026-11-24T14:31:27.285716+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Producir más, informar menos: ¿elegí la peor época para hacerme periodista?",
+      "link": "https://www.elciudadano.com/chile/producir-mas-informar-menos-elegi-la-peor-epoca-para-hacerme-periodista/11/24/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPor Álvaro Ortiz Villalobos The Front Page (1974), dirigida por Billy Wilder y protagonizada por la dupla de actores Jack Lemmon y Walter Matthau, es una película que ilustra muy bien lo mucho que ha cambiado el negocio de las noticias. Basada en una obra de teatro de 1928, la película sigue a un periodista [&#8230;]\nLa entrada Producir más, informar menos: ¿elegí la peor época para h",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T14:24:10+00:00"
+    },
     {
       "titulo": "Kaiser responde a críticas de Meza-Lopehandía: “La izquierda no va a ganar elecciones si los hijos tontos de los ricos siguen ninguneando a la gente de trabajo”",
       "link": "https://www.theclinic.cl/2026/11/24/kaiser-responde-a-criticas-de-meza-lopehandia-la-izquierda-no-va-a-ganar-elecciones-si-los-hijos-tontos-de-los-ricos-siguen-ninguneando-a-la-gente-de-trabajo/",
@@ -5632,19 +5643,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-19T17:51:22+00:00"
-    },
-    {
-      "titulo": "Se salva \"Yo elijo mi PC\" tras acuerdo transversal en el Senado",
-      "link": "https://www.cooperativa.cl/noticias/economia/presupuesto/se-salva-yo-elijo-mi-pc-tras-acuerdo-transversal-en-el-senado/2026-11-19/144603.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Un acuerdo transversal alcanzado este jueves entre el Gobierno, el oficialismo y la oposición permitirá dar continuidad a las Becas de Acceso a Tecnología, Información y Comunicación (TIC) de Junaeb -incluido \"Yo elijo mi PC\"-, luego de que el Ejecutivo comprometiera la incorporación de 35.000 millones de pesos en la partida del Ministerio de Educación del Presupuesto 2027.\nEl compromiso, que revi",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores"
-      ],
-      "fecha": "2026-11-19T17:46:03+00:00"
     }
   ]
 }
