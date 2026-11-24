@@ -1,7 +1,51 @@
 {
-  "actualizado": "2026-11-24T16:16:33.488865+00:00",
+  "actualizado": "2026-11-24T16:31:43.538502+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El Carmen dará inicio a sus celebraciones navideñas el 11 de diciembre con árbol de 12 metros",
+      "link": "https://ladiscusion.cl/el-carmen-dara-inicio-a-sus-celebraciones-navidenas-el-11-de-diciembre-con-arbol-de-12-metros-y-feria-de-emprendedores/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La Municipalidad de El Carmen dio a conocer el calendario oficial de celebraciones para fin de año, iniciativa que tendrá como punto neurálgico la Plaza de Armas de la comuna. Según informó el alcalde Renán Cabezas, el puntapié inicial se realizará el viernes 11 de diciembre con el tradicional encendido del árbol navideño de 12 [&#8230;]",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-24T16:29:59+00:00"
+    },
+    {
+      "titulo": "Diputado comunista cuestiona defensa de ministro Rabat: “¿Qué ley le otorga la facultad para decidir si una ley se aplica o no?” - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVV9DM3dlZGphSldZSVlJYzI5eE56eEtXYWFlSGhUb1dzY09WRzdhd2luY2h3SVJBWERrLWVxV0piRmJONndISUpNTHlmVGwxZ3Y2WUlXeVBMeE8xb1JuZzQzdnRPYmw3eW5BRXM3dU9nNnowbkl2OFdQR3dWNHlwLTRkS20xZk1zLWpXUGNLUkNBakQ4QkpXTmRtUEJTOTNSOF9kUFE4eTFUakxITVdkMm50c0ZOUkF0X0ZhZ0REYWFTeWtJY1lfOFo0S3c0TjcxZmdsamY4ekNjeGxzM2kyZ1VxanQ?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Diputado comunista cuestiona defensa de ministro Rabat: “¿Qué ley le otorga la facultad para decidir si una ley se aplica o no?”&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T16:23:54+00:00"
+    },
+    {
+      "titulo": "Coletazos del caso Firmas acechan al senador De Urresti (PS) y afectarían su opción de presidir el Senado en marzo",
+      "link": "https://www.theclinic.cl/2026/11/24/coletazos-del-caso-firmas-acechan-al-senador-de-urresti-ps-y-afectarian-su-opcion-de-presidir-el-senado-en-marzo/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Los senadores del PPD se reunirán esta tarde para definir las medidas de reparación que exigirán al PS por el retiro de los permisos constitucionales de Ximena Órdenes y Fidel Espinoza. Aunque la eventual salida de Juan Luis Castro de la jefatura del comité aparece como una de las principales demandas, entre los socialistas existe preocupación por otro posible efecto de la crisis: que el PPD cuest",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-24T16:19:58+00:00"
+    },
+    {
+      "titulo": "Irací Hassler por rechazo a la partida del Ministerio de la Mujer en Presupuesto 2027 - Crónica Digital",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlV1cllpUTFmdFJVRUpXM1dGWTg4Zk41UmZmSmhGd1hYVTEtTU9ucHZZYnFsZEdrZjMyUTRxeUYyTmJkVEZUWEhYU1F2enR4aDU1bHhsNTB2Mjg2Z253MElueXlkX0dmTGtIdUlOYk4tTlZwNkZnYnpZZ1hfZ2htN0RNOGVMU2lPcjliZFk1aUw2dXF0X09xcEt4aktUYUhlb2xmU0pLRURYWkRQMjc0bVZB?oc=5",
+      "fuente": "Crónica Digital (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Irací Hassler por rechazo a la partida del Ministerio de la Mujer en Presupuesto 2027&nbsp;&nbsp;Crónica Digital",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T16:08:19+00:00"
+    },
     {
       "titulo": "Vocero de gobierno acusó “decadencia” del PS: “No sé si por temor a que el Frente Amplio, el PC, le sigan quitando votos o no”",
       "link": "https://cambio21.cl/politica/vocero-de-gobierno-acuso-decadencia-del-ps-no-se-si-por-temor-a-que-el-frente-amplio-el-pc-le-sigan-quitando-votos-o-no-6b05b0bc4b55630a911953f8",
@@ -76,6 +120,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-24T15:29:59+00:00"
+    },
+    {
+      "titulo": "Kast pone presión a su gabinete y les da 100 días para mostrar resultados concretos en desempleo - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOeUw4ZVdIelRyVGFjd2RaOEhkd25TcGJXNldWVG9xSkpSbVU5bzFyM3Fiam9xMmFVRzkzRFF6YzB6N3dlQjJrd1UyZ0daejRGNF83b2NQMXFKNk52Yk81UnpWQ243S2ZPREttbnR1YThfMHh6NmJ2d1JyOHloVEpJd0JoakswS2lod0RmVXhwWUZDanVWaHNlVUxTT2c5UTlLTnZxamxYeDlwV0pfQWxVRGp5RTNKYTZ3Y0J3bTFpNjIyZEJXN3ZxRl9CYzVvazJ6cnlHSGtyMGN2TldnVEo2SVRrbkxsbWt5Q2VF0gGGAkFVX3lxTE5ZTWNnSjNNZzdiNndRTFlXMUlYY19nc2VlMVVtRC1vNVFJa011Z2NkU3ZYcFpUNHBFbzkwREFwcGFHbk9FY3M1ZF9qZjNCeTBrTllZNVo2SjlRVng4bll2QnhjSWZwbWtwRFppS0lWODVTRVlvWnFONktDQk0yQ0pEakplc3pPYm11V3dadjhLNnFmWDQxM0ZzdGJkd2xFSWl4d2NUYWlvRGkxUnVDS3Nzb0hsdTVDc3gxblJiYTBNMDhvMkN0bXAtbVV5QnQtb1Vqb1lFTDhrR1VkVEQ5WEhtMnZFeE56VXRXZFZBcnBmampRQ0hvT3N5amRva2tBellpLXV4OWc?oc=5",
+      "fuente": "Infobae - América/Chile (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast pone presión a su gabinete y les da 100 días para mostrar resultados concretos en desempleo&nbsp;&nbsp;Infobae",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-24T15:29:00+00:00"
     },
     {
       "titulo": "La Cisterna busca frenar el decreto del Gobierno que permite vulnerar planes reguladores: “La invasión de los guetos verticales va a profundizar lo que ya vivimos”",
@@ -165,6 +220,17 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-24T14:05:00+00:00"
+    },
+    {
+      "titulo": "Jara cuestiona gestión de Kast a ocho meses en La Moneda - www.diarioeldia.cl",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOXdOSG9heXRDT0VXbmxxemRvX2VEcEMzdU9IZHUxcTh1ek5NTWFFOG9DZWJaUldyZngzMDdiZkJNZmlTV2RYTEl1VFBrX0h1c1dHUXA3RDlkMTlDVUZUbjhVcDNPM2hJRGtVaFFjZDJZT2p6TWlwcDBSU3dYdVJTdzdUQy1UWUdBNnRQN2diTWZDV1ZiUnkxVzFpT0sxWFNkZXpPSzR6dWE1SlFOajZZ?oc=5",
+      "fuente": "El Día (La Serena, vía Google News)",
+      "region": "Coquimbo",
+      "resumen": "Jara cuestiona gestión de Kast a ocho meses en La Moneda&nbsp;&nbsp;www.diarioeldia.cl",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-24T13:57:47+00:00"
     },
     {
       "titulo": "“Es un gran senador, yo le sigo dando respaldo (…) se equivocó”: El respaldo de Espinoza a Castro pese a controversia por el caso Firmas - CNN Chile",
@@ -5573,76 +5639,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-19T19:50:47+00:00"
-    },
-    {
-      "titulo": "Las últimas horas de Carolina Rossi en el Ministerio de Ciencias: un último correo a Lincolao y una carta de renuncia lista desde hace una semana",
-      "link": "https://www.theclinic.cl/2026/11/19/las-ultimas-horas-de-carolina-rossi-en-el-ministerio-de-ciencias-un-ultimo-correo-a-lincolao-y-una-carta-de-renuncia-lista-desde-hace-una-semana/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Aunque desde La Moneda le habían solicitado permanecer en el cargo hasta marzo, la exsubsecretaria de Ciencias ya había tomado la decisión de renunciar tras una serie de desencuentros con la ministra Ximena Lincolao. Rossi preparó su carta la semana pasada, la ingresó el miércoles y este jueves llegó antes de las 8:00 horas al ministerio para cerrar su gestión. Antes de abandonar las dependencias,",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T19:46:16+00:00"
-    },
-    {
-      "titulo": "Sumario por hurto y ley Karin: Lincolao explicó despidos previos a renuncia de subsecretaria Rossi",
-      "link": "https://www.cooperativa.cl/noticias/pais/gobierno/gabinete/sumario-por-hurto-y-ley-karin-lincolao-explico-despidos-previos-a/2026-11-19/163849.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La ministra de Ciencia, Tecnología e Innovación, Ximena Lincolao, explicó este jueves los motivos detrás de los sumarios y despidos previos ocurridos al interior de la cartera, que marcaron la renuncia de la subsecretaria Carolina Rossi.\nLas salidas se ejecutaron de manera sorpresiva en momentos en que la ministra se encontraba en el extranjero -en el marco de su agenda en Silicon Valley y la cumb",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T19:38:49+00:00"
-    },
-    {
-      "titulo": "Denuncian ante Contraloría a Carabineros por recibir donativos de diputados oficialistas en Valparaíso - BioBioChile",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYjU2VVNXRDhaS1Y0NlozdDZST3JwbVNSWFVvS1R3QzhoOFpUVlc5RTY2Q3hIRHdUTjYwM3N2WXR2RE5qcVRYUjBNUEJIVV84R05nUXBjTEYwVmN5dng5X3NRbW1uVTJib1pvdHAyNzRMb0F2ZDBUYXR0ZmNKUzRsZ0toRWVvajhzQk5scFZoRlQzVzM3a25yeGpRM28xTjlDd2Mza1REaTdRdkRFajVWdWg1c3dSZ2toT2VvckhQZTN3c295ZjRoUUVNUV9YaUVqNjM1bFAyUkF0WHBkWDdtOWdZT050SlRXM3dvdHVZd2w1WnhEWVk1Q0dpWG12bmp1V0VFd20yVmgwVXplT3E3OUo1dw?oc=5",
-      "fuente": "BioBioChile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Denuncian ante Contraloría a Carabineros por recibir donativos de diputados oficialistas en Valparaíso&nbsp;&nbsp;BioBioChile",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T19:23:37+00:00"
-    },
-    {
-      "titulo": "Hayley Williams embiste contra José Antonio Kast y expresa solidaridad con Palestina - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWdIYk1QaDlWcFhsaHhZM2c3YjRjTGdxcS01TE81cXJ5QVhJQmNIT0J4eHBBT0ZYUmVRQ1RfZlJkaE52WkFUQ2R1X1hXSEZ4MC1VVlJfZGoxNWhRUTRyQTRTUGlnemlyRldKMjRpUFA5SWZwbkswVW5FSmlNbXMxbmp5T2VFUk1MRFI0VlZMbFlYSFh2Z3RZeVI1Vlo3Y2RSWGtiRmFHbmN6dlo4Y2dydA?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Hayley Williams embiste contra José Antonio Kast y expresa solidaridad con Palestina&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T19:22:20+00:00"
-    },
-    {
-      "titulo": "Alvarado por eventual falsificación de firmas de senadores: “Es altamente cuestionable y éticamente reprochable” - CNN Chile",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRXB6MXFFOTZHbG03Q0JXSEk2MlRSMnZJTmV6cnpTRzZxTVpkRXcxcjIxd1dLQ3haN0JoSVBxRG95VXdjZkFpSE9FX2ZERy10MjNyaHVRT1k3LUFxQlAzaEZuUndCSDRSQnhSd3FsSldHTXhuLTVhNTA4R3RTV3JHQlk0T254YzdJd3ZLWEpXcE9zME4tVFFyTDFMT1NkMFVCRHVaSUtPT3pIUUxhU0tRNGJtMEZVYkZtNzFsOTVXelZfblh0dnA1NS05WWxNWnl0dFNlc1pjVQ?oc=5",
-      "fuente": "CNN Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Alvarado por eventual falsificación de firmas de senadores: “Es altamente cuestionable y éticamente reprochable”&nbsp;&nbsp;CNN Chile",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-19T19:07:09+00:00"
-    },
-    {
-      "titulo": "Baja aprobación de Kast despierta preocupación entre gobernadores oficialistas por eventual impacto en elecciones 2028 - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQzZGVFBDcjFKUDlEM1BqTVJvd0N1RVNmTlZvdFoyYkNDYVBySFBBcFA4V21zdm1FVGRvZkJZMmRRQ0pIYWZOeVYxSnFfVmpGMTZoUFFDZnRHcGtuY0RyVkdKaWRQU3Y0UEg0ZkFGMXY1NHQyYXFwOFF1dzVzeFlfUVlVVHV6eXA5OG1aNm41dkptZFRZTWd4QVNTLXYwWmZBaUtCZ1k1dnN3UUpOaC1Ca0NsVDY1ZTZYZVBqVjFJVUNmNE9pNE1KZkY2czBlNmFENWF3RkNWczI5aEJhNld3Wk52VmZsZDRXMGx4T2NNR2l4WThRUnV3VTRtMGjSAZ4CQVVfeXFMT1ZITHZEUkpaYmltUHVTSVZFaG5iaDlyT1lGZ3JEdVF6UXJqX0V1UmpmUmxOcm1PUkxGUGhPZW1PZnZadnA1ZG5KOFdobUdHWlk5OVVVSUo2RHQxdklpSmFISmJNelBkcHlrVzBpTm9pbUJaLW5mekw4QU9uSGVkNS1jNjQzaE8wSGNLcmlvcEFMeG8xTndHTTZSdmZzZXZRWVRETW1fZlhQTlNYcndfNDJuUzIxSmJNbVd1eV8zNEVCN2FLRW9PN0UxbExOTU01TUZuRDB4QWkwSExaeUxFYjR4cXpvMGZyLXlwMFpTemhnVjdKWjItTmplbVM3ay03aWktcl82Q1ZyMHJ2bmZNWnJBeEE1MzF0SlUyNVAxQQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Baja aprobación de Kast despierta preocupación entre gobernadores oficialistas por eventual impacto en elecciones 2028&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Elecciones"
-      ],
-      "fecha": "2026-11-19T19:00:00+00:00"
     }
   ]
 }
