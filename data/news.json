@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-24T02:01:30.695886+00:00",
+  "actualizado": "2026-11-24T02:16:20.896488+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027",
+      "link": "https://www.theclinic.cl/2026/11/23/diputados-envian-a-comision-mixta-el-proyecto-de-presupuesto-para-2027/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Si bien la Cámara Baja aprobó de forma unánime la gran mayoría de las partidas, se rechazaron enmiendas en 10 materias, incluyendo Seguridad Pública, Vivienda, Congreso Nacional, entre otras. \nThe post Diputados envían a Comisión Mixta el proyecto de Presupuesto para 2027 appeared first on The Clinic.",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T02:05:34+00:00"
+    },
     {
       "titulo": "San Miguel: Guardias municipales capturaron a delincuentes que robaron y amenazaron de muerte",
       "link": "https://www.cooperativa.cl/noticias/pais/policial/robos/san-miguel-guardias-municipales-capturaron-a-delincuentes-que-robaron-y/2026-11-23/223726.html",
@@ -5638,17 +5649,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T15:26:12+00:00"
-    },
-    {
-      "titulo": "El Carmen lanza campaña de prevención de incendios forestales para la temporada 2026-2027",
-      "link": "https://ladiscusion.cl/el-carmen-lanza-campana-de-prevencion-de-incendios-forestales-para-la-temporada-2026-2027/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Con el objetivo de fortalecer el trabajo preventivo y garantizar una respuesta coordinada ante emergencias, esta mañana se realizó en El Carmen el hito oficial de lanzamiento de la temporada 2026-2027 de prevención de incendios forestales. La jornada, convocada por el municipio liderado por el alcalde Renán Cabezas, contó con la participación del director regional [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-19T15:26:08+00:00"
     }
   ]
 }
