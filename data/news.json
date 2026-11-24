@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-24T12:01:27.031134+00:00",
+  "actualizado": "2026-11-24T12:16:16.397590+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast pone el empleo como principal emergencia y se pone plazo de 100 días",
+      "link": "https://ladiscusion.cl/kast-pone-el-empleo-como-principal-emergencia-y-se-pone-plazo-de-100-dias/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "El Presidente José Antonio Kast puso el empleo en el centro de las prioridades de su administración y anunció una nueva etapa de 100 días de trabajo para llegar al primer aniversario de su Gobierno con resultados concretos. El compromiso fue planteado este lunes, luego de encabezar un consejo de gabinete en el Palacio de [&#8230;]",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T12:02:50+00:00"
+    },
     {
       "titulo": "Todo por Rabat",
       "link": "https://ladiscusion.cl/todo-por-rabat/",
@@ -1085,6 +1097,17 @@
       "fecha": "2026-11-23T16:00:15+00:00"
     },
     {
+      "titulo": "Kast insiste con los “100 días”: anuncia otra cuenta y promete que ahora sí redoblará esfuerzos - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaXBIb1RMWWc0TGZCeloxNVUtMWIyQ2FFYWh6WEpjOWtoRWdhdF9RdFU5SUw4M3Y2Z1Y1MkpYZVVmUVZTSXI1MHdYeTI5RW9abS1wZzFTYTEtLWVzRmRXMWY1OUJlNnllXzU4enAyN3p3N3lyTTBIWUd6ZjEyWmJDa3ZPMGNTV0ltYmw4dl9vWkNXYzNpaTdkT05FYU9OX3RJb2ExZjdteUhfaGhiODF3LUtwVmxJS0pfUTJQZWlteG12ZkoxeGdmbkxYQ3A1VnI1b1FJaERHWGM1RU41X1E?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Kast insiste con los “100 días”: anuncia otra cuenta y promete que ahora sí redoblará esfuerzos&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-23T15:57:13+00:00"
+    },
+    {
       "titulo": "UDI pide descontar remuneraciones a profesores que se adhieran al paro de este martes - Teletrece",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNG1rcml3bVZZZDN4N1FBTmlvV3d5LVpKaHRTQUNIRGxkeTNIbVRvVkVaVWt2RWtjMWczVlRjekZUajI5TFp2TFg5RnV2OHJLY1JSR0liQzk2X1Y5bW1FbXFtZ1VKeGVWLWdnbmhyQWZTUVBUV1VkaWNIbXFWOXdWbFg4a1Z1YlFyRFlVTjQyMVNNQXBpSk5od01DT3hjeVVWOFVNaEZ0OFlFUXl5UHZYbjNVYThRSzJ2THc?oc=5",
       "fuente": "T13 (vía Google News)",
@@ -2017,6 +2040,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-22T19:34:21+00:00"
+    },
+    {
+      "titulo": "Polémica en Iquique: rechazan millonario show de drones para año nuevo y alcalde advierte consecuencias - Radio Agricultura",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTzMySjZ1d2JnSjVXNHVpUm9VVWtncDY5OTZwY0R2cF84Q1RRWkw5ejdoRS1BYnpTSEl3QzB1WXNDSjhOd2ZlTV9KQVRKcmtQLWxTRWViRklzVnRJd2lGOWdNWWtHZXJRNTE1cjFvV1c5WjJUanJNTVhmbjZmb1NGbWpWbzV1QThZOTBvaWhlRWVuZ292SkVtTExpMVZnQTZlTVdxajg2OXRKVlA0bUxQRGFjMA?oc=5",
+      "fuente": "Radio Agricultura (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Polémica en Iquique: rechazan millonario show de drones para año nuevo y alcalde advierte consecuencias&nbsp;&nbsp;Radio Agricultura",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-22T19:30:51+00:00"
     },
     {
       "titulo": "Ossandón pide a Kast ser “más firme con sus ministros” y advierte que la gente se siente “abandonada” - CNN Chile",
@@ -5614,40 +5648,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-19T16:49:03+00:00"
-    },
-    {
-      "titulo": "Municipalidad de Valparaíso despide a la Directora de la Bienal de Valparaíso sin dar ningún motivo - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQaFVtcGJVM09ROXIxbnF0S3NYZGpyTXVXanNGbktRV2czd0prOU5pZlNCclJ6dEVnSTdIaUxPaGRXMHltVjVndEpSMVY5V1B0Mi05aV9SSE5mWUhqazBCTm5maWlaT1FHXzd1dlVFOWx6TU1MdjJvUjVpNW01am5BeEFxcFF3Uk9mQmRUdkhadUp3eTMzMGMteDB5dk16eDFDNE9ySWdVdXRNbnhDYUlaRENDZ2hIN21URlFrOWNRdnUxenp1WGpDZnNBUURoVUticmhGb01KNExHS0xkUTMyTEVUQjNqNW1vNm9GOWZEbkdnYllH?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Municipalidad de Valparaíso despide a la Directora de la Bienal de Valparaíso sin dar ningún motivo&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-19T16:45:21+00:00"
-    },
-    {
-      "titulo": "Malestar con La Moneda: terapia de hormonización arriesga el quiebre más profundo del Partido Republicano con el gobierno - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOcnl6VnE4eDVBQzU2Y3hiZU1IXzFYWWRvOFlscTlrTWNrVkE5dFdZZUJRU2Y1cmZpZkhKR2NzVnpvQVFmbmxicnM1eE13Z3h2ZXFuc1Q1enBWN2plOFhpclhGYVlpWWtySlE5VXY5M3pXT2lKRTlWSnFMRnZZWkJaV0d4NklxckllX0IyWHVOeTk1QTZZOW9udjlmNWlBUFN2Z1lPYjJSMlBwTlZjNzRob2dydGlYaWZkSWJuOE5fMHRtczFDUUFUSHVVdFRoQk5WOExFb2VuQ1psdGZ5LUtleTZHanJhZGRZU0FzZXh2QVk2R1ZkRXV30gGYAkFVX3lxTE9zUTlfYllNeU9BcFowcWhiOWJNQ2JSYVQwWnFQOVUxV1hnRnducU1TTWNfa0RRNVRtNUdyT2FxeW9fNmpyU3BaRzVFeHhIbDdjdy15ZFkzdlFBeVJfeF80YUxuVzVMcUJrZmI4Nl95UVhna211ZG1lQW9kdFFPYXNvSF9EVEg2MzdGWHF0cWRpbHR3cTBPb1BwNXEwUnBZaUpraVc1bFVROUYtejdZZGJPMXA2blVHNEdHbTR0bS1sQV9tMEJpUkFjYVl5Q05nWktHNHlLZVN4cHdZaUF3anYzSkNhdjhEbUNlWHg0WXMzTmd1cU1YeERWbE9YVGVvZkFmc2o0M2xkUzg2bkpjc2JYUmJuSTFqOTI?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Malestar con La Moneda: terapia de hormonización arriesga el quiebre más profundo del Partido Republicano con el gobierno&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-19T16:30:00+00:00"
-    },
-    {
-      "titulo": "Expresidente Boric expondrá en la primera Cumbre de París contra la Oligarquía Internacional - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU1VQSktTekk1TzF4T0R0NGU3OTFvZ1VfRFdFZ1pyWHdiQzhSNkthakNNblc0R2N0M1pnc2lQYzIwVW1ySjI3Rm03SWhpRDQ1a3ltbFFYbTBZS1FvUmV2WGl1UUlQUmRvSG9QbDd2NTZvWWRMT1E2enFzUThVR2NHbjlZNGFOZVprSWZBOWdZNmVVdGhOQmJlWGpqalhubG8xazN4YjEwTEo1SnBoOWd2V0hBUm8tRHY4MXg2d1cxaVdyUERkU1Vv?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Expresidente Boric expondrá en la primera Cumbre de París contra la Oligarquía Internacional&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-19T16:29:27+00:00"
     }
   ]
 }
