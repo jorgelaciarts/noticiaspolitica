@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-24T15:46:29.891352+00:00",
+  "actualizado": "2026-11-24T16:01:31.435420+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Vocero de gobierno acusó “decadencia” del PS: “No sé si por temor a que el Frente Amplio, el PC, le sigan quitando votos o no”",
+      "link": "https://cambio21.cl/politica/vocero-de-gobierno-acuso-decadencia-del-ps-no-se-si-por-temor-a-que-el-frente-amplio-el-pc-le-sigan-quitando-votos-o-no-6b05b0bc4b55630a911953f8",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-24T15:45:40+00:00"
+    },
     {
       "titulo": "“Logré el sueño americano”: Diputado Olivares explica como amaso fortuna de más de US$ 6 millones y por qué omitió propiedades en declaración de patrimonio 2025",
       "link": "https://www.theclinic.cl/2026/11/24/logre-el-sueno-americano-diputado-olivares-explica-como-amaso-fortuna-de-mas-de-us-6-millones-y-por-que-omitio-cuatro-propiedades-en-declaracion-de-patrimonio-2025/",
@@ -13,6 +25,20 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T15:43:04+00:00"
+    },
+    {
+      "titulo": "Caso Firmas: Órdenes afirmó que, en el lugar de Castro, \"yo hubiera dado un paso al costado\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-ordenes-afirmo-que-en-el-lugar-de-castro-yo-hubiera-dado/2026-11-24/124127.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La senadora Ximena Órdenes (ind-PPD) contó que su par Juan Luis Castro (PS) le expresó este martes que lamentaba lo ocurrido en el Caso Firmas y que quería conversar con ella. Fue su primer encuentro tras la denuncia y tuvo lugar durante una sesión de la Comisión de Salud del Senado, presidida por el socialista.\nÓrdenes denunció el presunto uso de su firma sin autorización para retirar su permiso ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-24T15:41:27+00:00"
     },
     {
       "titulo": "Votos de Schalper y Ossandón (RN) en presupuesto del INDH desordenan a la derecha en la Cámara y desatan furia en republicanos",
@@ -5616,32 +5642,6 @@
         "Elecciones"
       ],
       "fecha": "2026-11-19T19:00:00+00:00"
-    },
-    {
-      "titulo": "La militante del PS que sobrevivió al cambio de mando y se mantiene en la Dirección del Trabajo de Kast como subdirectora del servicio",
-      "link": "https://www.theclinic.cl/2026/11/19/la-militante-del-ps-que-sobrevivio-al-cambio-de-mando-y-se-mantiene-en-la-direccion-del-trabajo-de-kast-como-subdirectora-del-servicio/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "Carolina Campos es el nombre de la activa dirigente socialista que emplea labores para el Gobierno del Presidente José Antonio Kast. En marzo fue nombrada —por decreto— como la subrogante del titular de la repartición, David Oddó, nombrado con una de las \"balas de plata\" del mandatario. Al interior del oficialismo cuestionan que, a ocho meses de iniciado el mandato de Kast, siga en la DT. \nThe pos",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T18:58:49+00:00"
-    },
-    {
-      "titulo": "Caso Firmas: Gobierno calificó de \"máxima gravedad\" retiro de permisos en el Senado",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-gobierno-califico-de-maxima-gravedad-retiro-de-permisos/2026-11-19/155845.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "En medio de una investigación abierta por el Ministerio Público ante una eventual falsificación de firmas, el vicepresidente de la República, Claudio Alvarado, calificó como una situación de \"máxima gravedad\" el retiro de los permisos constitucionales de los senadores Ximena Órdenes (independiente-Partido Por la Democracia) y Fidel Espinoza (Partido Socialista), sin que ambos tuvieran conocimiento",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-19T18:58:45+00:00"
     }
   ]
 }
