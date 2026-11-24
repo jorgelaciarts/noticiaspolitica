@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-24T11:16:23.840307+00:00",
+  "actualizado": "2026-11-24T11:31:14.490396+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Todo por Rabat",
+      "link": "https://ladiscusion.cl/todo-por-rabat/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "Señor Director: Si hay algo que debemos destacar de nuestro presidente es su lealtad férrea con algunos de sus ministros, una lealtad que hoy lo hunde en lo más profundo de las encuestas. La aprobación popular y la imagen de hombre serio e implacable que proyectaba el otrora candidato Kast se diluyen con una rapidez [&#8230;]",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-24T11:25:32+00:00"
+    },
     {
       "titulo": "(VIDEO) 1.886 decretos de rebaja de penas bajo reserva: cuestionamientos y falta de transparencia en el caso Rabat",
       "link": "https://www.elciudadano.com/reels/video-1-886-decretos-de-rebaja-de-penas-bajo-reserva-cuestionamientos-y-falta-de-transparencia-en-el-caso-rabat/11/24/",
@@ -5637,17 +5648,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T16:25:00+00:00"
-    },
-    {
-      "titulo": "Concejal Vera: \"No estoy en contra de los festivales ni de la promoción de Coyhaique\" - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTAtSVRNR1RGRGw2cG9faTM1LVhSSVR0RFZDYnFySTVVR24xRkh0MGNRZEk4V1dnN1IwckM1aTB2dE04OE5zbVRJMmxHZ0UxaXM2Z2RQSWFoNVhnbmgzYmNmZTRLdEdDeDkxcnZlWW5BZDdvbHFSeUd0Q20tTjNidVllZGg2eWdGSGN3Mld4Q2NxTG1hbE9RRnlaLVlhMHdyRkxWQVIyTEQxMlVjOTNFSjJrNHNYZDlGMEpKZkpjSEZUQUE1ZGNVMHYyMnA?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "Concejal Vera: \"No estoy en contra de los festivales ni de la promoción de Coyhaique\"&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Concejales"
-      ],
-      "fecha": "2026-11-19T16:21:13+00:00"
     }
   ]
 }
