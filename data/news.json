@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-24T15:16:41.866919+00:00",
+  "actualizado": "2026-11-24T15:31:36.388169+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "EN VIVO: Senador Flores (DC) analiza la contingencia política y nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZ0tHMXhLM1J0U29PSHV5S3BfaFRGTzEyTEZDNWVPd25zYTJrRDVUU0hvS1drVkh3RlZHR0pla0w1X2NQYnJLREVWSkdxQjhPYmY1VmR2NjBWX3lDRVd3VEdjNXhrODZPRjYxX3NCbW9mOUc2SjV5aGhPSVJEajZIUnlLWWhvUF9WdEd1RUVUc0dsdHpXMXJEYVBzMGhET2tlTWhQM1dqZ25BYXd6SGUxVG5oZlVKQQ?oc=5",
+      "fuente": "El Mercurio (vía Google News)",
+      "region": "Nacional",
+      "resumen": "EN VIVO: Senador Flores (DC) analiza la contingencia política y nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-24T15:29:59+00:00"
+    },
     {
       "titulo": "La Cisterna busca frenar el decreto del Gobierno que permite vulnerar planes reguladores: “La invasión de los guetos verticales va a profundizar lo que ya vivimos”",
       "link": "https://www.theclinic.cl/2026/11/24/la-cisterna-busca-frenar-el-decreto-del-gobierno-que-permite-vulnerar-planes-reguladores-la-invasion-de-los-guetos-verticales-va-a-profundizar-lo-que-ya-vivimos/",
@@ -5631,18 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-19T18:44:53+00:00"
-    },
-    {
-      "titulo": "Está en prisión investigado por cohecho: alcalde de Río Bueno Luis Reyes (UDI) presenta su renuncia al cargo",
-      "link": "https://cambio21.cl/pais/esta-en-prision-investigado-por-cohecho-alcalde-de-rio-bueno-luis-reyes-udi-presenta-su-renuncia-al-cargo-6aff416edb3eeb439d0e34e3",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Partidos políticos",
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-19T18:40:28+00:00"
     }
   ]
 }
