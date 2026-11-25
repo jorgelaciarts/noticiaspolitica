@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T05:31:18.925827+00:00",
+  "actualizado": "2026-11-25T05:46:28.187599+00:00",
   "total": 500,
   "items": [
     {
@@ -578,6 +578,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-24T19:40:42+00:00"
+    },
+    {
+      "titulo": "ORD - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVEsyTzl4N3diYVlBSzQ1b0QxR25jbVVWQkJsdjNIdko4SVlCLXRhWG1NSVN0ZkpKajBDcURKQ2pJS09SbFVsNUljNmJTaEdiY0xVMXFhdzBEYnBLSm83NW10R01FT1JVMzMyU0FQYnJ5ck9YM2FNbFZKQWpFcGpjNHZSbVF3c3k0ZzR2d0dBd2NxcW9MZnJQSQ?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "ORD&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-24T19:34:53+00:00"
     },
     {
       "titulo": "ORD - Servicio Electoral de Chile",
@@ -5633,18 +5644,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-20T13:28:39+00:00"
-    },
-    {
-      "titulo": "José Antonio Kast visita ahora Japón: un país con un Estado de Protección Social - Crónica Digital",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS0FsajJ4V3UtYXZxZnpLbGR2LTA5ZTg3cUNFN3NZUC1VMTZ5eGNSUzJIcFllT3J3U3BIcjJreGNlRmdKNkJiaE9yQUQ5OVVlVGJwYkpFRGpnYnlhbzRta3c2c1FCdGFvTzZCQUxZZE11Yk56Nm1YZWV3aDBicVN2UlpwU09ULVpEVkZDSlppTVJCZjVNcnFESTY0Y2l2Nm0xWEg0R2hxejBDQQ?oc=5",
-      "fuente": "Crónica Digital (vía Google News)",
-      "region": "Nacional",
-      "resumen": "José Antonio Kast visita ahora Japón: un país con un Estado de Protección Social&nbsp;&nbsp;Crónica Digital",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-20T13:11:55+00:00"
     }
   ]
 }
