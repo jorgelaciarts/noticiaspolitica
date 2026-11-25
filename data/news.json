@@ -1,7 +1,31 @@
 {
-  "actualizado": "2026-11-25T21:01:22.559306+00:00",
+  "actualizado": "2026-11-25T21:16:59.453049+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El polémico viaje del alcalde de Peñalolén a México que desató las críticas de concejales oficialistas tras asistir a una cumbre política",
+      "link": "https://www.theclinic.cl/2026/11/25/el-polemico-viaje-del-alcalde-de-penalolen-a-mexico-que-desato-las-criticas-de-concejales-oficialistas-tras-asistir-a-una-cumbre-politica/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Miguel Concha viajó a México para participar en una pasantía sobre ciberseguridad junto a su par de Nezahualcóyotl. Sin embargo, su asistencia a una cumbre de comunicación política que no figuraba en la agenda presentada al concejo municipal desató críticas de concejales de oposición, acusando un intento de capacitarse para un segundo periodo en el municipio, y una denuncia ante Contraloría. Desde",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-25T21:15:10+00:00"
+    },
+    {
+      "titulo": "El recorte Kast a la cultura y las artes",
+      "link": "https://www.elciudadano.com/arte-cultura/el-recorte-kast-a-la-cultura-y-las-artes/11/25/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl proyecto de Presupuesto 2027 del gobierno del presidente José Antonio Kast propina un golpe histórico al sector cultural. El Ministerio de las Culturas, las Artes y el Patrimonio sufre una reducción de $49.381 millones, equivalente a un 10,1% nominal que, según el Observatorio de Políticas Culturales (OPC), se traduce en una caída real del [&#8230;]\nLa entrada El recorte Kast a la ",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-25T21:04:57+00:00"
+    },
     {
       "titulo": "El recorte Kast al transporte",
       "link": "https://www.elciudadano.com/transportes/el-recorte-kast-al-transporte/11/25/",
@@ -5623,28 +5647,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-21T19:12:20+00:00"
-    },
-    {
-      "titulo": "Cómo la crisis de las firmas falsas está complicando el liderazgo de Paulina Vodanovic en el PS - Ex-ante",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5RWpuWDhkUjFpT0QzSnhDcG1kZU1Ka2tkTnEtd0ZxX2wxdWRWdFJPOFMwZEZkZmFZS0FsZU1QX2p1OXllWnBvYXlvLUJ6WXNJS05iMzktZ0FVdlh5SXgwc0RGWmtKakpsS0RmTmV1Q013Z3Fz?oc=5",
-      "fuente": "Ex-Ante (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Cómo la crisis de las firmas falsas está complicando el liderazgo de Paulina Vodanovic en el PS&nbsp;&nbsp;Ex-ante",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-21T18:17:40+00:00"
-    },
-    {
-      "titulo": "Presidente Kast vuelve de Asia con varios flancos abiertos en La Moneda - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQY0NMMExOQWlKUWx2NTM5aWpIV0QtWDY1ZlEwZXdHWGtNSUJOSXRuMTduU2xmQl9Jc2wwZHJneHR6MVVlS25aTkpabHBta1d5ZldneThiOHdzUGV0Ynk1dWtBS2gzTmFOOWZDdldKRXNjbUEtZjNjb1dzdEJZNzJQSDZtYXVBSDZvbEhRLTRSQ2U2VkdoYTY3UUh0SzdEN0s3R182MVJQdG1fVEcyUWFqS0JKaEN0RGd4YUE4bjNQeU0xUQ?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Presidente Kast vuelve de Asia con varios flancos abiertos en La Moneda&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-21T17:18:42+00:00"
     }
   ]
 }
