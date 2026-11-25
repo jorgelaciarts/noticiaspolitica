@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T05:01:12.697152+00:00",
+  "actualizado": "2026-11-25T05:16:28.228742+00:00",
   "total": 500,
   "items": [
     {
@@ -208,6 +208,17 @@
         "Gobernadores regionales"
       ],
       "fecha": "2026-11-24T23:05:06+00:00"
+    },
+    {
+      "titulo": "España oficializa su apoyo al Observatorio de Violencia Digital contra la Mujer en Política de Servel - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVNDbVZjWWZucjc1cF9FLVo5anJLWnNTVEpJSE03YXg3RUVNY09qdFgxQ3B2Y2RYdVFfV1NNMHNQdW96bUstZGNHMS16TTVjNzVoMkJocFY5Rjd4ZElKMTktc05NSjNwYWVmbUhpQjB1UC1QcU5sNUU1RU56cEc0MzFscmlRakZHRHRMMmVHNjdQQ3ZQQThlYTF1SmZhUFplYnRSNnNkVW9IQkFaNkdMTkQxZjRFNEpKNWF3M3JqUHJpSlBSZXZQTFNxTUpiOVFzVndaczdJNHpwblZmRnc?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "España oficializa su apoyo al Observatorio de Violencia Digital contra la Mujer en Política de Servel&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-24T22:39:59+00:00"
     },
     {
       "titulo": "Senador Juan Luis Castro publica declaración de disculpas dirigida a Ximena Órdenes tras exigencia de bancada PPD - ADN Radio",
@@ -567,6 +578,17 @@
         "Senadores"
       ],
       "fecha": "2026-11-24T19:40:42+00:00"
+    },
+    {
+      "titulo": "ORD - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdnptbzRFQ2lxbkQ5OFJVVm1oTm9fNGNQcmVjT2l1NmQxejBKbW13dmpicy04M2xTbDU3REM3YXNyeWx0eGxFVEJUQU9fVHc2djJUa0J2YXh5RXdNci1STW9aTzZ6V0lLckFtci1oVmFaZWpmQUdESnF3WjJPTkxRdWtPa1lMa3pDYUxoald3elZnV1g4Y1p4VGJ3?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "ORD&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-24T19:34:53+00:00"
     },
     {
       "titulo": "Senadores del PPD exigen disculpas públicas de Castro a Órdenes y le piden reconsiderar su continuidad al frente del comité - CNN Chile",
@@ -5623,28 +5645,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-20T13:11:55+00:00"
-    },
-    {
-      "titulo": "Gobierno califica de «máxima gravedad» retiro de permisos de senadores sin su autorización - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWDBnOC0yM1dualhMeG5zU19qVVRJb2d1ZTRaZ1ktdDBjMUlPQklWMmticDVINVU5Vk9DaVFVSk5RQlZ2amc2YW8yaDBBZVlFaUlfOTBqS3pvZllSaXIwNDBrbk1kM2FPY3VqVFRqY1ZYLTF6RXNQS1BNSGp4dkZQVkdfOUFGSFdNcmluLTNXOVBhZDY1ZnpVdWF3dkVpNDhQdE1SZ2VTbTNJOGZZNEk2SWdPUGU?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Gobierno califica de «máxima gravedad» retiro de permisos de senadores sin su autorización&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-20T13:05:02+00:00"
-    },
-    {
-      "titulo": "Se le desarma el equipo a Kast: otra baja con Lincolao y ya van 61 salidas de autoridades en ocho meses",
-      "link": "https://www.elciudadano.com/politica/se-le-desarma-el-equipo-a-kast-otra-baja-con-lincolao-y-ya-van-61-salidas-de-autoridades-en-ocho-meses/11/20/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nTras la salida de Carolina Rossi como subsecretaria de Ciencias, se conoció que la seremi de Salud de la región del Bio Bío, Isabel Roja, renunció a su cargo\nLa entrada Se le desarma el equipo a Kast: otra baja con Lincolao y ya van 61 salidas de autoridades en ocho meses se publicó primero en El Ciudadano.",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-20T13:00:52+00:00"
     }
   ]
 }
