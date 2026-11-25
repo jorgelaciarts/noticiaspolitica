@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-25T01:46:20.553458+00:00",
+  "actualizado": "2026-11-25T02:01:34.111092+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Juan Luis Castro ofrece disculpas públicas a senadores Órdenes y Espinoza",
+      "link": "https://www.lanacion.cl/juan-luis-castro-ofrece-disculpas-publicas-a-senadores-ordenes-y-espinoza/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El senador Juan Luis Castro (PS) ofreció disculpas públicas a sus pares Ximena Órdenes (Ind. PPD) y Fidel Espinoza (PS), cumpliendo así con una de las solicitudes planteadas por la bancada del Partido por la Democracia (PPD) tras la controversia por el retiro y posterior restitución de permisos constitucionales sin autorización de ambos parlamentarios. A [&#8230;]\nThe post Juan Luis Castro ofrece ",
+      "categorias": [
+        "Partidos políticos",
+        "Senadores"
+      ],
+      "fecha": "2026-11-25T01:48:47+00:00"
+    },
     {
       "titulo": "Alcaldes de la RM advierten: «Baja en la población inscrita en los Cesfam podría reducir financiamiento per cápita de la salud primaria»",
       "link": "https://www.elciudadano.com/chile/alcaldes-de-la-rm-advierten-baja-en-la-poblacion-inscrita-en-los-cesfam-podria-reducir-financiamiento-per-capita-de-la-salud-primaria/11/24/",
@@ -5635,18 +5647,6 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-20T12:20:58+00:00"
-    },
-    {
-      "titulo": "Japón pone sus ojos en el cobre y litio chileno: Takaichi anuncia mayor cooperación en minerales estratégicos",
-      "link": "https://www.theclinic.cl/2026/11/20/japon-chile-cobre-litio-cooperacion-takaichi-kast/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La primera ministra de Japón, Sanae Takaichi, destacó la importancia de Chile como uno de los principales proveedores de cobre y litio para su país, tras reunirse con el Presidente José Antonio Kast en Tokio.\nLa autoridad japonesa confirmó que ambos países profundizarán su cooperación para fortalecer las cadenas de suministro de minerales estratégicos. Además, destacó avances en tecnología, invers",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-20T12:15:37+00:00"
     }
   ]
 }
