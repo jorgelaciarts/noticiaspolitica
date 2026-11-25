@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-25T17:01:29.629335+00:00",
+  "actualizado": "2026-11-25T17:16:33.398525+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El intento de Vodanovic por recomponer las relaciones con el PPD tras el caso firmas y el factor Castro que dificulta las negociaciones",
+      "link": "https://www.theclinic.cl/2026/11/25/el-intento-de-vodanovic-por-recomponer-las-relaciones-con-el-ppd-tras-el-caso-firmas-y-el-factor-castro-que-dificulta-las-negociaciones/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "Luego de que Juan Luis Castro ofreciera disculpas públicas a Ximena Órdenes, la presidenta del PS inició gestiones con parlamentarios del PPD para acordar las medidas que permitan superar la crisis entre ambos partidos. Entre ellas, se contemplaba una reunión entre Alfonso de Urresti y Ricardo Celis, que no pudo concretarse durante la hora de almuerzo. Sin embargo, la continuidad de Castro sigue s",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-25T17:06:06+00:00"
+    },
     {
       "titulo": "“Presidente Presente”: Los encuentros ciudadanos que desaparecieron de la agenda de Kast",
       "link": "https://www.theclinic.cl/2026/11/25/presidente-presente-los-encuentros-ciudadanos-que-desaparecieron-de-la-agenda-de-kast/",
@@ -5626,17 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-21T04:05:33+00:00"
-    },
-    {
-      "titulo": "Kast se ubicó entre los tres mandatarios latinoamericanos con peor imagen según encuesta internacional. La con mejor imagen es la presidenta de México Claudia Sheinbaum",
-      "link": "https://cambio21.cl/politica/kast-se-ubico-entre-los-tres-mandatarios-latinoamericanos-con-peor-imagen-segun-encuesta-internacional-la-con-mejor-imagen-es-la-presidenta-de-mexico-claudia-sheinbaum-6b0114d91f734a4c57494d03",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-21T03:51:13+00:00"
     }
   ]
 }
