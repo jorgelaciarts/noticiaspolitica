@@ -1,7 +1,30 @@
 {
-  "actualizado": "2026-11-25T17:16:33.398525+00:00",
+  "actualizado": "2026-11-25T17:31:21.946691+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "El recorte Kast a la educación",
+      "link": "https://www.elciudadano.com/recortes-kast/el-recorte-kast-a-la-educacion/11/25/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl proyecto de Presupuesto 2027 del gobierno del presidente José Antonio Kast mantiene un crecimiento real de apenas 0,78% en la partida del Ministerio de Educación, pero esconde recortes profundos en programas emblemáticos: la eliminación de “Yo Elijo mi PC”, la caída de Liceos Bicentenario, ajustes en JUNAEB, educación superior y ciencia. El debate por [&#8230;]\nLa entrada El recort",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-25T17:23:00+00:00"
+    },
+    {
+      "titulo": "Caso firmas: Fiscalía informa que senadores socialistas Castro y Vodanovic tienen calidad de imputados",
+      "link": "https://cambio21.cl/politica/caso-firmas-fiscalia-informa-que-senadores-socialistas-castro-y-vodanovic-tienen-calidad-de-imputados-6b0718e6aa9f0e6a672435bd",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-25T17:21:55+00:00"
+    },
     {
       "titulo": "El intento de Vodanovic por recomponer las relaciones con el PPD tras el caso firmas y el factor Castro que dificulta las negociaciones",
       "link": "https://www.theclinic.cl/2026/11/25/el-intento-de-vodanovic-por-recomponer-las-relaciones-con-el-ppd-tras-el-caso-firmas-y-el-factor-castro-que-dificulta-las-negociaciones/",
@@ -5615,28 +5638,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-21T04:32:43+00:00"
-    },
-    {
-      "titulo": "Las flores de Kast para Ho Chi Minh - El Mostrador",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmVNNEd4ZVY5Z0hZRnJldkE3UDlkZG8wOVRaMVVIZ1lhekJyRlljMFY3QnhpNEp1Q1hKRWEteVFxRFRrQmlDTlBxaThmTGRFeEhXaXdMcDVDTDFJekl5LXZJOC0yQXV0Y0lNSWZrNi16N1lrSDY1YmpmdExJUFl0OXFMVEVaazVaUkpIVklNQU9xTW9aMzFmUEVNNkZFenZ2bFE?oc=5",
-      "fuente": "El Mostrador (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Las flores de Kast para Ho Chi Minh&nbsp;&nbsp;El Mostrador",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-21T04:06:53+00:00"
-    },
-    {
-      "titulo": "Diputada Schneider tras dichos transfóbicos de excandidato Johannes Kaiser: Acusa \"discurso de odio y legitimar la violencia\"",
-      "link": "https://cambio21.cl/politica/diputada-schneider-tras-dichos-transfobicos-de-excandidato-johannes-kaiser-acusa-discurso-de-odio-y-legitimar-la-violencia-6b01164cc086194d4c047b1c",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-21T04:05:33+00:00"
     }
   ]
 }
