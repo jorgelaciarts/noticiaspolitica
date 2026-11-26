@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T16:16:34.030527+00:00",
+  "actualizado": "2026-11-26T16:31:42.210498+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,20 @@
         "Presidente"
       ],
       "fecha": "2026-11-26T16:07:22+00:00"
+    },
+    {
+      "titulo": "Caso Firmas: Senadores PS acuerdan la salida de Castro como jefe de comité",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/caso-firmas-senadores-ps-acuerdan-la-salida-de-castro-como-jefe-de-comite/2026-11-26/123947.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "Los senadores del Partido Socialista (PS) acordaron que Juan Luis Castro deje la jefatura del comité que agrupa al PS, al PPD y al Partido Liberal en el Senado, según confirmó su par Gastón Saavedra. La bancada socialista tomó la decisión tras los cuestionamientos a Castro por su actuación en el caso Firmas.\n\"Tenemos una situación compleja que tenemos que resolverla para volver a tener el orden y ",
+      "categorias": [
+        "Presidente",
+        "Partidos políticos",
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-26T15:39:47+00:00"
     },
     {
       "titulo": "Campillai presentó querella criminal contra exgenerales de Carabineros",
@@ -5628,18 +5642,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-23T11:50:00+00:00"
-    },
-    {
-      "titulo": "Organizaciones preparan seguidilla de marchas  contra el gobierno de Kast: comenzarán mañana",
-      "link": "https://laprensaaustral.cl/2026/11/23/organizaciones-preparan-seguidilla-de-marchas-contra-el-gobierno-de-kast-comenzaran-manana/",
-      "fuente": "La Prensa Austral (Punta Arenas)",
-      "region": "Magallanes",
-      "resumen": "Organizaciones sindicales, estudiantiles y sociales preparan una seguidilla de marchas para las próximas dos semanas, en rechazo a los recortes del Presupuesto 2027 y a la agenda del gobierno de José Antonio Kast. El calendario arranca este martes 24 y se extenderá hasta la primera semana de diciembre. La primera cita es el paro y...",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-23T11:47:14+00:00"
     }
   ]
 }
