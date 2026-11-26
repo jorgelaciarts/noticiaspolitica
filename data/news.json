@@ -1,7 +1,63 @@
 {
-  "actualizado": "2026-11-26T11:31:28.818546+00:00",
+  "actualizado": "2026-11-26T11:46:39.182341+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "China investiga a influyente dirigente en medio de purga política",
+      "link": "https://ladiscusion.cl/china-investiga-a-influyente-dirigente-en-medio-de-purga-politica/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La cúpula política de China enfrenta un nuevo episodio de tensión luego de que las autoridades anunciaran una investigación contra Chen Jining, secretario del Partido Comunista en Shanghái y miembro del Politburó, considerado hasta ahora uno de los posibles candidatos a integrar la máxima conducción del país. La agencia oficial Xinhua informó que el dirigente [&#8230;]",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-26T11:45:34+00:00"
+    },
+    {
+      "titulo": "(VIDEO) Celebrar al dictador en el Congreso: El pinochetismo de Santelices en la Cámara",
+      "link": "https://www.elciudadano.com/reels/video-celebrar-al-dictador-en-el-congreso-el-pinochetismo-de-santelices-en-la-camara/11/26/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nLa diputada Macarena Santelices celebró en el Congreso el cumpleaños de Augusto Pinochet, llamándolo &#8216;presidente&#8217; y justificando su régimen. Esta acción provocó reacciones intensas, al considerar sus palabras una afrenta a las víctimas de la dictadura chilena. Frente a la controversia, Santelices se mantuvo firme en sus declaraciones, mientras el diputado Juan Santana anun",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-26T11:45:07+00:00"
+    },
+    {
+      "titulo": "Llegar a fin de mes cuesta cada vez más con Kast: 68% declara que empeoró su capacidad para cubrir gastos",
+      "link": "https://www.elciudadano.com/economia/llegar-a-fin-de-mes-cuesta-cada-vez-mas-con-kast-68-declara-que-empeoro-su-capacidad-para-cubrir-gastos/11/26/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nPara el 72% de los encuestados, durante la administración de José Antonip Kast  ha habido un retroceso en materia de crecimiento económico y empleo.\nLa entrada Llegar a fin de mes cuesta cada vez más con Kast: 68% declara que empeoró su capacidad para cubrir gastos se publicó primero en El Ciudadano.",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-26T11:36:35+00:00"
+    },
+    {
+      "titulo": "Vocalista de Los Viking’s 5 entre los detenidos por presuntas irregularidades en municipio de Coquimbo",
+      "link": "https://laprensaaustral.cl/2026/11/26/vocalista-de-los-vikings-5-entre-los-detenidos-por-presuntas-irregularidades-en-municipio-de-coquimbo/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "La detención del actual vocalista de Los Viking’s 5, Pedro Barraza, sumó un nombre del mundo artístico a los investigados por el denominado caso “Pirata Gate”, que indaga un presunto esquema de corrupción al interior de la Municipalidad de Coquimbo durante la administración del exalcalde Marcelo Pereira. El músico Pedro Julio Barraza Cuadra fue detenido...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-26T11:35:51+00:00"
+    },
+    {
+      "titulo": "Manouchehri: No están las condiciones para que el senador Castro siga como jefe de comité",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/partido-socialista/manouchehri-no-estan-las-condiciones-para-que-el-senador-castro-siga/2026-11-26/082241.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado Daniel Manouchehri (PS) dijo en Cooperativa que el senador Juan Luis Castro debería dejar su puesto como jefe de bancada en medio de la polémica generada por el denominado caso Firmas.\nEn conversación con El Diario de Cooperativa, el parlamentario sostuvo que \"hay que ser muy serio cuando hay una investigación de la justicia, que se están investigando eventuales delitos, por lo tanto l",
+      "categorias": [
+        "Senadores",
+        "Diputados"
+      ],
+      "fecha": "2026-11-26T11:22:41+00:00"
+    },
     {
       "titulo": "Alcaldesa Tatiana Vásquez destacó avances de  Río Verde en aniversario Nº45 de la comuna",
       "link": "https://laprensaaustral.cl/2026/11/26/alcaldesa-tatiana-vasquez-destaco-avances-de-rio-verde-en-aniversario-no45-de-la-comuna/",
@@ -12,6 +68,17 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-26T11:00:12+00:00"
+    },
+    {
+      "titulo": "Presidente Kast realiza cadena nacional - Emol TV",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcE53UTZpLUhiTVZud0V0bktabm5XUE1xendveU9sekJPb29kSm1WX1ZNY01Mei1RaU16cWsxRHd4LWszSkc1eUNKY2NNZFlZOWl4WjRSQzlfd21CaEVxRGFKUmpQbkM4aEpmcUttOHBicVVFVVFtRjJYTnNtN0dQaGNDVDZTczBNM1cwaUcyOFlwUFc2TzhJ?oc=5",
+      "fuente": "Emol - Nacional (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Presidente Kast realiza cadena nacional&nbsp;&nbsp;Emol TV",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-26T10:35:25+00:00"
     },
     {
       "titulo": "Tensión en Republicanos: jefe de bancada se desmarca de Romero y afirma que dichos contra Chile Vamos “no nos representan” - ADN Radio",
@@ -509,6 +576,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-25T20:58:03+00:00"
+    },
+    {
+      "titulo": "AC contra Rabat: licencias médicas complican votación y Kast pide lealtad a republicanos - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkg2Z3ZxRHpjUXNwX0x2LVBfNVVMZTNBSVlmbVI2UVVyLWNLQURTTDZwTmFTWWE5SWs2SkFFVzJUcXR4X2J4U2NrcnMzQVhvTHhDMG5TcnEwZGpvSjFpRzkyR3E2eDdqQnBhSWU4NGUzX1FNN3A0QzM1bmtKMzVKWWRHQmhQbThILUZtZVBjU3h5ZnhBczBaX04tSm50eVdUekZDbUd2YkFMelA5VzFFOVBzRkVYRjZqNVUwOXZaQ1Zyamt2eVlUeDdsbXdUYzRyUFAtNHZsVQ?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "AC contra Rabat: licencias médicas complican votación y Kast pide lealtad a republicanos&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-25T20:55:34+00:00"
     },
     {
       "titulo": "Paulina Vodanovic responde tras quedar como imputada en el caso firmas: “No he sido notificada” - ADN Radio",
@@ -5569,87 +5647,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-22T18:44:10+00:00"
-    },
-    {
-      "titulo": "Criteria: Aprobación a Kast repuntó tras desplome de las últimas semanas",
-      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/criteria-aprobacion-a-kast-repunto-tras-desplome-de-las-ultimas-semanas/2026-11-22/142756.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La aprobación del Presidente José Antonio Kast aumentó en cinco puntos porcentuales y llegó al 23% luego de fuertes caídas registradas en las últimas semanas, reveló la reciente encuesta Criteria, publicada este domingo.\nEl muestreo se realizó entre el 19 y 20 de noviembre a través de un panel online, que reunió 802 casos, entre mujeres y hombres de 18 o más años, de niveles socioeconómicos ABCD, ",
-      "categorias": [
-        "Presidente",
-        "Diputados"
-      ],
-      "fecha": "2026-11-22T17:27:56+00:00"
-    },
-    {
-      "titulo": "Caso Firmas: Araya niega vendetta y pide que Fiscalía y Senado investiguen a Castro y Vodanovic",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-araya-niega-vendetta-y-pide-que-fiscalia-y-senado/2026-11-22/142600.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El senador PPD Pedro Araya llamó a su par del PS Juan Luis Castro \"a que deje de estar inventando historias y armando una posverdad que no es\" en el marco del denominado caso Firmas, y pidió que la Comisión de Ética de la Cámara Alta abra de oficio una investigación contra él y Paulina Vodanovic.\nAraya se involucró en el caso el martes, al leer ceremoniosamente la carta redactada por Ximena Órdene",
-      "categorias": [
-        "Presidente",
-        "Senadores"
-      ],
-      "fecha": "2026-11-22T17:26:00+00:00"
-    },
-    {
-      "titulo": "salud republicanos chomaly kast quiroz - La Segunda - La Segunda",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV2R3UzV5bE9YQnhHQzQwZGpXNzhPb0hYbk5EMVR2dXFtV0RuVTh3dWRrblpMazlSMDQzbmRNSFdsT2Y0RFhVWE1obll6dmNtMC0wc2d1OTgxRjVDQTQwZkloMDlyODZkdnc2T0o0VzFPcTVHdDE1bEZEamIxRllNOVA5MkhwT1dhQl9MSEhWaVVGNmtBY0VtWlpobzlvRmc?oc=5",
-      "fuente": "La Segunda (vía Google News)",
-      "region": "Nacional",
-      "resumen": "salud republicanos chomaly kast quiroz - La Segunda&nbsp;&nbsp;La Segunda",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-22T17:19:46+00:00"
-    },
-    {
-      "titulo": "Tras polémica por rayados en Santiago Centro: alcalde de Puerto Montt destaca modelo “El que raya, paga” - Radio Agricultura",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeTFDUk9BZmJRRFYtSWxxMHJQOUZIYVk5SlBLNXV6TjVsVy1YcS1UcXVMM2tiWXhlcGJSYUJSRDlHd0FDQ05vRzZiMElOc3R6QjZTMkpYbVZWTWRlTkxaVHplSDlOVHRndHYzT2FCOE1fYl93S2ZpS3Rob0lBTzhQWi1WZGNBdlhaOWV1OTBnX19MMG5QNHk4aUlva25POWVIQTVHS2FVUlFhc29nR0dYUkR4aU11bDdfNW1iRnQxMVBYM1NjdmNsenBn?oc=5",
-      "fuente": "Radio Agricultura (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Tras polémica por rayados en Santiago Centro: alcalde de Puerto Montt destaca modelo “El que raya, paga”&nbsp;&nbsp;Radio Agricultura",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-22T17:11:43+00:00"
-    },
-    {
-      "titulo": "Raúl Soto (PPD) por caso firmas en el Senado: “Los problemas se han generado por decisiones que ha tomado el PS, de las cuales el PPD es víctima”",
-      "link": "https://www.theclinic.cl/2026/11/22/raul-soto-ppd-por-caso-firmas-en-el-senado-los-problemas-se-han-generado-por-decisiones-que-ha-tomado-el-ps-de-las-cuales-el-ppd-es-victima/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El presidente del PPD abordó las diferencias entre ambas colectividades opositoras tras la denuncia de la senadora Ximena Órdenes por el uso de su firma sin autorización. Aunque respaldó a la parlamentaria, descartó terminar las relaciones políticas con el Partido Socialista. Anunció además que los cuatro senadores del PPD se reunirán el martes para definir los pasos a seguir. \nThe post Raúl Soto ",
-      "categorias": [
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-22T16:59:56+00:00"
-    },
-    {
-      "titulo": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\" - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTZ4YlFGWTRSQnRNRnNicXJQaThOMEY4LXJ3V29qbUdwa29hUlRjOHBoQk5YbFJ4RDlWdWpoeHBRTWg5QmI0dGt3NloyQmtUWk9hTHAxcEd0M09hNnVNWHE5QVYzTmxpV00tQUVIelFaQ1l1SFBTZ1BOYjRvSy1sN1VqT01hVjE3X012VC1GQUVydG1HUjZWSVNWVGNyOVF4NlhVdDVzZkdfMW83TkJvaUNCZi1JOUM5Y2ZKMDR4MDYwWWRFQWZncURpcHdTSE90N2pTTDUwd2FLVjFKcVUxVjRRQkJ5NnFLXzBYSzF3?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\"&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-22T16:57:50+00:00"
-    },
-    {
-      "titulo": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\" - El Divisadero",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbTB6U2t2T0U5T0g1MDFRdi04elRjcDJmSXJWVUk2MkE4SHg2NWJ2SXlqSXF5WGJfTXNRdjNIS2FKMzBwRGlGdVdVVlppSWUyVE5JYkdIdi10NUhSWVdPZEZvbWx1U2x0R3loRTdLNDFyb1NkTldHdmVaODA0dlFybTRHYWdKbzg3OEoybTRPb1U4anpvaF9vY2M2MTl3SzhNeTlhTWt4RlVUYzEyY2RDRXhiVkRocGZfX09QeE1tVHZpNW1heFFkemRuaDdHRVYzcERBeVphZEFFVEgzS1dlZ3RldWU3dDBXN0VKWHBMdw?oc=5",
-      "fuente": "El Divisadero (Coyhaique, vía Google News)",
-      "region": "Aysén",
-      "resumen": "Infante por gira de Kast: \"Hoy buscan oportunidades en países socialistas que crecen mucho más que Chile\"&nbsp;&nbsp;El Divisadero",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-22T16:57:18+00:00"
     }
   ]
 }
