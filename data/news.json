@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T10:31:39.570873+00:00",
+  "actualizado": "2026-11-26T10:46:56.437292+00:00",
   "total": 500,
   "items": [
     {
@@ -273,6 +273,17 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-11-25T22:36:51+00:00"
+    },
+    {
+      "titulo": "Congreso despacha primer Presupuesto de Kast tras acuerdo para reponer recursos a programas sociales - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbUc2MEIzY1E3VTYxUm9hVXFKRzlzTE9nc0E2TkJnbkJpTXpQei1KR0EtdXRHWjNNRFlfcGI1THhVR2N6dkFkNVU4RzZGU2JQQ1JPOE9hVWFIczIxSl9MT0xCdnU1MzVrcFZCaFBkRll6RFBXejVma2NQaGhSLS16OEI0UjAtNTRnS1JsWTNhM1cxNENkemNnUXQ4WWFIOU5wQ2s0VHVZY2tJVGJXQjhvcEpoU2dtM3JHaEk3ZkFKRjZzWC1pSXN0eTI1U0p1Ym9Vb0dMZUhKZVp0eEtmR29VY2pNOTB3YXpH?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Congreso despacha primer Presupuesto de Kast tras acuerdo para reponer recursos a programas sociales&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-25T22:30:11+00:00"
     },
     {
       "titulo": "¿Tiembla la AC contra Rabat? Oposición redobla presión al PDG para que respalde el libelo - Universidad de Chile",
@@ -5640,17 +5651,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-22T16:15:12+00:00"
-    },
-    {
-      "titulo": "Encuesta Criteria: Aprobación del Presidente Kast sube cinco puntos y alcanza el 23% - Universidad de Chile",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd3FadW9sdEJTTUdJUTVQdnVJWDNCWkJSdlZRVnFxVDJvWmo4a3FzU2VndUwwMU9UOXprdnpjNmk3Z25wcEdjRlg0S3h0WVNmTFpCWTNaX2t0eklZNG5SRUZOYnI0bk5UYzBYZFBiWDhKRmRGT0tZXy1NY3lTWkFtSzdyVU5COGc5NllqNWV3OEdNR3JkdUpFUEJxWE1JcTRhNGplNXF6Q1N0T1NaWFRNMkxOSlFqR2oxcFE?oc=5",
-      "fuente": "Radio Universidad de Chile (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Encuesta Criteria: Aprobación del Presidente Kast sube cinco puntos y alcanza el 23%&nbsp;&nbsp;Universidad de Chile",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-22T16:00:34+00:00"
     }
   ]
 }
