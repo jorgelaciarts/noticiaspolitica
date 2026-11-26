@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-26T14:31:27.089214+00:00",
+  "actualizado": "2026-11-26T14:46:37.270141+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Senador Saavedra anuncia salida de Juan Luis Castro Castro del Comité de Socialismo Democrático",
+      "link": "https://www.lanacion.cl/senador-saavedra-anuncia-salida-de-juan-luis-castro-castro-del-comite-de-socialismo-democratico/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El senador socialista Gastón Saavedra anunció que su par Juan Luis Castro, también del PS, dejará la presidencia del Comité del Socialismo Democrático. Esto tras la polémica por el retiro de los permisos constitucionales y eventual falsificación de firmas digitales. En entrevista con Radio 13c, Saavedra dijo que &#8220;es una situación mala, evidentemente afecta la [&#8230;]\nThe post Senador Saave",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-26T14:34:26+00:00"
+    },
     {
       "titulo": "Pinochet de cumpleaños en el Congreso: Santelices lo festeja, Santana la llevará ante Ética y Cuello alerta sobre el negacionismo",
       "link": "https://www.elciudadano.com/politica/pinochet-de-cumpleanos-en-el-congreso-santelices-lo-festeja-santana-la-llevara-ante-etica-y-cuello-alerta-sobre-el-negacionismo/11/26/",
@@ -5633,18 +5644,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-23T11:00:12+00:00"
-    },
-    {
-      "titulo": "Sobrino contratado, tío ad honorem: así opera el equipo de la diputada PNL Paulina Muñoz",
-      "link": "https://www.elciudadano.com/chile/equipo-parlamentario-paulina-munoz-sobrino-tio-ad-honorem/11/23/",
-      "fuente": "El Ciudadano",
-      "region": "Nacional",
-      "resumen": "El Ciudadano\nPor Leonardo Buitrago y Mauricio San Cristóbal &#124; Unidad de Investigación y Análisis El Ciudadano La nómina oficial del equipo de la diputada Paulina Muñoz Minte, representante del Distrito 25 de la Región de Los Lagos e integrante del Partido Nacional Libertario (PNL), colectividad presidida por Johannes Kaiser, no basta por sí sola para explicar [&#8230;]\nLa entrada Sobrino cont",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-23T10:30:38+00:00"
     }
   ]
 }
