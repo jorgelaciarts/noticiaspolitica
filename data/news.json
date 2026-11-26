@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-26T22:31:22.328253+00:00",
+  "actualizado": "2026-11-26T22:46:24.220806+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Del regreso de Espina a la reaparición de Hinzpeter: la apuesta de RN por recuperar a sus antiguos referentes",
+      "link": "https://www.theclinic.cl/2026/11/26/del-regreso-de-espina-a-la-reaparicion-de-hinzpeter-la-apuesta-de-rn-por-recuperar-a-sus-antiguos-referentes/",
+      "fuente": "The Clinic",
+      "region": "Nacional",
+      "resumen": "De cara a los 40 años que celebrará el partido en 2027, en Renovación Nacional han requerido a sus \"exministros históricos\" para fortalecer las bases de la colectividad y transmitir experiencia a las actuales autoridades políticas de la tienda. Así, Katherine Martorell, secretaria general del partido, ha tomado contacto con Rodrigo Hinzpeter, Alberto Espina, Baldo Prokurica y el exembajador y expr",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-26T22:43:00+00:00"
+    },
     {
       "titulo": "Absuelven a concejala de Puente Alto en querella «por calumnias e injurias graves» presentada por Claudio Crespo",
       "link": "https://www.elciudadano.com/chile/absuelven-a-concejala-de-puente-alto-en-querella-por-calumnias-e-injurias-graves-presentada-por-claudio-crespo/11/26/",
@@ -35,6 +46,18 @@
         "Alcaldes"
       ],
       "fecha": "2026-11-26T22:05:09+00:00"
+    },
+    {
+      "titulo": "Oposición no cree perdida la AC contra Rabat: evalúa el momento actual como \"empate técnico\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/oposicion-no-cree-perdida-la-ac-contra-rabat-evalua-el-momento-actual/2026-11-26/190507.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "La acusación constitucional (AC) contra el ministro de Justicia, Fernando Rabat, enfrenta una definición incierta en la Cámara de Diputadas y Diputados. Sin embargo, el timonel del Partido Por la Democracia (PPD) y presidente de la comisión revisora del libelo, Raúl Soto, descartó este jueves que la acción haya perdido fuerza y aseguró que el resultado sigue abierto.\n\"Yo no creo que haya perdido f",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-26T22:05:07+00:00"
     },
     {
       "titulo": "Presidente Kast pide a Polonia apoyo en la candidatura chileno-belga al Tratado de Alta Mar - CNN Chile",
@@ -516,6 +539,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-26T16:07:22+00:00"
+    },
+    {
+      "titulo": "Caso Firmas: Saavedra confirma salida de Juan Luis Castro de la jefatura de los senadores PS - El Mostrador",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSHoyN25lTEphSGpCVFVHRC1kZkVUY2x1VnNNeV9idzRFTVVhQTZhbjlieWV4OVVidFpUczBFdGI2dFc1TDZYd2pLNFh6WHNXNEQ3UGhxd19XZHh2aU1YQU1RZ3kxdnNRWVBObHkwZHF5MW9IcjRNVTM5eHFNQ2NON2xLZndVUHVNVjBFOGpwUnFKbW51N2hTaDhDZVZsVktNbVZUTlllWTVCc05YYzIyYW1hTjlaQk9FRjBBOHZNOEdkZjFucVAyZEZLZkxoWEVXOWI5U05mMXAyV1hR?oc=5",
+      "fuente": "El Mostrador (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Caso Firmas: Saavedra confirma salida de Juan Luis Castro de la jefatura de los senadores PS&nbsp;&nbsp;El Mostrador",
+      "categorias": [
+        "Senadores"
+      ],
+      "fecha": "2026-11-26T15:59:34+00:00"
     },
     {
       "titulo": "Caso Firmas: Senadores PS acuerdan la salida de Castro como jefe de comité",
@@ -5611,39 +5645,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-23T16:30:00+00:00"
-    },
-    {
-      "titulo": "UDI y RN resienten “tibia” defensa del Partido Republicano a Chomali ante amenaza de libertarios de acusarla constitucionalmente - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTjZ3R0ZtU1dMaHNrYXFQajN6eHQ5LU9vMS1kZGtUU0pIdGM3a2ZERzVrc1BQWXJiaTctbEpPbmtjeFVRT1FPTE1Cdi1jNmRyTXVDX1lvakNZbmpmWVRNemwzUzZSeUtmNVc0dXdrMkpkYlBmVnhHUmJTSlVzWFBXZEFseERFNzJFVWk2TWI3V0FUU0t0c2N6YklVREJVbHdFbXZVcklzcGItSkcwWUlHZENMaldGQXpBSU1uUTR0STRrelJ0a3JRZlcxTDM4MEhzd1NCbDNsWGVMTXhxOUdKWWtTY0jSAYYCQVVfeXFMTmZaaTBCTS1nM3NXTXV6YVRiS0JQdUd4WWFZYkFxQUJZQ3hMd0pFSE93Z20xSWhydkFuekpfZ255OVVxNHFOTk52Q25FMy0zWDlvOFlSN09hWnAxMXNrTy1VaTR2MzJLWVZ5N0l3RlU4eWpUMXJNckxJS2JwYUxLMWNyczZKczlfNndfbFpBY1FxcmhETzFaMG9oQlEzLVRya3A2TmxrSFRESnBUaEd6dTlqdndDczA1clk1TXhxYzh4VllsT0h6MlF4WGp0T0J1V0lIR0V1LTRralhnZnh1d2NJMDBWQVBOTXlWQXMzOElwcmxpWC11UjVPMkZ1WXRqVXlVMDVQUQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "UDI y RN resienten “tibia” defensa del Partido Republicano a Chomali ante amenaza de libertarios de acusarla constitucionalmente&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-23T16:30:00+00:00"
-    },
-    {
-      "titulo": "Kast intenta retomar control de la agenda: fija plazo de 100 días para mostrar mejoras y pide a gabinete enfocarse en prioridades del gobierno - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNZDFUOWhQa0JEY0dEZTQ2Z2g1MjdBb012bzZMbDRvbkpVZFVpM2RzdHEzWEl1cEJfLU5QRm8zT2FtVTRkZXB3N3gwMHZXSjk4SjN3enBuU0d3TzNYd2dhZGxiMi03MHZocGV2Z2xzYVZoMkJ4YmQtdkNpMkZ0YU95RkJFVjRvNm5sZWVLRERPSER5NkI5TDZtODhUck9vQ1ZnaG02Sml6Mk5kX3JsVWlpRk5HLTJpdVpOb0ZDRGdHS3d3MWJLTkszRVpiNTlHTk1ralFKMXp0Y3dlSzIydkd6aGhTRmo2em5kVDBoVkJkdXY1cVZrMmdDRXdyS2p4Z191b01BMmNERmpHSWdYck1sa0dXc9IBtAJBVV95cUxNY25CaGFxZ1hscnRSZFNGUGlhb1FtNFdxMzNpY0JlMWVUdGZmWFZ3WEJxckVOSDJiYS1YeEhUaUZxSFlVay11YndDaWZ5QnhhanQwMFJXc1V1NWxzZ1lTNWFNMkFEOVUwWm41Sk95N3oyUzBNTmc5ODhNQ0Z6aVgtNXNnQjdxWmVVcXFsZGp6UllSd3hZZjh0X0VEYzBhYXgyRVJzenBlSERDcnk3QXh1MWE5NXVxd1JzSGhaemRsUFhBcHpVRUxiNWFlM0lkNzFnVExLQmVmWEpmVkpjTWtTdjV4cTJPajJYS1FUQjFGX0xwY1BLbHgxeTZfcHFaZ3BhNHBHUGlYTDVJbWRkdzhGbDNPbm16U3JGRnVVeDRfVGVjMWVvTVdIUDRyTmIxZ005UUpteQ?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Kast intenta retomar control de la agenda: fija plazo de 100 días para mostrar mejoras y pide a gabinete enfocarse en prioridades del gobierno&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-23T16:30:00+00:00"
-    },
-    {
-      "titulo": "Una semana perdida y confianzas “resquebrajadas”: el lamento de la oposición por la crisis del caso Firmas",
-      "link": "https://www.theclinic.cl/2026/11/23/una-semana-perdida-y-confianzas-resquebrajadas-el-lamento-de-la-oposicion-por-la-crisis-del-caso-firmas/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La polémica por el retiro de los permisos constitucionales de Ximena Órdenes y Fidel Espinoza se tomó la reunión de los timoneles opositores, quienes lamentaron que el conflicto entre socialistas y PPD terminara opacando su agenda conjunta contra el Gobierno. Aunque acordaron radicar la solución en el comité de senadores del Socialismo Democrático, persisten las desconfianzas entre ambos partidos.",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-23T16:21:31+00:00"
     }
   ]
 }
