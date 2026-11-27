@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-27T10:01:28.114880+00:00",
+  "actualizado": "2026-11-27T10:16:27.021453+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Dos meses duró revestimiento del monumento a la goleta Ancud en el barrio Chilote",
+      "link": "https://laprensaaustral.cl/2026/11/27/dos-meses-duro-revestimiento-del-monumento-a-la-goleta-ancud-en-el-barrio-chilote/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El revestimiento del monumento que representa a la goleta Ancud, ubicado en la Plaza Cívica Sur Archipiélago de Chiloé, presentó desprendimientos a poco más de dos meses de la inauguración del espacio público, situación que motivó la molestia del alcalde de Punta Arenas, Claudio Radonich, quien anunció que el municipio exigirá a la empresa constructora...",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-27T10:04:14+00:00"
+    },
     {
       "titulo": "Hará denuncia: Odontólogo niega haber firmado licencia médica de diputada Parisi - Universidad de Chile",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONkhuMnpObVd3ZlNIaDhQbkFmYkwzeWsyWG9RN2tTQ0MzNUxwcmhQNE5ycDRTRHI1R3ZpWERaVkFGSzdZYmpzV0E3QWtuZXRvX0YwTVM4b3NHOXR2N01LWGpVcGFDYnF6STZiU2g1TTJCUFhSaDRtSUlPcjdsd2FOR3VONkdUT3VZM3YtdzgxeFNCTEt3NkhPOHA1MUN1SkpBYUsyUlJoN3Z5R20xaGRMdVZvc2M3QQ?oc=5",
@@ -5631,17 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-23T21:00:40+00:00"
-    },
-    {
-      "titulo": "PDI realiza diligencias en el Senado por investigación del Caso Firmas",
-      "link": "https://www.lanacion.cl/pdi-realiza-diligencias-en-el-senado-por-investigacion-del-caso-firmas/",
-      "fuente": "La Nación",
-      "region": "Nacional",
-      "resumen": "La Brigada del Cibercrimen de la Policía de Investigaciones (PDI) realizó este lunes diligencias en dependencias del Senado para recopilar antecedentes en el marco del denominado Caso Firmas. Este investiga las presuntas irregularidades en el retiro de los permisos constitucionales de los senadores Ximena Órdenes (independiente-PPD) y Fidel Espinoza (PS).La Fiscalía Regional de Valparaíso confirmó",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-23T20:57:15+00:00"
     }
   ]
 }
