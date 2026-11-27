@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-27T15:46:21.827809+00:00",
+  "actualizado": "2026-11-27T16:01:33.548651+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Desempleo en Chile llega al 10%: Gobierno apunta a la administración Boric y señalan que «hay razones para estar optimistas»",
+      "link": "https://www.elciudadano.com/actualidad/desempleo-en-chile-llega-al-10-gobierno-apunta-a-la-administracion-boric-y-senalan-que-hay-razones-para-estar-optimistas/11/27/",
+      "fuente": "El Ciudadano",
+      "region": "Nacional",
+      "resumen": "El Ciudadano\nEl Instituto Nacional de Estadísticas (INE) dio a conocer este viernes los resultados de la última Encuesta Nacional de Empleo, la cual arrojó que la tasa de desocupación en nuestro país llegó al 10%. El informe abarca los meses de agosto, septiembre y octubre, durante los cuales se registró un alza del 1,6% en el [&#8230;]\nLa entrada Desempleo en Chile llega al 10%: Gobierno apunta a",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-27T15:50:08+00:00"
+    },
     {
       "titulo": "Las dudas que abrió el certificado que presentó Zandra Parisi en la Cámara y que le permitió ausentarse del Congreso sin presentar licencia",
       "link": "https://www.theclinic.cl/2026/11/27/las-dudas-que-abrio-el-certificado-que-presento-zandra-parisi-en-la-camara-y-que-le-permitio-ausentarse-del-congreso-sin-presentar-licencia/",
@@ -5625,17 +5636,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-24T11:40:24+00:00"
-    },
-    {
-      "titulo": "Todo por Rabat",
-      "link": "https://ladiscusion.cl/todo-por-rabat/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "Señor Director: Si hay algo que debemos destacar de nuestro presidente es su lealtad férrea con algunos de sus ministros, una lealtad que hoy lo hunde en lo más profundo de las encuestas. La aprobación popular y la imagen de hombre serio e implacable que proyectaba el otrora candidato Kast se diluyen con una rapidez [&#8230;]",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-24T11:25:32+00:00"
     }
   ]
 }
