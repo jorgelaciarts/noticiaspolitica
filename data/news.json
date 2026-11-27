@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-27T19:20:13.046596+00:00",
+  "actualizado": "2026-11-27T19:35:09.858016+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Fiscalía Oriente abre causa por manipulación de certificado médico que presentó diputada Zandra Parisi",
+      "link": "https://cambio21.cl/tendencias/fiscalia-oriente-abre-causa-por-manipulacion-de-certificado-medico-que-presento-diputada-zandra-parisi-6b09d971a6616120cf12b3b3",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-27T19:30:00+00:00"
+    },
     {
       "titulo": "Timonel de la UDI por dichos de Romero: “A mí me parece una afirmación que no es real”",
       "link": "https://www.lanacion.cl/timonel-de-la-udi-por-dichos-de-romero-a-mi-me-parece-una-afirmacion-que-no-es-real/",
@@ -5625,18 +5636,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-24T15:45:40+00:00"
-    },
-    {
-      "titulo": "“Logré el sueño americano”: Diputado Olivares explica como amaso fortuna de más de US$ 6 millones y por qué omitió propiedades en declaración de patrimonio 2025",
-      "link": "https://www.theclinic.cl/2026/11/24/logre-el-sueno-americano-diputado-olivares-explica-como-amaso-fortuna-de-mas-de-us-6-millones-y-por-que-omitio-cuatro-propiedades-en-declaracion-de-patrimonio-2025/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "El parlamentario aseguró que una \"mala asesoría\" del PDG incidió en que no declarara todos sus bienes cuando era candidato. Tras dos rectificaciones que incluyen una serie de terrenos e inmuebles en Estados Unidos, su fortuna podría alcanzar los US$6,3 millones, según su propia estimación.\nThe post &#8220;Logré el sueño americano&#8221;: Diputado Olivares explica como amaso fortuna de más de US$ 6",
-      "categorias": [
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-24T15:43:04+00:00"
     }
   ]
 }
