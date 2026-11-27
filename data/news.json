@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-27T19:01:32.331082+00:00",
+  "actualizado": "2026-11-27T19:20:13.046596+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Timonel de la UDI por dichos de Romero: “A mí me parece una afirmación que no es real”",
+      "link": "https://www.lanacion.cl/timonel-de-la-udi-por-dichos-de-romero-a-mi-me-parece-una-afirmacion-que-no-es-real/",
+      "fuente": "La Nación",
+      "region": "Nacional",
+      "resumen": "El presidente de la UDI, diputado Guillermo Ramírez, se refirió a las declaraciones del diputado del Partido Republicano, Agustín Romero, quien descartó la posibilidad de generar una alianza con Chile Vamos. En conversación con Radio 13c, sostuvo que &#8220;decir que somos como el agua y el aceite, en circunstancia que hemos trabajado con mucha lealtad [&#8230;]\nThe post Timonel de la UDI por dich",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-27T19:14:45+00:00"
+    },
     {
       "titulo": "San Carlos incorpora 34 nuevos lomos toro y cruces peatonales",
       "link": "https://ladiscusion.cl/san-carlos-incorpora-34-nuevos-lomos-toro-y-cruces-peatonales/",
@@ -5625,20 +5637,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T15:43:04+00:00"
-    },
-    {
-      "titulo": "Caso Firmas: Órdenes afirmó que, en el lugar de Castro, \"yo hubiera dado un paso al costado\"",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/senado/caso-firmas-ordenes-afirmo-que-en-el-lugar-de-castro-yo-hubiera-dado/2026-11-24/124127.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "La senadora Ximena Órdenes (ind-PPD) contó que su par Juan Luis Castro (PS) le expresó este martes que lamentaba lo ocurrido en el Caso Firmas y que quería conversar con ella. Fue su primer encuentro tras la denuncia y tuvo lugar durante una sesión de la Comisión de Salud del Senado, presidida por el socialista.\nÓrdenes denunció el presunto uso de su firma sin autorización para retirar su permiso ",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Senadores",
-        "Diputados"
-      ],
-      "fecha": "2026-11-24T15:41:27+00:00"
     }
   ]
 }
