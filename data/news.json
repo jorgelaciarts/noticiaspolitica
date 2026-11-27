@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-27T08:46:27.527589+00:00",
+  "actualizado": "2026-11-27T09:01:17.145956+00:00",
   "total": 500,
   "items": [
     {
@@ -12,6 +12,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-27T08:00:00+00:00"
+    },
+    {
+      "titulo": "Enrique Alcalde presentó nuevo libro - Diario Financiero",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLXA0aVpaaGJjRG1iV2tPckdtTWJGUUc4MmtXWmVBUXFpM3p3LXVYcVc0Wl9fMV9hYm4zUjRGRUdrUHotNXNMaTBiSEJPdENFQVBET19RYkl5RUxTUzlYRGRuWmVjdm13OGRtaVhDRktfR0VTdE90TzlfWVpuRGlabV9TWQ?oc=5",
+      "fuente": "Diario Financiero (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Enrique Alcalde presentó nuevo libro&nbsp;&nbsp;Diario Financiero",
+      "categorias": [
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-27T07:00:00+00:00"
     },
     {
       "titulo": "Diputada Zandra Parisi analiza acciones legales contra odontólogo tras polémica por certificado - Teletrece",
@@ -5631,17 +5642,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-23T20:16:04+00:00"
-    },
-    {
-      "titulo": "Kast anuncia plan de 100 días enfocado en el empleo y fija balance de gestión para marzo - UCV radio",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUZwbGg2Q2V2RmtIM3l3Z3VqYXE5TmE4ZFE5QmhURzBrdVFvMnptNkV2TWVwQmg0WEM5d0t4eTZtTHlGRGZoMENvVDV6cl9WZ2wwcHktalRIV2pWVzhVZmxwMHp2TVgyUnVDM2NEbHhNTGJvWGMyS0t1VGhoOGdBOERnX0NmeU1RaGJOcDNyaXdvU0JXMTZ3UG5XTkNfVFowUHJNZlN6cmNScklpNkVTbzhVdks?oc=5",
-      "fuente": "UCV Radio (Valparaíso, vía Google News)",
-      "region": "Valparaíso",
-      "resumen": "Kast anuncia plan de 100 días enfocado en el empleo y fija balance de gestión para marzo&nbsp;&nbsp;UCV radio",
-      "categorias": [
-        "Presidente"
-      ],
-      "fecha": "2026-11-23T20:05:33+00:00"
     }
   ]
 }
