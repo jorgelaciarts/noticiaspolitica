@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-27T18:46:20.035358+00:00",
+  "actualizado": "2026-11-27T19:01:32.331082+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "San Carlos incorpora 34 nuevos lomos toro y cruces peatonales",
+      "link": "https://ladiscusion.cl/san-carlos-incorpora-34-nuevos-lomos-toro-y-cruces-peatonales/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "En un plazo de cinco días se concretó la instalación de 28 reductores de velocidad en distintos sectores de San Carlos, una intervención orientada a mejorar las condiciones de seguridad vial. El proyecto, impulsado durante la administración del alcalde Rubén Méndez Venegas y el Concejo Municipal, considera además la habilitación de seis cruces peatonales y [&#8230;]",
+      "categorias": [
+        "Concejales",
+        "Alcaldes"
+      ],
+      "fecha": "2026-11-27T18:49:16+00:00"
+    },
     {
       "titulo": "Alcalde Manouchehri por caso “Pirata Gate”: “Duele que la corrupción vuelva a manchar la historia de nuestra comuna” - El Día",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQ3ZRd3VnQW03cjk5V1BzVUVfOUwzLXlFbmp3TVF3cllWbWtSVkhjZng0YjQtamZpUGNRSmlJV0dnNWZVNEZudE9UTEM1S2R0bDI0aXQyalM4Xzlwa1A4SHI0QjZHTW9LQjctNnVvNWJld2doa1NxWkx3SlUzNWpjUkFqYzRPbVUwdGZ0MmtDcnJaMTUtelF4YThvUl9aN0FyMVRFX1JMWm1CTHl3YWpEZkJ6YlpDUWpIX1NjQm5iTXZoVHdXdG40SnRFN1FveVdqZUlLdzdmbmk2V0d3Q2ZsM2Y2bU1RMVZ1Vm5zTjZhbGk1UHJQMDEtTg?oc=5",
@@ -1371,6 +1383,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-26T21:31:00+00:00"
+    },
+    {
+      "titulo": "Cambia todo cambia: Diputado Teao que iba a favor de la acusación contra Rabat cambió su voto: \"Hasta el día de hoy, ahora, me abstengo\"",
+      "link": "https://cambio21.cl/politica/cambia-todo-cambia-diputado-teao-que-iba-a-favor-de-la-acusacion-contra-rabat-cambio-su-voto-hasta-el-dia-de-hoy-ahora-me-abstengo-6b08a3fb8fb0820b8a4f8173",
+      "fuente": "Cambio21",
+      "region": "Nacional",
+      "resumen": "",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-26T21:27:32+00:00"
     },
     {
       "titulo": "Cambia todo cambia: Diputado Teao que iba a favor de la acusación contra Rabat cambió su voto: \"Hasta el día de hoy, ahora, me abstengo\"",
@@ -5616,32 +5639,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T15:41:27+00:00"
-    },
-    {
-      "titulo": "\"Madura, hombre\": el cruce entre Schalper y Romero por los fondos del INDH",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/madura-hombre-el-cruce-entre-schalper-y-romero-por-los-fondos-del-indh/2026-11-24/124010.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "Los diputados Diego Schalper (RN) y Agustín Romero (Partido Republicano) se enfrentaron en X luego de que la Cámara aprobara, por 70 votos a favor y 69 en contra, la reposición de los recursos para el Instituto Nacional de Derechos Humanos (INDH) en el Presupuesto 2027.\nRomero difundió el detalle de la votación y cuestionó a los diputados de centroderecha que respaldaron los fondos. \"¿Usted cree q",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-24T15:40:10+00:00"
-    },
-    {
-      "titulo": "Votos de Schalper y Ossandón (RN) en presupuesto del INDH desordenan a la derecha en la Cámara y desatan furia en republicanos",
-      "link": "https://www.theclinic.cl/2026/11/24/votos-de-schalper-y-ossandon-sobre-presupuesto-del-indh-desordenan-a-la-derecha-en-la-camara-y-desatan-furia-en-republicanos/",
-      "fuente": "The Clinic",
-      "region": "Nacional",
-      "resumen": "La vicepresidenta de la Cámara y el jefe de bancada de RN, además del diputado Jorge Guzmán (Evópoli), estuvieron por mantener el presupuesto destinado al Instituto Nacional de Derechos Humanos (INDH), pese a que toda la derecha lo votó en contra. Ese escenario generó frustración en los republicanos, pues la glosa fue aprobada por un solo voto de diferencia. Si bien el erario pasará a debatirse en",
-      "categorias": [
-        "Presidente",
-        "Partidos políticos",
-        "Diputados"
-      ],
-      "fecha": "2026-11-24T15:34:41+00:00"
     }
   ]
 }
