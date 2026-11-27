@@ -1,7 +1,19 @@
 {
-  "actualizado": "2026-11-27T23:16:38.038438+00:00",
+  "actualizado": "2026-11-27T23:31:26.592982+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Kast tras el 10% de desempleo: \"El sueño de encontrar trabajo se está recuperando\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-tras-el-10-de-desempleo-el-sueno-de-encontrar-trabajo-se-esta/2026-11-27/201026.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "En el marco de su visita a Osorno (Región de Los Lagos), el Presidente José Antonio Kast defendió la gestión de su Gabinete y aseguró que \"el sueño de encontrar trabajo se está recuperando\", luego de que el Instituto Nacional de Estadísticas (INE) reportara este viernes que el desempleo llegó al 10% en el trimestre agosto-octubre del 2026.\nLuego de que se dieran a conocer los resultados esta mañan",
+      "categorias": [
+        "Presidente",
+        "Diputados"
+      ],
+      "fecha": "2026-11-27T23:10:26+00:00"
+    },
     {
       "titulo": "Luz verde de comisión, llamado contra artimañas y Zandra Parisi internada marcan antesala de AC contra Rabat - El Desconcierto",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnAzNGpsQ3RCY1NjcFduLU9ETTllaFZuZks2aDhzNl9UbGRLbENQNXQxM3MwcHpDa0Fqc3I2SVpEc3ZzOGw1eUNKenNLbHgtaDJ0aTJpRFZna3ZOMEFGbW1yLWlHUjFOOEcxcFh6ZzhNNHRXVDUwalFnWlVzMGRGUGRXVmxuY0hqNkRtYWFWS2VjVXJnMll4a3BuejlHdVdvTUhESkNaU01fWlFOLU9LUjMwNkNYZlFlaEtDNTBnRU5zVkVkVEhJNk9tZWlMRTlMVmlOV2RvMjdzTzFyU3ctZA?oc=5",
@@ -589,6 +601,17 @@
         "Presidente"
       ],
       "fecha": "2026-11-27T15:50:08+00:00"
+    },
+    {
+      "titulo": "Servel, Senado y ONU Mujeres se unieron por una democracia libre de violencia digital contra las mujeres - Servicio Electoral de Chile",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTHM4cE5YeUY4b1lJNTh5S1RteWtVbFlBR0xJVGJiQ0RmQ1U2eFFwYVVKWHlxVy1Rd3pYeTRBNmRrYy10ZndOaGhKeW1ucE9hQ0hlcHJuRXVIeVpnYzcybkRhR3RNRV9uRTZYemlxVmFwbzQyY0tfTlJCZW1va2dDRExTeW1GdTFSUUNVckJpbUMyVnY3T3NxbXMxNUFTMnFSSWV5aFJ3Ry1McXQ5WlI5QjRaWUx0UGtadzFvcV9HeWxMSHJ0Vlp1VzgxTkZjS0hyWDg4TzJVdGhWR2hwZURyQQ?oc=5",
+      "fuente": "Servicio Electoral (Servel, vía Google News)",
+      "region": "Nacional",
+      "resumen": "Servel, Senado y ONU Mujeres se unieron por una democracia libre de violencia digital contra las mujeres&nbsp;&nbsp;Servicio Electoral de Chile",
+      "categorias": [
+        "Servicio Electoral"
+      ],
+      "fecha": "2026-11-27T15:47:53+00:00"
     },
     {
       "titulo": "Las dudas que abrió el certificado que presentó Zandra Parisi en la Cámara y que le permitió ausentarse del Congreso sin presentar licencia",
@@ -5612,29 +5635,6 @@
         "Partidos políticos"
       ],
       "fecha": "2026-11-24T19:23:00+00:00"
-    },
-    {
-      "titulo": "Senador Fidel Espinoza (PS) arremete contra vocero de Kast, Gonzalo Arenas y acusa que “le hace daño al Gobierno”: “Es un torpe”",
-      "link": "https://cambio21.cl/politica/senador-fidel-espinoza-ps-arremete-contra-vocero-de-kast-gonzalo-arenas-y-acusa-que-le-hace-dano-al-gobierno-es-un-torpe-6b05e241e66d6b40dc0b0533",
-      "fuente": "Cambio21",
-      "region": "Nacional",
-      "resumen": "",
-      "categorias": [
-        "Presidente",
-        "Senadores"
-      ],
-      "fecha": "2026-11-24T19:17:36+00:00"
-    },
-    {
-      "titulo": "Chandía (RN) cuestiona conducción de comisión que revisa acusación contra Rabat tras dejar sin exponer a académico - Emol",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTVCYnVCV3NfY2hJWkUyZV9raC1XUGg0cE42cHRJTXBXTXdPU0NTaFkwYm5NZTM0Z1E3aERESGdSMF95Q2FvM1NYTnlycEVlb3FsV21GQm80S2JNTXJTMzlUYmp3aUJaUGNMNXd6S250Y2NWb0JiY213b2x2OHVyRlhkQjh3NDN0VXhBblp3VWViSERPQ0doSFdfUQ?oc=5",
-      "fuente": "El Mercurio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Chandía (RN) cuestiona conducción de comisión que revisa acusación contra Rabat tras dejar sin exponer a académico&nbsp;&nbsp;Emol",
-      "categorias": [
-        "Partidos políticos"
-      ],
-      "fecha": "2026-11-24T19:14:55+00:00"
     }
   ]
 }
