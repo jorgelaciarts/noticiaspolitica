@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-27T11:01:21.375683+00:00",
+  "actualizado": "2026-11-27T11:16:29.634911+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Concejo posterga votación del Plan de Salud 2027 tras  críticas por errores, cifras que no cuadran y anexos ausentes",
+      "link": "https://laprensaaustral.cl/2026/11/27/concejo-posterga-votacion-del-plan-de-salud-2027-tras-criticas-por-errores-cifras-que-no-cuadran-y-anexos-ausentes/",
+      "fuente": "La Prensa Austral (Punta Arenas)",
+      "region": "Magallanes",
+      "resumen": "El Concejo Municipal de Punta Arenas postergó para este viernes la votación del Programa de Salud Municipal 2027 de la Corporación Municipal (Cormupa), luego de que varios concejales cuestionaran errores, inconsistencias y la falta de anexos en el documento, que debe ser entregado al Servicio de Salud Magallanes antes del 30 de noviembre. El programa,...",
+      "categorias": [
+        "Concejales"
+      ],
+      "fecha": "2026-11-27T11:01:38+00:00"
+    },
     {
       "titulo": "Dos meses duró revestimiento del monumento a la goleta Ancud en el barrio Chilote",
       "link": "https://laprensaaustral.cl/2026/11/27/dos-meses-duro-revestimiento-del-monumento-a-la-goleta-ancud-en-el-barrio-chilote/",
@@ -5631,17 +5642,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-23T21:12:01+00:00"
-    },
-    {
-      "titulo": "Convenio beneficia a 101 familias que requieren apoyos y cuidados en Yungay",
-      "link": "https://ladiscusion.cl/convenio-beneficia-a-101-familias-que-requieren-apoyos-y-cuidados-en-yungay/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "El seremi de Desarrollo Social y Familia de Ñuble, Alan Ibáñez, y el alcalde de Yungay, Rafael Cifuentes, encabezaron este lunes en la Biblioteca Pública de la comuna la firma simbólica del convenio 2026–2027 de la Red Local de Apoyos y Cuidados. Esta renovación de convenio permitirá dar continuidad a la atención de 101 díadas, [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-23T21:06:34+00:00"
     }
   ]
 }
