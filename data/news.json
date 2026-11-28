@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-28T12:31:19.713920+00:00",
+  "actualizado": "2026-11-28T12:46:22.649360+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "Diputado Crisóstomo confirma voto a favor de acusación contra ministro Rabat",
+      "link": "https://ladiscusion.cl/diputado-crisostomo-confirma-voto-a-favor-de-acusacion-contra-ministro-rabat/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "De cara a la próxima votación en Sala de la Acusación Constitucional contra el ministro de Justicia, Fernando Rabat, el diputado por la Región de Ñuble, Francisco Crisóstomo, fijó una postura en respaldo al libelo acusatorio, subrayando que la gravedad de los decretos que rebajaron condenas a violadores y abusadores de niños y niñas obliga [&#8230;]",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-28T12:35:48+00:00"
+    },
     {
       "titulo": "(VIDEO) Proyecto inmobiliario de los hijos de Piñera enfrentará a la Corte Suprema por fallo ambiental anulado",
       "link": "https://www.elciudadano.com/reels/video-proyecto-inmobiliario-de-los-hijos-de-pinera-enfrentara-a-la-corte-suprema-por-fallo-ambiental-anulado/11/28/",
@@ -5627,17 +5638,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T22:48:36+00:00"
-    },
-    {
-      "titulo": "España oficializa su apoyo al Observatorio de Violencia Digital contra la Mujer en Política de Servel - Servicio Electoral de Chile",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOLVNDbVZjWWZucjc1cF9FLVo5anJLWnNTVEpJSE03YXg3RUVNY09qdFgxQ3B2Y2RYdVFfV1NNMHNQdW96bUstZGNHMS16TTVjNzVoMkJocFY5Rjd4ZElKMTktc05NSjNwYWVmbUhpQjB1UC1QcU5sNUU1RU56cEc0MzFscmlRakZHRHRMMmVHNjdQQ3ZQQThlYTF1SmZhUFplYnRSNnNkVW9IQkFaNkdMTkQxZjRFNEpKNWF3M3JqUHJpSlBSZXZQTFNxTUpiOVFzVndaczdJNHpwblZmRnc?oc=5",
-      "fuente": "Servicio Electoral (Servel, vía Google News)",
-      "region": "Nacional",
-      "resumen": "España oficializa su apoyo al Observatorio de Violencia Digital contra la Mujer en Política de Servel&nbsp;&nbsp;Servicio Electoral de Chile",
-      "categorias": [
-        "Servicio Electoral"
-      ],
-      "fecha": "2026-11-24T22:39:59+00:00"
     }
   ]
 }
