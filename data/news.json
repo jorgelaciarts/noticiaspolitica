@@ -1,7 +1,18 @@
 {
-  "actualizado": "2026-11-28T00:16:34.629993+00:00",
+  "actualizado": "2026-11-28T00:31:34.783380+00:00",
   "total": 500,
   "items": [
+    {
+      "titulo": "“Sin listas negras ni vetos”: Sanhueza apuesta por recuperar la identidad de la UDI",
+      "link": "https://ladiscusion.cl/sin-listas-negras-ni-vetos-sanhueza-apuesta-por-recuperar-la-identidad-de-la-udi/",
+      "fuente": "La Discusión (Chillán)",
+      "region": "Ñuble",
+      "resumen": "La UDI se encamina hacia a una elección interna que pondrá a prueba sus equilibrios políticos y territoriales. Después de seis años sin una competencia entre listas por la conducción nacional, dos candidaturas se enfrentarán en enero de 2027, en un proceso que también tendrá repercusiones en las estructuras regionales. En una de las veredas [&#8230;]",
+      "categorias": [
+        "Partidos políticos"
+      ],
+      "fecha": "2026-11-28T00:19:20+00:00"
+    },
     {
       "titulo": "Centros de datos: Lo que calla el diputado Karlezi cuando ‘interpela’ al alcalde Toledo",
       "link": "https://www.elciudadano.com/chile/centros-de-datos-lo-que-calla-el-diputado-karlezi-cuando-interpela-al-alcalde-toledo/11/27/",
@@ -37,6 +48,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-27T23:10:26+00:00"
+    },
+    {
+      "titulo": "“Hay que fijarse metas altas”: Kast mantiene objetivo de reducir el desempleo al 6,5% en 2030 tras alza al 10% - La Tercera",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOM0prb3ppT09KMk9KcW5nb0ZPM2NOUFhaOFpSb3d1bEdtalAyWmc0QTVSQ2pfYjIxbU1Ob3ZvczJfQ0lNWkE3SWtNTUlBOGxwVk9oSnVKWVQtOVIzbnJ4czU0eHgyWFdxczZYV3AzRzRQdzc3TDZMbHY2SnpNclhpdFotd1ZNbmxPN1oyWlFxY1RGd3ZDR1BXejRBSi0tUF9jVWV0QVdkM0ptSTg1ZWtCMXpkTHFUNDlCUHdsVVVmWXhwbzV2VHg5di1RSWpfRVp6MmQ2VGtsaTVnS0Z5azNyZF9B?oc=5",
+      "fuente": "La Tercera (vía Google News)",
+      "region": "Nacional",
+      "resumen": "“Hay que fijarse metas altas”: Kast mantiene objetivo de reducir el desempleo al 6,5% en 2030 tras alza al 10%&nbsp;&nbsp;La Tercera",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-27T23:09:49+00:00"
     },
     {
       "titulo": "Luz verde de comisión, llamado contra artimañas y Zandra Parisi internada marcan antesala de AC contra Rabat - El Desconcierto",
@@ -5613,28 +5635,6 @@
         "Senadores"
       ],
       "fecha": "2026-11-24T19:48:03+00:00"
-    },
-    {
-      "titulo": "Bassa admitió que ligar rebaja de condenas con red de pedofilia internacional fue un disparate",
-      "link": "https://www.cooperativa.cl/noticias/pais/politica/camara-baja/bassa-admitio-que-ligar-rebaja-de-condenas-con-red-de-pedofilia/2026-11-24/164748.html",
-      "fuente": "Cooperativa - País",
-      "region": "Nacional",
-      "resumen": "El diputado frenteamplista Jaime Bassa reculó en sus dichos sobre una presunta \"red de pedofilia internacional\" vinculada a la cuestionada rebaja de condenas a violadores de menores de edad por parte del Ministerio de Justicia, y afirmó que se \"explicó mal\".\n\"Ésta es la forma en la que operan los amigos de Paul Schäfer, los amigos de Epstein, los amigos de Milei. Esto no es un error. Esta es una m",
-      "categorias": [
-        "Diputados"
-      ],
-      "fecha": "2026-11-24T19:47:48+00:00"
-    },
-    {
-      "titulo": "Caso Firmas: senadores PPD exige disculpas de Castro y que reconsidere su rol en comité del socialismo democrático - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3VTeWhoZmVnM3ZNcEJoRF9KTl9pdThQa2ZQMS11Q2VzUHVaajFoSUtfRjdGbFlFaEhtOFptX3hzMmNnRVlaRl9yZVNnUENSRGNqNi1RVFFsMHljQVpCRlRRbTMtTE9pQjlaNG1Tam9FdUdvS0UzWkE3SUVTTGV6UmY1UlFldmVWRTJ6dE9yWjlscjdsczFoS2l4bmhSSExydThTTjN6NV9ibGo2S0ktV0lfREJxV0hoN1BQMTV4TUVJckRXbE53c0NoNlhER1FZ?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Caso Firmas: senadores PPD exige disculpas de Castro y que reconsidere su rol en comité del socialismo democrático&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-24T19:45:00+00:00"
     }
   ]
 }
