@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T09:31:12.854946+00:00",
+  "actualizado": "2026-11-28T09:46:35.806784+00:00",
   "total": 500,
   "items": [
     {
@@ -1488,6 +1488,18 @@
         "Diputados"
       ],
       "fecha": "2026-11-27T11:33:19+00:00"
+    },
+    {
+      "titulo": "De no basta una AC contra Rabat a un certificado cuestionado: la polémica de Zandra Parisi que complica al PDG - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMEpBYV9VQ2JpODVHNTBrNlRxQUpxWUpBM3R5eUczV1Z6ZUhhZmNTMGIyMGZ5aWpTZVc0dHdOeVoyUHczbDIzVHdpcGtvY3NEalJPUW9SZkg5azdaVDNvMTdPN2MycXREOW1VOWpvY29iNmlVSExEd21yeXp5cGhMSE5sXzNEamtPZEZkcG9hMllZWE1peU01X2tNZllJTjVIWGZFLUtONFV6ODF2YXhOTFhxcU05cnJLRlVNc0h4OEYyYjlaLWlzNVlaTUM3NUhRYlZxakV4OUxsdWdtb3h0eUxld18?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "De no basta una AC contra Rabat a un certificado cuestionado: la polémica de Zandra Parisi que complica al PDG&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-27T11:19:00+00:00"
     },
     {
       "titulo": "Concejo posterga votación del Plan de Salud 2027 tras  críticas por errores, cifras que no cuadran y anexos ausentes",
@@ -5623,17 +5635,6 @@
         "Diputados"
       ],
       "fecha": "2026-11-24T21:47:42+00:00"
-    },
-    {
-      "titulo": "Retiran seis vehículos abandonados en distintos puntos de Chillán",
-      "link": "https://ladiscusion.cl/retiran-seis-vehiculos-abandonados-en-distintos-puntos-de-chillan/",
-      "fuente": "La Discusión (Chillán)",
-      "region": "Ñuble",
-      "resumen": "La Municipalidad de Chillán retiró seis vehículos abandonados desde diversos puntos de la ciudad, en un operativo encabezado por el alcalde Camilo Benavente Jiménez y el director de Seguridad, Lautaro Arias Berroca y personal de carabineros. Los automóviles en abandono no solo ocupan calles, pasajes y veredas que pertenecen a todos, sino que, además, en [&#8230;]",
-      "categorias": [
-        "Alcaldes"
-      ],
-      "fecha": "2026-11-24T21:44:22+00:00"
     }
   ]
 }
