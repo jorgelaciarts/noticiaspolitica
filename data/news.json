@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T08:16:29.587330+00:00",
+  "actualizado": "2026-11-28T08:31:30.305740+00:00",
   "total": 500,
   "items": [
     {
@@ -1207,6 +1207,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-27T12:50:09+00:00"
+    },
+    {
+      "titulo": "Desempleo llega a 10% durante gobierno de Kast y 35 mil personas han perdido su trabajo en el último año en Chile - El Desconcierto",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWDBxZnYyQkJVNUZQbUNlZ2hWWGFYWi0tTFNnWDg0blgtUlM5VW5YdVZyNjdvaEJ6aDA4azRXQlNlSUxsczJ6QllGYXFILU1wYzhUdWctZVZPTGthNk5JZjZoa3dUb04yX3g4T3lNeWtrODNXblVkcjdEd0h3aHVORDhGd2FzamdHcjhhNk50RU9UTDl6b3B6cmp2RmZ1V0JucjhRZ1ZjajJiQUQyUDBPSmduOWlVbzZ1b216VTNURkpqNUo0MDY2YzQ3UXRxNFoxYXhwQmln?oc=5",
+      "fuente": "El Desconcierto (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Desempleo llega a 10% durante gobierno de Kast y 35 mil personas han perdido su trabajo en el último año en Chile&nbsp;&nbsp;El Desconcierto",
+      "categorias": [
+        "Presidente"
+      ],
+      "fecha": "2026-11-27T12:50:00+00:00"
     },
     {
       "titulo": "Kast llama a los empresarios a invertir en Chile: “Lo mejor de Chile no quedó atrás. Lo mejor de Chile está por delante” - El Nortero",
@@ -5623,17 +5634,6 @@
         "Presidente"
       ],
       "fecha": "2026-11-24T21:29:42+00:00"
-    },
-    {
-      "titulo": "En exclusiva fiscal del caso Firmas: habla de catálogos de posibles delitos e imputaciones a senadores - 24horas",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR2dDUTZkel8xTkh5dFhfb1B0RmF5TS13cmtQYk9DbF9oeDMxbEU4MXc5VEhEVHNtRVdBb3dGbFZFbFNnWTl0b2lXLXFlTm1VSm5FcGN3Tnp3U3B4alJUWXhPUVg2T043NXI3S0diSGR5dFFjLVNWSTlyRm5Id1owZ1FxWEFVUkI5b1JNX1loSHNqLUhjT1EzbVY0WFUxWktqMl9sb3pUNFd0RXJkdEJrcjNObDdDaU0tU3RQT3g5OEJTNnZJbkHSAcsBQVVfeXFMUGl0STJJaEx5V2dtWGZaZHFReGdMUkpPMVhybEEzQjM2RjhzeERoX1Y3SWlZY2EyMk01dUJKanJNUFNyTlhtVmhxSUpCU2k2enNleXlyWUNBU0Q1M2NuMi1UYVNWQWZPTUJYS3V6bGlDRG5tTUFBUXhQdnpIbmFXbTZlNlE0NWNkbnQ4aFpJMXBZaEpTbEpxU1BsOTc4T29reFFoa2JZS2F0S3VzSUJ4NndvcDlWeDQydy0xeU14WFU0N0R6Vm4yVDg2clk?oc=5",
-      "fuente": "24Horas (vía Google News)",
-      "region": "Nacional",
-      "resumen": "En exclusiva fiscal del caso Firmas: habla de catálogos de posibles delitos e imputaciones a senadores&nbsp;&nbsp;24horas",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-24T21:25:00+00:00"
     }
   ]
 }
