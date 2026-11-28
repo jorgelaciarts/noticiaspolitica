@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-28T12:16:36.177594+00:00",
+  "actualizado": "2026-11-28T12:31:19.713920+00:00",
   "total": 500,
   "items": [
     {
@@ -23,6 +23,18 @@
         "Presidente"
       ],
       "fecha": "2026-11-28T11:59:28+00:00"
+    },
+    {
+      "titulo": "Diputado PDG ve en la AC contra Rabat la chance de mostrar \"que somos distintos a la política tradicional\"",
+      "link": "https://www.cooperativa.cl/noticias/pais/politica/pdg/diputado-pdg-ve-en-la-ac-contra-rabat-la-chance-de-mostrar-que-somos/2026-11-28/084805.html",
+      "fuente": "Cooperativa - País",
+      "region": "Nacional",
+      "resumen": "El diputado PDG Fabián Ossandón abordó en Cooperativa la votación que la Sala de la Cámara Baja realizará el lunes para aprobar o rechazar la acusación constitucional contra el ministro de Justicia, Fernando Rabat; instancia que ve como \"el momento de demostrar\" que el partido \"es distinto a la política tradicional\".\n\"Somos la tienda que llegó a diferenciarse de las disputas políticas de izquierda",
+      "categorias": [
+        "Partidos políticos",
+        "Diputados"
+      ],
+      "fecha": "2026-11-28T11:48:05+00:00"
     },
     {
       "titulo": "Dirigentes vecinales solicitan instalar cámaras  de seguridad en sectores periurbanos",
@@ -701,6 +713,17 @@
         "Diputados"
       ],
       "fecha": "2026-11-27T18:12:00+00:00"
+    },
+    {
+      "titulo": "Fiscalía busca esclarecer caso de Zandra Parisi: Investigan presunta falsificación de documento médico - Meganoticias",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeVFKcHZNYXMtTHhkek84WUJlMWJwb0lGSTlubnM4cXRWdHh1Ri1xWW1KaU4ta2p5ZGYzQ0s4UWZNcHRZZE9iclg5Sm1aZVlEZnQwV1dGdUNidVNKdmk5aUFQTmpDcU15UUlqYmdoNTBvLXFOSW5aZzB0cFJOaUlibWFSdW5XYnMwUzNoMlBjZUczQzBjV2VGX19SRi1qU3NibEdhR3F0a1NldFhaT2RoWGJkUkw4SWxDcS1HcENvaHhvWkVXaHBRdkE1Zmlqd09jalBWOE1QNFFGN0ZOZjUzOGk4cWVLc3d1U0hV0gHwAUFVX3lxTFBIRXNwWjJwLUFCRVh2WXJQVmd3SmVxd3ZfX3NwTS1IVGxpaEU4ckJKMUFDOEsxeDBNb3pDVDI5NHgtWGR4TnNLSm9PNW5tN1ZXcjZkX1dQVGhxWWtteGxkRWJndWdjb2YzbnVuYklNekFrQURWRTQ0amdMSlhBSE92bGFxWjE0aWtfUXJNV0NxbTZMRXRJT0lBY2syNmR2bklFQ2NMd1dwWnlSQ1hGeTAxaHMxc3pwMV80dXBqYW1TRUpEYk9TQUtRUVFONUpfbldOY1huMzJJNDAyWkd3RXV5OWZ0QTRlTWltRUNoSTJUZQ?oc=5",
+      "fuente": "Meganoticias (vía Google News)",
+      "region": "Nacional",
+      "resumen": "Fiscalía busca esclarecer caso de Zandra Parisi: Investigan presunta falsificación de documento médico&nbsp;&nbsp;Meganoticias",
+      "categorias": [
+        "Diputados"
+      ],
+      "fecha": "2026-11-27T18:07:00+00:00"
     },
     {
       "titulo": "Presidenta del PDG acusa que odontólogo de Zandra Parisi \"la dejó plantada\" cuando acudió por dolores - BioBioChile",
@@ -5615,28 +5638,6 @@
         "Servicio Electoral"
       ],
       "fecha": "2026-11-24T22:39:59+00:00"
-    },
-    {
-      "titulo": "Senador Juan Luis Castro publica declaración de disculpas dirigida a Ximena Órdenes tras exigencia de bancada PPD - ADN Radio",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNS1hqZ2FlXzEyZ2x4UzhMUm1ZNzROQ240bHNlUmhGYTBzU2RYWk9YRGVuR0dIU0FPRWdXbThSWG45R1lWMVZVOU9nZ2l1eENxMmtweGJNUFdKQ1NHTFh5QkZiNnRFQ0stQks1ajdRSFBDMXhoWmVhYzJScVFkNG0ySXp0MjM0aURrRTdLdExGb0dwNzNYdzcyRlRBLWRObmFoaU05TkphN1BIVjBMSWZLWmhGVkxLMWg3dHNub215STViT2RERzh5Um5KQTBGQWxsUTZTWWpHdVhhdW9CWWxWX1hVWdIB9wFBVV95cUxQZU1SSi1ZVFk4RWJnN1hhTDlXaUEzZUtJQVp3TVJRWEVhdmk5Vnk5SFIzYVlYb19EYzlieV9xSlIzWUVGRlBOQzRaLWFSZmRDZUwyRXE2d1EtZXltcGdsMUhMbmtWblNlTnpVZHVwbTdnNEdpcVotYU5IXzY3dlpwdVJ4SDh1MzBIWnB2ZEpMMS1WLWFCWVpCbG0wRXc1YWp6WHhIMkg1SGNocndrdmtYYURXZFZ6M2pHbEtGbDNhckJmclJBdmtnR1p6SVVpa0Zfck1GZGluUzhZbjBiQlMyY3VGeFBxdmdTSERoczRReldvUVB4b2pJ?oc=5",
-      "fuente": "ADN Radio (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Senador Juan Luis Castro publica declaración de disculpas dirigida a Ximena Órdenes tras exigencia de bancada PPD&nbsp;&nbsp;ADN Radio",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-24T22:34:38+00:00"
-    },
-    {
-      "titulo": "Caso Firmas: Juan Luis Castro ofrece disculpas públicas a Ximena Órdenes en medio de presiones desde el PPD para que deje jefatura del comité - La Tercera",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUXpnZWpwUmxUZGsydFBHU3dSZk9ZZEdJdEtvSUxMdnhTMEdUVVZsYTNYck9ZTDMtTHVxWDZSUDZjQktQYkxPZmlNTFZtZUtyZDN5Qzh5MDhXbkFjbVBkSVM1bjVFZXhtcHhKRkZkVFZpTV9IM2FLZGQ5ZVkwSkVQRHA5Vm5weWlvUVo2TjFIZXpkR3dvYWNRclpKYnM2SjRwb3FxVFFnd0c5WWNtb3VkUlRKRWdSVTg1c2licnoySTd6c3dGYS1uVmxZWGg5ZFk5d3p5UzdDWjNHX0g4TGVsYUlHNk03U1JPYWlVNE41RExpWkNmWDViZEFRUEItTnho0gGiAkFVX3lxTFBLR0E4RlN2dGtnWFhmY0h1elZOOFE5Q0FkMmFrVnRGOW80OVd6N0l2aGljWEs3dnNJMnIyWmhrWHBsLXctTTI2QzhKVkxqeFNvNW1YcS1fTHpTVUxhNDR6S2NnZ1JtN1Y5MEUtM0NvMWxfV3duQzhxYWZkNlJzbVRlal9hNWJUWW45TzJjaEFQSTF3cTEwUUY0SmEyX2U4LXE5SXRuaWFFdTNGN1hqek1Idmt1aDVNTWZTbW1seWNZS3p3QkJ1MUJJVktiV2Y2eFRsaGZRTVQ4TGZvQ05tZUw0YlU0dDZEX2lORU9WSVI2WU1lTzlNdkRHNFVWeEM5d0RrVTBWb253ZWRlWWdIaTR2Znk1bk1fTUVndld3RGlEMUh3?oc=5",
-      "fuente": "La Tercera (vía Google News)",
-      "region": "Nacional",
-      "resumen": "Caso Firmas: Juan Luis Castro ofrece disculpas públicas a Ximena Órdenes en medio de presiones desde el PPD para que deje jefatura del comité&nbsp;&nbsp;La Tercera",
-      "categorias": [
-        "Senadores"
-      ],
-      "fecha": "2026-11-24T22:16:12+00:00"
     }
   ]
 }
